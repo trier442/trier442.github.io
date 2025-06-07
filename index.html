@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>우주-지구-생명 개념 지도</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" rel="stylesheet">
+    <!-- Chosen Palette: Deep Space (Dark Blue, Slate Gray, Gold, Cyan) -->
+    <!-- Application Structure Plan: A node-based concept map layout. A main central topic node will branch out to three primary concept nodes (Elements, Earth, Life). Each primary node is a clickable element that reveals two sub-nodes: 'Textbook' and 'Cosmos'. The 'Cosmos' node itself contains multiple, more detailed sub-nodes, creating a richer hierarchy. This structure visually represents a mind map, allowing users to explore one topic at a time. Decorative lines connect the nodes to reinforce the map-like structure. -->
+    <!-- Visualization & Content Choices: Report Info: Knowledge Hierarchy -> Goal: Organize/Inform -> Viz: Interactive HTML/CSS Node-based Map. -> Interaction: Click on nodes to toggle the visibility of sub-nodes and detailed text. -> Justification: This directly addresses the user's request for a "mind map" feel and rich content, promoting a non-linear, exploratory user journey. --- CONFIRMATION: NO SVG graphics used. NO Mermaid JS used. -->
+    <style>
+        html { scroll-behavior: smooth; }
+        body {
+            font-family: 'Noto Sans KR', sans-serif;
+            background-color: #0f172a; /* slate-900 */
+            color: #e2e8f0; /* slate-200 */
+        }
+        .node {
+            background-color: #1e293b; /* slate-800 */
+            border: 1px solid #334155; /* slate-700 */
+            border-radius: 0.75rem;
+            padding: 1.25rem;
+            box-shadow: 0 4px 6px -1px rgba(0,0,0,0.4), 0 2px 4px -1px rgba(0,0,0,0.2);
+            transition: all 0.3s ease-in-out;
+            cursor: pointer;
+        }
+        .node:hover {
+            transform: translateY(-4px) scale(1.02);
+            border-color: #38bdf8; /* sky-400 */
+        }
+        .node.main-topic {
+            background: linear-gradient(145deg, #38bdf8, #7c3aed);
+            color: white;
+            border: none;
+            padding: 1.5rem;
+        }
+        .sub-node-container {
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.8s ease-in-out;
+        }
+        .sub-node-container.expanded {
+            max-height: 1500px; /* Increased for more content */
+        }
+        .connector-line-vertical {
+            width: 3px;
+            background-image: linear-gradient(to bottom, #475569, #334155);
+            margin: 0 auto;
+        }
+        .connector-line-horizontal {
+            height: 3px;
+            background-color: #475569;
+        }
+        .details { display: none; margin-top: 1rem; padding: 1.25rem; background-color: #334155; border-radius: 0.5rem; text-align: left; }
+        .node-icon { font-size: 2.5rem; color: #facc15; /* yellow-400 */ margin-bottom: 0.75rem; }
+        .cosmos-sub-node { border-left: 3px solid #7c3aed; }
+    </style>
+</head>
+<body class="antialiased">
+    <div class="container mx-auto px-4 py-16 md:py-24">
+        <header class="text-center mb-20">
+            <h1 class="text-4xl md:text-5xl font-bold text-white mb-4">우주-지구-생명 개념 지도</h1>
+            <p class="text-lg text-slate-400">통합과학의 지식에서 칼 세이건 &lt;코스모스&gt;의 통찰로 이어지는 지식의 확장</p>
+        </header>
+
+        <div id="concept-map" class="space-y-12">
+            <!-- Topic 1: 물질과 규칙성 -->
+            <div class="topic-section">
+                <div class="flex justify-center">
+                    <div id="topic1" class="node main-topic w-full md:w-2/3 lg:w-1/2 text-center">
+                        <div class="node-icon"><i class="fas fa-atom"></i></div>
+                        <h2 class="text-3xl font-bold">II. 물질과 규칙성</h2>
+                        <p class="text-lg mt-1">우리는 어디에서 왔는가?</p>
+                    </div>
+                </div>
+                <div class="flex justify-center h-12"><div class="connector-line-vertical h-full"></div></div>
+                <div id="sub-topic1" class="sub-node-container">
+                    <div class="flex justify-center relative"><div class="connector-line-horizontal absolute top-1/2 w-full max-w-4xl"></div></div>
+                    <div class="grid md:grid-cols-2 gap-x-8 gap-y-8 relative z-10">
+                        <div id="node1-1" class="node text-center">
+                            <h3 class="text-xl font-bold text-sky-400 mb-2">통합과학: 원소와 물질의 생성</h3>
+                            <div class="details space-y-2">
+                                <p><b>· 스펙트럼 분석:</b> 천체의 빛을 분석하여 구성 원소를 알아냅니다.</p>
+                                <p><b>· 우주 초기 원소:</b> 빅뱅 직후 수소와 헬륨이 생성되었습니다.</p>
+                                <p><b>· 별의 진화와 원소:</b> 별의 핵융합과 초신성 폭발을 통해 철을 포함한 무거운 원소들이 만들어졌습니다.</p>
+                                <p><b>· 화학 결합:</b> 원소들이 주기성을 바탕으로 이온 및 공유 결합을 통해 규산염 광물, 단백질, 핵산 등 지각과 생명체를 구성하는 다양한 물질을 형성합니다.</p>
+                            </div>
+                        </div>
+                        <div id="node1-2" class="node text-center">
+                            <h3 class="text-xl font-bold text-violet-400 mb-2">&lt;코스모스&gt;: 우주적 기원과 질서</h3>
+                            <div class="details space-y-4">
+                                <div class="cosmos-sub-node p-3 rounded-md bg-slate-900/50">
+                                    <h4 class="font-bold">과학적 탐구 방법: 스펙트럼 (7장)</h4>
+                                    <p class="text-sm text-slate-300">스펙트럼 분석이 어떻게 우주의 비밀을 푸는 열쇠가 되는지 보여줍니다. 허블이 은하의 적색편이를 관측하여 우주 팽창을 발견한 예시는, 교과서의 스펙트럼 원리가 우주론의 근간을 이루는 핵심 도구임을 생생하게 설명합니다.</p>
+                                </div>
+                                <div class="cosmos-sub-node p-3 rounded-md bg-slate-900/50">
+                                    <h4 class="font-bold">우리는 별의 자녀 (9장, 10장)</h4>
+                                    <p class="text-sm text-slate-300">"우리는 별의 먼지로 만들어졌다"는 명제를 통해, 우리 몸을 구성하는 원자들이 별의 핵융합과 초신성 폭발의 산물임을 감동적으로 서술합니다. 이는 교과서의 원소 생성 과정을 나의 존재와 연결하는 우주적 기원의 서사입니다.</p>
+                                </div>
+                                 <div class="cosmos-sub-node p-3 rounded-md bg-slate-900/50">
+                                    <h4 class="font-bold">보편적 법칙과 우주적 질서</h4>
+                                    <p class="text-sm text-slate-300">이오니아의 과학 정신을 계승하여, 우주가 이해 가능한 질서(코스모스)의 세계임을 강조합니다. 주기율표의 규칙성과 화학 결합의 원리는 바로 이러한 우주적 질서의 구체적인 증거로 제시될 수 있습니다.</p>
+                                </div>
+                                <div class="cosmos-sub-node p-3 rounded-md bg-slate-900/50">
+                                    <h4 class="font-bold">생명의 물질적 기초 (2장)</h4>
+                                    <p class="text-sm text-slate-300">DNA를 모든 지구 생명체를 잇는 '생명의 언어'로, 단백질과 핵산을 생명의 핵심 물질로 묘사합니다. 이는 교과서의 단위체(아미노산, 뉴클레오타이드) 개념을 생명의 본질과 그 보편성에 대한 탐구로 심화시킵니다.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Topic 2: 시스템과 상호작용 - 지구파트 -->
+            <div class="topic-section">
+                <div class="flex justify-center">
+                    <div id="topic2" class="node main-topic w-full md:w-2/3 lg:w-1/2 text-center">
+                        <div class="node-icon"><i class="fas fa-globe-americas"></i></div>
+                        <h2 class="text-3xl font-bold">III. 시스템과 상호작용 (지구/물리)</h2>
+                        <p class="text-lg mt-1">우리가 사는 세계는 어떻게 움직이는가?</p>
+                    </div>
+                </div>
+                <div class="flex justify-center h-12"><div class="connector-line-vertical h-full"></div></div>
+                <div id="sub-topic2" class="sub-node-container">
+                    <div class="flex justify-center relative"><div class="connector-line-horizontal absolute top-1/2 w-full max-w-4xl"></div></div>
+                    <div class="grid md:grid-cols-2 gap-8 relative z-10">
+                        <div id="node2-1" class="node text-center">
+                            <h3 class="text-xl font-bold text-sky-400 mb-2">통합과학: 지구시스템과 역학</h3>
+                            <div class="details space-y-2">
+                                <p><b>· 지구시스템의 상호작용:</b> 기권, 수권, 지권, 생물권이 물질과 에너지를 교환하며 상호작용합니다.</p>
+                                <p><b>· 지권의 변화:</b> 판 구조론에 따라 판의 경계에서 지진, 화산 등 다양한 지각 변동이 일어납니다.</p>
+                                <p><b>· 역학 시스템:</b> 중력의 영향으로 나타나는 자유 낙하, 포물선 운동 등을 배우고, 운동량과 충격량의 관계를 통해 충격 완화 원리를 이해합니다.</p>
+                            </div>
+                        </div>
+                        <div id="node2-2" class="node text-center">
+                            <h3 class="text-xl font-bold text-violet-400 mb-2">&lt;코스모스&gt;: 비교 행성학과 법칙의 발견</h3>
+                            <div class="details space-y-4">
+                                <div class="cosmos-sub-node p-3 rounded-md bg-slate-900/50">
+                                    <h4 class="font-bold">비교 행성학: 천국과 지옥 (4장)</h4>
+                                    <p class="text-sm text-slate-300">금성의 폭주 온실효과와 화성의 멈춘 판 구조론을 통해 지구시스템의 균형이 얼마나 중요한지 보여줍니다. 또한 목성의 위성 이오의 화산 활동을 통해 지권의 변화가 지구만의 현상이 아님을 생생히 보여주며, 지구를 하나의 행성으로서 객관적으로 보게 합니다.</p>
+                                </div>
+                                <div class="cosmos-sub-node p-3 rounded-md bg-slate-900/50">
+                                    <h4 class="font-bold">과학 법칙의 발견사: 세계의 조화 (3장)</h4>
+                                    <p class="text-sm text-slate-300">케플러가 행성 운동 법칙을 발견하고, 뉴턴이 이를 만유인력 법칙으로 통합하는 과정을 극적으로 묘사합니다. 교과서에서 배우는 중력과 역학 법칙이 탄생하기까지의 과학자들의 고뇌와 열정, 역사적 맥락을 생생하게 전달하여 지식에 인간적 숨결을 불어넣습니다.</p>
+                                </div>
+                                <div class="cosmos-sub-node p-3 rounded-md bg-slate-900/50">
+                                    <h4 class="font-bold">시공간의 확장: 상대성 이론 (8장)</h4>
+                                    <p class="text-sm text-slate-300">단순히 뉴턴 역학을 넘어 아인슈타인의 상대성 이론을 소개하며, 우리가 경험하는 시간과 공간이 절대적인 것이 아님을 보여줍니다. 이는 교과서의 역학 시스템을 더 근본적인 차원에서 이해하게 하고, 우주를 보는 관점을 확장시킵니다.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Topic 3: 시스템과 상호작용 - 생명파트 -->
+            <div class="topic-section">
+                <div class="flex justify-center">
+                    <div id="topic3" class="node main-topic w-full md:w-2/3 lg:w-1/2 text-center">
+                        <div class="node-icon"><i class="fas fa-dna"></i></div>
+                        <h2 class="text-3xl font-bold">III. 시스템과 상호작용 (생명)</h2>
+                        <p class="text-lg mt-1">생명의 정보는 어떻게 흐르는가?</p>
+                    </div>
+                </div>
+                <div class="flex justify-center h-12"><div class="connector-line-vertical h-full"></div></div>
+                <div id="sub-topic3" class="sub-node-container">
+                    <div class="flex justify-center relative"><div class="connector-line-horizontal absolute top-1/2 w-full max-w-4xl"></div></div>
+                    <div class="grid md:grid-cols-2 gap-8 relative z-10">
+                        <div id="node3-1" class="node text-center">
+                            <h3 class="text-xl font-bold text-sky-400 mb-2">통합과학: 생명 시스템의 작동 원리</h3>
+                             <div class="details">
+                                <p><b>· 세포:</b> 생명 시스템의 기본 단위인 세포의 구조와 기능을 배웁니다.</p>
+                                <p><b>· 물질대사:</b> 생명 유지를 위한 화학 반응에서 효소의 중요성과 특성을 학습합니다.</p>
+                                <p><b>· 정보의 흐름:</b> 유전자인 DNA로부터 단백질이 합성되는 중심 원리(전사, 번역)와 돌연변이의 영향을 이해합니다.</p>
+                            </div>
+                        </div>
+                        <div id="node3-2" class="node text-center">
+                            <h3 class="text-xl font-bold text-violet-400 mb-2">&lt;코스모스&gt;: 생명의 보편성과 진화</h3>
+                            <div class="details space-y-4">
+                                 <div class="cosmos-sub-node p-3 rounded-md bg-slate-900/50">
+                                    <h4 class="font-bold">우주 생명의 푸가 (2장)</h4>
+                                    <p class="text-sm text-slate-300">지구 생명체의 공통된 생화학적 특징(DNA, 단백질)과 진화의 원리를 설명합니다. 헤이케 게 이야기를 통해 인공선택의 원리를, 상상 속 외계 생명체를 통해 생명 현상의 다양성과 보편적 원리를 함께 탐구하게 함으로써 교과서의 세포 단위를 우주적 맥락으로 확장합니다.</p>
+                                </div>
+                                <div class="cosmos-sub-node p-3 rounded-md bg-slate-900/50">
+                                    <h4 class="font-bold">기억의 영속성 (11장)</h4>
+                                    <p class="text-sm text-slate-300">유전 정보가 담긴 DNA(유전자)와 경험과 학습의 산물인 뇌의 정보(기억)를 비교합니다. 이를 통해 정보가 어떻게 생명과 문명의 핵심 동력인지를 설명하고, 뇌의 진화 과정을 '삼위일체 뇌'라는 개념으로 소개하며 생명 시스템의 정보 처리 과정을 심도 있게 조명합니다.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <footer class="text-center py-10 mt-20 border-t border-slate-800">
+            <p class="text-slate-400">중심 주제를 클릭하여 개념 지도를 펼쳐보세요. 각 노드를 클릭하면 상세 내용이 나타납니다.</p>
+        </footer>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const topicSections = document.querySelectorAll('.topic-section');
+
+            topicSections.forEach(section => {
+                const mainTopic = section.querySelector('.main-topic');
+                const subTopicContainer = section.querySelector('.sub-node-container');
+
+                mainTopic.addEventListener('click', () => {
+                    const isExpanded = subTopicContainer.classList.contains('expanded');
+                    
+                    document.querySelectorAll('.sub-node-container').forEach(c => c.classList.remove('expanded'));
+                    document.querySelectorAll('.details').forEach(d => d.style.display = 'none');
+                    
+                    if (!isExpanded) {
+                        subTopicContainer.classList.add('expanded');
+                        setTimeout(() => {
+                            mainTopic.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                        }, 400);
+                    }
+                });
+
+                const subNodes = subTopicContainer.querySelectorAll('.node:not(.main-topic)');
+                subNodes.forEach(subNode => {
+                    const details = subNode.querySelector('.details');
+                    if(details) {
+                        subNode.addEventListener('click', (e) => {
+                            e.stopPropagation();
+                            const isVisible = details.style.display === 'block';
+                            
+                            const parentSubContainer = subNode.closest('.sub-node-container');
+                            parentSubContainer.querySelectorAll('.details').forEach(d => {
+                                d.style.display = 'none';
+                            });
+                            
+                            if (!isVisible) {
+                                details.style.display = 'block';
+                            }
+                        });
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+</html>
