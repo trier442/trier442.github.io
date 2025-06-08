@@ -9,9 +9,6 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&display=swap" rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" rel="stylesheet">
-    <!-- Chosen Palette: Deep Space (Dark Blue, Slate Gray, Gold, Cyan) -->
-    <!-- Application Structure Plan: A node-based concept map layout. A main central topic node will branch out to three primary concept nodes (Elements, Earth, Life). Each primary node is a clickable element that reveals two sub-nodes: 'Textbook' and 'Cosmos'. The 'Cosmos' node itself contains multiple, more detailed sub-nodes, creating a richer hierarchy. This structure visually represents a mind map, allowing users to explore one topic at a time. Decorative lines connect the nodes to reinforce the map-like structure. -->
-    <!-- Visualization & Content Choices: Report Info: Knowledge Hierarchy -> Goal: Organize/Inform -> Viz: Interactive HTML/CSS Node-based Map. -> Interaction: Click on nodes to toggle the visibility of sub-nodes and detailed text. -> Justification: This directly addresses the user's request for a "mind map" feel and rich content, promoting a non-linear, exploratory user journey. --- CONFIRMATION: NO SVG graphics used. NO Mermaid JS used. -->
     <style>
         html { scroll-behavior: smooth; }
         body {
@@ -44,7 +41,7 @@
             transition: max-height 0.8s ease-in-out;
         }
         .sub-node-container.expanded {
-            max-height: 1500px; /* Increased for more content */
+            max-height: 1500px;
         }
         .connector-line-vertical {
             width: 3px;
@@ -101,21 +98,13 @@
                                     <h4 class="font-bold">우리는 별의 자녀 (9장, 10장)</h4>
                                     <p class="text-sm text-slate-300">"우리는 별의 먼지로 만들어졌다"는 명제를 통해, 우리 몸을 구성하는 원자들이 별의 핵융합과 초신성 폭발의 산물임을 감동적으로 서술합니다. 이는 교과서의 원소 생성 과정을 나의 존재와 연결하는 우주적 기원의 서사입니다.</p>
                                 </div>
-                                 <div class="cosmos-sub-node p-3 rounded-md bg-slate-900/50">
-                                    <h4 class="font-bold">보편적 법칙과 우주적 질서</h4>
-                                    <p class="text-sm text-slate-300">이오니아의 과학 정신을 계승하여, 우주가 이해 가능한 질서(코스모스)의 세계임을 강조합니다. 주기율표의 규칙성과 화학 결합의 원리는 바로 이러한 우주적 질서의 구체적인 증거로 제시될 수 있습니다.</p>
-                                </div>
-                                <div class="cosmos-sub-node p-3 rounded-md bg-slate-900/50">
-                                    <h4 class="font-bold">생명의 물질적 기초 (2장)</h4>
-                                    <p class="text-sm text-slate-300">DNA를 모든 지구 생명체를 잇는 '생명의 언어'로, 단백질과 핵산을 생명의 핵심 물질로 묘사합니다. 이는 교과서의 단위체(아미노산, 뉴클레오타이드) 개념을 생명의 본질과 그 보편성에 대한 탐구로 심화시킵니다.</p>
-                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
 
-            <!-- Topic 2: 시스템과 상호작용 - 지구파트 -->
+            <!-- Topic 2: 시스템과 상호작용 - 지구/물리 -->
             <div class="topic-section">
                 <div class="flex justify-center">
                     <div id="topic2" class="node main-topic w-full md:w-2/3 lg:w-1/2 text-center">
@@ -133,7 +122,7 @@
                             <div class="details space-y-2">
                                 <p><b>· 지구시스템의 상호작용:</b> 기권, 수권, 지권, 생물권이 물질과 에너지를 교환하며 상호작용합니다.</p>
                                 <p><b>· 지권의 변화:</b> 판 구조론에 따라 판의 경계에서 지진, 화산 등 다양한 지각 변동이 일어납니다.</p>
-                                <p><b>· 역학 시스템:</b> 중력의 영향으로 나타나는 자유 낙하, 포물선 운동 등을 배우고, 운동량과 충격량의 관계를 통해 충격 완화 원리를 이해합니다.</p>
+                                <p><b>· 역학 시스템:</b> 중력에 의한 운동과 운동량-충격량 관계를 통해 충격 완화 원리를 이해합니다.</p>
                             </div>
                         </div>
                         <div id="node2-2" class="node text-center">
@@ -141,15 +130,11 @@
                             <div class="details space-y-4">
                                 <div class="cosmos-sub-node p-3 rounded-md bg-slate-900/50">
                                     <h4 class="font-bold">비교 행성학: 천국과 지옥 (4장)</h4>
-                                    <p class="text-sm text-slate-300">금성의 폭주 온실효과와 화성의 멈춘 판 구조론을 통해 지구시스템의 균형이 얼마나 중요한지 보여줍니다. 또한 목성의 위성 이오의 화산 활동을 통해 지권의 변화가 지구만의 현상이 아님을 생생히 보여주며, 지구를 하나의 행성으로서 객관적으로 보게 합니다.</p>
+                                    <p class="text-sm text-slate-300">금성의 온실효과와 화성의 멈춘 판 구조론을 통해 지구시스템의 균형이 얼마나 중요한지 보여줍니다. 또한 목성의 위성 이오의 화산 활동을 통해 지권의 변화가 지구만의 현상이 아님을 생생히 보여주며, 지구를 하나의 행성으로서 객관적으로 보게 합니다.</p>
                                 </div>
                                 <div class="cosmos-sub-node p-3 rounded-md bg-slate-900/50">
                                     <h4 class="font-bold">과학 법칙의 발견사: 세계의 조화 (3장)</h4>
                                     <p class="text-sm text-slate-300">케플러가 행성 운동 법칙을 발견하고, 뉴턴이 이를 만유인력 법칙으로 통합하는 과정을 극적으로 묘사합니다. 교과서에서 배우는 중력과 역학 법칙이 탄생하기까지의 과학자들의 고뇌와 열정, 역사적 맥락을 생생하게 전달하여 지식에 인간적 숨결을 불어넣습니다.</p>
-                                </div>
-                                <div class="cosmos-sub-node p-3 rounded-md bg-slate-900/50">
-                                    <h4 class="font-bold">시공간의 확장: 상대성 이론 (8장)</h4>
-                                    <p class="text-sm text-slate-300">단순히 뉴턴 역학을 넘어 아인슈타인의 상대성 이론을 소개하며, 우리가 경험하는 시간과 공간이 절대적인 것이 아님을 보여줍니다. 이는 교과서의 역학 시스템을 더 근본적인 차원에서 이해하게 하고, 우주를 보는 관점을 확장시킵니다.</p>
                                 </div>
                             </div>
                         </div>
@@ -197,7 +182,10 @@
         </div>
 
         <footer class="text-center py-10 mt-20 border-t border-slate-800">
-            <p class="text-slate-400">중심 주제를 클릭하여 개념 지도를 펼쳐보세요. 각 노드를 클릭하면 상세 내용이 나타납니다.</p>
+            <p class="text-slate-400 mb-4">지도를 따라 개념을 탐험해 보세요. 클릭하면 더 깊은 지식이 펼쳐집니다.</p>
+            <a href="cosmos_details.html" class="inline-block bg-amber-500 text-slate-900 font-bold py-3 px-6 rounded-lg hover:bg-amber-400 transition-colors shadow-lg">
+                &lt;코스모스&gt; 심화 탐구 페이지로 이동 <i class="fas fa-arrow-right ml-2"></i>
+            </a>
         </footer>
     </div>
 
