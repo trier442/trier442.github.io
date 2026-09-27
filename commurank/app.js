@@ -5,17 +5,21 @@ const fallbackPosts = [
 
 const periodInfo = {
   realtime: {label:"실시간"},
-  daily: {label:"오늘"},
-  weekly: {label:"이번 주"},
-  monthly: {label:"이번 달"}
+  daily: {label:"일간"},
+  weekly: {label:"주간"},
+  monthly: {label:"월간"}
 };
 
 let period = "realtime";
 let category = "전체";
 let source = "전체";
 let liveData = null;
+let archiveIndex = null;
+let archiveData = null;
 
-const fmt = n => new Intl.NumberFormat("ko-KR", {notation: Number(n) > 9999 ? "compact" : "standard"}).format(Number(n) || 0);
+const fmt = n => new Intl.NumberFormat("ko-KR", {
+  notation: Number(n) > 9999 ? "compact" : "standard"
+}).format(Number(n) || 0);
 
 function safeText(value) {
   return String(value ?? "").replace(/[&<>"']/g, ch => ({
@@ -24,28 +28,52 @@ function safeText(value) {
 }
 
 function currentPosts(){
+  if (archiveData?.period === period && Array.isArray(archiveData.posts)) {
+    return archiveData.posts;
+  }
   if (!liveData?.rankings?.[period]) return fallbackPosts;
   return liveData.rankings[period];
 }
 
+function currentTopics(){
+  if (archiveData?.period === period) return archiveData.topics || [];
+  return liveData?.topics || [];
+}
+
+function currentLabel(){
+  if (archiveData?.period === period) return archiveData.label || periodInfo[period].label;
+  return periodInfo[period].label;
+}
+
 function renderSourceOptions(){
-  if (!liveData?.sources) return;
   const select = document.querySelector("#sourceFilter");
-  const names = liveData.sources.filter(s => s.ok && s.count > 0).map(s => s.source);
+  const names = new Set();
+
+  if (liveData?.sources) {
+    liveData.sources
+      .filter(s => s.ok && s.count > 0)
+      .forEach(s => names.add(s.source));
+  }
+  currentPosts().forEach(p => {
+    if (p.source && p.source !== "커뮤랭크") names.add(p.source);
+  });
+
+  const ordered = [...names].sort((a,b)=>a.localeCompare(b,"ko"));
   select.innerHTML = '<option value="전체">전체 커뮤니티</option>' +
-    names.map(name => `<option value="${safeText(name)}">${safeText(name)}</option>`).join("");
-  if (!names.includes(source)) source = "전체";
+    ordered.map(name => `<option value="${safeText(name)}">${safeText(name)}</option>`).join("");
+
+  if (source !== "전체" && !ordered.includes(source)) source = "전체";
   select.value = source;
 }
 
 function renderTopics(){
-  const topics = liveData?.topics || [];
+  const topics = currentTopics();
   const container = document.querySelector("#topicList");
   const badge = document.querySelector("#topicCount");
   badge.textContent = topics.length ? topics.length + "건" : "0건";
 
   if (!topics.length) {
-    container.innerHTML = '<div class="empty">아직 여러 커뮤니티에서 동시에 잡힌 이슈가 없습니다.</div>';
+    container.innerHTML = '<div class="empty">여러 커뮤니티에서 동시에 잡힌 이슈가 없습니다.</div>';
     return;
   }
 
@@ -68,13 +96,42 @@ function renderTopics(){
   }).join("");
 }
 
+function renderArchiveControls(){
+  const controls = document.querySelector("#archiveControls");
+  const select = document.querySelector("#archiveSelect");
+
+  if (period === "realtime") {
+    controls.hidden = true;
+    archiveData = null;
+    return;
+  }
+
+  controls.hidden = false;
+  const items = archiveIndex?.periods?.[period] || [];
+  const selectedKey = archiveData?.period === period ? archiveData.key : "";
+
+  select.innerHTML = '<option value="">현재 순위</option>' +
+    items.map(item =>
+      `<option value="${safeText(item.key)}" ${item.key === selectedKey ? "selected" : ""}>${safeText(item.label)}</option>`
+    ).join("");
+}
+
+function updateUrl(){
+  const params = new URLSearchParams();
+  if (period !== "realtime") params.set("period", period);
+  if (archiveData?.period === period && archiveData.key) params.set("archive", archiveData.key);
+
+  const next = params.toString() ? "?" + params.toString() : location.pathname;
+  history.replaceState(null, "", next);
+}
+
 function render(){
   const posts = currentPosts();
   const filtered = posts
     .filter(p => category === "전체" || p.category === category)
     .filter(p => source === "전체" || p.source === source);
 
-  document.querySelector("#periodLabel").textContent = periodInfo[period].label;
+  document.querySelector("#periodLabel").textContent = currentLabel();
   document.querySelector("#heroCount").textContent = liveData?.rankings?.realtime?.length ?? 0;
 
   const list = document.querySelector("#rankingList");
@@ -128,26 +185,87 @@ function render(){
         <span class="community-score">${c.score}점 · ${c.count}건</span>
       </li>`).join("")
     : '<li class="empty">수집 대기 중</li>';
+
+  const activeDate = archiveData?.period === period ? new Date(archiveData.collected_at) : new Date(liveData?.collected_at || Date.now());
+  document.querySelector("#updatedAt").textContent = activeDate.toLocaleString("ko-KR", {
+    month:"numeric", day:"numeric", hour:"2-digit", minute:"2-digit"
+  });
+
+  renderSourceOptions();
+  renderTopics();
+  renderArchiveControls();
+  updateUrl();
+}
+
+async function loadArchiveIndex(){
+  try {
+    const response = await fetch("./data/archive-index.json?ts=" + Date.now(), {cache:"no-store"});
+    if (!response.ok) throw new Error("archive index unavailable");
+    archiveIndex = await response.json();
+  } catch {
+    archiveIndex = {periods:{daily:[],weekly:[],monthly:[]}};
+  }
+}
+
+async function loadArchive(periodName, key){
+  if (!periodName || !key || periodName === "realtime") {
+    archiveData = null;
+    render();
+    return;
+  }
+
+  const item = (archiveIndex?.periods?.[periodName] || []).find(x => x.key === key);
+  if (!item) {
+    archiveData = null;
+    render();
+    return;
+  }
+
+  try {
+    const response = await fetch("./data/" + item.path + "?ts=" + Date.now(), {cache:"no-store"});
+    if (!response.ok) throw new Error("archive data unavailable");
+    archiveData = await response.json();
+    source = "전체";
+    category = "전체";
+    document.querySelectorAll(".chip").forEach(x=>x.classList.toggle("active", x.dataset.category === "전체"));
+  } catch {
+    archiveData = null;
+  }
+  render();
 }
 
 async function loadLiveData(){
   try {
-    const response = await fetch("./data/latest.json?ts=" + Date.now(), {cache:"no-store"});
+    const [response] = await Promise.all([
+      fetch("./data/latest.json?ts=" + Date.now(), {cache:"no-store"}),
+      loadArchiveIndex()
+    ]);
+
     if (!response.ok) throw new Error("ranking data unavailable");
     liveData = await response.json();
-    const date = new Date(liveData.collected_at);
-    document.querySelector("#updatedAt").textContent = date.toLocaleString("ko-KR", {
-      month:"numeric", day:"numeric", hour:"2-digit", minute:"2-digit"
-    });
-    renderSourceOptions();
-    renderTopics();
+
     const okSources = (liveData.sources || []).filter(s => s.ok && s.count > 0).length;
     const totalSources = (liveData.sources || []).length;
     document.querySelector("#sourceStatus").textContent =
       totalSources ? `${okSources}/${totalSources}개 소스 정상` : "수집 준비";
+
+    const params = new URLSearchParams(location.search);
+    const requestedPeriod = params.get("period");
+    const requestedArchive = params.get("archive");
+
+    if (requestedPeriod && periodInfo[requestedPeriod]) {
+      period = requestedPeriod;
+      document.querySelectorAll(".nav-item").forEach(x =>
+        x.classList.toggle("active", x.dataset.period === period)
+      );
+    }
+
+    if (requestedArchive && period !== "realtime") {
+      await loadArchive(period, requestedArchive);
+      return;
+    }
   } catch (err) {
     liveData = null;
-    renderTopics();
     document.querySelector("#updatedAt").textContent = "자동 수집 대기";
     document.querySelector("#sourceStatus").textContent = "수집 대기";
   }
@@ -155,10 +273,13 @@ async function loadLiveData(){
 }
 
 document.querySelectorAll(".nav-item").forEach(btn=>{
-  btn.addEventListener("click", ()=>{
+  btn.addEventListener("click", async ()=>{
     document.querySelectorAll(".nav-item").forEach(x=>x.classList.remove("active"));
     btn.classList.add("active");
     period = btn.dataset.period;
+    archiveData = null;
+    source = "전체";
+    await Promise.resolve();
     render();
   });
 });
@@ -174,6 +295,22 @@ document.querySelectorAll(".chip").forEach(btn=>{
 
 document.querySelector("#sourceFilter").addEventListener("change", e=>{
   source = e.target.value;
+  render();
+});
+
+document.querySelector("#archiveSelect").addEventListener("change", async e=>{
+  const key = e.target.value;
+  if (!key) {
+    archiveData = null;
+    render();
+    return;
+  }
+  await loadArchive(period, key);
+});
+
+document.querySelector("#latestButton").addEventListener("click", ()=>{
+  archiveData = null;
+  document.querySelector("#archiveSelect").value = "";
   render();
 });
 
