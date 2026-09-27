@@ -547,6 +547,110 @@ def build_topics(posts: list[dict], limit: int = 8) -> list[dict]:
         reverse=True,
     )[:limit]
 
+def normalize_keyword_token(token: str) -> str:
+    token = token.strip().lower()
+    if not token:
+        return ""
+    suffixes = [
+        "에서는", "으로는", "에게는", "까지는", "부터는",
+        "에서", "으로", "에게", "까지", "부터", "처럼", "보다",
+        "하고", "이며", "에는", "에도", "과는", "와는",
+        "은", "는", "이", "가", "을", "를", "의", "에", "와", "과", "도", "만",
+    ]
+    if re.fullmatch(r"[가-힣]+", token) and len(token) >= 4:
+        for suffix in suffixes:
+            if token.endswith(suffix) and len(token) - len(suffix) >= 2:
+                token = token[:-len(suffix)]
+                break
+    return token
+
+
+def keyword_tokens(title: str) -> set[str]:
+    result = set()
+    for token in topic_tokens(title):
+        normalized = normalize_keyword_token(token)
+        if not normalized or normalized in TOPIC_STOPWORDS:
+            continue
+        if len(normalized) < 2:
+            continue
+        if normalized.isdigit():
+            continue
+        result.add(normalized)
+    return result
+
+
+def compute_keyword_rows(posts: list[dict], limit: int = 40) -> list[dict]:
+    token_map: dict[str, list[dict]] = {}
+    for rank, post_item in enumerate(posts, start=1):
+        enriched = {**post_item, "_rank": rank}
+        for token in keyword_tokens(post_item.get("title", "")):
+            token_map.setdefault(token, []).append(enriched)
+
+    rows = []
+    for token, items in token_map.items():
+        post_count = len(items)
+        source_count = len({item.get("source") for item in items if item.get("source")})
+
+        if post_count < 2:
+            continue
+        if source_count < 2 and post_count < 3:
+            continue
+
+        best_rank = min(item["_rank"] for item in items)
+        avg_rank_strength = sum(max(0, 101 - item["_rank"]) / 100 for item in items) / post_count
+        avg_score = sum(float(item.get("score", 0)) for item in items) / post_count
+        keyword_score = (
+            source_count * 22
+            + post_count * 7
+            + avg_rank_strength * 24
+            + avg_score * 0.28
+            + max(0, 20 - best_rank) * 0.35
+        )
+
+        rows.append({
+            "keyword": token,
+            "score": round(keyword_score, 2),
+            "post_count": post_count,
+            "source_count": source_count,
+            "best_rank": best_rank,
+            "sources": sorted({item.get("source") for item in items if item.get("source")}),
+        })
+
+    rows.sort(
+        key=lambda row: (
+            row["score"],
+            row["source_count"],
+            row["post_count"],
+            -row["best_rank"],
+        ),
+        reverse=True,
+    )
+    return rows[:limit]
+
+
+def build_keyword_trends(current: list[dict], previous: dict, limit: int = 20) -> list[dict]:
+    current_rows = compute_keyword_rows(current, limit=max(limit * 3, 40))
+
+    previous_rows = []
+    if isinstance(previous, dict):
+        previous_rows = previous.get("keywords") or []
+        if not previous_rows:
+            previous_realtime = previous.get("rankings", {}).get("realtime", [])
+            previous_rows = compute_keyword_rows(previous_realtime, limit=max(limit * 3, 40))
+
+    old_rank = {row.get("keyword"): i + 1 for i, row in enumerate(previous_rows)}
+
+    result = []
+    for i, row in enumerate(current_rows[:limit], start=1):
+        item = dict(row)
+        before = old_rank.get(row["keyword"])
+        item["rank"] = i
+        item["change"] = "NEW" if before is None else before - i
+        result.append(item)
+
+    return result
+
+
 def load_json(path: Path, fallback):
     try:
         return json.loads(path.read_text(encoding="utf-8"))
@@ -829,6 +933,7 @@ def main() -> None:
     rankings["rising"] = rising
 
     topics = build_topics(rankings["realtime"])
+    keywords = build_keyword_trends(rankings["realtime"], previous)
 
     payload = {
         "version": 3,
@@ -844,6 +949,7 @@ def main() -> None:
         "rising_window_minutes": rising_window_minutes,
         "rankings": rankings,
         "topics": topics,
+        "keywords": keywords,
     }
 
     LATEST_PATH.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
