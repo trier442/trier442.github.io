@@ -2,6 +2,11 @@ name: Update Commurank data
 
 on:
   workflow_dispatch:
+  push:
+    branches: ["main"]
+    paths:
+      - "commurank/scripts/**"
+      - ".github/workflows/update-commurank.yml"
   schedule:
     - cron: "17,47 * * * *"
 
