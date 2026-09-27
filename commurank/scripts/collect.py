@@ -406,7 +406,8 @@ TOPIC_STOPWORDS = {
     "현황", "가장", "avi", "싶다는", "맞고", "신고한", "도전", "남자", "여자",
     "선수", "배우", "공연", "사장님", "대통령",
     "근데", "문제", "싱글벙글", "안싱글벙글", "대충", "의외로", "알고보니", "알고보면",
-    "너무", "보고", "ad", "넣었더니", "무려", "최고", "최고의", "여사"
+    "너무", "보고", "ad", "넣었더니", "무려", "최고", "최고의", "여사",
+    "manhwa", "유튜버", "관광객", "대통령", "때문에", "실수로", "떨어지는"
 }
 
 
@@ -513,6 +514,10 @@ def build_topics(posts: list[dict], limit: int = 8) -> list[dict]:
         for token in topic_tokens(item["title"]):
             if len(token) < 3 or token.isdigit():
                 continue
+            if re.fullmatch(r"\d{2}대", token):
+                continue
+            if token in TOPIC_STOPWORDS:
+                continue
             token_posts.setdefault(token, []).append(item)
 
     for token, items in token_posts.items():
@@ -565,14 +570,21 @@ def build_topics(posts: list[dict], limit: int = 8) -> list[dict]:
     )[:limit]
 
     for topic in ranked_topics:
-        identity_tokens = sorted({
+        identity_tokens = {
             normalize_keyword_token(token)
             for token in topic.get("keywords", [])
             if normalize_keyword_token(token)
-        })
+            and normalize_keyword_token(token) not in TOPIC_STOPWORDS
+            and not re.fullmatch(r"\d{2}대", normalize_keyword_token(token))
+        }
         if not identity_tokens:
-            identity_tokens = sorted(keyword_tokens(topic.get("title", "")))[:4]
-        identity = "|".join(identity_tokens[:5]) or topic.get("title", "")
+            identity_tokens = {
+                token for token in keyword_tokens(topic.get("title", ""))
+                if token not in TOPIC_STOPWORDS and not re.fullmatch(r"\d{2}대", token)
+            }
+        # 가장 길고 구체적인 핵심어를 앵커로 사용해 같은 이슈의 ID가 흔들리지 않게 한다.
+        anchor = sorted(identity_tokens, key=lambda token: (-len(token), token))[0] if identity_tokens else topic.get("title", "")
+        identity = anchor
 
         # Python/JS 양쪽에서 동일하게 계산 가능한 32-bit FNV-1a.
         h = 2166136261
