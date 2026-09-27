@@ -410,7 +410,7 @@ TOPIC_STOPWORDS = {
     "선수", "배우", "공연", "사장님", "대통령",
     "근데", "문제", "싱글벙글", "안싱글벙글", "대충", "의외로", "알고보니", "알고보면",
     "너무", "보고", "ad", "넣었더니", "무려", "최고", "최고의", "여사",
-    "manhwa", "유튜버", "관광객", "대통령", "때문에", "실수로", "떨어지는"
+    "manhwa", "유튜버", "유튜브", "관광객", "대통령", "때문에", "실수로", "떨어지는", "머리가"
 }
 
 
@@ -452,6 +452,34 @@ def title_similarity(a: str, b: str) -> float:
             return max(coverage * 0.7, seq * 0.72)
         return 0.0
     return seq * 0.55 if seq >= 0.78 else 0.0
+
+
+def issue_identity_anchor(keywords: list[str] | None, title: str = "") -> str:
+    identity_tokens = {
+        normalize_keyword_token(token)
+        for token in (keywords or [])
+        if normalize_keyword_token(token)
+        and normalize_keyword_token(token) not in TOPIC_STOPWORDS
+        and not re.fullmatch(r"\d{2}대", normalize_keyword_token(token))
+    }
+    if not identity_tokens:
+        identity_tokens = {
+            token for token in keyword_tokens(title)
+            if token not in TOPIC_STOPWORDS and not re.fullmatch(r"\d{2}대", token)
+        }
+    return (
+        sorted(identity_tokens, key=lambda token: (-len(token), token))[0]
+        if identity_tokens
+        else ""
+    )
+
+
+def issue_id_from_anchor(anchor: str) -> str:
+    h = 2166136261
+    for byte in anchor.encode("utf-8"):
+        h ^= byte
+        h = (h * 16777619) & 0xFFFFFFFF
+    return f"i{h:08x}"
 
 
 def build_topics(posts: list[dict], limit: int = 8) -> list[dict]:
@@ -573,28 +601,9 @@ def build_topics(posts: list[dict], limit: int = 8) -> list[dict]:
     )[:limit]
 
     for topic in ranked_topics:
-        identity_tokens = {
-            normalize_keyword_token(token)
-            for token in topic.get("keywords", [])
-            if normalize_keyword_token(token)
-            and normalize_keyword_token(token) not in TOPIC_STOPWORDS
-            and not re.fullmatch(r"\d{2}대", normalize_keyword_token(token))
-        }
-        if not identity_tokens:
-            identity_tokens = {
-                token for token in keyword_tokens(topic.get("title", ""))
-                if token not in TOPIC_STOPWORDS and not re.fullmatch(r"\d{2}대", token)
-            }
-        # 가장 길고 구체적인 핵심어를 앵커로 사용해 같은 이슈의 ID가 흔들리지 않게 한다.
-        anchor = sorted(identity_tokens, key=lambda token: (-len(token), token))[0] if identity_tokens else topic.get("title", "")
-        identity = anchor
-
-        # Python/JS 양쪽에서 동일하게 계산 가능한 32-bit FNV-1a.
-        h = 2166136261
-        for byte in identity.encode("utf-8"):
-            h ^= byte
-            h = (h * 16777619) & 0xFFFFFFFF
-        topic["id"] = f"i{h:08x}"
+        anchor = issue_identity_anchor(topic.get("keywords", []), topic.get("title", ""))
+        if anchor:
+            topic["id"] = issue_id_from_anchor(anchor)
 
     return ranked_topics
 
@@ -1086,18 +1095,55 @@ def attach_issue_rank_changes(rows: list[dict], previous_rows: list[dict]) -> No
 
 
 def issue_period_rank(history: dict, since: datetime, now: datetime, limit: int = 20) -> list[dict]:
-    rows = []
+    groups: dict[str, dict] = {}
+
     for issue_id, item in history.get("issues", {}).items():
-        points = []
+        anchor = issue_identity_anchor(item.get("keywords", []), item.get("title", ""))
+        if not anchor:
+            continue
+
+        valid_points = []
         for point in item.get("points", []):
             try:
                 at = dt(point.get("at", "")).astimezone(KST)
             except Exception:
                 continue
             if since <= at <= now:
-                points.append(point)
+                valid_points.append(point)
+        if not valid_points:
+            continue
+
+        group = groups.setdefault(anchor, {
+            "anchor": anchor,
+            "stable_id": issue_id_from_anchor(anchor),
+            "items": [],
+            "points": {},
+        })
+        group["items"].append(item)
+
+        # 같은 시각에 구 ID/신 ID가 중복 저장된 경우 점수가 높은 관측치 하나만 유지한다.
+        for point in valid_points:
+            at_key = point.get("at", "")
+            previous_point = group["points"].get(at_key)
+            if previous_point is None or float(point.get("score", 0)) > float(previous_point.get("score", 0)):
+                group["points"][at_key] = point
+
+    rows = []
+    for group in groups.values():
+        points = sorted(group["points"].values(), key=lambda p: p.get("at", ""))
         if not points:
             continue
+
+        items = group["items"]
+        representative = max(
+            items,
+            key=lambda item: item.get("last_seen", ""),
+        )
+        stable_item = next(
+            (item for item in items if item.get("id") == group["stable_id"]),
+            None,
+        )
+        display_item = stable_item or representative
 
         peak_score = max(float(p.get("score", 0)) for p in points)
         max_sources = max(int(p.get("source_count", 0)) for p in points)
@@ -1118,19 +1164,26 @@ def issue_period_rank(history: dict, since: datetime, now: datetime, limit: int 
             + min(8, max_posts)
         )
 
+        first_seen_values = [item.get("first_seen") for item in items if item.get("first_seen")]
+        last_seen_values = [item.get("last_seen") for item in items if item.get("last_seen")]
+
         rows.append({
-            "id": issue_id,
-            "title": item.get("title", ""),
-            "keywords": item.get("keywords", []),
+            "id": group["stable_id"] if stable_item else display_item.get("id"),
+            "title": display_item.get("title", ""),
+            "keywords": [
+                token for token in display_item.get("keywords", [])
+                if normalize_keyword_token(token) not in TOPIC_STOPWORDS
+                and not re.fullmatch(r"\d{2}대", normalize_keyword_token(token))
+            ],
             "source_count": max_sources,
             "post_count": max_posts,
             "score": round(period_score, 2),
             "peak_score": round(peak_score, 2),
             "appearances": appearances,
             "sources": source_names,
-            "posts": item.get("posts", [])[:12],
-            "first_seen": item.get("first_seen"),
-            "last_seen": item.get("last_seen"),
+            "posts": display_item.get("posts", [])[:12],
+            "first_seen": min(first_seen_values) if first_seen_values else None,
+            "last_seen": max(last_seen_values) if last_seen_values else None,
             "latest_source_count": int(latest.get("source_count", 0)),
             "latest_post_count": int(latest.get("post_count", 0)),
         })
@@ -1145,7 +1198,6 @@ def issue_period_rank(history: dict, since: datetime, now: datetime, limit: int 
         reverse=True,
     )
     return rows[:limit]
-
 
 def write_issue_snapshots(now: datetime, collected_at: str, rankings: dict[str, list[dict]]) -> list[dict]:
     ISSUE_SNAPSHOT_DIR.mkdir(parents=True, exist_ok=True)
