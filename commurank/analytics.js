@@ -59,7 +59,7 @@
     const input = form.querySelector('input[type="search"], input[name="q"]');
     if (input && input.value.trim()) {
       send("search_submit", {
-        search_term: input.value.trim().slice(0, 80),
+        query_length: input.value.trim().length,
         source_page: location.pathname
       });
     }
