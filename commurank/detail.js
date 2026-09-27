@@ -105,6 +105,13 @@ function relatedPosts() {
   const currentTopic = (liveData?.topics || []).find(topic =>
     (topic.posts || []).some(p => p.url === originalUrl)
   );
+  const issueLink = document.querySelector("#issueLink");
+  if (currentTopic?.id) {
+    issueLink.href = "../issue/?id=" + encodeURIComponent(currentTopic.id);
+    issueLink.hidden = false;
+  } else {
+    issueLink.hidden = true;
+  }
 
   const topicUrls = new Set((currentTopic?.posts || []).map(p=>p.url));
   const scored = all.map(p => {
