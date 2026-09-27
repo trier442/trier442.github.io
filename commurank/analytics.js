@@ -1,5 +1,6 @@
 (() => {
   const CONFIG_URL = "/commurank/analytics-config.json";
+  const RECENT_KEY = "commurank_recent_posts_v1";
   const queue = [];
   let ready = false;
 
@@ -23,6 +24,24 @@
 
   window.commURankTrack = send;
 
+  function rememberPost(anchor, href) {
+    try {
+      const resolved = new URL(href, location.href);
+      const originalUrl = resolved.searchParams.get("url");
+      if (!originalUrl) return;
+
+      const row = anchor.closest(".rank-item, .search-result-card, .brief-list-row, .portal-feature-item, .portal-mini-item, .issue-rank-row");
+      const sourceNode = row?.querySelector(".source, .portal-source");
+      const source = (sourceNode?.textContent || document.body.dataset.source || "").trim();
+      const title = (anchor.textContent || "").trim().slice(0, 180);
+
+      const old = JSON.parse(localStorage.getItem(RECENT_KEY) || "[]");
+      const rows = Array.isArray(old) ? old.filter(item => item?.url !== originalUrl) : [];
+      rows.unshift({ url: originalUrl, title, source, at: new Date().toISOString() });
+      localStorage.setItem(RECENT_KEY, JSON.stringify(rows.slice(0, 20)));
+    } catch {}
+  }
+
   function destinationHost(href) {
     try { return new URL(href, location.href).hostname; }
     catch { return ""; }
@@ -40,6 +59,7 @@
     const href = anchor.getAttribute("href") || "";
 
     if (href.includes("/post/?url=")) {
+      rememberPost(anchor, href);
       send("post_analysis_open", { page_path: location.pathname });
     } else if (href.includes("/issue/?id=")) {
       send("issue_open", { page_path: location.pathname });
