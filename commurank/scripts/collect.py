@@ -389,7 +389,9 @@ TOPIC_STOPWORDS = {
     "대한", "에서", "으로", "그리고", "하지만", "그런데", "했다", "하는", "있는", "없는",
     "jpg", "gif", "mp4", "webp", "ㅋㅋ", "ㅋㅋㅋ", "ㄷㄷ", "속보",
     "사람들", "레전드", "한국인", "애들이", "사람이", "사람은", "같은", "이런", "저런",
-    "이거", "이게", "이번", "정도", "생각", "사실", "하나", "모두", "정말", "그냥"
+    "이거", "이게", "이번", "정도", "생각", "사실", "하나", "모두", "정말", "그냥",
+    "현황", "가장", "avi", "싶다는", "맞고", "신고한", "도전", "남자", "여자",
+    "선수", "배우", "공연", "사장님", "대통령"
 }
 
 
@@ -586,7 +588,7 @@ def compute_keyword_rows(posts: list[dict], limit: int = 40) -> list[dict]:
         for token in keyword_tokens(post_item.get("title", "")):
             token_map.setdefault(token, []).append(enriched)
 
-    rows = []
+    candidates = []
     for token, items in token_map.items():
         post_count = len(items)
         source_count = len({item.get("source") for item in items if item.get("source")})
@@ -607,14 +609,49 @@ def compute_keyword_rows(posts: list[dict], limit: int = 40) -> list[dict]:
             + max(0, 20 - best_rank) * 0.35
         )
 
-        rows.append({
+        urls = sorted({item.get("url") for item in items if item.get("url")})
+        first_position = min(
+            (
+                str(item.get("title", "")).lower().find(token)
+                for item in items
+                if token in str(item.get("title", "")).lower()
+            ),
+            default=999,
+        )
+
+        candidates.append({
             "keyword": token,
             "score": round(keyword_score, 2),
             "post_count": post_count,
             "source_count": source_count,
             "best_rank": best_rank,
             "sources": sorted({item.get("source") for item in items if item.get("source")}),
+            "_urls": urls,
+            "_first_position": first_position,
         })
+
+    # 같은 게시물 묶음에서 여러 단어가 동시에 잡히면 대표 키워드 하나만 남긴다.
+    grouped: dict[tuple[str, ...], list[dict]] = {}
+    for row in candidates:
+        grouped.setdefault(tuple(row["_urls"]), []).append(row)
+
+    rows = []
+    for group in grouped.values():
+        representative = max(
+            group,
+            key=lambda row: (
+                len(row["keyword"]),
+                -int(row.get("_first_position", 999)),
+                row["score"],
+            ),
+        )
+        representative = dict(representative)
+        representative["aliases"] = sorted(
+            {row["keyword"] for row in group if row["keyword"] != representative["keyword"]}
+        )[:5]
+        representative.pop("_urls", None)
+        representative.pop("_first_position", None)
+        rows.append(representative)
 
     rows.sort(
         key=lambda row: (
@@ -626,7 +663,6 @@ def compute_keyword_rows(posts: list[dict], limit: int = 40) -> list[dict]:
         reverse=True,
     )
     return rows[:limit]
-
 
 def build_keyword_trends(current: list[dict], previous: dict, limit: int = 20) -> list[dict]:
     current_rows = compute_keyword_rows(current, limit=max(limit * 3, 40))
