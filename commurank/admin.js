@@ -1,5 +1,5 @@
 const REPO="trier442/trier442.github.io";
-let latest=null, issueRankings=null, archiveIndex=null, issueArchiveIndex=null, briefing=null, briefingIndex=null, metricHistory=null, issueHistory=null;
+let latest=null, issueRankings=null, archiveIndex=null, issueArchiveIndex=null, briefing=null, briefingIndex=null, metricHistory=null, issueHistory=null, analyticsConfig=null;
 
 const fmt=n=>new Intl.NumberFormat("ko-KR",{notation:Number(n)>9999?"compact":"standard"}).format(Number(n)||0);
 const safe=v=>String(v??"").replace(/[&<>"']/g,ch=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[ch]));
@@ -34,6 +34,10 @@ function renderSummary(){
   document.querySelector("#issueCount").textContent=issueRankings?.rankings?.realtime?.length||0;
 
   const briefAge=minutesAgo(briefing?.collected_at);
+  const analyticsOn=Boolean(analyticsConfig?.enabled && analyticsConfig?.ga4_id);
+  document.querySelector("#analyticsState").textContent=analyticsOn ? "GA4 연결됨" : "미연결";
+  document.querySelector("#analyticsState").className=analyticsOn ? "analytics-on" : "";
+
   document.querySelector("#briefingState").textContent=briefing?.date||"-";
   document.querySelector("#briefingSub").textContent=briefAge===null?"데이터 없음":briefAge+"분 전 갱신";
 }
@@ -128,14 +132,15 @@ async function load(){
     ["briefing",base+"briefing.json"],
     ["briefingIndex",base+"briefing-index.json"],
     ["metrics",base+"metric-history.json"],
-    ["issueHistory",base+"issue-history.json"]
+    ["issueHistory",base+"issue-history.json"],
+    ["analytics","../analytics-config.json"]
   ];
   const results=await Promise.all(reqs.map(async([k,url])=>{
     try{const r=await fetch(url+"?ts="+Date.now(),{cache:"no-store"});return [k,r.ok?await r.json():null]}catch{return [k,null]}
   }));
   const map=Object.fromEntries(results);
   latest=map.latest;issueRankings=map.issues;archiveIndex=map.archive;issueArchiveIndex=map.issueArchive;
-  briefing=map.briefing;briefingIndex=map.briefingIndex;metricHistory=map.metrics;issueHistory=map.issueHistory;
+  briefing=map.briefing;briefingIndex=map.briefingIndex;metricHistory=map.metrics;issueHistory=map.issueHistory;analyticsConfig=map.analytics;
   renderSummary();renderSources();renderDiagnostics();renderVolumes();renderWorkflows();
 }
 document.querySelector("#themeToggle").addEventListener("click",()=>{
