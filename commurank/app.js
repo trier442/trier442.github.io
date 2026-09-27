@@ -62,7 +62,7 @@ function renderSourceOptions(){
 
   if (liveData?.sources) {
     liveData.sources
-      .filter(s => s.ok && s.count > 0)
+      .filter(s => s.count > 0)
       .forEach(s => names.add(s.source));
   }
   currentPosts().forEach(p => {
@@ -303,9 +303,11 @@ async function loadLiveData(){
     liveData = await response.json();
 
     const okSources = (liveData.sources || []).filter(s => s.ok && s.count > 0).length;
+    const cachedSources = (liveData.sources || []).filter(s => s.cached && s.count > 0).length;
     const totalSources = (liveData.sources || []).length;
-    document.querySelector("#sourceStatus").textContent =
-      totalSources ? `${okSources}/${totalSources}개 소스 정상` : "수집 준비";
+    document.querySelector("#sourceStatus").textContent = totalSources
+      ? `${okSources}/${totalSources} 직접${cachedSources ? " · " + cachedSources + " 캐시" : ""}`
+      : "수집 준비";
 
     const params = new URLSearchParams(location.search);
     const requestedPeriod = params.get("period");
