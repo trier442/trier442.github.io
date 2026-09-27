@@ -23,6 +23,7 @@ USER_AGENT = (
     "AppleWebKit/537.36 (KHTML, like Gecko) "
     "Chrome/153.0 Safari/537.36 CommurankBot/0.1"
 )
+FMKOREA_USER_AGENT = "commurank-bot/0.1 (+https://trier442.github.io/commurank/)"
 
 SITES = {
     "루리웹": "https://bbs.ruliweb.com/best",
@@ -77,9 +78,9 @@ def normalize_category(raw: str | None, title: str) -> str:
     return "이슈"
 
 
-def request_html(url: str, *, referer: str | None = None) -> BeautifulSoup:
+def request_html(url: str, *, referer: str | None = None, user_agent: str | None = None) -> BeautifulSoup:
     headers = {
-        "User-Agent": USER_AGENT,
+        "User-Agent": user_agent or USER_AGENT,
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
         "Accept-Language": "ko-KR,ko;q=0.9,en;q=0.7",
         "Cache-Control": "no-cache",
@@ -207,28 +208,63 @@ def scrape_ppomppu() -> list[dict]:
 
 
 def scrape_fmkorea() -> list[dict]:
-    base = "https://www.fmkorea.com"
-    soup = request_html(SITES["에펨코리아"])
-    items = []
-    for item in soup.select(".fm_best_widget ul > li"):
-        link = item.select_one("h3.title > a")
-        if not link or not link.get("href"):
+    candidates = [
+        ("https://www.fmkorea.com/best", "https://www.fmkorea.com"),
+        ("https://m.fmkorea.com/best", "https://m.fmkorea.com"),
+    ]
+    last_error = None
+
+    for list_url, base in candidates:
+        try:
+            soup = request_html(list_url, user_agent=FMKOREA_USER_AGENT)
+        except Exception as exc:
+            last_error = exc
             continue
-        title_node = item.select_one("h3.title span.ellipsis-target")
-        title = clean_text(title_node.get_text(" ", strip=True) if title_node else "")
-        if not title:
-            title = clean_text(item.select_one("h3.title").get("data-original-title") if item.select_one("h3.title") else "")
-        if not title:
-            continue
-        items.append(post(
-            "에펨코리아",
-            title,
-            urljoin(base, link["href"]),
-            category=clean_text(item.select_one("span.category > a").get_text() if item.select_one("span.category > a") else ""),
-            likes=parse_number(item.select_one("a.pc_voted_count span.count").get_text() if item.select_one("a.pc_voted_count span.count") else ""),
-            comments=parse_number(item.select_one("span.comment_count").get_text() if item.select_one("span.comment_count") else ""),
-        ))
-    return items
+
+        items = []
+        nodes = soup.select("li.li_best2")
+        if not nodes:
+            nodes = soup.select(".fm_best_widget ul > li")
+
+        for item in nodes:
+            link = item.select_one("h3.title > a")
+            if not link or not link.get("href"):
+                continue
+
+            title_node = item.select_one("h3.title span.ellipsis-target")
+            title = clean_text(title_node.get_text(" ", strip=True) if title_node else "")
+            if not title:
+                title_el = item.select_one("h3.title")
+                title = clean_text(title_el.get("data-original-title") if title_el else "")
+            if not title:
+                title = clean_text(link.get_text(" ", strip=True))
+                comment_node = link.select_one("span.comment_count")
+                if comment_node:
+                    title = clean_text(title.replace(comment_node.get_text(" ", strip=True), ""))
+            if not title:
+                continue
+
+            href = link["href"]
+            if href.startswith("/best/"):
+                canonical = urljoin("https://www.fmkorea.com", href)
+            else:
+                canonical = urljoin(base, href)
+
+            items.append(post(
+                "에펨코리아",
+                title,
+                canonical,
+                category=clean_text(item.select_one("span.category > a").get_text() if item.select_one("span.category > a") else ""),
+                likes=parse_number(item.select_one("a.pc_voted_count span.count").get_text() if item.select_one("a.pc_voted_count span.count") else ""),
+                comments=parse_number(item.select_one("span.comment_count").get_text() if item.select_one("span.comment_count") else ""),
+            ))
+
+        if items:
+            return items
+
+    if last_error:
+        raise last_error
+    return []
 
 
 SCRAPERS = {
