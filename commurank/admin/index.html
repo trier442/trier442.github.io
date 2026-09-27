@@ -72,7 +72,14 @@
           <div class="side-title"><div><span>Analytics</span><h3>방문자 분석</h3></div></div>
           <div class="analytics-connection">
             <strong id="analyticsState">미연결</strong>
-            <p>현재는 수집·콘텐츠 운영 지표만 집계합니다. GA4/Search Console 연결 후 방문자 수, 검색 유입, 페이지별 조회, 원문 이동 클릭률을 추가할 수 있습니다.</p>
+            <p>현재는 수집·콘텐츠 운영 지표만 집계합니다. GA4 Measurement ID를 연결하면 방문자·페이지뷰·원문 이동 등의 이벤트가 기록됩니다.</p>
+            <ol class="analytics-setup-list">
+              <li>Google Analytics에서 웹 데이터 스트림 생성</li>
+              <li><code>G-XXXXXXXXXX</code> 형식의 측정 ID 확인</li>
+              <li>GitHub Actions의 <strong>Configure Commurank Analytics</strong> 실행</li>
+              <li>측정 ID 입력 후 Run workflow</li>
+            </ol>
+            <a class="analytics-action" href="https://github.com/trier442/trier442.github.io/actions/workflows/configure-commurank-analytics.yml" target="_blank" rel="noopener noreferrer">GA4 연결 작업 열기 ↗</a>
           </div>
         </section>
 
