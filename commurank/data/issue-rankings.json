@@ -1,0 +1,2530 @@
+{
+  "version": 1,
+  "collected_at": "2026-09-27T18:45:04.136110+09:00",
+  "timezone": "Asia/Seoul",
+  "period_basis": {
+    "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
+    "daily": "오늘 00:00부터 현재까지 누적 이슈",
+    "weekly": "이번 주 월요일 00:00부터 현재까지 누적 이슈",
+    "monthly": "이번 달 1일 00:00부터 현재까지 누적 이슈"
+  },
+  "rankings": {
+    "realtime": [
+      {
+        "id": "i77bec7b9",
+        "title": "‘윤석열’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "윤석열"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 69.01,
+        "peak_score": 69.01,
+        "appearances": 1,
+        "sources": [
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 59,
+            "title": "윤석열 한방더멕이는 장동혁 ㅋㅋㅋㅋㅋㅋㅋㅋ",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2733210",
+            "score": 60.01
+          },
+          {
+            "source": "클리앙",
+            "rank": 61,
+            "title": "'국힘 397억.걸린 윤석열 재판...이번 주 결심",
+            "url": "https://www.clien.net/service/board/park/19270301?od=T31&po=0&category=0&groupCd=",
+            "score": 59.52
+          }
+        ],
+        "rank": 1,
+        "change": "NEW"
+      },
+      {
+        "id": "i50e25e1b",
+        "title": "육상 400m 한국 신기록 23년만에 만든 김서윤 선수",
+        "keywords": [
+          "김서윤",
+          "신기록",
+          "23년만에",
+          "한국",
+          "육상",
+          "400m"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 68.67,
+        "peak_score": 68.67,
+        "appearances": 1,
+        "sources": [
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 51,
+            "title": "육상 400m 한국 신기록 23년만에 만든 김서윤 선수",
+            "url": "https://www.clien.net/service/board/park/19270306?od=T31&po=0&category=0&groupCd=",
+            "score": 60.67
+          },
+          {
+            "source": "인벤",
+            "rank": 81,
+            "title": "육상 400m 한국 신기록 23년만에 깨트린 김서윤 선수",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2733205",
+            "score": 54.29
+          }
+        ],
+        "rank": 2,
+        "change": "NEW"
+      },
+      {
+        "id": "i106465f0",
+        "title": "신작 영화 암살자들 여론 현황.jpg",
+        "keywords": [
+          "암살자들",
+          "영화"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 67.32,
+        "peak_score": 67.32,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "루리웹"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 62,
+            "title": "신작 영화 암살자들 여론 현황.jpg",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466178&_dcbest=1&page=1",
+            "score": 59.32
+          },
+          {
+            "source": "루리웹",
+            "rank": 77,
+            "title": "추석버프 받고 100만 돌파한 영화 암살자들.jpg",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76811088?m=humor_only&t=now",
+            "score": 55.68
+          }
+        ],
+        "rank": 3,
+        "change": "NEW"
+      },
+      {
+        "id": "i7f48cc7a",
+        "title": "‘반도체’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "반도체"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 63.69,
+        "peak_score": 63.69,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 80,
+            "title": "반도체 호황에 초과세수 50조…기금 200조 넘나",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466226&_dcbest=1&page=1",
+            "score": 54.69
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 91,
+            "title": "미국 중간선거 결과에 따라 반도체 주가 변화 예상",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=438374",
+            "score": 53.31
+          }
+        ],
+        "rank": 4,
+        "change": "NEW"
+      }
+    ],
+    "daily": [
+      {
+        "id": "i06cab454",
+        "title": "콘크리트에 ‘사람 똥’ 넣었더니…‘휨 강도’ 무려 42%나 증가했다",
+        "keywords": [
+          "강도",
+          "콘크리트에"
+        ],
+        "source_count": 2,
+        "post_count": 3,
+        "score": 123.27,
+        "peak_score": 106.54,
+        "appearances": 6,
+        "sources": [
+          "디시인사이드",
+          "루리웹"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 1,
+            "title": "콘크리트에 ‘사람 똥’ 넣었더니…‘휨 강도’ 무려 42%나 증가했다",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76818587?m=humor",
+            "score": 98.54
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 19,
+            "title": "콘크리트에 똥넣었더니…‘휨 강도’ 무려 42%나 증가",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466189&_dcbest=1&page=1",
+            "score": 70.66
+          }
+        ],
+        "first_seen": "2026-09-27T14:01:32.332928+09:00",
+        "last_seen": "2026-09-27T16:21:22.580161+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 1,
+        "change": "NEW"
+      },
+      {
+        "id": "iba838050",
+        "title": "‘베트남’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "베트남"
+        ],
+        "source_count": 2,
+        "post_count": 3,
+        "score": 121.83,
+        "peak_score": 107.9,
+        "appearances": 3,
+        "sources": [
+          "루리웹",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 2,
+            "title": "베트남 기업, 스트리머 수피 글로벌 밴",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76819981?m=humor",
+            "score": 94.94
+          },
+          {
+            "source": "인벤",
+            "rank": 18,
+            "title": "베트남 배그 Himass, Tanvuu 영구정지 시위 사이트 개설",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2733123",
+            "score": 74.01
+          }
+        ],
+        "first_seen": "2026-09-27T13:38:37.715424+09:00",
+        "last_seen": "2026-09-27T14:14:08.194313+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 3,
+        "rank": 2,
+        "change": "NEW"
+      },
+      {
+        "id": "i26c94275",
+        "title": "‘러시아’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "러시아"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 118.61,
+        "peak_score": 107.12,
+        "appearances": 2,
+        "sources": [
+          "루리웹",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 3,
+            "title": "30대 이상만 입장 가능한 러시아 클럽",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76818593?m=humor",
+            "score": 92.17
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 38,
+            "title": "길거리에서 와이프 뺨을 툭툭 치는 러시아 ㄷ.avi",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10131714",
+            "score": 62.99
+          }
+        ],
+        "first_seen": "2026-09-27T14:04:44.915653+09:00",
+        "last_seen": "2026-09-27T14:09:17.311285+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 3,
+        "change": "NEW"
+      },
+      {
+        "id": "i8f4c9529",
+        "title": "‘머리가’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "머리가"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 117.85,
+        "peak_score": 108.38,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 1,
+            "title": "의외로 머리가 나쁜 애들이 이해하지 못하는것",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76817292?m=humor",
+            "score": 99.38
+          },
+          {
+            "source": "인벤",
+            "rank": 25,
+            "title": "??? : 여보세요? 어 나 호텔 도착했어. 근데 먼 노숙자같이 머리가 저런 사람이 있냐 ㅋㅋ",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2733105",
+            "score": 67.71
+          }
+        ],
+        "first_seen": "2026-09-27T12:58:49.050910+09:00",
+        "last_seen": "2026-09-27T12:58:49.050910+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 4,
+        "change": "NEW"
+      },
+      {
+        "id": "i2761816c",
+        "title": "분당 중식당 시진핑 테러 용의자 4명모두 사건당일 출국",
+        "keywords": [
+          "테러",
+          "분당",
+          "용의자",
+          "출국",
+          "중식당",
+          "시진핑",
+          "중국인"
+        ],
+        "source_count": 3,
+        "post_count": 3,
+        "score": 116.49,
+        "peak_score": 102.02,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "루리웹",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 4,
+            "title": "분당 중식당 시진핑 테러 용의자 4명모두 사건당일 출국",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466205&_dcbest=1&page=1",
+            "score": 87.02
+          },
+          {
+            "source": "인벤",
+            "rank": 32,
+            "title": "분당 중화식당 테러 용의자 4명 모두 무비자 중국인 관광객…사건 당일 출국",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2733155",
+            "score": 66.28
+          },
+          {
+            "source": "루리웹",
+            "rank": 91,
+            "title": "분당 중식당 '시진핑' 테러 용의자 4명 모두 중국인 당일 출국",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76821943?m=humor_only&t=now",
+            "score": 53.52
+          }
+        ],
+        "first_seen": "2026-09-27T16:21:22.580161+09:00",
+        "last_seen": "2026-09-27T16:21:22.580161+09:00",
+        "latest_source_count": 3,
+        "latest_post_count": 3,
+        "rank": 5,
+        "change": "NEW"
+      },
+      {
+        "id": "ib3876eed",
+        "title": "‘50대’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "50대"
+        ],
+        "source_count": 3,
+        "post_count": 5,
+        "score": 104.89,
+        "peak_score": 82.93,
+        "appearances": 5,
+        "sources": [
+          "디시인사이드",
+          "루리웹",
+          "뽐뿌",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 15,
+            "title": "50대 가장, 아내, 자녀 살해하고 투신",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466239&_dcbest=1&page=1",
+            "score": 72.33
+          },
+          {
+            "source": "인벤",
+            "rank": 74,
+            "title": "사진 찍다 그만”…제주 천지연폭포서 50대 관광객 추락 사망",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2733185",
+            "score": 56.38
+          }
+        ],
+        "first_seen": "2026-09-27T12:58:49.050910+09:00",
+        "last_seen": "2026-09-27T18:12:53.111746+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 5,
+        "rank": 6,
+        "change": "NEW"
+      },
+      {
+        "id": "i36281a8d",
+        "title": "‘유튜브’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "유튜브"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 98.12,
+        "peak_score": 88.65,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 8,
+            "title": "유튜브 보고 차를 구입한 사람들",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2733097",
+            "score": 79.65
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 15,
+            "title": "로이킴이 안소희 유튜브 출연했는데 민심이 안좋네요",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10131905",
+            "score": 71.56
+          }
+        ],
+        "first_seen": "2026-09-27T12:58:49.050910+09:00",
+        "last_seen": "2026-09-27T12:58:49.050910+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 7,
+        "change": "NEW"
+      },
+      {
+        "id": "iaa40d60f",
+        "title": "‘유튜버’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "유튜버"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 97.5,
+        "peak_score": 88.03,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 6,
+            "title": "유튜버 단군 암살자(들) 리뷰 중 음모론에 대한 의견.jpg",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466232&_dcbest=1&page=1",
+            "score": 79.03
+          },
+          {
+            "source": "인벤",
+            "rank": 76,
+            "title": "약혐) 부산 찜질방 빈대 이슈 업로드한 유튜버",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2733169",
+            "score": 56.08
+          }
+        ],
+        "first_seen": "2026-09-27T18:12:53.111746+09:00",
+        "last_seen": "2026-09-27T18:12:53.111746+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 8,
+        "change": "NEW"
+      },
+      {
+        "id": "i106465f0",
+        "title": "신작 영화 암살자들 여론 현황.jpg",
+        "keywords": [
+          "암살자들",
+          "영화"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 96.28,
+        "peak_score": 83.35,
+        "appearances": 3,
+        "sources": [
+          "디시인사이드",
+          "루리웹",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 62,
+            "title": "신작 영화 암살자들 여론 현황.jpg",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466178&_dcbest=1&page=1",
+            "score": 59.32
+          },
+          {
+            "source": "루리웹",
+            "rank": 77,
+            "title": "추석버프 받고 100만 돌파한 영화 암살자들.jpg",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76811088?m=humor_only&t=now",
+            "score": 55.68
+          }
+        ],
+        "first_seen": "2026-09-27T18:16:30.778383+09:00",
+        "last_seen": "2026-09-27T18:45:04.136110+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 9,
+        "change": "NEW"
+      },
+      {
+        "id": "ia0fd1514",
+        "title": "‘유시민’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "유시민"
+        ],
+        "source_count": 2,
+        "post_count": 3,
+        "score": 93.98,
+        "peak_score": 81.49,
+        "appearances": 2,
+        "sources": [
+          "뽐뿌",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 13,
+            "title": "뉴짬통), 유시민 총공격 프로젝트 가동",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10131859",
+            "score": 72.49
+          },
+          {
+            "source": "클리앙",
+            "rank": 67,
+            "title": "진짜 뉴재명분들 유시민 죽자사자 공격해봤자...대통령 지지율만 나락가요",
+            "url": "https://www.clien.net/service/board/park/19270178?od=T31&po=0&category=0&groupCd=",
+            "score": 56.38
+          }
+        ],
+        "first_seen": "2026-09-27T12:58:49.050910+09:00",
+        "last_seen": "2026-09-27T13:38:37.715424+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 10,
+        "change": "NEW"
+      },
+      {
+        "id": "i59b001e5",
+        "title": "‘50대’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "50대"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 90.8,
+        "peak_score": 81.33,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 15,
+            "title": "50대 가장, 아내, 자녀 살해하고 투신",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466239&_dcbest=1&page=1",
+            "score": 72.33
+          },
+          {
+            "source": "인벤",
+            "rank": 74,
+            "title": "사진 찍다 그만”…제주 천지연폭포서 50대 관광객 추락 사망",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2733185",
+            "score": 56.38
+          }
+        ],
+        "first_seen": "2026-09-27T18:12:53.111746+09:00",
+        "last_seen": "2026-09-27T18:12:53.111746+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 11,
+        "change": "NEW"
+      },
+      {
+        "id": "i0d6a2535",
+        "title": "‘manhwa’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "manhwa"
+        ],
+        "source_count": 2,
+        "post_count": 5,
+        "score": 90.22,
+        "peak_score": 77.75,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 27,
+            "title": "ㅇㅎ) 빈유 안드로이드 아내가 배송된.manhwa",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2733191",
+            "score": 65.75
+          },
+          {
+            "source": "루리웹",
+            "rank": 78,
+            "title": "호리데이) 다 보이는 투명인간 후배.manhwa",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76823181?m=humor_only&t=now",
+            "score": 55.73
+          }
+        ],
+        "first_seen": "2026-09-27T18:12:53.111746+09:00",
+        "last_seen": "2026-09-27T18:12:53.111746+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 5,
+        "rank": 12,
+        "change": "NEW"
+      },
+      {
+        "id": "i171ab594",
+        "title": "김동현 로우킥 맞고 싶다는 사장님",
+        "keywords": [
+          "김동현",
+          "로우킥"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 87.53,
+        "peak_score": 72.57,
+        "appearances": 5,
+        "sources": [
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 55,
+            "title": "김동현 로우킥 맞고 싶다는 사장님",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2733129",
+            "score": 59.78
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 61,
+            "title": "김동현 로우킥 맞고 싶다는 사장님",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=21605",
+            "score": 58.74
+          }
+        ],
+        "first_seen": "2026-09-27T14:01:32.332928+09:00",
+        "last_seen": "2026-09-27T14:14:08.194313+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 13,
+        "change": "NEW"
+      },
+      {
+        "id": "i2272efa7",
+        "title": "‘리센느’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "리센느"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 86.17,
+        "peak_score": 74.68,
+        "appearances": 2,
+        "sources": [
+          "디시인사이드",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 30,
+            "title": "이번에 공개된 리센느 수원시 홍보 단가",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2733131",
+            "score": 65.68
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 93,
+            "title": "리센느 미나미 뿌리를 찾아서 금수저학교 교복입고 절친 만나기.",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466146&_dcbest=1&page=1",
+            "score": 48.21
+          }
+        ],
+        "first_seen": "2026-09-27T12:58:49.050910+09:00",
+        "last_seen": "2026-09-27T14:09:17.311285+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 14,
+        "change": "NEW"
+      },
+      {
+        "id": "i90e493b6",
+        "title": "‘결승행’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "결승행"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 85.71,
+        "peak_score": 70.75,
+        "appearances": 5,
+        "sources": [
+          "디시인사이드",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 70,
+            "title": "한국 야구 결승행…일본에 설욕하고 5연패 도전",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466174&_dcbest=1&page=1",
+            "score": 56.45
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 90,
+            "title": "[아시안게임] ‘4연패 도전’ 이민성호, 중국과 결승행 다툼...일본은 우즈벡과",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=news_sports&no=354869",
+            "score": 52.66
+          }
+        ],
+        "first_seen": "2026-09-27T14:01:32.332928+09:00",
+        "last_seen": "2026-09-27T14:14:08.194313+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 15,
+        "change": "NEW"
+      },
+      {
+        "id": "i7f48cc7a",
+        "title": "‘반도체’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "반도체"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 85.52,
+        "peak_score": 74.03,
+        "appearances": 2,
+        "sources": [
+          "디시인사이드",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 80,
+            "title": "반도체 호황에 초과세수 50조…기금 200조 넘나",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466226&_dcbest=1&page=1",
+            "score": 54.69
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 91,
+            "title": "미국 중간선거 결과에 따라 반도체 주가 변화 예상",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=438374",
+            "score": 53.31
+          }
+        ],
+        "first_seen": "2026-09-27T18:31:46.541305+09:00",
+        "last_seen": "2026-09-27T18:45:04.136110+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 16,
+        "change": "NEW"
+      },
+      {
+        "id": "i36451721",
+        "title": "ㅇㅎ) 빈유 안드로이드 아내가 배송된.manhwa",
+        "keywords": [
+          "배송된",
+          "빈유",
+          "안드로이드",
+          "아내가"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 85.24,
+        "peak_score": 73.75,
+        "appearances": 2,
+        "sources": [
+          "루리웹",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 29,
+            "title": "ㅇㅎ) 빈유 안드로이드 아내가 배송된.manhwa",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2733191",
+            "score": 65.74
+          },
+          {
+            "source": "루리웹",
+            "rank": 35,
+            "title": "빈유 안드로이드 아내가 배송된 만화.manhwa",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76823177?m=humor_only&t=now",
+            "score": 65.05
+          }
+        ],
+        "first_seen": "2026-09-27T18:12:53.111746+09:00",
+        "last_seen": "2026-09-27T18:16:30.778383+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 17,
+        "change": "NEW"
+      },
+      {
+        "id": "i2a7fad4a",
+        "title": "‘갈라치기’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "갈라치기"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 84.91,
+        "peak_score": 75.44,
+        "appearances": 1,
+        "sources": [
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 30,
+            "title": "갈라치기 세력들이 있는 듯",
+            "url": "https://www.clien.net/service/board/park/19270243?od=T31&po=0&category=0&groupCd=",
+            "score": 66.44
+          },
+          {
+            "source": "인벤",
+            "rank": 39,
+            "title": "[속보] 조국혁신당 “추석 민심, 민주 진보 세력 갈라치기 말라는 분명한 경고”",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2733160",
+            "score": 63.75
+          }
+        ],
+        "first_seen": "2026-09-27T16:21:22.580161+09:00",
+        "last_seen": "2026-09-27T16:21:22.580161+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 18,
+        "change": "NEW"
+      },
+      {
+        "id": "i386066fc",
+        "title": "‘때문에’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "때문에"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 84.03,
+        "peak_score": 74.56,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 28,
+            "title": "개그맨 이상준, 임우일은 한우 때문에 똥줄 타겠는데요?",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10131992",
+            "score": 65.56
+          },
+          {
+            "source": "루리웹",
+            "rank": 94,
+            "title": "배그 사건 때문에 수피 밴한 기업에 대해 알아보자",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76820603?m=humor_only&t=now",
+            "score": 52.88
+          }
+        ],
+        "first_seen": "2026-09-27T13:38:37.715424+09:00",
+        "last_seen": "2026-09-27T13:38:37.715424+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 19,
+        "change": "NEW"
+      },
+      {
+        "id": "ibb0f2ad0",
+        "title": "ㅇㅎ) 빈유 안드로이드 아내가 배송된.manhwa",
+        "keywords": [
+          "배송된",
+          "빈유",
+          "manhwa",
+          "안드로이드",
+          "아내가"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 83.22,
+        "peak_score": 73.75,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 27,
+            "title": "ㅇㅎ) 빈유 안드로이드 아내가 배송된.manhwa",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2733191",
+            "score": 65.75
+          },
+          {
+            "source": "루리웹",
+            "rank": 92,
+            "title": "빈유 안드로이드 아내가 배송된 만화.manhwa",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76823177?m=humor_only&t=now",
+            "score": 52.89
+          }
+        ],
+        "first_seen": "2026-09-27T18:12:53.111746+09:00",
+        "last_seen": "2026-09-27T18:12:53.111746+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 20,
+        "change": "NEW"
+      }
+    ],
+    "weekly": [
+      {
+        "id": "i06cab454",
+        "title": "콘크리트에 ‘사람 똥’ 넣었더니…‘휨 강도’ 무려 42%나 증가했다",
+        "keywords": [
+          "강도",
+          "콘크리트에"
+        ],
+        "source_count": 2,
+        "post_count": 3,
+        "score": 123.27,
+        "peak_score": 106.54,
+        "appearances": 6,
+        "sources": [
+          "디시인사이드",
+          "루리웹"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 1,
+            "title": "콘크리트에 ‘사람 똥’ 넣었더니…‘휨 강도’ 무려 42%나 증가했다",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76818587?m=humor",
+            "score": 98.54
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 19,
+            "title": "콘크리트에 똥넣었더니…‘휨 강도’ 무려 42%나 증가",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466189&_dcbest=1&page=1",
+            "score": 70.66
+          }
+        ],
+        "first_seen": "2026-09-27T14:01:32.332928+09:00",
+        "last_seen": "2026-09-27T16:21:22.580161+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 1,
+        "change": "NEW"
+      },
+      {
+        "id": "iba838050",
+        "title": "‘베트남’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "베트남"
+        ],
+        "source_count": 2,
+        "post_count": 3,
+        "score": 121.83,
+        "peak_score": 107.9,
+        "appearances": 3,
+        "sources": [
+          "루리웹",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 2,
+            "title": "베트남 기업, 스트리머 수피 글로벌 밴",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76819981?m=humor",
+            "score": 94.94
+          },
+          {
+            "source": "인벤",
+            "rank": 18,
+            "title": "베트남 배그 Himass, Tanvuu 영구정지 시위 사이트 개설",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2733123",
+            "score": 74.01
+          }
+        ],
+        "first_seen": "2026-09-27T13:38:37.715424+09:00",
+        "last_seen": "2026-09-27T14:14:08.194313+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 3,
+        "rank": 2,
+        "change": "NEW"
+      },
+      {
+        "id": "i26c94275",
+        "title": "‘러시아’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "러시아"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 118.61,
+        "peak_score": 107.12,
+        "appearances": 2,
+        "sources": [
+          "루리웹",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 3,
+            "title": "30대 이상만 입장 가능한 러시아 클럽",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76818593?m=humor",
+            "score": 92.17
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 38,
+            "title": "길거리에서 와이프 뺨을 툭툭 치는 러시아 ㄷ.avi",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10131714",
+            "score": 62.99
+          }
+        ],
+        "first_seen": "2026-09-27T14:04:44.915653+09:00",
+        "last_seen": "2026-09-27T14:09:17.311285+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 3,
+        "change": "NEW"
+      },
+      {
+        "id": "i8f4c9529",
+        "title": "‘머리가’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "머리가"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 117.85,
+        "peak_score": 108.38,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 1,
+            "title": "의외로 머리가 나쁜 애들이 이해하지 못하는것",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76817292?m=humor",
+            "score": 99.38
+          },
+          {
+            "source": "인벤",
+            "rank": 25,
+            "title": "??? : 여보세요? 어 나 호텔 도착했어. 근데 먼 노숙자같이 머리가 저런 사람이 있냐 ㅋㅋ",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2733105",
+            "score": 67.71
+          }
+        ],
+        "first_seen": "2026-09-27T12:58:49.050910+09:00",
+        "last_seen": "2026-09-27T12:58:49.050910+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 4,
+        "change": "NEW"
+      },
+      {
+        "id": "i2761816c",
+        "title": "분당 중식당 시진핑 테러 용의자 4명모두 사건당일 출국",
+        "keywords": [
+          "테러",
+          "분당",
+          "용의자",
+          "출국",
+          "중식당",
+          "시진핑",
+          "중국인"
+        ],
+        "source_count": 3,
+        "post_count": 3,
+        "score": 116.49,
+        "peak_score": 102.02,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "루리웹",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 4,
+            "title": "분당 중식당 시진핑 테러 용의자 4명모두 사건당일 출국",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466205&_dcbest=1&page=1",
+            "score": 87.02
+          },
+          {
+            "source": "인벤",
+            "rank": 32,
+            "title": "분당 중화식당 테러 용의자 4명 모두 무비자 중국인 관광객…사건 당일 출국",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2733155",
+            "score": 66.28
+          },
+          {
+            "source": "루리웹",
+            "rank": 91,
+            "title": "분당 중식당 '시진핑' 테러 용의자 4명 모두 중국인 당일 출국",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76821943?m=humor_only&t=now",
+            "score": 53.52
+          }
+        ],
+        "first_seen": "2026-09-27T16:21:22.580161+09:00",
+        "last_seen": "2026-09-27T16:21:22.580161+09:00",
+        "latest_source_count": 3,
+        "latest_post_count": 3,
+        "rank": 5,
+        "change": "NEW"
+      },
+      {
+        "id": "ib3876eed",
+        "title": "‘50대’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "50대"
+        ],
+        "source_count": 3,
+        "post_count": 5,
+        "score": 104.89,
+        "peak_score": 82.93,
+        "appearances": 5,
+        "sources": [
+          "디시인사이드",
+          "루리웹",
+          "뽐뿌",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 15,
+            "title": "50대 가장, 아내, 자녀 살해하고 투신",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466239&_dcbest=1&page=1",
+            "score": 72.33
+          },
+          {
+            "source": "인벤",
+            "rank": 74,
+            "title": "사진 찍다 그만”…제주 천지연폭포서 50대 관광객 추락 사망",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2733185",
+            "score": 56.38
+          }
+        ],
+        "first_seen": "2026-09-27T12:58:49.050910+09:00",
+        "last_seen": "2026-09-27T18:12:53.111746+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 5,
+        "rank": 6,
+        "change": "NEW"
+      },
+      {
+        "id": "i36281a8d",
+        "title": "‘유튜브’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "유튜브"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 98.12,
+        "peak_score": 88.65,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 8,
+            "title": "유튜브 보고 차를 구입한 사람들",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2733097",
+            "score": 79.65
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 15,
+            "title": "로이킴이 안소희 유튜브 출연했는데 민심이 안좋네요",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10131905",
+            "score": 71.56
+          }
+        ],
+        "first_seen": "2026-09-27T12:58:49.050910+09:00",
+        "last_seen": "2026-09-27T12:58:49.050910+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 7,
+        "change": "NEW"
+      },
+      {
+        "id": "iaa40d60f",
+        "title": "‘유튜버’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "유튜버"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 97.5,
+        "peak_score": 88.03,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 6,
+            "title": "유튜버 단군 암살자(들) 리뷰 중 음모론에 대한 의견.jpg",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466232&_dcbest=1&page=1",
+            "score": 79.03
+          },
+          {
+            "source": "인벤",
+            "rank": 76,
+            "title": "약혐) 부산 찜질방 빈대 이슈 업로드한 유튜버",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2733169",
+            "score": 56.08
+          }
+        ],
+        "first_seen": "2026-09-27T18:12:53.111746+09:00",
+        "last_seen": "2026-09-27T18:12:53.111746+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 8,
+        "change": "NEW"
+      },
+      {
+        "id": "i106465f0",
+        "title": "신작 영화 암살자들 여론 현황.jpg",
+        "keywords": [
+          "암살자들",
+          "영화"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 96.28,
+        "peak_score": 83.35,
+        "appearances": 3,
+        "sources": [
+          "디시인사이드",
+          "루리웹",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 62,
+            "title": "신작 영화 암살자들 여론 현황.jpg",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466178&_dcbest=1&page=1",
+            "score": 59.32
+          },
+          {
+            "source": "루리웹",
+            "rank": 77,
+            "title": "추석버프 받고 100만 돌파한 영화 암살자들.jpg",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76811088?m=humor_only&t=now",
+            "score": 55.68
+          }
+        ],
+        "first_seen": "2026-09-27T18:16:30.778383+09:00",
+        "last_seen": "2026-09-27T18:45:04.136110+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 9,
+        "change": "NEW"
+      },
+      {
+        "id": "ia0fd1514",
+        "title": "‘유시민’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "유시민"
+        ],
+        "source_count": 2,
+        "post_count": 3,
+        "score": 93.98,
+        "peak_score": 81.49,
+        "appearances": 2,
+        "sources": [
+          "뽐뿌",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 13,
+            "title": "뉴짬통), 유시민 총공격 프로젝트 가동",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10131859",
+            "score": 72.49
+          },
+          {
+            "source": "클리앙",
+            "rank": 67,
+            "title": "진짜 뉴재명분들 유시민 죽자사자 공격해봤자...대통령 지지율만 나락가요",
+            "url": "https://www.clien.net/service/board/park/19270178?od=T31&po=0&category=0&groupCd=",
+            "score": 56.38
+          }
+        ],
+        "first_seen": "2026-09-27T12:58:49.050910+09:00",
+        "last_seen": "2026-09-27T13:38:37.715424+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 10,
+        "change": "NEW"
+      },
+      {
+        "id": "i59b001e5",
+        "title": "‘50대’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "50대"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 90.8,
+        "peak_score": 81.33,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 15,
+            "title": "50대 가장, 아내, 자녀 살해하고 투신",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466239&_dcbest=1&page=1",
+            "score": 72.33
+          },
+          {
+            "source": "인벤",
+            "rank": 74,
+            "title": "사진 찍다 그만”…제주 천지연폭포서 50대 관광객 추락 사망",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2733185",
+            "score": 56.38
+          }
+        ],
+        "first_seen": "2026-09-27T18:12:53.111746+09:00",
+        "last_seen": "2026-09-27T18:12:53.111746+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 11,
+        "change": "NEW"
+      },
+      {
+        "id": "i0d6a2535",
+        "title": "‘manhwa’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "manhwa"
+        ],
+        "source_count": 2,
+        "post_count": 5,
+        "score": 90.22,
+        "peak_score": 77.75,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 27,
+            "title": "ㅇㅎ) 빈유 안드로이드 아내가 배송된.manhwa",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2733191",
+            "score": 65.75
+          },
+          {
+            "source": "루리웹",
+            "rank": 78,
+            "title": "호리데이) 다 보이는 투명인간 후배.manhwa",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76823181?m=humor_only&t=now",
+            "score": 55.73
+          }
+        ],
+        "first_seen": "2026-09-27T18:12:53.111746+09:00",
+        "last_seen": "2026-09-27T18:12:53.111746+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 5,
+        "rank": 12,
+        "change": "NEW"
+      },
+      {
+        "id": "i171ab594",
+        "title": "김동현 로우킥 맞고 싶다는 사장님",
+        "keywords": [
+          "김동현",
+          "로우킥"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 87.53,
+        "peak_score": 72.57,
+        "appearances": 5,
+        "sources": [
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 55,
+            "title": "김동현 로우킥 맞고 싶다는 사장님",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2733129",
+            "score": 59.78
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 61,
+            "title": "김동현 로우킥 맞고 싶다는 사장님",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=21605",
+            "score": 58.74
+          }
+        ],
+        "first_seen": "2026-09-27T14:01:32.332928+09:00",
+        "last_seen": "2026-09-27T14:14:08.194313+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 13,
+        "change": "NEW"
+      },
+      {
+        "id": "i2272efa7",
+        "title": "‘리센느’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "리센느"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 86.17,
+        "peak_score": 74.68,
+        "appearances": 2,
+        "sources": [
+          "디시인사이드",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 30,
+            "title": "이번에 공개된 리센느 수원시 홍보 단가",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2733131",
+            "score": 65.68
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 93,
+            "title": "리센느 미나미 뿌리를 찾아서 금수저학교 교복입고 절친 만나기.",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466146&_dcbest=1&page=1",
+            "score": 48.21
+          }
+        ],
+        "first_seen": "2026-09-27T12:58:49.050910+09:00",
+        "last_seen": "2026-09-27T14:09:17.311285+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 14,
+        "change": "NEW"
+      },
+      {
+        "id": "i90e493b6",
+        "title": "‘결승행’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "결승행"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 85.71,
+        "peak_score": 70.75,
+        "appearances": 5,
+        "sources": [
+          "디시인사이드",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 70,
+            "title": "한국 야구 결승행…일본에 설욕하고 5연패 도전",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466174&_dcbest=1&page=1",
+            "score": 56.45
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 90,
+            "title": "[아시안게임] ‘4연패 도전’ 이민성호, 중국과 결승행 다툼...일본은 우즈벡과",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=news_sports&no=354869",
+            "score": 52.66
+          }
+        ],
+        "first_seen": "2026-09-27T14:01:32.332928+09:00",
+        "last_seen": "2026-09-27T14:14:08.194313+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 15,
+        "change": "NEW"
+      },
+      {
+        "id": "i7f48cc7a",
+        "title": "‘반도체’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "반도체"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 85.52,
+        "peak_score": 74.03,
+        "appearances": 2,
+        "sources": [
+          "디시인사이드",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 80,
+            "title": "반도체 호황에 초과세수 50조…기금 200조 넘나",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466226&_dcbest=1&page=1",
+            "score": 54.69
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 91,
+            "title": "미국 중간선거 결과에 따라 반도체 주가 변화 예상",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=438374",
+            "score": 53.31
+          }
+        ],
+        "first_seen": "2026-09-27T18:31:46.541305+09:00",
+        "last_seen": "2026-09-27T18:45:04.136110+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 16,
+        "change": "NEW"
+      },
+      {
+        "id": "i36451721",
+        "title": "ㅇㅎ) 빈유 안드로이드 아내가 배송된.manhwa",
+        "keywords": [
+          "배송된",
+          "빈유",
+          "안드로이드",
+          "아내가"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 85.24,
+        "peak_score": 73.75,
+        "appearances": 2,
+        "sources": [
+          "루리웹",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 29,
+            "title": "ㅇㅎ) 빈유 안드로이드 아내가 배송된.manhwa",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2733191",
+            "score": 65.74
+          },
+          {
+            "source": "루리웹",
+            "rank": 35,
+            "title": "빈유 안드로이드 아내가 배송된 만화.manhwa",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76823177?m=humor_only&t=now",
+            "score": 65.05
+          }
+        ],
+        "first_seen": "2026-09-27T18:12:53.111746+09:00",
+        "last_seen": "2026-09-27T18:16:30.778383+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 17,
+        "change": "NEW"
+      },
+      {
+        "id": "i2a7fad4a",
+        "title": "‘갈라치기’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "갈라치기"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 84.91,
+        "peak_score": 75.44,
+        "appearances": 1,
+        "sources": [
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 30,
+            "title": "갈라치기 세력들이 있는 듯",
+            "url": "https://www.clien.net/service/board/park/19270243?od=T31&po=0&category=0&groupCd=",
+            "score": 66.44
+          },
+          {
+            "source": "인벤",
+            "rank": 39,
+            "title": "[속보] 조국혁신당 “추석 민심, 민주 진보 세력 갈라치기 말라는 분명한 경고”",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2733160",
+            "score": 63.75
+          }
+        ],
+        "first_seen": "2026-09-27T16:21:22.580161+09:00",
+        "last_seen": "2026-09-27T16:21:22.580161+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 18,
+        "change": "NEW"
+      },
+      {
+        "id": "i386066fc",
+        "title": "‘때문에’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "때문에"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 84.03,
+        "peak_score": 74.56,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 28,
+            "title": "개그맨 이상준, 임우일은 한우 때문에 똥줄 타겠는데요?",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10131992",
+            "score": 65.56
+          },
+          {
+            "source": "루리웹",
+            "rank": 94,
+            "title": "배그 사건 때문에 수피 밴한 기업에 대해 알아보자",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76820603?m=humor_only&t=now",
+            "score": 52.88
+          }
+        ],
+        "first_seen": "2026-09-27T13:38:37.715424+09:00",
+        "last_seen": "2026-09-27T13:38:37.715424+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 19,
+        "change": "NEW"
+      },
+      {
+        "id": "ibb0f2ad0",
+        "title": "ㅇㅎ) 빈유 안드로이드 아내가 배송된.manhwa",
+        "keywords": [
+          "배송된",
+          "빈유",
+          "manhwa",
+          "안드로이드",
+          "아내가"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 83.22,
+        "peak_score": 73.75,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 27,
+            "title": "ㅇㅎ) 빈유 안드로이드 아내가 배송된.manhwa",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2733191",
+            "score": 65.75
+          },
+          {
+            "source": "루리웹",
+            "rank": 92,
+            "title": "빈유 안드로이드 아내가 배송된 만화.manhwa",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76823177?m=humor_only&t=now",
+            "score": 52.89
+          }
+        ],
+        "first_seen": "2026-09-27T18:12:53.111746+09:00",
+        "last_seen": "2026-09-27T18:12:53.111746+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 20,
+        "change": "NEW"
+      }
+    ],
+    "monthly": [
+      {
+        "id": "i06cab454",
+        "title": "콘크리트에 ‘사람 똥’ 넣었더니…‘휨 강도’ 무려 42%나 증가했다",
+        "keywords": [
+          "강도",
+          "콘크리트에"
+        ],
+        "source_count": 2,
+        "post_count": 3,
+        "score": 123.27,
+        "peak_score": 106.54,
+        "appearances": 6,
+        "sources": [
+          "디시인사이드",
+          "루리웹"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 1,
+            "title": "콘크리트에 ‘사람 똥’ 넣었더니…‘휨 강도’ 무려 42%나 증가했다",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76818587?m=humor",
+            "score": 98.54
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 19,
+            "title": "콘크리트에 똥넣었더니…‘휨 강도’ 무려 42%나 증가",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466189&_dcbest=1&page=1",
+            "score": 70.66
+          }
+        ],
+        "first_seen": "2026-09-27T14:01:32.332928+09:00",
+        "last_seen": "2026-09-27T16:21:22.580161+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 1,
+        "change": "NEW"
+      },
+      {
+        "id": "iba838050",
+        "title": "‘베트남’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "베트남"
+        ],
+        "source_count": 2,
+        "post_count": 3,
+        "score": 121.83,
+        "peak_score": 107.9,
+        "appearances": 3,
+        "sources": [
+          "루리웹",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 2,
+            "title": "베트남 기업, 스트리머 수피 글로벌 밴",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76819981?m=humor",
+            "score": 94.94
+          },
+          {
+            "source": "인벤",
+            "rank": 18,
+            "title": "베트남 배그 Himass, Tanvuu 영구정지 시위 사이트 개설",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2733123",
+            "score": 74.01
+          }
+        ],
+        "first_seen": "2026-09-27T13:38:37.715424+09:00",
+        "last_seen": "2026-09-27T14:14:08.194313+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 3,
+        "rank": 2,
+        "change": "NEW"
+      },
+      {
+        "id": "i26c94275",
+        "title": "‘러시아’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "러시아"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 118.61,
+        "peak_score": 107.12,
+        "appearances": 2,
+        "sources": [
+          "루리웹",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 3,
+            "title": "30대 이상만 입장 가능한 러시아 클럽",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76818593?m=humor",
+            "score": 92.17
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 38,
+            "title": "길거리에서 와이프 뺨을 툭툭 치는 러시아 ㄷ.avi",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10131714",
+            "score": 62.99
+          }
+        ],
+        "first_seen": "2026-09-27T14:04:44.915653+09:00",
+        "last_seen": "2026-09-27T14:09:17.311285+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 3,
+        "change": "NEW"
+      },
+      {
+        "id": "i8f4c9529",
+        "title": "‘머리가’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "머리가"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 117.85,
+        "peak_score": 108.38,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 1,
+            "title": "의외로 머리가 나쁜 애들이 이해하지 못하는것",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76817292?m=humor",
+            "score": 99.38
+          },
+          {
+            "source": "인벤",
+            "rank": 25,
+            "title": "??? : 여보세요? 어 나 호텔 도착했어. 근데 먼 노숙자같이 머리가 저런 사람이 있냐 ㅋㅋ",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2733105",
+            "score": 67.71
+          }
+        ],
+        "first_seen": "2026-09-27T12:58:49.050910+09:00",
+        "last_seen": "2026-09-27T12:58:49.050910+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 4,
+        "change": "NEW"
+      },
+      {
+        "id": "i2761816c",
+        "title": "분당 중식당 시진핑 테러 용의자 4명모두 사건당일 출국",
+        "keywords": [
+          "테러",
+          "분당",
+          "용의자",
+          "출국",
+          "중식당",
+          "시진핑",
+          "중국인"
+        ],
+        "source_count": 3,
+        "post_count": 3,
+        "score": 116.49,
+        "peak_score": 102.02,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "루리웹",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 4,
+            "title": "분당 중식당 시진핑 테러 용의자 4명모두 사건당일 출국",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466205&_dcbest=1&page=1",
+            "score": 87.02
+          },
+          {
+            "source": "인벤",
+            "rank": 32,
+            "title": "분당 중화식당 테러 용의자 4명 모두 무비자 중국인 관광객…사건 당일 출국",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2733155",
+            "score": 66.28
+          },
+          {
+            "source": "루리웹",
+            "rank": 91,
+            "title": "분당 중식당 '시진핑' 테러 용의자 4명 모두 중국인 당일 출국",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76821943?m=humor_only&t=now",
+            "score": 53.52
+          }
+        ],
+        "first_seen": "2026-09-27T16:21:22.580161+09:00",
+        "last_seen": "2026-09-27T16:21:22.580161+09:00",
+        "latest_source_count": 3,
+        "latest_post_count": 3,
+        "rank": 5,
+        "change": "NEW"
+      },
+      {
+        "id": "ib3876eed",
+        "title": "‘50대’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "50대"
+        ],
+        "source_count": 3,
+        "post_count": 5,
+        "score": 104.89,
+        "peak_score": 82.93,
+        "appearances": 5,
+        "sources": [
+          "디시인사이드",
+          "루리웹",
+          "뽐뿌",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 15,
+            "title": "50대 가장, 아내, 자녀 살해하고 투신",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466239&_dcbest=1&page=1",
+            "score": 72.33
+          },
+          {
+            "source": "인벤",
+            "rank": 74,
+            "title": "사진 찍다 그만”…제주 천지연폭포서 50대 관광객 추락 사망",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2733185",
+            "score": 56.38
+          }
+        ],
+        "first_seen": "2026-09-27T12:58:49.050910+09:00",
+        "last_seen": "2026-09-27T18:12:53.111746+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 5,
+        "rank": 6,
+        "change": "NEW"
+      },
+      {
+        "id": "i36281a8d",
+        "title": "‘유튜브’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "유튜브"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 98.12,
+        "peak_score": 88.65,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 8,
+            "title": "유튜브 보고 차를 구입한 사람들",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2733097",
+            "score": 79.65
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 15,
+            "title": "로이킴이 안소희 유튜브 출연했는데 민심이 안좋네요",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10131905",
+            "score": 71.56
+          }
+        ],
+        "first_seen": "2026-09-27T12:58:49.050910+09:00",
+        "last_seen": "2026-09-27T12:58:49.050910+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 7,
+        "change": "NEW"
+      },
+      {
+        "id": "iaa40d60f",
+        "title": "‘유튜버’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "유튜버"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 97.5,
+        "peak_score": 88.03,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 6,
+            "title": "유튜버 단군 암살자(들) 리뷰 중 음모론에 대한 의견.jpg",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466232&_dcbest=1&page=1",
+            "score": 79.03
+          },
+          {
+            "source": "인벤",
+            "rank": 76,
+            "title": "약혐) 부산 찜질방 빈대 이슈 업로드한 유튜버",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2733169",
+            "score": 56.08
+          }
+        ],
+        "first_seen": "2026-09-27T18:12:53.111746+09:00",
+        "last_seen": "2026-09-27T18:12:53.111746+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 8,
+        "change": "NEW"
+      },
+      {
+        "id": "i106465f0",
+        "title": "신작 영화 암살자들 여론 현황.jpg",
+        "keywords": [
+          "암살자들",
+          "영화"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 96.28,
+        "peak_score": 83.35,
+        "appearances": 3,
+        "sources": [
+          "디시인사이드",
+          "루리웹",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 62,
+            "title": "신작 영화 암살자들 여론 현황.jpg",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466178&_dcbest=1&page=1",
+            "score": 59.32
+          },
+          {
+            "source": "루리웹",
+            "rank": 77,
+            "title": "추석버프 받고 100만 돌파한 영화 암살자들.jpg",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76811088?m=humor_only&t=now",
+            "score": 55.68
+          }
+        ],
+        "first_seen": "2026-09-27T18:16:30.778383+09:00",
+        "last_seen": "2026-09-27T18:45:04.136110+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 9,
+        "change": "NEW"
+      },
+      {
+        "id": "ia0fd1514",
+        "title": "‘유시민’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "유시민"
+        ],
+        "source_count": 2,
+        "post_count": 3,
+        "score": 93.98,
+        "peak_score": 81.49,
+        "appearances": 2,
+        "sources": [
+          "뽐뿌",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 13,
+            "title": "뉴짬통), 유시민 총공격 프로젝트 가동",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10131859",
+            "score": 72.49
+          },
+          {
+            "source": "클리앙",
+            "rank": 67,
+            "title": "진짜 뉴재명분들 유시민 죽자사자 공격해봤자...대통령 지지율만 나락가요",
+            "url": "https://www.clien.net/service/board/park/19270178?od=T31&po=0&category=0&groupCd=",
+            "score": 56.38
+          }
+        ],
+        "first_seen": "2026-09-27T12:58:49.050910+09:00",
+        "last_seen": "2026-09-27T13:38:37.715424+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 10,
+        "change": "NEW"
+      },
+      {
+        "id": "i59b001e5",
+        "title": "‘50대’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "50대"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 90.8,
+        "peak_score": 81.33,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 15,
+            "title": "50대 가장, 아내, 자녀 살해하고 투신",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466239&_dcbest=1&page=1",
+            "score": 72.33
+          },
+          {
+            "source": "인벤",
+            "rank": 74,
+            "title": "사진 찍다 그만”…제주 천지연폭포서 50대 관광객 추락 사망",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2733185",
+            "score": 56.38
+          }
+        ],
+        "first_seen": "2026-09-27T18:12:53.111746+09:00",
+        "last_seen": "2026-09-27T18:12:53.111746+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 11,
+        "change": "NEW"
+      },
+      {
+        "id": "i0d6a2535",
+        "title": "‘manhwa’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "manhwa"
+        ],
+        "source_count": 2,
+        "post_count": 5,
+        "score": 90.22,
+        "peak_score": 77.75,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 27,
+            "title": "ㅇㅎ) 빈유 안드로이드 아내가 배송된.manhwa",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2733191",
+            "score": 65.75
+          },
+          {
+            "source": "루리웹",
+            "rank": 78,
+            "title": "호리데이) 다 보이는 투명인간 후배.manhwa",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76823181?m=humor_only&t=now",
+            "score": 55.73
+          }
+        ],
+        "first_seen": "2026-09-27T18:12:53.111746+09:00",
+        "last_seen": "2026-09-27T18:12:53.111746+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 5,
+        "rank": 12,
+        "change": "NEW"
+      },
+      {
+        "id": "i171ab594",
+        "title": "김동현 로우킥 맞고 싶다는 사장님",
+        "keywords": [
+          "김동현",
+          "로우킥"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 87.53,
+        "peak_score": 72.57,
+        "appearances": 5,
+        "sources": [
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 55,
+            "title": "김동현 로우킥 맞고 싶다는 사장님",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2733129",
+            "score": 59.78
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 61,
+            "title": "김동현 로우킥 맞고 싶다는 사장님",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=21605",
+            "score": 58.74
+          }
+        ],
+        "first_seen": "2026-09-27T14:01:32.332928+09:00",
+        "last_seen": "2026-09-27T14:14:08.194313+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 13,
+        "change": "NEW"
+      },
+      {
+        "id": "i2272efa7",
+        "title": "‘리센느’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "리센느"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 86.17,
+        "peak_score": 74.68,
+        "appearances": 2,
+        "sources": [
+          "디시인사이드",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 30,
+            "title": "이번에 공개된 리센느 수원시 홍보 단가",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2733131",
+            "score": 65.68
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 93,
+            "title": "리센느 미나미 뿌리를 찾아서 금수저학교 교복입고 절친 만나기.",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466146&_dcbest=1&page=1",
+            "score": 48.21
+          }
+        ],
+        "first_seen": "2026-09-27T12:58:49.050910+09:00",
+        "last_seen": "2026-09-27T14:09:17.311285+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 14,
+        "change": "NEW"
+      },
+      {
+        "id": "i90e493b6",
+        "title": "‘결승행’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "결승행"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 85.71,
+        "peak_score": 70.75,
+        "appearances": 5,
+        "sources": [
+          "디시인사이드",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 70,
+            "title": "한국 야구 결승행…일본에 설욕하고 5연패 도전",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466174&_dcbest=1&page=1",
+            "score": 56.45
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 90,
+            "title": "[아시안게임] ‘4연패 도전’ 이민성호, 중국과 결승행 다툼...일본은 우즈벡과",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=news_sports&no=354869",
+            "score": 52.66
+          }
+        ],
+        "first_seen": "2026-09-27T14:01:32.332928+09:00",
+        "last_seen": "2026-09-27T14:14:08.194313+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 15,
+        "change": "NEW"
+      },
+      {
+        "id": "i7f48cc7a",
+        "title": "‘반도체’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "반도체"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 85.52,
+        "peak_score": 74.03,
+        "appearances": 2,
+        "sources": [
+          "디시인사이드",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 80,
+            "title": "반도체 호황에 초과세수 50조…기금 200조 넘나",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466226&_dcbest=1&page=1",
+            "score": 54.69
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 91,
+            "title": "미국 중간선거 결과에 따라 반도체 주가 변화 예상",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=438374",
+            "score": 53.31
+          }
+        ],
+        "first_seen": "2026-09-27T18:31:46.541305+09:00",
+        "last_seen": "2026-09-27T18:45:04.136110+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 16,
+        "change": "NEW"
+      },
+      {
+        "id": "i36451721",
+        "title": "ㅇㅎ) 빈유 안드로이드 아내가 배송된.manhwa",
+        "keywords": [
+          "배송된",
+          "빈유",
+          "안드로이드",
+          "아내가"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 85.24,
+        "peak_score": 73.75,
+        "appearances": 2,
+        "sources": [
+          "루리웹",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 29,
+            "title": "ㅇㅎ) 빈유 안드로이드 아내가 배송된.manhwa",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2733191",
+            "score": 65.74
+          },
+          {
+            "source": "루리웹",
+            "rank": 35,
+            "title": "빈유 안드로이드 아내가 배송된 만화.manhwa",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76823177?m=humor_only&t=now",
+            "score": 65.05
+          }
+        ],
+        "first_seen": "2026-09-27T18:12:53.111746+09:00",
+        "last_seen": "2026-09-27T18:16:30.778383+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 17,
+        "change": "NEW"
+      },
+      {
+        "id": "i2a7fad4a",
+        "title": "‘갈라치기’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "갈라치기"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 84.91,
+        "peak_score": 75.44,
+        "appearances": 1,
+        "sources": [
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 30,
+            "title": "갈라치기 세력들이 있는 듯",
+            "url": "https://www.clien.net/service/board/park/19270243?od=T31&po=0&category=0&groupCd=",
+            "score": 66.44
+          },
+          {
+            "source": "인벤",
+            "rank": 39,
+            "title": "[속보] 조국혁신당 “추석 민심, 민주 진보 세력 갈라치기 말라는 분명한 경고”",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2733160",
+            "score": 63.75
+          }
+        ],
+        "first_seen": "2026-09-27T16:21:22.580161+09:00",
+        "last_seen": "2026-09-27T16:21:22.580161+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 18,
+        "change": "NEW"
+      },
+      {
+        "id": "i386066fc",
+        "title": "‘때문에’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "때문에"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 84.03,
+        "peak_score": 74.56,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 28,
+            "title": "개그맨 이상준, 임우일은 한우 때문에 똥줄 타겠는데요?",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10131992",
+            "score": 65.56
+          },
+          {
+            "source": "루리웹",
+            "rank": 94,
+            "title": "배그 사건 때문에 수피 밴한 기업에 대해 알아보자",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76820603?m=humor_only&t=now",
+            "score": 52.88
+          }
+        ],
+        "first_seen": "2026-09-27T13:38:37.715424+09:00",
+        "last_seen": "2026-09-27T13:38:37.715424+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 19,
+        "change": "NEW"
+      },
+      {
+        "id": "ibb0f2ad0",
+        "title": "ㅇㅎ) 빈유 안드로이드 아내가 배송된.manhwa",
+        "keywords": [
+          "배송된",
+          "빈유",
+          "manhwa",
+          "안드로이드",
+          "아내가"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 83.22,
+        "peak_score": 73.75,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 27,
+            "title": "ㅇㅎ) 빈유 안드로이드 아내가 배송된.manhwa",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2733191",
+            "score": 65.75
+          },
+          {
+            "source": "루리웹",
+            "rank": 92,
+            "title": "빈유 안드로이드 아내가 배송된 만화.manhwa",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76823177?m=humor_only&t=now",
+            "score": 52.89
+          }
+        ],
+        "first_seen": "2026-09-27T18:12:53.111746+09:00",
+        "last_seen": "2026-09-27T18:12:53.111746+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 20,
+        "change": "NEW"
+      }
+    ]
+  }
+}
