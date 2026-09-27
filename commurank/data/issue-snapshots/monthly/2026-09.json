@@ -3,7 +3,7 @@
   "period": "monthly",
   "key": "2026-09",
   "label": "2026년 09월",
-  "collected_at": "2026-09-28T03:58:29.514955+09:00",
+  "collected_at": "2026-09-28T07:08:45.324597+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -539,6 +539,44 @@
       "change": 0
     },
     {
+      "id": "i5d6688ff",
+      "title": "‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "네이버페이"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 92.04,
+      "peak_score": 82.57,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 13,
+          "title": "[네이버페이] 9월 2차 네이버플러스 멤버십 데이 (9/28)",
+          "url": "https://bbs.ruliweb.com/market/board/1020/read/107567",
+          "score": 73.57
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 72,
+          "title": "[란123] 네이버페이 109원 + 랜덤 포인트 받으세요 (+기타 223원)",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10133072",
+          "score": 55.78
+        }
+      ],
+      "first_seen": "2026-09-28T07:08:45.324597+09:00",
+      "last_seen": "2026-09-28T07:08:45.324597+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 14,
+      "change": "NEW"
+    },
+    {
       "id": "i8b4085e0",
       "title": "아겜 야구 대한민국 금메달!",
       "keywords": [
@@ -577,8 +615,8 @@
       "last_seen": "2026-09-27T23:49:45.340258+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 14,
-      "change": 0
+      "rank": 15,
+      "change": -1
     },
     {
       "id": "i7f48cc7a",
@@ -615,8 +653,52 @@
       "last_seen": "2026-09-27T18:50:26.658953+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 15,
-      "change": 0
+      "rank": 16,
+      "change": -1
+    },
+    {
+      "id": "i9f9db682",
+      "title": "오피셜)한국 육상 400m 계주 실격 항소로 뒤집혀 결승 진출 성공!",
+      "keywords": [
+        "한국",
+        "항소로",
+        "실격",
+        "성공",
+        "뒤집혀",
+        "400m",
+        "오피셜"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 88.38,
+      "peak_score": 75.45,
+      "appearances": 3,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 28,
+          "title": "오피셜)한국 육상 400m 계주 실격 항소로 뒤집혀 결승 진출 성공!",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2733335",
+          "score": 66.05
+        },
+        {
+          "source": "클리앙",
+          "rank": 50,
+          "title": "오피셜)한국 육상 400m 계주 실격 항소로 뒤집혀 결승 진출 성공!",
+          "url": "https://www.clien.net/service/board/park/19270475?od=T31&po=0&category=0&groupCd=",
+          "score": 61.17
+        }
+      ],
+      "first_seen": "2026-09-27T23:49:45.340258+09:00",
+      "last_seen": "2026-09-28T07:08:45.324597+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 17,
+      "change": 1
     },
     {
       "id": "i4df0ead9",
@@ -653,8 +735,8 @@
       "last_seen": "2026-09-27T20:23:34.525151+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 16,
-      "change": 0
+      "rank": 18,
+      "change": -2
     },
     {
       "id": "i171ab594",
@@ -692,54 +774,8 @@
       "last_seen": "2026-09-27T14:14:08.194313+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 17,
-      "change": 0
-    },
-    {
-      "id": "i9f9db682",
-      "title": "오피셜)한국 육상 400m 계주 실격 항소로 뒤집혀 결승 진출 성공!",
-      "keywords": [
-        "성공",
-        "진출",
-        "결승",
-        "육상",
-        "한국",
-        "항소로",
-        "400m",
-        "뒤집혀",
-        "오피셜"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 86.94,
-      "peak_score": 75.45,
-      "appearances": 2,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 28,
-          "title": "오피셜)한국 육상 400m 계주 실격 항소로 뒤집혀 결승 진출 성공!",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2733335",
-          "score": 66.05
-        },
-        {
-          "source": "클리앙",
-          "rank": 37,
-          "title": "오피셜)한국 육상 400m 계주 실격 항소로 뒤집혀 결승 진출 성공!",
-          "url": "https://www.clien.net/service/board/park/19270475?od=T31&po=0&category=0&groupCd=",
-          "score": 63.93
-        }
-      ],
-      "first_seen": "2026-09-27T23:49:45.340258+09:00",
-      "last_seen": "2026-09-28T03:58:29.514955+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 18,
-      "change": "NEW"
+      "rank": 19,
+      "change": -2
     },
     {
       "id": "id8fd9d6b",
@@ -774,45 +810,6 @@
       ],
       "first_seen": "2026-09-27T23:49:45.340258+09:00",
       "last_seen": "2026-09-27T23:49:45.340258+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 19,
-      "change": -1
-    },
-    {
-      "id": "i2272efa7",
-      "title": "‘리센느’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "리센느"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 86.17,
-      "peak_score": 74.68,
-      "appearances": 2,
-      "sources": [
-        "디시인사이드",
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 30,
-          "title": "이번에 공개된 리센느 수원시 홍보 단가",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2733131",
-          "score": 65.68
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 93,
-          "title": "리센느 미나미 뿌리를 찾아서 금수저학교 교복입고 절친 만나기.",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466146&_dcbest=1&page=1",
-          "score": 48.21
-        }
-      ],
-      "first_seen": "2026-09-27T12:58:49.050910+09:00",
-      "last_seen": "2026-09-27T14:09:17.311285+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 20,
