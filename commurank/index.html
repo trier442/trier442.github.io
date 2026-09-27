@@ -26,7 +26,13 @@
         <button class="nav-item" data-period="monthly">월간</button>
       </nav>
 
-      <button id="themeToggle" class="icon-button" aria-label="테마 전환">◐</button>
+      <div class="header-actions">
+        <form class="global-search" action="./search/" method="get" role="search">
+          <input type="search" name="q" aria-label="통합 검색" placeholder="검색" />
+          <button type="submit" aria-label="검색">⌕</button>
+        </form>
+        <button id="themeToggle" class="icon-button" aria-label="테마 전환">◐</button>
+      </div>
     </div>
   </header>
 
