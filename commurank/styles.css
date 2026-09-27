@@ -246,3 +246,11 @@ footer { border-top: 1px solid var(--line); margin-top: 50px; background: var(--
     min-width: 0;
   }
 }
+
+.hot-delta {
+  color: var(--hot)!important;
+  font-weight: 900;
+}
+.nav-item[data-period="rising"].active {
+  color: var(--hot);
+}
