@@ -585,6 +585,98 @@ def attach_rank_changes(rankings: dict[str, list[dict]], previous: dict) -> None
             p["change"] = "NEW" if old_rank is None else old_rank - (i + 1)
 
 
+def build_rising(current: list[dict], previous: dict, collected_at: str, limit: int = 50) -> tuple[list[dict], int]:
+    previous_items = previous.get("rankings", {}).get("realtime", []) if isinstance(previous, dict) else []
+    previous_map = {p.get("url"): {**p, "_rank": i + 1} for i, p in enumerate(previous_items) if p.get("url")}
+
+    window_minutes = 30
+    previous_at = previous.get("collected_at") if isinstance(previous, dict) else None
+    if previous_at:
+        try:
+            before = dt(previous_at).astimezone(KST)
+            after = dt(collected_at).astimezone(KST)
+            window_minutes = max(1, round((after - before).total_seconds() / 60))
+        except Exception:
+            window_minutes = 30
+
+    rows = []
+    for rank, p in enumerate(current, start=1):
+        old = previous_map.get(p.get("url"))
+        row = dict(p)
+        row["current_rank"] = rank
+        row["new_entry"] = old is None
+
+        if old:
+            row["delta_views"] = max(0, int(p.get("views", 0)) - int(old.get("views", 0)))
+            row["delta_likes"] = max(0, int(p.get("likes", 0)) - int(old.get("likes", 0)))
+            row["delta_comments"] = max(0, int(p.get("comments", 0)) - int(old.get("comments", 0)))
+            row["rank_gain"] = max(0, int(old.get("_rank", rank)) - rank)
+        else:
+            row["delta_views"] = 0
+            row["delta_likes"] = 0
+            row["delta_comments"] = 0
+            row["rank_gain"] = 0
+
+        rows.append(row)
+
+    # 커뮤니티 규모 차이를 줄이기 위해 증가량을 각 사이트 내부 백분위로 정규화한다.
+    by_source = {}
+    for row in rows:
+        by_source.setdefault(row["source"], []).append(row)
+
+    for source_rows in by_source.values():
+        view_values = [r["delta_views"] for r in source_rows if r["delta_views"] > 0]
+        like_values = [r["delta_likes"] for r in source_rows if r["delta_likes"] > 0]
+        comment_values = [r["delta_comments"] for r in source_rows if r["delta_comments"] > 0]
+        gain_values = [r["rank_gain"] for r in source_rows if r["rank_gain"] > 0]
+
+        for row in source_rows:
+            if row["new_entry"]:
+                # 신규 진입 글은 현재 사이트 내 인기점수가 높을 때만 급상승 후보가 된다.
+                row["rising_score"] = round(42 + float(row.get("score", 0)) * 0.42, 2)
+                continue
+
+            pieces = []
+            weights = []
+            if row["delta_views"] > 0:
+                pieces.append(percentile(view_values, row["delta_views"]))
+                weights.append(0.45)
+            if row["delta_likes"] > 0:
+                pieces.append(percentile(like_values, row["delta_likes"]))
+                weights.append(0.25)
+            if row["delta_comments"] > 0:
+                pieces.append(percentile(comment_values, row["delta_comments"]))
+                weights.append(0.20)
+            if row["rank_gain"] > 0:
+                pieces.append(percentile(gain_values, row["rank_gain"]))
+                weights.append(0.10)
+
+            if weights:
+                normalized = sum(v * w for v, w in zip(pieces, weights)) / sum(weights)
+                row["rising_score"] = round(100 * normalized, 2)
+            else:
+                row["rising_score"] = round(float(row.get("score", 0)) * 0.35, 2)
+
+    rising = sorted(
+        rows,
+        key=lambda r: (
+            r.get("rising_score", 0),
+            r.get("rank_gain", 0),
+            r.get("delta_comments", 0),
+            r.get("delta_likes", 0),
+            r.get("delta_views", 0),
+        ),
+        reverse=True,
+    )[:limit]
+
+    for i, row in enumerate(rising, start=1):
+        row["change"] = "NEW" if row.get("new_entry") else row.get("rank_gain", 0)
+        row["rising_rank"] = i
+        row["window_minutes"] = window_minutes
+
+    return rising, window_minutes
+
+
 def snapshot_meta(period: str, key: str, label: str, collected_at: str, path: Path) -> dict:
     return {
         "period": period,
@@ -733,19 +825,23 @@ def main() -> None:
 
     previous = load_json(LATEST_PATH, {})
     attach_rank_changes(rankings, previous)
+    rising, rising_window_minutes = build_rising(rankings["realtime"], previous, collected_at)
+    rankings["rising"] = rising
 
     topics = build_topics(rankings["realtime"])
 
     payload = {
-        "version": 2,
+        "version": 3,
         "collected_at": collected_at,
         "timezone": "Asia/Seoul",
         "period_basis": {
+            "rising": f"직전 수집 대비 약 {rising_window_minutes}분 변화",
             "daily": "오늘 00:00부터 현재까지",
             "weekly": "이번 주 월요일 00:00부터 현재까지",
             "monthly": "이번 달 1일 00:00부터 현재까지",
         },
         "sources": statuses,
+        "rising_window_minutes": rising_window_minutes,
         "rankings": rankings,
         "topics": topics,
     }
