@@ -71,6 +71,22 @@ function resolvePost() {
   historyItem = historic || null;
 }
 
+function rememberCurrentPost() {
+  if (!post?.url) return;
+  try {
+    const key = "commurank_recent_posts_v1";
+    const old = JSON.parse(localStorage.getItem(key) || "[]");
+    const rows = Array.isArray(old) ? old.filter(item => item?.url !== post.url) : [];
+    rows.unshift({
+      url: post.url,
+      title: post.title || "",
+      source: post.source || "",
+      at: new Date().toISOString()
+    });
+    localStorage.setItem(key, JSON.stringify(rows.slice(0,20)));
+  } catch {}
+}
+
 function currentRank() {
   const idx = (liveData?.rankings?.realtime || []).findIndex(p => p.url === originalUrl);
   return idx >= 0 ? idx + 1 : null;
@@ -213,6 +229,7 @@ function render() {
     return;
   }
 
+  rememberCurrentPost();
   document.title = post.title + " | 커뮤랭크";
   document.querySelector("#postTitle").textContent = post.title;
   document.querySelector("#postMeta").innerHTML =
