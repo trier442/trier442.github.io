@@ -319,5 +319,7 @@ if(localStorage.getItem("commurank-theme")==="dark")document.body.classList.add(
   const newMatched=[...postMap.values()].map(matchPost).filter(p=>p?.newSinceVisit);
   await showInterestNotification(newMatched);
 
-  localStorage.setItem(LAST_VISIT_KEY,new Date().toISOString());
+  if(latest?.collected_at){
+    localStorage.setItem(LAST_VISIT_KEY,latest.collected_at);
+  }
 })();
