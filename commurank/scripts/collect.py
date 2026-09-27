@@ -1392,7 +1392,7 @@ def build_briefing(
     if top_issue:
         overview_parts.append(f"오늘 가장 두드러진 이슈는 ‘{top_issue.get('title', '')}’입니다.")
     if top_keyword:
-        overview_parts.append(f"실시간 키워드 상위에는 #{top_keyword.get('keyword', '')}가 올라 있습니다.")
+        overview_parts.append(f"실시간 키워드 상위에는 #{top_keyword.get('keyword', '')}가 포착됐습니다.".replace("가 포착", " · 포착"))
     if rising_posts:
         overview_parts.append(f"직전 수집 대비 급상승 글 {min(5, len(rising_posts))}개를 별도로 추적 중입니다.")
     overview = " ".join(overview_parts) if overview_parts else "현재 수집된 데이터를 바탕으로 인터넷 인기 흐름을 집계 중입니다."
