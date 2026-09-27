@@ -924,6 +924,7 @@ def update_archive_index(new_metas: list[dict]) -> dict:
     return index
 
 
+# Temporary source failures use the last successful cache.
 def source_cache_path(source: str) -> Path:
     return SOURCE_CACHE_DIR / SOURCE_CACHE_FILES[source]
 
