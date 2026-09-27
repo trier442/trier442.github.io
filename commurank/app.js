@@ -1,3 +1,12 @@
+(() => {
+  if (document.querySelector('script[data-commurank-analytics]')) return;
+  const s = document.createElement("script");
+  s.src = "/commurank/analytics.js";
+  s.defer = true;
+  s.dataset.commURankAnalytics = "1";
+  document.head.appendChild(s);
+})();
+
 const fallbackPosts = [
   {title:"커뮤랭크 자동 수집을 준비하고 있습니다.", source:"커뮤랭크", category:"이슈", views:0, likes:0, comments:0, change:"NEW", url:"#"},
   {title:"GitHub Actions가 실행되면 실제 인기글 데이터로 자동 교체됩니다.", source:"커뮤랭크", category:"이슈", views:0, likes:0, comments:0, change:0, url:"#"}
