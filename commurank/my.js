@@ -1,3 +1,12 @@
+(() => {
+  if (document.querySelector('script[data-commurank-analytics]')) return;
+  const s = document.createElement("script");
+  s.src = "/commurank/analytics.js";
+  s.defer = true;
+  s.setAttribute("data-commurank-analytics", "1");
+  document.head.appendChild(s);
+})();
+
 const PREF_KEY="commurank_preferences_v1";
 const RECENT_KEY="commurank_recent_posts_v1";
 const SOURCES=["디시인사이드","더쿠","루리웹","클리앙","인벤","뽐뿌"];
