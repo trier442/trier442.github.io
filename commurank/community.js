@@ -1,3 +1,12 @@
+(() => {
+  if (document.querySelector('script[data-commurank-analytics]')) return;
+  const s = document.createElement("script");
+  s.src = "/commurank/analytics.js";
+  s.defer = true;
+  s.dataset.commURankAnalytics = "1";
+  document.head.appendChild(s);
+})();
+
 const sourceName = document.body.dataset.source || "";
 const sourceSlug = document.body.dataset.slug || "";
 let liveData = null;
