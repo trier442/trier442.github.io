@@ -5,6 +5,8 @@ import json
 import math
 import re
 import time
+from collections import Counter
+from difflib import SequenceMatcher
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from urllib.parse import urljoin
@@ -379,6 +381,128 @@ def score_source(items: list[dict]) -> list[dict]:
     return items
 
 
+TOPIC_STOPWORDS = {
+    "오늘", "요즘", "지금", "현재", "진짜", "관련", "반응", "근황", "결과", "이유", "정리",
+    "공개", "발표", "논란", "소식", "사진", "영상", "장면", "사람", "이야기", "게시글",
+    "대한", "에서", "으로", "그리고", "하지만", "그런데", "했다", "하는", "있는", "없는",
+    "jpg", "gif", "mp4", "webp", "ㅋㅋ", "ㅋㅋㅋ", "ㄷㄷ", "속보"
+}
+
+
+def topic_tokens(title: str) -> set[str]:
+    normalized = re.sub(r"[^0-9A-Za-z가-힣 ]+", " ", title.lower())
+    tokens = []
+    for token in normalized.split():
+        token = token.strip()
+        if len(token) < 2 or token in TOPIC_STOPWORDS:
+            continue
+        if token.isdigit() and len(token) < 3:
+            continue
+        tokens.append(token)
+    return set(tokens)
+
+
+def title_similarity(a: str, b: str) -> float:
+    ta, tb = topic_tokens(a), topic_tokens(b)
+    if not ta or not tb:
+        return 0.0
+
+    shared = ta & tb
+    union = ta | tb
+    jaccard = len(shared) / len(union)
+    coverage = len(shared) / min(len(ta), len(tb))
+
+    na = re.sub(r"\s+", "", re.sub(r"[^0-9A-Za-z가-힣 ]+", "", a.lower()))
+    nb = re.sub(r"\s+", "", re.sub(r"[^0-9A-Za-z가-힣 ]+", "", b.lower()))
+    seq = SequenceMatcher(None, na, nb).ratio() if na and nb else 0.0
+
+    # 짧은 공통어 하나만으로는 서로 다른 이슈가 합쳐지지 않게 보수적으로 판정한다.
+    if len(shared) >= 3:
+        return max(jaccard, coverage * 0.95, seq * 0.9)
+    if len(shared) == 2:
+        return max(jaccard, coverage * 0.88, seq * 0.82)
+    if len(shared) == 1:
+        only = next(iter(shared))
+        if len(only) >= 5 and seq >= 0.62:
+            return max(coverage * 0.7, seq * 0.72)
+        return 0.0
+    return seq * 0.55 if seq >= 0.78 else 0.0
+
+
+def build_topics(posts: list[dict], limit: int = 8) -> list[dict]:
+    clusters: list[dict] = []
+    ranked = [{**p, "rank": i + 1} for i, p in enumerate(posts)]
+
+    for p in ranked:
+        best_cluster = None
+        best_similarity = 0.0
+
+        for cluster in clusters:
+            similarities = [title_similarity(p["title"], item["title"]) for item in cluster["posts"]]
+            similarity = max(similarities) if similarities else 0.0
+            if similarity > best_similarity:
+                best_similarity = similarity
+                best_cluster = cluster
+
+        if best_cluster is not None and best_similarity >= 0.47:
+            best_cluster["posts"].append(p)
+        else:
+            clusters.append({"posts": [p]})
+
+    topics = []
+    for cluster in clusters:
+        items = cluster["posts"]
+        source_names = []
+        for item in items:
+            if item["source"] not in source_names:
+                source_names.append(item["source"])
+
+        if len(source_names) < 2:
+            continue
+
+        token_counts = Counter()
+        for item in items:
+            token_counts.update(topic_tokens(item["title"]))
+        keywords = [token for token, count in token_counts.most_common(5) if count >= 2]
+
+        representative = max(items, key=lambda x: (x.get("score", 0), -x["rank"]))
+        # 사이트별 가장 높은 순위 글 하나만 노출한다.
+        source_best = {}
+        for item in sorted(items, key=lambda x: x["rank"]):
+            source_best.setdefault(item["source"], item)
+        source_posts = list(source_best.values())
+
+        topic_score = (
+            max(float(item.get("score", 0)) for item in items)
+            + (len(source_names) - 1) * 6
+            + min(6, len(items))
+        )
+
+        topics.append({
+            "title": representative["title"],
+            "source_count": len(source_names),
+            "post_count": len(items),
+            "score": round(topic_score, 2),
+            "keywords": keywords,
+            "posts": [
+                {
+                    "source": item["source"],
+                    "rank": item["rank"],
+                    "title": item["title"],
+                    "url": item["url"],
+                    "score": item.get("score", 0),
+                }
+                for item in source_posts[:6]
+            ],
+        })
+
+    return sorted(
+        topics,
+        key=lambda t: (t["source_count"], t["post_count"], t["score"]),
+        reverse=True,
+    )[:limit]
+
+
 def load_json(path: Path, fallback):
     try:
         return json.loads(path.read_text(encoding="utf-8"))
@@ -500,8 +624,10 @@ def main() -> None:
     previous = load_json(LATEST_PATH, {})
     attach_rank_changes(rankings, previous)
 
+    topics = build_topics(rankings["realtime"])
+
     payload = {
-        "version": 1,
+        "version": 2,
         "collected_at": collected_at,
         "timezone": "Asia/Seoul",
         "period_basis": {
@@ -511,6 +637,7 @@ def main() -> None:
         },
         "sources": statuses,
         "rankings": rankings,
+        "topics": topics,
     }
 
     LATEST_PATH.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
