@@ -14,6 +14,7 @@ const periodInfo = {
 let period = "realtime";
 let category = "전체";
 let source = "전체";
+let keyword = "";
 let liveData = null;
 let archiveIndex = null;
 let archiveData = null;
@@ -65,6 +66,35 @@ function renderSourceOptions(){
 
   if (source !== "전체" && !ordered.includes(source)) source = "전체";
   select.value = source;
+}
+
+function renderKeywords(){
+  const rows = liveData?.keywords || [];
+  const container = document.querySelector("#keywordList");
+  const badge = document.querySelector("#keywordCount");
+  badge.textContent = rows.length ? "TOP " + rows.length : "0건";
+
+  if (!rows.length) {
+    container.innerHTML = '<div class="empty">키워드 데이터가 아직 없습니다.</div>';
+    return;
+  }
+
+  container.innerHTML = rows.map(row => {
+    const ch = row.change;
+    let change = '<span class="kw-change">―</span>';
+    if (ch === "NEW") change = '<span class="kw-change new">NEW</span>';
+    else if (Number(ch) > 0) change = '<span class="kw-change up">▲ ' + Number(ch) + '</span>';
+    else if (Number(ch) < 0) change = '<span class="kw-change down">▼ ' + Math.abs(Number(ch)) + '</span>';
+
+    const active = keyword === row.keyword ? " active" : "";
+    return `
+      <button class="keyword-row${active}" type="button" data-keyword="${safeText(row.keyword)}">
+        <span class="keyword-rank">${Number(row.rank) || "-"}</span>
+        <span class="keyword-name">#${safeText(row.keyword)}</span>
+        <span class="keyword-meta">${Number(row.source_count) || 0}곳 · ${Number(row.post_count) || 0}글</span>
+        ${change}
+      </button>`;
+  }).join("");
 }
 
 function renderTopics(){
@@ -121,6 +151,7 @@ function updateUrl(){
   const params = new URLSearchParams();
   if (period !== "realtime") params.set("period", period);
   if (archiveData?.period === period && archiveData.key) params.set("archive", archiveData.key);
+  if (keyword) params.set("keyword", keyword);
 
   const next = params.toString() ? "?" + params.toString() : location.pathname;
   history.replaceState(null, "", next);
@@ -130,11 +161,13 @@ function render(){
   const posts = currentPosts();
   const filtered = posts
     .filter(p => category === "전체" || p.category === category)
-    .filter(p => source === "전체" || p.source === source);
+    .filter(p => source === "전체" || p.source === source)
+    .filter(p => !keyword || String(p.title || "").toLowerCase().includes(keyword.toLowerCase()));
 
-  document.querySelector("#periodLabel").textContent = period === "rising"
+  const baseLabel = period === "rising"
     ? `급상승 · ${Number(liveData?.rising_window_minutes || 30)}분 변화`
     : currentLabel();
+  document.querySelector("#periodLabel").textContent = keyword ? baseLabel + " · #" + keyword : baseLabel;
   document.querySelector("#heroCount").textContent = liveData?.rankings?.realtime?.length ?? 0;
 
   const list = document.querySelector("#rankingList");
@@ -200,7 +233,12 @@ function render(){
     month:"numeric", day:"numeric", hour:"2-digit", minute:"2-digit"
   });
 
+  const keywordBar = document.querySelector("#activeKeywordBar");
+  keywordBar.hidden = !keyword;
+  document.querySelector("#activeKeywordText").textContent = keyword ? "#" + keyword + " 관련 인기글" : "";
+
   renderSourceOptions();
+  renderKeywords();
   renderTopics();
   renderArchiveControls();
   updateUrl();
@@ -261,6 +299,8 @@ async function loadLiveData(){
     const params = new URLSearchParams(location.search);
     const requestedPeriod = params.get("period");
     const requestedArchive = params.get("archive");
+    const requestedKeyword = params.get("keyword");
+    if (requestedKeyword) keyword = requestedKeyword;
 
     if (requestedPeriod && periodInfo[requestedPeriod]) {
       period = requestedPeriod;
@@ -300,6 +340,18 @@ document.querySelectorAll(".chip").forEach(btn=>{
     category = btn.dataset.category;
     render();
   });
+});
+
+document.querySelector("#keywordList").addEventListener("click", e=>{
+  const button = e.target.closest("[data-keyword]");
+  if (!button) return;
+  keyword = button.dataset.keyword || "";
+  render();
+});
+
+document.querySelector("#clearKeyword").addEventListener("click", ()=>{
+  keyword = "";
+  render();
 });
 
 document.querySelector("#sourceFilter").addEventListener("change", e=>{
