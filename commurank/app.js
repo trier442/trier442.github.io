@@ -110,9 +110,14 @@ async function loadLiveData(){
       month:"numeric", day:"numeric", hour:"2-digit", minute:"2-digit"
     });
     renderSourceOptions();
+    const okSources = (liveData.sources || []).filter(s => s.ok && s.count > 0).length;
+    const totalSources = (liveData.sources || []).length;
+    document.querySelector("#sourceStatus").textContent =
+      totalSources ? `${okSources}/${totalSources}개 소스 정상` : "수집 준비";
   } catch (err) {
     liveData = null;
     document.querySelector("#updatedAt").textContent = "자동 수집 대기";
+    document.querySelector("#sourceStatus").textContent = "수집 대기";
   }
   render();
 }
