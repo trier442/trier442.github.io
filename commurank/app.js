@@ -4,6 +4,7 @@ const fallbackPosts = [
 ];
 
 const periodInfo = {
+  rising: {label:"급상승"},
   realtime: {label:"실시간"},
   daily: {label:"일간"},
   weekly: {label:"주간"},
@@ -100,7 +101,7 @@ function renderArchiveControls(){
   const controls = document.querySelector("#archiveControls");
   const select = document.querySelector("#archiveSelect");
 
-  if (period === "realtime") {
+  if (period === "realtime" || period === "rising") {
     controls.hidden = true;
     archiveData = null;
     return;
@@ -131,7 +132,9 @@ function render(){
     .filter(p => category === "전체" || p.category === category)
     .filter(p => source === "전체" || p.source === source);
 
-  document.querySelector("#periodLabel").textContent = currentLabel();
+  document.querySelector("#periodLabel").textContent = period === "rising"
+    ? `급상승 · ${Number(liveData?.rising_window_minutes || 30)}분 변화`
+    : currentLabel();
   document.querySelector("#heroCount").textContent = liveData?.rankings?.realtime?.length ?? 0;
 
   const list = document.querySelector("#rankingList");
@@ -155,9 +158,15 @@ function render(){
             <div class="meta">
               <span class="source">${safeText(p.source)}</span>
               <span class="category">${safeText(p.category || "이슈")}</span>
-              <span>조회 ${fmt(p.views)}</span>
-              <span>추천 ${fmt(p.likes)}</span>
-              <span>댓글 ${fmt(p.comments)}</span>
+              ${period === "rising"
+                ? `<span class="delta hot-delta">+${Number(p.window_minutes || liveData?.rising_window_minutes || 30)}분</span>
+                   <span>+조회 ${fmt(p.delta_views)}</span>
+                   <span>+추천 ${fmt(p.delta_likes)}</span>
+                   <span>+댓글 ${fmt(p.delta_comments)}</span>
+                   <span>순위 +${Number(p.rank_gain) || 0}</span>`
+                : `<span>조회 ${fmt(p.views)}</span>
+                   <span>추천 ${fmt(p.likes)}</span>
+                   <span>댓글 ${fmt(p.comments)}</span>`}
             </div>
           </div>
           ${changeHtml}
