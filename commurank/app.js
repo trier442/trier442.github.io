@@ -38,6 +38,10 @@ function safeText(value) {
   }[ch]));
 }
 
+function postDetailUrl(url) {
+  return "./post/?url=" + encodeURIComponent(url || "");
+}
+
 function currentPosts(){
   if (archiveData?.period === period && Array.isArray(archiveData.posts)) {
     return archiveData.posts;
@@ -119,7 +123,7 @@ function renderTopics(){
 
   container.innerHTML = topics.slice(0, 6).map(topic => {
     const links = (topic.posts || []).slice(0, 4).map(p =>
-      `<a href="${safeText(p.url)}" target="_blank" rel="noopener noreferrer">${safeText(p.source)} ${Number(p.rank) || "-"}위</a>`
+      `<a href="${postDetailUrl(p.url)}">${safeText(p.source)} ${Number(p.rank) || "-"}위</a>`
     ).join("");
 
     const keywords = (topic.keywords || []).length
@@ -181,7 +185,7 @@ function renderPortalToday(){
       <span class="portal-feature-rank">${i+1}</span>
       <div>
         <span class="portal-source">${safeText(p.source)}</span>
-        <a href="${safeText(p.url)}" target="_blank" rel="noopener noreferrer">${safeText(p.title)}</a>
+        <a href="${postDetailUrl(p.url)}">${safeText(p.title)}</a>
         <div class="portal-metrics">
           <span>조회 ${fmt(p.views)}</span>
           <span>댓글 ${fmt(p.comments)}</span>
@@ -206,7 +210,7 @@ function renderPortalRising(){
     <article class="portal-mini-item">
       <span class="portal-mini-rank">${i+1}</span>
       <div class="portal-mini-body">
-        <a href="${safeText(p.url)}" target="_blank" rel="noopener noreferrer">${safeText(p.title)}</a>
+        <a href="${postDetailUrl(p.url)}">${safeText(p.title)}</a>
         <span>${safeText(p.source)} · ${windowMinutes}분 · +댓글 ${fmt(p.delta_comments)} · +조회 ${fmt(p.delta_views)}</span>
       </div>
       <strong>${Math.round(Number(p.rising_score)||0)}</strong>
@@ -234,7 +238,7 @@ function renderCommunityChampions(){
         <span class="community-rank">${i+1}</span>
         <div class="community-champion">
           <a class="community-name community-link" href="./community/${row.slug}/">${safeText(row.name)}</a>
-          <a class="community-top-title" href="${safeText(row.top.url)}" target="_blank" rel="noopener noreferrer">${safeText(row.top.title)}</a>
+          <a class="community-top-title" href="${postDetailUrl(row.top.url)}">${safeText(row.top.title)}</a>
         </div>
         <span class="community-score">#1 · ${row.count}건</span>
       </li>`).join("")
