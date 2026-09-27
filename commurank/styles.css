@@ -983,3 +983,208 @@ footer { border-top: 1px solid var(--line); margin-top: 50px; background: var(--
   .portal-keyword-list,
   .portal-topic-list { max-height: 270px; }
 }
+
+/* Post detail analysis */
+.post-detail-hero {
+  padding: 54px 0 24px;
+}
+.post-detail-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
+  margin: 18px 0 10px;
+}
+.post-detail-meta span {
+  border-radius: 999px;
+  background: var(--surface-2);
+  color: var(--muted);
+  padding: 6px 9px;
+  font-size: 10px;
+  font-weight: 850;
+}
+.post-detail-hero h1 {
+  max-width: 920px;
+  margin: 0;
+  font-size: clamp(30px, 5vw, 52px);
+  line-height: 1.2;
+  letter-spacing: -.055em;
+}
+.post-detail-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 20px;
+}
+.primary-action,
+.secondary-action {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 42px;
+  border-radius: 12px;
+  padding: 0 16px;
+  font-size: 12px;
+  font-weight: 900;
+}
+.primary-action {
+  background: var(--brand);
+  color: #fff;
+}
+.secondary-action {
+  border: 1px solid var(--line);
+  background: var(--surface);
+  color: var(--text);
+}
+.primary-action:hover { filter: brightness(.96); }
+.secondary-action:hover { color: var(--brand); }
+
+.detail-stat-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0,1fr));
+  gap: 10px;
+  margin-bottom: 18px;
+}
+.detail-stat {
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  background: var(--surface);
+  box-shadow: var(--shadow);
+  padding: 17px;
+}
+.detail-stat span {
+  display: block;
+  color: var(--muted);
+  font-size: 10px;
+  font-weight: 850;
+}
+.detail-stat strong {
+  display: block;
+  margin-top: 5px;
+  font-size: 25px;
+  letter-spacing: -.04em;
+}
+.detail-stat small {
+  display: block;
+  margin-top: 4px;
+  color: var(--muted);
+  font-size: 10px;
+}
+
+.detail-grid {
+  display: grid;
+  grid-template-columns: minmax(0,1fr) 300px;
+  gap: 22px;
+  align-items: start;
+}
+.detail-main {
+  display: grid;
+  gap: 18px;
+}
+.detail-chart-card { min-width: 0; }
+.trend-chart {
+  min-height: 240px;
+  width: 100%;
+  overflow-x: auto;
+}
+.trend-chart svg {
+  display: block;
+  width: 100%;
+  min-width: 560px;
+  height: auto;
+}
+.chart-axis {
+  stroke: var(--line);
+  stroke-width: 1.2;
+}
+.chart-grid {
+  stroke: var(--line);
+  stroke-width: 1;
+  stroke-dasharray: 4 6;
+}
+.chart-line {
+  stroke: var(--brand);
+  stroke-width: 3;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+}
+.chart-dot {
+  fill: var(--surface);
+  stroke: var(--brand);
+  stroke-width: 2;
+}
+.chart-label {
+  fill: var(--muted);
+  font-size: 10px;
+}
+.metric-tabs {
+  display: flex;
+  gap: 6px;
+  margin-bottom: 10px;
+}
+.metric-tab {
+  border: 1px solid var(--line);
+  border-radius: 9px;
+  background: var(--surface-2);
+  color: var(--muted);
+  padding: 7px 11px;
+  font-size: 10px;
+  font-weight: 900;
+}
+.metric-tab.active {
+  border-color: color-mix(in srgb, var(--brand) 35%, var(--line));
+  background: color-mix(in srgb, var(--brand) 9%, var(--surface));
+  color: var(--brand);
+}
+.detail-keywords {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
+}
+.detail-keywords a {
+  border-radius: 9px;
+  background: var(--surface-2);
+  color: var(--brand);
+  padding: 7px 9px;
+  font-size: 11px;
+  font-weight: 850;
+}
+.detail-info-list {
+  margin: 0;
+}
+.detail-info-list > div {
+  display: grid;
+  grid-template-columns: 78px minmax(0,1fr);
+  gap: 10px;
+  border-top: 1px solid var(--line);
+  padding: 10px 0;
+}
+.detail-info-list dt {
+  color: var(--muted);
+  font-size: 10px;
+  font-weight: 800;
+}
+.detail-info-list dd {
+  margin: 0;
+  color: var(--text);
+  font-size: 11px;
+  font-weight: 800;
+  text-align: right;
+}
+.related-rank-item .rank-num {
+  font-size: 18px;
+}
+
+@media (max-width: 900px) {
+  .detail-stat-grid { grid-template-columns: 1fr 1fr; }
+  .detail-grid { grid-template-columns: 1fr; }
+}
+
+@media (max-width: 640px) {
+  .post-detail-hero { padding-top: 34px; }
+  .post-detail-hero h1 { font-size: 29px; }
+  .detail-stat-grid { grid-template-columns: 1fr 1fr; }
+  .detail-stat { padding: 13px; }
+  .detail-stat strong { font-size: 21px; }
+  .trend-chart { min-height: 205px; }
+  .trend-chart svg { min-width: 500px; }
+}
