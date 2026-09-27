@@ -1,4 +1,13 @@
 (() => {
+  if (document.querySelector('script[data-commurank-pwa]')) return;
+  const s = document.createElement("script");
+  s.src = "/commurank/pwa.js";
+  s.defer = true;
+  s.setAttribute("data-commurank-pwa", "1");
+  document.head.appendChild(s);
+})();
+
+(() => {
   const CONFIG_URL = "/commurank/analytics-config.json";
   const RECENT_KEY = "commurank_recent_posts_v1";
   const queue = [];
