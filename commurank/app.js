@@ -38,6 +38,36 @@ function renderSourceOptions(){
   select.value = source;
 }
 
+function renderTopics(){
+  const topics = liveData?.topics || [];
+  const container = document.querySelector("#topicList");
+  const badge = document.querySelector("#topicCount");
+  badge.textContent = topics.length ? topics.length + "건" : "0건";
+
+  if (!topics.length) {
+    container.innerHTML = '<div class="empty">아직 여러 커뮤니티에서 동시에 잡힌 이슈가 없습니다.</div>';
+    return;
+  }
+
+  container.innerHTML = topics.slice(0, 6).map(topic => {
+    const links = (topic.posts || []).slice(0, 4).map(p =>
+      `<a href="${safeText(p.url)}" target="_blank" rel="noopener noreferrer">${safeText(p.source)} ${Number(p.rank) || "-"}위</a>`
+    ).join("");
+
+    const keywords = (topic.keywords || []).length
+      ? `<p class="topic-keywords">${topic.keywords.map(k => "#" + safeText(k)).join(" ")}</p>`
+      : "";
+
+    return `
+      <article class="topic-card">
+        <span class="topic-count">${Number(topic.source_count) || 0}개 커뮤니티 · 관련글 ${Number(topic.post_count) || 0}건</span>
+        <h4>${safeText(topic.title)}</h4>
+        ${keywords}
+        <div class="topic-tags">${links}</div>
+      </article>`;
+  }).join("");
+}
+
 function render(){
   const posts = currentPosts();
   const filtered = posts
@@ -110,12 +140,14 @@ async function loadLiveData(){
       month:"numeric", day:"numeric", hour:"2-digit", minute:"2-digit"
     });
     renderSourceOptions();
+    renderTopics();
     const okSources = (liveData.sources || []).filter(s => s.ok && s.count > 0).length;
     const totalSources = (liveData.sources || []).length;
     document.querySelector("#sourceStatus").textContent =
       totalSources ? `${okSources}/${totalSources}개 소스 정상` : "수집 준비";
   } catch (err) {
     liveData = null;
+    renderTopics();
     document.querySelector("#updatedAt").textContent = "자동 수집 대기";
     document.querySelector("#sourceStatus").textContent = "수집 대기";
   }
