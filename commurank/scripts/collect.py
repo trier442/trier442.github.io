@@ -385,7 +385,8 @@ TOPIC_STOPWORDS = {
     "오늘", "요즘", "지금", "현재", "진짜", "관련", "반응", "근황", "결과", "이유", "정리",
     "공개", "발표", "논란", "소식", "사진", "영상", "장면", "사람", "이야기", "게시글",
     "대한", "에서", "으로", "그리고", "하지만", "그런데", "했다", "하는", "있는", "없는",
-    "jpg", "gif", "mp4", "webp", "ㅋㅋ", "ㅋㅋㅋ", "ㄷㄷ", "속보"
+    "jpg", "gif", "mp4", "webp", "ㅋㅋ", "ㅋㅋㅋ", "ㄷㄷ", "속보",
+    "사람들", "레전드", "한국인", "이거", "이게", "이번", "정도", "생각", "사실"
 }
 
 
@@ -430,9 +431,11 @@ def title_similarity(a: str, b: str) -> float:
 
 
 def build_topics(posts: list[dict], limit: int = 8) -> list[dict]:
-    clusters: list[dict] = []
     ranked = [{**p, "rank": i + 1} for i, p in enumerate(posts)]
+    topics = []
 
+    # 1) 제목 전체가 상당히 닮은 게시물은 같은 사건으로 묶는다.
+    clusters: list[dict] = []
     for p in ranked:
         best_cluster = None
         best_similarity = 0.0
@@ -444,19 +447,14 @@ def build_topics(posts: list[dict], limit: int = 8) -> list[dict]:
                 best_similarity = similarity
                 best_cluster = cluster
 
-        if best_cluster is not None and best_similarity >= 0.47:
+        if best_cluster is not None and best_similarity >= 0.44:
             best_cluster["posts"].append(p)
         else:
             clusters.append({"posts": [p]})
 
-    topics = []
     for cluster in clusters:
         items = cluster["posts"]
-        source_names = []
-        for item in items:
-            if item["source"] not in source_names:
-                source_names.append(item["source"])
-
+        source_names = list(dict.fromkeys(item["source"] for item in items))
         if len(source_names) < 2:
             continue
 
@@ -466,23 +464,15 @@ def build_topics(posts: list[dict], limit: int = 8) -> list[dict]:
         keywords = [token for token, count in token_counts.most_common(5) if count >= 2]
 
         representative = max(items, key=lambda x: (x.get("score", 0), -x["rank"]))
-        # 사이트별 가장 높은 순위 글 하나만 노출한다.
         source_best = {}
         for item in sorted(items, key=lambda x: x["rank"]):
             source_best.setdefault(item["source"], item)
-        source_posts = list(source_best.values())
-
-        topic_score = (
-            max(float(item.get("score", 0)) for item in items)
-            + (len(source_names) - 1) * 6
-            + min(6, len(items))
-        )
 
         topics.append({
             "title": representative["title"],
             "source_count": len(source_names),
             "post_count": len(items),
-            "score": round(topic_score, 2),
+            "score": round(max(float(item.get("score", 0)) for item in items) + (len(source_names) - 1) * 6 + min(6, len(items)), 2),
             "keywords": keywords,
             "posts": [
                 {
@@ -492,7 +482,59 @@ def build_topics(posts: list[dict], limit: int = 8) -> list[dict]:
                     "url": item["url"],
                     "score": item.get("score", 0),
                 }
-                for item in source_posts[:6]
+                for item in list(source_best.values())[:6]
+            ],
+        })
+
+    # 2) 서로 다른 제목이어도 같은 고유 키워드가 여러 커뮤니티에서 동시에 뜨면
+    #    '동시 화제'로 잡는다. 단, 흔한 일반어는 STOPWORDS에서 제외한다.
+    token_posts: dict[str, list[dict]] = {}
+    for item in ranked:
+        for token in topic_tokens(item["title"]):
+            if len(token) < 3 or token.isdigit():
+                continue
+            token_posts.setdefault(token, []).append(item)
+
+    for token, items in token_posts.items():
+        source_names = list(dict.fromkeys(item["source"] for item in items))
+        if len(source_names) < 2:
+            continue
+
+        source_best = {}
+        for item in sorted(items, key=lambda x: x["rank"]):
+            source_best.setdefault(item["source"], item)
+        best_items = list(source_best.values())
+
+        # 이미 제목 유사도 클러스터에서 거의 같은 글들이 묶였으면 중복 생성하지 않는다.
+        candidate_urls = {item["url"] for item in best_items}
+        duplicate = False
+        for topic in topics:
+            topic_urls = {item["url"] for item in topic["posts"]}
+            overlap = len(candidate_urls & topic_urls)
+            if overlap >= 2 and overlap / max(1, min(len(candidate_urls), len(topic_urls))) >= 0.66:
+                if token not in topic["keywords"]:
+                    topic["keywords"].append(token)
+                duplicate = True
+                break
+        if duplicate:
+            continue
+
+        peak = max(float(item.get("score", 0)) for item in best_items)
+        topics.append({
+            "title": f"‘{token}’ 관련 글이 여러 커뮤니티에서 화제",
+            "source_count": len(source_names),
+            "post_count": len(items),
+            "score": round(peak + (len(source_names) - 1) * 7 + min(5, len(items)), 2),
+            "keywords": [token],
+            "posts": [
+                {
+                    "source": item["source"],
+                    "rank": item["rank"],
+                    "title": item["title"],
+                    "url": item["url"],
+                    "score": item.get("score", 0),
+                }
+                for item in best_items[:6]
             ],
         })
 
@@ -501,7 +543,6 @@ def build_topics(posts: list[dict], limit: int = 8) -> list[dict]:
         key=lambda t: (t["source_count"], t["post_count"], t["score"]),
         reverse=True,
     )[:limit]
-
 
 def load_json(path: Path, fallback):
     try:
