@@ -133,7 +133,7 @@ function renderTopics(){
     return `
       <article class="topic-card">
         <span class="topic-count">${Number(topic.source_count) || 0}개 커뮤니티 · 관련글 ${Number(topic.post_count) || 0}건</span>
-        <h4>${safeText(topic.title)}</h4>
+        <h4><a class="topic-title-link" href="./issue/?id=${encodeURIComponent(topic.id || "")}">${safeText(topic.title)}</a></h4>
         ${keywords}
         <div class="topic-tags">${links}</div>
       </article>`;
