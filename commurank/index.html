@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="description" content="커뮤랭크 - 대한민국 커뮤니티 인기글 실시간·일간·주간·월간 랭킹" />
+  <title>커뮤랭크 | 지금 인터넷에서 가장 뜨는 이야기</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="shell header-inner">
+      <a class="brand" href="./" aria-label="커뮤랭크 홈">
+        <span class="brand-mark">C</span>
+        <span>
+          <strong>커뮤랭크</strong>
+          <small>COMMURANK</small>
+        </span>
+      </a>
+
+      <nav class="top-nav" aria-label="주요 메뉴">
+        <button class="nav-item active" data-period="realtime">실시간</button>
+        <button class="nav-item" data-period="daily">일간</button>
+        <button class="nav-item" data-period="weekly">주간</button>
+        <button class="nav-item" data-period="monthly">월간</button>
+      </nav>
+
+      <button id="themeToggle" class="icon-button" aria-label="테마 전환">◐</button>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero shell">
+      <div>
+        <p class="eyebrow">대한민국 커뮤니티 통합 랭킹</p>
+        <h1>지금 인터넷에서<br><span>가장 뜨는 이야기</span></h1>
+        <p class="hero-copy">
+          여러 커뮤니티를 돌아다닐 필요 없이, 실시간부터 월간까지 인기글을 한눈에 확인하세요.
+        </p>
+      </div>
+      <div class="hero-card">
+        <div class="pulse"></div>
+        <span>LIVE</span>
+        <strong id="heroCount">128</strong>
+        <small>개 인기글 집계 중</small>
+      </div>
+    </section>
+
+    <section class="shell controls" aria-label="필터">
+      <div class="filter-row">
+        <div class="chips" id="categoryChips">
+          <button class="chip active" data-category="전체">전체</button>
+          <button class="chip" data-category="이슈">이슈</button>
+          <button class="chip" data-category="유머">유머</button>
+          <button class="chip" data-category="스포츠">스포츠</button>
+          <button class="chip" data-category="연예">연예</button>
+          <button class="chip" data-category="게임">게임</button>
+          <button class="chip" data-category="생활">생활</button>
+        </div>
+        <select id="sourceFilter" class="select" aria-label="커뮤니티 선택">
+          <option value="전체">전체 커뮤니티</option>
+          <option value="에펨코리아">에펨코리아</option>
+          <option value="더쿠">더쿠</option>
+          <option value="루리웹">루리웹</option>
+          <option value="클리앙">클리앙</option>
+          <option value="인벤">인벤</option>
+          <option value="디시인사이드">디시인사이드</option>
+        </select>
+      </div>
+    </section>
+
+    <section class="shell dashboard">
+      <div class="ranking-panel">
+        <div class="section-head">
+          <div>
+            <span class="section-kicker" id="periodLabel">실시간</span>
+            <h2>통합 인기글 TOP 100</h2>
+          </div>
+          <div class="updated">최근 업데이트 <strong id="updatedAt">방금 전</strong></div>
+        </div>
+
+        <div class="ranking-list" id="rankingList"></div>
+      </div>
+
+      <aside class="side-panel">
+        <section class="side-card">
+          <div class="side-title">
+            <div>
+              <span>지금 뜨는</span>
+              <h3>커뮤니티</h3>
+            </div>
+            <span class="mini-badge">LIVE</span>
+          </div>
+          <ol class="community-list" id="communityList"></ol>
+        </section>
+
+        <section class="side-card">
+          <div class="side-title">
+            <div>
+              <span>크로스 커뮤니티</span>
+              <h3>동시 화제</h3>
+            </div>
+          </div>
+          <article class="topic-card">
+            <span class="topic-count">5개 커뮤니티</span>
+            <h4>새 스마트폰 공개 관련 반응</h4>
+            <p>가격·카메라·AI 기능을 중심으로 여러 커뮤니티에서 동시에 언급량 증가</p>
+            <div class="topic-tags">
+              <span>에펨코리아 2위</span>
+              <span>클리앙 3위</span>
+              <span>더쿠 5위</span>
+            </div>
+          </article>
+          <article class="topic-card">
+            <span class="topic-count">4개 커뮤니티</span>
+            <h4>주말 스포츠 빅매치</h4>
+            <p>경기 결과와 주요 장면 관련 게시물이 빠르게 상승 중</p>
+          </article>
+        </section>
+      </aside>
+    </section>
+  </main>
+
+  <footer>
+    <div class="shell footer-inner">
+      <div>
+        <strong>커뮤랭크</strong>
+        <p>대한민국 커뮤니티 인기글 랭킹 아카이브</p>
+      </div>
+      <p>원문은 각 커뮤니티에서 확인합니다. 게시물 저작권은 원 작성자 및 해당 사이트에 있습니다.</p>
+    </div>
+  </footer>
+
+  <script src="./app.js"></script>
+</body>
+</html>
