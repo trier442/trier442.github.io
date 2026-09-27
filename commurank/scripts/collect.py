@@ -688,6 +688,34 @@ def build_keyword_trends(current: list[dict], previous: dict, limit: int = 20) -
     return result
 
 
+def compute_source_keywords(posts: list[dict], limit: int = 12) -> list[dict]:
+    token_map: dict[str, list[dict]] = {}
+    for rank, post_item in enumerate(posts, start=1):
+        enriched = {**post_item, "_rank": rank}
+        for token in keyword_tokens(post_item.get("title", "")):
+            token_map.setdefault(token, []).append(enriched)
+
+    rows = []
+    for token, items in token_map.items():
+        if len(items) < 2:
+            continue
+        best_rank = min(item["_rank"] for item in items)
+        score = (
+            len(items) * 12
+            + sum(max(0, 61 - item["_rank"]) / 60 for item in items) * 14
+            + sum(float(item.get("score", 0)) for item in items) / len(items) * 0.22
+        )
+        rows.append({
+            "keyword": token,
+            "post_count": len(items),
+            "best_rank": best_rank,
+            "score": round(score, 2),
+        })
+
+    rows.sort(key=lambda row: (row["score"], row["post_count"], -row["best_rank"]), reverse=True)
+    return rows[:limit]
+
+
 def load_json(path: Path, fallback):
     try:
         return json.loads(path.read_text(encoding="utf-8"))
@@ -969,6 +997,49 @@ def main() -> None:
     rising, rising_window_minutes = build_rising(rankings["realtime"], previous, collected_at)
     rankings["rising"] = rising
 
+    community_rankings = {}
+    for source_name in SCRAPERS.keys():
+        source_posts = sorted(
+            [dict(p) for p in dedup.values() if p.get("source") == source_name],
+            key=lambda x: (x.get("score", 0), x.get("views", 0), x.get("comments", 0), x.get("likes", 0)),
+            reverse=True,
+        )[:60]
+
+        previous_source = (
+            previous.get("community_rankings", {})
+            .get(source_name, {})
+            .get("realtime", [])
+            if isinstance(previous, dict)
+            else []
+        )
+        if not previous_source and isinstance(previous, dict):
+            previous_source = [
+                p for p in previous.get("rankings", {}).get("realtime", [])
+                if p.get("source") == source_name
+            ]
+
+        old_source_rank = {p.get("url"): i + 1 for i, p in enumerate(previous_source) if p.get("url")}
+        for i, item in enumerate(source_posts):
+            old_rank = old_source_rank.get(item.get("url"))
+            item["change"] = "NEW" if old_rank is None else old_rank - (i + 1)
+
+        source_previous_proxy = {
+            "collected_at": previous.get("collected_at") if isinstance(previous, dict) else None,
+            "rankings": {"realtime": previous_source},
+        }
+        source_rising, _ = build_rising(
+            source_posts,
+            source_previous_proxy,
+            collected_at,
+            limit=30,
+        )
+
+        community_rankings[source_name] = {
+            "realtime": source_posts,
+            "rising": source_rising,
+            "keywords": compute_source_keywords(source_posts),
+        }
+
     topics = build_topics(rankings["realtime"])
     keywords = build_keyword_trends(rankings["realtime"], previous)
 
@@ -985,6 +1056,7 @@ def main() -> None:
         "sources": statuses,
         "rising_window_minutes": rising_window_minutes,
         "rankings": rankings,
+        "community_rankings": community_rankings,
         "topics": topics,
         "keywords": keywords,
     }
