@@ -70,12 +70,14 @@ function matchPost(post){
   };
 }
 function matchIssue(issue){
-  const hay=normalize([issue.title,...(issue.keywords||[]),...(issue.sources||[])].join(" "));
+  const issueSources = (issue.sources?.length ? issue.sources : [...new Set((issue.posts||[]).map(p=>p.source).filter(Boolean))]);
+  const hay=normalize([issue.title,...(issue.keywords||[]),...issueSources].join(" "));
   const keywordHits=prefs.keywords.filter(k=>hay.includes(normalize(k)));
-  const sourceHits=prefs.sources.filter(s=>(issue.sources||[]).includes(s));
+  const sourceHits=prefs.sources.filter(s=>issueSources.includes(s));
   if(!keywordHits.length&&!sourceHits.length) return null;
   return {
     ...issue,
+    sources:issueSources,
     keywordHits,
     sourceHits,
     matchScore:keywordHits.length*90+sourceHits.length*25+Number(issue.score||0)*0.08
@@ -84,7 +86,13 @@ function matchIssue(issue){
 
 function renderFeed(){
   const hasPrefs=prefs.keywords.length||prefs.sources.length;
-  const posts=(latest?.rankings?.realtime||[])
+  const postMap=new Map();
+  Object.values(latest?.community_rankings||{}).forEach(data=>{
+    (data?.realtime||[]).forEach(p=>{ if(p?.url) postMap.set(p.url,p); });
+  });
+  (latest?.rankings?.realtime||[]).forEach(p=>{ if(p?.url) postMap.set(p.url,p); });
+
+  const posts=[...postMap.values()]
     .map(matchPost).filter(Boolean)
     .sort((a,b)=>b.matchScore-a.matchScore)
     .slice(0,50);
