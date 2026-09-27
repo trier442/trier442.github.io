@@ -601,14 +601,58 @@ def build_topics(posts: list[dict], limit: int = 8) -> list[dict]:
         topics,
         key=lambda t: (t["source_count"], t["post_count"], t["score"]),
         reverse=True,
-    )[:limit]
+    )
+
+    # 같은 핵심 이슈가 제목 유사도 클러스터와 키워드 클러스터에서
+    # 동시에 만들어질 수 있으므로 안정 ID 기준으로 최종 병합한다.
+    merged_topics: dict[str, dict] = {}
+    synthetic_pattern = re.compile(r"^[‘'](.+?)[’'] 관련 글이 여러 커뮤니티에서 화제$")
 
     for topic in ranked_topics:
         anchor = issue_identity_anchor(topic.get("keywords", []), topic.get("title", ""))
-        if anchor:
-            topic["id"] = issue_id_from_anchor(anchor)
+        if not anchor:
+            continue
+        issue_id = issue_id_from_anchor(anchor)
+        topic["id"] = issue_id
 
-    return ranked_topics
+        if issue_id not in merged_topics:
+            merged_topics[issue_id] = dict(topic)
+            merged_topics[issue_id]["posts"] = list(topic.get("posts", []))
+            merged_topics[issue_id]["keywords"] = list(topic.get("keywords", []))
+            continue
+
+        base = merged_topics[issue_id]
+
+        # 더 구체적인 실제 게시글 제목을 합성 제목보다 우선한다.
+        base_is_synthetic = bool(synthetic_pattern.match(base.get("title", "")))
+        topic_is_synthetic = bool(synthetic_pattern.match(topic.get("title", "")))
+        if base_is_synthetic and not topic_is_synthetic:
+            base["title"] = topic.get("title", base.get("title", ""))
+
+        seen_urls = {p.get("url") for p in base.get("posts", []) if p.get("url")}
+        for post_item in topic.get("posts", []):
+            url = post_item.get("url")
+            if url and url not in seen_urls:
+                base.setdefault("posts", []).append(post_item)
+                seen_urls.add(url)
+
+        base["keywords"] = list(dict.fromkeys(
+            list(base.get("keywords", [])) + list(topic.get("keywords", []))
+        ))[:8]
+        source_names = {
+            p.get("source")
+            for p in base.get("posts", [])
+            if p.get("source")
+        }
+        base["source_count"] = len(source_names)
+        base["post_count"] = len(base.get("posts", []))
+        base["score"] = max(float(base.get("score", 0)), float(topic.get("score", 0)))
+
+    return sorted(
+        merged_topics.values(),
+        key=lambda t: (t["source_count"], t["post_count"], t["score"]),
+        reverse=True,
+    )[:limit]
 
 def normalize_keyword_token(token: str) -> str:
     token = token.strip().lower()
