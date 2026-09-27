@@ -1098,6 +1098,19 @@ def issue_period_rank(history: dict, since: datetime, now: datetime, limit: int 
     groups: dict[str, dict] = {}
 
     for issue_id, item in history.get("issues", {}).items():
+        raw_keywords = [
+            normalize_keyword_token(token)
+            for token in item.get("keywords", [])
+            if normalize_keyword_token(token)
+        ]
+        valid_raw_keywords = [
+            token for token in raw_keywords
+            if token not in TOPIC_STOPWORDS and not re.fullmatch(r"\d{2}대", token)
+        ]
+        synthetic_title = re.match(r"^[‘'](.+?)[’'] 관련 글이 여러 커뮤니티에서 화제$", item.get("title", ""))
+        if synthetic_title and not valid_raw_keywords:
+            continue
+
         anchor = issue_identity_anchor(item.get("keywords", []), item.get("title", ""))
         if not anchor:
             continue
