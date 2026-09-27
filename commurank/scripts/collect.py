@@ -20,6 +20,7 @@ LATEST_PATH = DATA_DIR / "latest.json"
 ARCHIVE_PATH = DATA_DIR / "archive.json"
 ARCHIVE_INDEX_PATH = DATA_DIR / "archive-index.json"
 METRICS_HISTORY_PATH = DATA_DIR / "metric-history.json"
+ISSUE_HISTORY_PATH = DATA_DIR / "issue-history.json"
 SNAPSHOT_DIR = DATA_DIR / "snapshots"
 SOURCE_CACHE_DIR = DATA_DIR / "source-cache"
 
@@ -557,11 +558,30 @@ def build_topics(posts: list[dict], limit: int = 8) -> list[dict]:
             ],
         })
 
-    return sorted(
+    ranked_topics = sorted(
         topics,
         key=lambda t: (t["source_count"], t["post_count"], t["score"]),
         reverse=True,
     )[:limit]
+
+    for topic in ranked_topics:
+        identity_tokens = sorted({
+            normalize_keyword_token(token)
+            for token in topic.get("keywords", [])
+            if normalize_keyword_token(token)
+        })
+        if not identity_tokens:
+            identity_tokens = sorted(keyword_tokens(topic.get("title", "")))[:4]
+        identity = "|".join(identity_tokens[:5]) or topic.get("title", "")
+
+        # Python/JS 양쪽에서 동일하게 계산 가능한 32-bit FNV-1a.
+        h = 2166136261
+        for byte in identity.encode("utf-8"):
+            h ^= byte
+            h = (h * 16777619) & 0xFFFFFFFF
+        topic["id"] = f"i{h:08x}"
+
+    return ranked_topics
 
 def normalize_keyword_token(token: str) -> str:
     token = token.strip().lower()
@@ -960,6 +980,71 @@ def load_source_cache(source: str, now: datetime, max_age_hours: int = 24) -> di
     return cached
 
 
+def update_issue_history(topics: list[dict], collected_at: str) -> dict:
+    history = load_json(ISSUE_HISTORY_PATH, {"version": 1, "issues": {}})
+    history.setdefault("issues", {})
+
+    for topic in topics:
+        issue_id = topic.get("id")
+        if not issue_id:
+            continue
+
+        source_names = sorted({
+            p.get("source") for p in topic.get("posts", []) if p.get("source")
+        })
+        item = history["issues"].get(issue_id, {
+            "id": issue_id,
+            "first_seen": collected_at,
+            "last_seen": collected_at,
+            "title": topic.get("title", ""),
+            "keywords": topic.get("keywords", []),
+            "points": [],
+            "posts": [],
+        })
+
+        item["title"] = topic.get("title", item.get("title", ""))
+        item["keywords"] = topic.get("keywords", item.get("keywords", []))
+        item["last_seen"] = collected_at
+        item["posts"] = topic.get("posts", [])[:12]
+
+        point = {
+            "at": collected_at,
+            "source_count": int(topic.get("source_count", 0)),
+            "post_count": int(topic.get("post_count", 0)),
+            "score": round(float(topic.get("score", 0)), 2),
+            "sources": source_names,
+            "post_urls": [p.get("url") for p in topic.get("posts", []) if p.get("url")],
+        }
+        points = item.get("points", [])
+        if not points or points[-1].get("at") != collected_at:
+            points.append(point)
+        item["points"] = points[-192:]
+        history["issues"][issue_id] = item
+
+    cutoff = dt(collected_at).astimezone(KST) - timedelta(days=62)
+    kept = {}
+    for issue_id, item in history["issues"].items():
+        try:
+            last_seen = dt(item.get("last_seen", "")).astimezone(KST)
+        except Exception:
+            continue
+        if last_seen >= cutoff:
+            kept[issue_id] = item
+
+    newest = sorted(
+        kept.items(),
+        key=lambda kv: kv[1].get("last_seen", ""),
+        reverse=True,
+    )[:500]
+    history["issues"] = dict(newest)
+    history["updated_at"] = collected_at
+    ISSUE_HISTORY_PATH.write_text(
+        json.dumps(history, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+    return history
+
+
 def update_metric_history(posts: list[dict], collected_at: str) -> dict:
     history = load_json(METRICS_HISTORY_PATH, {"version": 1, "posts": {}})
     history.setdefault("posts", {})
@@ -1197,6 +1282,7 @@ def main() -> None:
     LATEST_PATH.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
     ARCHIVE_PATH.write_text(json.dumps(archive, ensure_ascii=False, indent=2), encoding="utf-8")
     update_metric_history(list(dedup.values()), collected_at)
+    update_issue_history(topics, collected_at)
     snapshot_metas = write_period_snapshots(now, collected_at, rankings)
     update_archive_index(snapshot_metas)
 
