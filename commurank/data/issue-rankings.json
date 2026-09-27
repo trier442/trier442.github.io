@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-09-27T20:04:03.466743+09:00",
+  "collected_at": "2026-09-27T20:23:34.525151+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -12,18 +12,18 @@
     "realtime": [
       {
         "id": "i74cea219",
-        "title": "여자 핸드볼 금메달",
+        "title": "[아시안게임] 핸드볼 여자 대한민국 금메달🥇🥇🥇 한일전 승🇰🇷",
         "keywords": [
           "금메달",
           "핸드볼",
+          "한국",
           "일본",
-          "만의",
           "19번째"
         ],
         "source_count": 3,
         "post_count": 4,
-        "score": 84.09,
-        "peak_score": 84.09,
+        "score": 80.53,
+        "peak_score": 80.53,
         "appearances": 1,
         "sources": [
           "더쿠",
@@ -32,29 +32,70 @@
         ],
         "posts": [
           {
-            "source": "클리앙",
-            "rank": 22,
-            "title": "여자 핸드볼 금메달",
-            "url": "https://www.clien.net/service/board/park/19270331?od=T31&po=0&category=0&groupCd=",
-            "score": 68.09
-          },
-          {
             "source": "더쿠",
             "rank": 31,
             "title": "[아시안게임] 핸드볼 여자 대한민국 금메달🥇🥇🥇 한일전 승🇰🇷",
             "url": "https://theqoo.net/hot/4357824456",
-            "score": 66.84
+            "score": 64.53
+          },
+          {
+            "source": "클리앙",
+            "rank": 34,
+            "title": "여자 핸드볼 금메달",
+            "url": "https://www.clien.net/service/board/park/19270331?od=T31&po=0&category=0&groupCd=",
+            "score": 63.64
           },
           {
             "source": "인벤",
-            "rank": 38,
+            "rank": 83,
             "title": "여자 핸드볼, 일본 꺾고 8년 만의 금메달…한국 19번째 金",
             "url": "https://www.inven.co.kr/board/webzine/2097/2733230",
-            "score": 62.32
+            "score": 54.99
+          },
+          {
+            "source": "클리앙",
+            "rank": 92,
+            "title": "여자 핸드볼, 일본 꺾고 8년 만의 금메달…한국 19번째 金",
+            "url": "https://www.clien.net/service/board/park/19270337?od=T31&po=0&category=0&groupCd=",
+            "score": 53.07
           }
         ],
         "rank": 1,
         "change": 4
+      },
+      {
+        "id": "i5781c296",
+        "title": "‘네이버’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "네이버"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 90.49,
+        "peak_score": 90.49,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "루리웹"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 5,
+            "title": "[네이버] [PS5] 메타포 리판타지오 [16,820]",
+            "url": "https://bbs.ruliweb.com/market/board/1020/read/107560",
+            "score": 81.49
+          },
+          {
+            "source": "더쿠",
+            "rank": 53,
+            "title": "동일한 목적지 순정-티맵-네이버-카카오 주행 실험",
+            "url": "https://theqoo.net/hot/4357782924",
+            "score": 59.89
+          }
+        ],
+        "rank": 2,
+        "change": "NEW"
       },
       {
         "id": "i23a285e5",
@@ -64,8 +105,8 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 89.16,
-        "peak_score": 89.16,
+        "score": 85.72,
+        "peak_score": 85.72,
         "appearances": 1,
         "sources": [
           "디시인사이드",
@@ -74,55 +115,92 @@
         "posts": [
           {
             "source": "뽐뿌",
-            "rank": 5,
+            "rank": 8,
             "title": "안보고 쳐버리는 안세영 클라스",
             "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10132210",
-            "score": 80.16
+            "score": 76.72
           },
           {
             "source": "디시인사이드",
-            "rank": 52,
+            "rank": 51,
             "title": "안세영, 세계 5위 33분 만에 완파…2연패 성큼",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466258&_dcbest=1&page=1",
-            "score": 60.77
+            "score": 60.33
           }
         ],
-        "rank": 2,
-        "change": 0
+        "rank": 3,
+        "change": -1
       },
       {
-        "id": "i8b4085e0",
-        "title": "‘아시안게임’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i78f6419e",
+        "title": "‘암살자’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "아시안게임"
+          "암살자"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 75.84,
-        "peak_score": 75.84,
+        "score": 84.17,
+        "peak_score": 84.17,
         "appearances": 1,
         "sources": [
-          "더쿠",
+          "디시인사이드",
           "뽐뿌"
         ],
         "posts": [
           {
-            "source": "더쿠",
-            "rank": 31,
-            "title": "[아시안게임] 핸드볼 여자 대한민국 금메달🥇🥇🥇 한일전 승🇰🇷",
-            "url": "https://theqoo.net/hot/4357824456",
-            "score": 66.84
+            "source": "뽐뿌",
+            "rank": 9,
+            "title": "영화 암살자(들) 손익분기점",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=movie&no=91641",
+            "score": 75.17
           },
           {
-            "source": "뽐뿌",
-            "rank": 98,
-            "title": "[아시안게임] 0점 두 번 찍고도 금메달…고교생 강준이의 '마지막 한 방'",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=news_sports&no=354873",
-            "score": 51.67
+            "source": "디시인사이드",
+            "rank": 18,
+            "title": "유튜버 단군 암살자(들) 리뷰 중 음모론에 대한 의견.jpg",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466232&_dcbest=1&page=1",
+            "score": 70.59
           }
         ],
-        "rank": 3,
-        "change": 0
+        "rank": 4,
+        "change": "NEW"
+      },
+      {
+        "id": "i31e145e6",
+        "title": "너네 한국 시민권 취득 시험 문제 풀어볼래?",
+        "keywords": [
+          "취득",
+          "시민권",
+          "시험",
+          "한국"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 73.68,
+        "peak_score": 73.68,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "루리웹"
+        ],
+        "posts": [
+          {
+            "source": "더쿠",
+            "rank": 28,
+            "title": "너네 한국 시민권 취득 시험 문제 풀어볼래?",
+            "url": "https://theqoo.net/hot/4357839726",
+            "score": 65.68
+          },
+          {
+            "source": "루리웹",
+            "rank": 54,
+            "title": "한국 시민권 취득 시험 문제.jpg",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76824812?m=humor_only&t=now",
+            "score": 59.75
+          }
+        ],
+        "rank": 5,
+        "change": "NEW"
       },
       {
         "id": "i4df0ead9",
@@ -132,8 +210,8 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 72.94,
-        "peak_score": 72.94,
+        "score": 71.69,
+        "peak_score": 71.69,
         "appearances": 1,
         "sources": [
           "디시인사이드",
@@ -142,90 +220,54 @@
         "posts": [
           {
             "source": "디시인사이드",
-            "rank": 35,
+            "rank": 38,
             "title": "분당 중식당 시진핑 테러 용의자 4명모두 사건당일 출국",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466205&_dcbest=1&page=1",
-            "score": 63.94
+            "score": 62.69
           },
           {
             "source": "인벤",
-            "rank": 49,
+            "rank": 93,
             "title": "중식당 테러범은 \"모두 중국인\"",
             "url": "https://www.inven.co.kr/board/webzine/2097/2733221",
-            "score": 60.99
-          }
-        ],
-        "rank": 4,
-        "change": 0
-      },
-      {
-        "id": "i74cea219",
-        "title": "‘19번째’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "19번째"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 71.32,
-        "peak_score": 71.32,
-        "appearances": 1,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 38,
-            "title": "여자 핸드볼, 일본 꺾고 8년 만의 금메달…한국 19번째 金",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2733230",
-            "score": 62.32
-          },
-          {
-            "source": "클리앙",
-            "rank": 61,
-            "title": "여자 핸드볼, 일본 꺾고 8년 만의 금메달…한국 19번째 金",
-            "url": "https://www.clien.net/service/board/park/19270337?od=T31&po=0&category=0&groupCd=",
-            "score": 59.2
-          }
-        ],
-        "rank": 5,
-        "change": 0
-      },
-      {
-        "id": "ib7de7f0a",
-        "title": "스테이씨 마카오 팬콘 - 편집중",
-        "keywords": [
-          "팬콘",
-          "스테이씨",
-          "마카오"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 65.95,
-        "peak_score": 65.95,
-        "appearances": 1,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 66,
-            "title": "스테이씨 마카오 팬콘 - 편집중",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2733234",
-            "score": 57.95
-          },
-          {
-            "source": "클리앙",
-            "rank": 75,
-            "title": "스테이씨 마카오 팬콘 1보",
-            "url": "https://www.clien.net/service/board/park/19270334?od=T31&po=0&category=0&groupCd=",
-            "score": 56.39
+            "score": 52.64
           }
         ],
         "rank": 6,
+        "change": -2
+      },
+      {
+        "id": "i8aaa794c",
+        "title": "‘은메달’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "은메달"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 69.43,
+        "peak_score": 69.43,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 48,
+            "title": "\"전국체전서도 이런 일 없어\", 은메달 땄는데 메달 못 받은 수영 김민섭 선수",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2733239",
+            "score": 60.43
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 90,
+            "title": "김수지·김나현, 다이빙 싱크로 값진 은메달",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466252&_dcbest=1&page=1",
+            "score": 53.72
+          }
+        ],
+        "rank": 7,
         "change": "NEW"
       }
     ],
@@ -399,15 +441,19 @@
       },
       {
         "id": "i74cea219",
-        "title": "‘19번째’ 관련 글이 여러 커뮤니티에서 화제",
+        "title": "[아시안게임] 핸드볼 여자 대한민국 금메달🥇🥇🥇 한일전 승🇰🇷",
         "keywords": [
+          "금메달",
+          "핸드볼",
+          "한국",
+          "일본",
           "19번째"
         ],
         "source_count": 3,
         "post_count": 4,
-        "score": 101.58,
+        "score": 103.02,
         "peak_score": 84.09,
-        "appearances": 2,
+        "appearances": 3,
         "sources": [
           "더쿠",
           "인벤",
@@ -415,26 +461,40 @@
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 38,
-            "title": "여자 핸드볼, 일본 꺾고 8년 만의 금메달…한국 19번째 金",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2733230",
-            "score": 62.32
+            "source": "더쿠",
+            "rank": 31,
+            "title": "[아시안게임] 핸드볼 여자 대한민국 금메달🥇🥇🥇 한일전 승🇰🇷",
+            "url": "https://theqoo.net/hot/4357824456",
+            "score": 64.53
           },
           {
             "source": "클리앙",
-            "rank": 61,
+            "rank": 34,
+            "title": "여자 핸드볼 금메달",
+            "url": "https://www.clien.net/service/board/park/19270331?od=T31&po=0&category=0&groupCd=",
+            "score": 63.64
+          },
+          {
+            "source": "인벤",
+            "rank": 83,
+            "title": "여자 핸드볼, 일본 꺾고 8년 만의 금메달…한국 19번째 金",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2733230",
+            "score": 54.99
+          },
+          {
+            "source": "클리앙",
+            "rank": 92,
             "title": "여자 핸드볼, 일본 꺾고 8년 만의 금메달…한국 19번째 金",
             "url": "https://www.clien.net/service/board/park/19270337?od=T31&po=0&category=0&groupCd=",
-            "score": 59.2
+            "score": 53.07
           }
         ],
         "first_seen": "2026-09-27T20:01:41.851026+09:00",
-        "last_seen": "2026-09-27T20:04:03.466743+09:00",
+        "last_seen": "2026-09-27T20:23:34.525151+09:00",
         "latest_source_count": 3,
         "latest_post_count": 4,
         "rank": 5,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "i23a285e5",
@@ -444,9 +504,9 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 100.65,
+        "score": 102.09,
         "peak_score": 89.16,
-        "appearances": 2,
+        "appearances": 3,
         "sources": [
           "디시인사이드",
           "뽐뿌"
@@ -454,25 +514,63 @@
         "posts": [
           {
             "source": "뽐뿌",
-            "rank": 5,
+            "rank": 8,
             "title": "안보고 쳐버리는 안세영 클라스",
             "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10132210",
-            "score": 80.16
+            "score": 76.72
           },
           {
             "source": "디시인사이드",
-            "rank": 52,
+            "rank": 51,
             "title": "안세영, 세계 5위 33분 만에 완파…2연패 성큼",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466258&_dcbest=1&page=1",
-            "score": 60.77
+            "score": 60.33
           }
         ],
         "first_seen": "2026-09-27T20:01:41.851026+09:00",
-        "last_seen": "2026-09-27T20:04:03.466743+09:00",
+        "last_seen": "2026-09-27T20:23:34.525151+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 6,
-        "change": 1
+        "change": 0
+      },
+      {
+        "id": "i5781c296",
+        "title": "‘네이버’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "네이버"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 99.96,
+        "peak_score": 90.49,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "루리웹"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 5,
+            "title": "[네이버] [PS5] 메타포 리판타지오 [16,820]",
+            "url": "https://bbs.ruliweb.com/market/board/1020/read/107560",
+            "score": 81.49
+          },
+          {
+            "source": "더쿠",
+            "rank": 53,
+            "title": "동일한 목적지 순정-티맵-네이버-카카오 주행 실험",
+            "url": "https://theqoo.net/hot/4357782924",
+            "score": 59.89
+          }
+        ],
+        "first_seen": "2026-09-27T20:23:34.525151+09:00",
+        "last_seen": "2026-09-27T20:23:34.525151+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 7,
+        "change": "NEW"
       },
       {
         "id": "ibe79202d",
@@ -509,8 +607,8 @@
         "last_seen": "2026-09-27T18:50:26.658953+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 7,
-        "change": -2
+        "rank": 8,
+        "change": -1
       },
       {
         "id": "i707041a3",
@@ -559,8 +657,8 @@
         "last_seen": "2026-09-27T20:01:41.851026+09:00",
         "latest_source_count": 3,
         "latest_post_count": 4,
-        "rank": 8,
-        "change": -2
+        "rank": 9,
+        "change": -1
       },
       {
         "id": "i106465f0",
@@ -599,7 +697,7 @@
         "last_seen": "2026-09-27T18:45:04.136110+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 9,
+        "rank": 10,
         "change": -1
       },
       {
@@ -637,8 +735,46 @@
         "last_seen": "2026-09-27T13:38:37.715424+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 10,
+        "rank": 11,
         "change": -1
+      },
+      {
+        "id": "i78f6419e",
+        "title": "‘암살자’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "암살자"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 93.64,
+        "peak_score": 84.17,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 9,
+            "title": "영화 암살자(들) 손익분기점",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=movie&no=91641",
+            "score": 75.17
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 18,
+            "title": "유튜버 단군 암살자(들) 리뷰 중 음모론에 대한 의견.jpg",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466232&_dcbest=1&page=1",
+            "score": 70.59
+          }
+        ],
+        "first_seen": "2026-09-27T20:23:34.525151+09:00",
+        "last_seen": "2026-09-27T20:23:34.525151+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 12,
+        "change": "NEW"
       },
       {
         "id": "i7f48cc7a",
@@ -675,8 +811,46 @@
         "last_seen": "2026-09-27T18:50:26.658953+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
-        "change": -1
+        "rank": 13,
+        "change": -2
+      },
+      {
+        "id": "i4df0ead9",
+        "title": "‘중식당’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "중식당"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 87.73,
+        "peak_score": 74.8,
+        "appearances": 3,
+        "sources": [
+          "디시인사이드",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 38,
+            "title": "분당 중식당 시진핑 테러 용의자 4명모두 사건당일 출국",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466205&_dcbest=1&page=1",
+            "score": 62.69
+          },
+          {
+            "source": "인벤",
+            "rank": 93,
+            "title": "중식당 테러범은 \"모두 중국인\"",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2733221",
+            "score": 52.64
+          }
+        ],
+        "first_seen": "2026-09-27T20:01:41.851026+09:00",
+        "last_seen": "2026-09-27T20:23:34.525151+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 14,
+        "change": 0
       },
       {
         "id": "i171ab594",
@@ -714,8 +888,8 @@
         "last_seen": "2026-09-27T14:14:08.194313+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 12,
-        "change": -1
+        "rank": 15,
+        "change": -3
       },
       {
         "id": "i8b4085e0",
@@ -752,46 +926,8 @@
         "last_seen": "2026-09-27T20:04:03.466743+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 13,
-        "change": 1
-      },
-      {
-        "id": "i4df0ead9",
-        "title": "‘중식당’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "중식당"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 86.29,
-        "peak_score": 74.8,
-        "appearances": 2,
-        "sources": [
-          "디시인사이드",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 35,
-            "title": "분당 중식당 시진핑 테러 용의자 4명모두 사건당일 출국",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466205&_dcbest=1&page=1",
-            "score": 63.94
-          },
-          {
-            "source": "인벤",
-            "rank": 49,
-            "title": "중식당 테러범은 \"모두 중국인\"",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2733221",
-            "score": 60.99
-          }
-        ],
-        "first_seen": "2026-09-27T20:01:41.851026+09:00",
-        "last_seen": "2026-09-27T20:04:03.466743+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 14,
-        "change": 3
+        "rank": 16,
+        "change": -3
       },
       {
         "id": "i2272efa7",
@@ -829,8 +965,8 @@
         "last_seen": "2026-09-27T14:09:17.311285+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 15,
-        "change": -3
+        "rank": 17,
+        "change": -2
       },
       {
         "id": "i90e493b6",
@@ -867,8 +1003,8 @@
         "last_seen": "2026-09-27T14:14:08.194313+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 16,
-        "change": -3
+        "rank": 18,
+        "change": -2
       },
       {
         "id": "i36451721",
@@ -908,7 +1044,7 @@
         "last_seen": "2026-09-27T18:16:30.778383+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 17,
+        "rank": 19,
         "change": -2
       },
       {
@@ -946,84 +1082,8 @@
         "last_seen": "2026-09-27T16:21:22.580161+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 18,
-        "change": -2
-      },
-      {
-        "id": "i77bec7b9",
-        "title": "‘윤석열’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "윤석열"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 83.06,
-        "peak_score": 69.01,
-        "appearances": 4,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 70,
-            "title": "윤석열 한방더멕이는 장동혁 ㅋㅋㅋㅋㅋㅋㅋㅋ",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2733210",
-            "score": 57.33
-          },
-          {
-            "source": "클리앙",
-            "rank": 77,
-            "title": "'국힘 397억.걸린 윤석열 재판...이번 주 결심",
-            "url": "https://www.clien.net/service/board/park/19270301?od=T31&po=0&category=0&groupCd=",
-            "score": 55.66
-          }
-        ],
-        "first_seen": "2026-09-27T18:45:04.136110+09:00",
-        "last_seen": "2026-09-27T18:50:26.658953+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 19,
-        "change": -1
-      },
-      {
-        "id": "i120e2ca8",
-        "title": "‘멕시코’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "멕시코"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 82.93,
-        "peak_score": 73.46,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 35,
-            "title": "이 대통령, 美·멕시코 순방 마치고 귀국…외교 성과 안고 국내 현안으로",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466181&_dcbest=1&page=1",
-            "score": 64.46
-          },
-          {
-            "source": "클리앙",
-            "rank": 44,
-            "title": "만약 멕시코 대통령이 한국 와서 간담회에서, 자국 정치 평론가에게 경고발언 한다면",
-            "url": "https://www.clien.net/service/board/park/19270155?od=T31&po=0&category=0&groupCd=",
-            "score": 62.98
-          }
-        ],
-        "first_seen": "2026-09-27T12:58:49.050910+09:00",
-        "last_seen": "2026-09-27T12:58:49.050910+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 20,
-        "change": -1
+        "change": -2
       }
     ],
     "weekly": [
@@ -1196,15 +1256,19 @@
       },
       {
         "id": "i74cea219",
-        "title": "‘19번째’ 관련 글이 여러 커뮤니티에서 화제",
+        "title": "[아시안게임] 핸드볼 여자 대한민국 금메달🥇🥇🥇 한일전 승🇰🇷",
         "keywords": [
+          "금메달",
+          "핸드볼",
+          "한국",
+          "일본",
           "19번째"
         ],
         "source_count": 3,
         "post_count": 4,
-        "score": 101.58,
+        "score": 103.02,
         "peak_score": 84.09,
-        "appearances": 2,
+        "appearances": 3,
         "sources": [
           "더쿠",
           "인벤",
@@ -1212,26 +1276,40 @@
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 38,
-            "title": "여자 핸드볼, 일본 꺾고 8년 만의 금메달…한국 19번째 金",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2733230",
-            "score": 62.32
+            "source": "더쿠",
+            "rank": 31,
+            "title": "[아시안게임] 핸드볼 여자 대한민국 금메달🥇🥇🥇 한일전 승🇰🇷",
+            "url": "https://theqoo.net/hot/4357824456",
+            "score": 64.53
           },
           {
             "source": "클리앙",
-            "rank": 61,
+            "rank": 34,
+            "title": "여자 핸드볼 금메달",
+            "url": "https://www.clien.net/service/board/park/19270331?od=T31&po=0&category=0&groupCd=",
+            "score": 63.64
+          },
+          {
+            "source": "인벤",
+            "rank": 83,
+            "title": "여자 핸드볼, 일본 꺾고 8년 만의 금메달…한국 19번째 金",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2733230",
+            "score": 54.99
+          },
+          {
+            "source": "클리앙",
+            "rank": 92,
             "title": "여자 핸드볼, 일본 꺾고 8년 만의 금메달…한국 19번째 金",
             "url": "https://www.clien.net/service/board/park/19270337?od=T31&po=0&category=0&groupCd=",
-            "score": 59.2
+            "score": 53.07
           }
         ],
         "first_seen": "2026-09-27T20:01:41.851026+09:00",
-        "last_seen": "2026-09-27T20:04:03.466743+09:00",
+        "last_seen": "2026-09-27T20:23:34.525151+09:00",
         "latest_source_count": 3,
         "latest_post_count": 4,
         "rank": 5,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "i23a285e5",
@@ -1241,9 +1319,9 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 100.65,
+        "score": 102.09,
         "peak_score": 89.16,
-        "appearances": 2,
+        "appearances": 3,
         "sources": [
           "디시인사이드",
           "뽐뿌"
@@ -1251,25 +1329,63 @@
         "posts": [
           {
             "source": "뽐뿌",
-            "rank": 5,
+            "rank": 8,
             "title": "안보고 쳐버리는 안세영 클라스",
             "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10132210",
-            "score": 80.16
+            "score": 76.72
           },
           {
             "source": "디시인사이드",
-            "rank": 52,
+            "rank": 51,
             "title": "안세영, 세계 5위 33분 만에 완파…2연패 성큼",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466258&_dcbest=1&page=1",
-            "score": 60.77
+            "score": 60.33
           }
         ],
         "first_seen": "2026-09-27T20:01:41.851026+09:00",
-        "last_seen": "2026-09-27T20:04:03.466743+09:00",
+        "last_seen": "2026-09-27T20:23:34.525151+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 6,
-        "change": 1
+        "change": 0
+      },
+      {
+        "id": "i5781c296",
+        "title": "‘네이버’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "네이버"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 99.96,
+        "peak_score": 90.49,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "루리웹"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 5,
+            "title": "[네이버] [PS5] 메타포 리판타지오 [16,820]",
+            "url": "https://bbs.ruliweb.com/market/board/1020/read/107560",
+            "score": 81.49
+          },
+          {
+            "source": "더쿠",
+            "rank": 53,
+            "title": "동일한 목적지 순정-티맵-네이버-카카오 주행 실험",
+            "url": "https://theqoo.net/hot/4357782924",
+            "score": 59.89
+          }
+        ],
+        "first_seen": "2026-09-27T20:23:34.525151+09:00",
+        "last_seen": "2026-09-27T20:23:34.525151+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 7,
+        "change": "NEW"
       },
       {
         "id": "ibe79202d",
@@ -1306,8 +1422,8 @@
         "last_seen": "2026-09-27T18:50:26.658953+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 7,
-        "change": -2
+        "rank": 8,
+        "change": -1
       },
       {
         "id": "i707041a3",
@@ -1356,8 +1472,8 @@
         "last_seen": "2026-09-27T20:01:41.851026+09:00",
         "latest_source_count": 3,
         "latest_post_count": 4,
-        "rank": 8,
-        "change": -2
+        "rank": 9,
+        "change": -1
       },
       {
         "id": "i106465f0",
@@ -1396,7 +1512,7 @@
         "last_seen": "2026-09-27T18:45:04.136110+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 9,
+        "rank": 10,
         "change": -1
       },
       {
@@ -1434,8 +1550,46 @@
         "last_seen": "2026-09-27T13:38:37.715424+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 10,
+        "rank": 11,
         "change": -1
+      },
+      {
+        "id": "i78f6419e",
+        "title": "‘암살자’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "암살자"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 93.64,
+        "peak_score": 84.17,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 9,
+            "title": "영화 암살자(들) 손익분기점",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=movie&no=91641",
+            "score": 75.17
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 18,
+            "title": "유튜버 단군 암살자(들) 리뷰 중 음모론에 대한 의견.jpg",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466232&_dcbest=1&page=1",
+            "score": 70.59
+          }
+        ],
+        "first_seen": "2026-09-27T20:23:34.525151+09:00",
+        "last_seen": "2026-09-27T20:23:34.525151+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 12,
+        "change": "NEW"
       },
       {
         "id": "i7f48cc7a",
@@ -1472,8 +1626,46 @@
         "last_seen": "2026-09-27T18:50:26.658953+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
-        "change": -1
+        "rank": 13,
+        "change": -2
+      },
+      {
+        "id": "i4df0ead9",
+        "title": "‘중식당’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "중식당"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 87.73,
+        "peak_score": 74.8,
+        "appearances": 3,
+        "sources": [
+          "디시인사이드",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 38,
+            "title": "분당 중식당 시진핑 테러 용의자 4명모두 사건당일 출국",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466205&_dcbest=1&page=1",
+            "score": 62.69
+          },
+          {
+            "source": "인벤",
+            "rank": 93,
+            "title": "중식당 테러범은 \"모두 중국인\"",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2733221",
+            "score": 52.64
+          }
+        ],
+        "first_seen": "2026-09-27T20:01:41.851026+09:00",
+        "last_seen": "2026-09-27T20:23:34.525151+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 14,
+        "change": 0
       },
       {
         "id": "i171ab594",
@@ -1511,8 +1703,8 @@
         "last_seen": "2026-09-27T14:14:08.194313+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 12,
-        "change": -1
+        "rank": 15,
+        "change": -3
       },
       {
         "id": "i8b4085e0",
@@ -1549,46 +1741,8 @@
         "last_seen": "2026-09-27T20:04:03.466743+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 13,
-        "change": 1
-      },
-      {
-        "id": "i4df0ead9",
-        "title": "‘중식당’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "중식당"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 86.29,
-        "peak_score": 74.8,
-        "appearances": 2,
-        "sources": [
-          "디시인사이드",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 35,
-            "title": "분당 중식당 시진핑 테러 용의자 4명모두 사건당일 출국",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466205&_dcbest=1&page=1",
-            "score": 63.94
-          },
-          {
-            "source": "인벤",
-            "rank": 49,
-            "title": "중식당 테러범은 \"모두 중국인\"",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2733221",
-            "score": 60.99
-          }
-        ],
-        "first_seen": "2026-09-27T20:01:41.851026+09:00",
-        "last_seen": "2026-09-27T20:04:03.466743+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 14,
-        "change": 3
+        "rank": 16,
+        "change": -3
       },
       {
         "id": "i2272efa7",
@@ -1626,8 +1780,8 @@
         "last_seen": "2026-09-27T14:09:17.311285+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 15,
-        "change": -3
+        "rank": 17,
+        "change": -2
       },
       {
         "id": "i90e493b6",
@@ -1664,8 +1818,8 @@
         "last_seen": "2026-09-27T14:14:08.194313+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 16,
-        "change": -3
+        "rank": 18,
+        "change": -2
       },
       {
         "id": "i36451721",
@@ -1705,7 +1859,7 @@
         "last_seen": "2026-09-27T18:16:30.778383+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 17,
+        "rank": 19,
         "change": -2
       },
       {
@@ -1743,84 +1897,8 @@
         "last_seen": "2026-09-27T16:21:22.580161+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 18,
-        "change": -2
-      },
-      {
-        "id": "i77bec7b9",
-        "title": "‘윤석열’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "윤석열"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 83.06,
-        "peak_score": 69.01,
-        "appearances": 4,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 70,
-            "title": "윤석열 한방더멕이는 장동혁 ㅋㅋㅋㅋㅋㅋㅋㅋ",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2733210",
-            "score": 57.33
-          },
-          {
-            "source": "클리앙",
-            "rank": 77,
-            "title": "'국힘 397억.걸린 윤석열 재판...이번 주 결심",
-            "url": "https://www.clien.net/service/board/park/19270301?od=T31&po=0&category=0&groupCd=",
-            "score": 55.66
-          }
-        ],
-        "first_seen": "2026-09-27T18:45:04.136110+09:00",
-        "last_seen": "2026-09-27T18:50:26.658953+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 19,
-        "change": -1
-      },
-      {
-        "id": "i120e2ca8",
-        "title": "‘멕시코’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "멕시코"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 82.93,
-        "peak_score": 73.46,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 35,
-            "title": "이 대통령, 美·멕시코 순방 마치고 귀국…외교 성과 안고 국내 현안으로",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466181&_dcbest=1&page=1",
-            "score": 64.46
-          },
-          {
-            "source": "클리앙",
-            "rank": 44,
-            "title": "만약 멕시코 대통령이 한국 와서 간담회에서, 자국 정치 평론가에게 경고발언 한다면",
-            "url": "https://www.clien.net/service/board/park/19270155?od=T31&po=0&category=0&groupCd=",
-            "score": 62.98
-          }
-        ],
-        "first_seen": "2026-09-27T12:58:49.050910+09:00",
-        "last_seen": "2026-09-27T12:58:49.050910+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 20,
-        "change": -1
+        "change": -2
       }
     ],
     "monthly": [
@@ -1993,15 +2071,19 @@
       },
       {
         "id": "i74cea219",
-        "title": "‘19번째’ 관련 글이 여러 커뮤니티에서 화제",
+        "title": "[아시안게임] 핸드볼 여자 대한민국 금메달🥇🥇🥇 한일전 승🇰🇷",
         "keywords": [
+          "금메달",
+          "핸드볼",
+          "한국",
+          "일본",
           "19번째"
         ],
         "source_count": 3,
         "post_count": 4,
-        "score": 101.58,
+        "score": 103.02,
         "peak_score": 84.09,
-        "appearances": 2,
+        "appearances": 3,
         "sources": [
           "더쿠",
           "인벤",
@@ -2009,26 +2091,40 @@
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 38,
-            "title": "여자 핸드볼, 일본 꺾고 8년 만의 금메달…한국 19번째 金",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2733230",
-            "score": 62.32
+            "source": "더쿠",
+            "rank": 31,
+            "title": "[아시안게임] 핸드볼 여자 대한민국 금메달🥇🥇🥇 한일전 승🇰🇷",
+            "url": "https://theqoo.net/hot/4357824456",
+            "score": 64.53
           },
           {
             "source": "클리앙",
-            "rank": 61,
+            "rank": 34,
+            "title": "여자 핸드볼 금메달",
+            "url": "https://www.clien.net/service/board/park/19270331?od=T31&po=0&category=0&groupCd=",
+            "score": 63.64
+          },
+          {
+            "source": "인벤",
+            "rank": 83,
+            "title": "여자 핸드볼, 일본 꺾고 8년 만의 금메달…한국 19번째 金",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2733230",
+            "score": 54.99
+          },
+          {
+            "source": "클리앙",
+            "rank": 92,
             "title": "여자 핸드볼, 일본 꺾고 8년 만의 금메달…한국 19번째 金",
             "url": "https://www.clien.net/service/board/park/19270337?od=T31&po=0&category=0&groupCd=",
-            "score": 59.2
+            "score": 53.07
           }
         ],
         "first_seen": "2026-09-27T20:01:41.851026+09:00",
-        "last_seen": "2026-09-27T20:04:03.466743+09:00",
+        "last_seen": "2026-09-27T20:23:34.525151+09:00",
         "latest_source_count": 3,
         "latest_post_count": 4,
         "rank": 5,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "i23a285e5",
@@ -2038,9 +2134,9 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 100.65,
+        "score": 102.09,
         "peak_score": 89.16,
-        "appearances": 2,
+        "appearances": 3,
         "sources": [
           "디시인사이드",
           "뽐뿌"
@@ -2048,25 +2144,63 @@
         "posts": [
           {
             "source": "뽐뿌",
-            "rank": 5,
+            "rank": 8,
             "title": "안보고 쳐버리는 안세영 클라스",
             "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10132210",
-            "score": 80.16
+            "score": 76.72
           },
           {
             "source": "디시인사이드",
-            "rank": 52,
+            "rank": 51,
             "title": "안세영, 세계 5위 33분 만에 완파…2연패 성큼",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466258&_dcbest=1&page=1",
-            "score": 60.77
+            "score": 60.33
           }
         ],
         "first_seen": "2026-09-27T20:01:41.851026+09:00",
-        "last_seen": "2026-09-27T20:04:03.466743+09:00",
+        "last_seen": "2026-09-27T20:23:34.525151+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 6,
-        "change": 1
+        "change": 0
+      },
+      {
+        "id": "i5781c296",
+        "title": "‘네이버’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "네이버"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 99.96,
+        "peak_score": 90.49,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "루리웹"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 5,
+            "title": "[네이버] [PS5] 메타포 리판타지오 [16,820]",
+            "url": "https://bbs.ruliweb.com/market/board/1020/read/107560",
+            "score": 81.49
+          },
+          {
+            "source": "더쿠",
+            "rank": 53,
+            "title": "동일한 목적지 순정-티맵-네이버-카카오 주행 실험",
+            "url": "https://theqoo.net/hot/4357782924",
+            "score": 59.89
+          }
+        ],
+        "first_seen": "2026-09-27T20:23:34.525151+09:00",
+        "last_seen": "2026-09-27T20:23:34.525151+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 7,
+        "change": "NEW"
       },
       {
         "id": "ibe79202d",
@@ -2103,8 +2237,8 @@
         "last_seen": "2026-09-27T18:50:26.658953+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 7,
-        "change": -2
+        "rank": 8,
+        "change": -1
       },
       {
         "id": "i707041a3",
@@ -2153,8 +2287,8 @@
         "last_seen": "2026-09-27T20:01:41.851026+09:00",
         "latest_source_count": 3,
         "latest_post_count": 4,
-        "rank": 8,
-        "change": -2
+        "rank": 9,
+        "change": -1
       },
       {
         "id": "i106465f0",
@@ -2193,7 +2327,7 @@
         "last_seen": "2026-09-27T18:45:04.136110+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 9,
+        "rank": 10,
         "change": -1
       },
       {
@@ -2231,8 +2365,46 @@
         "last_seen": "2026-09-27T13:38:37.715424+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 10,
+        "rank": 11,
         "change": -1
+      },
+      {
+        "id": "i78f6419e",
+        "title": "‘암살자’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "암살자"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 93.64,
+        "peak_score": 84.17,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 9,
+            "title": "영화 암살자(들) 손익분기점",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=movie&no=91641",
+            "score": 75.17
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 18,
+            "title": "유튜버 단군 암살자(들) 리뷰 중 음모론에 대한 의견.jpg",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466232&_dcbest=1&page=1",
+            "score": 70.59
+          }
+        ],
+        "first_seen": "2026-09-27T20:23:34.525151+09:00",
+        "last_seen": "2026-09-27T20:23:34.525151+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 12,
+        "change": "NEW"
       },
       {
         "id": "i7f48cc7a",
@@ -2269,8 +2441,46 @@
         "last_seen": "2026-09-27T18:50:26.658953+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
-        "change": -1
+        "rank": 13,
+        "change": -2
+      },
+      {
+        "id": "i4df0ead9",
+        "title": "‘중식당’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "중식당"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 87.73,
+        "peak_score": 74.8,
+        "appearances": 3,
+        "sources": [
+          "디시인사이드",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 38,
+            "title": "분당 중식당 시진핑 테러 용의자 4명모두 사건당일 출국",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466205&_dcbest=1&page=1",
+            "score": 62.69
+          },
+          {
+            "source": "인벤",
+            "rank": 93,
+            "title": "중식당 테러범은 \"모두 중국인\"",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2733221",
+            "score": 52.64
+          }
+        ],
+        "first_seen": "2026-09-27T20:01:41.851026+09:00",
+        "last_seen": "2026-09-27T20:23:34.525151+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 14,
+        "change": 0
       },
       {
         "id": "i171ab594",
@@ -2308,8 +2518,8 @@
         "last_seen": "2026-09-27T14:14:08.194313+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 12,
-        "change": -1
+        "rank": 15,
+        "change": -3
       },
       {
         "id": "i8b4085e0",
@@ -2346,46 +2556,8 @@
         "last_seen": "2026-09-27T20:04:03.466743+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 13,
-        "change": 1
-      },
-      {
-        "id": "i4df0ead9",
-        "title": "‘중식당’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "중식당"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 86.29,
-        "peak_score": 74.8,
-        "appearances": 2,
-        "sources": [
-          "디시인사이드",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 35,
-            "title": "분당 중식당 시진핑 테러 용의자 4명모두 사건당일 출국",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466205&_dcbest=1&page=1",
-            "score": 63.94
-          },
-          {
-            "source": "인벤",
-            "rank": 49,
-            "title": "중식당 테러범은 \"모두 중국인\"",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2733221",
-            "score": 60.99
-          }
-        ],
-        "first_seen": "2026-09-27T20:01:41.851026+09:00",
-        "last_seen": "2026-09-27T20:04:03.466743+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 14,
-        "change": 3
+        "rank": 16,
+        "change": -3
       },
       {
         "id": "i2272efa7",
@@ -2423,8 +2595,8 @@
         "last_seen": "2026-09-27T14:09:17.311285+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 15,
-        "change": -3
+        "rank": 17,
+        "change": -2
       },
       {
         "id": "i90e493b6",
@@ -2461,8 +2633,8 @@
         "last_seen": "2026-09-27T14:14:08.194313+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 16,
-        "change": -3
+        "rank": 18,
+        "change": -2
       },
       {
         "id": "i36451721",
@@ -2502,7 +2674,7 @@
         "last_seen": "2026-09-27T18:16:30.778383+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 17,
+        "rank": 19,
         "change": -2
       },
       {
@@ -2540,84 +2712,8 @@
         "last_seen": "2026-09-27T16:21:22.580161+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 18,
-        "change": -2
-      },
-      {
-        "id": "i77bec7b9",
-        "title": "‘윤석열’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "윤석열"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 83.06,
-        "peak_score": 69.01,
-        "appearances": 4,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 70,
-            "title": "윤석열 한방더멕이는 장동혁 ㅋㅋㅋㅋㅋㅋㅋㅋ",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2733210",
-            "score": 57.33
-          },
-          {
-            "source": "클리앙",
-            "rank": 77,
-            "title": "'국힘 397억.걸린 윤석열 재판...이번 주 결심",
-            "url": "https://www.clien.net/service/board/park/19270301?od=T31&po=0&category=0&groupCd=",
-            "score": 55.66
-          }
-        ],
-        "first_seen": "2026-09-27T18:45:04.136110+09:00",
-        "last_seen": "2026-09-27T18:50:26.658953+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 19,
-        "change": -1
-      },
-      {
-        "id": "i120e2ca8",
-        "title": "‘멕시코’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "멕시코"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 82.93,
-        "peak_score": 73.46,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 35,
-            "title": "이 대통령, 美·멕시코 순방 마치고 귀국…외교 성과 안고 국내 현안으로",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466181&_dcbest=1&page=1",
-            "score": 64.46
-          },
-          {
-            "source": "클리앙",
-            "rank": 44,
-            "title": "만약 멕시코 대통령이 한국 와서 간담회에서, 자국 정치 평론가에게 경고발언 한다면",
-            "url": "https://www.clien.net/service/board/park/19270155?od=T31&po=0&category=0&groupCd=",
-            "score": 62.98
-          }
-        ],
-        "first_seen": "2026-09-27T12:58:49.050910+09:00",
-        "last_seen": "2026-09-27T12:58:49.050910+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 20,
-        "change": -1
+        "change": -2
       }
     ]
   }
