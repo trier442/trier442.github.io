@@ -18,6 +18,8 @@ ROOT = Path(__file__).resolve().parents[1]
 DATA_DIR = ROOT / "data"
 LATEST_PATH = DATA_DIR / "latest.json"
 ARCHIVE_PATH = DATA_DIR / "archive.json"
+ARCHIVE_INDEX_PATH = DATA_DIR / "archive-index.json"
+SNAPSHOT_DIR = DATA_DIR / "snapshots"
 
 KST = timezone(timedelta(hours=9))
 USER_AGENT = (
@@ -583,6 +585,72 @@ def attach_rank_changes(rankings: dict[str, list[dict]], previous: dict) -> None
             p["change"] = "NEW" if old_rank is None else old_rank - (i + 1)
 
 
+def snapshot_meta(period: str, key: str, label: str, collected_at: str, path: Path) -> dict:
+    return {
+        "period": period,
+        "key": key,
+        "label": label,
+        "collected_at": collected_at,
+        "path": str(path.relative_to(DATA_DIR)).replace("\\", "/"),
+    }
+
+
+def write_period_snapshots(now: datetime, collected_at: str, rankings: dict[str, list[dict]]) -> list[dict]:
+    SNAPSHOT_DIR.mkdir(parents=True, exist_ok=True)
+
+    iso_year, iso_week, _ = now.isocalendar()
+    week_start = (now - timedelta(days=now.weekday())).replace(hour=0, minute=0, second=0, microsecond=0)
+    week_end = week_start + timedelta(days=6)
+
+    specs = [
+        ("daily", now.strftime("%Y-%m-%d"), now.strftime("%Y년 %m월 %d일")),
+        (
+            "weekly",
+            f"{iso_year}-W{iso_week:02d}",
+            f"{week_start.strftime('%Y.%m.%d')} ~ {week_end.strftime('%m.%d')}",
+        ),
+        ("monthly", now.strftime("%Y-%m"), now.strftime("%Y년 %m월")),
+    ]
+
+    metas = []
+    for period, key, label in specs:
+        period_dir = SNAPSHOT_DIR / period
+        period_dir.mkdir(parents=True, exist_ok=True)
+        path = period_dir / f"{key}.json"
+        posts = rankings.get(period, [])
+        snap = {
+            "version": 1,
+            "period": period,
+            "key": key,
+            "label": label,
+            "collected_at": collected_at,
+            "timezone": "Asia/Seoul",
+            "posts": posts,
+            "topics": build_topics(posts),
+        }
+        path.write_text(json.dumps(snap, ensure_ascii=False, indent=2), encoding="utf-8")
+        metas.append(snapshot_meta(period, key, label, collected_at, path))
+    return metas
+
+
+def update_archive_index(new_metas: list[dict]) -> dict:
+    index = load_json(ARCHIVE_INDEX_PATH, {"version": 1, "periods": {"daily": [], "weekly": [], "monthly": []}})
+    index.setdefault("periods", {})
+    limits = {"daily": 400, "weekly": 120, "monthly": 60}
+
+    for meta in new_metas:
+        period = meta["period"]
+        items = index["periods"].setdefault(period, [])
+        items = [item for item in items if item.get("key") != meta["key"]]
+        items.append(meta)
+        items.sort(key=lambda item: item.get("key", ""), reverse=True)
+        index["periods"][period] = items[:limits[period]]
+
+    index["updated_at"] = max((m["collected_at"] for m in new_metas), default=None)
+    ARCHIVE_INDEX_PATH.write_text(json.dumps(index, ensure_ascii=False, indent=2), encoding="utf-8")
+    return index
+
+
 def main() -> None:
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     now = datetime.now(KST)
@@ -684,6 +752,8 @@ def main() -> None:
 
     LATEST_PATH.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
     ARCHIVE_PATH.write_text(json.dumps(archive, ensure_ascii=False, indent=2), encoding="utf-8")
+    snapshot_metas = write_period_snapshots(now, collected_at, rankings)
+    update_archive_index(snapshot_metas)
 
     ok = sum(1 for s in statuses if s["ok"] and s["count"] > 0)
     print(f"Collected {len(dedup)} posts from {ok}/{len(statuses)} sources")
