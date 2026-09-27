@@ -16,6 +16,10 @@ function safeText(value) {
   }[ch]));
 }
 
+function postDetailUrl(url) {
+  return "../post/?url=" + encodeURIComponent(url || "");
+}
+
 function normalize(value) {
   return String(value || "").toLowerCase().replace(/\s+/g, " ").trim();
 }
@@ -190,7 +194,7 @@ function render() {
             <span>${safeText(record.source)}</span>
             <span>${safeText(record.category)}</span>
           </div>
-          <a class="search-result-title" href="${safeText(record.url)}" target="_blank" rel="noopener noreferrer">${safeText(record.title)}</a>
+          <a class="search-result-title" href="${postDetailUrl(record.url)}">${safeText(record.title)}</a>
           <div class="meta search-result-meta">
             <span>조회 ${fmt(record.views)}</span>
             <span>추천 ${fmt(record.likes)}</span>
