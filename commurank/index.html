@@ -70,6 +70,10 @@
           </div>
         </div>
       </div>
+      <div class="active-keyword" id="activeKeywordBar" hidden>
+        <span id="activeKeywordText"></span>
+        <button id="clearKeyword" type="button">필터 해제</button>
+      </div>
     </section>
 
     <section class="shell dashboard">
@@ -95,6 +99,19 @@
             <span class="mini-badge">LIVE</span>
           </div>
           <ol class="community-list" id="communityList"></ol>
+        </section>
+
+        <section class="side-card">
+          <div class="side-title">
+            <div>
+              <span>실시간 트렌드</span>
+              <h3>인기 키워드</h3>
+            </div>
+            <span class="mini-badge" id="keywordCount">TOP 20</span>
+          </div>
+          <div class="keyword-list" id="keywordList">
+            <div class="empty">키워드 분석 중</div>
+          </div>
         </section>
 
         <section class="side-card">
