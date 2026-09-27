@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W39",
   "label": "2026.09.21 ~ 09.27",
-  "collected_at": "2026-09-27T18:45:04.136110+09:00",
+  "collected_at": "2026-09-27T18:48:24.519744+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -43,7 +43,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 1,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "iba838050",
@@ -81,7 +81,7 @@
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 2,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i26c94275",
@@ -119,7 +119,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 3,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i8f4c9529",
@@ -157,7 +157,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 4,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i2761816c",
@@ -209,22 +209,19 @@
       "latest_source_count": 3,
       "latest_post_count": 3,
       "rank": 5,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "ib3876eed",
       "title": "‘50대’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "50대"
-      ],
+      "keywords": [],
       "source_count": 3,
-      "post_count": 5,
-      "score": 104.89,
-      "peak_score": 82.93,
+      "post_count": 4,
+      "score": 109.61,
+      "peak_score": 88.65,
       "appearances": 5,
       "sources": [
         "디시인사이드",
-        "루리웹",
         "뽐뿌",
         "인벤",
         "클리앙"
@@ -248,84 +245,46 @@
       "first_seen": "2026-09-27T12:58:49.050910+09:00",
       "last_seen": "2026-09-27T18:12:53.111746+09:00",
       "latest_source_count": 2,
-      "latest_post_count": 5,
-      "rank": 6,
-      "change": "NEW"
-    },
-    {
-      "id": "i36281a8d",
-      "title": "‘유튜브’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "유튜브"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 98.12,
-      "peak_score": 88.65,
-      "appearances": 1,
-      "sources": [
-        "뽐뿌",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 8,
-          "title": "유튜브 보고 차를 구입한 사람들",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2733097",
-          "score": 79.65
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 15,
-          "title": "로이킴이 안소희 유튜브 출연했는데 민심이 안좋네요",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10131905",
-          "score": 71.56
-        }
-      ],
-      "first_seen": "2026-09-27T12:58:49.050910+09:00",
-      "last_seen": "2026-09-27T12:58:49.050910+09:00",
-      "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": "NEW"
+      "rank": 6,
+      "change": 0
     },
     {
-      "id": "iaa40d60f",
-      "title": "‘유튜버’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "ibe79202d",
+      "title": "‘편의점’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "유튜버"
+        "편의점"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 97.5,
-      "peak_score": 88.03,
+      "score": 96.47,
+      "peak_score": 87.0,
       "appearances": 1,
       "sources": [
         "디시인사이드",
-        "인벤"
+        "클리앙"
       ],
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 6,
-          "title": "유튜버 단군 암살자(들) 리뷰 중 음모론에 대한 의견.jpg",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466232&_dcbest=1&page=1",
-          "score": 79.03
+          "rank": 9,
+          "title": "싱글벙글 폐급 편의점 알바 레전드",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466230&_dcbest=1&page=1",
+          "score": 78.0
         },
         {
-          "source": "인벤",
-          "rank": 76,
-          "title": "약혐) 부산 찜질방 빈대 이슈 업로드한 유튜버",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2733169",
-          "score": 56.08
+          "source": "클리앙",
+          "rank": 54,
+          "title": "편의점 빵을 구매한게 얼마만인지...",
+          "url": "https://www.clien.net/service/board/park/19270308?od=T31&po=0&category=0&groupCd=",
+          "score": 60.67
         }
       ],
-      "first_seen": "2026-09-27T18:12:53.111746+09:00",
-      "last_seen": "2026-09-27T18:12:53.111746+09:00",
+      "first_seen": "2026-09-27T18:48:24.519744+09:00",
+      "last_seen": "2026-09-27T18:48:24.519744+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 8,
+      "rank": 7,
       "change": "NEW"
     },
     {
@@ -365,8 +324,8 @@
       "last_seen": "2026-09-27T18:45:04.136110+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 9,
-      "change": "NEW"
+      "rank": 8,
+      "change": 1
     },
     {
       "id": "ia0fd1514",
@@ -403,84 +362,8 @@
       "last_seen": "2026-09-27T13:38:37.715424+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 10,
-      "change": "NEW"
-    },
-    {
-      "id": "i59b001e5",
-      "title": "‘50대’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "50대"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 90.8,
-      "peak_score": 81.33,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 15,
-          "title": "50대 가장, 아내, 자녀 살해하고 투신",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466239&_dcbest=1&page=1",
-          "score": 72.33
-        },
-        {
-          "source": "인벤",
-          "rank": 74,
-          "title": "사진 찍다 그만”…제주 천지연폭포서 50대 관광객 추락 사망",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2733185",
-          "score": 56.38
-        }
-      ],
-      "first_seen": "2026-09-27T18:12:53.111746+09:00",
-      "last_seen": "2026-09-27T18:12:53.111746+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 11,
-      "change": "NEW"
-    },
-    {
-      "id": "i0d6a2535",
-      "title": "‘manhwa’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "manhwa"
-      ],
-      "source_count": 2,
-      "post_count": 5,
-      "score": 90.22,
-      "peak_score": 77.75,
-      "appearances": 1,
-      "sources": [
-        "루리웹",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 27,
-          "title": "ㅇㅎ) 빈유 안드로이드 아내가 배송된.manhwa",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2733191",
-          "score": 65.75
-        },
-        {
-          "source": "루리웹",
-          "rank": 78,
-          "title": "호리데이) 다 보이는 투명인간 후배.manhwa",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/76823181?m=humor_only&t=now",
-          "score": 55.73
-        }
-      ],
-      "first_seen": "2026-09-27T18:12:53.111746+09:00",
-      "last_seen": "2026-09-27T18:12:53.111746+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 5,
-      "rank": 12,
-      "change": "NEW"
+      "rank": 9,
+      "change": 1
     },
     {
       "id": "i171ab594",
@@ -518,8 +401,46 @@
       "last_seen": "2026-09-27T14:14:08.194313+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 13,
-      "change": "NEW"
+      "rank": 10,
+      "change": 3
+    },
+    {
+      "id": "i7f48cc7a",
+      "title": "‘반도체’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "반도체"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 86.96,
+      "peak_score": 74.03,
+      "appearances": 3,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 85,
+          "title": "반도체 호황에 초과세수 50조…기금 200조 넘나",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466226&_dcbest=1&page=1",
+          "score": 54.69
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 92,
+          "title": "미국 중간선거 결과에 따라 반도체 주가 변화 예상",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=438374",
+          "score": 53.07
+        }
+      ],
+      "first_seen": "2026-09-27T18:31:46.541305+09:00",
+      "last_seen": "2026-09-27T18:48:24.519744+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 11,
+      "change": 5
     },
     {
       "id": "i2272efa7",
@@ -557,8 +478,8 @@
       "last_seen": "2026-09-27T14:09:17.311285+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 14,
-      "change": "NEW"
+      "rank": 12,
+      "change": 2
     },
     {
       "id": "i90e493b6",
@@ -595,46 +516,8 @@
       "last_seen": "2026-09-27T14:14:08.194313+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 15,
-      "change": "NEW"
-    },
-    {
-      "id": "i7f48cc7a",
-      "title": "‘반도체’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "반도체"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 85.52,
-      "peak_score": 74.03,
-      "appearances": 2,
-      "sources": [
-        "디시인사이드",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 80,
-          "title": "반도체 호황에 초과세수 50조…기금 200조 넘나",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466226&_dcbest=1&page=1",
-          "score": 54.69
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 91,
-          "title": "미국 중간선거 결과에 따라 반도체 주가 변화 예상",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=438374",
-          "score": 53.31
-        }
-      ],
-      "first_seen": "2026-09-27T18:31:46.541305+09:00",
-      "last_seen": "2026-09-27T18:45:04.136110+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 16,
-      "change": "NEW"
+      "rank": 13,
+      "change": 2
     },
     {
       "id": "i36451721",
@@ -674,8 +557,8 @@
       "last_seen": "2026-09-27T18:16:30.778383+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 17,
-      "change": "NEW"
+      "rank": 14,
+      "change": 3
     },
     {
       "id": "i2a7fad4a",
@@ -712,8 +595,8 @@
       "last_seen": "2026-09-27T16:21:22.580161+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 18,
-      "change": "NEW"
+      "rank": 15,
+      "change": 3
     },
     {
       "id": "i386066fc",
@@ -750,46 +633,166 @@
       "last_seen": "2026-09-27T13:38:37.715424+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 19,
-      "change": "NEW"
+      "rank": 16,
+      "change": 3
     },
     {
-      "id": "ibb0f2ad0",
-      "title": "ㅇㅎ) 빈유 안드로이드 아내가 배송된.manhwa",
+      "id": "i120e2ca8",
+      "title": "‘멕시코’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "배송된",
-        "빈유",
-        "manhwa",
-        "안드로이드",
-        "아내가"
+        "멕시코"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 83.22,
-      "peak_score": 73.75,
+      "score": 82.93,
+      "peak_score": 73.46,
       "appearances": 1,
       "sources": [
-        "루리웹",
-        "인벤"
+        "디시인사이드",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 35,
+          "title": "이 대통령, 美·멕시코 순방 마치고 귀국…외교 성과 안고 국내 현안으로",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466181&_dcbest=1&page=1",
+          "score": 64.46
+        },
+        {
+          "source": "클리앙",
+          "rank": 44,
+          "title": "만약 멕시코 대통령이 한국 와서 간담회에서, 자국 정치 평론가에게 경고발언 한다면",
+          "url": "https://www.clien.net/service/board/park/19270155?od=T31&po=0&category=0&groupCd=",
+          "score": 62.98
+        }
+      ],
+      "first_seen": "2026-09-27T12:58:49.050910+09:00",
+      "last_seen": "2026-09-27T12:58:49.050910+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 17,
+      "change": "NEW"
+    },
+    {
+      "id": "i50e25e1b",
+      "title": "육상 400m 한국 신기록 23년만에 만든 김서윤 선수",
+      "keywords": [
+        "23년만에",
+        "김서윤",
+        "400m",
+        "한국",
+        "신기록"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 82.09,
+      "peak_score": 70.6,
+      "appearances": 2,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 40,
+          "title": "육상 400m 한국 신기록 23년만에 만든 김서윤 선수",
+          "url": "https://www.clien.net/service/board/park/19270306?od=T31&po=0&category=0&groupCd=",
+          "score": 62.6
+        },
+        {
+          "source": "인벤",
+          "rank": 99,
+          "title": "육상 400m 한국 신기록 23년만에 깨트린 김서윤 선수",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2733205",
+          "score": 51.65
+        }
+      ],
+      "first_seen": "2026-09-27T18:45:04.136110+09:00",
+      "last_seen": "2026-09-27T18:48:24.519744+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 18,
+      "change": "NEW"
+    },
+    {
+      "id": "i77bec7b9",
+      "title": "‘윤석열’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "윤석열"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 80.5,
+      "peak_score": 69.01,
+      "appearances": 2,
+      "sources": [
+        "인벤",
+        "클리앙"
       ],
       "posts": [
         {
           "source": "인벤",
-          "rank": 27,
-          "title": "ㅇㅎ) 빈유 안드로이드 아내가 배송된.manhwa",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2733191",
-          "score": 65.75
+          "rank": 69,
+          "title": "윤석열 한방더멕이는 장동혁 ㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2733210",
+          "score": 58.17
         },
         {
-          "source": "루리웹",
-          "rank": 92,
-          "title": "빈유 안드로이드 아내가 배송된 만화.manhwa",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/76823177?m=humor_only&t=now",
-          "score": 52.89
+          "source": "클리앙",
+          "rank": 73,
+          "title": "'국힘 397억.걸린 윤석열 재판...이번 주 결심",
+          "url": "https://www.clien.net/service/board/park/19270301?od=T31&po=0&category=0&groupCd=",
+          "score": 57.19
+        }
+      ],
+      "first_seen": "2026-09-27T18:45:04.136110+09:00",
+      "last_seen": "2026-09-27T18:48:24.519744+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 19,
+      "change": "NEW"
+    },
+    {
+      "id": "ib58680f3",
+      "title": "일본이 이런 센스? 韓 체조 전설 된 여서정 더 빛내줬다…\"아빠와 같은 길 걷게 돼 행복해\"",
+      "keywords": [
+        "빛내줬다",
+        "전설",
+        "아빠와",
+        "체조",
+        "걷게",
+        "일본이",
+        "여서정"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 79.85,
+      "peak_score": 66.92,
+      "appearances": 3,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 81,
+          "title": "일본이 이런 센스? 韓 체조 전설 된 여서정 더 빛내줬다…\"아빠와 같은 길 걷게 돼 행복해\"",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2733197",
+          "score": 55.45
+        },
+        {
+          "source": "클리앙",
+          "rank": 88,
+          "title": "일본이 이런 센스? 韓 체조 전설 된 여서정 더 빛내줬다…'아빠와 같은 길 걷게 돼 행복",
+          "url": "https://www.clien.net/service/board/park/19270282?od=T31&po=0&category=0&groupCd=",
+          "score": 53.91
         }
       ],
       "first_seen": "2026-09-27T18:12:53.111746+09:00",
-      "last_seen": "2026-09-27T18:12:53.111746+09:00",
+      "last_seen": "2026-09-27T18:31:46.541305+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 20,
