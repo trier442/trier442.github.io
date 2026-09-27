@@ -19,6 +19,15 @@ let liveData = null;
 let archiveIndex = null;
 let archiveData = null;
 
+const communitySlug = {
+  "디시인사이드":"dcinside",
+  "더쿠":"theqoo",
+  "루리웹":"ruliweb",
+  "클리앙":"clien",
+  "인벤":"inven",
+  "뽐뿌":"ppomppu"
+};
+
 const fmt = n => new Intl.NumberFormat("ko-KR", {
   notation: Number(n) > 9999 ? "compact" : "standard"
 }).format(Number(n) || 0);
@@ -223,7 +232,9 @@ function render(){
     ? communities.map((c,i)=>`
       <li class="community-row">
         <span class="community-rank">${i+1}</span>
-        <span class="community-name">${safeText(c.name)}</span>
+        ${communitySlug[c.name]
+          ? `<a class="community-name community-link" href="./community/${communitySlug[c.name]}/">${safeText(c.name)}</a>`
+          : `<span class="community-name">${safeText(c.name)}</span>`}
         <span class="community-score">${c.score}점 · ${c.count}건</span>
       </li>`).join("")
     : '<li class="empty">수집 대기 중</li>';
