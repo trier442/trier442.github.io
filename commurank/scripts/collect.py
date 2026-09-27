@@ -31,6 +31,8 @@ SITES = {
     "더쿠": "https://theqoo.net/hot",
     "뽐뿌": "https://www.ppomppu.co.kr/hot.php",
     "에펨코리아": "https://www.fmkorea.com/best",
+    "클리앙": "https://www.clien.net/service/board/park",
+    "인벤": "https://www.inven.co.kr/board/webzine/2097",
 }
 
 CATEGORY_KEYWORDS = {
@@ -267,12 +269,82 @@ def scrape_fmkorea() -> list[dict]:
     return []
 
 
+def scrape_clien() -> list[dict]:
+    base = "https://www.clien.net"
+    soup = request_html(SITES["클리앙"])
+    items = []
+    for row in soup.select("div.list_item"):
+        link = row.select_one("a.list_subject")
+        if not link or not link.get("href"):
+            continue
+        title_node = row.select_one("span.subject_fixed")
+        title = clean_text(title_node.get("title") if title_node and title_node.get("title") else title_node.get_text(" ", strip=True) if title_node else "")
+        if not title:
+            continue
+        comments = parse_number(row.get("data-comment-count"))
+        if comments == 0:
+            cmt = row.select_one("span.rSymph05")
+            comments = parse_number(cmt.get_text() if cmt else "")
+        hit = row.select_one("span.hit")
+        views = parse_number(hit.get_text() if hit else "")
+        if not hit:
+            continue
+        like = row.select_one('[data-role="list-like-count"] span')
+        items.append(post(
+            "클리앙",
+            title,
+            urljoin(base, link["href"]),
+            views=views,
+            likes=parse_number(like.get_text() if like else ""),
+            comments=comments,
+        ))
+    return items
+
+
+def scrape_inven() -> list[dict]:
+    base = "https://www.inven.co.kr"
+    soup = request_html(SITES["인벤"])
+    items = []
+    for row in soup.select("tr"):
+        classes = set(row.get("class") or [])
+        if "notice" in classes or row.select_one("span.notice-icon"):
+            continue
+        cell = row.select_one("td.tit")
+        link = cell.select_one("a.subject-link") if cell else None
+        if not link or not link.get("href"):
+            continue
+        category_node = link.select_one("span.category")
+        raw_category = clean_text(category_node.get_text(" ", strip=True) if category_node else "")
+        if category_node:
+            category_node.extract()
+        title = clean_text(link.get_text(" ", strip=True))
+        if not title:
+            continue
+        view_node = row.select_one("td.view")
+        if not view_node:
+            continue
+        reco_node = row.select_one("td.reco")
+        cmt_node = cell.select_one("span.con-comment") if cell else None
+        items.append(post(
+            "인벤",
+            title,
+            urljoin(base, link["href"]),
+            category=raw_category,
+            views=parse_number(view_node.get_text()),
+            likes=parse_number(reco_node.get_text() if reco_node else ""),
+            comments=parse_number(cmt_node.get_text() if cmt_node else ""),
+        ))
+    return items
+
+
 SCRAPERS = {
     "루리웹": scrape_ruliweb,
     "디시인사이드": scrape_dcinside,
     "더쿠": scrape_theqoo,
     "뽐뿌": scrape_ppomppu,
     "에펨코리아": scrape_fmkorea,
+    "클리앙": scrape_clien,
+    "인벤": scrape_inven,
 }
 
 
