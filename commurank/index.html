@@ -57,15 +57,17 @@
           <button class="chip" data-category="게임">게임</button>
           <button class="chip" data-category="생활">생활</button>
         </div>
-        <select id="sourceFilter" class="select" aria-label="커뮤니티 선택">
-          <option value="전체">전체 커뮤니티</option>
-          <option value="에펨코리아">에펨코리아</option>
-          <option value="더쿠">더쿠</option>
-          <option value="루리웹">루리웹</option>
-          <option value="클리앙">클리앙</option>
-          <option value="인벤">인벤</option>
-          <option value="디시인사이드">디시인사이드</option>
-        </select>
+        <div class="filter-actions">
+          <select id="sourceFilter" class="select" aria-label="커뮤니티 선택">
+            <option value="전체">전체 커뮤니티</option>
+          </select>
+          <div class="archive-controls" id="archiveControls" hidden>
+            <select id="archiveSelect" class="select archive-select" aria-label="과거 순위 선택">
+              <option value="">과거 순위 선택</option>
+            </select>
+            <button id="latestButton" class="archive-latest" type="button">최신</button>
+          </div>
+        </div>
       </div>
     </section>
 
