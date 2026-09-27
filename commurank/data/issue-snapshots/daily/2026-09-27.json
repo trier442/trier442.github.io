@@ -3,7 +3,7 @@
   "period": "daily",
   "key": "2026-09-27",
   "label": "2026년 09월 27일",
-  "collected_at": "2026-09-27T20:01:41.851026+09:00",
+  "collected_at": "2026-09-27T20:04:03.466743+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -174,6 +174,83 @@
       "change": 0
     },
     {
+      "id": "i74cea219",
+      "title": "‘19번째’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "19번째"
+      ],
+      "source_count": 3,
+      "post_count": 4,
+      "score": 101.58,
+      "peak_score": 84.09,
+      "appearances": 2,
+      "sources": [
+        "더쿠",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 38,
+          "title": "여자 핸드볼, 일본 꺾고 8년 만의 금메달…한국 19번째 金",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2733230",
+          "score": 62.32
+        },
+        {
+          "source": "클리앙",
+          "rank": 61,
+          "title": "여자 핸드볼, 일본 꺾고 8년 만의 금메달…한국 19번째 金",
+          "url": "https://www.clien.net/service/board/park/19270337?od=T31&po=0&category=0&groupCd=",
+          "score": 59.2
+        }
+      ],
+      "first_seen": "2026-09-27T20:01:41.851026+09:00",
+      "last_seen": "2026-09-27T20:04:03.466743+09:00",
+      "latest_source_count": 3,
+      "latest_post_count": 4,
+      "rank": 5,
+      "change": "NEW"
+    },
+    {
+      "id": "i23a285e5",
+      "title": "‘안세영’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "안세영"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 100.65,
+      "peak_score": 89.16,
+      "appearances": 2,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 5,
+          "title": "안보고 쳐버리는 안세영 클라스",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10132210",
+          "score": 80.16
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 52,
+          "title": "안세영, 세계 5위 33분 만에 완파…2연패 성큼",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466258&_dcbest=1&page=1",
+          "score": 60.77
+        }
+      ],
+      "first_seen": "2026-09-27T20:01:41.851026+09:00",
+      "last_seen": "2026-09-27T20:04:03.466743+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 6,
+      "change": 1
+    },
+    {
       "id": "ibe79202d",
       "title": "‘편의점’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -208,8 +285,8 @@
       "last_seen": "2026-09-27T18:50:26.658953+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
-      "change": 0
+      "rank": 7,
+      "change": -2
     },
     {
       "id": "i707041a3",
@@ -258,46 +335,8 @@
       "last_seen": "2026-09-27T20:01:41.851026+09:00",
       "latest_source_count": 3,
       "latest_post_count": 4,
-      "rank": 6,
-      "change": "NEW"
-    },
-    {
-      "id": "i23a285e5",
-      "title": "‘안세영’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "안세영"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 98.31,
-      "peak_score": 88.84,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 4,
-          "title": "안보고 쳐버리는 안세영 클라스",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10132210",
-          "score": 79.84
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 56,
-          "title": "안세영, 세계 5위 33분 만에 완파…2연패 성큼",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466258&_dcbest=1&page=1",
-          "score": 60.49
-        }
-      ],
-      "first_seen": "2026-09-27T20:01:41.851026+09:00",
-      "last_seen": "2026-09-27T20:01:41.851026+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 7,
-      "change": "NEW"
+      "rank": 8,
+      "change": -2
     },
     {
       "id": "i106465f0",
@@ -336,8 +375,8 @@
       "last_seen": "2026-09-27T18:45:04.136110+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 8,
-      "change": -2
+      "rank": 9,
+      "change": -1
     },
     {
       "id": "ia0fd1514",
@@ -374,8 +413,8 @@
       "last_seen": "2026-09-27T13:38:37.715424+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 9,
-      "change": -2
+      "rank": 10,
+      "change": -1
     },
     {
       "id": "i7f48cc7a",
@@ -412,8 +451,8 @@
       "last_seen": "2026-09-27T18:50:26.658953+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 10,
-      "change": -2
+      "rank": 11,
+      "change": -1
     },
     {
       "id": "i171ab594",
@@ -451,8 +490,84 @@
       "last_seen": "2026-09-27T14:14:08.194313+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 11,
-      "change": -2
+      "rank": 12,
+      "change": -1
+    },
+    {
+      "id": "i8b4085e0",
+      "title": "‘아시안게임’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "아시안게임"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 87.33,
+      "peak_score": 75.84,
+      "appearances": 2,
+      "sources": [
+        "더쿠",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 31,
+          "title": "[아시안게임] 핸드볼 여자 대한민국 금메달🥇🥇🥇 한일전 승🇰🇷",
+          "url": "https://theqoo.net/hot/4357824456",
+          "score": 66.84
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 98,
+          "title": "[아시안게임] 0점 두 번 찍고도 금메달…고교생 강준이의 '마지막 한 방'",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=news_sports&no=354873",
+          "score": 51.67
+        }
+      ],
+      "first_seen": "2026-09-27T20:01:41.851026+09:00",
+      "last_seen": "2026-09-27T20:04:03.466743+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 13,
+      "change": 1
+    },
+    {
+      "id": "i4df0ead9",
+      "title": "‘중식당’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "중식당"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 86.29,
+      "peak_score": 74.8,
+      "appearances": 2,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 35,
+          "title": "분당 중식당 시진핑 테러 용의자 4명모두 사건당일 출국",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466205&_dcbest=1&page=1",
+          "score": 63.94
+        },
+        {
+          "source": "인벤",
+          "rank": 49,
+          "title": "중식당 테러범은 \"모두 중국인\"",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2733221",
+          "score": 60.99
+        }
+      ],
+      "first_seen": "2026-09-27T20:01:41.851026+09:00",
+      "last_seen": "2026-09-27T20:04:03.466743+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 14,
+      "change": 3
     },
     {
       "id": "i2272efa7",
@@ -490,8 +605,8 @@
       "last_seen": "2026-09-27T14:09:17.311285+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 12,
-      "change": -2
+      "rank": 15,
+      "change": -3
     },
     {
       "id": "i90e493b6",
@@ -528,46 +643,8 @@
       "last_seen": "2026-09-27T14:14:08.194313+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 13,
-      "change": -2
-    },
-    {
-      "id": "i8b4085e0",
-      "title": "‘아시안게임’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "아시안게임"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 85.31,
-      "peak_score": 75.84,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 31,
-          "title": "[아시안게임] 핸드볼 여자 대한민국 금메달🥇🥇🥇 한일전 승🇰🇷",
-          "url": "https://theqoo.net/hot/4357824456",
-          "score": 66.84
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 100,
-          "title": "[아시안게임] 0점 두 번 찍고도 금메달…고교생 강준이의 '마지막 한 방'",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=news_sports&no=354873",
-          "score": 51.67
-        }
-      ],
-      "first_seen": "2026-09-27T20:01:41.851026+09:00",
-      "last_seen": "2026-09-27T20:01:41.851026+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 14,
-      "change": "NEW"
+      "rank": 16,
+      "change": -3
     },
     {
       "id": "i36451721",
@@ -607,8 +684,8 @@
       "last_seen": "2026-09-27T18:16:30.778383+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 15,
-      "change": -3
+      "rank": 17,
+      "change": -2
     },
     {
       "id": "i2a7fad4a",
@@ -645,46 +722,8 @@
       "last_seen": "2026-09-27T16:21:22.580161+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 16,
-      "change": -3
-    },
-    {
-      "id": "i4df0ead9",
-      "title": "‘중식당’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "중식당"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 84.27,
-      "peak_score": 74.8,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 33,
-          "title": "중식당 테러범은 \"모두 중국인\"",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2733221",
-          "score": 65.8
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 38,
-          "title": "분당 중식당 시진핑 테러 용의자 4명모두 사건당일 출국",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466205&_dcbest=1&page=1",
-          "score": 63.94
-        }
-      ],
-      "first_seen": "2026-09-27T20:01:41.851026+09:00",
-      "last_seen": "2026-09-27T20:01:41.851026+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 17,
-      "change": "NEW"
+      "rank": 18,
+      "change": -2
     },
     {
       "id": "i77bec7b9",
@@ -721,8 +760,8 @@
       "last_seen": "2026-09-27T18:50:26.658953+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 18,
-      "change": -4
+      "rank": 19,
+      "change": -1
     },
     {
       "id": "i120e2ca8",
@@ -759,50 +798,8 @@
       "last_seen": "2026-09-27T12:58:49.050910+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 19,
-      "change": -4
-    },
-    {
-      "id": "i50e25e1b",
-      "title": "육상 400m 한국 신기록 23년만에 만든 김서윤 선수",
-      "keywords": [
-        "23년만에",
-        "김서윤",
-        "400m",
-        "한국",
-        "신기록"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 82.09,
-      "peak_score": 70.6,
-      "appearances": 2,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 40,
-          "title": "육상 400m 한국 신기록 23년만에 만든 김서윤 선수",
-          "url": "https://www.clien.net/service/board/park/19270306?od=T31&po=0&category=0&groupCd=",
-          "score": 62.6
-        },
-        {
-          "source": "인벤",
-          "rank": 99,
-          "title": "육상 400m 한국 신기록 23년만에 깨트린 김서윤 선수",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2733205",
-          "score": 51.65
-        }
-      ],
-      "first_seen": "2026-09-27T18:45:04.136110+09:00",
-      "last_seen": "2026-09-27T18:48:24.519744+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 20,
-      "change": -4
+      "change": -1
     }
   ]
 }
