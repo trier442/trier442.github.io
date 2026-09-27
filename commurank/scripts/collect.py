@@ -21,6 +21,9 @@ ARCHIVE_PATH = DATA_DIR / "archive.json"
 ARCHIVE_INDEX_PATH = DATA_DIR / "archive-index.json"
 METRICS_HISTORY_PATH = DATA_DIR / "metric-history.json"
 ISSUE_HISTORY_PATH = DATA_DIR / "issue-history.json"
+ISSUE_RANKINGS_PATH = DATA_DIR / "issue-rankings.json"
+ISSUE_ARCHIVE_INDEX_PATH = DATA_DIR / "issue-archive-index.json"
+ISSUE_SNAPSHOT_DIR = DATA_DIR / "issue-snapshots"
 SNAPSHOT_DIR = DATA_DIR / "snapshots"
 SOURCE_CACHE_DIR = DATA_DIR / "source-cache"
 
@@ -1057,6 +1060,199 @@ def update_issue_history(topics: list[dict], collected_at: str) -> dict:
     return history
 
 
+def issue_topic_row(topic: dict) -> dict:
+    return {
+        "id": topic.get("id"),
+        "title": topic.get("title", ""),
+        "keywords": topic.get("keywords", []),
+        "source_count": int(topic.get("source_count", 0)),
+        "post_count": int(topic.get("post_count", 0)),
+        "score": round(float(topic.get("score", 0)), 2),
+        "peak_score": round(float(topic.get("score", 0)), 2),
+        "appearances": 1,
+        "sources": sorted({
+            p.get("source") for p in topic.get("posts", []) if p.get("source")
+        }),
+        "posts": topic.get("posts", [])[:12],
+    }
+
+
+def attach_issue_rank_changes(rows: list[dict], previous_rows: list[dict]) -> None:
+    old_map = {row.get("id"): i + 1 for i, row in enumerate(previous_rows) if row.get("id")}
+    for i, row in enumerate(rows, start=1):
+        old = old_map.get(row.get("id"))
+        row["rank"] = i
+        row["change"] = "NEW" if old is None else old - i
+
+
+def issue_period_rank(history: dict, since: datetime, now: datetime, limit: int = 20) -> list[dict]:
+    rows = []
+    for issue_id, item in history.get("issues", {}).items():
+        points = []
+        for point in item.get("points", []):
+            try:
+                at = dt(point.get("at", "")).astimezone(KST)
+            except Exception:
+                continue
+            if since <= at <= now:
+                points.append(point)
+        if not points:
+            continue
+
+        peak_score = max(float(p.get("score", 0)) for p in points)
+        max_sources = max(int(p.get("source_count", 0)) for p in points)
+        max_posts = max(int(p.get("post_count", 0)) for p in points)
+        appearances = len(points)
+        source_names = sorted({
+            source
+            for point in points
+            for source in point.get("sources", [])
+            if source
+        })
+        latest = points[-1]
+
+        period_score = (
+            peak_score
+            + min(18, math.log1p(appearances) * 5)
+            + max(0, max_sources - 1) * 4
+            + min(8, max_posts)
+        )
+
+        rows.append({
+            "id": issue_id,
+            "title": item.get("title", ""),
+            "keywords": item.get("keywords", []),
+            "source_count": max_sources,
+            "post_count": max_posts,
+            "score": round(period_score, 2),
+            "peak_score": round(peak_score, 2),
+            "appearances": appearances,
+            "sources": source_names,
+            "posts": item.get("posts", [])[:12],
+            "first_seen": item.get("first_seen"),
+            "last_seen": item.get("last_seen"),
+            "latest_source_count": int(latest.get("source_count", 0)),
+            "latest_post_count": int(latest.get("post_count", 0)),
+        })
+
+    rows.sort(
+        key=lambda row: (
+            row["score"],
+            row["source_count"],
+            row["post_count"],
+            row["appearances"],
+        ),
+        reverse=True,
+    )
+    return rows[:limit]
+
+
+def write_issue_snapshots(now: datetime, collected_at: str, rankings: dict[str, list[dict]]) -> list[dict]:
+    ISSUE_SNAPSHOT_DIR.mkdir(parents=True, exist_ok=True)
+    iso_year, iso_week, _ = now.isocalendar()
+    week_start = (now - timedelta(days=now.weekday())).replace(hour=0, minute=0, second=0, microsecond=0)
+    week_end = week_start + timedelta(days=6)
+
+    specs = [
+        ("daily", now.strftime("%Y-%m-%d"), now.strftime("%Y년 %m월 %d일")),
+        (
+            "weekly",
+            f"{iso_year}-W{iso_week:02d}",
+            f"{week_start.strftime('%Y.%m.%d')} ~ {week_end.strftime('%m.%d')}",
+        ),
+        ("monthly", now.strftime("%Y-%m"), now.strftime("%Y년 %m월")),
+    ]
+
+    metas = []
+    for period, key, label in specs:
+        period_dir = ISSUE_SNAPSHOT_DIR / period
+        period_dir.mkdir(parents=True, exist_ok=True)
+        path = period_dir / f"{key}.json"
+        payload = {
+            "version": 1,
+            "period": period,
+            "key": key,
+            "label": label,
+            "collected_at": collected_at,
+            "timezone": "Asia/Seoul",
+            "issues": rankings.get(period, []),
+        }
+        path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+        metas.append(snapshot_meta(period, key, label, collected_at, path))
+    return metas
+
+
+def update_issue_archive_index(new_metas: list[dict]) -> dict:
+    index = load_json(
+        ISSUE_ARCHIVE_INDEX_PATH,
+        {"version": 1, "periods": {"daily": [], "weekly": [], "monthly": []}},
+    )
+    index.setdefault("periods", {})
+    limits = {"daily": 400, "weekly": 120, "monthly": 60}
+
+    for meta in new_metas:
+        period = meta["period"]
+        items = index["periods"].setdefault(period, [])
+        items = [item for item in items if item.get("key") != meta["key"]]
+        items.append(meta)
+        items.sort(key=lambda item: item.get("key", ""), reverse=True)
+        index["periods"][period] = items[:limits[period]]
+
+    index["updated_at"] = max((m["collected_at"] for m in new_metas), default=None)
+    ISSUE_ARCHIVE_INDEX_PATH.write_text(
+        json.dumps(index, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+    return index
+
+
+def build_issue_rankings(
+    topics: list[dict],
+    issue_history: dict,
+    previous: dict,
+    now: datetime,
+    collected_at: str,
+) -> dict:
+    day_start = now.replace(hour=0, minute=0, second=0, microsecond=0)
+    week_start = (now - timedelta(days=now.weekday())).replace(hour=0, minute=0, second=0, microsecond=0)
+    month_start = now.replace(day=1, hour=0, minute=0, second=0, microsecond=0)
+
+    realtime = [issue_topic_row(topic) for topic in topics][:20]
+    previous_realtime = previous.get("rankings", {}).get("realtime", []) if isinstance(previous, dict) else []
+    attach_issue_rank_changes(realtime, previous_realtime)
+
+    rankings = {
+        "realtime": realtime,
+        "daily": issue_period_rank(issue_history, day_start, now),
+        "weekly": issue_period_rank(issue_history, week_start, now),
+        "monthly": issue_period_rank(issue_history, month_start, now),
+    }
+
+    for period in ("daily", "weekly", "monthly"):
+        previous_rows = previous.get("rankings", {}).get(period, []) if isinstance(previous, dict) else []
+        attach_issue_rank_changes(rankings[period], previous_rows)
+
+    payload = {
+        "version": 1,
+        "collected_at": collected_at,
+        "timezone": "Asia/Seoul",
+        "period_basis": {
+            "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
+            "daily": "오늘 00:00부터 현재까지 누적 이슈",
+            "weekly": "이번 주 월요일 00:00부터 현재까지 누적 이슈",
+            "monthly": "이번 달 1일 00:00부터 현재까지 누적 이슈",
+        },
+        "rankings": rankings,
+    }
+    ISSUE_RANKINGS_PATH.write_text(
+        json.dumps(payload, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+    metas = write_issue_snapshots(now, collected_at, rankings)
+    update_issue_archive_index(metas)
+    return payload
+
+
 def update_metric_history(posts: list[dict], collected_at: str) -> dict:
     history = load_json(METRICS_HISTORY_PATH, {"version": 1, "posts": {}})
     history.setdefault("posts", {})
@@ -1294,7 +1490,15 @@ def main() -> None:
     LATEST_PATH.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
     ARCHIVE_PATH.write_text(json.dumps(archive, ensure_ascii=False, indent=2), encoding="utf-8")
     update_metric_history(list(dedup.values()), collected_at)
-    update_issue_history(topics, collected_at)
+    issue_history = update_issue_history(topics, collected_at)
+    previous_issue_rankings = load_json(ISSUE_RANKINGS_PATH, {})
+    build_issue_rankings(
+        topics,
+        issue_history,
+        previous_issue_rankings,
+        now,
+        collected_at,
+    )
     snapshot_metas = write_period_snapshots(now, collected_at, rankings)
     update_archive_index(snapshot_metas)
 
