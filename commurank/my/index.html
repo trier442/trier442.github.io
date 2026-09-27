@@ -30,6 +30,11 @@
       <p class="eyebrow">MY COMMURANK</p>
       <h1>내 관심 피드</h1>
       <p>관심 커뮤니티와 키워드를 저장하면 현재 인기글과 이슈에서 맞는 항목만 골라 보여줍니다. 설정은 이 브라우저에만 저장됩니다.</p>
+      <div class="my-hero-actions">
+        <button id="notificationButton" class="primary-action" type="button">관심글 알림 켜기</button>
+        <button class="secondary-action" type="button" data-pwa-install hidden>앱 설치</button>
+        <span id="notificationStatus" class="my-notification-status">알림 꺼짐</span>
+      </div>
     </section>
 
     <section class="shell my-settings-grid">
@@ -59,6 +64,7 @@
       <article><strong id="matchedIssueCount">0</strong><span>맞춤 이슈</span></article>
       <article><strong id="recentCount">0</strong><span>최근 본 글</span></article>
       <article><strong id="prefCount">0</strong><span>저장된 관심 조건</span></article>
+      <article class="my-new-stat"><strong id="newSinceVisit">0</strong><span>지난 방문 이후 새 글</span></article>
     </section>
 
     <section class="shell my-layout">
