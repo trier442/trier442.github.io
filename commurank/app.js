@@ -1,43 +1,51 @@
-const posts = [
-  {title:"퇴근길에 다들 한 번쯤 공감했다는 사진", source:"에펨코리아", category:"유머", views:82143, likes:1382, comments:427, change:7},
-  {title:"오늘 공개된 신제품, 커뮤니티에서 가장 많이 언급된 기능", source:"클리앙", category:"이슈", views:74582, likes:1044, comments:512, change:3},
-  {title:"주말 경기 마지막 10분이 역대급이었다는 반응", source:"인벤", category:"스포츠", views:69350, likes:994, comments:638, change:"NEW"},
-  {title:"팬들 사이에서 화제 중인 무대 장면", source:"더쿠", category:"연예", views:67110, likes:876, comments:805, change:-1},
-  {title:"오랜만에 업데이트된 게임, 첫날 반응 정리", source:"루리웹", category:"게임", views:58120, likes:742, comments:319, change:4},
-  {title:"요즘 직장인들 사이에서 조용히 유행한다는 루틴", source:"디시인사이드", category:"생활", views:53420, likes:650, comments:201, change:10},
-  {title:"사진 한 장으로 댓글 수백 개 달린 이유", source:"에펨코리아", category:"유머", views:50211, likes:611, comments:492, change:-2},
-  {title:"새 정책 발표 이후 커뮤니티에서 많이 나온 질문", source:"클리앙", category:"이슈", views:47775, likes:520, comments:446, change:2},
-  {title:"이번 시즌 가장 극적인 장면으로 꼽히는 순간", source:"인벤", category:"스포츠", views:44102, likes:488, comments:355, change:"NEW"},
-  {title:"방송 직후 실시간 검색량이 크게 오른 출연자", source:"더쿠", category:"연예", views:41990, likes:703, comments:381, change:-4},
-  {title:"출시 전인데 벌써 의견이 갈리는 신작", source:"루리웹", category:"게임", views:39881, likes:477, comments:520, change:1},
-  {title:"편의점 신상품 먹어본 사람들 반응 모음", source:"디시인사이드", category:"생활", views:36240, likes:365, comments:188, change:6}
+const fallbackPosts = [
+  {title:"커뮤랭크 자동 수집을 준비하고 있습니다.", source:"커뮤랭크", category:"이슈", views:0, likes:0, comments:0, change:"NEW", url:"#"},
+  {title:"GitHub Actions가 실행되면 실제 인기글 데이터로 자동 교체됩니다.", source:"커뮤랭크", category:"이슈", views:0, likes:0, comments:0, change:0, url:"#"}
 ];
 
 const periodInfo = {
-  realtime: {label:"실시간", factor:1},
-  daily: {label:"오늘", factor:1.35},
-  weekly: {label:"이번 주", factor:2.1},
-  monthly: {label:"이번 달", factor:3.6}
+  realtime: {label:"실시간"},
+  daily: {label:"오늘"},
+  weekly: {label:"이번 주"},
+  monthly: {label:"이번 달"}
 };
-
-const communityBase = [
-  ["에펨코리아", 98], ["더쿠", 95], ["루리웹", 91], ["클리앙", 88], ["인벤", 84], ["디시인사이드", 81]
-];
 
 let period = "realtime";
 let category = "전체";
 let source = "전체";
+let liveData = null;
 
-const fmt = n => new Intl.NumberFormat("ko-KR", {notation: n > 9999 ? "compact" : "standard"}).format(n);
+const fmt = n => new Intl.NumberFormat("ko-KR", {notation: Number(n) > 9999 ? "compact" : "standard"}).format(Number(n) || 0);
+
+function safeText(value) {
+  return String(value ?? "").replace(/[&<>"']/g, ch => ({
+    "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;", "'":"&#039;"
+  }[ch]));
+}
+
+function currentPosts(){
+  if (!liveData?.rankings?.[period]) return fallbackPosts;
+  return liveData.rankings[period];
+}
+
+function renderSourceOptions(){
+  if (!liveData?.sources) return;
+  const select = document.querySelector("#sourceFilter");
+  const names = liveData.sources.filter(s => s.ok && s.count > 0).map(s => s.source);
+  select.innerHTML = '<option value="전체">전체 커뮤니티</option>' +
+    names.map(name => `<option value="${safeText(name)}">${safeText(name)}</option>`).join("");
+  if (!names.includes(source)) source = "전체";
+  select.value = source;
+}
 
 function render(){
-  const factor = periodInfo[period].factor;
+  const posts = currentPosts();
   const filtered = posts
     .filter(p => category === "전체" || p.category === category)
     .filter(p => source === "전체" || p.source === source);
 
   document.querySelector("#periodLabel").textContent = periodInfo[period].label;
-  document.querySelector("#heroCount").textContent = Math.round(128 * factor);
+  document.querySelector("#heroCount").textContent = liveData?.rankings?.realtime?.length ?? 0;
 
   const list = document.querySelector("#rankingList");
   if (!filtered.length) {
@@ -47,19 +55,22 @@ function render(){
       const ch = p.change;
       let changeHtml = '<span class="rank-change">―</span>';
       if (ch === "NEW") changeHtml = '<span class="rank-change new">NEW</span>';
-      else if (ch > 0) changeHtml = '<span class="rank-change up">▲ '+ch+'</span>';
-      else if (ch < 0) changeHtml = '<span class="rank-change down">▼ '+Math.abs(ch)+'</span>';
+      else if (Number(ch) > 0) changeHtml = '<span class="rank-change up">▲ '+Number(ch)+'</span>';
+      else if (Number(ch) < 0) changeHtml = '<span class="rank-change down">▼ '+Math.abs(Number(ch))+'</span>';
+
+      const href = p.url && p.url !== "#" ? safeText(p.url) : "#";
+      const target = href === "#" ? "" : ' target="_blank" rel="noopener noreferrer"';
       return `
         <article class="rank-item">
           <div class="rank-num ${i < 3 ? "top" : ""}">${i+1}</div>
           <div>
-            <div class="post-title">${p.title}</div>
+            <a class="post-title" href="${href}"${target}>${safeText(p.title)}</a>
             <div class="meta">
-              <span class="source">${p.source}</span>
-              <span class="category">${p.category}</span>
-              <span>조회 ${fmt(Math.round(p.views*factor))}</span>
-              <span>추천 ${fmt(Math.round(p.likes*factor))}</span>
-              <span>댓글 ${fmt(Math.round(p.comments*factor))}</span>
+              <span class="source">${safeText(p.source)}</span>
+              <span class="category">${safeText(p.category || "이슈")}</span>
+              <span>조회 ${fmt(p.views)}</span>
+              <span>추천 ${fmt(p.likes)}</span>
+              <span>댓글 ${fmt(p.comments)}</span>
             </div>
           </div>
           ${changeHtml}
@@ -67,16 +78,43 @@ function render(){
     }).join("");
   }
 
-  const communities = [...communityBase]
-    .map(([name,score],idx)=>({name, score: Math.min(100, Math.round(score + (period === "realtime" ? 0 : (idx%2?2:-1))))}))
-    .sort((a,b)=>b.score-a.score);
+  const communityStats = {};
+  posts.forEach(p => {
+    if (!communityStats[p.source]) communityStats[p.source] = {count:0, total:0};
+    communityStats[p.source].count += 1;
+    communityStats[p.source].total += Number(p.score) || 0;
+  });
 
-  document.querySelector("#communityList").innerHTML = communities.map((c,i)=>`
-    <li class="community-row">
-      <span class="community-rank">${i+1}</span>
-      <span class="community-name">${c.name}</span>
-      <span class="community-score">${c.score}점</span>
-    </li>`).join("");
+  const communities = Object.entries(communityStats)
+    .map(([name,v]) => ({name, score: v.count ? Math.round(v.total / v.count) : 0, count:v.count}))
+    .sort((a,b)=>b.score-a.score || b.count-a.count)
+    .slice(0,6);
+
+  document.querySelector("#communityList").innerHTML = communities.length
+    ? communities.map((c,i)=>`
+      <li class="community-row">
+        <span class="community-rank">${i+1}</span>
+        <span class="community-name">${safeText(c.name)}</span>
+        <span class="community-score">${c.score}점 · ${c.count}건</span>
+      </li>`).join("")
+    : '<li class="empty">수집 대기 중</li>';
+}
+
+async function loadLiveData(){
+  try {
+    const response = await fetch("./data/latest.json?ts=" + Date.now(), {cache:"no-store"});
+    if (!response.ok) throw new Error("ranking data unavailable");
+    liveData = await response.json();
+    const date = new Date(liveData.collected_at);
+    document.querySelector("#updatedAt").textContent = date.toLocaleString("ko-KR", {
+      month:"numeric", day:"numeric", hour:"2-digit", minute:"2-digit"
+    });
+    renderSourceOptions();
+  } catch (err) {
+    liveData = null;
+    document.querySelector("#updatedAt").textContent = "자동 수집 대기";
+  }
+  render();
 }
 
 document.querySelectorAll(".nav-item").forEach(btn=>{
@@ -109,6 +147,4 @@ document.querySelector("#themeToggle").addEventListener("click", ()=>{
 
 if (localStorage.getItem("commurank-theme") === "dark") document.body.classList.add("dark");
 
-const now = new Date();
-document.querySelector("#updatedAt").textContent = now.toLocaleTimeString("ko-KR", {hour:"2-digit", minute:"2-digit"});
-render();
+loadLiveData();
