@@ -1,4 +1,4 @@
-const CACHE_NAME = "commurank-shell-v1";
+const CACHE_NAME = "commurank-shell-v2";
 const SHELL = [
   "/commurank/",
   "/commurank/styles.css",
@@ -7,7 +7,15 @@ const SHELL = [
   "/commurank/my/",
   "/commurank/issues/",
   "/commurank/briefing/",
-  "/commurank/search/"
+  "/commurank/search/",
+  "/commurank/post/",
+  "/commurank/issue/",
+  "/commurank/community/dcinside/",
+  "/commurank/community/theqoo/",
+  "/commurank/community/ruliweb/",
+  "/commurank/community/clien/",
+  "/commurank/community/inven/",
+  "/commurank/community/ppomppu/"
 ];
 
 self.addEventListener("install", event => {
@@ -34,20 +42,21 @@ self.addEventListener("fetch", event => {
   if (url.origin !== location.origin || !url.pathname.startsWith("/commurank/")) return;
 
   if (url.pathname.includes("/data/") || url.pathname.endsWith(".json")) {
+    const cacheKey = new Request(url.origin + url.pathname);
     event.respondWith(
       fetch(request)
         .then(response => {
           const copy = response.clone();
-          caches.open(CACHE_NAME).then(cache => cache.put(request, copy));
+          caches.open(CACHE_NAME).then(cache => cache.put(cacheKey, copy));
           return response;
         })
-        .catch(() => caches.match(request))
+        .catch(() => caches.match(cacheKey))
     );
     return;
   }
 
   event.respondWith(
-    caches.match(request).then(cached => {
+    caches.match(request, { ignoreSearch: true }).then(cached => {
       const network = fetch(request)
         .then(response => {
           const copy = response.clone();
