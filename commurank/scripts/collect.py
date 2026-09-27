@@ -22,6 +22,9 @@ ARCHIVE_INDEX_PATH = DATA_DIR / "archive-index.json"
 METRICS_HISTORY_PATH = DATA_DIR / "metric-history.json"
 ISSUE_HISTORY_PATH = DATA_DIR / "issue-history.json"
 ISSUE_RANKINGS_PATH = DATA_DIR / "issue-rankings.json"
+BRIEFING_PATH = DATA_DIR / "briefing.json"
+BRIEFING_INDEX_PATH = DATA_DIR / "briefing-index.json"
+BRIEFING_SNAPSHOT_DIR = DATA_DIR / "briefings"
 ISSUE_ARCHIVE_INDEX_PATH = DATA_DIR / "issue-archive-index.json"
 ISSUE_SNAPSHOT_DIR = DATA_DIR / "issue-snapshots"
 SNAPSHOT_DIR = DATA_DIR / "snapshots"
@@ -1318,6 +1321,132 @@ def build_issue_rankings(
     return payload
 
 
+def build_briefing(
+    now: datetime,
+    collected_at: str,
+    rankings: dict[str, list[dict]],
+    issue_rankings: dict,
+    keywords: list[dict],
+    community_rankings: dict,
+    statuses: list[dict],
+) -> dict:
+    daily_posts = rankings.get("daily", [])
+    rising_posts = rankings.get("rising", [])
+    realtime_posts = rankings.get("realtime", [])
+    daily_issues = issue_rankings.get("rankings", {}).get("daily", [])
+    realtime_issues = issue_rankings.get("rankings", {}).get("realtime", [])
+
+    top_post = daily_posts[0] if daily_posts else (realtime_posts[0] if realtime_posts else None)
+    top_issue = daily_issues[0] if daily_issues else (realtime_issues[0] if realtime_issues else None)
+    top_keyword = keywords[0] if keywords else None
+
+    source_names = sorted({
+        p.get("source") for p in realtime_posts if p.get("source")
+    })
+    total_comments = sum(int(p.get("comments", 0)) for p in realtime_posts[:100])
+    total_views = sum(int(p.get("views", 0)) for p in realtime_posts[:100])
+
+    highlights = []
+    if top_issue:
+        highlights.append({
+            "type": "issue",
+            "title": top_issue.get("title", ""),
+            "text": f"{int(top_issue.get('source_count', 0))}개 커뮤니티에서 {int(top_issue.get('post_count', 0))}개 관련 인기글이 포착됐습니다.",
+            "issue_id": top_issue.get("id"),
+        })
+    if top_post:
+        highlights.append({
+            "type": "post",
+            "title": top_post.get("title", ""),
+            "text": f"{top_post.get('source', '')}에서 현재 상위권에 오른 인기글입니다.",
+            "url": top_post.get("url"),
+        })
+    if top_keyword:
+        highlights.append({
+            "type": "keyword",
+            "title": f"#{top_keyword.get('keyword', '')}",
+            "text": f"{int(top_keyword.get('source_count', 0))}개 커뮤니티 · {int(top_keyword.get('post_count', 0))}개 인기글에서 함께 등장했습니다.",
+            "keyword": top_keyword.get("keyword"),
+        })
+
+    community_leaders = []
+    for source_name, data in community_rankings.items():
+        rows = data.get("realtime", [])
+        if not rows:
+            continue
+        leader = rows[0]
+        community_leaders.append({
+            "source": source_name,
+            "title": leader.get("title", ""),
+            "url": leader.get("url"),
+            "score": leader.get("score", 0),
+            "views": leader.get("views", 0),
+            "comments": leader.get("comments", 0),
+        })
+    community_leaders.sort(key=lambda row: float(row.get("score", 0)), reverse=True)
+
+    ok_sources = sum(1 for s in statuses if s.get("ok") and int(s.get("count", 0)) > 0)
+    cached_sources = sum(1 for s in statuses if s.get("cached") and int(s.get("count", 0)) > 0)
+
+    overview_parts = []
+    if top_issue:
+        overview_parts.append(f"오늘 가장 두드러진 이슈는 ‘{top_issue.get('title', '')}’입니다.")
+    if top_keyword:
+        overview_parts.append(f"실시간 키워드 상위에는 #{top_keyword.get('keyword', '')}가 올라 있습니다.")
+    if rising_posts:
+        overview_parts.append(f"직전 수집 대비 급상승 글 {min(5, len(rising_posts))}개를 별도로 추적 중입니다.")
+    overview = " ".join(overview_parts) if overview_parts else "현재 수집된 데이터를 바탕으로 인터넷 인기 흐름을 집계 중입니다."
+
+    payload = {
+        "version": 1,
+        "date": now.strftime("%Y-%m-%d"),
+        "label": now.strftime("%Y년 %m월 %d일"),
+        "collected_at": collected_at,
+        "timezone": "Asia/Seoul",
+        "overview": overview,
+        "stats": {
+            "sources": len(source_names),
+            "ok_sources": ok_sources,
+            "cached_sources": cached_sources,
+            "realtime_posts": len(realtime_posts),
+            "daily_posts": len(daily_posts),
+            "daily_issues": len(daily_issues),
+            "keywords": len(keywords),
+            "top100_views": total_views,
+            "top100_comments": total_comments,
+        },
+        "highlights": highlights,
+        "top_posts": daily_posts[:10],
+        "rising": rising_posts[:10],
+        "issues": daily_issues[:10],
+        "realtime_issues": realtime_issues[:10],
+        "keywords": keywords[:15],
+        "community_leaders": community_leaders[:10],
+    }
+    BRIEFING_PATH.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+    return payload
+
+
+def write_briefing_snapshot(now: datetime, briefing: dict) -> None:
+    BRIEFING_SNAPSHOT_DIR.mkdir(parents=True, exist_ok=True)
+    key = now.strftime("%Y-%m-%d")
+    path = BRIEFING_SNAPSHOT_DIR / f"{key}.json"
+    path.write_text(json.dumps(briefing, ensure_ascii=False, indent=2), encoding="utf-8")
+
+    index = load_json(BRIEFING_INDEX_PATH, {"version": 1, "items": []})
+    items = [item for item in index.get("items", []) if item.get("key") != key]
+    items.append({
+        "key": key,
+        "label": briefing.get("label", key),
+        "collected_at": briefing.get("collected_at"),
+        "path": str(path.relative_to(DATA_DIR)).replace("\\", "/"),
+    })
+    items.sort(key=lambda item: item.get("key", ""), reverse=True)
+    index["items"] = items[:400]
+    index["updated_at"] = briefing.get("collected_at")
+    BRIEFING_INDEX_PATH.write_text(json.dumps(index, ensure_ascii=False, indent=2), encoding="utf-8")
+
+
 def update_metric_history(posts: list[dict], collected_at: str) -> dict:
     history = load_json(METRICS_HISTORY_PATH, {"version": 1, "posts": {}})
     history.setdefault("posts", {})
@@ -1557,13 +1686,23 @@ def main() -> None:
     update_metric_history(list(dedup.values()), collected_at)
     issue_history = update_issue_history(topics, collected_at)
     previous_issue_rankings = load_json(ISSUE_RANKINGS_PATH, {})
-    build_issue_rankings(
+    issue_rankings = build_issue_rankings(
         topics,
         issue_history,
         previous_issue_rankings,
         now,
         collected_at,
     )
+    briefing = build_briefing(
+        now,
+        collected_at,
+        rankings,
+        issue_rankings,
+        keywords,
+        community_rankings,
+        statuses,
+    )
+    write_briefing_snapshot(now, briefing)
     snapshot_metas = write_period_snapshots(now, collected_at, rankings)
     update_archive_index(snapshot_metas)
 
