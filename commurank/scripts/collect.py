@@ -19,6 +19,7 @@ DATA_DIR = ROOT / "data"
 LATEST_PATH = DATA_DIR / "latest.json"
 ARCHIVE_PATH = DATA_DIR / "archive.json"
 ARCHIVE_INDEX_PATH = DATA_DIR / "archive-index.json"
+METRICS_HISTORY_PATH = DATA_DIR / "metric-history.json"
 SNAPSHOT_DIR = DATA_DIR / "snapshots"
 SOURCE_CACHE_DIR = DATA_DIR / "source-cache"
 
@@ -959,6 +960,73 @@ def load_source_cache(source: str, now: datetime, max_age_hours: int = 24) -> di
     return cached
 
 
+def update_metric_history(posts: list[dict], collected_at: str) -> dict:
+    history = load_json(METRICS_HISTORY_PATH, {"version": 1, "posts": {}})
+    history.setdefault("posts", {})
+
+    global_rank = {p.get("url"): i + 1 for i, p in enumerate(posts[:100]) if p.get("url")}
+    source_rank = {}
+    by_source = {}
+    for p in posts:
+        by_source.setdefault(p.get("source", ""), []).append(p)
+    for source_name, source_posts in by_source.items():
+        ordered = sorted(
+            source_posts,
+            key=lambda x: (x.get("score", 0), x.get("views", 0), x.get("comments", 0), x.get("likes", 0)),
+            reverse=True,
+        )
+        for i, p in enumerate(ordered, start=1):
+            if p.get("url"):
+                source_rank[p["url"]] = i
+
+    for p in posts:
+        url = p.get("url")
+        if not url:
+            continue
+        item = history["posts"].get(url, {
+            "title": p.get("title", ""),
+            "source": p.get("source", ""),
+            "category": p.get("category", "이슈"),
+            "url": url,
+            "last_seen": collected_at,
+            "points": [],
+        })
+        item["title"] = p.get("title", item.get("title", ""))
+        item["source"] = p.get("source", item.get("source", ""))
+        item["category"] = p.get("category", item.get("category", "이슈"))
+        item["last_seen"] = collected_at
+
+        point = {
+            "at": collected_at,
+            "rank": global_rank.get(url),
+            "source_rank": source_rank.get(url),
+            "views": int(p.get("views", 0)),
+            "likes": int(p.get("likes", 0)),
+            "comments": int(p.get("comments", 0)),
+            "score": round(float(p.get("score", 0)), 2),
+        }
+
+        points = item.get("points", [])
+        if not points or points[-1].get("at") != collected_at:
+            points.append(point)
+        item["points"] = points[-96:]
+        history["posts"][url] = item
+
+    # 최근에 본 게시글 위주로 최대 500개만 유지한다.
+    items = sorted(
+        history["posts"].items(),
+        key=lambda kv: kv[1].get("last_seen", ""),
+        reverse=True,
+    )[:500]
+    history["posts"] = dict(items)
+    history["updated_at"] = collected_at
+    METRICS_HISTORY_PATH.write_text(
+        json.dumps(history, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+    return history
+
+
 def main() -> None:
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     now = datetime.now(KST)
@@ -1128,6 +1196,7 @@ def main() -> None:
 
     LATEST_PATH.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
     ARCHIVE_PATH.write_text(json.dumps(archive, ensure_ascii=False, indent=2), encoding="utf-8")
+    update_metric_history(list(dedup.values()), collected_at)
     snapshot_metas = write_period_snapshots(now, collected_at, rankings)
     update_archive_index(snapshot_metas)
 
