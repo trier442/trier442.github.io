@@ -20,6 +20,17 @@ LATEST_PATH = DATA_DIR / "latest.json"
 ARCHIVE_PATH = DATA_DIR / "archive.json"
 ARCHIVE_INDEX_PATH = DATA_DIR / "archive-index.json"
 SNAPSHOT_DIR = DATA_DIR / "snapshots"
+SOURCE_CACHE_DIR = DATA_DIR / "source-cache"
+
+SOURCE_CACHE_FILES = {
+    "루리웹": "ruliweb.json",
+    "디시인사이드": "dcinside.json",
+    "더쿠": "theqoo.json",
+    "뽐뿌": "ppomppu.json",
+    "에펨코리아": "fmkorea.json",
+    "클리앙": "clien.json",
+    "인벤": "inven.json",
+}
 
 KST = timezone(timedelta(hours=9))
 USER_AGENT = (
@@ -392,7 +403,8 @@ TOPIC_STOPWORDS = {
     "이거", "이게", "이번", "정도", "생각", "사실", "하나", "모두", "정말", "그냥",
     "현황", "가장", "avi", "싶다는", "맞고", "신고한", "도전", "남자", "여자",
     "선수", "배우", "공연", "사장님", "대통령",
-    "근데", "문제", "싱글벙글", "안싱글벙글", "대충", "의외로", "알고보니", "알고보면"
+    "근데", "문제", "싱글벙글", "안싱글벙글", "대충", "의외로", "알고보니", "알고보면",
+    "너무", "보고", "ad", "넣었더니", "무려", "최고", "최고의", "여사"
 }
 
 
@@ -560,7 +572,7 @@ def normalize_keyword_token(token: str) -> str:
         "하고", "이며", "에는", "에도", "과는", "와는",
         "은", "는", "이", "가", "을", "를", "의", "에", "와", "과", "도", "만",
     ]
-    if re.fullmatch(r"[가-힣]+", token) and len(token) >= 4:
+    if re.fullmatch(r"[가-힣]+", token):
         for suffix in suffixes:
             if token.endswith(suffix) and len(token) - len(suffix) >= 2:
                 token = token[:-len(suffix)]
@@ -912,6 +924,40 @@ def update_archive_index(new_metas: list[dict]) -> dict:
     return index
 
 
+def source_cache_path(source: str) -> Path:
+    return SOURCE_CACHE_DIR / SOURCE_CACHE_FILES[source]
+
+
+def save_source_cache(source: str, collected_at: str, posts: list[dict]) -> None:
+    SOURCE_CACHE_DIR.mkdir(parents=True, exist_ok=True)
+    payload = {
+        "version": 1,
+        "source": source,
+        "collected_at": collected_at,
+        "posts": posts,
+    }
+    source_cache_path(source).write_text(
+        json.dumps(payload, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+
+
+def load_source_cache(source: str, now: datetime, max_age_hours: int = 24) -> dict | None:
+    path = source_cache_path(source)
+    cached = load_json(path, None)
+    if not isinstance(cached, dict) or not isinstance(cached.get("posts"), list):
+        return None
+    try:
+        cached_at = dt(cached["collected_at"]).astimezone(KST)
+        age_minutes = max(0, round((now - cached_at).total_seconds() / 60))
+    except Exception:
+        return None
+    if age_minutes > max_age_hours * 60:
+        return None
+    cached["age_minutes"] = age_minutes
+    return cached
+
+
 def main() -> None:
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     now = datetime.now(KST)
@@ -925,21 +971,39 @@ def main() -> None:
             items = scraper()
             items = [p for p in items if p.get("title") and p.get("url")][:60]
             score_source(items)
+            save_source_cache(source, collected_at, items)
             all_posts.extend(items)
             statuses.append({
                 "source": source,
                 "ok": True,
+                "cached": False,
                 "count": len(items),
                 "elapsed_ms": int((time.time() - started) * 1000),
             })
         except Exception as exc:
-            statuses.append({
-                "source": source,
-                "ok": False,
-                "count": 0,
-                "error": f"{type(exc).__name__}: {str(exc)[:160]}",
-                "elapsed_ms": int((time.time() - started) * 1000),
-            })
+            cached = load_source_cache(source, now)
+            if cached:
+                items = cached["posts"]
+                all_posts.extend(items)
+                statuses.append({
+                    "source": source,
+                    "ok": False,
+                    "cached": True,
+                    "cached_at": cached.get("collected_at"),
+                    "cache_age_minutes": cached.get("age_minutes", 0),
+                    "count": len(items),
+                    "error": f"{type(exc).__name__}: {str(exc)[:160]}",
+                    "elapsed_ms": int((time.time() - started) * 1000),
+                })
+            else:
+                statuses.append({
+                    "source": source,
+                    "ok": False,
+                    "cached": False,
+                    "count": 0,
+                    "error": f"{type(exc).__name__}: {str(exc)[:160]}",
+                    "elapsed_ms": int((time.time() - started) * 1000),
+                })
         time.sleep(1.0)
 
     # URL 기준 중복 제거 후 통합 점수순
