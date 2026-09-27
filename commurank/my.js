@@ -9,10 +9,15 @@
 
 const PREF_KEY="commurank_preferences_v1";
 const RECENT_KEY="commurank_recent_posts_v1";
+const LAST_VISIT_KEY="commurank_my_last_visit_v1";
+const NOTIFY_KEY="commurank_interest_notify_v1";
+const NOTIFIED_COLLECTION_KEY="commurank_interest_notified_collection_v1";
 const SOURCES=["디시인사이드","더쿠","루리웹","클리앙","인벤","뽐뿌"];
 
 let latest=null;
+let archiveData={};
 let prefs=loadPrefs();
+const previousVisit=localStorage.getItem(LAST_VISIT_KEY)||"";
 
 function safeText(value){
   return String(value??"").replace(/[&<>"']/g,ch=>({
@@ -44,6 +49,69 @@ function loadRecent(){
     return Array.isArray(rows)?rows.slice(0,20):[];
   }catch{return [];}
 }
+function postFirstSeen(post){
+  const archived=archiveData?.[post?.url];
+  return archived?.first_seen || archived?.last_seen || "";
+}
+function isNewSinceVisit(post){
+  if(!previousVisit) return false;
+  const firstSeen=postFirstSeen(post);
+  if(firstSeen) return new Date(firstSeen)>new Date(previousVisit);
+  return post?.change==="NEW" && latest?.collected_at && new Date(latest.collected_at)>new Date(previousVisit);
+}
+function notificationEnabled(){
+  return localStorage.getItem(NOTIFY_KEY)==="1" && "Notification" in window && Notification.permission==="granted";
+}
+function renderNotificationState(){
+  const button=document.querySelector("#notificationButton");
+  const status=document.querySelector("#notificationStatus");
+  if(!button||!status) return;
+
+  if(!("Notification" in window)){
+    button.disabled=true;
+    button.textContent="알림 미지원";
+    status.textContent="이 브라우저는 알림을 지원하지 않습니다.";
+    return;
+  }
+  if(Notification.permission==="denied"){
+    button.disabled=true;
+    button.textContent="알림 차단됨";
+    status.textContent="브라우저 설정에서 알림 권한을 허용해야 합니다.";
+    return;
+  }
+  const on=notificationEnabled();
+  button.disabled=false;
+  button.textContent=on?"관심글 알림 끄기":"관심글 알림 켜기";
+  status.textContent=on?"사이트를 열 때 새 관심 글을 알려줍니다.":"알림 꺼짐";
+}
+async function showInterestNotification(newPosts){
+  if(!notificationEnabled()||!newPosts.length||!latest?.collected_at) return;
+  if(localStorage.getItem(NOTIFIED_COLLECTION_KEY)===latest.collected_at) return;
+
+  const first=newPosts[0];
+  const title=`새 관심 글 ${newPosts.length}개`;
+  const body=newPosts.length===1
+    ? first.title
+    : `${first.title} 외 ${newPosts.length-1}개`;
+  const options={
+    body:body.slice(0,180),
+    icon:"/commurank/favicon.svg",
+    badge:"/commurank/favicon.svg",
+    tag:"commurank-interest",
+    renotify:false,
+    data:{url:"/commurank/my/"}
+  };
+
+  try{
+    if("serviceWorker" in navigator){
+      const registration=await navigator.serviceWorker.ready;
+      await registration.showNotification(title,options);
+    }else{
+      new Notification(title,options);
+    }
+    localStorage.setItem(NOTIFIED_COLLECTION_KEY,latest.collected_at);
+  }catch{}
+}
 
 function renderSettings(){
   const kwBox=document.querySelector("#savedKeywords");
@@ -63,10 +131,12 @@ function matchPost(post){
   const keywordHits=prefs.keywords.filter(k=>title.includes(normalize(k)));
   const sourceHit=prefs.sources.includes(post.source);
   if(!keywordHits.length&&!sourceHit) return null;
+  const newSinceVisit=isNewSinceVisit(post);
   return {
     ...post,
     keywordHits,
-    matchScore:keywordHits.length*80+(sourceHit?30:0)+Number(post.score||0)*0.15
+    newSinceVisit,
+    matchScore:keywordHits.length*80+(sourceHit?30:0)+(newSinceVisit?35:0)+Number(post.score||0)*0.15
   };
 }
 function matchIssue(issue){
@@ -101,8 +171,10 @@ function renderFeed(){
     .sort((a,b)=>b.matchScore-a.matchScore)
     .slice(0,20);
 
+  const newPosts=posts.filter(p=>p.newSinceVisit);
   document.querySelector("#matchedPostCount").textContent=posts.length;
   document.querySelector("#matchedIssueCount").textContent=issues.length;
+  document.querySelector("#newSinceVisit").textContent=newPosts.length;
   document.querySelector("#prefCount").textContent=prefs.keywords.length+prefs.sources.length;
   document.querySelector("#feedUpdated").textContent=latest?.collected_at
     ? new Date(latest.collected_at).toLocaleString("ko-KR",{month:"numeric",day:"numeric",hour:"2-digit",minute:"2-digit"})
@@ -123,6 +195,7 @@ function renderFeed(){
             <span class="source">${safeText(p.source)}</span>
             <span>조회 ${fmt(p.views)}</span>
             <span>댓글 ${fmt(p.comments)}</span>
+            ${p.newSinceVisit?'<span class="my-new-badge">NEW</span>':""}
             ${p.keywordHits.length?`<span class="my-match">#${safeText(p.keywordHits.join(" #"))}</span>`:""}
           </div>
         </div>
@@ -164,6 +237,24 @@ function renderRecent(){
 }
 
 function renderAll(){renderSettings();renderFeed();renderRecent();}
+
+document.querySelector("#notificationButton").addEventListener("click",async()=>{
+  if(!("Notification" in window)) return;
+
+  if(notificationEnabled()){
+    localStorage.removeItem(NOTIFY_KEY);
+    renderNotificationState();
+    return;
+  }
+
+  const permission=await Notification.requestPermission();
+  if(permission==="granted"){
+    localStorage.setItem(NOTIFY_KEY,"1");
+  }else{
+    localStorage.removeItem(NOTIFY_KEY);
+  }
+  renderNotificationState();
+});
 
 document.querySelector("#keywordForm").addEventListener("submit",e=>{
   e.preventDefault();
@@ -210,8 +301,23 @@ if(localStorage.getItem("commurank-theme")==="dark")document.body.classList.add(
 
 (async function load(){
   try{
-    const r=await fetch("../data/latest.json?ts="+Date.now(),{cache:"no-store"});
-    if(r.ok) latest=await r.json();
+    const [live,archive]=await Promise.all([
+      fetch("../data/latest.json?ts="+Date.now(),{cache:"no-store"}),
+      fetch("../data/archive.json?ts="+Date.now(),{cache:"no-store"})
+    ]);
+    if(live.ok) latest=await live.json();
+    if(archive.ok) archiveData=await archive.json();
   }catch{}
+
   renderAll();
+
+  const postMap=new Map();
+  Object.values(latest?.community_rankings||{}).forEach(data=>{
+    (data?.realtime||[]).forEach(p=>{ if(p?.url) postMap.set(p.url,p); });
+  });
+  (latest?.rankings?.realtime||[]).forEach(p=>{ if(p?.url) postMap.set(p.url,p); });
+  const newMatched=[...postMap.values()].map(matchPost).filter(p=>p?.newSinceVisit);
+  await showInterestNotification(newMatched);
+
+  localStorage.setItem(LAST_VISIT_KEY,new Date().toISOString());
 })();
