@@ -166,6 +166,87 @@ function updateUrl(){
   history.replaceState(null, "", next);
 }
 
+function renderPortalToday(){
+  const container = document.querySelector("#portalToday");
+  if (!container) return;
+  const items = liveData?.rankings?.daily || [];
+
+  if (!items.length) {
+    container.innerHTML = '<div class="empty">오늘의 랭킹 데이터가 없습니다.</div>';
+    return;
+  }
+
+  container.innerHTML = items.slice(0,3).map((p,i)=>`
+    <article class="portal-feature-item">
+      <span class="portal-feature-rank">${i+1}</span>
+      <div>
+        <span class="portal-source">${safeText(p.source)}</span>
+        <a href="${safeText(p.url)}" target="_blank" rel="noopener noreferrer">${safeText(p.title)}</a>
+        <div class="portal-metrics">
+          <span>조회 ${fmt(p.views)}</span>
+          <span>댓글 ${fmt(p.comments)}</span>
+        </div>
+      </div>
+    </article>
+  `).join("");
+}
+
+function renderPortalRising(){
+  const container = document.querySelector("#portalRising");
+  if (!container) return;
+  const items = liveData?.rankings?.rising || [];
+  const windowMinutes = Number(liveData?.rising_window_minutes || 30);
+
+  if (!items.length) {
+    container.innerHTML = '<div class="empty">급상승 데이터가 없습니다.</div>';
+    return;
+  }
+
+  container.innerHTML = items.slice(0,5).map((p,i)=>`
+    <article class="portal-mini-item">
+      <span class="portal-mini-rank">${i+1}</span>
+      <div class="portal-mini-body">
+        <a href="${safeText(p.url)}" target="_blank" rel="noopener noreferrer">${safeText(p.title)}</a>
+        <span>${safeText(p.source)} · ${windowMinutes}분 · +댓글 ${fmt(p.delta_comments)} · +조회 ${fmt(p.delta_views)}</span>
+      </div>
+      <strong>${Math.round(Number(p.rising_score)||0)}</strong>
+    </article>
+  `).join("");
+}
+
+function renderCommunityChampions(){
+  const container = document.querySelector("#communityList");
+  if (!container) return;
+
+  const rows = Object.entries(liveData?.community_rankings || {})
+    .map(([name,data]) => ({
+      name,
+      top:data?.realtime?.[0],
+      count:data?.realtime?.length || 0,
+      slug:communitySlug[name]
+    }))
+    .filter(row => row.top && row.slug)
+    .sort((a,b) => Number(b.top?.score||0) - Number(a.top?.score||0));
+
+  container.innerHTML = rows.length
+    ? rows.map((row,i)=>`
+      <li class="community-row portal-community-row">
+        <span class="community-rank">${i+1}</span>
+        <div class="community-champion">
+          <a class="community-name community-link" href="./community/${row.slug}/">${safeText(row.name)}</a>
+          <a class="community-top-title" href="${safeText(row.top.url)}" target="_blank" rel="noopener noreferrer">${safeText(row.top.title)}</a>
+        </div>
+        <span class="community-score">#1 · ${row.count}건</span>
+      </li>`).join("")
+    : '<li class="empty">수집 대기 중</li>';
+}
+
+function renderPortal(){
+  renderPortalToday();
+  renderPortalRising();
+  renderCommunityChampions();
+}
+
 function render(){
   const posts = currentPosts();
   const filtered = posts
@@ -216,28 +297,7 @@ function render(){
     }).join("");
   }
 
-  const communityStats = {};
-  posts.forEach(p => {
-    if (!communityStats[p.source]) communityStats[p.source] = {count:0, total:0};
-    communityStats[p.source].count += 1;
-    communityStats[p.source].total += Number(p.score) || 0;
-  });
-
-  const communities = Object.entries(communityStats)
-    .map(([name,v]) => ({name, score: v.count ? Math.round(v.total / v.count) : 0, count:v.count}))
-    .sort((a,b)=>b.score-a.score || b.count-a.count)
-    .slice(0,6);
-
-  document.querySelector("#communityList").innerHTML = communities.length
-    ? communities.map((c,i)=>`
-      <li class="community-row">
-        <span class="community-rank">${i+1}</span>
-        ${communitySlug[c.name]
-          ? `<a class="community-name community-link" href="./community/${communitySlug[c.name]}/">${safeText(c.name)}</a>`
-          : `<span class="community-name">${safeText(c.name)}</span>`}
-        <span class="community-score">${c.score}점 · ${c.count}건</span>
-      </li>`).join("")
-    : '<li class="empty">수집 대기 중</li>';
+  renderPortal();
 
   const activeDate = archiveData?.period === period ? new Date(archiveData.collected_at) : new Date(liveData?.collected_at || Date.now());
   document.querySelector("#updatedAt").textContent = activeDate.toLocaleString("ko-KR", {
@@ -360,11 +420,28 @@ document.querySelector("#keywordList").addEventListener("click", e=>{
   if (!button) return;
   keyword = button.dataset.keyword || "";
   render();
+  document.querySelector("#rankingList")?.scrollIntoView({behavior:"smooth", block:"start"});
 });
 
 document.querySelector("#clearKeyword").addEventListener("click", ()=>{
   keyword = "";
   render();
+});
+
+document.querySelectorAll("[data-jump-period]").forEach(button=>{
+  button.addEventListener("click", ()=>{
+    const target = button.dataset.jumpPeriod;
+    if (!periodInfo[target]) return;
+    period = target;
+    archiveData = null;
+    keyword = "";
+    source = "전체";
+    category = "전체";
+    document.querySelectorAll(".nav-item").forEach(x=>x.classList.toggle("active", x.dataset.period === period));
+    document.querySelectorAll(".chip").forEach(x=>x.classList.toggle("active", x.dataset.category === "전체"));
+    render();
+    document.querySelector(".controls")?.scrollIntoView({behavior:"smooth", block:"start"});
+  });
 });
 
 document.querySelector("#sourceFilter").addEventListener("change", e=>{
