@@ -3,7 +3,7 @@
   const s = document.createElement("script");
   s.src = "/commurank/analytics.js";
   s.defer = true;
-  s.dataset.commURankAnalytics = "1";
+  s.setAttribute("data-commurank-analytics", "1");
   document.head.appendChild(s);
 })();
 
