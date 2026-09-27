@@ -2064,3 +2064,36 @@ select:focus-visible {
   .admin-status-grid { grid-template-columns: repeat(2,minmax(0,1fr)); }
   .admin-header-title { display: none; }
 }
+
+.analytics-setup-list {
+  margin: 12px 0 0;
+  padding-left: 20px;
+  color: var(--muted);
+  font-size: 10px;
+  line-height: 1.75;
+}
+.analytics-setup-list code {
+  color: var(--text);
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: 9px;
+}
+.analytics-action {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 12px;
+  border: 1px solid color-mix(in srgb, var(--brand) 28%, var(--line));
+  border-radius: 10px;
+  background: color-mix(in srgb, var(--brand) 7%, var(--surface));
+  color: var(--brand);
+  padding: 10px;
+  text-align: center;
+  font-size: 10px;
+  font-weight: 900;
+}
+.analytics-action:hover {
+  background: color-mix(in srgb, var(--brand) 12%, var(--surface));
+}
+.analytics-on {
+  color: #1c9a5d!important;
+}
