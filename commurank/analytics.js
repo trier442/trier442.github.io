@@ -43,6 +43,12 @@
       send("post_analysis_open", { page_path: location.pathname });
     } else if (href.includes("/issue/?id=")) {
       send("issue_open", { page_path: location.pathname });
+    } else if (href.includes("/community/")) {
+      send("community_open", { source_page: location.pathname });
+    } else if (href.includes("/issues/")) {
+      send("issue_ranking_open", { source_page: location.pathname });
+    } else if (href.includes("/briefing/")) {
+      send("briefing_open", { source_page: location.pathname });
     }
 
     if (anchor.id === "originalLink" || anchor.classList.contains("primary-action")) {
@@ -50,6 +56,22 @@
         destination_host: destinationHost(anchor.href),
         source_page: location.pathname
       });
+    }
+  }, { passive: true });
+
+  document.addEventListener("change", event => {
+    const el = event.target;
+    if (!(el instanceof HTMLSelectElement)) return;
+    if (el.id === "archiveSelect") {
+      send("ranking_archive_select", { period: new URLSearchParams(location.search).get("period") || "realtime" });
+    } else if (el.id === "issueArchiveSelect") {
+      send("issue_archive_select", { period: new URLSearchParams(location.search).get("period") || "realtime" });
+    } else if (el.id === "briefingArchive") {
+      send("briefing_archive_select", { has_date: Boolean(el.value) });
+    } else if (el.id === "sourceFilter" || el.id === "searchSource") {
+      send("source_filter_change", { source_page: location.pathname });
+    } else if (el.id === "searchSort") {
+      send("search_sort_change", { source_page: location.pathname });
     }
   }, { passive: true });
 
