@@ -104,7 +104,7 @@ function openDetail(id){
   </div>`;
   window.scrollTo({top:0,behavior:"smooth"});
 }
-function bindContent(){$$("[data-open-content]").forEach(x=>x.onclick=()=>openDetail(x.dataset.openContent))}
+function bindContent(){$("[data-open-content]").forEach(x=>x.onclick=()=>{closeSearch();openDetail(x.dataset.openContent)})}
 function openSearch(){$("#searchOverlay").classList.add("open");$("#searchOverlay").setAttribute("aria-hidden","false");$("#globalSearch").value="";$("#searchResults").innerHTML='<div class="empty-state">책 제목, 개념, 논제, 글쓰기 방법을 검색해 보세요.</div>';setTimeout(()=>$("#globalSearch").focus(),50)}
 function closeSearch(){$("#searchOverlay").classList.remove("open");$("#searchOverlay").setAttribute("aria-hidden","true")}
 function runSearch(){
