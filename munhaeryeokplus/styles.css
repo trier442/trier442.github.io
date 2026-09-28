@@ -72,3 +72,16 @@ a.btn,a.text-link,.detail-brand,.detail-home-link,.back-link,.search-result{text
 .discussion-pair{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin:34px 0}.discussion-pair article{border-radius:18px;padding:23px;background:#163f31;color:#fff}.discussion-pair article:nth-child(2){background:#f3ecdc;color:var(--ink);border:1px solid #e5d8b9}.discussion-pair h2{font:700 20px/1.55 Georgia,"Noto Serif KR",serif;margin:8px 0}.discussion-pair p{font-size:11px;color:#d4e4dd}.discussion-pair article:nth-child(2) p{color:var(--muted)}
 .background-box{margin:34px 0;padding:24px;border-radius:18px;background:#f5f7f6;border:1px solid var(--line)}.background-box h2{font-size:22px;margin:7px 0 14px}.background-box>div{display:flex;gap:8px;flex-wrap:wrap}.background-box>div span{background:white;border:1px solid var(--line);border-radius:999px;padding:7px 10px;font-size:11px}
 @media(max-width:760px){.guide-overview{grid-template-columns:1fr}.reading-stages,.discussion-pair{grid-template-columns:1fr}.theme-board{grid-template-columns:repeat(3,1fr)}}
+
+.debate-archive-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:14px}
+.debate-archive-card{display:grid;grid-template-columns:64px 1fr;gap:15px;background:#fff;border:1px solid var(--line);border-radius:18px;padding:20px;transition:.2s}
+.debate-archive-card:hover{transform:translateY(-3px);box-shadow:var(--shadow)}
+.debate-card-index{font:700 30px Georgia,serif;color:#a7b7b0}
+.debate-card-body h2{font-size:19px;line-height:1.45;margin:9px 0 7px}.debate-card-body p{font-size:12px;color:var(--muted);margin-bottom:12px}
+.debate-guide-shell{max-width:940px}
+.debate-background{margin:30px 0;padding:24px;border-radius:18px;background:var(--cream);border:1px solid #eadfc7}
+.debate-background h2{font-size:24px;margin:7px 0 8px}.debate-background p{margin:0;color:var(--muted)}
+.procon-grid{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin:28px 0}.procon-grid article{border-radius:18px;padding:22px}.pro-box{background:#eaf4ef;border:1px solid #d3e7de}.con-box{background:#f7eee9;border:1px solid #ead9cf}.procon-grid article>span{font-size:11px;font-weight:850;color:var(--green)}.con-box>span{color:#8b5a47}.procon-grid ol{padding-left:20px;margin:11px 0 0}.procon-grid li{font-size:13px;line-height:1.75;margin:8px 0}
+.criteria-box{margin:28px 0;padding:23px;border-radius:18px;border:1px solid var(--line);background:#fff}.criteria-box h2{font-size:23px;margin:7px 0 14px}.criteria-box>div{display:flex;flex-wrap:wrap;gap:8px}.criteria-box>div span{background:#f1f4f2;border-radius:999px;padding:7px 11px;font-size:11px;font-weight:750}
+.essay-extension{margin:30px 0;padding:25px;border-radius:18px;background:#173f31;color:#fff}.essay-extension .eyebrow{color:#a8d2c0}.essay-extension h2{font:700 22px/1.55 Georgia,"Noto Serif KR",serif;margin:8px 0}.essay-extension p{color:#d5e5df;font-size:12px;margin:0}
+@media(max-width:760px){.debate-archive-grid,.procon-grid{grid-template-columns:1fr}.debate-archive-card{grid-template-columns:48px 1fr}.debate-card-index{font-size:24px}}
