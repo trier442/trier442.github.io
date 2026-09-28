@@ -22,7 +22,9 @@
         <button class="nav-link" data-route="library">독서논술</button>
         <button class="nav-link" data-route="writing">논술쓰기</button>
         <button class="nav-link" data-route="progress">나의 학습</button>
+        <button class="nav-link teacher-only" data-route="teacher">교사 관리</button>
       </nav>
+      <button class="role-switch" id="roleSwitch" type="button">교사 모드</button>
       <button class="profile-button" data-route="progress">
         <span class="avatar">김</span>
         <span class="profile-copy"><b>학습자</b><small id="headerProgress">진행률 0%</small></span>
@@ -64,6 +66,13 @@
           <button class="text-link" data-open-lesson="ai-literacy">이어 읽기 →</button>
         </div>
       </div>
+
+      <section class="section-wrap assignment-zone">
+        <div class="section-head">
+          <div><span class="eyebrow">나의 과제</span><h2>이번 주 해야 할 학습</h2></div>
+        </div>
+        <div id="studentAssignments"></div>
+      </section>
 
       <section class="section-wrap">
         <div class="section-head">
@@ -165,7 +174,80 @@
         </div>
       </div>
     </section>
+
+    <section class="page" id="page-teacher">
+      <div class="page-banner compact teacher-banner">
+        <span class="eyebrow">교사 관리</span>
+        <h1>반과 과제, 제출 답안을 한 화면에서</h1>
+        <p>현재는 로컬 데모 모드입니다. Supabase 연결 후 실제 학생 계정과 서버 저장으로 전환할 수 있습니다.</p>
+      </div>
+      <div class="section-wrap">
+        <div class="teacher-topbar">
+          <div>
+            <span class="eyebrow">Teacher Dashboard</span>
+            <h2>수업 운영 현황</h2>
+          </div>
+          <button class="btn primary" id="openAssignmentModal">+ 과제 배정</button>
+        </div>
+
+        <div class="metric-grid teacher-metrics">
+          <article><span>등록 학생</span><strong id="teacherStudents">0</strong><small>명</small></article>
+          <article><span>진행 과제</span><strong id="teacherAssignments">0</strong><small>개</small></article>
+          <article><span>미첨삭 답안</span><strong id="teacherPending">0</strong><small>편</small></article>
+        </div>
+
+        <div class="teacher-grid">
+          <section class="panel">
+            <div class="panel-head row"><h3>반 관리</h3><button class="text-link" id="addDemoStudent">학생 추가</button></div>
+            <div id="classList"></div>
+          </section>
+          <section class="panel">
+            <div class="panel-head"><h3>과제 현황</h3></div>
+            <div id="assignmentList"></div>
+          </section>
+        </div>
+
+        <section class="panel submissions-panel">
+          <div class="panel-head row">
+            <h3>제출 답안 · 첨삭</h3>
+            <div class="submission-filters">
+              <button class="filter tiny active" data-submission-filter="all">전체</button>
+              <button class="filter tiny" data-submission-filter="pending">미첨삭</button>
+              <button class="filter tiny" data-submission-filter="done">첨삭완료</button>
+            </div>
+          </div>
+          <div id="submissionList"></div>
+        </section>
+      </div>
+    </section>
   </main>
+
+  <div class="modal-backdrop" id="assignmentModal" aria-hidden="true">
+    <div class="modal-card" role="dialog" aria-modal="true" aria-labelledby="assignmentModalTitle">
+      <div class="modal-head"><h3 id="assignmentModalTitle">새 과제 배정</h3><button class="modal-close" data-close-modal="assignmentModal">×</button></div>
+      <label class="field-label">반<select id="assignmentClass"></select></label>
+      <label class="field-label">콘텐츠<select id="assignmentLesson"></select></label>
+      <label class="field-label">마감일<input id="assignmentDue" type="date"></label>
+      <label class="field-label">교사 안내<textarea id="assignmentNote" rows="3" placeholder="예: 제시문의 근거를 최소 2개 활용하세요."></textarea></label>
+      <div class="modal-actions"><button class="btn ghost" data-close-modal="assignmentModal">취소</button><button class="btn primary" id="createAssignment">배정하기</button></div>
+    </div>
+  </div>
+
+  <div class="modal-backdrop" id="feedbackModal" aria-hidden="true">
+    <div class="modal-card wide" role="dialog" aria-modal="true" aria-labelledby="feedbackModalTitle">
+      <div class="modal-head"><h3 id="feedbackModalTitle">답안 첨삭</h3><button class="modal-close" data-close-modal="feedbackModal">×</button></div>
+      <div id="feedbackStudentMeta" class="feedback-meta"></div>
+      <div class="feedback-answer" id="feedbackAnswer"></div>
+      <div class="rubric-grid">
+        <label>논제 이해<select id="scoreThesis"><option>5</option><option>4</option><option>3</option><option>2</option><option>1</option></select></label>
+        <label>근거 활용<select id="scoreEvidence"><option>5</option><option>4</option><option>3</option><option>2</option><option>1</option></select></label>
+        <label>논리 구성<select id="scoreLogic"><option>5</option><option>4</option><option>3</option><option>2</option><option>1</option></select></label>
+        <label>표현<select id="scoreStyle"><option>5</option><option>4</option><option>3</option><option>2</option><option>1</option></select></label>
+      </div>
+      <label class="field-label">교사 총평<textarea id="teacherFeedback" rows="5" placeholder="잘한 점과 다음 수정 방향을 구체적으로 적어 주세요."></textarea></label>
+      <div class="modal-actions"><button class="btn ghost" data-close-modal="feedbackModal">닫기</button><button class="btn primary" id="saveFeedback">첨삭 저장</button></div>
+    </div>
+  </div>
 
   <footer>
     <div><strong>SOPHIE READING LAB</strong><span>독서 · 토론 · 논술 학습 플랫폼 1차 프로토타입</span></div>
