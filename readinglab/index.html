@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="description" content="읽기에서 생각, 토론, 논술까지 이어지는 독서논술 학습 플랫폼" />
-  <title>소피 리딩랩 | 독서논술</title>
+  <meta name="description" content="추천도서, 주제별 읽기, 토론 논제, 논술 쓰기 방법을 제공하는 독서논술 교육 사이트" />
+  <title>소피 리딩랩 | 독서·토론·논술 교육</title>
   <link rel="stylesheet" href="./styles.css" />
 </head>
 <body>
@@ -12,246 +12,188 @@
     <div class="header-inner">
       <button class="brand" data-route="home" aria-label="홈으로">
         <span class="brand-mark">S</span>
-        <span>
+        <span class="brand-copy">
           <strong>SOPHIE READING LAB</strong>
-          <small>읽고 · 생각하고 · 쓰는 힘</small>
+          <small>읽기에서 생각으로, 생각에서 글로</small>
         </span>
       </button>
       <nav class="main-nav" aria-label="주요 메뉴">
         <button class="nav-link active" data-route="home">홈</button>
-        <button class="nav-link" data-route="library">독서논술</button>
+        <button class="nav-link" data-route="books">추천도서</button>
+        <button class="nav-link" data-route="topics">주제읽기</button>
+        <button class="nav-link" data-route="debate">토론논제</button>
         <button class="nav-link" data-route="writing">논술쓰기</button>
-        <button class="nav-link" data-route="progress">나의 학습</button>
-        <button class="nav-link teacher-only" data-route="teacher">교사 관리</button>
+        <button class="nav-link" data-route="guides">교육가이드</button>
       </nav>
-      <button class="role-switch" id="roleSwitch" type="button">교사 모드</button>
-      <button class="profile-button" data-route="progress">
-        <span class="avatar">김</span>
-        <span class="profile-copy"><b>학습자</b><small id="headerProgress">진행률 0%</small></span>
-      </button>
+      <button class="search-button" id="openSearch">⌕</button>
     </div>
   </header>
 
-  <main id="app">
+  <main>
     <section class="page active" id="page-home">
-      <div class="hero">
+      <section class="hero">
         <div class="hero-copy">
-          <span class="eyebrow">오늘의 독서논술</span>
-          <h1>한 편을 제대로 읽고,<br><em>한 문장을 스스로 씁니다.</em></h1>
-          <p>제시문 이해에서 핵심 어휘, 사고 확장, 토론, 논술 작성까지 한 흐름으로 학습합니다.</p>
+          <span class="eyebrow">READ · THINK · DISCUSS · WRITE</span>
+          <h1>책을 읽는 데서 끝나지 않고<br><em>생각하는 힘까지 기릅니다.</em></h1>
+          <p>초등 고학년부터 고등학생까지, 책과 사회 이슈를 읽고 질문하고 토론하고 글로 표현하는 독서논술 교육 콘텐츠를 제공합니다.</p>
           <div class="hero-actions">
-            <button class="btn primary" data-open-lesson="ai-literacy">오늘 학습 시작</button>
-            <button class="btn ghost" data-route="library">전체 콘텐츠 보기</button>
-          </div>
-          <div class="hero-stats">
-            <div><strong>3</strong><span>체험 콘텐츠</span></div>
-            <div><strong id="statCompleted">0</strong><span>완료한 학습</span></div>
-            <div><strong id="statDrafts">0</strong><span>저장된 글</span></div>
+            <button class="btn primary" data-route="books">추천도서 보기</button>
+            <button class="btn ghost" data-route="writing">논술 공부 시작</button>
           </div>
         </div>
-        <div class="hero-card">
-          <div class="hero-card-top">
-            <span class="pill">추천 · 중고등</span>
-            <span>약 25분</span>
+        <div class="hero-visual">
+          <div class="book-stack">
+            <div class="book one"><span>읽기</span></div>
+            <div class="book two"><span>질문</span></div>
+            <div class="book three"><span>토론</span></div>
+            <div class="book four"><span>쓰기</span></div>
           </div>
-          <div class="book-visual">
-            <span class="book-line short"></span>
-            <span class="book-line"></span>
-            <span class="book-line"></span>
-            <span class="book-line medium"></span>
-            <span class="quote">“읽는다는 것은<br>생각의 재료를 모으는 일이다.”</span>
-          </div>
-          <h3>AI 시대에도 깊이 읽어야 하는 이유</h3>
-          <p>정보를 빠르게 얻는 시대에 ‘읽기’가 어떤 역할을 하는지 생각해 봅니다.</p>
-          <button class="text-link" data-open-lesson="ai-literacy">이어 읽기 →</button>
+          <div class="quote-card">좋은 독서논술은<br><b>정답을 알려주는 수업이 아니라<br>좋은 질문을 만드는 수업</b>입니다.</div>
         </div>
-      </div>
-
-      <section class="section-wrap assignment-zone">
-        <div class="section-head">
-          <div><span class="eyebrow">나의 과제</span><h2>이번 주 해야 할 학습</h2></div>
-        </div>
-        <div id="studentAssignments"></div>
       </section>
 
       <section class="section-wrap">
         <div class="section-head">
-          <div><span class="eyebrow">주제별 탐구</span><h2>생각을 넓히는 읽기</h2></div>
-          <button class="text-link" data-route="library">전체 보기 →</button>
+          <div><span class="eyebrow">오늘의 콘텐츠</span><h2>지금 읽어볼 만한 글</h2></div>
+          <button class="text-link" data-route="topics">전체 보기 →</button>
         </div>
-        <div class="topic-grid" id="homeCards"></div>
+        <div class="feature-grid" id="featuredContent"></div>
       </section>
 
       <section class="section-wrap soft">
         <div class="section-head">
-          <div><span class="eyebrow">학습 흐름</span><h2>읽기에서 논술까지 5단계</h2></div>
+          <div><span class="eyebrow">학습 영역</span><h2>독서논술을 이렇게 공부합니다.</h2></div>
         </div>
-        <div class="steps-grid">
-          <article><span>01</span><b>읽기</b><p>핵심 문장을 표시하며 제시문을 정확하게 읽습니다.</p></article>
-          <article><span>02</span><b>어휘</b><p>글의 논리를 이해하는 데 필요한 핵심 개념을 정리합니다.</p></article>
-          <article><span>03</span><b>확인</b><p>내용 확인 문항으로 사실 관계와 구조를 점검합니다.</p></article>
-          <article><span>04</span><b>확장</b><p>다른 관점과 사례를 연결하며 생각의 범위를 넓힙니다.</p></article>
-          <article><span>05</span><b>논술</b><p>주장과 근거를 구조화하여 자기 언어로 완성합니다.</p></article>
+        <div class="pillar-grid">
+          <article data-route="books"><span>01</span><div class="pillar-icon">▤</div><h3>책 읽기</h3><p>학년과 관심 분야에 맞는 책을 고르고, 읽기 전·중·후 질문으로 깊이 읽습니다.</p></article>
+          <article data-route="topics"><span>02</span><div class="pillar-icon">◎</div><h3>배경지식</h3><p>인문·사회·과학·경제·역사 주제를 짧고 정확하게 이해합니다.</p></article>
+          <article data-route="debate"><span>03</span><div class="pillar-icon">↔</div><h3>토론</h3><p>찬성과 반대를 나누는 데 그치지 않고 쟁점과 기준을 찾아봅니다.</p></article>
+          <article data-route="writing"><span>04</span><div class="pillar-icon">✎</div><h3>논술</h3><p>주장·근거·반론·재반론을 구조화하여 자기 생각을 글로 표현합니다.</p></article>
+        </div>
+      </section>
+
+      <section class="section-wrap">
+        <div class="split-feature">
+          <div>
+            <span class="eyebrow">이번 주 토론 질문</span>
+            <h2>AI가 쓴 글도<br>‘나의 글’이라고 할 수 있을까?</h2>
+            <p>도구의 도움과 저자의 책임은 어디에서 나뉘는지 생각해 봅니다.</p>
+            <button class="btn primary" data-open-content="debate-ai-writing">쟁점 살펴보기</button>
+          </div>
+          <div class="issue-card">
+            <span class="issue-label">생각의 출발점</span>
+            <p>“글의 문장을 AI가 만들었더라도 어떤 내용을 선택하고 수정할지 사람이 결정했다면, 그 글의 저자는 누구일까?”</p>
+            <div class="issue-tags"><span>#AI</span><span>#저자성</span><span>#교육</span><span>#윤리</span></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section-wrap soft">
+        <div class="section-head">
+          <div><span class="eyebrow">연령별 추천</span><h2>수준에 맞게 시작하세요.</h2></div>
+        </div>
+        <div class="level-grid">
+          <article><span class="level">초등 고학년</span><h3>질문하는 독서</h3><p>줄거리 확인을 넘어 인물의 선택과 사건의 원인을 설명하는 연습</p><button class="text-link" data-filter-level="초등">콘텐츠 보기 →</button></article>
+          <article><span class="level">중학생</span><h3>관점 비교와 토론</h3><p>한 주제를 여러 관점에서 읽고 자신의 판단 기준을 세우는 연습</p><button class="text-link" data-filter-level="중등">콘텐츠 보기 →</button></article>
+          <article><span class="level">고등학생</span><h3>논증적 읽기와 쓰기</h3><p>제시문의 논리를 분석하고 근거를 재구성하여 논술하는 연습</p><button class="text-link" data-filter-level="고등">콘텐츠 보기 →</button></article>
         </div>
       </section>
     </section>
 
-    <section class="page" id="page-library">
+    <section class="page" id="page-books">
       <div class="page-banner">
-        <span class="eyebrow">독서논술 라이브러리</span>
-        <h1>관심 주제에서 시작해 보세요.</h1>
-        <p>학년보다 중요한 것은 ‘어떤 질문을 품고 읽는가’입니다.</p>
+        <span class="eyebrow">추천도서</span>
+        <h1>읽고 나서 질문이 남는 책</h1>
+        <p>단순 권장도서 목록이 아니라, 책마다 함께 생각할 질문과 토론 주제를 제공합니다.</p>
       </div>
       <div class="section-wrap">
-        <div class="filter-row">
-          <button class="filter active" data-filter="all">전체</button>
-          <button class="filter" data-filter="인문">인문·철학</button>
-          <button class="filter" data-filter="사회">사회</button>
-          <button class="filter" data-filter="과학">과학·기술</button>
+        <div class="toolbar">
+          <div class="chips" id="bookLevelFilters"></div>
+          <div class="search-inline"><input id="bookSearch" type="search" placeholder="책 제목·주제로 찾기"><span>⌕</span></div>
         </div>
-        <div class="topic-grid large" id="libraryCards"></div>
+        <div class="book-grid" id="bookGrid"></div>
       </div>
     </section>
 
-    <section class="page" id="page-lesson">
-      <div class="lesson-shell">
-        <div class="lesson-main">
-          <button class="back-link" data-route="library">← 목록으로</button>
-          <div class="lesson-heading">
-            <div class="lesson-meta" id="lessonMeta"></div>
-            <h1 id="lessonTitle"></h1>
-            <p id="lessonIntro"></p>
-          </div>
-          <div class="lesson-tabs" id="lessonTabs"></div>
-          <div id="lessonContent"></div>
-        </div>
-        <aside class="lesson-aside">
-          <div class="aside-card">
-            <span class="eyebrow">학습 진행률</span>
-            <div class="progress-ring" id="progressRing"><span id="lessonPercent">0%</span></div>
-            <p id="lessonStepCopy">첫 단계부터 시작해 보세요.</p>
-          </div>
-          <div class="aside-card checklist">
-            <b>오늘의 목표</b>
-            <label><input type="checkbox" disabled /> 제시문의 중심 주장 파악</label>
-            <label><input type="checkbox" disabled /> 핵심 어휘 이해</label>
-            <label><input type="checkbox" disabled /> 근거를 활용한 자기 주장 쓰기</label>
-          </div>
-        </aside>
+    <section class="page" id="page-topics">
+      <div class="page-banner">
+        <span class="eyebrow">주제읽기</span>
+        <h1>세상을 이해하는 배경지식</h1>
+        <p>독서와 논술에 자주 등장하는 핵심 개념을 짧은 글과 질문으로 공부합니다.</p>
+      </div>
+      <div class="section-wrap">
+        <div class="category-tabs" id="topicTabs"></div>
+        <div class="content-grid" id="topicGrid"></div>
+      </div>
+    </section>
+
+    <section class="page" id="page-debate">
+      <div class="page-banner">
+        <span class="eyebrow">토론논제</span>
+        <h1>찬반보다 먼저, 쟁점을 찾습니다.</h1>
+        <p>하나의 문제를 여러 관점에서 보고 무엇을 기준으로 판단해야 하는지 훈련합니다.</p>
+      </div>
+      <div class="section-wrap">
+        <div class="debate-list" id="debateGrid"></div>
       </div>
     </section>
 
     <section class="page" id="page-writing">
-      <div class="page-banner compact">
+      <div class="page-banner">
         <span class="eyebrow">논술쓰기</span>
-        <h1>생각을 글의 구조로 바꾸는 공간</h1>
-        <p>학습 중 저장한 논술 초안을 이어서 작성할 수 있습니다.</p>
-      </div>
-      <div class="section-wrap" id="writingHub"></div>
-    </section>
-
-    <section class="page" id="page-progress">
-      <div class="page-banner compact">
-        <span class="eyebrow">나의 학습</span>
-        <h1>읽고 쓴 기록은 실력이 됩니다.</h1>
-        <p>현재 브라우저에 저장된 학습 기록을 보여 줍니다.</p>
+        <h1>생각을 구조화하면 글이 달라집니다.</h1>
+        <p>주장, 근거, 예시, 반론, 결론을 단계적으로 연습합니다.</p>
       </div>
       <div class="section-wrap">
-        <div class="metric-grid">
-          <article><span>완료 콘텐츠</span><strong id="metricCompleted">0</strong><small>개</small></article>
-          <article><span>저장된 글</span><strong id="metricDrafts">0</strong><small>편</small></article>
-          <article><span>평균 진행률</span><strong id="metricAverage">0</strong><small>%</small></article>
+        <div class="writing-roadmap">
+          <article><span>STEP 1</span><h3>논제 분석</h3><p>무엇을 묻는지, 어떤 조건이 붙어 있는지 정확히 나눕니다.</p></article>
+          <article><span>STEP 2</span><h3>입장 정리</h3><p>찬반을 먼저 고르기보다 판단 기준을 세웁니다.</p></article>
+          <article><span>STEP 3</span><h3>근거 설계</h3><p>사실·사례·원리 가운데 주장에 가장 적합한 근거를 선택합니다.</p></article>
+          <article><span>STEP 4</span><h3>문단 구성</h3><p>한 문단에 하나의 역할을 부여해 글의 흐름을 만듭니다.</p></article>
+          <article><span>STEP 5</span><h3>퇴고</h3><p>주장과 근거의 연결, 중복 표현, 불필요한 문장을 점검합니다.</p></article>
         </div>
-        <div class="dashboard-grid">
-          <div class="panel">
-            <div class="panel-head"><h3>콘텐츠별 진행 현황</h3></div>
-            <div id="progressList"></div>
-          </div>
-          <div class="panel">
-            <div class="panel-head"><h3>다음 학습 추천</h3></div>
-            <div id="nextLesson"></div>
-          </div>
+        <div class="section-head writing-head">
+          <div><span class="eyebrow">글쓰기 강의</span><h2>논술의 기본부터 차근차근</h2></div>
         </div>
+        <div class="content-grid" id="writingGrid"></div>
       </div>
     </section>
 
-    <section class="page" id="page-teacher">
-      <div class="page-banner compact teacher-banner">
-        <span class="eyebrow">교사 관리</span>
-        <h1>반과 과제, 제출 답안을 한 화면에서</h1>
-        <p>현재는 로컬 데모 모드입니다. Supabase 연결 후 실제 학생 계정과 서버 저장으로 전환할 수 있습니다.</p>
+    <section class="page" id="page-guides">
+      <div class="page-banner">
+        <span class="eyebrow">교육가이드</span>
+        <h1>학생·학부모·교사를 위한 독서논술 안내</h1>
+        <p>책 선정, 질문 만들기, 토론 진행, 글쓰기 지도 방법을 실제 수업에 활용할 수 있게 정리합니다.</p>
       </div>
       <div class="section-wrap">
-        <div class="teacher-topbar">
-          <div>
-            <span class="eyebrow">Teacher Dashboard</span>
-            <h2>수업 운영 현황</h2>
-          </div>
-          <button class="btn primary" id="openAssignmentModal">+ 과제 배정</button>
-        </div>
+        <div class="guide-grid" id="guideGrid"></div>
+      </div>
+    </section>
 
-        <div class="metric-grid teacher-metrics">
-          <article><span>등록 학생</span><strong id="teacherStudents">0</strong><small>명</small></article>
-          <article><span>진행 과제</span><strong id="teacherAssignments">0</strong><small>개</small></article>
-          <article><span>미첨삭 답안</span><strong id="teacherPending">0</strong><small>편</small></article>
-        </div>
-
-        <div class="teacher-grid">
-          <section class="panel">
-            <div class="panel-head row"><h3>반 관리</h3><button class="text-link" id="addDemoStudent">학생 추가</button></div>
-            <div id="classList"></div>
-          </section>
-          <section class="panel">
-            <div class="panel-head"><h3>과제 현황</h3></div>
-            <div id="assignmentList"></div>
-          </section>
-        </div>
-
-        <section class="panel submissions-panel">
-          <div class="panel-head row">
-            <h3>제출 답안 · 첨삭</h3>
-            <div class="submission-filters">
-              <button class="filter tiny active" data-submission-filter="all">전체</button>
-              <button class="filter tiny" data-submission-filter="pending">미첨삭</button>
-              <button class="filter tiny" data-submission-filter="done">첨삭완료</button>
-            </div>
-          </div>
-          <div id="submissionList"></div>
-        </section>
+    <section class="page" id="page-detail">
+      <div class="detail-shell">
+        <button class="back-link" id="detailBack">← 목록으로</button>
+        <article id="detailArticle"></article>
       </div>
     </section>
   </main>
 
-  <div class="modal-backdrop" id="assignmentModal" aria-hidden="true">
-    <div class="modal-card" role="dialog" aria-modal="true" aria-labelledby="assignmentModalTitle">
-      <div class="modal-head"><h3 id="assignmentModalTitle">새 과제 배정</h3><button class="modal-close" data-close-modal="assignmentModal">×</button></div>
-      <label class="field-label">반<select id="assignmentClass"></select></label>
-      <label class="field-label">콘텐츠<select id="assignmentLesson"></select></label>
-      <label class="field-label">마감일<input id="assignmentDue" type="date"></label>
-      <label class="field-label">교사 안내<textarea id="assignmentNote" rows="3" placeholder="예: 제시문의 근거를 최소 2개 활용하세요."></textarea></label>
-      <div class="modal-actions"><button class="btn ghost" data-close-modal="assignmentModal">취소</button><button class="btn primary" id="createAssignment">배정하기</button></div>
-    </div>
-  </div>
-
-  <div class="modal-backdrop" id="feedbackModal" aria-hidden="true">
-    <div class="modal-card wide" role="dialog" aria-modal="true" aria-labelledby="feedbackModalTitle">
-      <div class="modal-head"><h3 id="feedbackModalTitle">답안 첨삭</h3><button class="modal-close" data-close-modal="feedbackModal">×</button></div>
-      <div id="feedbackStudentMeta" class="feedback-meta"></div>
-      <div class="feedback-answer" id="feedbackAnswer"></div>
-      <div class="rubric-grid">
-        <label>논제 이해<select id="scoreThesis"><option>5</option><option>4</option><option>3</option><option>2</option><option>1</option></select></label>
-        <label>근거 활용<select id="scoreEvidence"><option>5</option><option>4</option><option>3</option><option>2</option><option>1</option></select></label>
-        <label>논리 구성<select id="scoreLogic"><option>5</option><option>4</option><option>3</option><option>2</option><option>1</option></select></label>
-        <label>표현<select id="scoreStyle"><option>5</option><option>4</option><option>3</option><option>2</option><option>1</option></select></label>
+  <div class="search-overlay" id="searchOverlay" aria-hidden="true">
+    <div class="search-panel">
+      <div class="search-top">
+        <input id="globalSearch" type="search" placeholder="책, 주제, 토론 논제, 글쓰기 방법 검색">
+        <button id="closeSearch">×</button>
       </div>
-      <label class="field-label">교사 총평<textarea id="teacherFeedback" rows="5" placeholder="잘한 점과 다음 수정 방향을 구체적으로 적어 주세요."></textarea></label>
-      <div class="modal-actions"><button class="btn ghost" data-close-modal="feedbackModal">닫기</button><button class="btn primary" id="saveFeedback">첨삭 저장</button></div>
+      <div id="searchResults"></div>
     </div>
   </div>
 
   <footer>
-    <div><strong>SOPHIE READING LAB</strong><span>독서 · 토론 · 논술 학습 플랫폼 1차 프로토타입</span></div>
-    <small>학습 기록은 현재 사용 중인 브라우저에 저장됩니다.</small>
+    <div>
+      <strong>SOPHIE READING LAB</strong>
+      <span>독서 · 토론 · 논술 교육 콘텐츠</span>
+    </div>
+    <small>읽기에서 생각으로, 생각에서 글로</small>
   </footer>
 
   <script src="./app.js"></script>
