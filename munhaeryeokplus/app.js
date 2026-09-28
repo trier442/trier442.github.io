@@ -39,6 +39,36 @@ const guides=[
   {id:"guide-vocab",type:"교육가이드",audience:"학생",title:"어휘 공부를 사전 뜻 암기로 끝내지 않는 법",summary:"단어의 의미를 문맥과 판단에 연결하는 방법.",body:["어휘를 많이 아는 것은 읽기에 도움이 되지만 사전적 정의만 암기하면 실제 글에서 뜻을 유연하게 적용하기 어렵다.","새 단어를 배울 때는 비슷한 말, 반대말, 자주 함께 쓰이는 표현, 실제 문장까지 함께 보아야 한다.","특히 논술 어휘는 그 단어가 어떤 판단 기준을 담고 있는지 살펴보면 좋다. ‘공정하다’, ‘효율적이다’, ‘정당하다’ 같은 말은 단순한 뜻보다 어떤 기준에서 그렇게 말하는지가 중요하다."],questions:["오늘 배운 단어를 자기 문장으로 써 보자.","같은 단어가 다른 문맥에서 어떻게 달라지는지 비교해 보자."]}
 ];
 
+const contentPaths={
+  "book-animalfarm": "/munhaeryeokplus/books/animal-farm/",
+  "book-demian": "/munhaeryeokplus/books/demian/",
+  "book-littleprince": "/munhaeryeokplus/books/little-prince/",
+  "book-justice": "/munhaeryeokplus/books/justice/",
+  "book-sapiens": "/munhaeryeokplus/books/sapiens/",
+  "book-giver": "/munhaeryeokplus/books/the-giver/",
+  "book-fahrenheit": "/munhaeryeokplus/books/fahrenheit-451/",
+  "book-wonder": "/munhaeryeokplus/books/wonder/",
+  "topic-critical-reading": "/munhaeryeokplus/topics/critical-reading/",
+  "topic-filterbubble": "/munhaeryeokplus/topics/filter-bubble/",
+  "topic-choice": "/munhaeryeokplus/topics/choice-and-happiness/",
+  "topic-ai-literacy": "/munhaeryeokplus/topics/ai-literacy/",
+  "topic-fairness": "/munhaeryeokplus/topics/fairness/",
+  "topic-media": "/munhaeryeokplus/topics/news-headlines/",
+  "debate-ai-writing": "/munhaeryeokplus/debate/ai-writing/",
+  "debate-schoolphone": "/munhaeryeokplus/debate/school-smartphone/",
+  "debate-uniform": "/munhaeryeokplus/debate/school-uniform/",
+  "debate-animal": "/munhaeryeokplus/debate/zoo/",
+  "writing-claim": "/munhaeryeokplus/writing/good-claim/",
+  "writing-evidence": "/munhaeryeokplus/writing/evidence/",
+  "writing-paragraph": "/munhaeryeokplus/writing/paragraph/",
+  "writing-counter": "/munhaeryeokplus/writing/counterargument/",
+  "guide-parent": "/munhaeryeokplus/guides/reading-questions/",
+  "guide-teacher": "/munhaeryeokplus/guides/debate-class/",
+  "guide-bookchoice": "/munhaeryeokplus/guides/book-selection/",
+  "guide-vocab": "/munhaeryeokplus/guides/vocabulary-study/"
+};
+function contentUrl(id){return contentPaths[id]||"/munhaeryeokplus/"}
+
 const allSearch=[...books.map(x=>({...x,type:"추천도서"})),...topics,...debates,...writing,...guides];
 let currentRoute="home",previousRoute="home",bookLevel="전체",topicCategory="전체";
 
@@ -61,7 +91,7 @@ function bindRoutes(){
   $$("[data-filter-level]").forEach(el=>el.onclick=()=>{bookLevel=el.dataset.filterLevel;route("books")});
 }
 function cardHtml(item){
-  return `<article class="content-card"><span class="card-kicker">${item.type||item.category}</span><h3>${item.title}</h3><p>${item.summary||item.desc}</p><div class="meta-row"><span class="tag">${item.level||item.audience||""}</span>${item.category?'<span class="tag">'+item.category+'</span>':""}</div><button class="text-link" data-open-content="${item.id}">읽어보기 →</button></article>`;
+  return `<article class="content-card"><span class="card-kicker">${item.type||item.category}</span><h3>${item.title}</h3><p>${item.summary||item.desc}</p><div class="meta-row"><span class="tag">${item.level||item.audience||""}</span>${item.category?'<span class="tag">'+item.category+'</span>':""}</div><a class="text-link" href="${contentUrl(item.id)}">읽어보기 →</a></article>`;
 }
 function renderFeatured(){
   $("#featuredContent").innerHTML=[topics[3],debates[0],writing[0]].map(cardHtml).join("");
@@ -71,7 +101,7 @@ function renderBooks(){
   $("#bookLevelFilters").innerHTML=["전체","초등","중등","고등"].map(x=>`<button class="chip ${bookLevel===x?"active":""}" data-book-level="${x}">${x}</button>`).join("");
   const q=($("#bookSearch")?.value||"").trim().toLowerCase();
   const arr=books.filter(b=>(bookLevel==="전체"||b.level===bookLevel)&&(!q||(b.title+" "+b.author+" "+b.category).toLowerCase().includes(q)));
-  $("#bookGrid").innerHTML=arr.length?arr.map(b=>`<article class="book-card"><div class="book-cover">${b.title}</div><span class="card-kicker">${b.level} · ${b.category}</span><h3>${b.title}</h3><p>${b.author} · ${b.desc}</p><button class="text-link" data-open-content="${b.id}">독서 질문 보기 →</button></article>`).join(""):'<div class="empty-state">조건에 맞는 책이 없습니다.</div>';
+  $("#bookGrid").innerHTML=arr.length?arr.map(b=>`<article class="book-card"><div class="book-cover">${b.title}</div><span class="card-kicker">${b.level} · ${b.category}</span><h3>${b.title}</h3><p>${b.author} · ${b.desc}</p><a class="text-link" href="${contentUrl(b.id)}">독서 질문 보기 →</a></article>`).join(""):'<div class="empty-state">조건에 맞는 책이 없습니다.</div>';
   $$("[data-book-level]").forEach(x=>x.onclick=()=>{bookLevel=x.dataset.bookLevel;renderBooks()});
   $("#bookSearch").oninput=renderBooks;bindContent();
 }
@@ -83,10 +113,10 @@ function renderTopics(){
   $$("[data-topic-cat]").forEach(x=>x.onclick=()=>{topicCategory=x.dataset.topicCat;renderTopics()});bindContent();
 }
 function renderDebates(){
-  $("#debateGrid").innerHTML=debates.map((d,i)=>`<article class="debate-card"><div class="debate-no">${String(i+1).padStart(2,"0")}</div><div><span class="card-kicker">${d.level}</span><h3>${d.title}</h3><p>${d.summary}</p></div><button class="btn ghost" data-open-content="${d.id}">쟁점 보기</button></article>`).join("");bindContent();
+  $("#debateGrid").innerHTML=debates.map((d,i)=>`<article class="debate-card"><div class="debate-no">${String(i+1).padStart(2,"0")}</div><div><span class="card-kicker">${d.level}</span><h3>${d.title}</h3><p>${d.summary}</p></div><a class="btn ghost" href="${contentUrl(d.id)}">쟁점 보기</a></article>`).join("");bindContent();
 }
 function renderWriting(){$("#writingGrid").innerHTML=writing.map(cardHtml).join("");bindContent()}
-function renderGuides(){$("#guideGrid").innerHTML=guides.map(g=>`<article class="guide-card"><span class="card-kicker">${g.audience}</span><h3>${g.title}</h3><p>${g.summary}</p><button class="text-link" data-open-content="${g.id}">자세히 보기 →</button></article>`).join("");bindContent()}
+function renderGuides(){$("#guideGrid").innerHTML=guides.map(g=>`<article class="guide-card"><span class="card-kicker">${g.audience}</span><h3>${g.title}</h3><p>${g.summary}</p><a class="text-link" href="${contentUrl(g.id)}">자세히 보기 →</a></article>`).join("");bindContent()}
 function findItem(id){return allSearch.find(x=>x.id===id)}
 function openDetail(id){
   const item=findItem(id);if(!item)return;
@@ -104,14 +134,14 @@ function openDetail(id){
   </div>`;
   window.scrollTo({top:0,behavior:"smooth"});
 }
-function bindContent(){$("[data-open-content]").forEach(x=>x.onclick=()=>{closeSearch();openDetail(x.dataset.openContent)})}
+function bindContent(){}
 function openSearch(){$("#searchOverlay").classList.add("open");$("#searchOverlay").setAttribute("aria-hidden","false");$("#globalSearch").value="";$("#searchResults").innerHTML='<div class="empty-state">책 제목, 개념, 논제, 글쓰기 방법을 검색해 보세요.</div>';setTimeout(()=>$("#globalSearch").focus(),50)}
 function closeSearch(){$("#searchOverlay").classList.remove("open");$("#searchOverlay").setAttribute("aria-hidden","true")}
 function runSearch(){
   const q=$("#globalSearch").value.trim().toLowerCase();
   if(!q){$("#searchResults").innerHTML='<div class="empty-state">검색어를 입력해 주세요.</div>';return}
   const arr=allSearch.filter(x=>JSON.stringify(x).toLowerCase().includes(q)).slice(0,12);
-  $("#searchResults").innerHTML=arr.length?arr.map(x=>`<div class="search-result" data-open-content="${x.id}"><span>${x.type||"추천도서"}</span><b>${x.title}</b><small>${x.summary||x.desc||""}</small></div>`).join(""):'<div class="empty-state">검색 결과가 없습니다.</div>';
+  $("#searchResults").innerHTML=arr.length?arr.map(x=>`<a class="search-result" href="${contentUrl(x.id)}"><span>${x.type||"추천도서"}</span><b>${x.title}</b><small>${x.summary||x.desc||""}</small></div>`).join(""):'<div class="empty-state">검색 결과가 없습니다.</div>';
   bindContent();
 }
 $("#openSearch").onclick=openSearch;$("#closeSearch").onclick=closeSearch;$("#globalSearch").oninput=runSearch;$("#searchOverlay").onclick=e=>{if(e.target.id==="searchOverlay")closeSearch()};
