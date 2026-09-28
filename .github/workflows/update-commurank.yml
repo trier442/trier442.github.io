@@ -7,20 +7,23 @@ on:
     paths:
       - "commurank/scripts/**"
       - ".github/workflows/update-commurank.yml"
+  # GitHub scheduled jobs can be delayed or occasionally skipped.
+  # Run four times per hour, away from the top of the hour, to keep
+  # the ranking fresh even when an individual schedule event is dropped.
   schedule:
-    - cron: "17,47 * * * *"
+    - cron: "7,22,37,52 * * * *"
 
 permissions:
   contents: write
 
 concurrency:
   group: commurank-data
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   collect:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 8
 
     steps:
       - name: Checkout
