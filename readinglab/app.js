@@ -75,6 +75,111 @@ function setLessonState(id,patch){const s=loadState();s.lessons[id]={...getLesso
 function markDone(id,step){const ls=getLessonState(id);if(!ls.done.includes(step)) setLessonState(id,{done:[...ls.done,step]})}
 function percent(id){return Math.round(getLessonState(id).done.length/steps.length*100)}
 
+
+const adminStateKey="sophieReadingLabAdminState";
+let submissionFilter="all";
+let activeSubmissionId=null;
+
+function seedAdminState(){
+  return {
+    role:"student",
+    classes:[
+      {id:"class-a",name:"중3 독서논술 A",students:[{id:"s1",name:"김민서"},{id:"s2",name:"박서준"},{id:"s3",name:"이하은"},{id:"s4",name:"최도윤"}]},
+      {id:"class-b",name:"고1 심화독서 B",students:[{id:"s5",name:"윤지우"},{id:"s6",name:"정현우"},{id:"s7",name:"한서연"}]}
+    ],
+    assignments:[
+      {id:"a1",classId:"class-a",lessonId:"ai-literacy",due:"2026-10-02",note:"제시문의 핵심 근거를 2개 이상 활용하세요."},
+      {id:"a2",classId:"class-b",lessonId:"fair-algorithm",due:"2026-10-05",note:"공정성의 기준을 자신의 말로 정의해 보세요."}
+    ],
+    submissions:[
+      {id:"sub1",studentId:"s1",studentName:"김민서",classId:"class-a",assignmentId:"a1",lessonId:"ai-literacy",submittedAt:"2026-09-28 18:40",status:"pending",answer:"AI가 정보를 빠르게 요약해 주더라도 깊이 읽기는 필요하다. 요약은 핵심을 압축해 주지만 그 근거가 충분한지, 빠진 관점은 없는지까지 대신 판단해 주지는 못하기 때문이다. 학교에서는 AI 요약문과 원문을 함께 비교하며 누락된 내용과 근거의 타당성을 찾는 활동을 할 수 있다."},
+      {id:"sub2",studentId:"s2",studentName:"박서준",classId:"class-a",assignmentId:"a1",lessonId:"ai-literacy",submittedAt:"2026-09-28 17:12",status:"done",answer:"AI 시대에는 정보를 얻는 속도보다 정보를 판단하는 능력이 중요하다. 따라서 읽기 교육은 내용을 외우는 데 그치지 않고 근거와 결론의 관계를 검토하도록 해야 한다.",scores:{thesis:4,evidence:4,logic:4,style:5},feedback:"중심 주장은 분명합니다. 다음 수정에서는 제시문의 구체적인 표현을 근거로 한 번 더 연결해 보세요."},
+      {id:"sub3",studentId:"s5",studentName:"윤지우",classId:"class-b",assignmentId:"a2",lessonId:"fair-algorithm",submittedAt:"2026-09-28 19:05",status:"pending",answer:"알고리즘은 계산 자체는 일관되게 할 수 있지만 학습 데이터와 목표는 사람이 정한다. 과거의 편향이 데이터에 들어 있다면 알고리즘은 그 편향을 반복할 수 있다. 그러므로 공정성을 위해서는 결과가 특정 집단에 지속적으로 불리하게 작용하는지도 함께 검토해야 한다."}
+    ]
+  };
+}
+function loadAdminState(){try{return JSON.parse(localStorage.getItem(adminStateKey))||seedAdminState()}catch{return seedAdminState()}}
+function saveAdminState(s){localStorage.setItem(adminStateKey,JSON.stringify(s))}
+function updateAdmin(mutator){const s=loadAdminState();mutator(s);saveAdminState(s);renderTeacher();renderStudentAssignments()}
+function getClassName(id){return loadAdminState().classes.find(c=>c.id===id)?.name||"미지정 반"}
+function getLessonTitle(id){return lessons.find(l=>l.id===id)?.title||id}
+function showToast(message){const el=document.createElement("div");el.className="toast";el.textContent=message;document.body.appendChild(el);setTimeout(()=>el.remove(),1800)}
+
+function setRole(role){
+  const s=loadAdminState();s.role=role;saveAdminState(s);
+  document.body.classList.toggle("teacher-mode",role==="teacher");
+  $("#roleSwitch").textContent=role==="teacher"?"학생 모드":"교사 모드";
+  $(".profile-copy b").textContent=role==="teacher"?"선생님":"학습자";
+  $(".profile-button").dataset.route=role==="teacher"?"teacher":"progress";
+  bindRouteButtons();
+  if(role==="teacher") route("teacher"); else route("home");
+}
+function renderStudentAssignments(){
+  const box=$("#studentAssignments"); if(!box)return;
+  const s=loadAdminState();
+  const assignment=s.assignments[0];
+  if(!assignment){box.innerHTML='<div class="empty-state">배정된 과제가 없습니다.</div>';return}
+  const lesson=lessons.find(l=>l.id===assignment.lessonId);
+  box.innerHTML=`<div class="assignment-strip">
+    <div><span class="pill">배정 과제</span><h3>${lesson.title}</h3><p>${assignment.note||"제시문을 읽고 논술까지 완료하세요."}</p></div>
+    <div class="due"><b>마감</b><br>${assignment.due}</div>
+    <button class="btn ghost small" data-open-lesson="${lesson.id}">과제 시작</button>
+  </div>`;
+  bindLessonButtons();
+}
+function renderTeacher(){
+  if(!$("#page-teacher"))return;
+  const s=loadAdminState();
+  const studentCount=s.classes.reduce((n,c)=>n+c.students.length,0);
+  $("#teacherStudents").textContent=studentCount;
+  $("#teacherAssignments").textContent=s.assignments.length;
+  $("#teacherPending").textContent=s.submissions.filter(x=>x.status==="pending").length;
+  $("#classList").innerHTML=s.classes.map(c=>`<div class="class-card"><h4>${c.name}</h4><p>${c.students.length}명 · 진행 과제 ${s.assignments.filter(a=>a.classId===c.id).length}개</p><div class="student-chips">${c.students.map(st=>`<span class="student-chip">${st.name}</span>`).join("")}</div></div>`).join("");
+  $("#assignmentList").innerHTML=s.assignments.length?s.assignments.map(a=>`<div class="assignment-row">
+    <div><div class="cell-title">${getLessonTitle(a.lessonId)}</div><div class="cell-sub">${a.note||""}</div></div>
+    <div><div class="cell-title">${getClassName(a.classId)}</div><div class="cell-sub">${s.classes.find(c=>c.id===a.classId)?.students.length||0}명</div></div>
+    <div><span class="status open">${a.due}</span></div>
+    <button class="text-link" data-delete-assignment="${a.id}">삭제</button>
+  </div>`).join(""):'<div class="empty-state">배정된 과제가 없습니다.</div>';
+  const submissions=s.submissions.filter(x=>submissionFilter==="all"||x.status===submissionFilter);
+  $("#submissionList").innerHTML=submissions.length?submissions.map(x=>`<div class="submission-row">
+    <div><div class="cell-title">${x.studentName}</div><div class="cell-sub">${getClassName(x.classId)}</div></div>
+    <div><div class="cell-title">${getLessonTitle(x.lessonId)}</div><div class="cell-sub">${x.answer.slice(0,54)}…</div></div>
+    <div><span class="status ${x.status}">${x.status==="done"?"첨삭완료":"미첨삭"}</span></div>
+    <div class="cell-sub">${x.submittedAt}</div>
+    <button class="btn ghost small" data-feedback="${x.id}">${x.status==="done"?"첨삭 보기":"첨삭하기"}</button>
+  </div>`).join(""):'<div class="empty-state">해당 답안이 없습니다.</div>';
+  bindTeacherActions();
+}
+function bindTeacherActions(){
+  $("[data-delete-assignment]").forEach(b=>b.onclick=()=>updateAdmin(s=>{s.assignments=s.assignments.filter(a=>a.id!==b.dataset.deleteAssignment)}));
+  $("[data-feedback]").forEach(b=>b.onclick=()=>openFeedback(b.dataset.feedback));
+}
+function openModal(id){$("#"+id)?.classList.add("open");$("#"+id)?.setAttribute("aria-hidden","false")}
+function closeModal(id){$("#"+id)?.classList.remove("open");$("#"+id)?.setAttribute("aria-hidden","true")}
+function populateAssignmentModal(){
+  const s=loadAdminState();
+  $("#assignmentClass").innerHTML=s.classes.map(c=>`<option value="${c.id}">${c.name}</option>`).join("");
+  $("#assignmentLesson").innerHTML=lessons.map(l=>`<option value="${l.id}">${l.title}</option>`).join("");
+  const d=new Date();d.setDate(d.getDate()+7);$("#assignmentDue").value=d.toISOString().slice(0,10);
+  $("#assignmentNote").value="";
+}
+function openFeedback(id){
+  const s=loadAdminState(), sub=s.submissions.find(x=>x.id===id); if(!sub)return;
+  activeSubmissionId=id;
+  $("#feedbackStudentMeta").innerHTML=`<b>${sub.studentName}</b> · ${getClassName(sub.classId)} · ${getLessonTitle(sub.lessonId)} · 제출 ${sub.submittedAt}`;
+  $("#feedbackAnswer").textContent=sub.answer;
+  const scores=sub.scores||{thesis:5,evidence:5,logic:5,style:5};
+  $("#scoreThesis").value=scores.thesis;$("#scoreEvidence").value=scores.evidence;$("#scoreLogic").value=scores.logic;$("#scoreStyle").value=scores.style;
+  $("#teacherFeedback").value=sub.feedback||"";
+  openModal("feedbackModal");
+}
+function saveCurrentFeedback(){
+  const feedback=$("#teacherFeedback").value.trim();
+  updateAdmin(s=>{const sub=s.submissions.find(x=>x.id===activeSubmissionId);if(!sub)return;sub.status="done";sub.feedback=feedback;sub.scores={thesis:+$("#scoreThesis").value,evidence:+$("#scoreEvidence").value,logic:+$("#scoreLogic").value,style:+$("#scoreStyle").value}});
+  closeModal("feedbackModal");showToast("첨삭이 저장되었습니다.");
+}
+
 function route(name){
   $$(".page").forEach(p=>p.classList.remove("active"));
   $("#page-"+name)?.classList.add("active");
@@ -82,6 +187,7 @@ function route(name){
   if(name==="library") renderLibrary();
   if(name==="writing") renderWritingHub();
   if(name==="progress") renderProgress();
+  if(name==="teacher") renderTeacher();
   window.scrollTo({top:0,behavior:"smooth"});
 }
 function cardHTML(l){
@@ -193,4 +299,24 @@ function refreshStats(){
 }
 function bindRouteButtons(){$$("[data-route]").forEach(b=>b.onclick=()=>route(b.dataset.route))}
 $$(".filter").forEach(b=>b.onclick=()=>{$$(".filter").forEach(x=>x.classList.remove("active"));b.classList.add("active");currentFilter=b.dataset.filter;renderLibrary()});
-bindRouteButtons();renderCards();bindLessonButtons();refreshStats();
+bindRouteButtons();renderCards();bindLessonButtons();refreshStats();renderStudentAssignments();
+const initialAdminState=loadAdminState();
+document.body.classList.toggle("teacher-mode",initialAdminState.role==="teacher");
+$("#roleSwitch").textContent=initialAdminState.role==="teacher"?"학생 모드":"교사 모드";
+$(".profile-copy b").textContent=initialAdminState.role==="teacher"?"선생님":"학습자";
+$(".profile-button").dataset.route=initialAdminState.role==="teacher"?"teacher":"progress";
+bindRouteButtons();
+$("#roleSwitch").onclick=()=>setRole(loadAdminState().role==="teacher"?"student":"teacher");
+$("#openAssignmentModal").onclick=()=>{populateAssignmentModal();openModal("assignmentModal")};
+$("[data-close-modal]").forEach(b=>b.onclick=()=>closeModal(b.dataset.closeModal));
+$(".modal-backdrop").forEach(m=>m.addEventListener("click",e=>{if(e.target===m)closeModal(m.id)}));
+$("#createAssignment").onclick=()=>{
+  const classId=$("#assignmentClass").value, lessonId=$("#assignmentLesson").value, due=$("#assignmentDue").value, note=$("#assignmentNote").value.trim();
+  updateAdmin(s=>s.assignments.unshift({id:"a"+Date.now(),classId,lessonId,due,note}));
+  closeModal("assignmentModal");showToast("과제가 배정되었습니다.");
+};
+$("#saveFeedback").onclick=saveCurrentFeedback;
+$("#addDemoStudent").onclick=()=>updateAdmin(s=>{const c=s.classes[0];c.students.push({id:"s"+Date.now(),name:"신규학생"+(c.students.length+1)})});
+$("[data-submission-filter]").forEach(b=>b.onclick=()=>{submissionFilter=b.dataset.submissionFilter;$("[data-submission-filter]").forEach(x=>x.classList.toggle("active",x===b));renderTeacher()});
+if(initialAdminState.role==="teacher") route("teacher");
+
