@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="문해력플러스는 읽기에서 생각과 표현까지 확장하는 독서·토론·논술 교육 사이트입니다. 추천도서, 주제읽기, 토론논제, 논술쓰기, 교육가이드를 제공합니다." />
+  <meta property="og:title" content="문해력플러스 | 읽기에서 생각과 표현까지" />
+  <meta property="og:description" content="읽는 힘에 생각하는 힘과 표현하는 힘을 더합니다." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://trier442.github.io/munhaeryeokplus/" />
+  <link rel="canonical" href="https://trier442.github.io/munhaeryeokplus/" />
+  <title>문해력플러스 | 읽기에서 생각과 표현까지</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <button class="brand" data-route="home" aria-label="홈으로">
+        <span class="brand-mark">M+</span>
+        <span class="brand-copy">
+          <strong>문해력플러스</strong>
+          <small>LITERACY PLUS · 읽기에서 생각과 글쓰기까지</small>
+        </span>
+      </button>
+      <nav class="main-nav" aria-label="주요 메뉴">
+        <button class="nav-link active" data-route="home">홈</button>
+        <button class="nav-link" data-route="books">추천도서</button>
+        <button class="nav-link" data-route="topics">주제읽기</button>
+        <button class="nav-link" data-route="debate">토론논제</button>
+        <button class="nav-link" data-route="writing">논술쓰기</button>
+        <button class="nav-link" data-route="guides">교육가이드</button>
+      </nav>
+      <button class="search-button" id="openSearch">⌕</button>
+    </div>
+  </header>
+
+  <main>
+    <section class="page active" id="page-home">
+      <section class="hero">
+        <div class="hero-copy">
+          <span class="eyebrow">LITERACY PLUS · READ · THINK · WRITE</span>
+          <h1>읽는 힘에<br><em>생각과 표현을 더합니다.</em></h1>
+          <p>문해력은 글자를 읽는 능력에서 끝나지 않습니다. 문해력플러스는 <b>이해 → 질문 → 판단 → 토론 → 글쓰기</b>로 이어지는 힘을 기르는 독서논술 교육 콘텐츠를 만듭니다.</p>
+          <div class="hero-actions">
+            <button class="btn primary" data-route="topics">문해력 공부 시작</button>
+            <button class="btn ghost" data-route="books">추천도서 둘러보기</button>
+          </div>
+        </div>
+        <div class="hero-visual">
+          <div class="book-stack">
+            <div class="book one"><span>읽기</span></div>
+            <div class="book two"><span>질문</span></div>
+            <div class="book three"><span>토론</span></div>
+            <div class="book four"><span>쓰기</span></div>
+          </div>
+          <div class="quote-card"><span class="plus-badge">문해력 +</span><br>읽었다면 이제<br><b>질문하고, 판단하고,<br>자기 언어로 표현합니다.</b></div>
+        </div>
+      </section>
+
+      <section class="plus-definition">
+        <div class="plus-definition-inner">
+          <div class="plus-intro">
+            <span class="eyebrow">WHAT IS LITERACY PLUS?</span>
+            <h2>문해력에 무엇을 더해야 할까요?</h2>
+            <p>문해력플러스는 단순 독해를 넘어 실제 사고와 표현으로 이어지는 네 가지 힘을 함께 다룹니다.</p>
+          </div>
+          <div class="plus-cards">
+            <article><span>01</span><b>이해력 +</b><p>핵심 내용과 글의 구조를 정확하게 파악합니다.</p></article>
+            <article><span>02</span><b>질문력 +</b><p>당연해 보이는 내용에 질문을 던지고 빠진 관점을 찾습니다.</p></article>
+            <article><span>03</span><b>판단력 +</b><p>주장과 근거를 비교하며 자신의 기준을 세웁니다.</p></article>
+            <article><span>04</span><b>표현력 +</b><p>생각을 토론과 글쓰기에서 논리적으로 설명합니다.</p></article>
+          </div>
+        </div>
+      </section>
+
+      <section class="section-wrap">
+        <div class="section-head">
+          <div><span class="eyebrow">오늘의 콘텐츠</span><h2>지금 읽어볼 만한 글</h2></div>
+          <button class="text-link" data-route="topics">전체 보기 →</button>
+        </div>
+        <div class="feature-grid" id="featuredContent"></div>
+      </section>
+
+      <section class="section-wrap soft">
+        <div class="section-head">
+          <div><span class="eyebrow">학습 영역</span><h2>독서논술을 이렇게 공부합니다.</h2></div>
+        </div>
+        <div class="pillar-grid">
+          <article data-route="books"><span>01</span><div class="pillar-icon">▤</div><h3>책 읽기</h3><p>학년과 관심 분야에 맞는 책을 고르고, 읽기 전·중·후 질문으로 깊이 읽습니다.</p></article>
+          <article data-route="topics"><span>02</span><div class="pillar-icon">◎</div><h3>배경지식</h3><p>인문·사회·과학·경제·역사 주제를 짧고 정확하게 이해합니다.</p></article>
+          <article data-route="debate"><span>03</span><div class="pillar-icon">↔</div><h3>토론</h3><p>찬성과 반대를 나누는 데 그치지 않고 쟁점과 기준을 찾아봅니다.</p></article>
+          <article data-route="writing"><span>04</span><div class="pillar-icon">✎</div><h3>논술</h3><p>주장·근거·반론·재반론을 구조화하여 자기 생각을 글로 표현합니다.</p></article>
+        </div>
+      </section>
+
+      <section class="section-wrap">
+        <div class="split-feature">
+          <div>
+            <span class="eyebrow">이번 주 토론 질문</span>
+            <h2>AI가 쓴 글도<br>‘나의 글’이라고 할 수 있을까?</h2>
+            <p>도구의 도움과 저자의 책임은 어디에서 나뉘는지 생각해 봅니다.</p>
+            <button class="btn primary" data-open-content="debate-ai-writing">쟁점 살펴보기</button>
+          </div>
+          <div class="issue-card">
+            <span class="issue-label">생각의 출발점</span>
+            <p>“글의 문장을 AI가 만들었더라도 어떤 내용을 선택하고 수정할지 사람이 결정했다면, 그 글의 저자는 누구일까?”</p>
+            <div class="issue-tags"><span>#AI</span><span>#저자성</span><span>#교육</span><span>#윤리</span></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section-wrap soft">
+        <div class="section-head">
+          <div><span class="eyebrow">연령별 추천</span><h2>수준에 맞게 시작하세요.</h2></div>
+        </div>
+        <div class="level-grid">
+          <article><span class="level">초등 고학년</span><h3>질문하는 독서</h3><p>줄거리 확인을 넘어 인물의 선택과 사건의 원인을 설명하는 연습</p><button class="text-link" data-filter-level="초등">콘텐츠 보기 →</button></article>
+          <article><span class="level">중학생</span><h3>관점 비교와 토론</h3><p>한 주제를 여러 관점에서 읽고 자신의 판단 기준을 세우는 연습</p><button class="text-link" data-filter-level="중등">콘텐츠 보기 →</button></article>
+          <article><span class="level">고등학생</span><h3>논증적 읽기와 쓰기</h3><p>제시문의 논리를 분석하고 근거를 재구성하여 논술하는 연습</p><button class="text-link" data-filter-level="고등">콘텐츠 보기 →</button></article>
+        </div>
+      </section>
+    </section>
+
+    <section class="page" id="page-books">
+      <div class="page-banner">
+        <span class="eyebrow">추천도서</span>
+        <h1>읽고 나서 질문이 남는 책</h1>
+        <p>단순 권장도서 목록이 아니라, 책마다 함께 생각할 질문과 토론 주제를 제공합니다.</p>
+      </div>
+      <div class="section-wrap">
+        <div class="toolbar">
+          <div class="chips" id="bookLevelFilters"></div>
+          <div class="search-inline"><input id="bookSearch" type="search" placeholder="책 제목·주제로 찾기"><span>⌕</span></div>
+        </div>
+        <div class="book-grid" id="bookGrid"></div>
+      </div>
+    </section>
+
+    <section class="page" id="page-topics">
+      <div class="page-banner">
+        <span class="eyebrow">주제읽기</span>
+        <h1>세상을 이해하는 배경지식</h1>
+        <p>독서와 논술에 자주 등장하는 핵심 개념을 짧은 글과 질문으로 공부합니다.</p>
+      </div>
+      <div class="section-wrap">
+        <div class="category-tabs" id="topicTabs"></div>
+        <div class="content-grid" id="topicGrid"></div>
+      </div>
+    </section>
+
+    <section class="page" id="page-debate">
+      <div class="page-banner">
+        <span class="eyebrow">토론논제</span>
+        <h1>찬반보다 먼저, 쟁점을 찾습니다.</h1>
+        <p>하나의 문제를 여러 관점에서 보고 무엇을 기준으로 판단해야 하는지 훈련합니다.</p>
+      </div>
+      <div class="section-wrap">
+        <div class="debate-list" id="debateGrid"></div>
+      </div>
+    </section>
+
+    <section class="page" id="page-writing">
+      <div class="page-banner">
+        <span class="eyebrow">논술쓰기</span>
+        <h1>생각을 구조화하면 글이 달라집니다.</h1>
+        <p>주장, 근거, 예시, 반론, 결론을 단계적으로 연습합니다.</p>
+      </div>
+      <div class="section-wrap">
+        <div class="writing-roadmap">
+          <article><span>STEP 1</span><h3>논제 분석</h3><p>무엇을 묻는지, 어떤 조건이 붙어 있는지 정확히 나눕니다.</p></article>
+          <article><span>STEP 2</span><h3>입장 정리</h3><p>찬반을 먼저 고르기보다 판단 기준을 세웁니다.</p></article>
+          <article><span>STEP 3</span><h3>근거 설계</h3><p>사실·사례·원리 가운데 주장에 가장 적합한 근거를 선택합니다.</p></article>
+          <article><span>STEP 4</span><h3>문단 구성</h3><p>한 문단에 하나의 역할을 부여해 글의 흐름을 만듭니다.</p></article>
+          <article><span>STEP 5</span><h3>퇴고</h3><p>주장과 근거의 연결, 중복 표현, 불필요한 문장을 점검합니다.</p></article>
+        </div>
+        <div class="section-head writing-head">
+          <div><span class="eyebrow">글쓰기 강의</span><h2>논술의 기본부터 차근차근</h2></div>
+        </div>
+        <div class="content-grid" id="writingGrid"></div>
+      </div>
+    </section>
+
+    <section class="page" id="page-guides">
+      <div class="page-banner">
+        <span class="eyebrow">교육가이드</span>
+        <h1>학생·학부모·교사를 위한 독서논술 안내</h1>
+        <p>책 선정, 질문 만들기, 토론 진행, 글쓰기 지도 방법을 실제 수업에 활용할 수 있게 정리합니다.</p>
+      </div>
+      <div class="section-wrap">
+        <div class="guide-grid" id="guideGrid"></div>
+      </div>
+    </section>
+
+    <section class="page" id="page-detail">
+      <div class="detail-shell">
+        <button class="back-link" id="detailBack">← 목록으로</button>
+        <article id="detailArticle"></article>
+      </div>
+    </section>
+  </main>
+
+  <div class="search-overlay" id="searchOverlay" aria-hidden="true">
+    <div class="search-panel">
+      <div class="search-top">
+        <input id="globalSearch" type="search" placeholder="책, 주제, 토론 논제, 글쓰기 방법 검색">
+        <button id="closeSearch">×</button>
+      </div>
+      <div id="searchResults"></div>
+    </div>
+  </div>
+
+  <footer>
+    <div>
+      <strong>문해력플러스</strong>
+      <span>읽는 힘 + 생각하는 힘 + 표현하는 힘</span>
+    </div>
+    <small>읽기에서 생각으로, 생각에서 글로</small>
+  </footer>
+
+  <script src="./app.js"></script>
+</body>
+</html>
