@@ -2,6 +2,10 @@ name: Commurank freshness watchdog
 
 on:
   workflow_dispatch:
+  push:
+    branches: ["main"]
+    paths:
+      - ".github/workflows/commurank-watchdog.yml"
   schedule:
     # Runs seven minutes after the primary collector slots.
     # If the latest dataset is older than 20 minutes, recover it.
