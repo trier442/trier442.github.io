@@ -3,7 +3,7 @@
   "period": "monthly",
   "key": "2026-09",
   "label": "2026년 09월",
-  "collected_at": "2026-09-28T13:04:57.705093+09:00",
+  "collected_at": "2026-09-28T19:49:36.308484+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -253,7 +253,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 6,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i74cea219",
@@ -310,7 +310,7 @@
       "latest_source_count": 3,
       "latest_post_count": 4,
       "rank": 7,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i23a285e5",
@@ -348,7 +348,45 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 8,
-      "change": -1
+      "change": 0
+    },
+    {
+      "id": "ibcbce939",
+      "title": "‘않습니다’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "않습니다"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 101.02,
+      "peak_score": 91.55,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 5,
+          "title": "암살자들 \"보지 않습니다, 예매하지 않습니다\" 불매 움직임까지..news",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=movie&no=91665",
+          "score": 82.55
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 62,
+          "title": "“우리는 안전과 타협하지 않습니다”",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466447&_dcbest=1&page=1",
+          "score": 59.35
+        }
+      ],
+      "first_seen": "2026-09-28T19:49:36.308484+09:00",
+      "last_seen": "2026-09-28T19:49:36.308484+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 9,
+      "change": "NEW"
     },
     {
       "id": "i707041a3",
@@ -386,7 +424,7 @@
       "last_seen": "2026-09-27T23:49:45.340258+09:00",
       "latest_source_count": 2,
       "latest_post_count": 4,
-      "rank": 9,
+      "rank": 10,
       "change": -1
     },
     {
@@ -424,7 +462,7 @@
       "last_seen": "2026-09-27T20:23:34.525151+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 10,
+      "rank": 11,
       "change": -1
     },
     {
@@ -462,8 +500,48 @@
       "last_seen": "2026-09-27T18:50:26.658953+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 11,
+      "rank": 12,
       "change": -1
+    },
+    {
+      "id": "i78f6419e",
+      "title": "‘암살자’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "암살자"
+      ],
+      "source_count": 2,
+      "post_count": 4,
+      "score": 99.54,
+      "peak_score": 84.61,
+      "appearances": 3,
+      "sources": [
+        "디시인사이드",
+        "루리웹",
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 14,
+          "title": "[영화 암살자(들)의 허구성에 대한 박정희대통령기념재단의 입장]",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466458&_dcbest=1&page=1",
+          "score": 73.61
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 46,
+          "title": "속보) 국민의힘, 암살자(들)규탄 긴급 기자회견 ㅋㅋ",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10133618",
+          "score": 62.48
+        }
+      ],
+      "first_seen": "2026-09-27T20:23:34.525151+09:00",
+      "last_seen": "2026-09-28T19:49:36.308484+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 4,
+      "rank": 13,
+      "change": 1
     },
     {
       "id": "ia0fd1514",
@@ -502,8 +580,8 @@
       "last_seen": "2026-09-28T13:04:57.705093+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 12,
-      "change": 0
+      "rank": 14,
+      "change": -2
     },
     {
       "id": "i106465f0",
@@ -542,48 +620,8 @@
       "last_seen": "2026-09-27T18:45:04.136110+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 13,
+      "rank": 15,
       "change": -2
-    },
-    {
-      "id": "i78f6419e",
-      "title": "‘암살자’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "암살자"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 95.66,
-      "peak_score": 84.17,
-      "appearances": 2,
-      "sources": [
-        "디시인사이드",
-        "루리웹",
-        "뽐뿌",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 79,
-          "title": "화학교사 암살자",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/76832234?m=humor_only&t=now",
-          "score": 56.72
-        },
-        {
-          "source": "인벤",
-          "rank": 82,
-          "title": "[속보] 한동훈, 암살자(들) 논란에 \"영화가 역사 왜곡해서 돈 벌면 비판 타당\"",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2733457",
-          "score": 55.1
-        }
-      ],
-      "first_seen": "2026-09-27T20:23:34.525151+09:00",
-      "last_seen": "2026-09-28T13:04:57.705093+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 14,
-      "change": -1
     },
     {
       "id": "i5d6688ff",
@@ -620,7 +658,7 @@
       "last_seen": "2026-09-28T07:08:45.324597+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 15,
+      "rank": 16,
       "change": -1
     },
     {
@@ -658,8 +696,46 @@
       "last_seen": "2026-09-28T09:44:07.013724+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 16,
+      "rank": 17,
       "change": -1
+    },
+    {
+      "id": "ibb35f05f",
+      "title": "‘어떻게’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "어떻게"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 90.95,
+      "peak_score": 81.48,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 16,
+          "title": "대학생이 일반 화학 과외 선생님을 구한다는데 어떻게 생각하시나요?",
+          "url": "https://www.clien.net/service/board/park/19270865?od=T31&po=0&category=0&groupCd=",
+          "score": 72.48
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 37,
+          "title": "의식없는 직원 퇴사처리는 어떻게 하나요?",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10133583",
+          "score": 65.43
+        }
+      ],
+      "first_seen": "2026-09-28T19:49:36.308484+09:00",
+      "last_seen": "2026-09-28T19:49:36.308484+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 18,
+      "change": "NEW"
     },
     {
       "id": "i8b4085e0",
@@ -698,8 +774,8 @@
       "last_seen": "2026-09-28T13:04:57.705093+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 17,
-      "change": 0
+      "rank": 19,
+      "change": -2
     },
     {
       "id": "iceb75541",
@@ -738,82 +814,6 @@
       ],
       "first_seen": "2026-09-28T09:44:07.013724+09:00",
       "last_seen": "2026-09-28T09:44:07.013724+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 18,
-      "change": -2
-    },
-    {
-      "id": "i1adf40a5",
-      "title": "‘지지율’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "지지율"
-      ],
-      "source_count": 2,
-      "post_count": 4,
-      "score": 90.13,
-      "peak_score": 78.66,
-      "appearances": 1,
-      "sources": [
-        "뽐뿌",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 30,
-          "title": "뉴스토마토 대통령 지지율 36.5% 또 최저..58% \"유시민, 건전한 비평\"",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10133154",
-          "score": 67.66
-        },
-        {
-          "source": "클리앙",
-          "rank": 31,
-          "title": "국힘 54.3%-민주 20.9%… 20대 지지율 격차 갈수록 확대",
-          "url": "https://www.clien.net/service/board/park/19270648?od=T31&po=0&category=0&groupCd=",
-          "score": 67.17
-        }
-      ],
-      "first_seen": "2026-09-28T13:04:57.705093+09:00",
-      "last_seen": "2026-09-28T13:04:57.705093+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 4,
-      "rank": 19,
-      "change": "NEW"
-    },
-    {
-      "id": "i7f48cc7a",
-      "title": "‘반도체’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "반도체"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 88.99,
-      "peak_score": 74.03,
-      "appearances": 5,
-      "sources": [
-        "디시인사이드",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 83,
-          "title": "반도체 호황에 초과세수 50조…기금 200조 넘나",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466226&_dcbest=1&page=1",
-          "score": 54.25
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 96,
-          "title": "미국 중간선거 결과에 따라 반도체 주가 변화 예상",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=438374",
-          "score": 52.1
-        }
-      ],
-      "first_seen": "2026-09-27T18:31:46.541305+09:00",
-      "last_seen": "2026-09-27T18:50:26.658953+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 20,
