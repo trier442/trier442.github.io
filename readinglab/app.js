@@ -1,322 +1,120 @@
-const lessons = [
-  {
-    id:"ai-literacy", category:"사회", icon:"✦", level:"중3~고2", time:"25분", difficulty:"보통",
-    title:"AI 시대에도 깊이 읽어야 하는 이유",
-    intro:"빠르게 답을 얻을 수 있는 시대에, 읽기는 어떤 역할을 해야 할까요?",
-    passage:[
-      "생성형 인공지능은 질문에 대한 답을 빠르게 정리해 준다. 필요한 정보를 찾고 여러 자료를 요약하는 시간도 크게 줄여 준다. 그래서 사람들은 이전보다 더 많은 정보를 짧은 시간에 접할 수 있게 되었다. 그러나 정보에 접근하는 속도가 빨라졌다고 해서 생각의 깊이까지 자동으로 깊어지는 것은 아니다.",
-      "읽기는 단순히 문장을 눈으로 확인하는 행위가 아니다. 글쓴이가 어떤 전제를 두고 있는지, 제시한 근거가 결론을 충분히 뒷받침하는지, 빠진 관점은 없는지를 점검하는 과정이다. 이러한 과정에는 시간이 필요하다. 특히 서로 충돌하는 주장들을 비교할 때에는 내용을 잠시 멈춰 세우고 자신의 언어로 다시 구성해 보아야 한다.",
-      "AI가 만든 요약은 출발점이 될 수 있지만 최종 판단을 대신할 수는 없다. <span class='focus-line'>요약이 생각의 시간을 줄여 주는 도구라면, 깊이 읽기는 그 절약한 시간을 판단에 다시 투자하는 활동</span>이라고 볼 수 있다. 따라서 AI 시대의 읽기 교육은 더 많은 정보를 외우게 하는 데 집중하기보다, 정보를 검토하고 질문하고 연결하는 힘을 기르는 방향으로 바뀔 필요가 있다."
-    ],
-    vocab:[
-      ["전제","어떤 주장이나 판단이 성립하기 위해 미리 받아들이는 조건."],
-      ["근거","주장이나 판단이 타당하다고 뒷받침하는 이유 또는 자료."],
-      ["판단","여러 정보와 기준을 비교하여 의미나 가치를 결정하는 일."],
-      ["재구성","주어진 내용을 자신의 관점이나 구조에 맞게 다시 조직하는 것."]
-    ],
-    quiz:[
-      {q:"윗글이 가장 강조하는 내용은?", choices:["AI의 요약 기능을 사용하지 않아야 한다.","정보 접근 속도와 사고의 깊이는 같은 개념이다.","AI 시대에는 정보를 검토하고 판단하는 읽기가 더 중요해진다.","읽기는 가능한 한 많은 정보를 암기하는 활동이다."], answer:2, why:"글은 AI를 배제하기보다, 요약으로 절약한 시간을 검토와 판단에 사용해야 한다고 본다."},
-      {q:"윗글에서 ‘깊이 읽기’의 과정으로 보기 어려운 것은?", choices:["글쓴이의 전제를 확인한다.","근거와 결론의 관계를 검토한다.","서로 다른 주장을 비교한다.","요약된 결론을 별도 검토 없이 수용한다."], answer:3, why:"깊이 읽기는 제시된 정보를 그대로 수용하지 않고 검토하는 과정이다."},
-      {q:"글의 관점에 가장 부합하는 AI 활용 방식은?", choices:["AI 답변을 최종 판단으로 사용한다.","AI 요약을 바탕으로 원문과 근거를 다시 확인한다.","긴 글은 읽지 않고 요약문만 암기한다.","모든 판단 기준을 AI에게 맡긴다."], answer:1, why:"AI 요약은 출발점이며 최종 판단은 독자가 직접 해야 한다는 관점이다."}
-    ],
-    thinking:[
-      ["속도와 깊이","정보를 빨리 얻는 것이 오히려 판단을 어렵게 만드는 경우는 무엇이 있을까요? 실제 사례를 하나 떠올려 보세요."],
-      ["도구와 주체","AI를 잘 활용하는 사람과 AI에 의존하는 사람의 차이는 어디에서 생길까요?"],
-      ["교육의 변화","학교의 읽기·쓰기 수업은 AI 시대에 무엇을 더 강조해야 할까요?"]
-    ],
-    prompt:"AI가 정보를 요약해 주는 시대에도 ‘깊이 읽기’ 교육이 필요한 이유를 설명하고, 학교 수업에서 실천할 수 있는 방법을 한 가지 제안하시오. (500~800자 권장)"
-  },
-  {
-    id:"fair-algorithm", category:"과학", icon:"⌘", level:"고1~고3", time:"30분", difficulty:"심화",
-    title:"알고리즘의 판단은 공정할 수 있을까",
-    intro:"데이터로 판단하는 시스템에도 인간 사회의 기준과 선택이 들어갑니다.",
-    passage:[
-      "알고리즘은 정해진 규칙과 데이터를 바탕으로 결과를 계산한다. 이 때문에 사람의 감정이나 순간적인 편견에서 자유로울 것이라고 기대되기도 한다. 하지만 어떤 데이터를 모을지, 무엇을 정답으로 간주할지, 오류를 어느 정도 허용할지는 모두 사람이 정한다.",
-      "예를 들어 과거의 채용 결과를 학습한 시스템은 과거 조직의 선택 경향을 다시 반복할 수 있다. 데이터가 현실을 그대로 비추는 거울이 아니라, 이미 이루어진 선택이 남긴 기록이기 때문이다. 따라서 데이터가 많다는 사실만으로 판단의 공정성이 보장되지는 않는다.",
-      "<span class='focus-line'>알고리즘의 공정성을 평가하려면 계산 과정뿐 아니라 목표와 데이터, 결과가 누구에게 어떤 영향을 주는지 함께 살펴야 한다.</span> 기술의 문제처럼 보이는 판단에도 사회적 기준에 대한 토론이 필요한 이유다."
-    ],
-    vocab:[["알고리즘","문제를 해결하기 위해 정해 놓은 단계적 절차."],["편향","판단이나 자료가 특정 방향으로 치우치는 현상."],["공정성","정해진 기준이 관련된 사람들에게 정당하게 적용되는 성질."],["데이터","관찰·측정·기록 등을 통해 수집된 사실이나 값."]],
-    quiz:[
-      {q:"윗글에 따르면 데이터가 많아도 공정성이 보장되지 않는 이유는?",choices:["데이터는 계산할 수 없기 때문에","데이터가 과거의 선택과 편향을 포함할 수 있기 때문에","알고리즘은 언제나 무작위로 작동하기 때문에","사회적 기준은 데이터와 전혀 관련이 없기 때문에"],answer:1,why:"과거의 선택이 남긴 기록인 데이터에는 기존 경향과 편향이 반영될 수 있다."},
-      {q:"글쓴이가 알고리즘 평가에서 함께 보아야 한다고 한 요소가 아닌 것은?",choices:["목표","데이터","사회적 영향","개발자의 취미"],answer:3,why:"글은 목표, 데이터, 계산 과정, 결과의 영향을 함께 검토해야 한다고 말한다."}
-    ],
-    thinking:[["공정한 기준","모든 사람에게 같은 기준을 적용하는 것과 결과의 불이익을 줄이는 것 중 어느 쪽이 공정성에 더 가까울까요?"],["책임","알고리즘이 잘못된 결정을 했을 때 책임은 누구에게 있어야 할까요?"]],
-    prompt:"알고리즘의 판단을 ‘객관적’이라고만 볼 수 없는 이유를 글의 내용을 활용해 설명하고, 공정성을 높이기 위해 필요한 원칙을 제시하시오. (600~900자 권장)"
-  },
-  {
-    id:"choice-happiness", category:"인문", icon:"◌", level:"중2~고1", time:"20분", difficulty:"입문",
-    title:"선택지가 많으면 우리는 더 행복해질까",
-    intro:"선택의 자유가 커질수록 만족도도 항상 높아지는지 살펴봅니다.",
-    passage:[
-      "선택할 수 있는 것이 많다는 사실은 자유가 넓어졌다는 뜻으로 받아들여진다. 실제로 선택지가 너무 적으면 사람은 자신에게 맞는 것을 고르기 어렵다. 그러나 선택지가 계속 늘어날수록 만족도도 끝없이 높아지는 것은 아니다.",
-      "선택지가 많으면 각각의 장단점을 비교하는 데 더 많은 시간이 들고, 선택하지 않은 대안의 장점도 쉽게 떠오른다. 그 결과 결정을 내리고도 ‘다른 것을 골랐어야 하지 않았을까’라는 생각이 남을 수 있다. 선택의 자유가 커지는 동시에 선택에 대한 책임과 후회 가능성도 커지는 것이다.",
-      "<span class='focus-line'>중요한 것은 선택지의 수 자체보다 무엇을 기준으로 선택할지를 알고 있는가이다.</span> 자신에게 중요한 기준이 분명하면 많은 선택지는 기회가 되지만, 기준이 없다면 선택지는 오히려 부담이 될 수 있다."
-    ],
-    vocab:[["대안","어떤 방안 대신 선택할 수 있는 다른 방안."],["만족도","결과나 상태에 대해 만족하는 정도."],["기준","판단하거나 선택할 때 근거로 삼는 원칙."],["책임","자신의 선택과 행동의 결과를 감당하는 태도."]],
-    quiz:[
-      {q:"글의 중심 주장으로 가장 적절한 것은?",choices:["선택지는 항상 적을수록 좋다.","선택지가 많으면 반드시 행복해진다.","선택의 만족에는 선택 기준의 명확성이 중요하다.","후회를 막으려면 다른 대안을 검토해서는 안 된다."],answer:2,why:"글은 선택지의 수보다 자신에게 중요한 기준을 알고 있는지가 중요하다고 본다."},
-      {q:"선택지가 많을 때 나타날 수 있는 현상은?",choices:["비교에 드는 시간이 줄어든다.","선택하지 않은 대안의 장점이 떠오를 수 있다.","결정에 대한 책임이 사라진다.","모든 사람이 같은 기준을 사용하게 된다."],answer:1,why:"대안이 많을수록 비교 비용과 선택 후 후회 가능성이 커질 수 있다고 설명한다."}
-    ],
-    thinking:[["나의 기준","최근 선택한 일 하나를 떠올리고, 실제로 어떤 기준을 사용했는지 적어 보세요."],["자유와 부담","선택의 자유가 부담으로 바뀌는 지점은 언제라고 생각하나요?"]],
-    prompt:"선택지가 많을수록 반드시 더 행복해지는 것은 아니라는 글의 관점을 설명하고, 자신의 경험이나 관찰 사례를 들어 바람직한 선택 방법을 논하시오. (400~700자 권장)"
-  }
+const books=[
+  {id:"book-animalfarm",title:"동물농장",author:"조지 오웰",level:"중등",category:"사회·정치",desc:"권력은 왜 부패하는가를 우화로 생각해 보는 고전.",questions:["혁명 이후 동물들의 사회가 다시 불평등해진 이유는 무엇일까?","언어와 정보의 통제는 권력을 유지하는 데 어떤 역할을 할까?","공정한 공동체를 만들기 위해 필요한 조건은 무엇일까?"]},
+  {id:"book-demian",title:"데미안",author:"헤르만 헤세",level:"고등",category:"인문·성장",desc:"자기 정체성과 성장의 의미를 질문하게 하는 작품.",questions:["‘자기 자신이 된다’는 것은 무엇을 의미할까?","사회의 기준과 개인의 선택이 충돌할 때 어떤 기준이 필요할까?","성장 과정에서 불안과 혼란은 왜 필요한가?"]},
+  {id:"book-littleprince",title:"어린 왕자",author:"생텍쥐페리",level:"초등",category:"문학·관계",desc:"관계, 책임, 소중함을 쉽지만 깊게 생각할 수 있는 작품.",questions:["어린 왕자에게 장미는 왜 특별한 존재가 되었을까?","‘길들인다’는 말은 관계에서 어떤 의미일까?","눈에 보이지 않지만 중요한 것은 무엇일까?"]},
+  {id:"book-justice",title:"정의란 무엇인가",author:"마이클 샌델",level:"고등",category:"사회·윤리",desc:"공정함과 정의를 판단하는 여러 기준을 비교하는 책.",questions:["공정하다는 것은 모두에게 같은 것을 주는 것일까?","개인의 자유는 공동체의 이익보다 언제 우선할 수 있을까?","좋은 사회는 어떤 가치에 합의해야 할까?"]},
+  {id:"book-sapiens",title:"사피엔스",author:"유발 하라리",level:"고등",category:"역사·문명",desc:"인간 사회와 문명의 형성을 큰 흐름에서 바라보는 책.",questions:["인간이 대규모 협력을 할 수 있게 된 원인은 무엇일까?","공유된 믿음은 사회를 만들지만 어떤 문제도 낳을까?","문명의 발전을 행복의 증가라고 볼 수 있을까?"]},
+  {id:"book-giver",title:"기억 전달자",author:"로이스 로리",level:"중등",category:"사회·윤리",desc:"고통을 없앤 사회가 정말 행복한 사회인지 질문하게 하는 소설.",questions:["고통이 없는 사회는 더 좋은 사회일까?","선택의 자유가 사라지면 어떤 문제가 생길까?","기억은 개인과 공동체에 왜 중요한가?"]},
+  {id:"book-fahrenheit",title:"화씨 451",author:"레이 브래드버리",level:"고등",category:"사회·미디어",desc:"책과 사유가 사라진 사회를 통해 정보와 자유를 생각하는 작품.",questions:["사람들이 스스로 책을 멀리하게 되는 이유는 무엇일까?","오락이 사고를 대신하면 어떤 문제가 생길까?","표현의 자유와 사회적 불편은 어떻게 조정해야 할까?"]},
+  {id:"book-wonder",title:"원더",author:"R. J. 팔라시오",level:"초등",category:"문학·공감",desc:"다름을 바라보는 시선과 공감의 태도를 생각하게 하는 성장소설.",questions:["친절은 왜 용기가 필요한 행동일까?","외모에 대한 첫인상은 사람을 얼마나 정확히 보여 줄까?","학교 공동체는 ‘다름’을 어떻게 받아들여야 할까?"]}
 ];
 
-const steps=["read","vocab","quiz","think","write"];
-const stepNames={read:"읽기",vocab:"핵심어휘",quiz:"내용확인",think:"사고확장",write:"논술쓰기"};
-let currentLesson=lessons[0], currentStep="read", currentFilter="all";
+const topics=[
+  {id:"topic-critical-reading",type:"주제읽기",category:"인문",level:"중등·고등",title:"비판적 읽기란 무엇인가",summary:"글의 내용을 믿거나 의심하는 것이 아니라, 주장과 근거의 관계를 검토하는 읽기 방법.",body:["비판적 읽기는 글쓴이의 주장에 무조건 반대하는 태도가 아니다. 오히려 글이 어떤 질문에 답하고 있는지, 어떤 근거를 사용하는지, 그 근거가 결론을 충분히 뒷받침하는지를 차례로 확인하는 읽기다.","같은 사실도 어떤 관점에서 배열하느냐에 따라 다른 결론으로 이어질 수 있다. 그래서 독자는 제시된 정보뿐 아니라 빠진 정보, 사용된 개념의 의미, 반대 사례의 가능성까지 살펴볼 필요가 있다.","비판적 읽기의 핵심은 ‘의심’보다 ‘검토’에 가깝다. 주장·근거·전제·반례를 구분해서 읽으면 독자는 글쓴이의 결론을 그대로 받아들이지 않고 자신의 판단을 만들 수 있다."],questions:["이 글에서 주장과 근거를 구분해 보자.","글쓴이가 당연하다고 전제한 내용은 무엇일까?","반대 사례를 하나 만든다면 어떤 것이 가능할까?"]},
+  {id:"topic-filterbubble",type:"주제읽기",category:"사회",level:"중등·고등",title:"필터 버블과 확증편향",summary:"내가 보고 싶은 정보만 계속 보게 될 때 판단은 어떻게 달라질까?",body:["온라인 플랫폼은 사용자의 관심과 행동을 바탕으로 비슷한 콘텐츠를 추천한다. 편리하지만 비슷한 관점만 반복해서 접하게 만들 수도 있다.","사람은 원래 자신의 기존 생각을 지지하는 정보를 더 쉽게 받아들이는 경향이 있다. 추천 알고리즘과 이러한 확증편향이 결합하면 다른 관점을 접할 기회가 줄어들 수 있다.","따라서 정보의 신뢰성을 판단하려면 출처만 보는 것이 아니라, 서로 다른 입장의 자료를 의식적으로 비교하고 무엇이 사실이며 무엇이 해석인지 구분해야 한다."],questions:["추천 알고리즘의 장점과 단점을 각각 찾아보자.","확증편향이 토론에 어떤 영향을 줄 수 있을까?","다른 관점을 일부러 찾아보는 습관은 왜 필요할까?"]},
+  {id:"topic-choice",type:"주제읽기",category:"인문",level:"초등·중등",title:"선택지가 많으면 더 행복할까",summary:"선택의 자유와 선택의 부담이 어떻게 함께 커지는지 생각해 봅니다.",body:["선택할 수 있는 것이 많다는 것은 자유가 넓다는 뜻이다. 하지만 선택지가 많아질수록 비교해야 할 정보도 많아지고, 선택하지 않은 대안의 장점도 더 쉽게 떠오른다.","그래서 만족스러운 선택을 위해서는 가능한 선택지를 무한히 늘리는 것보다 자신에게 중요한 기준을 정하는 일이 중요하다.","무엇을 선택했는가보다 왜 그것을 선택했는지 설명할 수 있을 때 선택에 대한 책임과 만족도도 높아질 수 있다."],questions:["최근 내가 한 선택 중 기준이 분명했던 것은 무엇인가?","선택지가 너무 많아 오히려 힘들었던 경험이 있었나?","좋은 선택을 위한 기준은 어떻게 만들 수 있을까?"]},
+  {id:"topic-ai-literacy",type:"주제읽기",category:"과학·기술",level:"중등·고등",title:"AI 시대의 문해력",summary:"요약을 잘하는 AI가 등장한 시대에 인간의 읽기 능력은 왜 더 중요해질까?",body:["AI는 긴 글을 빠르게 요약하고 필요한 정보를 정리해 준다. 그러나 요약이 정확한지, 어떤 관점이 빠졌는지 판단하는 일은 여전히 독자의 몫이다.","문해력은 단순히 글자를 읽는 능력이 아니라 정보를 해석하고 연결하고 평가하는 능력이다. 정보가 많아질수록 이러한 판단 능력의 중요성은 더 커진다.","AI 시대의 읽기 교육은 더 많은 내용을 암기하는 방향보다, 질문을 만들고 근거를 확인하고 서로 다른 관점을 비교하는 방향으로 이동할 필요가 있다."],questions:["AI 요약을 그대로 믿으면 생길 수 있는 문제는 무엇인가?","인간 독자가 반드시 해야 하는 판단은 무엇일까?","학교 수업은 AI 시대에 어떻게 달라져야 할까?"]},
+  {id:"topic-fairness",type:"주제읽기",category:"사회",level:"고등",title:"공정함은 모두에게 똑같이 대하는 것일까",summary:"같은 기준과 다른 지원 중 무엇이 더 공정한지 생각해 보는 글.",body:["공정함을 ‘모두에게 같은 기준을 적용하는 것’이라고 이해할 수 있다. 하지만 출발 조건이 크게 다를 때 동일한 기준이 오히려 불리함을 고착시킬 수 있다는 반론도 있다.","반대로 각자의 상황에 맞게 다른 지원을 제공하면 결과의 격차를 줄일 수 있지만, 기준의 일관성이 약해졌다고 느끼는 사람도 생길 수 있다.","그래서 공정성 논쟁에서는 ‘같게 대할 것인가’만이 아니라 어떤 차이를 고려해야 하며 그 차이를 왜 정당하게 볼 수 있는지를 설명하는 일이 중요하다."],questions:["동일한 기준의 장점은 무엇인가?","상황에 따른 다른 지원이 필요한 사례를 생각해 보자.","공정함을 판단할 때 어떤 기준을 가장 중요하게 보아야 할까?"]},
+  {id:"topic-media",type:"주제읽기",category:"미디어",level:"중등",title:"뉴스의 제목만 읽어도 충분할까",summary:"제목과 짧은 영상 중심의 정보 소비가 판단에 미치는 영향을 살펴봅니다.",body:["뉴스 제목은 독자의 관심을 끌고 핵심 내용을 빠르게 전달해야 한다. 하지만 제한된 글자 수 안에서 내용을 단순화하다 보면 본문의 조건이나 예외가 빠질 수 있다.","특히 감정적인 표현이나 강한 단어는 클릭을 높일 수 있지만 사건을 실제보다 단순하게 이해하게 만들 수도 있다.","따라서 제목을 정보의 출발점으로 활용하되 중요한 판단을 할 때에는 본문과 출처, 근거 자료를 함께 확인하는 습관이 필요하다."],questions:["제목이 본문과 다른 인상을 주는 이유는 무엇일까?","감정적인 단어가 판단에 어떤 영향을 줄까?","신뢰할 만한 정보를 확인하는 순서를 만들어 보자."]}
+];
 
-const $=s=>document.querySelector(s), $$=s=>[...document.querySelectorAll(s)];
-const stateKey="sophieReadingLabState";
-function loadState(){try{return JSON.parse(localStorage.getItem(stateKey))||{lessons:{}}}catch{return {lessons:{}}}}
-function saveState(s){localStorage.setItem(stateKey,JSON.stringify(s))}
-function getLessonState(id){const s=loadState();return s.lessons[id]||{done:[],draft:"",submitted:false}}
-function setLessonState(id,patch){const s=loadState();s.lessons[id]={...getLessonState(id),...patch};saveState(s);refreshStats()}
-function markDone(id,step){const ls=getLessonState(id);if(!ls.done.includes(step)) setLessonState(id,{done:[...ls.done,step]})}
-function percent(id){return Math.round(getLessonState(id).done.length/steps.length*100)}
+const debates=[
+  {id:"debate-ai-writing",type:"토론논제",level:"중등·고등",title:"AI가 쓴 글도 ‘나의 글’이라고 할 수 있을까?",summary:"도구의 도움과 저자의 책임, 창작의 기준을 토론합니다.",points:["AI는 문장을 만들 수 있지만 주제와 방향을 선택하는 것은 사용자라는 관점","표현 자체를 생성한 주체가 다르면 저자성도 달라져야 한다는 관점","수정·선택·검증에 어느 정도 참여했는지가 핵심이라는 절충적 관점"],questions:["저자를 판단하는 가장 중요한 기준은 무엇인가?","도구의 도움은 어느 지점부터 공동 창작이 되는가?","학교 과제에서 AI 사용 범위는 어떻게 정해야 할까?"]},
+  {id:"debate-schoolphone",type:"토론논제",level:"초등·중등",title:"학교에서 스마트폰 사용을 제한해야 할까?",summary:"학습권, 자율성, 안전과 소통을 함께 고려하는 논제.",points:["집중력과 수업권 보호를 위해 제한이 필요하다는 관점","학생의 자율적 사용 능력을 길러야 한다는 관점","시간·공간·목적에 따라 제한 범위를 달리해야 한다는 관점"],questions:["학교가 개인 기기 사용을 제한할 수 있는 근거는 무엇인가?","금지와 교육 중 어느 방식이 장기적으로 효과적일까?","예외를 인정해야 하는 상황은 무엇일까?"]},
+  {id:"debate-uniform",type:"토론논제",level:"중등",title:"교복은 학생의 자유를 지나치게 제한할까?",summary:"개인 표현의 자유와 학교 공동체의 규칙을 비교합니다.",points:["복장 선택은 개인의 표현 자유라는 관점","교복은 경제적 비교와 복장 경쟁을 줄일 수 있다는 관점","획일적 규정보다 선택권을 넓히는 방식이 가능하다는 관점"],questions:["학교 공동체가 학생의 복장을 정할 수 있는 범위는 어디까지인가?","교복이 실제로 평등을 높이는가?","자유와 공동체 규칙이 충돌할 때 어떤 기준이 필요한가?"]},
+  {id:"debate-animal",type:"토론논제",level:"초등·중등",title:"동물원은 계속 필요할까?",summary:"교육·보전의 가치와 동물 복지 문제를 함께 살펴봅니다.",points:["멸종위기종 보전과 교육에 기여한다는 관점","동물의 자연스러운 삶을 제한한다는 관점","전통적 동물원보다 보호·복원 중심으로 바뀌어야 한다는 관점"],questions:["동물원의 가장 중요한 목적은 무엇이어야 할까?","교육 목적이 동물의 자유 제한을 정당화할 수 있을까?","좋은 동물원을 판단하는 기준을 만들어 보자."]}
+];
 
+const writing=[
+  {id:"writing-claim",type:"논술쓰기",level:"전체",title:"좋은 주장은 어떻게 만드는가",summary:"넓고 막연한 생각을 논술 가능한 주장으로 바꾸는 방법.",body:["좋은 주장은 단순한 감상이나 사실 확인이 아니라, 다른 사람이 동의하거나 반박할 수 있는 판단 문장이다.","‘환경이 중요하다’보다 ‘학교는 일회용품 사용을 줄이기 위해 다회용 식기 사용을 의무화해야 한다’가 논술하기 좋은 주장에 가깝다. 대상과 행동, 기준이 더 분명하기 때문이다.","주장을 만들 때는 ‘누가, 무엇을, 왜 해야 하는가’를 점검하면 문장이 훨씬 선명해진다."],questions:["내 주장이 사실 설명인지 판단인지 구분해 보자.","대상과 행동이 분명한가?","근거로 설명할 수 있는 범위인가?"]},
+  {id:"writing-evidence",type:"논술쓰기",level:"전체",title:"근거를 길게 쓰는 것이 좋은 글일까",summary:"근거의 양보다 주장과의 연결이 더 중요한 이유.",body:["근거가 많다고 해서 글이 자동으로 설득력 있어지는 것은 아니다. 중요한 것은 그 근거가 왜 주장을 뒷받침하는지 설명하는 것이다.","사례를 제시한 뒤 ‘이 사례는 무엇을 보여 주는가’를 한 문장으로 해석하면 근거와 주장의 연결이 선명해진다.","논술에서는 사실 → 의미 → 주장 순서로 연결하는 연습이 효과적이다."],questions:["근거 뒤에 해석 문장이 있는가?","이 근거가 다른 주장에도 똑같이 쓰일 수 있는 너무 일반적인 내용은 아닌가?","반대 입장의 사람이 이 근거를 어떻게 비판할지 생각해 보자."]},
+  {id:"writing-paragraph",type:"논술쓰기",level:"중등·고등",title:"한 문단에는 한 가지 역할만",summary:"문단의 역할을 분명하게 나누면 글의 논리가 선명해집니다.",body:["한 문단 안에 주장, 새로운 근거, 반론, 결론이 모두 섞이면 독자는 글의 구조를 따라가기 어렵다.","각 문단에 ‘주장 제시’, ‘근거 설명’, ‘반론 검토’, ‘결론’처럼 하나의 중심 역할을 부여하면 글이 안정된다.","문단 첫 문장을 읽었을 때 그 문단이 무엇을 하려는지 알 수 있는지 확인해 보는 것이 좋은 퇴고 방법이다."],questions:["각 문단의 역할을 한 단어로 붙여 보자.","서로 다른 역할이 한 문단에 섞인 곳은 없는가?","문단 순서를 바꾸어도 되는지 점검해 보자."]},
+  {id:"writing-counter",type:"논술쓰기",level:"고등",title:"반론을 쓰면 왜 글이 더 강해질까",summary:"상대 입장을 공정하게 검토하는 것이 설득력을 높이는 이유.",body:["반론은 자신의 주장을 약하게 만드는 요소가 아니다. 오히려 예상 가능한 비판을 먼저 검토함으로써 주장의 한계를 알고 있다는 신뢰를 준다.","좋은 반론 처리는 상대의 주장을 과장해서 공격하지 않는다. 실제로 설득력 있는 반대 근거를 인정한 뒤, 자신의 기준에서 왜 여전히 다른 결론이 타당한지 설명한다.","‘물론 A라는 문제가 있다. 그러나 B라는 기준에서 볼 때…’와 같은 구조는 반론과 재반론을 명확하게 연결하는 데 도움이 된다."],questions:["내 주장에 대한 가장 강한 반론은 무엇인가?","그 반론에서 인정해야 할 부분은 무엇인가?","어떤 기준을 제시하면 다시 내 주장으로 돌아올 수 있을까?"]}
+];
 
-const adminStateKey="sophieReadingLabAdminState";
-let submissionFilter="all";
-let activeSubmissionId=null;
+const guides=[
+  {id:"guide-parent",type:"교육가이드",audience:"학부모",title:"아이에게 책을 읽고 무엇을 물어봐야 할까",summary:"‘재미있었어?’에서 한 단계 더 나아가는 독서 질문법.",body:["책을 다 읽은 뒤 줄거리를 시험하듯 묻기보다, 아이가 자신의 판단을 설명하게 하는 질문이 좋다.","‘가장 이해되지 않았던 인물의 선택은 무엇이었어?’, ‘네가 그 상황이라면 무엇을 다르게 했을까?’처럼 이유를 묻는 질문은 사고를 확장한다.","정답을 바로 알려주기보다 아이가 근거를 찾도록 기다리는 것이 중요하다. 독서논술에서 질문은 평가 도구가 아니라 생각을 꺼내는 도구다."],questions:["사실 확인 질문 1개와 생각 질문 1개를 만들어 보자.","아이의 대답을 바로 평가하지 않고 이어서 물을 수 있는 질문은 무엇일까?"]},
+  {id:"guide-teacher",type:"교육가이드",audience:"교사",title:"토론 수업에서 찬반을 너무 빨리 나누지 않는 이유",summary:"입장 선택 전 쟁점과 판단 기준을 먼저 찾는 수업 설계.",body:["토론 수업을 시작하자마자 찬반을 나누면 학생은 자신의 입장을 방어하는 데 집중하기 쉽다.","먼저 ‘무엇이 충돌하고 있는가’, ‘누구의 이익이 영향을 받는가’, ‘판단 기준은 무엇인가’를 찾게 하면 같은 논제를 더 입체적으로 볼 수 있다.","쟁점 정리 → 기준 설정 → 자료 검토 → 입장 선택의 순서로 진행하면 토론이 단순한 말싸움이 아니라 판단 훈련이 된다."],questions:["이 논제에서 충돌하는 가치 두 가지는 무엇인가?","입장을 정하기 전에 꼭 확인해야 할 사실은 무엇인가?"]},
+  {id:"guide-bookchoice",type:"교육가이드",audience:"학부모·교사",title:"학년보다 중요한 책 선정 기준 4가지",summary:"난이도만 보지 않고 좋은 독서논술 책을 고르는 방법.",body:["독서논술용 책은 반드시 어렵거나 유명할 필요가 없다. 중요한 것은 학생이 질문을 만들 수 있는 책인가이다.","첫째, 인물이나 사회의 선택이 분명해야 한다. 둘째, 하나의 정답으로 끝나지 않는 문제가 있어야 한다. 셋째, 학생의 경험과 연결할 수 있어야 한다. 넷째, 다른 자료와 확장해 읽을 수 있어야 한다.","읽기 수준은 학생에게 맞추되 질문의 깊이는 충분히 높일 수 있다. 쉬운 책도 좋은 질문과 만나면 깊은 논술 수업이 된다."],questions:["지금 읽는 책에 선택의 갈등이 있는가?","학생의 경험과 연결할 수 있는 장면이 있는가?","관련 사회 문제나 다른 책으로 확장할 수 있는가?"]},
+  {id:"guide-vocab",type:"교육가이드",audience:"학생",title:"어휘 공부를 사전 뜻 암기로 끝내지 않는 법",summary:"단어의 의미를 문맥과 판단에 연결하는 방법.",body:["어휘를 많이 아는 것은 읽기에 도움이 되지만 사전적 정의만 암기하면 실제 글에서 뜻을 유연하게 적용하기 어렵다.","새 단어를 배울 때는 비슷한 말, 반대말, 자주 함께 쓰이는 표현, 실제 문장까지 함께 보아야 한다.","특히 논술 어휘는 그 단어가 어떤 판단 기준을 담고 있는지 살펴보면 좋다. ‘공정하다’, ‘효율적이다’, ‘정당하다’ 같은 말은 단순한 뜻보다 어떤 기준에서 그렇게 말하는지가 중요하다."],questions:["오늘 배운 단어를 자기 문장으로 써 보자.","같은 단어가 다른 문맥에서 어떻게 달라지는지 비교해 보자."]}
+];
 
-function seedAdminState(){
-  return {
-    role:"student",
-    classes:[
-      {id:"class-a",name:"중3 독서논술 A",students:[{id:"s1",name:"김민서"},{id:"s2",name:"박서준"},{id:"s3",name:"이하은"},{id:"s4",name:"최도윤"}]},
-      {id:"class-b",name:"고1 심화독서 B",students:[{id:"s5",name:"윤지우"},{id:"s6",name:"정현우"},{id:"s7",name:"한서연"}]}
-    ],
-    assignments:[
-      {id:"a1",classId:"class-a",lessonId:"ai-literacy",due:"2026-10-02",note:"제시문의 핵심 근거를 2개 이상 활용하세요."},
-      {id:"a2",classId:"class-b",lessonId:"fair-algorithm",due:"2026-10-05",note:"공정성의 기준을 자신의 말로 정의해 보세요."}
-    ],
-    submissions:[
-      {id:"sub1",studentId:"s1",studentName:"김민서",classId:"class-a",assignmentId:"a1",lessonId:"ai-literacy",submittedAt:"2026-09-28 18:40",status:"pending",answer:"AI가 정보를 빠르게 요약해 주더라도 깊이 읽기는 필요하다. 요약은 핵심을 압축해 주지만 그 근거가 충분한지, 빠진 관점은 없는지까지 대신 판단해 주지는 못하기 때문이다. 학교에서는 AI 요약문과 원문을 함께 비교하며 누락된 내용과 근거의 타당성을 찾는 활동을 할 수 있다."},
-      {id:"sub2",studentId:"s2",studentName:"박서준",classId:"class-a",assignmentId:"a1",lessonId:"ai-literacy",submittedAt:"2026-09-28 17:12",status:"done",answer:"AI 시대에는 정보를 얻는 속도보다 정보를 판단하는 능력이 중요하다. 따라서 읽기 교육은 내용을 외우는 데 그치지 않고 근거와 결론의 관계를 검토하도록 해야 한다.",scores:{thesis:4,evidence:4,logic:4,style:5},feedback:"중심 주장은 분명합니다. 다음 수정에서는 제시문의 구체적인 표현을 근거로 한 번 더 연결해 보세요."},
-      {id:"sub3",studentId:"s5",studentName:"윤지우",classId:"class-b",assignmentId:"a2",lessonId:"fair-algorithm",submittedAt:"2026-09-28 19:05",status:"pending",answer:"알고리즘은 계산 자체는 일관되게 할 수 있지만 학습 데이터와 목표는 사람이 정한다. 과거의 편향이 데이터에 들어 있다면 알고리즘은 그 편향을 반복할 수 있다. 그러므로 공정성을 위해서는 결과가 특정 집단에 지속적으로 불리하게 작용하는지도 함께 검토해야 한다."}
-    ]
-  };
-}
-function loadAdminState(){try{return JSON.parse(localStorage.getItem(adminStateKey))||seedAdminState()}catch{return seedAdminState()}}
-function saveAdminState(s){localStorage.setItem(adminStateKey,JSON.stringify(s))}
-function updateAdmin(mutator){const s=loadAdminState();mutator(s);saveAdminState(s);renderTeacher();renderStudentAssignments()}
-function getClassName(id){return loadAdminState().classes.find(c=>c.id===id)?.name||"미지정 반"}
-function getLessonTitle(id){return lessons.find(l=>l.id===id)?.title||id}
-function showToast(message){const el=document.createElement("div");el.className="toast";el.textContent=message;document.body.appendChild(el);setTimeout(()=>el.remove(),1800)}
+const allSearch=[...books.map(x=>({...x,type:"추천도서"})),...topics,...debates,...writing,...guides];
+let currentRoute="home",previousRoute="home",bookLevel="전체",topicCategory="전체";
 
-function setRole(role){
-  const s=loadAdminState();s.role=role;saveAdminState(s);
-  document.body.classList.toggle("teacher-mode",role==="teacher");
-  $("#roleSwitch").textContent=role==="teacher"?"학생 모드":"교사 모드";
-  $(".profile-copy b").textContent=role==="teacher"?"선생님":"학습자";
-  $(".profile-button").dataset.route=role==="teacher"?"teacher":"progress";
-  bindRouteButtons();
-  if(role==="teacher") route("teacher"); else route("home");
-}
-function renderStudentAssignments(){
-  const box=$("#studentAssignments"); if(!box)return;
-  const s=loadAdminState();
-  const assignment=s.assignments[0];
-  if(!assignment){box.innerHTML='<div class="empty-state">배정된 과제가 없습니다.</div>';return}
-  const lesson=lessons.find(l=>l.id===assignment.lessonId);
-  box.innerHTML=`<div class="assignment-strip">
-    <div><span class="pill">배정 과제</span><h3>${lesson.title}</h3><p>${assignment.note||"제시문을 읽고 논술까지 완료하세요."}</p></div>
-    <div class="due"><b>마감</b><br>${assignment.due}</div>
-    <button class="btn ghost small" data-open-lesson="${lesson.id}">과제 시작</button>
-  </div>`;
-  bindLessonButtons();
-}
-function renderTeacher(){
-  if(!$("#page-teacher"))return;
-  const s=loadAdminState();
-  const studentCount=s.classes.reduce((n,c)=>n+c.students.length,0);
-  $("#teacherStudents").textContent=studentCount;
-  $("#teacherAssignments").textContent=s.assignments.length;
-  $("#teacherPending").textContent=s.submissions.filter(x=>x.status==="pending").length;
-  $("#classList").innerHTML=s.classes.map(c=>`<div class="class-card"><h4>${c.name}</h4><p>${c.students.length}명 · 진행 과제 ${s.assignments.filter(a=>a.classId===c.id).length}개</p><div class="student-chips">${c.students.map(st=>`<span class="student-chip">${st.name}</span>`).join("")}</div></div>`).join("");
-  $("#assignmentList").innerHTML=s.assignments.length?s.assignments.map(a=>`<div class="assignment-row">
-    <div><div class="cell-title">${getLessonTitle(a.lessonId)}</div><div class="cell-sub">${a.note||""}</div></div>
-    <div><div class="cell-title">${getClassName(a.classId)}</div><div class="cell-sub">${s.classes.find(c=>c.id===a.classId)?.students.length||0}명</div></div>
-    <div><span class="status open">${a.due}</span></div>
-    <button class="text-link" data-delete-assignment="${a.id}">삭제</button>
-  </div>`).join(""):'<div class="empty-state">배정된 과제가 없습니다.</div>';
-  const submissions=s.submissions.filter(x=>submissionFilter==="all"||x.status===submissionFilter);
-  $("#submissionList").innerHTML=submissions.length?submissions.map(x=>`<div class="submission-row">
-    <div><div class="cell-title">${x.studentName}</div><div class="cell-sub">${getClassName(x.classId)}</div></div>
-    <div><div class="cell-title">${getLessonTitle(x.lessonId)}</div><div class="cell-sub">${x.answer.slice(0,54)}…</div></div>
-    <div><span class="status ${x.status}">${x.status==="done"?"첨삭완료":"미첨삭"}</span></div>
-    <div class="cell-sub">${x.submittedAt}</div>
-    <button class="btn ghost small" data-feedback="${x.id}">${x.status==="done"?"첨삭 보기":"첨삭하기"}</button>
-  </div>`).join(""):'<div class="empty-state">해당 답안이 없습니다.</div>';
-  bindTeacherActions();
-}
-function bindTeacherActions(){
-  $("[data-delete-assignment]").forEach(b=>b.onclick=()=>updateAdmin(s=>{s.assignments=s.assignments.filter(a=>a.id!==b.dataset.deleteAssignment)}));
-  $("[data-feedback]").forEach(b=>b.onclick=()=>openFeedback(b.dataset.feedback));
-}
-function openModal(id){$("#"+id)?.classList.add("open");$("#"+id)?.setAttribute("aria-hidden","false")}
-function closeModal(id){$("#"+id)?.classList.remove("open");$("#"+id)?.setAttribute("aria-hidden","true")}
-function populateAssignmentModal(){
-  const s=loadAdminState();
-  $("#assignmentClass").innerHTML=s.classes.map(c=>`<option value="${c.id}">${c.name}</option>`).join("");
-  $("#assignmentLesson").innerHTML=lessons.map(l=>`<option value="${l.id}">${l.title}</option>`).join("");
-  const d=new Date();d.setDate(d.getDate()+7);$("#assignmentDue").value=d.toISOString().slice(0,10);
-  $("#assignmentNote").value="";
-}
-function openFeedback(id){
-  const s=loadAdminState(), sub=s.submissions.find(x=>x.id===id); if(!sub)return;
-  activeSubmissionId=id;
-  $("#feedbackStudentMeta").innerHTML=`<b>${sub.studentName}</b> · ${getClassName(sub.classId)} · ${getLessonTitle(sub.lessonId)} · 제출 ${sub.submittedAt}`;
-  $("#feedbackAnswer").textContent=sub.answer;
-  const scores=sub.scores||{thesis:5,evidence:5,logic:5,style:5};
-  $("#scoreThesis").value=scores.thesis;$("#scoreEvidence").value=scores.evidence;$("#scoreLogic").value=scores.logic;$("#scoreStyle").value=scores.style;
-  $("#teacherFeedback").value=sub.feedback||"";
-  openModal("feedbackModal");
-}
-function saveCurrentFeedback(){
-  const feedback=$("#teacherFeedback").value.trim();
-  updateAdmin(s=>{const sub=s.submissions.find(x=>x.id===activeSubmissionId);if(!sub)return;sub.status="done";sub.feedback=feedback;sub.scores={thesis:+$("#scoreThesis").value,evidence:+$("#scoreEvidence").value,logic:+$("#scoreLogic").value,style:+$("#scoreStyle").value}});
-  closeModal("feedbackModal");showToast("첨삭이 저장되었습니다.");
-}
-
+const $=s=>document.querySelector(s),$$=s=>[...document.querySelectorAll(s)];
 function route(name){
+  previousRoute=currentRoute==="detail"?previousRoute:currentRoute;
+  currentRoute=name;
   $$(".page").forEach(p=>p.classList.remove("active"));
   $("#page-"+name)?.classList.add("active");
   $$(".nav-link").forEach(n=>n.classList.toggle("active",n.dataset.route===name));
-  if(name==="library") renderLibrary();
-  if(name==="writing") renderWritingHub();
-  if(name==="progress") renderProgress();
-  if(name==="teacher") renderTeacher();
+  if(name==="books")renderBooks();
+  if(name==="topics")renderTopics();
+  if(name==="debate")renderDebates();
+  if(name==="writing")renderWriting();
+  if(name==="guides")renderGuides();
   window.scrollTo({top:0,behavior:"smooth"});
 }
-function cardHTML(l){
-  return `<article class="topic-card" data-category="${l.category}">
-    <div class="topic-icon">${l.icon}</div>
-    <div class="card-meta"><span class="tag">${l.category}</span><span class="tag">${l.level}</span><span class="tag">${l.difficulty}</span></div>
-    <h3>${l.title}</h3><p>${l.intro}</p>
-    <div class="progress-row"><span>${l.time}</span><span>진행률 ${percent(l.id)}%</span></div>
-    <button class="text-link" data-open-lesson="${l.id}">학습하기 →</button>
-  </article>`;
+function bindRoutes(){
+  $$("[data-route]").forEach(el=>el.onclick=()=>route(el.dataset.route));
+  $$("[data-filter-level]").forEach(el=>el.onclick=()=>{bookLevel=el.dataset.filterLevel;route("books")});
 }
-function renderCards(){
-  $("#homeCards").innerHTML=lessons.map(cardHTML).join("");
-  renderLibrary();
+function cardHtml(item){
+  return `<article class="content-card"><span class="card-kicker">${item.type||item.category}</span><h3>${item.title}</h3><p>${item.summary||item.desc}</p><div class="meta-row"><span class="tag">${item.level||item.audience||""}</span>${item.category?'<span class="tag">'+item.category+'</span>':""}</div><button class="text-link" data-open-content="${item.id}">읽어보기 →</button></article>`;
 }
-function renderLibrary(){
-  const arr=currentFilter==="all"?lessons:lessons.filter(l=>l.category===currentFilter);
-  $("#libraryCards").innerHTML=arr.map(cardHTML).join("");
-  bindLessonButtons();
+function renderFeatured(){
+  $("#featuredContent").innerHTML=[topics[3],debates[0],writing[0]].map(cardHtml).join("");
+  bindContent();
 }
-function bindLessonButtons(){
-  $$("[data-open-lesson]").forEach(b=>b.onclick=()=>openLesson(b.dataset.openLesson));
+function renderBooks(){
+  $("#bookLevelFilters").innerHTML=["전체","초등","중등","고등"].map(x=>`<button class="chip ${bookLevel===x?"active":""}" data-book-level="${x}">${x}</button>`).join("");
+  const q=($("#bookSearch")?.value||"").trim().toLowerCase();
+  const arr=books.filter(b=>(bookLevel==="전체"||b.level===bookLevel)&&(!q||(b.title+" "+b.author+" "+b.category).toLowerCase().includes(q)));
+  $("#bookGrid").innerHTML=arr.length?arr.map(b=>`<article class="book-card"><div class="book-cover">${b.title}</div><span class="card-kicker">${b.level} · ${b.category}</span><h3>${b.title}</h3><p>${b.author} · ${b.desc}</p><button class="text-link" data-open-content="${b.id}">독서 질문 보기 →</button></article>`).join(""):'<div class="empty-state">조건에 맞는 책이 없습니다.</div>';
+  $$("[data-book-level]").forEach(x=>x.onclick=()=>{bookLevel=x.dataset.bookLevel;renderBooks()});
+  $("#bookSearch").oninput=renderBooks;bindContent();
 }
-function openLesson(id,step="read"){
-  currentLesson=lessons.find(l=>l.id===id)||lessons[0];currentStep=step;route("lesson");renderLesson();
+function renderTopics(){
+  const cats=["전체",...new Set(topics.map(x=>x.category))];
+  $("#topicTabs").innerHTML=cats.map(c=>`<button class="chip ${topicCategory===c?"active":""}" data-topic-cat="${c}">${c}</button>`).join("");
+  const arr=topicCategory==="전체"?topics:topics.filter(x=>x.category===topicCategory);
+  $("#topicGrid").innerHTML=arr.map(cardHtml).join("");
+  $$("[data-topic-cat]").forEach(x=>x.onclick=()=>{topicCategory=x.dataset.topicCat;renderTopics()});bindContent();
 }
-function renderLesson(){
-  const l=currentLesson;
-  $("#lessonMeta").innerHTML=`<span class="tag">${l.category}</span><span class="tag">${l.level}</span><span class="tag">${l.time}</span><span class="tag">${l.difficulty}</span>`;
-  $("#lessonTitle").textContent=l.title;$("#lessonIntro").textContent=l.intro;
-  $("#lessonTabs").innerHTML=steps.map((s,i)=>`<button class="lesson-tab ${s===currentStep?"active":""}" data-step="${s}">${i+1}. ${stepNames[s]}</button>`).join("");
-  $$("[data-step]").forEach(b=>b.onclick=()=>{currentStep=b.dataset.step;renderLesson()});
-  renderLessonContent();updateLessonProgress();
+function renderDebates(){
+  $("#debateGrid").innerHTML=debates.map((d,i)=>`<article class="debate-card"><div class="debate-no">${String(i+1).padStart(2,"0")}</div><div><span class="card-kicker">${d.level}</span><h3>${d.title}</h3><p>${d.summary}</p></div><button class="btn ghost" data-open-content="${d.id}">쟁점 보기</button></article>`).join("");bindContent();
 }
-function nextButton(step){
-  const i=steps.indexOf(step), next=steps[i+1];
-  if(!next)return "";
-  return `<div style="margin-top:26px;text-align:right"><button class="btn primary" id="nextStep">다음: ${stepNames[next]}</button></div>`;
+function renderWriting(){$("#writingGrid").innerHTML=writing.map(cardHtml).join("");bindContent()}
+function renderGuides(){$("#guideGrid").innerHTML=guides.map(g=>`<article class="guide-card"><span class="card-kicker">${g.audience}</span><h3>${g.title}</h3><p>${g.summary}</p><button class="text-link" data-open-content="${g.id}">자세히 보기 →</button></article>`).join("");bindContent()}
+function findItem(id){return allSearch.find(x=>x.id===id)}
+function openDetail(id){
+  const item=findItem(id);if(!item)return;
+  previousRoute=currentRoute==="detail"?previousRoute:currentRoute;currentRoute="detail";
+  $$(".page").forEach(p=>p.classList.remove("active"));$("#page-detail").classList.add("active");$$(".nav-link").forEach(n=>n.classList.remove("active"));
+  const body=item.body||[];
+  const points=item.points||[];
+  const questions=item.questions||[];
+  $("#detailArticle").innerHTML=`<header class="detail-hero"><span class="eyebrow">${item.type||"추천도서"}</span><h1>${item.title}</h1><p class="detail-summary">${item.summary||item.desc}</p><div class="meta-row">${item.author?'<span class="tag">'+item.author+'</span>':""}${item.level?'<span class="tag">'+item.level+'</span>':""}${item.category?'<span class="tag">'+item.category+'</span>':""}</div></header>
+  <div class="article-body">
+    ${item.author?'<h2>이 책으로 무엇을 생각할까</h2><p>'+item.desc+'</p>':""}
+    ${body.map(p=>'<p>'+p+'</p>').join("")}
+    ${points.length?'<h2>토론의 핵심 쟁점</h2><ul>'+points.map(p=>'<li>'+p+'</li>').join("")+'</ul>':""}
+    ${questions.length?'<div class="question-box"><h3>생각해 볼 질문</h3><ol>'+questions.map(q=>'<li>'+q+'</li>').join("")+'</ol></div>':""}
+  </div>`;
+  window.scrollTo({top:0,behavior:"smooth"});
 }
-function renderLessonContent(){
-  const l=currentLesson;let html="";
-  if(currentStep==="read"){
-    html=`<div class="content-box"><span class="eyebrow">STEP 01</span><h2>제시문 읽기</h2>
-      <div class="note-box">밑줄 친 핵심 문장을 중심으로 글쓴이가 ‘문제 → 이유 → 제안’을 어떤 순서로 제시하는지 살펴보세요.</div>
-      <article class="article-box">${l.passage.map(p=>`<p>${p}</p>`).join("")}</article>
-      ${nextButton("read")}</div>`;
-  }
-  if(currentStep==="vocab"){
-    html=`<div class="content-box"><span class="eyebrow">STEP 02</span><h2>핵심 어휘</h2><div class="vocab-list">${l.vocab.map(v=>`<div class="vocab-item"><b>${v[0]}</b><span>${v[1]}</span></div>`).join("")}</div>${nextButton("vocab")}</div>`;
-  }
-  if(currentStep==="quiz"){
-    html=`<div class="content-box"><span class="eyebrow">STEP 03</span><h2>내용 확인</h2><p class="note-box">각 문항의 답을 고른 뒤 해설을 확인하세요.</p>
-      ${l.quiz.map((q,qi)=>`<div class="question-card" data-q="${qi}"><p>${qi+1}. ${q.q}</p>${q.choices.map((c,ci)=>`<button class="choice" data-choice="${ci}">${ci+1}. ${c}</button>`).join("")}<div class="feedback"></div></div>`).join("")}${nextButton("quiz")}</div>`;
-  }
-  if(currentStep==="think"){
-    html=`<div class="content-box"><span class="eyebrow">STEP 04</span><h2>사고 확장</h2><p class="note-box">정답이 하나로 정해진 질문이 아닙니다. 말로 설명한 뒤 핵심 문장을 한 줄로 적어 보세요.</p>
-      ${l.thinking.map(t=>`<div class="thinking-prompt"><b>${t[0]}</b><p>${t[1]}</p></div>`).join("")}${nextButton("think")}</div>`;
-  }
-  if(currentStep==="write"){
-    const ls=getLessonState(l.id);
-    html=`<div class="content-box"><span class="eyebrow">STEP 05</span><h2>논술쓰기</h2><div class="writing-card">
-      <div class="writing-prompt"><b>논제</b><p>${l.prompt}</p></div>
-      <textarea id="essay" placeholder="주장 → 근거 → 설명 → 결론의 흐름을 생각하며 작성해 보세요.">${escapeHtml(ls.draft)}</textarea>
-      <div class="writing-toolbar"><div><span class="char-count" id="charCount">0자</span><span class="save-status" id="saveStatus"></span></div><button class="btn ghost small" id="saveEssay">초안 저장</button></div>
-      <div class="self-check"><label><input type="checkbox"> 논제에 직접 답했나요?</label><label><input type="checkbox"> 제시문의 개념을 정확히 활용했나요?</label><label><input type="checkbox"> 근거 뒤에 설명이 있나요?</label><label><input type="checkbox"> 문단의 역할이 구분되나요?</label></div>
-      <button class="btn primary" id="submitEssay">${ls.submitted?"제출 완료 · 다시 저장":"학습 완료로 제출"}</button>
-    </div></div>`;
-  }
-  $("#lessonContent").innerHTML=html;
-  if(currentStep==="quiz") bindQuiz();
-  if(currentStep==="write") bindEssay();
-  $("#nextStep")?.addEventListener("click",()=>{markDone(l.id,currentStep);currentStep=steps[steps.indexOf(currentStep)+1];renderLesson();window.scrollTo({top:180,behavior:"smooth"})});
-  if(currentStep!=="write") markDone(l.id,currentStep);
+function bindContent(){$$("[data-open-content]").forEach(x=>x.onclick=()=>openDetail(x.dataset.openContent))}
+function openSearch(){$("#searchOverlay").classList.add("open");$("#searchOverlay").setAttribute("aria-hidden","false");$("#globalSearch").value="";$("#searchResults").innerHTML='<div class="empty-state">책 제목, 개념, 논제, 글쓰기 방법을 검색해 보세요.</div>';setTimeout(()=>$("#globalSearch").focus(),50)}
+function closeSearch(){$("#searchOverlay").classList.remove("open");$("#searchOverlay").setAttribute("aria-hidden","true")}
+function runSearch(){
+  const q=$("#globalSearch").value.trim().toLowerCase();
+  if(!q){$("#searchResults").innerHTML='<div class="empty-state">검색어를 입력해 주세요.</div>';return}
+  const arr=allSearch.filter(x=>JSON.stringify(x).toLowerCase().includes(q)).slice(0,12);
+  $("#searchResults").innerHTML=arr.length?arr.map(x=>`<div class="search-result" data-open-content="${x.id}"><span>${x.type||"추천도서"}</span><b>${x.title}</b><small>${x.summary||x.desc||""}</small></div>`).join(""):'<div class="empty-state">검색 결과가 없습니다.</div>';
+  bindContent();
 }
-function bindQuiz(){
-  $$(".question-card").forEach(card=>card.querySelectorAll(".choice").forEach(btn=>btn.onclick=()=>{
-    const q=currentLesson.quiz[+card.dataset.q], selected=+btn.dataset.choice;
-    card.querySelectorAll(".choice").forEach((x,i)=>{x.disabled=true;if(i===q.answer)x.classList.add("correct");else if(i===selected)x.classList.add("wrong")});
-    card.querySelector(".feedback").textContent=(selected===q.answer?"정답입니다. ":"다시 확인해 보세요. ")+q.why;
-  }));
-}
-function bindEssay(){
-  const ta=$("#essay"), count=$("#charCount"), status=$("#saveStatus");
-  const update=()=>count.textContent=ta.value.replace(/\s/g,"").length+"자";update();
-  ta.addEventListener("input",()=>{update();status.textContent="작성 중…";clearTimeout(window.__saveTimer);window.__saveTimer=setTimeout(()=>{setLessonState(currentLesson.id,{draft:ta.value});status.textContent="자동 저장됨"},700)});
-  $("#saveEssay").onclick=()=>{setLessonState(currentLesson.id,{draft:ta.value});status.textContent="저장되었습니다."};
-  $("#submitEssay").onclick=()=>{setLessonState(currentLesson.id,{draft:ta.value,submitted:true,done:[...new Set([...getLessonState(currentLesson.id).done,"write"])]});status.textContent="제출 및 저장 완료";$("#submitEssay").textContent="제출 완료 · 다시 저장";updateLessonProgress()};
-}
-function escapeHtml(v){return (v||"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;")}
-function updateLessonProgress(){
-  const p=percent(currentLesson.id);$("#lessonPercent").textContent=p+"%";$("#progressRing").style.background=`conic-gradient(var(--green) ${p*3.6}deg,#e8eeeb 0deg)`;$("#lessonStepCopy").textContent=p===100?"한 편의 학습을 완성했습니다.":`${getLessonState(currentLesson.id).done.length}/5단계를 학습했습니다.`;
-}
-function renderWritingHub(){
-  const drafts=lessons.filter(l=>getLessonState(l.id).draft);
-  $("#writingHub").innerHTML=drafts.length?drafts.map(l=>{const s=getLessonState(l.id);return `<article class="draft-card"><span class="pill">${s.submitted?"제출 완료":"작성 중"}</span><h3>${l.title}</h3><p>${escapeHtml(s.draft)}</p><button class="btn ghost small" data-write="${l.id}">이어 쓰기</button></article>`}).join(""):`<div class="empty-state"><h3>아직 저장된 논술이 없습니다.</h3><p>독서논술 콘텐츠에서 마지막 단계까지 진행하면 이곳에서 이어 쓸 수 있습니다.</p><button class="btn primary" data-route="library">콘텐츠 고르기</button></div>`;
-  $$("[data-write]").forEach(b=>b.onclick=()=>openLesson(b.dataset.write,"write"));bindRouteButtons();
-}
-function renderProgress(){
-  const values=lessons.map(l=>({l,p:percent(l.id),s:getLessonState(l.id)}));
-  const completed=values.filter(x=>x.p===100).length,drafts=values.filter(x=>x.s.draft).length,avg=Math.round(values.reduce((a,x)=>a+x.p,0)/values.length);
-  $("#metricCompleted").textContent=completed;$("#metricDrafts").textContent=drafts;$("#metricAverage").textContent=avg;
-  $("#progressList").innerHTML=values.map(x=>`<div class="progress-item"><div class="progress-row"><b>${x.l.title}</b><span>${x.p}%</span></div><div class="bar"><span style="width:${x.p}%"></span></div></div>`).join("");
-  const next=values.sort((a,b)=>a.p-b.p).find(x=>x.p<100)||values[0];
-  $("#nextLesson").innerHTML=`<div class="topic-icon">${next.l.icon}</div><span class="pill">${next.l.category}</span><h3>${next.l.title}</h3><p style="color:var(--muted);font-size:13px">${next.l.intro}</p><button class="btn primary small" data-open-lesson="${next.l.id}">학습 이어가기</button>`;bindLessonButtons();
-}
-function refreshStats(){
-  const vals=lessons.map(l=>getLessonState(l.id)),completed=lessons.filter(l=>percent(l.id)===100).length,drafts=vals.filter(s=>s.draft).length,avg=Math.round(lessons.reduce((a,l)=>a+percent(l.id),0)/lessons.length);
-  $("#statCompleted").textContent=completed;$("#statDrafts").textContent=drafts;$("#headerProgress").textContent=`진행률 ${avg}%`;
-}
-function bindRouteButtons(){$$("[data-route]").forEach(b=>b.onclick=()=>route(b.dataset.route))}
-$$(".filter").forEach(b=>b.onclick=()=>{$$(".filter").forEach(x=>x.classList.remove("active"));b.classList.add("active");currentFilter=b.dataset.filter;renderLibrary()});
-bindRouteButtons();renderCards();bindLessonButtons();refreshStats();renderStudentAssignments();
-const initialAdminState=loadAdminState();
-document.body.classList.toggle("teacher-mode",initialAdminState.role==="teacher");
-$("#roleSwitch").textContent=initialAdminState.role==="teacher"?"학생 모드":"교사 모드";
-$(".profile-copy b").textContent=initialAdminState.role==="teacher"?"선생님":"학습자";
-$(".profile-button").dataset.route=initialAdminState.role==="teacher"?"teacher":"progress";
-bindRouteButtons();
-$("#roleSwitch").onclick=()=>setRole(loadAdminState().role==="teacher"?"student":"teacher");
-$("#openAssignmentModal").onclick=()=>{populateAssignmentModal();openModal("assignmentModal")};
-$("[data-close-modal]").forEach(b=>b.onclick=()=>closeModal(b.dataset.closeModal));
-$(".modal-backdrop").forEach(m=>m.addEventListener("click",e=>{if(e.target===m)closeModal(m.id)}));
-$("#createAssignment").onclick=()=>{
-  const classId=$("#assignmentClass").value, lessonId=$("#assignmentLesson").value, due=$("#assignmentDue").value, note=$("#assignmentNote").value.trim();
-  updateAdmin(s=>s.assignments.unshift({id:"a"+Date.now(),classId,lessonId,due,note}));
-  closeModal("assignmentModal");showToast("과제가 배정되었습니다.");
-};
-$("#saveFeedback").onclick=saveCurrentFeedback;
-$("#addDemoStudent").onclick=()=>updateAdmin(s=>{const c=s.classes[0];c.students.push({id:"s"+Date.now(),name:"신규학생"+(c.students.length+1)})});
-$("[data-submission-filter]").forEach(b=>b.onclick=()=>{submissionFilter=b.dataset.submissionFilter;$("[data-submission-filter]").forEach(x=>x.classList.toggle("active",x===b));renderTeacher()});
-if(initialAdminState.role==="teacher") route("teacher");
-
+$("#openSearch").onclick=openSearch;$("#closeSearch").onclick=closeSearch;$("#globalSearch").oninput=runSearch;$("#searchOverlay").onclick=e=>{if(e.target.id==="searchOverlay")closeSearch()};
+$("#detailBack").onclick=()=>route(previousRoute||"home");
+document.addEventListener("keydown",e=>{if(e.key==="Escape")closeSearch()});
+bindRoutes();renderFeatured();renderBooks();renderTopics();renderDebates();renderWriting();renderGuides();bindContent();
