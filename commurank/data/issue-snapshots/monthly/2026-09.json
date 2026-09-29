@@ -3,7 +3,7 @@
   "period": "monthly",
   "key": "2026-09",
   "label": "2026년 09월",
-  "collected_at": "2026-09-30T00:45:42.350300+09:00",
+  "collected_at": "2026-09-30T05:15:44.512747+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -552,7 +552,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 13,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i8b4085e0",
@@ -593,7 +593,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 14,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i106465f0",
@@ -634,7 +634,7 @@
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 15,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i74cea219",
@@ -691,7 +691,7 @@
       "latest_source_count": 3,
       "latest_post_count": 4,
       "rank": 16,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i707041a3",
@@ -742,7 +742,7 @@
       "latest_source_count": 3,
       "latest_post_count": 3,
       "rank": 17,
-      "change": -1
+      "change": 0
     },
     {
       "id": "ibcbce939",
@@ -780,7 +780,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 18,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i78f6419e",
@@ -821,45 +821,46 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 19,
-      "change": -1
+      "change": 0
     },
     {
-      "id": "i5781c296",
-      "title": "‘네이버’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i879d3e36",
+      "title": "‘박정희’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "네이버"
+        "박정희"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 99.96,
-      "peak_score": 90.49,
-      "appearances": 1,
+      "score": 100.07,
+      "peak_score": 88.58,
+      "appearances": 2,
       "sources": [
-        "더쿠",
-        "루리웹"
+        "디시인사이드",
+        "뽐뿌",
+        "클리앙"
       ],
       "posts": [
         {
-          "source": "루리웹",
-          "rank": 5,
-          "title": "[네이버] [PS5] 메타포 리판타지오 [16,820]",
-          "url": "https://bbs.ruliweb.com/market/board/1020/read/107560",
-          "score": 81.49
+          "source": "뽐뿌",
+          "rank": 7,
+          "title": "김고은한테 박정희 아니면 몸팔고 다녔을거라는 보디빌더.jpg",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10135745",
+          "score": 79.58
         },
         {
-          "source": "더쿠",
-          "rank": 53,
-          "title": "동일한 목적지 순정-티맵-네이버-카카오 주행 실험",
-          "url": "https://theqoo.net/hot/4357782924",
-          "score": 59.89
+          "source": "클리앙",
+          "rank": 55,
+          "title": "암살자(들)' 논란 물어보니‥허진호 감독 '박정희 배후라 생각한 적 없다'",
+          "url": "https://www.clien.net/service/board/park/19271489?od=T31&po=0&category=0&groupCd=",
+          "score": 55.7
         }
       ],
-      "first_seen": "2026-09-27T20:23:34.525151+09:00",
-      "last_seen": "2026-09-27T20:23:34.525151+09:00",
+      "first_seen": "2026-09-28T19:49:36.308484+09:00",
+      "last_seen": "2026-09-30T05:15:44.512747+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 20,
-      "change": -1
+      "change": "NEW"
     }
   ]
 }
