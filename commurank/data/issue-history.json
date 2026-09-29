@@ -1,6 +1,413 @@
 {
   "version": 1,
   "issues": {
+    "i106465f0": {
+      "id": "i106465f0",
+      "first_seen": "2026-09-27T18:16:30.778383+09:00",
+      "last_seen": "2026-09-30T00:45:42.350300+09:00",
+      "title": "‘암살자들’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "암살자들"
+      ],
+      "points": [
+        {
+          "at": "2026-09-27T18:16:30.778383+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 83.35,
+          "sources": [
+            "디시인사이드",
+            "뽐뿌"
+          ],
+          "post_urls": [
+            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10132289",
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=466178&_dcbest=1&page=1"
+          ]
+        },
+        {
+          "at": "2026-09-27T18:31:46.541305+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 75.04,
+          "sources": [
+            "디시인사이드",
+            "뽐뿌"
+          ],
+          "post_urls": [
+            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10132289",
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=466178&_dcbest=1&page=1"
+          ]
+        },
+        {
+          "at": "2026-09-27T18:45:04.136110+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 67.32,
+          "sources": [
+            "디시인사이드",
+            "루리웹"
+          ],
+          "post_urls": [
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=466178&_dcbest=1&page=1",
+            "https://bbs.ruliweb.com/best/board/300143/read/76811088?m=humor_only&t=now"
+          ]
+        },
+        {
+          "at": "2026-09-29T18:03:51.886668+09:00",
+          "source_count": 3,
+          "post_count": 3,
+          "score": 78.22,
+          "sources": [
+            "디시인사이드",
+            "인벤",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=466672&_dcbest=1&page=1",
+            "https://www.inven.co.kr/board/webzine/2097/2734038",
+            "https://www.clien.net/service/board/park/19271325?od=T31&po=0&category=0&groupCd="
+          ]
+        },
+        {
+          "at": "2026-09-29T18:06:58.844578+09:00",
+          "source_count": 3,
+          "post_count": 4,
+          "score": 78.78,
+          "sources": [
+            "디시인사이드",
+            "인벤",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=466672&_dcbest=1&page=1",
+            "https://www.inven.co.kr/board/webzine/2097/2734038",
+            "https://www.clien.net/service/board/park/19271325?od=T31&po=0&category=0&groupCd="
+          ]
+        },
+        {
+          "at": "2026-09-30T00:45:42.350300+09:00",
+          "source_count": 2,
+          "post_count": 3,
+          "score": 83.85,
+          "sources": [
+            "디시인사이드",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=466802&_dcbest=1&page=1",
+            "https://www.clien.net/service/board/park/19271483?od=T31&po=0&category=0&groupCd="
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 11,
+          "title": "암살자들 제작사대표-518 스벅 탱크데이 사태 일침 파묘",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466802&_dcbest=1&page=1",
+          "score": 73.85
+        },
+        {
+          "source": "클리앙",
+          "rank": 96,
+          "title": "[단독] 국힘 이인선 ''암살자들' 관람 현황 내라' 학교에 요구",
+          "url": "https://www.clien.net/service/board/park/19271483?od=T31&po=0&category=0&groupCd=",
+          "score": 52.09
+        }
+      ]
+    },
+    "i039fd79c": {
+      "id": "i039fd79c",
+      "first_seen": "2026-09-27T13:38:37.715424+09:00",
+      "last_seen": "2026-09-30T00:45:42.350300+09:00",
+      "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "이재명",
+        "태양광"
+      ],
+      "points": [
+        {
+          "at": "2026-09-27T13:38:37.715424+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 65.3,
+          "sources": [
+            "인벤",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://www.inven.co.kr/board/webzine/2097/2733120",
+            "https://www.clien.net/service/board/park/19270191?od=T31&po=0&category=0&groupCd="
+          ]
+        },
+        {
+          "at": "2026-09-27T23:49:45.340258+09:00",
+          "source_count": 3,
+          "post_count": 4,
+          "score": 92.46,
+          "sources": [
+            "뽐뿌",
+            "인벤",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10132992",
+            "https://www.clien.net/service/board/park/19270441?od=T31&po=0&category=0&groupCd=",
+            "https://www.inven.co.kr/board/webzine/2097/2733284"
+          ]
+        },
+        {
+          "at": "2026-09-28T03:58:29.514955+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 95.54,
+          "sources": [
+            "뽐뿌",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10133084",
+            "https://www.clien.net/service/board/park/19270465?od=T31&po=0&category=0&groupCd="
+          ]
+        },
+        {
+          "at": "2026-09-28T13:04:57.705093+09:00",
+          "source_count": 2,
+          "post_count": 3,
+          "score": 81.1,
+          "sources": [
+            "디시인사이드",
+            "뽐뿌"
+          ],
+          "post_urls": [
+            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10133408",
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=466364&_dcbest=1&page=1"
+          ]
+        },
+        {
+          "at": "2026-09-29T03:16:54.567078+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 79.78,
+          "sources": [
+            "인벤",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://www.inven.co.kr/board/webzine/2097/2733756",
+            "https://www.clien.net/service/board/park/19271002?od=T31&po=0&category=0&groupCd="
+          ]
+        },
+        {
+          "at": "2026-09-30T00:45:42.350300+09:00",
+          "source_count": 3,
+          "post_count": 3,
+          "score": 81.43,
+          "sources": [
+            "디시인사이드",
+            "인벤",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://www.inven.co.kr/board/webzine/2097/2734159",
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=466750&_dcbest=1&page=1",
+            "https://www.clien.net/service/board/park/19271476?od=T31&po=0&category=0&groupCd="
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 31,
+          "title": "이재명 대통령 SNS 공유 기사 - 주가조작 패가망신 / 서울대 경영동아리 출신 현직임원들 정보카르텔 200억 부당이득",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2734159",
+          "score": 64.43
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 45,
+          "title": "이재명 “밭에다가 태양광 깔면 농사보다 수익, 유행될수도”",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466750&_dcbest=1&page=1",
+          "score": 61.54
+        },
+        {
+          "source": "클리앙",
+          "rank": 71,
+          "title": "이재명 대통령이 말하는 논에 태양광 한다는건 이거 말하는 걸거에요.",
+          "url": "https://www.clien.net/service/board/park/19271476?od=T31&po=0&category=0&groupCd=",
+          "score": 56.02
+        }
+      ]
+    },
+    "ib92d7d28": {
+      "id": "ib92d7d28",
+      "first_seen": "2026-09-30T00:45:42.350300+09:00",
+      "last_seen": "2026-09-30T00:45:42.350300+09:00",
+      "title": "‘카리나’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "카리나"
+      ],
+      "points": [
+        {
+          "at": "2026-09-30T00:45:42.350300+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 99.46,
+          "sources": [
+            "뽐뿌",
+            "인벤"
+          ],
+          "post_urls": [
+            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10135610",
+            "https://www.inven.co.kr/board/webzine/2097/2734171"
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 4,
+          "title": "비키니 입고 한 번을 안보여주는 카리나 ㄷㄷ ㄷㄷ ㄷㄷ ㄷㄷ.jpg",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10135610",
+          "score": 90.46
+        },
+        {
+          "source": "인벤",
+          "rank": 61,
+          "title": "카리나 (에스파)",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2734171",
+          "score": 58.23
+        }
+      ]
+    },
+    "i533b29bd": {
+      "id": "i533b29bd",
+      "first_seen": "2026-09-30T00:45:42.350300+09:00",
+      "last_seen": "2026-09-30T00:45:42.350300+09:00",
+      "title": "‘말하는’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "말하는"
+      ],
+      "points": [
+        {
+          "at": "2026-09-30T00:45:42.350300+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 80.89,
+          "sources": [
+            "디시인사이드",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=466774&_dcbest=1&page=1",
+            "https://www.clien.net/service/board/park/19271476?od=T31&po=0&category=0&groupCd="
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 13,
+          "title": "현직 초등교사가 말하는... 요즘 여학생과 남학생의 차이...jpg",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466774&_dcbest=1&page=1",
+          "score": 71.89
+        },
+        {
+          "source": "클리앙",
+          "rank": 71,
+          "title": "이재명 대통령이 말하는 논에 태양광 한다는건 이거 말하는 걸거에요.",
+          "url": "https://www.clien.net/service/board/park/19271476?od=T31&po=0&category=0&groupCd=",
+          "score": 56.02
+        }
+      ]
+    },
+    "if2922ecc": {
+      "id": "if2922ecc",
+      "first_seen": "2026-09-30T00:45:42.350300+09:00",
+      "last_seen": "2026-09-30T00:45:42.350300+09:00",
+      "title": "암살자(들)' 논란 물어보니‥허진호 감독 '박정희 배후라 생각한 적 없다'",
+      "keywords": [
+        "허진호",
+        "생각한",
+        "물어보니",
+        "암살자",
+        "박정희",
+        "배후라"
+      ],
+      "points": [
+        {
+          "at": "2026-09-30T00:45:42.350300+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 71.96,
+          "sources": [
+            "인벤",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://www.clien.net/service/board/park/19271489?od=T31&po=0&category=0&groupCd=",
+            "https://www.inven.co.kr/board/webzine/2097/2734165"
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 34,
+          "title": "암살자(들)' 논란 물어보니‥허진호 감독 '박정희 배후라 생각한 적 없다'",
+          "url": "https://www.clien.net/service/board/park/19271489?od=T31&po=0&category=0&groupCd=",
+          "score": 63.96
+        },
+        {
+          "source": "인벤",
+          "rank": 55,
+          "title": "암살자(들)' 논란 물어보니‥허진호 감독 \"박정희 배후라 생각한 적 없다\"",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2734165",
+          "score": 59.98
+        }
+      ]
+    },
+    "i20876ca0": {
+      "id": "i20876ca0",
+      "first_seen": "2026-09-30T00:45:42.350300+09:00",
+      "last_seen": "2026-09-30T00:45:42.350300+09:00",
+      "title": "‘사나이’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "사나이"
+      ],
+      "points": [
+        {
+          "at": "2026-09-30T00:45:42.350300+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 70.15,
+          "sources": [
+            "디시인사이드",
+            "루리웹"
+          ],
+          "post_urls": [
+            "https://bbs.ruliweb.com/best/board/300143/read/76851571?m=humor_only&t=now",
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=466754&_dcbest=1&page=1"
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 48,
+          "title": "원펀맨 지상 최강의 사나이",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76851571?m=humor_only&t=now",
+          "score": 61.15
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 82,
+          "title": "싱글벙글 포켓몬과 결혼하고싶던 사나이",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466754&_dcbest=1&page=1",
+          "score": 54.38
+        }
+      ]
+    },
     "i23a285e5": {
       "id": "i23a285e5",
       "first_seen": "2026-09-27T20:01:41.851026+09:00",
@@ -106,114 +513,6 @@
           "title": "아시안게임 여단 안세영 우승!금메달. 여단 최초의 2연패 짤많음!!!!!",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466694&_dcbest=1&page=1",
           "score": 58.39
-        }
-      ]
-    },
-    "i106465f0": {
-      "id": "i106465f0",
-      "first_seen": "2026-09-27T18:16:30.778383+09:00",
-      "last_seen": "2026-09-29T18:06:58.844578+09:00",
-      "title": "‘암살자들’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "암살자들"
-      ],
-      "points": [
-        {
-          "at": "2026-09-27T18:16:30.778383+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 83.35,
-          "sources": [
-            "디시인사이드",
-            "뽐뿌"
-          ],
-          "post_urls": [
-            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10132289",
-            "https://gall.dcinside.com/board/view/?id=dcbest&no=466178&_dcbest=1&page=1"
-          ]
-        },
-        {
-          "at": "2026-09-27T18:31:46.541305+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 75.04,
-          "sources": [
-            "디시인사이드",
-            "뽐뿌"
-          ],
-          "post_urls": [
-            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10132289",
-            "https://gall.dcinside.com/board/view/?id=dcbest&no=466178&_dcbest=1&page=1"
-          ]
-        },
-        {
-          "at": "2026-09-27T18:45:04.136110+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 67.32,
-          "sources": [
-            "디시인사이드",
-            "루리웹"
-          ],
-          "post_urls": [
-            "https://gall.dcinside.com/board/view/?id=dcbest&no=466178&_dcbest=1&page=1",
-            "https://bbs.ruliweb.com/best/board/300143/read/76811088?m=humor_only&t=now"
-          ]
-        },
-        {
-          "at": "2026-09-29T18:03:51.886668+09:00",
-          "source_count": 3,
-          "post_count": 3,
-          "score": 78.22,
-          "sources": [
-            "디시인사이드",
-            "인벤",
-            "클리앙"
-          ],
-          "post_urls": [
-            "https://gall.dcinside.com/board/view/?id=dcbest&no=466672&_dcbest=1&page=1",
-            "https://www.inven.co.kr/board/webzine/2097/2734038",
-            "https://www.clien.net/service/board/park/19271325?od=T31&po=0&category=0&groupCd="
-          ]
-        },
-        {
-          "at": "2026-09-29T18:06:58.844578+09:00",
-          "source_count": 3,
-          "post_count": 4,
-          "score": 78.78,
-          "sources": [
-            "디시인사이드",
-            "인벤",
-            "클리앙"
-          ],
-          "post_urls": [
-            "https://gall.dcinside.com/board/view/?id=dcbest&no=466672&_dcbest=1&page=1",
-            "https://www.inven.co.kr/board/webzine/2097/2734038",
-            "https://www.clien.net/service/board/park/19271325?od=T31&po=0&category=0&groupCd="
-          ]
-        }
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 49,
-          "title": "김고은 암살자들 추천 후기",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466672&_dcbest=1&page=1",
-          "score": 60.78
-        },
-        {
-          "source": "인벤",
-          "rank": 56,
-          "title": "[단독] 국힘 이인선 \"'암살자들' 관람 현황 내라\" 학교에 요구",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2734038",
-          "score": 60.46
-        },
-        {
-          "source": "클리앙",
-          "rank": 76,
-          "title": "그것이 알고싶다에도 나왔는데 암살자들 내용이 뭐가 문제냐는 사람들 참 재밌지요",
-          "url": "https://www.clien.net/service/board/park/19271325?od=T31&po=0&category=0&groupCd=",
-          "score": 56.38
         }
       ]
     },
@@ -1461,105 +1760,6 @@
           "title": "암살자 작년에 개봉했으면 천만 찍었을겁니다",
           "url": "https://www.clien.net/service/board/park/19271005?od=T31&po=0&category=0&groupCd=",
           "score": 62.0
-        }
-      ]
-    },
-    "i039fd79c": {
-      "id": "i039fd79c",
-      "first_seen": "2026-09-27T13:38:37.715424+09:00",
-      "last_seen": "2026-09-29T03:16:54.567078+09:00",
-      "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "이재명"
-      ],
-      "points": [
-        {
-          "at": "2026-09-27T13:38:37.715424+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 65.3,
-          "sources": [
-            "인벤",
-            "클리앙"
-          ],
-          "post_urls": [
-            "https://www.inven.co.kr/board/webzine/2097/2733120",
-            "https://www.clien.net/service/board/park/19270191?od=T31&po=0&category=0&groupCd="
-          ]
-        },
-        {
-          "at": "2026-09-27T23:49:45.340258+09:00",
-          "source_count": 3,
-          "post_count": 4,
-          "score": 92.46,
-          "sources": [
-            "뽐뿌",
-            "인벤",
-            "클리앙"
-          ],
-          "post_urls": [
-            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10132992",
-            "https://www.clien.net/service/board/park/19270441?od=T31&po=0&category=0&groupCd=",
-            "https://www.inven.co.kr/board/webzine/2097/2733284"
-          ]
-        },
-        {
-          "at": "2026-09-28T03:58:29.514955+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 95.54,
-          "sources": [
-            "뽐뿌",
-            "클리앙"
-          ],
-          "post_urls": [
-            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10133084",
-            "https://www.clien.net/service/board/park/19270465?od=T31&po=0&category=0&groupCd="
-          ]
-        },
-        {
-          "at": "2026-09-28T13:04:57.705093+09:00",
-          "source_count": 2,
-          "post_count": 3,
-          "score": 81.1,
-          "sources": [
-            "디시인사이드",
-            "뽐뿌"
-          ],
-          "post_urls": [
-            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10133408",
-            "https://gall.dcinside.com/board/view/?id=dcbest&no=466364&_dcbest=1&page=1"
-          ]
-        },
-        {
-          "at": "2026-09-29T03:16:54.567078+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 79.78,
-          "sources": [
-            "인벤",
-            "클리앙"
-          ],
-          "post_urls": [
-            "https://www.inven.co.kr/board/webzine/2097/2733756",
-            "https://www.clien.net/service/board/park/19271002?od=T31&po=0&category=0&groupCd="
-          ]
-        }
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 19,
-          "title": "김어준 이재명 sns 알고리즘감옥",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2733756",
-          "score": 70.78
-        },
-        {
-          "source": "클리앙",
-          "rank": 43,
-          "title": "누가 이재명 대통령 지지하라고 강요 했나요?",
-          "url": "https://www.clien.net/service/board/park/19271002?od=T31&po=0&category=0&groupCd=",
-          "score": 63.34
         }
       ]
     },
@@ -4727,5 +4927,5 @@
       ]
     }
   },
-  "updated_at": "2026-09-29T18:06:58.844578+09:00"
+  "updated_at": "2026-09-30T00:45:42.350300+09:00"
 }
