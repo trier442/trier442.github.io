@@ -3472,16 +3472,41 @@ function openDetail(id){
   window.scrollTo({top:0,behavior:"smooth"});
 }
 function bindContent(){}
-function openSearch(){$("#searchOverlay").classList.add("open");$("#searchOverlay").setAttribute("aria-hidden","false");$("#globalSearch").value="";$("#searchResults").innerHTML='<div class="empty-state">책 제목, 개념, 논제, 글쓰기 방법을 검색해 보세요.</div>';setTimeout(()=>$("#globalSearch").focus(),50)}
+function openSearch(){
+  $("#searchOverlay").classList.add("open");
+  $("#searchOverlay").setAttribute("aria-hidden","false");
+  $("#globalSearch").value="";
+  $("#searchStatus").textContent="추천도서 30 · 주제읽기 30 · 토론논제 20 · 논술쓰기 20 · 교육가이드 20";
+  $("#searchResults").innerHTML='<div class="empty-state">검색어를 입력하거나 빠른 검색어를 선택해 보세요.</div>';
+  setTimeout(()=>$("#globalSearch").focus(),50);
+}
 function closeSearch(){$("#searchOverlay").classList.remove("open");$("#searchOverlay").setAttribute("aria-hidden","true")}
 function runSearch(){
   const q=$("#globalSearch").value.trim().toLowerCase();
-  if(!q){$("#searchResults").innerHTML='<div class="empty-state">검색어를 입력해 주세요.</div>';return}
-  const arr=allSearch.filter(x=>JSON.stringify(x).toLowerCase().includes(q)).slice(0,12);
-  $("#searchResults").innerHTML=arr.length?arr.map(x=>`<a class="search-result" href="${contentUrl(x.id)}"><span>${x.type||"추천도서"}</span><b>${x.title}</b><small>${x.summary||x.desc||""}</small></div>`).join(""):'<div class="empty-state">검색 결과가 없습니다.</div>';
-  bindContent();
+  if(!q){
+    $("#searchStatus").textContent="추천도서 30 · 주제읽기 30 · 토론논제 20 · 논술쓰기 20 · 교육가이드 20";
+    $("#searchResults").innerHTML='<div class="empty-state">검색어를 입력하거나 빠른 검색어를 선택해 보세요.</div>';
+    return;
+  }
+  const scored=allSearch.map(x=>{
+    const title=(x.title||"").toLowerCase();
+    const category=(x.category||x.type||"").toLowerCase();
+    const summary=(x.summary||x.desc||"").toLowerCase();
+    const blob=JSON.stringify(x).toLowerCase();
+    let score=0;
+    if(title===q)score+=100;
+    if(title.startsWith(q))score+=50;
+    if(title.includes(q))score+=30;
+    if(category.includes(q))score+=15;
+    if(summary.includes(q))score+=10;
+    if(blob.includes(q))score+=2;
+    return {x,score};
+  }).filter(v=>v.score>0).sort((a,b)=>b.score-a.score||a.x.title.localeCompare(b.x.title,"ko"));
+  const arr=scored.slice(0,24).map(v=>v.x);
+  $("#searchStatus").textContent=arr.length?("검색 결과 "+scored.length+"개"+(scored.length>24?" · 상위 24개 표시":"")):"검색 결과 0개";
+  $("#searchResults").innerHTML=arr.length?arr.map(x=>'<a class="search-result" href="'+contentUrl(x.id)+'"><span>'+(x.type||"추천도서")+(x.category?" · "+x.category:"")+'</span><b>'+x.title+'</b><small>'+(x.summary||x.desc||"")+'</small></a>').join(""):'<div class="empty-state">검색 결과가 없습니다. 다른 단어로 검색해 보세요.</div>';
 }
-$("#openSearch").onclick=openSearch;$("#closeSearch").onclick=closeSearch;$("#globalSearch").oninput=runSearch;$("#searchOverlay").onclick=e=>{if(e.target.id==="searchOverlay")closeSearch()};
+$("#openSearch").onclick=openSearch;$("#openLibrarySearch").onclick=openSearch;$("#closeSearch").onclick=closeSearch;$("#globalSearch").oninput=runSearch;document.querySelectorAll("[data-search-term]").forEach(b=>b.onclick=()=>{$("#globalSearch").value=b.dataset.searchTerm;runSearch();$("#globalSearch").focus()});$("#searchOverlay").onclick=e=>{if(e.target.id==="searchOverlay")closeSearch()};
 $("#detailBack").onclick=()=>route(previousRoute||"home");
-document.addEventListener("keydown",e=>{if(e.key==="Escape")closeSearch()});
+const mobileMenu=$("#mobileMenu"),mobileMenuButton=$("#mobileMenuButton");mobileMenuButton.onclick=()=>{const open=mobileMenu.classList.toggle("open");mobileMenuButton.setAttribute("aria-expanded",String(open));mobileMenuButton.textContent=open?"×":"☰"};document.addEventListener("keydown",e=>{if(e.key==="Escape"){closeSearch();mobileMenu.classList.remove("open");mobileMenuButton.setAttribute("aria-expanded","false");mobileMenuButton.textContent="☰"}});
 bindRoutes();renderFeatured();renderBooks();renderTopics();renderDebates();renderWriting();renderGuides();bindContent();
