@@ -15,13 +15,13 @@
 <body>
   <header class="site-header">
     <div class="header-inner">
-      <button class="brand" data-route="home" aria-label="홈으로">
+      <a class="brand" href="/munhaeryeokplus/" aria-label="문해력플러스 홈">
         <span class="brand-mark">M+</span>
         <span class="brand-copy">
           <strong>문해력플러스</strong>
           <small>LITERACY PLUS · 읽기에서 생각과 글쓰기까지</small>
         </span>
-      </button>
+      </a>
       <nav class="main-nav" aria-label="주요 메뉴">
         <a class="nav-link active" href="/munhaeryeokplus/">홈</a>
         <a class="nav-link" href="/munhaeryeokplus/books/">추천도서</a>
@@ -30,8 +30,18 @@
         <a class="nav-link" href="/munhaeryeokplus/writing/">논술쓰기</a>
         <a class="nav-link" href="/munhaeryeokplus/guides/">교육가이드</a>
       </nav>
-      <button class="search-button" id="openSearch">⌕</button>
+      <div class="header-actions">
+        <button class="search-button" id="openSearch" aria-label="전체 콘텐츠 검색">⌕</button>
+        <button class="mobile-menu-button" id="mobileMenuButton" aria-label="메뉴 열기" aria-expanded="false">☰</button>
+      </div>
     </div>
+    <nav class="mobile-menu" id="mobileMenu" aria-label="모바일 메뉴">
+      <a href="/munhaeryeokplus/books/"><b>추천도서</b><span>30권</span></a>
+      <a href="/munhaeryeokplus/topics/"><b>주제읽기</b><span>30개</span></a>
+      <a href="/munhaeryeokplus/debate/"><b>토론논제</b><span>20개</span></a>
+      <a href="/munhaeryeokplus/writing/"><b>논술쓰기</b><span>20강</span></a>
+      <a href="/munhaeryeokplus/guides/"><b>교육가이드</b><span>20개</span></a>
+    </nav>
   </header>
 
   <main>
@@ -69,6 +79,22 @@
             <article><span>02</span><b>질문력 +</b><p>당연해 보이는 내용에 질문을 던지고 빠진 관점을 찾습니다.</p></article>
             <article><span>03</span><b>판단력 +</b><p>주장과 근거를 비교하며 자신의 기준을 세웁니다.</p></article>
             <article><span>04</span><b>표현력 +</b><p>생각을 토론과 글쓰기에서 논리적으로 설명합니다.</p></article>
+          </div>
+        </div>
+      </section>
+
+      <section class="library-hub">
+        <div class="library-hub-inner">
+          <div class="library-hub-head">
+            <div><span class="eyebrow">120+ CONTENTS</span><h2>필요한 문해력 콘텐츠를 바로 찾아보세요.</h2><p>책을 읽고 싶은 날, 배경지식이 필요한 날, 토론을 준비하는 날, 글쓰기를 연습하는 날에 맞춰 선택할 수 있습니다.</p></div>
+            <button class="library-search-cta" id="openLibrarySearch"><span>⌕</span><b>120개 콘텐츠 통합검색</b><small>제목·개념·주제로 찾기</small></button>
+          </div>
+          <div class="library-category-grid">
+            <a href="/munhaeryeokplus/books/"><strong>30</strong><span>추천도서</span><small>읽기 전·중·후 질문까지</small></a>
+            <a href="/munhaeryeokplus/topics/"><strong>30</strong><span>주제읽기</span><small>문해력·AI·경제·심리</small></a>
+            <a href="/munhaeryeokplus/debate/"><strong>20</strong><span>토론논제</span><small>찬반보다 판단 기준부터</small></a>
+            <a href="/munhaeryeokplus/writing/"><strong>20</strong><span>논술쓰기</span><small>기초부터 실전 유형까지</small></a>
+            <a href="/munhaeryeokplus/guides/"><strong>20</strong><span>교육가이드</span><small>학생·학부모·교사용</small></a>
           </div>
         </div>
       </section>
@@ -201,10 +227,23 @@
 
   <div class="search-overlay" id="searchOverlay" aria-hidden="true">
     <div class="search-panel">
-      <div class="search-top">
-        <input id="globalSearch" type="search" placeholder="책, 주제, 토론 논제, 글쓰기 방법 검색">
-        <button id="closeSearch">×</button>
+      <div class="search-panel-head">
+        <span class="eyebrow">LITERACY PLUS SEARCH</span>
+        <h2>120개 콘텐츠에서 찾아보세요.</h2>
       </div>
+      <div class="search-top">
+        <input id="globalSearch" type="search" placeholder="예: AI, 공정, 동물농장, 반론, 어휘">
+        <button id="closeSearch" aria-label="검색 닫기">×</button>
+      </div>
+      <div class="search-quick">
+        <span>빠른 검색</span>
+        <button data-search-term="AI">AI</button>
+        <button data-search-term="문해력">문해력</button>
+        <button data-search-term="공정">공정</button>
+        <button data-search-term="토론">토론</button>
+        <button data-search-term="논술">논술</button>
+      </div>
+      <div class="search-status" id="searchStatus">추천도서 30 · 주제읽기 30 · 토론논제 20 · 논술쓰기 20 · 교육가이드 20</div>
       <div id="searchResults"></div>
     </div>
   </div>
