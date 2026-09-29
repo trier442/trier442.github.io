@@ -3,21 +3,22 @@
   "period": "weekly",
   "key": "2026-W40",
   "label": "2026.09.28 ~ 10.04",
-  "collected_at": "2026-09-29T11:40:38.000414+09:00",
+  "collected_at": "2026-09-29T11:42:17.703423+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
       "id": "i18d1030c",
-      "title": "닛몰캐쉬 폭로...중립기어 근황",
+      "title": "유튜버 닛몰캐쉬 전여친 폭로",
       "keywords": [
+        "폭로",
         "닛몰캐쉬",
-        "폭로"
+        "전여친"
       ],
       "source_count": 3,
-      "post_count": 3,
-      "score": 121.68,
-      "peak_score": 105.19,
-      "appearances": 2,
+      "post_count": 4,
+      "score": 133.89,
+      "peak_score": 114.96,
+      "appearances": 3,
       "sources": [
         "더쿠",
         "루리웹",
@@ -26,32 +27,32 @@
       "posts": [
         {
           "source": "루리웹",
-          "rank": 12,
-          "title": "닛몰캐쉬 폭로...중립기어 근황",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/76842883?m=humor_only&t=now",
-          "score": 75.29
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 38,
-          "title": "현재 난리난 닛몰캐쉬 전여친 폭로 ㄷㄷ.JPG",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10134861",
-          "score": 63.66
+          "rank": 1,
+          "title": "유튜버 닛몰캐쉬 전여친 폭로",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76841327?m=humor",
+          "score": 98.96
         },
         {
           "source": "더쿠",
-          "rank": 41,
+          "rank": 39,
           "title": "유튜버 닛몰캐쉬 폭로",
           "url": "https://theqoo.net/hot/4359539571",
           "score": 63.26
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 43,
+          "title": "현재 난리난 닛몰캐쉬 전여친 폭로 ㄷㄷ.JPG",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10134861",
+          "score": 62.6
         }
       ],
       "first_seen": "2026-09-29T08:23:09.958029+09:00",
-      "last_seen": "2026-09-29T11:40:38.000414+09:00",
+      "last_seen": "2026-09-29T11:42:17.703423+09:00",
       "latest_source_count": 3,
-      "latest_post_count": 3,
+      "latest_post_count": 4,
       "rank": 1,
-      "change": 1
+      "change": 0
     },
     {
       "id": "i0c93084d",
@@ -92,7 +93,7 @@
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 2,
-      "change": -1
+      "change": 0
     },
     {
       "id": "ia99bde06",
@@ -175,6 +176,44 @@
       "change": 0
     },
     {
+      "id": "i0c1846a6",
+      "title": "‘보디빌더’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "보디빌더"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 109.86,
+      "peak_score": 98.37,
+      "appearances": 2,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 4,
+          "title": "싱글벙글 현재 논란이라는 어느 보디빌더",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466612&_dcbest=1&page=1",
+          "score": 89.23
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 100,
+          "title": "얼마전 내추럴대회 1위한 한국 보디빌더",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10134751",
+          "score": 50.19
+        }
+      ],
+      "first_seen": "2026-09-29T11:40:38.000414+09:00",
+      "last_seen": "2026-09-29T11:42:17.703423+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 5,
+      "change": 1
+    },
+    {
       "id": "i039fd79c",
       "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -211,46 +250,8 @@
       "last_seen": "2026-09-29T03:16:54.567078+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
-      "change": 0
-    },
-    {
-      "id": "i0c1846a6",
-      "title": "‘보디빌더’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "보디빌더"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 107.84,
-      "peak_score": 98.37,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 4,
-          "title": "싱글벙글 현재 논란이라는 어느 보디빌더",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466612&_dcbest=1&page=1",
-          "score": 89.37
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 89,
-          "title": "얼마전 내추럴대회 1위한 한국 보디빌더",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10134751",
-          "score": 52.97
-        }
-      ],
-      "first_seen": "2026-09-29T11:40:38.000414+09:00",
-      "last_seen": "2026-09-29T11:40:38.000414+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 6,
-      "change": "NEW"
+      "change": -1
     },
     {
       "id": "i8b4085e0",
@@ -260,9 +261,9 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 102.51,
+      "score": 103.95,
       "peak_score": 91.02,
-      "appearances": 2,
+      "appearances": 3,
       "sources": [
         "디시인사이드",
         "뽐뿌",
@@ -272,25 +273,25 @@
       "posts": [
         {
           "source": "뽐뿌",
-          "rank": 6,
+          "rank": 8,
           "title": "하태경 \"아시안게임 금메달 군혜택 없애야..특히 야구\"",
           "url": "https://www.ppomppu.co.kr/zboard/view.php?id=baseball&no=698752",
-          "score": 82.02
+          "score": 78.84
         },
         {
           "source": "클리앙",
-          "rank": 29,
+          "rank": 28,
           "title": "아시안게임 이스포츠 퇴출 관련",
           "url": "https://www.clien.net/service/board/park/19271138?od=T31&po=0&category=0&groupCd=",
-          "score": 66.24
+          "score": 66.61
         }
       ],
       "first_seen": "2026-09-27T20:01:41.851026+09:00",
-      "last_seen": "2026-09-29T11:40:38.000414+09:00",
+      "last_seen": "2026-09-29T11:42:17.703423+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 7,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "ibcbce939",
@@ -328,7 +329,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 8,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i78f6419e",
@@ -369,7 +370,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 9,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i84f2f2a0",
@@ -407,7 +408,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 10,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i77707101",
@@ -445,7 +446,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 11,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i5d6688ff",
@@ -483,7 +484,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 12,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i976c1cbe",
@@ -521,7 +522,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 13,
-      "change": -2
+      "change": 0
     },
     {
       "id": "ibb35f05f",
@@ -559,7 +560,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 14,
-      "change": -2
+      "change": 0
     },
     {
       "id": "ie024a362",
@@ -597,7 +598,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 15,
-      "change": -2
+      "change": 0
     },
     {
       "id": "iceb75541",
@@ -639,7 +640,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 16,
-      "change": -2
+      "change": 0
     },
     {
       "id": "ia0fd1514",
@@ -678,7 +679,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 17,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i1adf40a5",
@@ -716,7 +717,7 @@
       "latest_source_count": 2,
       "latest_post_count": 4,
       "rank": 18,
-      "change": -2
+      "change": 0
     },
     {
       "id": "iaa86a62d",
@@ -758,7 +759,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 19,
-      "change": -2
+      "change": 0
     },
     {
       "id": "ie36bbfc5",
@@ -797,7 +798,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 20,
-      "change": -2
+      "change": 0
     }
   ]
 }

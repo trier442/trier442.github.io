@@ -3,9 +3,57 @@
   "period": "monthly",
   "key": "2026-09",
   "label": "2026년 09월",
-  "collected_at": "2026-09-29T11:40:38.000414+09:00",
+  "collected_at": "2026-09-29T11:42:17.703423+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
+    {
+      "id": "i18d1030c",
+      "title": "유튜버 닛몰캐쉬 전여친 폭로",
+      "keywords": [
+        "폭로",
+        "닛몰캐쉬",
+        "전여친"
+      ],
+      "source_count": 3,
+      "post_count": 4,
+      "score": 133.89,
+      "peak_score": 114.96,
+      "appearances": 3,
+      "sources": [
+        "더쿠",
+        "루리웹",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 1,
+          "title": "유튜버 닛몰캐쉬 전여친 폭로",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76841327?m=humor",
+          "score": 98.96
+        },
+        {
+          "source": "더쿠",
+          "rank": 39,
+          "title": "유튜버 닛몰캐쉬 폭로",
+          "url": "https://theqoo.net/hot/4359539571",
+          "score": 63.26
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 43,
+          "title": "현재 난리난 닛몰캐쉬 전여친 폭로 ㄷㄷ.JPG",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10134861",
+          "score": 62.6
+        }
+      ],
+      "first_seen": "2026-09-29T08:23:09.958029+09:00",
+      "last_seen": "2026-09-29T11:42:17.703423+09:00",
+      "latest_source_count": 3,
+      "latest_post_count": 4,
+      "rank": 1,
+      "change": 2
+    },
     {
       "id": "i06cab454",
       "title": "콘크리트에 ‘사람 똥’ 넣었더니…‘휨 강도’ 무려 42%나 증가했다",
@@ -42,8 +90,8 @@
       "last_seen": "2026-09-27T16:21:22.580161+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 1,
-      "change": 0
+      "rank": 2,
+      "change": -1
     },
     {
       "id": "iba838050",
@@ -80,55 +128,8 @@
       "last_seen": "2026-09-27T14:14:08.194313+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 2,
-      "change": 0
-    },
-    {
-      "id": "i18d1030c",
-      "title": "닛몰캐쉬 폭로...중립기어 근황",
-      "keywords": [
-        "닛몰캐쉬",
-        "폭로"
-      ],
-      "source_count": 3,
-      "post_count": 3,
-      "score": 121.68,
-      "peak_score": 105.19,
-      "appearances": 2,
-      "sources": [
-        "더쿠",
-        "루리웹",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 12,
-          "title": "닛몰캐쉬 폭로...중립기어 근황",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/76842883?m=humor_only&t=now",
-          "score": 75.29
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 38,
-          "title": "현재 난리난 닛몰캐쉬 전여친 폭로 ㄷㄷ.JPG",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10134861",
-          "score": 63.66
-        },
-        {
-          "source": "더쿠",
-          "rank": 41,
-          "title": "유튜버 닛몰캐쉬 폭로",
-          "url": "https://theqoo.net/hot/4359539571",
-          "score": 63.26
-        }
-      ],
-      "first_seen": "2026-09-29T08:23:09.958029+09:00",
-      "last_seen": "2026-09-29T11:40:38.000414+09:00",
-      "latest_source_count": 3,
-      "latest_post_count": 3,
       "rank": 3,
-      "change": 4
+      "change": -1
     },
     {
       "id": "i26c94275",
@@ -167,7 +168,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 4,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i039fd79c",
@@ -207,7 +208,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 5,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i2761816c",
@@ -259,7 +260,7 @@
       "latest_source_count": 3,
       "latest_post_count": 3,
       "rank": 6,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i0c93084d",
@@ -300,7 +301,7 @@
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 7,
-      "change": -1
+      "change": 0
     },
     {
       "id": "ia99bde06",
@@ -390,9 +391,9 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 107.84,
+      "score": 109.86,
       "peak_score": 98.37,
-      "appearances": 1,
+      "appearances": 2,
       "sources": [
         "디시인사이드",
         "뽐뿌"
@@ -403,22 +404,22 @@
           "rank": 4,
           "title": "싱글벙글 현재 논란이라는 어느 보디빌더",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466612&_dcbest=1&page=1",
-          "score": 89.37
+          "score": 89.23
         },
         {
           "source": "뽐뿌",
-          "rank": 89,
+          "rank": 100,
           "title": "얼마전 내추럴대회 1위한 한국 보디빌더",
           "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10134751",
-          "score": 52.97
+          "score": 50.19
         }
       ],
       "first_seen": "2026-09-29T11:40:38.000414+09:00",
-      "last_seen": "2026-09-29T11:40:38.000414+09:00",
+      "last_seen": "2026-09-29T11:42:17.703423+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 10,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i8b4085e0",
@@ -428,9 +429,9 @@
       ],
       "source_count": 2,
       "post_count": 3,
-      "score": 106.98,
+      "score": 107.75,
       "peak_score": 91.02,
-      "appearances": 5,
+      "appearances": 6,
       "sources": [
         "더쿠",
         "디시인사이드",
@@ -441,25 +442,25 @@
       "posts": [
         {
           "source": "뽐뿌",
-          "rank": 6,
+          "rank": 8,
           "title": "하태경 \"아시안게임 금메달 군혜택 없애야..특히 야구\"",
           "url": "https://www.ppomppu.co.kr/zboard/view.php?id=baseball&no=698752",
-          "score": 82.02
+          "score": 78.84
         },
         {
           "source": "클리앙",
-          "rank": 29,
+          "rank": 28,
           "title": "아시안게임 이스포츠 퇴출 관련",
           "url": "https://www.clien.net/service/board/park/19271138?od=T31&po=0&category=0&groupCd=",
-          "score": 66.24
+          "score": 66.61
         }
       ],
       "first_seen": "2026-09-27T20:01:41.851026+09:00",
-      "last_seen": "2026-09-29T11:40:38.000414+09:00",
+      "last_seen": "2026-09-29T11:42:17.703423+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 11,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i74cea219",
@@ -516,7 +517,7 @@
       "latest_source_count": 3,
       "latest_post_count": 4,
       "rank": 12,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i23a285e5",
@@ -554,7 +555,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 13,
-      "change": -2
+      "change": 0
     },
     {
       "id": "ibcbce939",
@@ -592,7 +593,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 14,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i78f6419e",
@@ -633,7 +634,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 15,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i707041a3",
@@ -672,7 +673,7 @@
       "latest_source_count": 2,
       "latest_post_count": 4,
       "rank": 16,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i5781c296",
@@ -710,7 +711,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 17,
-      "change": -2
+      "change": 0
     },
     {
       "id": "ibe79202d",
@@ -748,7 +749,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 18,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i84f2f2a0",
@@ -786,7 +787,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 19,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i77707101",
@@ -824,7 +825,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 20,
-      "change": -2
+      "change": 0
     }
   ]
 }
