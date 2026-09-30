@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W40",
   "label": "2026.09.28 ~ 10.04",
-  "collected_at": "2026-09-30T11:27:36.197372+09:00",
+  "collected_at": "2026-09-30T17:58:06.192419+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -301,7 +301,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 7,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i0c1846a6",
@@ -339,7 +339,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 8,
-      "change": -1
+      "change": 0
     },
     {
       "id": "ib92d7d28",
@@ -377,7 +377,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 9,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i106465f0",
@@ -416,7 +416,7 @@
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 10,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i1d3a3c3b",
@@ -467,7 +467,7 @@
       "latest_source_count": 3,
       "latest_post_count": 3,
       "rank": 11,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i8b4085e0",
@@ -507,7 +507,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 12,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i23a285e5",
@@ -553,7 +553,45 @@
       "latest_source_count": 3,
       "latest_post_count": 4,
       "rank": 13,
-      "change": -2
+      "change": 0
+    },
+    {
+      "id": "ifd5a2cc3",
+      "title": "‘한국에서’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "한국에서"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 103.16,
+      "peak_score": 93.69,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 5,
+          "title": "싱글벙글 한국에서 인식 개ㅈ박은 LGBT 근황.jpg",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466943&_dcbest=1&page=1",
+          "score": 84.69
+        },
+        {
+          "source": "더쿠",
+          "rank": 44,
+          "title": "한국에서 홈스테이 쉽지 않음",
+          "url": "https://theqoo.net/hot/4361064465",
+          "score": 65.37
+        }
+      ],
+      "first_seen": "2026-09-30T17:58:06.192419+09:00",
+      "last_seen": "2026-09-30T17:58:06.192419+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 14,
+      "change": "NEW"
     },
     {
       "id": "ibcbce939",
@@ -590,8 +628,50 @@
       "last_seen": "2026-09-28T19:49:36.308484+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 14,
-      "change": -2
+      "rank": 15,
+      "change": -1
+    },
+    {
+      "id": "i78f6419e",
+      "title": "‘암살자’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "암살자"
+      ],
+      "source_count": 2,
+      "post_count": 4,
+      "score": 100.66,
+      "peak_score": 84.61,
+      "appearances": 4,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "루리웹",
+        "뽐뿌",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 36,
+          "title": "'암살자(들)' 본 탈북자, 북한 선전 영화와 너무 똑같아 놀라",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466914&_dcbest=1&page=1",
+          "score": 66.21
+        },
+        {
+          "source": "더쿠",
+          "rank": 66,
+          "title": "'암살자(들)' 허진호 감독 \"배우들 정말 힘들어해..왜곡 프레임-악플 참담",
+          "url": "https://theqoo.net/hot/4360988188",
+          "score": 57.89
+        }
+      ],
+      "first_seen": "2026-09-27T20:23:34.525151+09:00",
+      "last_seen": "2026-09-30T17:58:06.192419+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 3,
+      "rank": 16,
+      "change": 0
     },
     {
       "id": "i879d3e36",
@@ -629,48 +709,7 @@
       "last_seen": "2026-09-30T05:15:44.512747+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 15,
-      "change": -2
-    },
-    {
-      "id": "i78f6419e",
-      "title": "‘암살자’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "암살자"
-      ],
-      "source_count": 2,
-      "post_count": 4,
-      "score": 99.54,
-      "peak_score": 84.61,
-      "appearances": 3,
-      "sources": [
-        "디시인사이드",
-        "루리웹",
-        "뽐뿌",
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 20,
-          "title": "[이제는 말할 수 있다] 영화 암살자(들) 논란? 이 다큐를 보고 이야기하라 - 2005년 3월 20일 방송",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2733762",
-          "score": 70.56
-        },
-        {
-          "source": "클리앙",
-          "rank": 47,
-          "title": "암살자 작년에 개봉했으면 천만 찍었을겁니다",
-          "url": "https://www.clien.net/service/board/park/19271005?od=T31&po=0&category=0&groupCd=",
-          "score": 62.0
-        }
-      ],
-      "first_seen": "2026-09-27T20:23:34.525151+09:00",
-      "last_seen": "2026-09-29T03:16:54.567078+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 16,
+      "rank": 17,
       "change": -2
     },
     {
@@ -708,8 +747,8 @@
       "last_seen": "2026-09-29T03:16:54.567078+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 17,
-      "change": -2
+      "rank": 18,
+      "change": -1
     },
     {
       "id": "i80cae878",
@@ -748,8 +787,8 @@
       "last_seen": "2026-09-29T18:06:58.844578+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 18,
-      "change": -2
+      "rank": 19,
+      "change": -1
     },
     {
       "id": "i8df0548d",
@@ -791,46 +830,8 @@
       "last_seen": "2026-09-29T18:06:58.844578+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 19,
-      "change": -2
-    },
-    {
-      "id": "i77707101",
-      "title": "‘현상황’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "현상황"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 98.87,
-      "peak_score": 89.4,
-      "appearances": 1,
-      "sources": [
-        "뽐뿌",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 7,
-          "title": "[ICC pjt] 오이갤 현상황 중계",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2733757",
-          "score": 80.4
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 98,
-          "title": "미장 현상황..ㅎㄷ",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=438623",
-          "score": 50.92
-        }
-      ],
-      "first_seen": "2026-09-29T03:16:54.567078+09:00",
-      "last_seen": "2026-09-29T03:16:54.567078+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 20,
-      "change": -2
+      "change": -1
     }
   ]
 }
