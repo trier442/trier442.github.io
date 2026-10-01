@@ -2,9 +2,9 @@
   "version": 1,
   "date": "2026-10-01",
   "label": "2026년 10월 01일",
-  "collected_at": "2026-10-01T15:08:17.635290+09:00",
+  "collected_at": "2026-10-01T15:33:46.728285+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘‘이재명’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #짜증나서. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘‘이재명’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #단독. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 6,
@@ -12,9 +12,9 @@
     "realtime_posts": 100,
     "daily_posts": 100,
     "daily_issues": 20,
-    "keywords": 19,
-    "top100_views": 810706,
-    "top100_comments": 11503
+    "keywords": 20,
+    "top100_views": 962620,
+    "top100_comments": 12398
   },
   "highlights": [
     {
@@ -31,9 +31,9 @@
     },
     {
       "type": "keyword",
-      "title": "#짜증나서",
-      "text": "2개 커뮤니티 · 2개 인기글에서 함께 등장했습니다.",
-      "keyword": "짜증나서"
+      "title": "#단독",
+      "text": "3개 커뮤니티 · 4개 인기글에서 함께 등장했습니다.",
+      "keyword": "단독"
     }
   ],
   "top_posts": [
@@ -49,11 +49,11 @@
       "max_likes": 187,
       "max_comments": 159,
       "appearances": 1,
-      "score": 107.51,
+      "score": 107.47,
       "views": 23395,
       "likes": 187,
       "comments": 159,
-      "change": "NEW"
+      "change": 0
     },
     {
       "title": "나 요즘 자고 일어나면 머리 한움큼씩 빠지는데 이거 납중독이냐",
@@ -67,11 +67,11 @@
       "max_likes": 74,
       "max_comments": 42,
       "appearances": 2,
-      "score": 106.81,
+      "score": 106.78,
       "views": 15993,
       "likes": 74,
       "comments": 42,
-      "change": -1
+      "change": 0
     },
     {
       "title": "고속도로 정속충이라는 단어가 웃기는 이유",
@@ -85,11 +85,11 @@
       "max_likes": 116,
       "max_comments": 120,
       "appearances": 1,
-      "score": 106.74,
+      "score": 106.7,
       "views": 22515,
       "likes": 116,
       "comments": 120,
-      "change": -1
+      "change": 0
     },
     {
       "title": "우크라이나 언론 \"어 코리아하고 이러면 안되는데\"",
@@ -103,11 +103,29 @@
       "max_likes": 171,
       "max_comments": 140,
       "appearances": 1,
-      "score": 106.37,
+      "score": 106.34,
       "views": 20685,
       "likes": 171,
       "comments": 140,
-      "change": -1
+      "change": 0
+    },
+    {
+      "title": "이순신장군이 천국에 갔을까?라는 지랄싸는 ㅁㅁ목사",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76867393?m=humor",
+      "first_seen": "2026-10-01T15:33:46.728285+09:00",
+      "last_seen": "2026-10-01T15:33:46.728285+09:00",
+      "peak_score": 96.88,
+      "max_views": 14718,
+      "max_likes": 167,
+      "max_comments": 99,
+      "appearances": 1,
+      "score": 106.27,
+      "views": 14718,
+      "likes": 167,
+      "comments": 99,
+      "change": "NEW"
     },
     {
       "title": "은근히 ㄹㅇ 고증 맞추면 ....잼 안 나는거",
@@ -121,7 +139,7 @@
       "max_likes": 54,
       "max_comments": 42,
       "appearances": 1,
-      "score": 106.3,
+      "score": 106.26,
       "views": 9947,
       "likes": 54,
       "comments": 42,
@@ -139,11 +157,29 @@
       "max_likes": 73,
       "max_comments": 79,
       "appearances": 1,
-      "score": 106.28,
+      "score": 106.25,
       "views": 10040,
       "likes": 73,
       "comments": 79,
       "change": -1
+    },
+    {
+      "title": "52살에 권고사직 당한 남편",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76865946?m=humor",
+      "first_seen": "2026-10-01T15:33:46.728285+09:00",
+      "last_seen": "2026-10-01T15:33:46.728285+09:00",
+      "peak_score": 95.77,
+      "max_views": 34358,
+      "max_likes": 148,
+      "max_comments": 110,
+      "appearances": 1,
+      "score": 105.16,
+      "views": 34358,
+      "likes": 148,
+      "comments": 110,
+      "change": "NEW"
     },
     {
       "title": "추월차는 과속해도 된다는 애들 논리 상태",
@@ -157,11 +193,11 @@
       "max_likes": 107,
       "max_comments": 179,
       "appearances": 1,
-      "score": 104.86,
+      "score": 104.83,
       "views": 22858,
       "likes": 107,
       "comments": 179,
-      "change": -1
+      "change": -2
     },
     {
       "title": "중국 인방쪽도 범상치 않네",
@@ -175,59 +211,123 @@
       "max_likes": 51,
       "max_comments": 42,
       "appearances": 2,
-      "score": 104.52,
+      "score": 104.49,
       "views": 12289,
       "likes": 51,
       "comments": 42,
-      "change": -1
-    },
-    {
-      "title": "국대도 노쇼로 은퇴하게 생긴 호날두 근황",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76865242?m=humor",
-      "first_seen": "2026-10-01T09:33:11.658888+09:00",
-      "last_seen": "2026-10-01T09:33:11.658888+09:00",
-      "peak_score": 95.3,
-      "max_views": 17350,
-      "max_likes": 115,
-      "max_comments": 54,
-      "appearances": 1,
-      "score": 104.22,
-      "views": 17350,
-      "likes": 115,
-      "comments": 54,
-      "change": -1
-    },
-    {
-      "title": "드디어 결론이 났다는 군대 VS 임신 논쟁 ㄷㄷ",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76861730?m=humor",
-      "first_seen": "2026-10-01T00:51:55.502360+09:00",
-      "last_seen": "2026-10-01T00:51:55.502360+09:00",
-      "peak_score": 95.77,
-      "max_views": 18916,
-      "max_likes": 212,
-      "max_comments": 102,
-      "appearances": 1,
-      "score": 103.97,
-      "views": 18916,
-      "likes": 212,
-      "comments": 102,
-      "change": -1
+      "change": -2
     }
   ],
   "rising": [
     {
-      "source": "루리웹",
-      "title": "유명 유튜버 총출동 했다는 나영석 PD 신규 프로그램",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76867058?m=humor",
+      "source": "디시인사이드",
+      "title": "김태규 \"전두환 내란 아니야\"",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467154&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 23395,
-      "likes": 187,
-      "comments": 159,
-      "score": 98.12,
+      "views": 2975,
+      "likes": 43,
+      "comments": 233,
+      "score": 71.19,
+      "change": 29,
+      "current_rank": 18,
+      "new_entry": false,
+      "delta_views": 2420,
+      "delta_likes": 33,
+      "delta_comments": 211,
+      "rank_gain": 29,
+      "rising_score": 93.59,
+      "rising_rank": 1,
+      "window_minutes": 25
+    },
+    {
+      "source": "더쿠",
+      "title": "[유퀴즈] 전세계를 설레게 한 흑백사진",
+      "url": "https://theqoo.net/hot/4361986112",
+      "category": "이슈",
+      "views": 26235,
+      "likes": 0,
+      "comments": 229,
+      "score": 58.53,
+      "change": 0,
+      "current_rank": 72,
+      "new_entry": false,
+      "delta_views": 13844,
+      "delta_likes": 0,
+      "delta_comments": 122,
+      "rank_gain": 0,
+      "rising_score": 91.92,
+      "rising_rank": 2,
+      "window_minutes": 25
+    },
+    {
+      "source": "디시인사이드",
+      "title": "신한은행 정보유출 25000건••개인정보 다 털렸다",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467152&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 6492,
+      "likes": 66,
+      "comments": 161,
+      "score": 73.48,
+      "change": 5,
+      "current_rank": 14,
+      "new_entry": false,
+      "delta_views": 3530,
+      "delta_likes": 32,
+      "delta_comments": 87,
+      "rank_gain": 5,
+      "rising_score": 87.72,
+      "rising_rank": 3,
+      "window_minutes": 25
+    },
+    {
+      "source": "뽐뿌",
+      "title": "속보) 김지용 임명",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10137832",
+      "category": "이슈",
+      "views": 10167,
+      "likes": 80,
+      "comments": 92,
+      "score": 79.66,
+      "change": 12,
+      "current_rank": 5,
+      "new_entry": false,
+      "delta_views": 7883,
+      "delta_likes": 60,
+      "delta_comments": 61,
+      "rank_gain": 12,
+      "rising_score": 85.0,
+      "rising_rank": 4,
+      "window_minutes": 25
+    },
+    {
+      "source": "인벤",
+      "title": "술은 안 마시는데 30대는 왜 살이 쪘나",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2734865",
+      "category": "이슈",
+      "views": 1255,
+      "likes": 0,
+      "comments": 14,
+      "score": 65.46,
+      "change": 18,
+      "current_rank": 36,
+      "new_entry": false,
+      "delta_views": 1207,
+      "delta_likes": 0,
+      "delta_comments": 14,
+      "rank_gain": 18,
+      "rising_score": 82.78,
+      "rising_rank": 5,
+      "window_minutes": 25
+    },
+    {
+      "source": "루리웹",
+      "title": "이순신장군이 천국에 갔을까?라는 지랄싸는 ㅁㅁ목사",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76867393?m=humor",
+      "category": "이슈",
+      "views": 14718,
+      "likes": 167,
+      "comments": 99,
+      "score": 96.88,
       "change": "NEW",
       "current_rank": 1,
       "new_entry": true,
@@ -235,19 +335,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 83.21,
-      "rising_rank": 1,
-      "window_minutes": 335
+      "rising_score": 82.69,
+      "rising_rank": 6,
+      "window_minutes": 25
     },
     {
       "source": "루리웹",
-      "title": "'양말에 구멍이 났다'를 다시 작문해보세요.",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76866679?m=humor",
+      "title": "52살에 권고사직 당한 남편",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76865946?m=humor",
       "category": "이슈",
-      "views": 20306,
-      "likes": 194,
-      "comments": 100,
-      "score": 93.84,
+      "views": 34358,
+      "likes": 148,
+      "comments": 110,
+      "score": 95.77,
       "change": "NEW",
       "current_rank": 2,
       "new_entry": true,
@@ -255,169 +355,69 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 81.41,
-      "rising_rank": 2,
-      "window_minutes": 335
-    },
-    {
-      "source": "루리웹",
-      "title": "요즘 20대들 술 유흥 안한다.jpg",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76868808?m=humor",
-      "category": "이슈",
-      "views": 12735,
-      "likes": 64,
-      "comments": 93,
-      "score": 93.27,
-      "change": "NEW",
-      "current_rank": 3,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 81.17,
-      "rising_rank": 3,
-      "window_minutes": 335
-    },
-    {
-      "source": "클리앙",
-      "title": "아내랑 싸워서 ㅈㄴ 짜증나서 그런데",
-      "url": "https://www.clien.net/service/board/park/19272262?od=T31&po=0&category=0&groupCd=",
-      "category": "이슈",
-      "views": 2337,
-      "likes": 0,
-      "comments": 12,
-      "score": 83.85,
-      "change": "NEW",
-      "current_rank": 4,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 77.22,
-      "rising_rank": 4,
-      "window_minutes": 335
-    },
-    {
-      "source": "루리웹",
-      "title": "[겜우리] NS2 젤다의 전설 시간의 오카리나 예약 판매 / 88,000원",
-      "url": "https://bbs.ruliweb.com/market/board/1020/read/107651",
-      "category": "이슈",
-      "views": 43617,
-      "likes": 17,
-      "comments": 178,
-      "score": 83.36,
-      "change": "NEW",
-      "current_rank": 5,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 77.01,
-      "rising_rank": 5,
-      "window_minutes": 335
-    },
-    {
-      "source": "디시인사이드",
-      "title": "이동진 \"평론 철회, 사과할 생각 없다 영화나 쳐보고 논쟁하길\"",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467137&_dcbest=1&page=1",
-      "category": "연예",
-      "views": 14002,
-      "likes": 285,
-      "comments": 915,
-      "score": 83.28,
-      "change": "NEW",
-      "current_rank": 6,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 76.98,
-      "rising_rank": 6,
-      "window_minutes": 335
-    },
-    {
-      "source": "디시인사이드",
-      "title": "\"노무현 운지에 일베 안떠오른단 수준\"....암살자들 해명반응보니",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467134&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 9513,
-      "likes": 254,
-      "comments": 456,
-      "score": 76.16,
-      "change": "NEW",
-      "current_rank": 7,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 73.99,
+      "rising_score": 82.22,
       "rising_rank": 7,
-      "window_minutes": 335
+      "window_minutes": 25
     },
     {
-      "source": "인벤",
-      "title": "아내랑 싸워서 ㅈㄴ 짜증나서 그런데",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2734853",
+      "source": "더쿠",
+      "title": "학교에서 주먹달력을 배워온 딸...",
+      "url": "https://theqoo.net/hot/4362004502",
       "category": "유머",
-      "views": 1415,
+      "views": 19806,
       "likes": 0,
-      "comments": 21,
-      "score": 74.98,
-      "change": "NEW",
-      "current_rank": 8,
-      "new_entry": true,
-      "delta_views": 0,
+      "comments": 183,
+      "score": 56.68,
+      "change": 0,
+      "current_rank": 80,
+      "new_entry": false,
+      "delta_views": 13635,
       "delta_likes": 0,
-      "delta_comments": 0,
+      "delta_comments": 112,
       "rank_gain": 0,
-      "rising_score": 73.49,
+      "rising_score": 81.92,
       "rising_rank": 8,
-      "window_minutes": 335
+      "window_minutes": 25
     },
     {
-      "source": "클리앙",
-      "title": "부동산 글 보면 DSR이 뭔지 모르시는 분이 좀 있으시던데",
-      "url": "https://www.clien.net/service/board/park/19272259?od=T31&po=0&category=0&groupCd=",
+      "source": "디시인사이드",
+      "title": "새벽 3시에 뮤비 촬영하다 동네주민들 다깨운 남돌",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467146&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 1199,
-      "likes": 4,
-      "comments": 24,
-      "score": 74.67,
-      "change": "NEW",
-      "current_rank": 9,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
+      "views": 6499,
+      "likes": 48,
+      "comments": 149,
+      "score": 66.57,
+      "change": 0,
+      "current_rank": 31,
+      "new_entry": false,
+      "delta_views": 2107,
+      "delta_likes": 13,
+      "delta_comments": 35,
       "rank_gain": 0,
-      "rising_score": 73.36,
+      "rising_score": 81.64,
       "rising_rank": 9,
-      "window_minutes": 335
+      "window_minutes": 25
     },
     {
-      "source": "뽐뿌",
-      "title": "추미애) 이대통령 직격 ㄷ..jpg",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10137744",
+      "source": "더쿠",
+      "title": "한국의 신이 그들을 심판할것이다",
+      "url": "https://theqoo.net/hot/4362013366",
       "category": "이슈",
-      "views": 5754,
-      "likes": 40,
-      "comments": 14,
-      "score": 73.73,
-      "change": "NEW",
-      "current_rank": 10,
-      "new_entry": true,
-      "delta_views": 0,
+      "views": 24075,
+      "likes": 0,
+      "comments": 448,
+      "score": 73.84,
+      "change": 8,
+      "current_rank": 13,
+      "new_entry": false,
+      "delta_views": 13624,
       "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 72.97,
+      "delta_comments": 206,
+      "rank_gain": 8,
+      "rising_score": 81.44,
       "rising_rank": 10,
-      "window_minutes": 335
+      "window_minutes": 25
     }
   ],
   "issues": [
@@ -630,7 +630,46 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 5,
-      "change": "NEW"
+      "change": 0
+    },
+    {
+      "id": "i62196098",
+      "title": "속보) 김지용 임명",
+      "keywords": [
+        "임명",
+        "김지용"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 99.15,
+      "peak_score": 87.66,
+      "appearances": 2,
+      "sources": [
+        "뽐뿌",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 5,
+          "title": "속보) 김지용 임명",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10137832",
+          "score": 79.66
+        },
+        {
+          "source": "클리앙",
+          "rank": 27,
+          "title": "李대통령, 김지용 중수청장 후보자 임명 수순…靑 '금명간 인사청문안 송부'",
+          "url": "https://www.clien.net/service/board/park/19272265?od=T31&po=0&category=0&groupCd=",
+          "score": 68.09
+        }
+      ],
+      "first_seen": "2026-10-01T15:08:17.635290+09:00",
+      "last_seen": "2026-10-01T15:33:46.728285+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 6,
+      "change": 8
     },
     {
       "id": "i106465f0",
@@ -667,7 +706,7 @@
       "last_seen": "2026-10-01T01:30:43.873431+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
+      "rank": 7,
       "change": -1
     },
     {
@@ -705,7 +744,7 @@
       "last_seen": "2026-10-01T06:00:23.851701+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
+      "rank": 8,
       "change": -1
     },
     {
@@ -743,7 +782,7 @@
       "last_seen": "2026-10-01T09:09:08.756943+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 8,
+      "rank": 9,
       "change": -1
     },
     {
@@ -781,103 +820,22 @@
       "last_seen": "2026-10-01T06:00:23.851701+09:00",
       "latest_source_count": 2,
       "latest_post_count": 4,
-      "rank": 9,
-      "change": -1
-    },
-    {
-      "id": "id5565dd8",
-      "title": "암살자(들)' 허진호 감독 '배우들도 힘들어해…박정희 배후설 말이 안된다'",
-      "keywords": [
-        "감독",
-        "안된다",
-        "박정희",
-        "허진호",
-        "말이",
-        "힘들어해",
-        "배우들도",
-        "배후설"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 92.43,
-      "peak_score": 80.94,
-      "appearances": 2,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 24,
-          "title": "암살자(들)' 허진호 감독 '배우들도 힘들어해…박정희 배후설 말이 안된다'",
-          "url": "https://www.clien.net/service/board/park/19271971?od=T31&po=0&category=0&groupCd=",
-          "score": 66.97
-        },
-        {
-          "source": "인벤",
-          "rank": 35,
-          "title": "암살자(들)' 허진호 감독 배우들도 힘들어해…박정희 배후설 말이 안된다",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2734619",
-          "score": 64.62
-        }
-      ],
-      "first_seen": "2026-10-01T00:51:55.502360+09:00",
-      "last_seen": "2026-10-01T01:30:43.873431+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 10,
       "change": -1
     }
   ],
   "realtime_issues": [
     {
-      "id": "i13e10e10",
-      "title": "아내랑 싸워서 ㅈㄴ 짜증나서 그런데",
-      "keywords": [
-        "싸워서",
-        "아내랑",
-        "짜증나서"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 91.85,
-      "peak_score": 91.85,
-      "appearances": 1,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 4,
-          "title": "아내랑 싸워서 ㅈㄴ 짜증나서 그런데",
-          "url": "https://www.clien.net/service/board/park/19272262?od=T31&po=0&category=0&groupCd=",
-          "score": 83.85
-        },
-        {
-          "source": "인벤",
-          "rank": 8,
-          "title": "아내랑 싸워서 ㅈㄴ 짜증나서 그런데",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2734853",
-          "score": 74.98
-        }
-      ],
-      "rank": 1,
-      "change": "NEW"
-    },
-    {
       "id": "i62196098",
-      "title": "李대통령, 김지용 중수청장 후보자 임명 수순…靑 '금명간 인사청문안 송부'",
+      "title": "속보) 김지용 임명",
       "keywords": [
-        "김지용",
-        "임명"
+        "임명",
+        "김지용"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 80.78,
-      "peak_score": 80.78,
+      "score": 87.66,
+      "peak_score": 87.66,
       "appearances": 1,
       "sources": [
         "뽐뿌",
@@ -885,68 +843,174 @@
       ],
       "posts": [
         {
-          "source": "클리앙",
-          "rank": 13,
-          "title": "李대통령, 김지용 중수청장 후보자 임명 수순…靑 '금명간 인사청문안 송부'",
-          "url": "https://www.clien.net/service/board/park/19272265?od=T31&po=0&category=0&groupCd=",
-          "score": 72.78
-        },
-        {
           "source": "뽐뿌",
-          "rank": 17,
+          "rank": 5,
           "title": "속보) 김지용 임명",
           "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10137832",
-          "score": 70.46
+          "score": 79.66
+        },
+        {
+          "source": "클리앙",
+          "rank": 27,
+          "title": "李대통령, 김지용 중수청장 후보자 임명 수순…靑 '금명간 인사청문안 송부'",
+          "url": "https://www.clien.net/service/board/park/19272265?od=T31&po=0&category=0&groupCd=",
+          "score": 68.09
+        }
+      ],
+      "rank": 1,
+      "change": 1
+    },
+    {
+      "id": "i9dfbd937",
+      "title": "‘신한은행’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "신한은행"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 82.48,
+      "peak_score": 82.48,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 14,
+          "title": "신한은행 정보유출 25000건••개인정보 다 털렸다",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467152&_dcbest=1&page=1",
+          "score": 73.48
+        },
+        {
+          "source": "인벤",
+          "rank": 77,
+          "title": "신한은행, 2만 5천명 고객 정보 유출…\"연소득, 대출한도까지\"",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2734873",
+          "score": 57.54
         }
       ],
       "rank": 2,
       "change": "NEW"
     },
     {
-      "id": "ibc7a7b69",
-      "title": "‘신한은행’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i3a32d04f",
+      "title": "‘못하게’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "신한은행",
-        "개인정보"
+        "못하게"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 78.91,
-      "peak_score": 78.91,
+      "score": 81.66,
+      "peak_score": 81.66,
       "appearances": 1,
       "sources": [
-        "디시인사이드",
+        "인벤",
         "클리앙"
       ],
       "posts": [
         {
-          "source": "디시인사이드",
-          "rank": 19,
-          "title": "신한은행 정보유출 25000건••개인정보 다 털렸다",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467152&_dcbest=1&page=1",
-          "score": 69.91
+          "source": "클리앙",
+          "rank": 15,
+          "title": "순수하게 궁금한건데.. 대통령 sns 못하게 되면 어떤 증상이 나타날까요?",
+          "url": "https://www.clien.net/service/board/park/19272280?od=T31&po=0&category=0&groupCd=",
+          "score": 72.66
         },
         {
-          "source": "클리앙",
-          "rank": 80,
-          "title": "신한은행 2.5만명 개인정보 유출…정상혁 '전액 피해 보상'(종합2보)",
-          "url": "https://www.clien.net/service/board/park/19272260?od=T31&po=0&category=0&groupCd=",
-          "score": 56.33
+          "source": "인벤",
+          "rank": 20,
+          "title": "19) 여친이 손가락은 넣는데 보지는 못하게 합니다",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2734866",
+          "score": 70.68
         }
       ],
       "rank": 3,
       "change": "NEW"
     },
     {
-      "id": "i859e97d2",
-      "title": "‘s26’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i6a985c1e",
+      "title": "(카카오톡딜) 젤다의 전설 시간의 오카리나 88,000 사은품 패드or키링",
       "keywords": [
-        "s26"
+        "시간의",
+        "젤다의",
+        "오카리나",
+        "전설"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 75.89,
-      "peak_score": 75.89,
+      "score": 80.53,
+      "peak_score": 80.53,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 16,
+          "title": "(카카오톡딜) 젤다의 전설 시간의 오카리나 88,000 사은품 패드or키링",
+          "url": "https://bbs.ruliweb.com/market/board/1020/read/107680",
+          "score": 72.53
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 26,
+          "title": "젤다의 전설 시간의 오카리나 예구 특전 사태",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467157&_dcbest=1&page=1",
+          "score": 68.25
+        }
+      ],
+      "rank": 4,
+      "change": "NEW"
+    },
+    {
+      "id": "i069461b9",
+      "title": "김태규 \"전두환 내란 아니야\"",
+      "keywords": [
+        "김태규",
+        "전두환",
+        "내란"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 79.19,
+      "peak_score": 79.19,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 18,
+          "title": "김태규 \"전두환 내란 아니야\"",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467154&_dcbest=1&page=1",
+          "score": 71.19
+        },
+        {
+          "source": "인벤",
+          "rank": 21,
+          "title": "[속보] 민주, \"전두환 내란 아니다\" 국힘 김태규 제명 촉구 결의안 제출",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2734877",
+          "score": 69.88
+        }
+      ],
+      "rank": 5,
+      "change": "NEW"
+    },
+    {
+      "id": "idadd500c",
+      "title": "‘청와대’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "청와대"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 77.38,
+      "peak_score": 77.38,
       "appearances": 1,
       "sources": [
         "뽐뿌",
@@ -955,66 +1019,72 @@
       "posts": [
         {
           "source": "뽐뿌",
-          "rank": 22,
-          "title": "{SK유심차비지급} 유심이동 -55만 & 퀀텀 9만 & & A17 -15만 & S26 22만 / \"택배가능\" /믿을수 ...",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=pmarket2&no=1551013",
-          "score": 66.89
+          "rank": 25,
+          "title": "청와대 속보 떳네요.JPG",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10137824",
+          "score": 68.38
         },
         {
           "source": "인벤",
           "rank": 82,
-          "title": "퍼옴)S26 이전 모델, ONE ui 9.0 업뎃이후 충전속도 너프 이야기 나오는 중",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2734858",
-          "score": 56.16
+          "title": "청와대 김지용중수청장 인사청문요청안 금명간 국회송부",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2734868",
+          "score": 56.09
         }
       ],
-      "rank": 4,
+      "rank": 6,
       "change": "NEW"
     },
     {
-      "id": "iaab2b0f0",
-      "title": "‘좌아하게’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i2441a67b",
+      "title": "‘금명간’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "좌아하게"
+        "금명간"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 75.57,
-      "peak_score": 75.57,
+      "score": 77.09,
+      "peak_score": 77.09,
       "appearances": 1,
       "sources": [
-        "디시인사이드",
-        "뽐뿌"
+        "인벤",
+        "클리앙"
       ],
       "posts": [
         {
-          "source": "디시인사이드",
-          "rank": 26,
-          "title": "폭풍 SNS로 돌아온 李대통령 “많이들 함께 해주세요, 좌아하게”",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467139&_dcbest=1&page=1",
-          "score": 66.57
+          "source": "클리앙",
+          "rank": 27,
+          "title": "李대통령, 김지용 중수청장 후보자 임명 수순…靑 '금명간 인사청문안 송부'",
+          "url": "https://www.clien.net/service/board/park/19272265?od=T31&po=0&category=0&groupCd=",
+          "score": 68.09
         },
         {
-          "source": "뽐뿌",
-          "rank": 29,
-          "title": "\"좌아하게\" 살면서 처음 들었습니다.",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10137679",
-          "score": 65.86
+          "source": "인벤",
+          "rank": 82,
+          "title": "청와대 김지용중수청장 인사청문요청안 금명간 국회송부",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2734868",
+          "score": 56.09
         }
       ],
-      "rank": 5,
+      "rank": 7,
       "change": "NEW"
     },
     {
-      "id": "i817faf79",
-      "title": "‘화장실’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i4611eb3e",
+      "title": "\"흰 우유 남아돌아\" 원유 2.6만톤 줄인다...물량 협상 타결",
       "keywords": [
-        "화장실"
+        "6만톤",
+        "타결",
+        "원유",
+        "물량",
+        "협상",
+        "남아돌아",
+        "줄인다"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 75.35,
-      "peak_score": 75.35,
+      "score": 76.64,
+      "peak_score": 76.64,
       "appearances": 1,
       "sources": [
         "루리웹",
@@ -1023,90 +1093,17 @@
       "posts": [
         {
           "source": "인벤",
-          "rank": 27,
-          "title": "화장실 가는게 고민이신분",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2734848",
-          "score": 66.35
+          "rank": 23,
+          "title": "\"흰 우유 남아돌아\" 원유 2.6만톤 줄인다...물량 협상 타결",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2734880",
+          "score": 68.64
         },
         {
           "source": "루리웹",
-          "rank": 72,
-          "title": "화장실 가느라 급하게 걸어놓은 강아지",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/76869126?m=humor_only&t=now",
-          "score": 57.02
-        }
-      ],
-      "rank": 6,
-      "change": "NEW"
-    },
-    {
-      "id": "iec5e096f",
-      "title": "요즘 여성들 사이에서 유행한다는 패션 트렌드 '현백 코어'",
-      "keywords": [
-        "코어",
-        "패션",
-        "여성들",
-        "현백",
-        "사이에서",
-        "유행한다는"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 74.58,
-      "peak_score": 74.58,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "루리웹"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 25,
-          "title": "요즘 여성들 사이에서 유행한다는 패션 트렌드 '현백 코어'",
-          "url": "https://theqoo.net/hot/4361892935",
-          "score": 66.58
-        },
-        {
-          "source": "루리웹",
-          "rank": 46,
-          "title": "요즘 여성들 사이에서 유행한다는 패션 '현백 코어'",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/76869135?m=humor_only&t=now",
-          "score": 62.61
-        }
-      ],
-      "rank": 7,
-      "change": "NEW"
-    },
-    {
-      "id": "i039fd79c",
-      "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "이재명"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 73.87,
-      "peak_score": 73.87,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 33,
-          "title": "과거 이재명 대통령 일베 출신 인정 발언",
-          "url": "https://www.clien.net/service/board/park/19272254?od=T31&po=0&category=0&groupCd=",
-          "score": 64.87
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 38,
-          "title": "이재명 X 아 오늘 갤주 ㄹㅈㄷ네",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467107&_dcbest=1&page=1",
-          "score": 63.44
+          "rank": 64,
+          "title": "[단독]\"흰 우유 남아돌아\" 원유 2.6만톤 줄인다...물량 협상 타결.news",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76869266?m=humor_only&t=now",
+          "score": 59.9
         }
       ],
       "rank": 8,
@@ -1115,11 +1112,227 @@
   ],
   "keywords": [
     {
-      "keyword": "짜증나서",
-      "score": 108.64,
+      "keyword": "단독",
+      "score": 125.35,
+      "post_count": 4,
+      "source_count": 3,
+      "best_rank": 9,
+      "sources": [
+        "디시인사이드",
+        "루리웹",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 1,
+      "change": "NEW"
+    },
+    {
+      "keyword": "시간",
+      "score": 123.87,
+      "post_count": 3,
+      "source_count": 3,
+      "best_rank": 16,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "루리웹"
+      ],
+      "aliases": [],
+      "rank": 2,
+      "change": "NEW"
+    },
+    {
+      "keyword": "한국",
+      "score": 109.75,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 4,
+      "best_rank": 3,
+      "sources": [
+        "더쿠",
+        "루리웹"
+      ],
+      "aliases": [],
+      "rank": 3,
+      "change": "NEW"
+    },
+    {
+      "keyword": "임명",
+      "score": 104.34,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 5,
+      "sources": [
+        "뽐뿌",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 4,
+      "change": "NEW"
+    },
+    {
+      "keyword": "김지용",
+      "score": 103.93,
+      "post_count": 3,
+      "source_count": 2,
+      "best_rank": 5,
+      "sources": [
+        "뽐뿌",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 5,
+      "change": -2
+    },
+    {
+      "keyword": "못하게",
+      "score": 99.86,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 15,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 6,
+      "change": "NEW"
+    },
+    {
+      "keyword": "오카리나",
+      "score": 98.31,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 16,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "aliases": [
+        "전설",
+        "젤다"
+      ],
+      "rank": 7,
+      "change": "NEW"
+    },
+    {
+      "keyword": "김태규",
+      "score": 98.01,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 18,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "aliases": [
+        "내란",
+        "전두환"
+      ],
+      "rank": 8,
+      "change": "NEW"
+    },
+    {
+      "keyword": "남편",
+      "score": 96.81,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 2,
+      "sources": [
+        "더쿠",
+        "루리웹"
+      ],
+      "aliases": [],
+      "rank": 9,
+      "change": 8
+    },
+    {
+      "keyword": "일베",
+      "score": 94.04,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 17,
+      "sources": [
+        "디시인사이드",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 10,
+      "change": -8
+    },
+    {
+      "keyword": "신한은행",
+      "score": 91.76,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 14,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 11,
+      "change": -1
+    },
+    {
+      "keyword": "치고",
+      "score": 90.98,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 22,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 12,
+      "change": -8
+    },
+    {
+      "keyword": "남아돌아",
+      "score": 89.8,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 23,
+      "sources": [
+        "루리웹",
+        "인벤"
+      ],
+      "aliases": [
+        "6만톤",
+        "물량",
+        "우유",
+        "원유",
+        "줄인다"
+      ],
+      "rank": 13,
+      "change": "NEW"
+    },
+    {
+      "keyword": "유행한다",
+      "score": 89.03,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 39,
+      "sources": [
+        "더쿠",
+        "인벤"
+      ],
+      "aliases": [
+        "사이",
+        "여성들",
+        "코어",
+        "트렌드",
+        "패션"
+      ],
+      "rank": 14,
+      "change": -7
+    },
+    {
+      "keyword": "짜증나서",
+      "score": 86.85,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 44,
       "sources": [
         "인벤",
         "클리앙"
@@ -1128,264 +1341,58 @@
         "싸워서",
         "아내랑"
       ],
-      "rank": 1,
-      "change": "NEW"
-    },
-    {
-      "keyword": "일베",
-      "score": 101.73,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 7,
-      "sources": [
-        "디시인사이드",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 2,
-      "change": "NEW"
-    },
-    {
-      "keyword": "김지용",
-      "score": 101.14,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 13,
-      "sources": [
-        "뽐뿌",
-        "클리앙"
-      ],
-      "aliases": [
-        "임명"
-      ],
-      "rank": 3,
-      "change": "NEW"
-    },
-    {
-      "keyword": "치고",
-      "score": 96.94,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 11,
-      "sources": [
-        "디시인사이드",
-        "인벤"
-      ],
-      "aliases": [],
-      "rank": 4,
-      "change": "NEW"
-    },
-    {
-      "keyword": "좌아하게",
-      "score": 94.18,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 26,
-      "sources": [
-        "디시인사이드",
-        "뽐뿌"
-      ],
-      "aliases": [],
-      "rank": 5,
-      "change": "NEW"
-    },
-    {
-      "keyword": "보면",
-      "score": 92.78,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 9,
-      "sources": [
-        "뽐뿌",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 6,
-      "change": "NEW"
-    },
-    {
-      "keyword": "유행한다",
-      "score": 91.81,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 25,
-      "sources": [
-        "더쿠",
-        "루리웹"
-      ],
-      "aliases": [
-        "사이",
-        "여성들",
-        "코어",
-        "패션",
-        "현백"
-      ],
-      "rank": 7,
-      "change": "NEW"
-    },
-    {
-      "keyword": "이재명",
-      "score": 91.68,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 33,
-      "sources": [
-        "디시인사이드",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 8,
-      "change": -2
-    },
-    {
-      "keyword": "서울",
-      "score": 91.41,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 15,
-      "sources": [
-        "더쿠",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 9,
-      "change": "NEW"
-    },
-    {
-      "keyword": "신한은행",
-      "score": 88.38,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 19,
-      "sources": [
-        "디시인사이드",
-        "클리앙"
-      ],
-      "aliases": [
-        "개인정보"
-      ],
-      "rank": 10,
-      "change": "NEW"
-    },
-    {
-      "keyword": "과거",
-      "score": 87.79,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 33,
-      "sources": [
-        "뽐뿌",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 11,
-      "change": "NEW"
-    },
-    {
-      "keyword": "화장실",
-      "score": 87.63,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 27,
-      "sources": [
-        "루리웹",
-        "인벤"
-      ],
-      "aliases": [],
-      "rank": 12,
-      "change": "NEW"
-    },
-    {
-      "keyword": "s26",
-      "score": 86.99,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 22,
-      "sources": [
-        "뽐뿌",
-        "인벤"
-      ],
-      "aliases": [],
-      "rank": 13,
-      "change": "NEW"
-    },
-    {
-      "keyword": "처음",
-      "score": 86.13,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 29,
-      "sources": [
-        "뽐뿌",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 14,
-      "change": "NEW"
-    },
-    {
-      "keyword": "발언",
-      "score": 86.05,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 33,
-      "sources": [
-        "디시인사이드",
-        "클리앙"
-      ],
-      "aliases": [],
       "rank": 15,
-      "change": "NEW"
+      "change": -14
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "유명 유튜버 총출동 했다는 나영석 PD 신규 프로그램",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76867058?m=humor",
-      "score": 98.12,
-      "views": 23395,
-      "comments": 159
-    },
-    {
-      "source": "클리앙",
-      "title": "아내랑 싸워서 ㅈㄴ 짜증나서 그런데",
-      "url": "https://www.clien.net/service/board/park/19272262?od=T31&po=0&category=0&groupCd=",
-      "score": 83.85,
-      "views": 2337,
-      "comments": 12
+      "title": "이순신장군이 천국에 갔을까?라는 지랄싸는 ㅁㅁ목사",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76867393?m=humor",
+      "score": 96.88,
+      "views": 14718,
+      "comments": 99
     },
     {
       "source": "디시인사이드",
-      "title": "이동진 \"평론 철회, 사과할 생각 없다 영화나 쳐보고 논쟁하길\"",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467137&_dcbest=1&page=1",
-      "score": 83.28,
-      "views": 14002,
-      "comments": 915
-    },
-    {
-      "source": "인벤",
-      "title": "아내랑 싸워서 ㅈㄴ 짜증나서 그런데",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2734853",
-      "score": 74.98,
-      "views": 1415,
-      "comments": 21
+      "title": "싱글벙글 최근 일어난 영화같은 사기사건",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467155&_dcbest=1&page=1",
+      "score": 81.96,
+      "views": 14081,
+      "comments": 156
     },
     {
       "source": "뽐뿌",
-      "title": "추미애) 이대통령 직격 ㄷ..jpg",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10137744",
-      "score": 73.73,
-      "views": 5754,
-      "comments": 14
+      "title": "속보) 김지용 임명",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10137832",
+      "score": 79.66,
+      "views": 10167,
+      "comments": 92
+    },
+    {
+      "source": "인벤",
+      "title": "아재들에게는 너무나 익숙한 게임이 돌아옴",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2734874",
+      "score": 75.96,
+      "views": 1089,
+      "comments": 17
+    },
+    {
+      "source": "클리앙",
+      "title": "대출을 많이 해주는 것이 정말 무주택자나 서민을 도와주는 정책일까요?",
+      "url": "https://www.clien.net/service/board/park/19272278?od=T31&po=0&category=0&groupCd=",
+      "score": 75.3,
+      "views": 680,
+      "comments": 23
     },
     {
       "source": "더쿠",
       "title": "서울 살다 경북에서 일하기 힘들어서 상사 앞에서 울었는데..",
       "url": "https://theqoo.net/hot/4361926233",
-      "score": 72.37,
-      "views": 45219,
-      "comments": 446
+      "score": 74.21,
+      "views": 53007,
+      "comments": 465
     }
   ]
 }

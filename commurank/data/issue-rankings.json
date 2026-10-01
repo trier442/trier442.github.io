@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-10-01T15:08:17.635290+09:00",
+  "collected_at": "2026-10-01T15:33:46.728285+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -11,17 +11,84 @@
   "rankings": {
     "realtime": [
       {
-        "id": "i13e10e10",
-        "title": "아내랑 싸워서 ㅈㄴ 짜증나서 그런데",
+        "id": "i62196098",
+        "title": "속보) 김지용 임명",
         "keywords": [
-          "싸워서",
-          "아내랑",
-          "짜증나서"
+          "임명",
+          "김지용"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 91.85,
-        "peak_score": 91.85,
+        "score": 87.66,
+        "peak_score": 87.66,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 5,
+            "title": "속보) 김지용 임명",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10137832",
+            "score": 79.66
+          },
+          {
+            "source": "클리앙",
+            "rank": 27,
+            "title": "李대통령, 김지용 중수청장 후보자 임명 수순…靑 '금명간 인사청문안 송부'",
+            "url": "https://www.clien.net/service/board/park/19272265?od=T31&po=0&category=0&groupCd=",
+            "score": 68.09
+          }
+        ],
+        "rank": 1,
+        "change": 1
+      },
+      {
+        "id": "i9dfbd937",
+        "title": "‘신한은행’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "신한은행"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 82.48,
+        "peak_score": 82.48,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 14,
+            "title": "신한은행 정보유출 25000건••개인정보 다 털렸다",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467152&_dcbest=1&page=1",
+            "score": 73.48
+          },
+          {
+            "source": "인벤",
+            "rank": 77,
+            "title": "신한은행, 2만 5천명 고객 정보 유출…\"연소득, 대출한도까지\"",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2734873",
+            "score": 57.54
+          }
+        ],
+        "rank": 2,
+        "change": "NEW"
+      },
+      {
+        "id": "i3a32d04f",
+        "title": "‘못하게’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "못하게"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 81.66,
+        "peak_score": 81.66,
         "appearances": 1,
         "sources": [
           "인벤",
@@ -30,102 +97,105 @@
         "posts": [
           {
             "source": "클리앙",
-            "rank": 4,
-            "title": "아내랑 싸워서 ㅈㄴ 짜증나서 그런데",
-            "url": "https://www.clien.net/service/board/park/19272262?od=T31&po=0&category=0&groupCd=",
-            "score": 83.85
+            "rank": 15,
+            "title": "순수하게 궁금한건데.. 대통령 sns 못하게 되면 어떤 증상이 나타날까요?",
+            "url": "https://www.clien.net/service/board/park/19272280?od=T31&po=0&category=0&groupCd=",
+            "score": 72.66
           },
           {
             "source": "인벤",
-            "rank": 8,
-            "title": "아내랑 싸워서 ㅈㄴ 짜증나서 그런데",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2734853",
-            "score": 74.98
-          }
-        ],
-        "rank": 1,
-        "change": "NEW"
-      },
-      {
-        "id": "i62196098",
-        "title": "李대통령, 김지용 중수청장 후보자 임명 수순…靑 '금명간 인사청문안 송부'",
-        "keywords": [
-          "김지용",
-          "임명"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 80.78,
-        "peak_score": 80.78,
-        "appearances": 1,
-        "sources": [
-          "뽐뿌",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 13,
-            "title": "李대통령, 김지용 중수청장 후보자 임명 수순…靑 '금명간 인사청문안 송부'",
-            "url": "https://www.clien.net/service/board/park/19272265?od=T31&po=0&category=0&groupCd=",
-            "score": 72.78
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 17,
-            "title": "속보) 김지용 임명",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10137832",
-            "score": 70.46
-          }
-        ],
-        "rank": 2,
-        "change": "NEW"
-      },
-      {
-        "id": "ibc7a7b69",
-        "title": "‘신한은행’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "신한은행",
-          "개인정보"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 78.91,
-        "peak_score": 78.91,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 19,
-            "title": "신한은행 정보유출 25000건••개인정보 다 털렸다",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467152&_dcbest=1&page=1",
-            "score": 69.91
-          },
-          {
-            "source": "클리앙",
-            "rank": 80,
-            "title": "신한은행 2.5만명 개인정보 유출…정상혁 '전액 피해 보상'(종합2보)",
-            "url": "https://www.clien.net/service/board/park/19272260?od=T31&po=0&category=0&groupCd=",
-            "score": 56.33
+            "rank": 20,
+            "title": "19) 여친이 손가락은 넣는데 보지는 못하게 합니다",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2734866",
+            "score": 70.68
           }
         ],
         "rank": 3,
         "change": "NEW"
       },
       {
-        "id": "i859e97d2",
-        "title": "‘s26’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i6a985c1e",
+        "title": "(카카오톡딜) 젤다의 전설 시간의 오카리나 88,000 사은품 패드or키링",
         "keywords": [
-          "s26"
+          "시간의",
+          "젤다의",
+          "오카리나",
+          "전설"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 75.89,
-        "peak_score": 75.89,
+        "score": 80.53,
+        "peak_score": 80.53,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "루리웹"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 16,
+            "title": "(카카오톡딜) 젤다의 전설 시간의 오카리나 88,000 사은품 패드or키링",
+            "url": "https://bbs.ruliweb.com/market/board/1020/read/107680",
+            "score": 72.53
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 26,
+            "title": "젤다의 전설 시간의 오카리나 예구 특전 사태",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467157&_dcbest=1&page=1",
+            "score": 68.25
+          }
+        ],
+        "rank": 4,
+        "change": "NEW"
+      },
+      {
+        "id": "i069461b9",
+        "title": "김태규 \"전두환 내란 아니야\"",
+        "keywords": [
+          "김태규",
+          "전두환",
+          "내란"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 79.19,
+        "peak_score": 79.19,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 18,
+            "title": "김태규 \"전두환 내란 아니야\"",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467154&_dcbest=1&page=1",
+            "score": 71.19
+          },
+          {
+            "source": "인벤",
+            "rank": 21,
+            "title": "[속보] 민주, \"전두환 내란 아니다\" 국힘 김태규 제명 촉구 결의안 제출",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2734877",
+            "score": 69.88
+          }
+        ],
+        "rank": 5,
+        "change": "NEW"
+      },
+      {
+        "id": "idadd500c",
+        "title": "‘청와대’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "청와대"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 77.38,
+        "peak_score": 77.38,
         "appearances": 1,
         "sources": [
           "뽐뿌",
@@ -134,66 +204,72 @@
         "posts": [
           {
             "source": "뽐뿌",
-            "rank": 22,
-            "title": "{SK유심차비지급} 유심이동 -55만 & 퀀텀 9만 & & A17 -15만 & S26 22만 / \"택배가능\" /믿을수 ...",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=pmarket2&no=1551013",
-            "score": 66.89
+            "rank": 25,
+            "title": "청와대 속보 떳네요.JPG",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10137824",
+            "score": 68.38
           },
           {
             "source": "인벤",
             "rank": 82,
-            "title": "퍼옴)S26 이전 모델, ONE ui 9.0 업뎃이후 충전속도 너프 이야기 나오는 중",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2734858",
-            "score": 56.16
+            "title": "청와대 김지용중수청장 인사청문요청안 금명간 국회송부",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2734868",
+            "score": 56.09
           }
         ],
-        "rank": 4,
+        "rank": 6,
         "change": "NEW"
       },
       {
-        "id": "iaab2b0f0",
-        "title": "‘좌아하게’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i2441a67b",
+        "title": "‘금명간’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "좌아하게"
+          "금명간"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 75.57,
-        "peak_score": 75.57,
+        "score": 77.09,
+        "peak_score": 77.09,
         "appearances": 1,
         "sources": [
-          "디시인사이드",
-          "뽐뿌"
+          "인벤",
+          "클리앙"
         ],
         "posts": [
           {
-            "source": "디시인사이드",
-            "rank": 26,
-            "title": "폭풍 SNS로 돌아온 李대통령 “많이들 함께 해주세요, 좌아하게”",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467139&_dcbest=1&page=1",
-            "score": 66.57
+            "source": "클리앙",
+            "rank": 27,
+            "title": "李대통령, 김지용 중수청장 후보자 임명 수순…靑 '금명간 인사청문안 송부'",
+            "url": "https://www.clien.net/service/board/park/19272265?od=T31&po=0&category=0&groupCd=",
+            "score": 68.09
           },
           {
-            "source": "뽐뿌",
-            "rank": 29,
-            "title": "\"좌아하게\" 살면서 처음 들었습니다.",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10137679",
-            "score": 65.86
+            "source": "인벤",
+            "rank": 82,
+            "title": "청와대 김지용중수청장 인사청문요청안 금명간 국회송부",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2734868",
+            "score": 56.09
           }
         ],
-        "rank": 5,
+        "rank": 7,
         "change": "NEW"
       },
       {
-        "id": "i817faf79",
-        "title": "‘화장실’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i4611eb3e",
+        "title": "\"흰 우유 남아돌아\" 원유 2.6만톤 줄인다...물량 협상 타결",
         "keywords": [
-          "화장실"
+          "6만톤",
+          "타결",
+          "원유",
+          "물량",
+          "협상",
+          "남아돌아",
+          "줄인다"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 75.35,
-        "peak_score": 75.35,
+        "score": 76.64,
+        "peak_score": 76.64,
         "appearances": 1,
         "sources": [
           "루리웹",
@@ -202,90 +278,17 @@
         "posts": [
           {
             "source": "인벤",
-            "rank": 27,
-            "title": "화장실 가는게 고민이신분",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2734848",
-            "score": 66.35
+            "rank": 23,
+            "title": "\"흰 우유 남아돌아\" 원유 2.6만톤 줄인다...물량 협상 타결",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2734880",
+            "score": 68.64
           },
           {
             "source": "루리웹",
-            "rank": 72,
-            "title": "화장실 가느라 급하게 걸어놓은 강아지",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/76869126?m=humor_only&t=now",
-            "score": 57.02
-          }
-        ],
-        "rank": 6,
-        "change": "NEW"
-      },
-      {
-        "id": "iec5e096f",
-        "title": "요즘 여성들 사이에서 유행한다는 패션 트렌드 '현백 코어'",
-        "keywords": [
-          "코어",
-          "패션",
-          "여성들",
-          "현백",
-          "사이에서",
-          "유행한다는"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 74.58,
-        "peak_score": 74.58,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "루리웹"
-        ],
-        "posts": [
-          {
-            "source": "더쿠",
-            "rank": 25,
-            "title": "요즘 여성들 사이에서 유행한다는 패션 트렌드 '현백 코어'",
-            "url": "https://theqoo.net/hot/4361892935",
-            "score": 66.58
-          },
-          {
-            "source": "루리웹",
-            "rank": 46,
-            "title": "요즘 여성들 사이에서 유행한다는 패션 '현백 코어'",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/76869135?m=humor_only&t=now",
-            "score": 62.61
-          }
-        ],
-        "rank": 7,
-        "change": "NEW"
-      },
-      {
-        "id": "i039fd79c",
-        "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "이재명"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 73.87,
-        "peak_score": 73.87,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 33,
-            "title": "과거 이재명 대통령 일베 출신 인정 발언",
-            "url": "https://www.clien.net/service/board/park/19272254?od=T31&po=0&category=0&groupCd=",
-            "score": 64.87
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 38,
-            "title": "이재명 X 아 오늘 갤주 ㄹㅈㄷ네",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467107&_dcbest=1&page=1",
-            "score": 63.44
+            "rank": 64,
+            "title": "[단독]\"흰 우유 남아돌아\" 원유 2.6만톤 줄인다...물량 협상 타결.news",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76869266?m=humor_only&t=now",
+            "score": 59.9
           }
         ],
         "rank": 8,
@@ -502,7 +505,46 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 5,
-        "change": "NEW"
+        "change": 0
+      },
+      {
+        "id": "i62196098",
+        "title": "속보) 김지용 임명",
+        "keywords": [
+          "임명",
+          "김지용"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 99.15,
+        "peak_score": 87.66,
+        "appearances": 2,
+        "sources": [
+          "뽐뿌",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 5,
+            "title": "속보) 김지용 임명",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10137832",
+            "score": 79.66
+          },
+          {
+            "source": "클리앙",
+            "rank": 27,
+            "title": "李대통령, 김지용 중수청장 후보자 임명 수순…靑 '금명간 인사청문안 송부'",
+            "url": "https://www.clien.net/service/board/park/19272265?od=T31&po=0&category=0&groupCd=",
+            "score": 68.09
+          }
+        ],
+        "first_seen": "2026-10-01T15:08:17.635290+09:00",
+        "last_seen": "2026-10-01T15:33:46.728285+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 6,
+        "change": 8
       },
       {
         "id": "i106465f0",
@@ -539,7 +581,7 @@
         "last_seen": "2026-10-01T01:30:43.873431+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 6,
+        "rank": 7,
         "change": -1
       },
       {
@@ -577,7 +619,7 @@
         "last_seen": "2026-10-01T06:00:23.851701+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 7,
+        "rank": 8,
         "change": -1
       },
       {
@@ -615,7 +657,7 @@
         "last_seen": "2026-10-01T09:09:08.756943+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 8,
+        "rank": 9,
         "change": -1
       },
       {
@@ -653,7 +695,7 @@
         "last_seen": "2026-10-01T06:00:23.851701+09:00",
         "latest_source_count": 2,
         "latest_post_count": 4,
-        "rank": 9,
+        "rank": 10,
         "change": -1
       },
       {
@@ -698,7 +740,7 @@
         "last_seen": "2026-10-01T01:30:43.873431+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 10,
+        "rank": 11,
         "change": -1
       },
       {
@@ -736,8 +778,84 @@
         "last_seen": "2026-10-01T06:00:23.851701+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
+        "rank": 12,
         "change": -1
+      },
+      {
+        "id": "i9dfbd937",
+        "title": "‘신한은행’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "신한은행"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 91.95,
+        "peak_score": 82.48,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 14,
+            "title": "신한은행 정보유출 25000건••개인정보 다 털렸다",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467152&_dcbest=1&page=1",
+            "score": 73.48
+          },
+          {
+            "source": "인벤",
+            "rank": 77,
+            "title": "신한은행, 2만 5천명 고객 정보 유출…\"연소득, 대출한도까지\"",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2734873",
+            "score": 57.54
+          }
+        ],
+        "first_seen": "2026-10-01T15:33:46.728285+09:00",
+        "last_seen": "2026-10-01T15:33:46.728285+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 13,
+        "change": "NEW"
+      },
+      {
+        "id": "i3a32d04f",
+        "title": "‘못하게’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "못하게"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 91.13,
+        "peak_score": 81.66,
+        "appearances": 1,
+        "sources": [
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 15,
+            "title": "순수하게 궁금한건데.. 대통령 sns 못하게 되면 어떤 증상이 나타날까요?",
+            "url": "https://www.clien.net/service/board/park/19272280?od=T31&po=0&category=0&groupCd=",
+            "score": 72.66
+          },
+          {
+            "source": "인벤",
+            "rank": 20,
+            "title": "19) 여친이 손가락은 넣는데 보지는 못하게 합니다",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2734866",
+            "score": 70.68
+          }
+        ],
+        "first_seen": "2026-10-01T15:33:46.728285+09:00",
+        "last_seen": "2026-10-01T15:33:46.728285+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 14,
+        "change": "NEW"
       },
       {
         "id": "iaab2b0f0",
@@ -776,8 +894,8 @@
         "last_seen": "2026-10-01T15:08:17.635290+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 12,
-        "change": 1
+        "rank": 15,
+        "change": -3
       },
       {
         "id": "i533b29bd",
@@ -814,46 +932,48 @@
         "last_seen": "2026-10-01T09:33:11.658888+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 13,
-        "change": -2
+        "rank": 16,
+        "change": -3
       },
       {
-        "id": "i62196098",
-        "title": "李대통령, 김지용 중수청장 후보자 임명 수순…靑 '금명간 인사청문안 송부'",
+        "id": "i6a985c1e",
+        "title": "(카카오톡딜) 젤다의 전설 시간의 오카리나 88,000 사은품 패드or키링",
         "keywords": [
-          "김지용",
-          "임명"
+          "시간의",
+          "젤다의",
+          "오카리나",
+          "전설"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 90.25,
-        "peak_score": 80.78,
+        "score": 90.0,
+        "peak_score": 80.53,
         "appearances": 1,
         "sources": [
-          "뽐뿌",
-          "클리앙"
+          "디시인사이드",
+          "루리웹"
         ],
         "posts": [
           {
-            "source": "클리앙",
-            "rank": 13,
-            "title": "李대통령, 김지용 중수청장 후보자 임명 수순…靑 '금명간 인사청문안 송부'",
-            "url": "https://www.clien.net/service/board/park/19272265?od=T31&po=0&category=0&groupCd=",
-            "score": 72.78
+            "source": "루리웹",
+            "rank": 16,
+            "title": "(카카오톡딜) 젤다의 전설 시간의 오카리나 88,000 사은품 패드or키링",
+            "url": "https://bbs.ruliweb.com/market/board/1020/read/107680",
+            "score": 72.53
           },
           {
-            "source": "뽐뿌",
-            "rank": 17,
-            "title": "속보) 김지용 임명",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10137832",
-            "score": 70.46
+            "source": "디시인사이드",
+            "rank": 26,
+            "title": "젤다의 전설 시간의 오카리나 예구 특전 사태",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467157&_dcbest=1&page=1",
+            "score": 68.25
           }
         ],
-        "first_seen": "2026-10-01T15:08:17.635290+09:00",
-        "last_seen": "2026-10-01T15:08:17.635290+09:00",
+        "first_seen": "2026-10-01T15:33:46.728285+09:00",
+        "last_seen": "2026-10-01T15:33:46.728285+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 14,
+        "rank": 17,
         "change": "NEW"
       },
       {
@@ -891,8 +1011,48 @@
         "last_seen": "2026-10-01T09:33:11.658888+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 15,
+        "rank": 18,
         "change": -3
+      },
+      {
+        "id": "i069461b9",
+        "title": "김태규 \"전두환 내란 아니야\"",
+        "keywords": [
+          "김태규",
+          "전두환",
+          "내란"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 88.66,
+        "peak_score": 79.19,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 18,
+            "title": "김태규 \"전두환 내란 아니야\"",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467154&_dcbest=1&page=1",
+            "score": 71.19
+          },
+          {
+            "source": "인벤",
+            "rank": 21,
+            "title": "[속보] 민주, \"전두환 내란 아니다\" 국힘 김태규 제명 촉구 결의안 제출",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2734877",
+            "score": 69.88
+          }
+        ],
+        "first_seen": "2026-10-01T15:33:46.728285+09:00",
+        "last_seen": "2026-10-01T15:33:46.728285+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 19,
+        "change": "NEW"
       },
       {
         "id": "ibc7a7b69",
@@ -928,162 +1088,6 @@
         ],
         "first_seen": "2026-10-01T15:08:17.635290+09:00",
         "last_seen": "2026-10-01T15:08:17.635290+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 16,
-        "change": "NEW"
-      },
-      {
-        "id": "i0e7c791a",
-        "title": "‘두가지’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "두가지"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 87.46,
-        "peak_score": 77.99,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "루리웹"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 22,
-            "title": "붉은사막) DLC에 대한 유져들의 오해 두가지.",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/76864803?m=humor_only&t=now",
-            "score": 68.99
-          },
-          {
-            "source": "더쿠",
-            "rank": 81,
-            "title": "두가지 재료로 이런 맛을! <양배추찜닭> 일명 깔루아치킨이라고 제 12년 자취기간동안 제일 자주해먹은 닭요리입니다",
-            "url": "https://theqoo.net/hot/4361446126",
-            "score": 55.26
-          }
-        ],
-        "first_seen": "2026-10-01T06:00:23.851701+09:00",
-        "last_seen": "2026-10-01T06:00:23.851701+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 17,
-        "change": -3
-      },
-      {
-        "id": "i1f0c76c7",
-        "title": "[2보] 한국 수출 첫 8천억달러 돌파…9월 1천200억달러 역대 최대",
-        "keywords": [
-          "돌파",
-          "9월",
-          "역대",
-          "최대",
-          "수출"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 86.68,
-        "peak_score": 77.21,
-        "appearances": 1,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 15,
-            "title": "[2보] 한국 수출 첫 8천억달러 돌파…9월 1천200억달러 역대 최대",
-            "url": "https://www.clien.net/service/board/park/19272063?od=T31&po=0&category=0&groupCd=",
-            "score": 69.21
-          },
-          {
-            "source": "인벤",
-            "rank": 27,
-            "title": "반도체 슈퍼사이클에 9월 수출 1200억 달러 돌파 역대 최대",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2734687",
-            "score": 66.66
-          }
-        ],
-        "first_seen": "2026-10-01T09:33:11.658888+09:00",
-        "last_seen": "2026-10-01T09:33:11.658888+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 18,
-        "change": -3
-      },
-      {
-        "id": "i859e97d2",
-        "title": "‘s26’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "s26"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 85.36,
-        "peak_score": 75.89,
-        "appearances": 1,
-        "sources": [
-          "뽐뿌",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 22,
-            "title": "{SK유심차비지급} 유심이동 -55만 & 퀀텀 9만 & & A17 -15만 & S26 22만 / \"택배가능\" /믿을수 ...",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=pmarket2&no=1551013",
-            "score": 66.89
-          },
-          {
-            "source": "인벤",
-            "rank": 82,
-            "title": "퍼옴)S26 이전 모델, ONE ui 9.0 업뎃이후 충전속도 너프 이야기 나오는 중",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2734858",
-            "score": 56.16
-          }
-        ],
-        "first_seen": "2026-10-01T15:08:17.635290+09:00",
-        "last_seen": "2026-10-01T15:08:17.635290+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 19,
-        "change": "NEW"
-      },
-      {
-        "id": "ie29f8427",
-        "title": "‘네이버멤버십’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "네이버멤버십"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 85.07,
-        "peak_score": 73.58,
-        "appearances": 2,
-        "sources": [
-          "더쿠",
-          "뽐뿌"
-        ],
-        "posts": [
-          {
-            "source": "더쿠",
-            "rank": 39,
-            "title": "네이버멤버십 이거때문에 유지하는 사람많음",
-            "url": "https://theqoo.net/hot/4361506007",
-            "score": 64.58
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 85,
-            "title": "[네이버] 네이버멤버십_ 오뚜기피자, 프레스코 스파게티소스, 허니듀멜론, 매일두유, 포스트 크리치오, 오레오 ...",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=737346",
-            "score": 54.24
-          }
-        ],
-        "first_seen": "2026-10-01T05:23:09.934339+09:00",
-        "last_seen": "2026-10-01T06:00:23.851701+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 20,
@@ -1899,7 +1903,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 19,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "ibcbce939",
@@ -1937,7 +1941,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 20,
-        "change": -1
+        "change": 0
       }
     ],
     "monthly": [
@@ -2150,7 +2154,46 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 5,
-        "change": "NEW"
+        "change": 0
+      },
+      {
+        "id": "i62196098",
+        "title": "속보) 김지용 임명",
+        "keywords": [
+          "임명",
+          "김지용"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 99.15,
+        "peak_score": 87.66,
+        "appearances": 2,
+        "sources": [
+          "뽐뿌",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 5,
+            "title": "속보) 김지용 임명",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10137832",
+            "score": 79.66
+          },
+          {
+            "source": "클리앙",
+            "rank": 27,
+            "title": "李대통령, 김지용 중수청장 후보자 임명 수순…靑 '금명간 인사청문안 송부'",
+            "url": "https://www.clien.net/service/board/park/19272265?od=T31&po=0&category=0&groupCd=",
+            "score": 68.09
+          }
+        ],
+        "first_seen": "2026-10-01T15:08:17.635290+09:00",
+        "last_seen": "2026-10-01T15:33:46.728285+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 6,
+        "change": 8
       },
       {
         "id": "i106465f0",
@@ -2187,7 +2230,7 @@
         "last_seen": "2026-10-01T01:30:43.873431+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 6,
+        "rank": 7,
         "change": -1
       },
       {
@@ -2225,7 +2268,7 @@
         "last_seen": "2026-10-01T06:00:23.851701+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 7,
+        "rank": 8,
         "change": -1
       },
       {
@@ -2263,7 +2306,7 @@
         "last_seen": "2026-10-01T09:09:08.756943+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 8,
+        "rank": 9,
         "change": -1
       },
       {
@@ -2301,7 +2344,7 @@
         "last_seen": "2026-10-01T06:00:23.851701+09:00",
         "latest_source_count": 2,
         "latest_post_count": 4,
-        "rank": 9,
+        "rank": 10,
         "change": -1
       },
       {
@@ -2346,7 +2389,7 @@
         "last_seen": "2026-10-01T01:30:43.873431+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 10,
+        "rank": 11,
         "change": -1
       },
       {
@@ -2384,8 +2427,84 @@
         "last_seen": "2026-10-01T06:00:23.851701+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
+        "rank": 12,
         "change": -1
+      },
+      {
+        "id": "i9dfbd937",
+        "title": "‘신한은행’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "신한은행"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 91.95,
+        "peak_score": 82.48,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 14,
+            "title": "신한은행 정보유출 25000건••개인정보 다 털렸다",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467152&_dcbest=1&page=1",
+            "score": 73.48
+          },
+          {
+            "source": "인벤",
+            "rank": 77,
+            "title": "신한은행, 2만 5천명 고객 정보 유출…\"연소득, 대출한도까지\"",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2734873",
+            "score": 57.54
+          }
+        ],
+        "first_seen": "2026-10-01T15:33:46.728285+09:00",
+        "last_seen": "2026-10-01T15:33:46.728285+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 13,
+        "change": "NEW"
+      },
+      {
+        "id": "i3a32d04f",
+        "title": "‘못하게’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "못하게"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 91.13,
+        "peak_score": 81.66,
+        "appearances": 1,
+        "sources": [
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 15,
+            "title": "순수하게 궁금한건데.. 대통령 sns 못하게 되면 어떤 증상이 나타날까요?",
+            "url": "https://www.clien.net/service/board/park/19272280?od=T31&po=0&category=0&groupCd=",
+            "score": 72.66
+          },
+          {
+            "source": "인벤",
+            "rank": 20,
+            "title": "19) 여친이 손가락은 넣는데 보지는 못하게 합니다",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2734866",
+            "score": 70.68
+          }
+        ],
+        "first_seen": "2026-10-01T15:33:46.728285+09:00",
+        "last_seen": "2026-10-01T15:33:46.728285+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 14,
+        "change": "NEW"
       },
       {
         "id": "iaab2b0f0",
@@ -2424,8 +2543,8 @@
         "last_seen": "2026-10-01T15:08:17.635290+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 12,
-        "change": 1
+        "rank": 15,
+        "change": -3
       },
       {
         "id": "i533b29bd",
@@ -2462,46 +2581,48 @@
         "last_seen": "2026-10-01T09:33:11.658888+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 13,
-        "change": -2
+        "rank": 16,
+        "change": -3
       },
       {
-        "id": "i62196098",
-        "title": "李대통령, 김지용 중수청장 후보자 임명 수순…靑 '금명간 인사청문안 송부'",
+        "id": "i6a985c1e",
+        "title": "(카카오톡딜) 젤다의 전설 시간의 오카리나 88,000 사은품 패드or키링",
         "keywords": [
-          "김지용",
-          "임명"
+          "시간의",
+          "젤다의",
+          "오카리나",
+          "전설"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 90.25,
-        "peak_score": 80.78,
+        "score": 90.0,
+        "peak_score": 80.53,
         "appearances": 1,
         "sources": [
-          "뽐뿌",
-          "클리앙"
+          "디시인사이드",
+          "루리웹"
         ],
         "posts": [
           {
-            "source": "클리앙",
-            "rank": 13,
-            "title": "李대통령, 김지용 중수청장 후보자 임명 수순…靑 '금명간 인사청문안 송부'",
-            "url": "https://www.clien.net/service/board/park/19272265?od=T31&po=0&category=0&groupCd=",
-            "score": 72.78
+            "source": "루리웹",
+            "rank": 16,
+            "title": "(카카오톡딜) 젤다의 전설 시간의 오카리나 88,000 사은품 패드or키링",
+            "url": "https://bbs.ruliweb.com/market/board/1020/read/107680",
+            "score": 72.53
           },
           {
-            "source": "뽐뿌",
-            "rank": 17,
-            "title": "속보) 김지용 임명",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10137832",
-            "score": 70.46
+            "source": "디시인사이드",
+            "rank": 26,
+            "title": "젤다의 전설 시간의 오카리나 예구 특전 사태",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467157&_dcbest=1&page=1",
+            "score": 68.25
           }
         ],
-        "first_seen": "2026-10-01T15:08:17.635290+09:00",
-        "last_seen": "2026-10-01T15:08:17.635290+09:00",
+        "first_seen": "2026-10-01T15:33:46.728285+09:00",
+        "last_seen": "2026-10-01T15:33:46.728285+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 14,
+        "rank": 17,
         "change": "NEW"
       },
       {
@@ -2539,8 +2660,48 @@
         "last_seen": "2026-10-01T09:33:11.658888+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 15,
+        "rank": 18,
         "change": -3
+      },
+      {
+        "id": "i069461b9",
+        "title": "김태규 \"전두환 내란 아니야\"",
+        "keywords": [
+          "김태규",
+          "전두환",
+          "내란"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 88.66,
+        "peak_score": 79.19,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 18,
+            "title": "김태규 \"전두환 내란 아니야\"",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467154&_dcbest=1&page=1",
+            "score": 71.19
+          },
+          {
+            "source": "인벤",
+            "rank": 21,
+            "title": "[속보] 민주, \"전두환 내란 아니다\" 국힘 김태규 제명 촉구 결의안 제출",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2734877",
+            "score": 69.88
+          }
+        ],
+        "first_seen": "2026-10-01T15:33:46.728285+09:00",
+        "last_seen": "2026-10-01T15:33:46.728285+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 19,
+        "change": "NEW"
       },
       {
         "id": "ibc7a7b69",
@@ -2576,162 +2737,6 @@
         ],
         "first_seen": "2026-10-01T15:08:17.635290+09:00",
         "last_seen": "2026-10-01T15:08:17.635290+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 16,
-        "change": "NEW"
-      },
-      {
-        "id": "i0e7c791a",
-        "title": "‘두가지’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "두가지"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 87.46,
-        "peak_score": 77.99,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "루리웹"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 22,
-            "title": "붉은사막) DLC에 대한 유져들의 오해 두가지.",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/76864803?m=humor_only&t=now",
-            "score": 68.99
-          },
-          {
-            "source": "더쿠",
-            "rank": 81,
-            "title": "두가지 재료로 이런 맛을! <양배추찜닭> 일명 깔루아치킨이라고 제 12년 자취기간동안 제일 자주해먹은 닭요리입니다",
-            "url": "https://theqoo.net/hot/4361446126",
-            "score": 55.26
-          }
-        ],
-        "first_seen": "2026-10-01T06:00:23.851701+09:00",
-        "last_seen": "2026-10-01T06:00:23.851701+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 17,
-        "change": -3
-      },
-      {
-        "id": "i1f0c76c7",
-        "title": "[2보] 한국 수출 첫 8천억달러 돌파…9월 1천200억달러 역대 최대",
-        "keywords": [
-          "돌파",
-          "9월",
-          "역대",
-          "최대",
-          "수출"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 86.68,
-        "peak_score": 77.21,
-        "appearances": 1,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 15,
-            "title": "[2보] 한국 수출 첫 8천억달러 돌파…9월 1천200억달러 역대 최대",
-            "url": "https://www.clien.net/service/board/park/19272063?od=T31&po=0&category=0&groupCd=",
-            "score": 69.21
-          },
-          {
-            "source": "인벤",
-            "rank": 27,
-            "title": "반도체 슈퍼사이클에 9월 수출 1200억 달러 돌파 역대 최대",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2734687",
-            "score": 66.66
-          }
-        ],
-        "first_seen": "2026-10-01T09:33:11.658888+09:00",
-        "last_seen": "2026-10-01T09:33:11.658888+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 18,
-        "change": -3
-      },
-      {
-        "id": "i859e97d2",
-        "title": "‘s26’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "s26"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 85.36,
-        "peak_score": 75.89,
-        "appearances": 1,
-        "sources": [
-          "뽐뿌",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 22,
-            "title": "{SK유심차비지급} 유심이동 -55만 & 퀀텀 9만 & & A17 -15만 & S26 22만 / \"택배가능\" /믿을수 ...",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=pmarket2&no=1551013",
-            "score": 66.89
-          },
-          {
-            "source": "인벤",
-            "rank": 82,
-            "title": "퍼옴)S26 이전 모델, ONE ui 9.0 업뎃이후 충전속도 너프 이야기 나오는 중",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2734858",
-            "score": 56.16
-          }
-        ],
-        "first_seen": "2026-10-01T15:08:17.635290+09:00",
-        "last_seen": "2026-10-01T15:08:17.635290+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 19,
-        "change": "NEW"
-      },
-      {
-        "id": "ie29f8427",
-        "title": "‘네이버멤버십’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "네이버멤버십"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 85.07,
-        "peak_score": 73.58,
-        "appearances": 2,
-        "sources": [
-          "더쿠",
-          "뽐뿌"
-        ],
-        "posts": [
-          {
-            "source": "더쿠",
-            "rank": 39,
-            "title": "네이버멤버십 이거때문에 유지하는 사람많음",
-            "url": "https://theqoo.net/hot/4361506007",
-            "score": 64.58
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 85,
-            "title": "[네이버] 네이버멤버십_ 오뚜기피자, 프레스코 스파게티소스, 허니듀멜론, 매일두유, 포스트 크리치오, 오레오 ...",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=737346",
-            "score": 54.24
-          }
-        ],
-        "first_seen": "2026-10-01T05:23:09.934339+09:00",
-        "last_seen": "2026-10-01T06:00:23.851701+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 20,
