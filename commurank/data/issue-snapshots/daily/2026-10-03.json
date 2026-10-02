@@ -3,9 +3,55 @@
   "period": "daily",
   "key": "2026-10-03",
   "label": "2026년 10월 03일",
-  "collected_at": "2026-10-03T00:05:02.277306+09:00",
+  "collected_at": "2026-10-03T04:55:10.124887+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
+    {
+      "id": "i106465f0",
+      "title": "‘암살자들’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "암살자들"
+      ],
+      "source_count": 3,
+      "post_count": 3,
+      "score": 105.22,
+      "peak_score": 90.75,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 15,
+          "title": "육영수 피격 실제 장면. 너무 이상하다. (암살자들)",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2735596",
+          "score": 73.75
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 54,
+          "title": "암살자들 보고왔습니다",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10139947",
+          "score": 59.57
+        },
+        {
+          "source": "클리앙",
+          "rank": 80,
+          "title": "암살자들 2회차 관람 → 박정희 대통령 의혹 없습니다.",
+          "url": "https://www.clien.net/service/board/park/19272873?od=T31&po=0&category=0&groupCd=",
+          "score": 54.62
+        }
+      ],
+      "first_seen": "2026-09-27T18:16:30.778383+09:00",
+      "last_seen": "2026-10-03T04:55:10.124887+09:00",
+      "latest_source_count": 3,
+      "latest_post_count": 3,
+      "rank": 1,
+      "change": "NEW"
+    },
     {
       "id": "i78f6419e",
       "title": "‘암살자’ 관련 글이 여러 커뮤니티에서 화제",
@@ -49,7 +95,121 @@
       "last_seen": "2026-10-03T00:05:02.277306+09:00",
       "latest_source_count": 3,
       "latest_post_count": 3,
-      "rank": 1,
+      "rank": 2,
+      "change": -1
+    },
+    {
+      "id": "i7b918478",
+      "title": "‘일본의’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "일본의"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 93.03,
+      "peak_score": 83.56,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 9,
+          "title": "일본의 출산 정책이 나름 참고할만 하네요",
+          "url": "https://www.clien.net/service/board/park/19272905?od=T31&po=0&category=0&groupCd=",
+          "score": 74.56
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 22,
+          "title": "ㅅㄱㅂㄱ 일본의 딸바보아저씨",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467501&_dcbest=1&page=1",
+          "score": 69.74
+        }
+      ],
+      "first_seen": "2026-10-03T04:55:10.124887+09:00",
+      "last_seen": "2026-10-03T04:55:10.124887+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 3,
+      "change": "NEW"
+    },
+    {
+      "id": "ia4c9a0a3",
+      "title": "‘오세훈’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "오세훈"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 92.79,
+      "peak_score": 83.32,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 11,
+          "title": "오세훈 날라가서 다행이네요",
+          "url": "https://www.clien.net/service/board/park/19272886?od=T31&po=0&category=0&groupCd=",
+          "score": 74.32
+        },
+        {
+          "source": "더쿠",
+          "rank": 42,
+          "title": "오세훈, 대답 없이 직진하다 홱 돌아 \"잔인하지 않아요?\"",
+          "url": "https://theqoo.net/hot/4363571220",
+          "score": 61.68
+        }
+      ],
+      "first_seen": "2026-10-03T04:55:10.124887+09:00",
+      "last_seen": "2026-10-03T04:55:10.124887+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 4,
+      "change": "NEW"
+    },
+    {
+      "id": "i4ddd6a96",
+      "title": "‘김여정’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "김여정"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 91.81,
+      "peak_score": 82.34,
+      "appearances": 1,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 17,
+          "title": "[속보] 김여정, 입장문 또 내고 정동영 회담 제의 거부",
+          "url": "https://www.clien.net/service/board/park/19272892?od=T31&po=0&category=0&groupCd=",
+          "score": 73.34
+        },
+        {
+          "source": "인벤",
+          "rank": 88,
+          "title": "청와대, 김여정 ‘광대극’ 담화에 “소모적 비난 멈추고 한반도 평화 동참 촉구”",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2735593",
+          "score": 54.03
+        }
+      ],
+      "first_seen": "2026-10-03T04:55:10.124887+09:00",
+      "last_seen": "2026-10-03T04:55:10.124887+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 5,
       "change": "NEW"
     },
     {
@@ -87,7 +247,45 @@
       "last_seen": "2026-10-03T00:05:02.277306+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 2,
+      "rank": 6,
+      "change": -4
+    },
+    {
+      "id": "i8b4085e0",
+      "title": "‘아시안게임’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "아시안게임"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 78.48,
+      "peak_score": 69.01,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 49,
+          "title": "아시안게임 어제의 메달리스트들",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2735591",
+          "score": 60.01
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 91,
+          "title": "아시안게임 버추얼 태권도, 장비 오류로 경기 줄줄이 중단",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467503&_dcbest=1&page=1",
+          "score": 53.71
+        }
+      ],
+      "first_seen": "2026-09-27T20:01:41.851026+09:00",
+      "last_seen": "2026-10-03T04:55:10.124887+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 7,
       "change": "NEW"
     }
   ]

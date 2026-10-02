@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W40",
   "label": "2026.09.28 ~ 10.04",
-  "collected_at": "2026-10-03T00:05:02.277306+09:00",
+  "collected_at": "2026-10-03T04:55:10.124887+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -371,6 +371,54 @@
       "change": 0
     },
     {
+      "id": "i106465f0",
+      "title": "‘암살자들’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "암살자들"
+      ],
+      "source_count": 3,
+      "post_count": 4,
+      "score": 114.74,
+      "peak_score": 90.75,
+      "appearances": 10,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "뽐뿌",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 15,
+          "title": "육영수 피격 실제 장면. 너무 이상하다. (암살자들)",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2735596",
+          "score": 73.75
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 54,
+          "title": "암살자들 보고왔습니다",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10139947",
+          "score": 59.57
+        },
+        {
+          "source": "클리앙",
+          "rank": 80,
+          "title": "암살자들 2회차 관람 → 박정희 대통령 의혹 없습니다.",
+          "url": "https://www.clien.net/service/board/park/19272873?od=T31&po=0&category=0&groupCd=",
+          "score": 54.62
+        }
+      ],
+      "first_seen": "2026-09-27T18:16:30.778383+09:00",
+      "last_seen": "2026-10-03T04:55:10.124887+09:00",
+      "latest_source_count": 3,
+      "latest_post_count": 3,
+      "rank": 9,
+      "change": 2
+    },
+    {
       "id": "i8447a234",
       "title": "뉴스) 산재 사망시 영업 이익 5% 과징금",
       "keywords": [
@@ -406,8 +454,8 @@
       "last_seen": "2026-10-02T11:10:36.587418+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 9,
-      "change": 0
+      "rank": 10,
+      "change": -1
     },
     {
       "id": "ia99bde06",
@@ -447,48 +495,8 @@
       "last_seen": "2026-09-28T13:04:57.705093+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 10,
-      "change": 0
-    },
-    {
-      "id": "i106465f0",
-      "title": "‘암살자들’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "암살자들"
-      ],
-      "source_count": 3,
-      "post_count": 4,
-      "score": 113.93,
-      "peak_score": 90.42,
-      "appearances": 9,
-      "sources": [
-        "더쿠",
-        "디시인사이드",
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 9,
-          "title": "이민호가 암살자들 선택한 이유 직접 말했네",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467409&_dcbest=1&page=1",
-          "score": 74.24
-        },
-        {
-          "source": "클리앙",
-          "rank": 93,
-          "title": "암살자들 보고왔습니다.",
-          "url": "https://www.clien.net/service/board/park/19272715?od=T31&po=0&category=0&groupCd=",
-          "score": 51.67
-        }
-      ],
-      "first_seen": "2026-09-27T18:16:30.778383+09:00",
-      "last_seen": "2026-10-02T17:39:04.841317+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 3,
       "rank": 11,
-      "change": 0
+      "change": -1
     },
     {
       "id": "i81e4b6ca",
@@ -775,6 +783,47 @@
       "change": 0
     },
     {
+      "id": "i8b4085e0",
+      "title": "‘아시안게임’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "아시안게임"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 105.98,
+      "peak_score": 91.02,
+      "appearances": 5,
+      "sources": [
+        "디시인사이드",
+        "루리웹",
+        "뽐뿌",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 49,
+          "title": "아시안게임 어제의 메달리스트들",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2735591",
+          "score": 60.01
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 91,
+          "title": "아시안게임 버추얼 태권도, 장비 오류로 경기 줄줄이 중단",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467503&_dcbest=1&page=1",
+          "score": 53.71
+        }
+      ],
+      "first_seen": "2026-09-27T20:01:41.851026+09:00",
+      "last_seen": "2026-10-03T04:55:10.124887+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 19,
+      "change": 1
+    },
+    {
       "id": "i5028ebca",
       "title": "60만원으로 여자친구 만들기 …JPG",
       "keywords": [
@@ -811,49 +860,8 @@
       "last_seen": "2026-09-30T19:29:43.128023+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 19,
-      "change": 0
-    },
-    {
-      "id": "i8b4085e0",
-      "title": "‘아시안게임’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "아시안게임"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 105.07,
-      "peak_score": 91.02,
-      "appearances": 4,
-      "sources": [
-        "디시인사이드",
-        "루리웹",
-        "뽐뿌",
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 75,
-          "title": "오늘의 아시안게임 메달리스트들",
-          "url": "https://www.clien.net/service/board/park/19272434?od=T31&po=0&category=0&groupCd=",
-          "score": 56.25
-        },
-        {
-          "source": "루리웹",
-          "rank": 80,
-          "title": "아시안게임 유도 경기서 중국선수가 입으로 물어 반칙패",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/76874106?m=humor_only&t=now",
-          "score": 55.4
-        }
-      ],
-      "first_seen": "2026-09-27T20:01:41.851026+09:00",
-      "last_seen": "2026-10-01T22:31:06.521354+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 20,
-      "change": 0
+      "change": -1
     }
   ]
 }
