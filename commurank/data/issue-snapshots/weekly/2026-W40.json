@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W40",
   "label": "2026.09.28 ~ 10.04",
-  "collected_at": "2026-10-03T04:55:10.124887+09:00",
+  "collected_at": "2026-10-03T08:43:07.357089+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -117,9 +117,9 @@
       ],
       "source_count": 3,
       "post_count": 4,
-      "score": 127.03,
+      "score": 127.43,
       "peak_score": 102.61,
-      "appearances": 11,
+      "appearances": 12,
       "sources": [
         "더쿠",
         "디시인사이드",
@@ -130,31 +130,24 @@
       ],
       "posts": [
         {
-          "source": "디시인사이드",
+          "source": "인벤",
           "rank": 22,
+          "title": "영화 암살자(들)에 분노 하신분들은 꼭 보세요.",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2735622",
+          "score": 69.9
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 96,
           "title": "황현필 “‘건국전쟁2’ 박수친 사람, ‘암살자(들)’ 비판 자격 없다”",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467492&_dcbest=1&page=1",
-          "score": 69.62
-        },
-        {
-          "source": "인벤",
-          "rank": 93,
-          "title": "암살자(들)' 불매운동 식품업계로 불똥 튀나",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2735537",
-          "score": 47.36
-        },
-        {
-          "source": "더쿠",
-          "rank": 95,
-          "title": "주진우 “암살자(들) 개막작 선정 재고해달라” 싱가포르국제영화제에 항의 서한",
-          "url": "https://theqoo.net/hot/4363333047",
-          "score": 47.05
+          "score": 51.42
         }
       ],
       "first_seen": "2026-09-27T20:23:34.525151+09:00",
-      "last_seen": "2026-10-03T00:05:02.277306+09:00",
-      "latest_source_count": 3,
-      "latest_post_count": 3,
+      "last_seen": "2026-10-03T08:43:07.357089+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
       "rank": 3,
       "change": 0
     },
@@ -416,7 +409,7 @@
       "latest_source_count": 3,
       "latest_post_count": 3,
       "rank": 9,
-      "change": 2
+      "change": 0
     },
     {
       "id": "i8447a234",
@@ -455,7 +448,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 10,
-      "change": -1
+      "change": 0
     },
     {
       "id": "ia99bde06",
@@ -496,7 +489,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 11,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i81e4b6ca",
@@ -821,7 +814,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 19,
-      "change": 1
+      "change": 0
     },
     {
       "id": "i5028ebca",
@@ -861,7 +854,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 20,
-      "change": -1
+      "change": 0
     }
   ]
 }

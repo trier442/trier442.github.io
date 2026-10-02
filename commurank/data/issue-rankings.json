@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-10-03T04:55:10.124887+09:00",
+  "collected_at": "2026-10-03T08:43:07.357089+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -11,45 +11,144 @@
   "rankings": {
     "realtime": [
       {
-        "id": "i106465f0",
-        "title": "‘암살자들’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i879d3e36",
+        "title": "‘박정희가’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "암살자들"
+          "박정희가",
+          "경제를"
         ],
-        "source_count": 3,
-        "post_count": 3,
-        "score": 90.75,
-        "peak_score": 90.75,
+        "source_count": 2,
+        "post_count": 2,
+        "score": 87.18,
+        "peak_score": 87.18,
         "appearances": 1,
         "sources": [
-          "뽐뿌",
+          "더쿠",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 9,
+            "title": "박정희가 외화벌이로 경제를 살렸는데 욕하는게 말이돼?",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10140021",
+            "score": 78.18
+          },
+          {
+            "source": "더쿠",
+            "rank": 92,
+            "title": "그래도 박정희가 외화 벌어들이면서 한국 경제를 일으킨 공이 있는데",
+            "url": "https://theqoo.net/hot/4363433743",
+            "score": 52.26
+          }
+        ],
+        "rank": 1,
+        "change": "NEW"
+      },
+      {
+        "id": "ic7c7aec6",
+        "title": "트럼프 \"韓 알래스카 투자 안 하면 2배로 청구\"",
+        "keywords": [
+          "하면",
+          "투자",
+          "트럼프",
+          "알래스카",
+          "청구"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 80.3,
+        "peak_score": 80.3,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 13,
+            "title": "트럼프 \"韓 알래스카 투자 안 하면 2배로 청구\"",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2735627",
+            "score": 72.3
+          },
+          {
+            "source": "더쿠",
+            "rank": 35,
+            "title": "[속보] 트럼프 \"한국, 알래스카 투자 합의 안 하면 두 배로 청구\"",
+            "url": "https://theqoo.net/hot/4363637868",
+            "score": 65.0
+          }
+        ],
+        "rank": 2,
+        "change": "NEW"
+      },
+      {
+        "id": "i78f6419e",
+        "title": "‘암살자’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "암살자"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 78.9,
+        "peak_score": 78.9,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 22,
+            "title": "영화 암살자(들)에 분노 하신분들은 꼭 보세요.",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2735622",
+            "score": 69.9
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 96,
+            "title": "황현필 “‘건국전쟁2’ 박수친 사람, ‘암살자(들)’ 비판 자격 없다”",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467492&_dcbest=1&page=1",
+            "score": 51.42
+          }
+        ],
+        "rank": 3,
+        "change": "NEW"
+      },
+      {
+        "id": "icb33dad5",
+        "title": "‘sns’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "sns"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 72.57,
+        "peak_score": 72.57,
+        "appearances": 1,
+        "sources": [
           "인벤",
           "클리앙"
         ],
         "posts": [
           {
             "source": "인벤",
-            "rank": 15,
-            "title": "육영수 피격 실제 장면. 너무 이상하다. (암살자들)",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2735596",
-            "score": 73.75
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 54,
-            "title": "암살자들 보고왔습니다",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10139947",
-            "score": 59.57
+            "rank": 37,
+            "title": "오늘자 이재명 대통령 SNS...jpg",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2735616",
+            "score": 63.57
           },
           {
             "source": "클리앙",
-            "rank": 80,
-            "title": "암살자들 2회차 관람 → 박정희 대통령 의혹 없습니다.",
-            "url": "https://www.clien.net/service/board/park/19272873?od=T31&po=0&category=0&groupCd=",
-            "score": 54.62
+            "rank": 70,
+            "title": "어제밤 대통령 SNS",
+            "url": "https://www.clien.net/service/board/park/19272925?od=T31&po=0&category=0&groupCd=",
+            "score": 58.44
           }
         ],
-        "rank": 1,
+        "rank": 4,
         "change": "NEW"
       },
       {
@@ -60,132 +159,98 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 83.56,
-        "peak_score": 83.56,
+        "score": 71.13,
+        "peak_score": 71.13,
         "appearances": 1,
         "sources": [
           "디시인사이드",
-          "클리앙"
+          "뽐뿌"
         ],
         "posts": [
-          {
-            "source": "클리앙",
-            "rank": 9,
-            "title": "일본의 출산 정책이 나름 참고할만 하네요",
-            "url": "https://www.clien.net/service/board/park/19272905?od=T31&po=0&category=0&groupCd=",
-            "score": 74.56
-          },
           {
             "source": "디시인사이드",
-            "rank": 22,
+            "rank": 47,
             "title": "ㅅㄱㅂㄱ 일본의 딸바보아저씨",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467501&_dcbest=1&page=1",
-            "score": 69.74
+            "score": 62.13
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 59,
+            "title": "애플 충성국 일본의 대반란 ㄷ",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=22231",
+            "score": 60.73
           }
         ],
-        "rank": 2,
-        "change": "NEW"
+        "rank": 5,
+        "change": -3
       },
       {
-        "id": "ia4c9a0a3",
-        "title": "‘오세훈’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i47cfdc73",
+        "title": "‘순자산’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "오세훈"
+          "순자산"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 83.32,
-        "peak_score": 83.32,
+        "score": 70.92,
+        "peak_score": 70.92,
         "appearances": 1,
         "sources": [
-          "더쿠",
+          "루리웹",
           "클리앙"
         ],
         "posts": [
           {
             "source": "클리앙",
-            "rank": 11,
-            "title": "오세훈 날라가서 다행이네요",
-            "url": "https://www.clien.net/service/board/park/19272886?od=T31&po=0&category=0&groupCd=",
-            "score": 74.32
+            "rank": 49,
+            "title": "중산층 기준은 순자산 얼마부터일까요",
+            "url": "https://www.clien.net/service/board/park/19272928?od=T31&po=0&category=0&groupCd=",
+            "score": 61.92
           },
           {
-            "source": "더쿠",
-            "rank": 42,
-            "title": "오세훈, 대답 없이 직진하다 홱 돌아 \"잔인하지 않아요?\"",
-            "url": "https://theqoo.net/hot/4363571220",
-            "score": 61.68
+            "source": "루리웹",
+            "rank": 58,
+            "title": "20대 평균 순자산 1억 796만원",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76889353?m=humor_only&t=now",
+            "score": 60.85
           }
         ],
-        "rank": 3,
+        "rank": 6,
         "change": "NEW"
       },
       {
-        "id": "i4ddd6a96",
-        "title": "‘김여정’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i50b33b63",
+        "title": "‘고양이’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "김여정"
+          "고양이"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 82.34,
-        "peak_score": 82.34,
+        "score": 67.79,
+        "peak_score": 67.79,
         "appearances": 1,
         "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 17,
-            "title": "[속보] 김여정, 입장문 또 내고 정동영 회담 제의 거부",
-            "url": "https://www.clien.net/service/board/park/19272892?od=T31&po=0&category=0&groupCd=",
-            "score": 73.34
-          },
-          {
-            "source": "인벤",
-            "rank": 88,
-            "title": "청와대, 김여정 ‘광대극’ 담화에 “소모적 비난 멈추고 한반도 평화 동참 촉구”",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2735593",
-            "score": 54.03
-          }
-        ],
-        "rank": 4,
-        "change": "NEW"
-      },
-      {
-        "id": "i8b4085e0",
-        "title": "‘아시안게임’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "아시안게임"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 69.01,
-        "peak_score": 69.01,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
+          "루리웹",
           "인벤"
         ],
         "posts": [
           {
             "source": "인벤",
-            "rank": 49,
-            "title": "아시안게임 어제의 메달리스트들",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2735591",
-            "score": 60.01
+            "rank": 68,
+            "title": "삐약 삐약 아기 고양이",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2735617",
+            "score": 58.79
           },
           {
-            "source": "디시인사이드",
-            "rank": 91,
-            "title": "아시안게임 버추얼 태권도, 장비 오류로 경기 줄줄이 중단",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467503&_dcbest=1&page=1",
-            "score": 53.71
+            "source": "루리웹",
+            "rank": 90,
+            "title": "엄마의 고양이 덕질 기록.twt",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76889383?m=humor_only&t=now",
+            "score": 53.06
           }
         ],
-        "rank": 5,
+        "rank": 7,
         "change": "NEW"
       }
     ],
@@ -234,7 +299,7 @@
         "latest_source_count": 3,
         "latest_post_count": 3,
         "rank": 1,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "i78f6419e",
@@ -244,9 +309,9 @@
         ],
         "source_count": 3,
         "post_count": 3,
-        "score": 101.09,
+        "score": 103.11,
         "peak_score": 86.62,
-        "appearances": 1,
+        "appearances": 2,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -254,33 +319,65 @@
         ],
         "posts": [
           {
-            "source": "디시인사이드",
+            "source": "인벤",
             "rank": 22,
+            "title": "영화 암살자(들)에 분노 하신분들은 꼭 보세요.",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2735622",
+            "score": 69.9
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 96,
             "title": "황현필 “‘건국전쟁2’ 박수친 사람, ‘암살자(들)’ 비판 자격 없다”",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467492&_dcbest=1&page=1",
-            "score": 69.62
-          },
-          {
-            "source": "인벤",
-            "rank": 93,
-            "title": "암살자(들)' 불매운동 식품업계로 불똥 튀나",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2735537",
-            "score": 47.36
-          },
-          {
-            "source": "더쿠",
-            "rank": 95,
-            "title": "주진우 “암살자(들) 개막작 선정 재고해달라” 싱가포르국제영화제에 항의 서한",
-            "url": "https://theqoo.net/hot/4363333047",
-            "score": 47.05
+            "score": 51.42
           }
         ],
         "first_seen": "2026-09-27T20:23:34.525151+09:00",
-        "last_seen": "2026-10-03T00:05:02.277306+09:00",
-        "latest_source_count": 3,
-        "latest_post_count": 3,
+        "last_seen": "2026-10-03T08:43:07.357089+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
         "rank": 2,
-        "change": -1
+        "change": 0
+      },
+      {
+        "id": "i879d3e36",
+        "title": "‘박정희가’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "박정희가",
+          "경제를"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 96.65,
+        "peak_score": 87.18,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 9,
+            "title": "박정희가 외화벌이로 경제를 살렸는데 욕하는게 말이돼?",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10140021",
+            "score": 78.18
+          },
+          {
+            "source": "더쿠",
+            "rank": 92,
+            "title": "그래도 박정희가 외화 벌어들이면서 한국 경제를 일으킨 공이 있는데",
+            "url": "https://theqoo.net/hot/4363433743",
+            "score": 52.26
+          }
+        ],
+        "first_seen": "2026-09-28T19:49:36.308484+09:00",
+        "last_seen": "2026-10-03T08:43:07.357089+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 3,
+        "change": "NEW"
       },
       {
         "id": "i7b918478",
@@ -290,35 +387,36 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 93.03,
+        "score": 95.05,
         "peak_score": 83.56,
-        "appearances": 1,
+        "appearances": 2,
         "sources": [
           "디시인사이드",
+          "뽐뿌",
           "클리앙"
         ],
         "posts": [
           {
-            "source": "클리앙",
-            "rank": 9,
-            "title": "일본의 출산 정책이 나름 참고할만 하네요",
-            "url": "https://www.clien.net/service/board/park/19272905?od=T31&po=0&category=0&groupCd=",
-            "score": 74.56
-          },
-          {
             "source": "디시인사이드",
-            "rank": 22,
+            "rank": 47,
             "title": "ㅅㄱㅂㄱ 일본의 딸바보아저씨",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467501&_dcbest=1&page=1",
-            "score": 69.74
+            "score": 62.13
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 59,
+            "title": "애플 충성국 일본의 대반란 ㄷ",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=22231",
+            "score": 60.73
           }
         ],
         "first_seen": "2026-10-03T04:55:10.124887+09:00",
-        "last_seen": "2026-10-03T04:55:10.124887+09:00",
+        "last_seen": "2026-10-03T08:43:07.357089+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 3,
-        "change": "NEW"
+        "rank": 4,
+        "change": -1
       },
       {
         "id": "ia4c9a0a3",
@@ -355,8 +453,8 @@
         "last_seen": "2026-10-03T04:55:10.124887+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 4,
-        "change": "NEW"
+        "rank": 5,
+        "change": -1
       },
       {
         "id": "i4ddd6a96",
@@ -393,7 +491,49 @@
         "last_seen": "2026-10-03T04:55:10.124887+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 5,
+        "rank": 6,
+        "change": -1
+      },
+      {
+        "id": "ic7c7aec6",
+        "title": "트럼프 \"韓 알래스카 투자 안 하면 2배로 청구\"",
+        "keywords": [
+          "하면",
+          "투자",
+          "트럼프",
+          "알래스카",
+          "청구"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 89.77,
+        "peak_score": 80.3,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 13,
+            "title": "트럼프 \"韓 알래스카 투자 안 하면 2배로 청구\"",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2735627",
+            "score": 72.3
+          },
+          {
+            "source": "더쿠",
+            "rank": 35,
+            "title": "[속보] 트럼프 \"한국, 알래스카 투자 합의 안 하면 두 배로 청구\"",
+            "url": "https://theqoo.net/hot/4363637868",
+            "score": 65.0
+          }
+        ],
+        "first_seen": "2026-10-03T08:43:07.357089+09:00",
+        "last_seen": "2026-10-03T08:43:07.357089+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 7,
         "change": "NEW"
       },
       {
@@ -431,8 +571,84 @@
         "last_seen": "2026-10-03T00:05:02.277306+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 6,
-        "change": -4
+        "rank": 8,
+        "change": -2
+      },
+      {
+        "id": "icb33dad5",
+        "title": "‘sns’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "sns"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 82.04,
+        "peak_score": 72.57,
+        "appearances": 1,
+        "sources": [
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 37,
+            "title": "오늘자 이재명 대통령 SNS...jpg",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2735616",
+            "score": 63.57
+          },
+          {
+            "source": "클리앙",
+            "rank": 70,
+            "title": "어제밤 대통령 SNS",
+            "url": "https://www.clien.net/service/board/park/19272925?od=T31&po=0&category=0&groupCd=",
+            "score": 58.44
+          }
+        ],
+        "first_seen": "2026-09-29T18:03:51.886668+09:00",
+        "last_seen": "2026-10-03T08:43:07.357089+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 9,
+        "change": "NEW"
+      },
+      {
+        "id": "i47cfdc73",
+        "title": "‘순자산’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "순자산"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 80.39,
+        "peak_score": 70.92,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 49,
+            "title": "중산층 기준은 순자산 얼마부터일까요",
+            "url": "https://www.clien.net/service/board/park/19272928?od=T31&po=0&category=0&groupCd=",
+            "score": 61.92
+          },
+          {
+            "source": "루리웹",
+            "rank": 58,
+            "title": "20대 평균 순자산 1억 796만원",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76889353?m=humor_only&t=now",
+            "score": 60.85
+          }
+        ],
+        "first_seen": "2026-10-03T08:43:07.357089+09:00",
+        "last_seen": "2026-10-03T08:43:07.357089+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 10,
+        "change": "NEW"
       },
       {
         "id": "i8b4085e0",
@@ -469,7 +685,45 @@
         "last_seen": "2026-10-03T04:55:10.124887+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 7,
+        "rank": 11,
+        "change": -4
+      },
+      {
+        "id": "i50b33b63",
+        "title": "‘고양이’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "고양이"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 77.26,
+        "peak_score": 67.79,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 68,
+            "title": "삐약 삐약 아기 고양이",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2735617",
+            "score": 58.79
+          },
+          {
+            "source": "루리웹",
+            "rank": 90,
+            "title": "엄마의 고양이 덕질 기록.twt",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76889383?m=humor_only&t=now",
+            "score": 53.06
+          }
+        ],
+        "first_seen": "2026-10-03T08:43:07.357089+09:00",
+        "last_seen": "2026-10-03T08:43:07.357089+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 12,
         "change": "NEW"
       }
     ],
@@ -585,9 +839,9 @@
         ],
         "source_count": 3,
         "post_count": 4,
-        "score": 127.03,
+        "score": 127.43,
         "peak_score": 102.61,
-        "appearances": 11,
+        "appearances": 12,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -598,31 +852,24 @@
         ],
         "posts": [
           {
-            "source": "디시인사이드",
+            "source": "인벤",
             "rank": 22,
+            "title": "영화 암살자(들)에 분노 하신분들은 꼭 보세요.",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2735622",
+            "score": 69.9
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 96,
             "title": "황현필 “‘건국전쟁2’ 박수친 사람, ‘암살자(들)’ 비판 자격 없다”",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467492&_dcbest=1&page=1",
-            "score": 69.62
-          },
-          {
-            "source": "인벤",
-            "rank": 93,
-            "title": "암살자(들)' 불매운동 식품업계로 불똥 튀나",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2735537",
-            "score": 47.36
-          },
-          {
-            "source": "더쿠",
-            "rank": 95,
-            "title": "주진우 “암살자(들) 개막작 선정 재고해달라” 싱가포르국제영화제에 항의 서한",
-            "url": "https://theqoo.net/hot/4363333047",
-            "score": 47.05
+            "score": 51.42
           }
         ],
         "first_seen": "2026-09-27T20:23:34.525151+09:00",
-        "last_seen": "2026-10-03T00:05:02.277306+09:00",
-        "latest_source_count": 3,
-        "latest_post_count": 3,
+        "last_seen": "2026-10-03T08:43:07.357089+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
         "rank": 3,
         "change": 0
       },
@@ -884,7 +1131,7 @@
         "latest_source_count": 3,
         "latest_post_count": 3,
         "rank": 9,
-        "change": 2
+        "change": 0
       },
       {
         "id": "i8447a234",
@@ -923,7 +1170,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 10,
-        "change": -1
+        "change": 0
       },
       {
         "id": "ia99bde06",
@@ -964,7 +1211,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 11,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i81e4b6ca",
@@ -1289,7 +1536,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 19,
-        "change": 1
+        "change": 0
       },
       {
         "id": "i5028ebca",
@@ -1329,7 +1576,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 20,
-        "change": -1
+        "change": 0
       }
     ],
     "monthly": [
@@ -1341,9 +1588,9 @@
         ],
         "source_count": 3,
         "post_count": 4,
-        "score": 124.34,
+        "score": 125.01,
         "peak_score": 102.61,
-        "appearances": 6,
+        "appearances": 7,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -1353,31 +1600,24 @@
         ],
         "posts": [
           {
-            "source": "디시인사이드",
+            "source": "인벤",
             "rank": 22,
+            "title": "영화 암살자(들)에 분노 하신분들은 꼭 보세요.",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2735622",
+            "score": 69.9
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 96,
             "title": "황현필 “‘건국전쟁2’ 박수친 사람, ‘암살자(들)’ 비판 자격 없다”",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467492&_dcbest=1&page=1",
-            "score": 69.62
-          },
-          {
-            "source": "인벤",
-            "rank": 93,
-            "title": "암살자(들)' 불매운동 식품업계로 불똥 튀나",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2735537",
-            "score": 47.36
-          },
-          {
-            "source": "더쿠",
-            "rank": 95,
-            "title": "주진우 “암살자(들) 개막작 선정 재고해달라” 싱가포르국제영화제에 항의 서한",
-            "url": "https://theqoo.net/hot/4363333047",
-            "score": 47.05
+            "score": 51.42
           }
         ],
         "first_seen": "2026-09-27T20:23:34.525151+09:00",
-        "last_seen": "2026-10-03T00:05:02.277306+09:00",
-        "latest_source_count": 3,
-        "latest_post_count": 3,
+        "last_seen": "2026-10-03T08:43:07.357089+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
         "rank": 1,
         "change": 0
       },
@@ -1995,6 +2235,47 @@
         "change": 0
       },
       {
+        "id": "i879d3e36",
+        "title": "‘박정희가’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "박정희가",
+          "경제를"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 98.67,
+        "peak_score": 87.18,
+        "appearances": 2,
+        "sources": [
+          "더쿠",
+          "디시인사이드",
+          "뽐뿌",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 9,
+            "title": "박정희가 외화벌이로 경제를 살렸는데 욕하는게 말이돼?",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10140021",
+            "score": 78.18
+          },
+          {
+            "source": "더쿠",
+            "rank": 92,
+            "title": "그래도 박정희가 외화 벌어들이면서 한국 경제를 일으킨 공이 있는데",
+            "url": "https://theqoo.net/hot/4363433743",
+            "score": 52.26
+          }
+        ],
+        "first_seen": "2026-09-28T19:49:36.308484+09:00",
+        "last_seen": "2026-10-03T08:43:07.357089+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 17,
+        "change": "NEW"
+      },
+      {
         "id": "ic60c355d",
         "title": "‘문재인’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -2029,8 +2310,8 @@
         "last_seen": "2026-10-02T08:05:57.140972+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 17,
-        "change": 0
+        "rank": 18,
+        "change": -1
       },
       {
         "id": "i2272efa7",
@@ -2068,8 +2349,8 @@
         "last_seen": "2026-10-02T11:10:36.587418+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 18,
-        "change": 0
+        "rank": 19,
+        "change": -1
       },
       {
         "id": "i97ba91d3",
@@ -2107,51 +2388,8 @@
         "last_seen": "2026-10-02T17:39:04.841317+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 19,
-        "change": 0
-      },
-      {
-        "id": "i5a1ee9c8",
-        "title": "이 대통령, 정청래 전 대표와 독대 만찬…퇴원·건강 회복 격려",
-        "keywords": [
-          "정청래",
-          "만찬",
-          "회복",
-          "독대",
-          "퇴원",
-          "대표와"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 96.62,
-        "peak_score": 85.13,
-        "appearances": 2,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 25,
-            "title": "이 대통령, 정청래 전 대표와 독대 만찬…퇴원·건강 회복 격려",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2735092",
-            "score": 69.85
-          },
-          {
-            "source": "클리앙",
-            "rank": 76,
-            "title": "이 대통령, 정청래 전 대표와 독대 만찬…퇴원·건강 회복 격려",
-            "url": "https://www.clien.net/service/board/park/19272439?od=T31&po=0&category=0&groupCd=",
-            "score": 56.52
-          }
-        ],
-        "first_seen": "2026-10-01T22:31:06.521354+09:00",
-        "last_seen": "2026-10-01T22:54:48.352543+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 20,
-        "change": 0
+        "change": -1
       }
     ]
   }
