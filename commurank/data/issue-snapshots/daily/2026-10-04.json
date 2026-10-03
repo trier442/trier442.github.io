@@ -3,7 +3,7 @@
   "period": "daily",
   "key": "2026-10-04",
   "label": "2026년 10월 04일",
-  "collected_at": "2026-10-04T06:13:27.410063+09:00",
+  "collected_at": "2026-10-04T08:09:31.765636+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -81,7 +81,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 2,
-      "change": 3
+      "change": 0
     },
     {
       "id": "i039fd79c",
@@ -119,7 +119,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 3,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i268dadd0",
@@ -127,14 +127,14 @@
       "keywords": [
         "축구",
         "게양",
-        "시상식",
-        "태극기"
+        "태극기",
+        "시상식"
       ],
       "source_count": 3,
       "post_count": 4,
-      "score": 93.99,
+      "score": 95.11,
       "peak_score": 75.06,
-      "appearances": 3,
+      "appearances": 4,
       "sources": [
         "루리웹",
         "인벤",
@@ -143,32 +143,70 @@
       "posts": [
         {
           "source": "클리앙",
-          "rank": 35,
+          "rank": 30,
           "title": "축구 시상식 태극기 게양 논란",
           "url": "https://www.clien.net/service/board/park/19273242?od=T31&po=0&category=0&groupCd=",
-          "score": 66.06
+          "score": 65.49
         },
         {
           "source": "인벤",
-          "rank": 68,
+          "rank": 69,
           "title": "아시안 게임 축구 시상식에서 태극기 게양 실수(?) 해프닝",
           "url": "https://www.inven.co.kr/board/webzine/2097/2735951",
           "score": 57.51
         },
         {
           "source": "인벤",
-          "rank": 91,
+          "rank": 87,
           "title": "AG 남자 축구 시상식 대참사 국기 게양이 안됩니다. 애국가 끝나고 야유",
           "url": "https://www.inven.co.kr/board/webzine/2097/2735954",
           "score": 53.25
         }
       ],
       "first_seen": "2026-09-28T09:44:07.013724+09:00",
-      "last_seen": "2026-10-04T06:13:27.410063+09:00",
+      "last_seen": "2026-10-04T08:09:31.765636+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 4,
-      "change": -1
+      "change": 0
+    },
+    {
+      "id": "ifd5a2cc3",
+      "title": "‘한국의’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "한국의"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 95.05,
+      "peak_score": 81.0,
+      "appearances": 4,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 15,
+          "title": "한국의 디스토피아 내러티브는 수익성 높은 수출품이다",
+          "url": "https://theqoo.net/hot/4364454659",
+          "score": 72.0
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 45,
+          "title": "한국의 1/11 이라는 일본 연예계 출연료",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467769&_dcbest=1&page=1",
+          "score": 61.23
+        }
+      ],
+      "first_seen": "2026-09-30T17:58:06.192419+09:00",
+      "last_seen": "2026-10-04T08:09:31.765636+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 5,
+      "change": 2
     },
     {
       "id": "i8b4085e0",
@@ -214,7 +252,7 @@
       "last_seen": "2026-10-04T06:13:27.410063+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 5,
+      "rank": 6,
       "change": -1
     },
     {
@@ -252,46 +290,8 @@
       "last_seen": "2026-10-04T03:06:46.347880+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
-      "change": 0
-    },
-    {
-      "id": "ifd5a2cc3",
-      "title": "‘한국에서’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "한국에서"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 78.79,
-      "peak_score": 65.86,
-      "appearances": 3,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 76,
-          "title": "한국에서 타죽은 조선족 여자들",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467697&_dcbest=1&page=1",
-          "score": 56.32
-        },
-        {
-          "source": "더쿠",
-          "rank": 98,
-          "title": "한국에서 초대박이 난 마운자로",
-          "url": "https://theqoo.net/hot/4364280284",
-          "score": 51.79
-        }
-      ],
-      "first_seen": "2026-09-30T17:58:06.192419+09:00",
-      "last_seen": "2026-10-04T05:13:51.095432+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 7,
-      "change": 0
+      "change": -1
     },
     {
       "id": "i995eeaea",
