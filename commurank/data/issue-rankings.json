@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-10-03T12:47:13.694231+09:00",
+  "collected_at": "2026-10-03T17:31:33.747059+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -11,46 +11,85 @@
   "rankings": {
     "realtime": [
       {
-        "id": "i7f717bd5",
-        "title": "‘부캉이’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "iadb932c9",
+        "title": "[관객수] 영화 암살자(들) - 200만명 돌파",
         "keywords": [
-          "부캉이"
+          "돌파",
+          "암살자",
+          "영화",
+          "관객",
+          "200만"
         ],
         "source_count": 3,
-        "post_count": 5,
-        "score": 112.84,
-        "peak_score": 112.84,
+        "post_count": 3,
+        "score": 81.93,
+        "peak_score": 81.93,
         "appearances": 1,
         "sources": [
           "더쿠",
-          "디시인사이드",
+          "뽐뿌",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 33,
+            "title": "[관객수] 영화 암살자(들) - 200만명 돌파",
+            "url": "https://www.clien.net/service/board/park/19273080?od=T31&po=0&category=0&groupCd=",
+            "score": 66.93
+          },
+          {
+            "source": "더쿠",
+            "rank": 35,
+            "title": "영화 <암살자(들)> 200만 관객 돌파",
+            "url": "https://theqoo.net/hot/4363902540",
+            "score": 66.53
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 68,
+            "title": "암살자들 200만 관객 돌파!",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10140455",
+            "score": 58.71
+          }
+        ],
+        "rank": 1,
+        "change": "NEW"
+      },
+      {
+        "id": "ia9e1f70b",
+        "title": "그물 넘은 부캉이 근황.jpg",
+        "keywords": [
+          "그물",
+          "부캉이"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 102.22,
+        "peak_score": 102.22,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
           "루리웹"
         ],
         "posts": [
           {
             "source": "루리웹",
             "rank": 3,
-            "title": "부산 상어, 부캉이 방류 유도 중단",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/76890284?m=humor",
-            "score": 93.84
+            "title": "그물 넘은 부캉이 근황.jpg",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76891260?m=humor",
+            "score": 94.22
           },
           {
             "source": "더쿠",
-            "rank": 32,
+            "rank": 90,
             "title": "그물 맴돌던 '부캉이', 그물 뚫고 북항친수공원 쪽으로 이동",
             "url": "https://theqoo.net/hot/4363789207",
-            "score": 68.0
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 50,
-            "title": "상어 부캉이 구조작업 또 실패…바다 앞서 멈췄다",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467571&_dcbest=1&page=1",
-            "score": 62.5
+            "score": 52.11
           }
         ],
-        "rank": 1,
-        "change": "NEW"
+        "rank": 2,
+        "change": 6
       },
       {
         "id": "i039fd79c",
@@ -59,9 +98,181 @@
           "이재명"
         ],
         "source_count": 2,
-        "post_count": 4,
-        "score": 80.59,
-        "peak_score": 80.59,
+        "post_count": 2,
+        "score": 94.42,
+        "peak_score": 94.42,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 6,
+            "title": "이재명 제일 역겨운 점",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10140383",
+            "score": 85.42
+          },
+          {
+            "source": "인벤",
+            "rank": 77,
+            "title": "이재명 대통령 x 팔로우 44만 하루 최대가60명",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2735800",
+            "score": 55.88
+          }
+        ],
+        "rank": 3,
+        "change": -1
+      },
+      {
+        "id": "ib57c4fad",
+        "title": "‘개인적으로’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "개인적으로"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 90.44,
+        "peak_score": 90.44,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 9,
+            "title": "암살자(들)봤는데 극호입니다. 올해 우리나라영화 중 개인적으로 몰입감과 긴장감 최고입니다.",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10140445",
+            "score": 81.44
+          },
+          {
+            "source": "클리앙",
+            "rank": 27,
+            "title": "개인적으로 유튜버 중에 AI를 가장 위트있게 쓰는 유튜버! '미남재형'",
+            "url": "https://www.clien.net/service/board/park/19273085?od=T31&po=0&category=0&groupCd=",
+            "score": 68.87
+          }
+        ],
+        "rank": 4,
+        "change": "NEW"
+      },
+      {
+        "id": "i97ba91d3",
+        "title": "‘버거킹’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "버거킹"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 89.7,
+        "peak_score": 89.7,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 11,
+            "title": "지금 당장 버거킹 주문해야하는 이유.jpg",
+            "url": "https://www.clien.net/service/board/park/19273100?od=T31&po=0&category=0&groupCd=",
+            "score": 80.7
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 85,
+            "title": "배우 유해진, 버거킹•광동제약 광고 내려갔다",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467579&_dcbest=1&page=1",
+            "score": 53.77
+          }
+        ],
+        "rank": 5,
+        "change": "NEW"
+      },
+      {
+        "id": "i106465f0",
+        "title": "‘암살자들’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "암살자들"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 83.19,
+        "peak_score": 83.19,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 16,
+            "title": "부산국제영화제 암살자들 행사 취소",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467631&_dcbest=1&page=1",
+            "score": 74.19
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 68,
+            "title": "암살자들 200만 관객 돌파!",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10140455",
+            "score": 58.71
+          }
+        ],
+        "rank": 6,
+        "change": "NEW"
+      },
+      {
+        "id": "i37ec84ec",
+        "title": "여친이 미국 여군인데",
+        "keywords": [
+          "여친이",
+          "여군인데",
+          "미국"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 80.09,
+        "peak_score": 80.09,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 20,
+            "title": "여친이 미국 여군인데",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2735786",
+            "score": 72.09
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 23,
+            "title": "여친이 미국 여군인데",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10140393",
+            "score": 69.94
+          }
+        ],
+        "rank": 7,
+        "change": "NEW"
+      },
+      {
+        "id": "i1060e3b1",
+        "title": "‘조희대’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "조희대"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 76.18,
+        "peak_score": 76.18,
         "appearances": 1,
         "sources": [
           "디시인사이드",
@@ -70,224 +281,17 @@
         "posts": [
           {
             "source": "인벤",
-            "rank": 27,
-            "title": "[이재명 대통령 지지율 하락] 슬프고 화남 - 즐겁고 행복함 / 어느 쪽이 정상일까요?",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2735709",
-            "score": 69.59
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 39,
-            "title": "김여정, 이재명 기념사에 “자작 광대극” 조롱",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467585&_dcbest=1&page=1",
-            "score": 65.37
-          }
-        ],
-        "rank": 2,
-        "change": "NEW"
-      },
-      {
-        "id": "i46d45bb2",
-        "title": "부산 상어, 부캉이 방류 유도 중단",
-        "keywords": [
-          "상어",
-          "부산"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 101.84,
-        "peak_score": 101.84,
-        "appearances": 1,
-        "sources": [
-          "루리웹",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 3,
-            "title": "부산 상어, 부캉이 방류 유도 중단",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/76890284?m=humor",
-            "score": 93.84
-          },
-          {
-            "source": "인벤",
-            "rank": 14,
-            "title": "부산 상어 근황",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2735712",
-            "score": 74.02
-          }
-        ],
-        "rank": 3,
-        "change": "NEW"
-      },
-      {
-        "id": "ib38c3213",
-        "title": "‘암살자’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "암살자",
-          "메가박스"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 87.1,
-        "peak_score": 87.1,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "디시인사이드"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 10,
-            "title": "박정희·육영수·태극기에 총탄 3발?…암살자(들) 메가박스 특전 오리지널",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467589&_dcbest=1&page=1",
-            "score": 78.1
-          },
-          {
-            "source": "더쿠",
-            "rank": 76,
-            "title": "주진우 \"'암살자(들)' 메가박스 패륜굿즈 전량 폐기·사과하라, 안 하면 불매운동·홍정인 국감 출석\"",
-            "url": "https://theqoo.net/hot/4363708568",
-            "score": 56.21
-          }
-        ],
-        "rank": 4,
-        "change": "NEW"
-      },
-      {
-        "id": "idf55914c",
-        "title": "‘아버지’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "아버지"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 81.91,
-        "peak_score": 81.91,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 16,
-            "title": "'담배 꺼주세요' 했더니…아이 안은 아버지 추격·폭행한 남성",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2735699",
-            "score": 72.91
-          },
-          {
-            "source": "더쿠",
-            "rank": 43,
-            "title": "박지만 “가슴 들썩이도록 울던 아버지, 그날 처음 봤다”",
-            "url": "https://theqoo.net/hot/4363709501",
-            "score": 64.37
-          }
-        ],
-        "rank": 5,
-        "change": "NEW"
-      },
-      {
-        "id": "i533b29bd",
-        "title": "‘말하는’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "말하는"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 79.03,
-        "peak_score": 79.03,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "디시인사이드"
-        ],
-        "posts": [
-          {
-            "source": "더쿠",
-            "rank": 23,
-            "title": "정신과 의사가 말하는 피해야 할 배우자 구별하는 법",
-            "url": "https://theqoo.net/hot/4363728891",
-            "score": 70.03
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 94,
-            "title": "이재명이 말하는.. 북한이 나쁜 이유 ..jpg",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467543&_dcbest=1&page=1",
-            "score": 53.32
-          }
-        ],
-        "rank": 6,
-        "change": "NEW"
-      },
-      {
-        "id": "i054228c4",
-        "title": "‘무선헤드폰’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "무선헤드폰"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 78.77,
-        "peak_score": 78.77,
-        "appearances": 1,
-        "sources": [
-          "뽐뿌",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 25,
-            "title": "무선헤드폰 2개",
-            "url": "https://www.clien.net/service/board/park/19272998?od=T31&po=0&category=0&groupCd=",
-            "score": 69.77
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 67,
-            "title": "베이스어스 보스사운드 XC1 보스사운드 오픈형 ($57) XH1 무선헤드폰 ($68) XP1 무선이어버드 ($70)",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu8&no=100767",
-            "score": 57.99
-          }
-        ],
-        "rank": 7,
-        "change": "NEW"
-      },
-      {
-        "id": "ia9e1f70b",
-        "title": "그물 맴돌던 '부캉이', 그물 뚫고 북항친수공원 쪽으로 이동",
-        "keywords": [
-          "부캉이",
-          "그물"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 76.0,
-        "peak_score": 76.0,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "루리웹"
-        ],
-        "posts": [
-          {
-            "source": "더쿠",
             "rank": 32,
-            "title": "그물 맴돌던 '부캉이', 그물 뚫고 북항친수공원 쪽으로 이동",
-            "url": "https://theqoo.net/hot/4363789207",
-            "score": 68.0
+            "title": "김민석 \"윤석열·김태규·조희대 보며 '내란 마무리' 결심\"",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2735796",
+            "score": 67.18
           },
           {
-            "source": "루리웹",
-            "rank": 74,
-            "title": "그물 넘은 부캉이 근황.jpg",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/76891260?m=humor_only&t=now",
-            "score": 56.92
+            "source": "디시인사이드",
+            "rank": 37,
+            "title": "MBC) 큰거떴다...조희대 공관 리모델링에 23억 요청",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467621&_dcbest=1&page=1",
+            "score": 65.25
           }
         ],
         "rank": 8,
@@ -389,7 +393,46 @@
         "latest_source_count": 3,
         "latest_post_count": 5,
         "rank": 2,
-        "change": "NEW"
+        "change": 0
+      },
+      {
+        "id": "ia9e1f70b",
+        "title": "그물 넘은 부캉이 근황.jpg",
+        "keywords": [
+          "그물",
+          "부캉이"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 113.71,
+        "peak_score": 102.22,
+        "appearances": 2,
+        "sources": [
+          "더쿠",
+          "루리웹"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 3,
+            "title": "그물 넘은 부캉이 근황.jpg",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76891260?m=humor",
+            "score": 94.22
+          },
+          {
+            "source": "더쿠",
+            "rank": 90,
+            "title": "그물 맴돌던 '부캉이', 그물 뚫고 북항친수공원 쪽으로 이동",
+            "url": "https://theqoo.net/hot/4363789207",
+            "score": 52.11
+          }
+        ],
+        "first_seen": "2026-10-03T12:47:13.694231+09:00",
+        "last_seen": "2026-10-03T17:31:33.747059+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 3,
+        "change": 13
       },
       {
         "id": "i46d45bb2",
@@ -427,8 +470,47 @@
         "last_seen": "2026-10-03T12:47:13.694231+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 3,
-        "change": "NEW"
+        "rank": 4,
+        "change": -1
+      },
+      {
+        "id": "i039fd79c",
+        "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "이재명"
+        ],
+        "source_count": 2,
+        "post_count": 4,
+        "score": 107.91,
+        "peak_score": 94.42,
+        "appearances": 2,
+        "sources": [
+          "디시인사이드",
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 6,
+            "title": "이재명 제일 역겨운 점",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10140383",
+            "score": 85.42
+          },
+          {
+            "source": "인벤",
+            "rank": 77,
+            "title": "이재명 대통령 x 팔로우 44만 하루 최대가60명",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2735800",
+            "score": 55.88
+          }
+        ],
+        "first_seen": "2026-09-27T13:38:37.715424+09:00",
+        "last_seen": "2026-10-03T17:31:33.747059+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 5,
+        "change": 5
       },
       {
         "id": "i106465f0",
@@ -438,42 +520,36 @@
         ],
         "source_count": 3,
         "post_count": 3,
-        "score": 105.22,
+        "score": 107.24,
         "peak_score": 90.75,
-        "appearances": 1,
+        "appearances": 2,
         "sources": [
+          "디시인사이드",
           "뽐뿌",
           "인벤",
           "클리앙"
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 15,
-            "title": "육영수 피격 실제 장면. 너무 이상하다. (암살자들)",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2735596",
-            "score": 73.75
+            "source": "디시인사이드",
+            "rank": 16,
+            "title": "부산국제영화제 암살자들 행사 취소",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467631&_dcbest=1&page=1",
+            "score": 74.19
           },
           {
             "source": "뽐뿌",
-            "rank": 54,
-            "title": "암살자들 보고왔습니다",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10139947",
-            "score": 59.57
-          },
-          {
-            "source": "클리앙",
-            "rank": 80,
-            "title": "암살자들 2회차 관람 → 박정희 대통령 의혹 없습니다.",
-            "url": "https://www.clien.net/service/board/park/19272873?od=T31&po=0&category=0&groupCd=",
-            "score": 54.62
+            "rank": 68,
+            "title": "암살자들 200만 관객 돌파!",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10140455",
+            "score": 58.71
           }
         ],
         "first_seen": "2026-09-27T18:16:30.778383+09:00",
-        "last_seen": "2026-10-03T04:55:10.124887+09:00",
-        "latest_source_count": 3,
-        "latest_post_count": 3,
-        "rank": 4,
+        "last_seen": "2026-10-03T17:31:33.747059+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 6,
         "change": -2
       },
       {
@@ -512,8 +588,84 @@
         "last_seen": "2026-10-03T11:22:51.315192+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 5,
+        "rank": 7,
         "change": -2
+      },
+      {
+        "id": "ib57c4fad",
+        "title": "‘개인적으로’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "개인적으로"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 99.91,
+        "peak_score": 90.44,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 9,
+            "title": "암살자(들)봤는데 극호입니다. 올해 우리나라영화 중 개인적으로 몰입감과 긴장감 최고입니다.",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10140445",
+            "score": 81.44
+          },
+          {
+            "source": "클리앙",
+            "rank": 27,
+            "title": "개인적으로 유튜버 중에 AI를 가장 위트있게 쓰는 유튜버! '미남재형'",
+            "url": "https://www.clien.net/service/board/park/19273085?od=T31&po=0&category=0&groupCd=",
+            "score": 68.87
+          }
+        ],
+        "first_seen": "2026-10-03T17:31:33.747059+09:00",
+        "last_seen": "2026-10-03T17:31:33.747059+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 8,
+        "change": "NEW"
+      },
+      {
+        "id": "i97ba91d3",
+        "title": "‘버거킹’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "버거킹"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 99.17,
+        "peak_score": 89.7,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 11,
+            "title": "지금 당장 버거킹 주문해야하는 이유.jpg",
+            "url": "https://www.clien.net/service/board/park/19273100?od=T31&po=0&category=0&groupCd=",
+            "score": 80.7
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 85,
+            "title": "배우 유해진, 버거킹•광동제약 광고 내려갔다",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467579&_dcbest=1&page=1",
+            "score": 53.77
+          }
+        ],
+        "first_seen": "2026-10-02T17:39:04.841317+09:00",
+        "last_seen": "2026-10-03T17:31:33.747059+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 9,
+        "change": "NEW"
       },
       {
         "id": "i879d3e36",
@@ -551,8 +703,8 @@
         "last_seen": "2026-10-03T08:43:07.357089+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 6,
-        "change": -2
+        "rank": 10,
+        "change": -4
       },
       {
         "id": "ib38c3213",
@@ -590,7 +742,57 @@
         "last_seen": "2026-10-03T12:47:13.694231+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 7,
+        "rank": 11,
+        "change": -4
+      },
+      {
+        "id": "iadb932c9",
+        "title": "[관객수] 영화 암살자(들) - 200만명 돌파",
+        "keywords": [
+          "돌파",
+          "암살자",
+          "영화",
+          "관객",
+          "200만"
+        ],
+        "source_count": 3,
+        "post_count": 3,
+        "score": 96.4,
+        "peak_score": 81.93,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "뽐뿌",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 33,
+            "title": "[관객수] 영화 암살자(들) - 200만명 돌파",
+            "url": "https://www.clien.net/service/board/park/19273080?od=T31&po=0&category=0&groupCd=",
+            "score": 66.93
+          },
+          {
+            "source": "더쿠",
+            "rank": 35,
+            "title": "영화 <암살자(들)> 200만 관객 돌파",
+            "url": "https://theqoo.net/hot/4363902540",
+            "score": 66.53
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 68,
+            "title": "암살자들 200만 관객 돌파!",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10140455",
+            "score": 58.71
+          }
+        ],
+        "first_seen": "2026-10-03T17:31:33.747059+09:00",
+        "last_seen": "2026-10-03T17:31:33.747059+09:00",
+        "latest_source_count": 3,
+        "latest_post_count": 3,
+        "rank": 12,
         "change": "NEW"
       },
       {
@@ -629,8 +831,8 @@
         "last_seen": "2026-10-03T08:43:07.357089+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 8,
-        "change": -3
+        "rank": 13,
+        "change": -5
       },
       {
         "id": "ia4c9a0a3",
@@ -667,46 +869,8 @@
         "last_seen": "2026-10-03T04:55:10.124887+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 9,
-        "change": -3
-      },
-      {
-        "id": "i039fd79c",
-        "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "이재명"
-        ],
-        "source_count": 2,
-        "post_count": 4,
-        "score": 92.06,
-        "peak_score": 80.59,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 27,
-            "title": "[이재명 대통령 지지율 하락] 슬프고 화남 - 즐겁고 행복함 / 어느 쪽이 정상일까요?",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2735709",
-            "score": 69.59
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 39,
-            "title": "김여정, 이재명 기념사에 “자작 광대극” 조롱",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467585&_dcbest=1&page=1",
-            "score": 65.37
-          }
-        ],
-        "first_seen": "2026-09-27T13:38:37.715424+09:00",
-        "last_seen": "2026-10-03T12:47:13.694231+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 4,
-        "rank": 10,
-        "change": "NEW"
+        "rank": 14,
+        "change": -5
       },
       {
         "id": "i4ddd6a96",
@@ -743,7 +907,7 @@
         "last_seen": "2026-10-03T04:55:10.124887+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
+        "rank": 15,
         "change": -4
       },
       {
@@ -781,7 +945,47 @@
         "last_seen": "2026-10-03T12:47:13.694231+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 12,
+        "rank": 16,
+        "change": -4
+      },
+      {
+        "id": "i37ec84ec",
+        "title": "여친이 미국 여군인데",
+        "keywords": [
+          "여친이",
+          "여군인데",
+          "미국"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 89.56,
+        "peak_score": 80.09,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 20,
+            "title": "여친이 미국 여군인데",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2735786",
+            "score": 72.09
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 23,
+            "title": "여친이 미국 여군인데",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10140393",
+            "score": 69.94
+          }
+        ],
+        "first_seen": "2026-10-03T17:31:33.747059+09:00",
+        "last_seen": "2026-10-03T17:31:33.747059+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 17,
         "change": "NEW"
       },
       {
@@ -819,8 +1023,8 @@
         "last_seen": "2026-10-03T12:47:13.694231+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 13,
-        "change": "NEW"
+        "rank": 18,
+        "change": -5
       },
       {
         "id": "i054228c4",
@@ -857,8 +1061,8 @@
         "last_seen": "2026-10-03T12:47:13.694231+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 14,
-        "change": "NEW"
+        "rank": 19,
+        "change": -5
       },
       {
         "id": "ib46b908f",
@@ -895,199 +1099,8 @@
         "last_seen": "2026-10-03T11:22:51.315192+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 15,
-        "change": -7
-      },
-      {
-        "id": "ia9e1f70b",
-        "title": "그물 맴돌던 '부캉이', 그물 뚫고 북항친수공원 쪽으로 이동",
-        "keywords": [
-          "부캉이",
-          "그물"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 85.47,
-        "peak_score": 76.0,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "루리웹"
-        ],
-        "posts": [
-          {
-            "source": "더쿠",
-            "rank": 32,
-            "title": "그물 맴돌던 '부캉이', 그물 뚫고 북항친수공원 쪽으로 이동",
-            "url": "https://theqoo.net/hot/4363789207",
-            "score": 68.0
-          },
-          {
-            "source": "루리웹",
-            "rank": 74,
-            "title": "그물 넘은 부캉이 근황.jpg",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/76891260?m=humor_only&t=now",
-            "score": 56.92
-          }
-        ],
-        "first_seen": "2026-10-03T12:47:13.694231+09:00",
-        "last_seen": "2026-10-03T12:47:13.694231+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 16,
-        "change": "NEW"
-      },
-      {
-        "id": "i99f3ab15",
-        "title": "‘개빡친’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "개빡친"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 84.8,
-        "peak_score": 75.33,
-        "appearances": 1,
-        "sources": [
-          "루리웹",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 33,
-            "title": "개빡친 김민재",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2735553",
-            "score": 66.33
-          },
-          {
-            "source": "루리웹",
-            "rank": 71,
-            "title": "삼성) 개빡친 갤럭시 유저들",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/76887302?m=humor_only&t=now",
-            "score": 56.35
-          }
-        ],
-        "first_seen": "2026-10-03T00:05:02.277306+09:00",
-        "last_seen": "2026-10-03T00:05:02.277306+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 17,
-        "change": -8
-      },
-      {
-        "id": "i6fb7ee77",
-        "title": "‘마운자로’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "마운자로"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 84.25,
-        "peak_score": 74.78,
-        "appearances": 1,
-        "sources": [
-          "루리웹",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 32,
-            "title": "일본 마운자로 전문병원 근황.jpg",
-            "url": "https://www.clien.net/service/board/park/19272975?od=T31&po=0&category=0&groupCd=",
-            "score": 65.78
-          },
-          {
-            "source": "루리웹",
-            "rank": 45,
-            "title": "마운자로 3일차",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/76890509?m=humor_only&t=now",
-            "score": 61.54
-          }
-        ],
-        "first_seen": "2026-10-03T11:22:51.315192+09:00",
-        "last_seen": "2026-10-03T11:22:51.315192+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 18,
-        "change": -8
-      },
-      {
-        "id": "icb33dad5",
-        "title": "‘sns’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "sns"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 82.04,
-        "peak_score": 72.57,
-        "appearances": 1,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 37,
-            "title": "오늘자 이재명 대통령 SNS...jpg",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2735616",
-            "score": 63.57
-          },
-          {
-            "source": "클리앙",
-            "rank": 70,
-            "title": "어제밤 대통령 SNS",
-            "url": "https://www.clien.net/service/board/park/19272925?od=T31&po=0&category=0&groupCd=",
-            "score": 58.44
-          }
-        ],
-        "first_seen": "2026-09-29T18:03:51.886668+09:00",
-        "last_seen": "2026-10-03T08:43:07.357089+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 19,
-        "change": -8
-      },
-      {
-        "id": "i47cfdc73",
-        "title": "‘순자산’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "순자산"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 80.39,
-        "peak_score": 70.92,
-        "appearances": 1,
-        "sources": [
-          "루리웹",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 49,
-            "title": "중산층 기준은 순자산 얼마부터일까요",
-            "url": "https://www.clien.net/service/board/park/19272928?od=T31&po=0&category=0&groupCd=",
-            "score": 61.92
-          },
-          {
-            "source": "루리웹",
-            "rank": 58,
-            "title": "20대 평균 순자산 1억 796만원",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/76889353?m=humor_only&t=now",
-            "score": 60.85
-          }
-        ],
-        "first_seen": "2026-10-03T08:43:07.357089+09:00",
-        "last_seen": "2026-10-03T08:43:07.357089+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 20,
-        "change": -8
+        "change": -5
       }
     ],
     "weekly": [
@@ -1233,7 +1246,7 @@
         "latest_source_count": 3,
         "latest_post_count": 5,
         "rank": 3,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "ifd5a2cc3",
@@ -1288,7 +1301,7 @@
         "latest_source_count": 4,
         "latest_post_count": 4,
         "rank": 4,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i78f6419e",
@@ -1330,7 +1343,7 @@
         "latest_source_count": 2,
         "latest_post_count": 3,
         "rank": 5,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i5ae392bf",
@@ -1384,7 +1397,7 @@
         "latest_source_count": 4,
         "latest_post_count": 4,
         "rank": 6,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i039fd79c",
@@ -1394,9 +1407,9 @@
         ],
         "source_count": 3,
         "post_count": 5,
-        "score": 121.29,
+        "score": 121.72,
         "peak_score": 96.3,
-        "appearances": 10,
+        "appearances": 11,
         "sources": [
           "디시인사이드",
           "뽐뿌",
@@ -1405,26 +1418,26 @@
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 27,
-            "title": "[이재명 대통령 지지율 하락] 슬프고 화남 - 즐겁고 행복함 / 어느 쪽이 정상일까요?",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2735709",
-            "score": 69.59
+            "source": "뽐뿌",
+            "rank": 6,
+            "title": "이재명 제일 역겨운 점",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10140383",
+            "score": 85.42
           },
           {
-            "source": "디시인사이드",
-            "rank": 39,
-            "title": "김여정, 이재명 기념사에 “자작 광대극” 조롱",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467585&_dcbest=1&page=1",
-            "score": 65.37
+            "source": "인벤",
+            "rank": 77,
+            "title": "이재명 대통령 x 팔로우 44만 하루 최대가60명",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2735800",
+            "score": 55.88
           }
         ],
         "first_seen": "2026-09-27T13:38:37.715424+09:00",
-        "last_seen": "2026-10-03T12:47:13.694231+09:00",
+        "last_seen": "2026-10-03T17:31:33.747059+09:00",
         "latest_source_count": 2,
-        "latest_post_count": 4,
+        "latest_post_count": 2,
         "rank": 7,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i0c93084d",
@@ -1465,7 +1478,7 @@
         "latest_source_count": 2,
         "latest_post_count": 3,
         "rank": 8,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i76aeafd1",
@@ -1504,7 +1517,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 9,
-        "change": -1
+        "change": 0
       },
       {
         "id": "if553a5cf",
@@ -1542,7 +1555,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 10,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i106465f0",
@@ -1552,9 +1565,9 @@
         ],
         "source_count": 3,
         "post_count": 4,
-        "score": 114.74,
+        "score": 115.17,
         "peak_score": 90.75,
-        "appearances": 10,
+        "appearances": 11,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -1564,33 +1577,26 @@
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 15,
-            "title": "육영수 피격 실제 장면. 너무 이상하다. (암살자들)",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2735596",
-            "score": 73.75
+            "source": "디시인사이드",
+            "rank": 16,
+            "title": "부산국제영화제 암살자들 행사 취소",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467631&_dcbest=1&page=1",
+            "score": 74.19
           },
           {
             "source": "뽐뿌",
-            "rank": 54,
-            "title": "암살자들 보고왔습니다",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10139947",
-            "score": 59.57
-          },
-          {
-            "source": "클리앙",
-            "rank": 80,
-            "title": "암살자들 2회차 관람 → 박정희 대통령 의혹 없습니다.",
-            "url": "https://www.clien.net/service/board/park/19272873?od=T31&po=0&category=0&groupCd=",
-            "score": 54.62
+            "rank": 68,
+            "title": "암살자들 200만 관객 돌파!",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10140455",
+            "score": 58.71
           }
         ],
         "first_seen": "2026-09-27T18:16:30.778383+09:00",
-        "last_seen": "2026-10-03T04:55:10.124887+09:00",
-        "latest_source_count": 3,
-        "latest_post_count": 3,
+        "last_seen": "2026-10-03T17:31:33.747059+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
         "rank": 11,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i8447a234",
@@ -1629,7 +1635,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 12,
-        "change": -1
+        "change": 0
       },
       {
         "id": "ia99bde06",
@@ -1670,7 +1676,46 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 13,
-        "change": -1
+        "change": 0
+      },
+      {
+        "id": "ia9e1f70b",
+        "title": "그물 넘은 부캉이 근황.jpg",
+        "keywords": [
+          "그물",
+          "부캉이"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 113.71,
+        "peak_score": 102.22,
+        "appearances": 2,
+        "sources": [
+          "더쿠",
+          "루리웹"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 3,
+            "title": "그물 넘은 부캉이 근황.jpg",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76891260?m=humor",
+            "score": 94.22
+          },
+          {
+            "source": "더쿠",
+            "rank": 90,
+            "title": "그물 맴돌던 '부캉이', 그물 뚫고 북항친수공원 쪽으로 이동",
+            "url": "https://theqoo.net/hot/4363789207",
+            "score": 52.11
+          }
+        ],
+        "first_seen": "2026-10-03T12:47:13.694231+09:00",
+        "last_seen": "2026-10-03T17:31:33.747059+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 14,
+        "change": "NEW"
       },
       {
         "id": "i81e4b6ca",
@@ -1710,7 +1755,7 @@
         "last_seen": "2026-09-29T18:06:58.844578+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 14,
+        "rank": 15,
         "change": -1
       },
       {
@@ -1751,8 +1796,8 @@
         "last_seen": "2026-10-03T12:47:13.694231+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 15,
-        "change": "NEW"
+        "rank": 16,
+        "change": -1
       },
       {
         "id": "i09667a01",
@@ -1790,8 +1835,8 @@
         "last_seen": "2026-09-29T03:16:54.567078+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 16,
-        "change": -2
+        "rank": 17,
+        "change": -1
       },
       {
         "id": "iadaad958",
@@ -1829,8 +1874,8 @@
         "last_seen": "2026-09-30T11:27:36.197372+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 17,
-        "change": -2
+        "rank": 18,
+        "change": -1
       },
       {
         "id": "i2c099e33",
@@ -1867,8 +1912,8 @@
         "last_seen": "2026-10-02T04:00:21.148239+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 18,
-        "change": -2
+        "rank": 19,
+        "change": -1
       },
       {
         "id": "i0c1846a6",
@@ -1905,46 +1950,8 @@
         "last_seen": "2026-09-29T11:42:17.703423+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 19,
-        "change": -2
-      },
-      {
-        "id": "ib92d7d28",
-        "title": "‘카리나’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "카리나"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 108.93,
-        "peak_score": 99.46,
-        "appearances": 1,
-        "sources": [
-          "뽐뿌",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 4,
-            "title": "비키니 입고 한 번을 안보여주는 카리나 ㄷㄷ ㄷㄷ ㄷㄷ ㄷㄷ.jpg",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10135610",
-            "score": 90.46
-          },
-          {
-            "source": "인벤",
-            "rank": 61,
-            "title": "카리나 (에스파)",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2734171",
-            "score": 58.23
-          }
-        ],
-        "first_seen": "2026-09-30T00:45:42.350300+09:00",
-        "last_seen": "2026-09-30T00:45:42.350300+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 20,
-        "change": -2
+        "change": -1
       }
     ],
     "monthly": [
@@ -2042,7 +2049,7 @@
         "latest_source_count": 3,
         "latest_post_count": 5,
         "rank": 2,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "i78f6419e",
@@ -2083,7 +2090,7 @@
         "latest_source_count": 2,
         "latest_post_count": 3,
         "rank": 3,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i5ae392bf",
@@ -2137,7 +2144,7 @@
         "latest_source_count": 4,
         "latest_post_count": 4,
         "rank": 4,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i039fd79c",
@@ -2147,9 +2154,9 @@
         ],
         "source_count": 3,
         "post_count": 5,
-        "score": 118.26,
+        "score": 119.03,
         "peak_score": 96.3,
-        "appearances": 5,
+        "appearances": 6,
         "sources": [
           "디시인사이드",
           "뽐뿌",
@@ -2158,26 +2165,26 @@
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 27,
-            "title": "[이재명 대통령 지지율 하락] 슬프고 화남 - 즐겁고 행복함 / 어느 쪽이 정상일까요?",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2735709",
-            "score": 69.59
+            "source": "뽐뿌",
+            "rank": 6,
+            "title": "이재명 제일 역겨운 점",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10140383",
+            "score": 85.42
           },
           {
-            "source": "디시인사이드",
-            "rank": 39,
-            "title": "김여정, 이재명 기념사에 “자작 광대극” 조롱",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467585&_dcbest=1&page=1",
-            "score": 65.37
+            "source": "인벤",
+            "rank": 77,
+            "title": "이재명 대통령 x 팔로우 44만 하루 최대가60명",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2735800",
+            "score": 55.88
           }
         ],
         "first_seen": "2026-09-27T13:38:37.715424+09:00",
-        "last_seen": "2026-10-03T12:47:13.694231+09:00",
+        "last_seen": "2026-10-03T17:31:33.747059+09:00",
         "latest_source_count": 2,
-        "latest_post_count": 4,
+        "latest_post_count": 2,
         "rank": 5,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i76aeafd1",
@@ -2216,7 +2223,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 6,
-        "change": -1
+        "change": 0
       },
       {
         "id": "if553a5cf",
@@ -2254,7 +2261,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 7,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i8447a234",
@@ -2293,7 +2300,46 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 8,
-        "change": -1
+        "change": 0
+      },
+      {
+        "id": "ia9e1f70b",
+        "title": "그물 넘은 부캉이 근황.jpg",
+        "keywords": [
+          "그물",
+          "부캉이"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 113.71,
+        "peak_score": 102.22,
+        "appearances": 2,
+        "sources": [
+          "더쿠",
+          "루리웹"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 3,
+            "title": "그물 넘은 부캉이 근황.jpg",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76891260?m=humor",
+            "score": 94.22
+          },
+          {
+            "source": "더쿠",
+            "rank": 90,
+            "title": "그물 맴돌던 '부캉이', 그물 뚫고 북항친수공원 쪽으로 이동",
+            "url": "https://theqoo.net/hot/4363789207",
+            "score": 52.11
+          }
+        ],
+        "first_seen": "2026-10-03T12:47:13.694231+09:00",
+        "last_seen": "2026-10-03T17:31:33.747059+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 9,
+        "change": "NEW"
       },
       {
         "id": "i106465f0",
@@ -2303,9 +2349,9 @@
         ],
         "source_count": 3,
         "post_count": 3,
-        "score": 111.48,
+        "score": 112.15,
         "peak_score": 90.75,
-        "appearances": 6,
+        "appearances": 7,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -2315,32 +2361,25 @@
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 15,
-            "title": "육영수 피격 실제 장면. 너무 이상하다. (암살자들)",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2735596",
-            "score": 73.75
+            "source": "디시인사이드",
+            "rank": 16,
+            "title": "부산국제영화제 암살자들 행사 취소",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467631&_dcbest=1&page=1",
+            "score": 74.19
           },
           {
             "source": "뽐뿌",
-            "rank": 54,
-            "title": "암살자들 보고왔습니다",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10139947",
-            "score": 59.57
-          },
-          {
-            "source": "클리앙",
-            "rank": 80,
-            "title": "암살자들 2회차 관람 → 박정희 대통령 의혹 없습니다.",
-            "url": "https://www.clien.net/service/board/park/19272873?od=T31&po=0&category=0&groupCd=",
-            "score": 54.62
+            "rank": 68,
+            "title": "암살자들 200만 관객 돌파!",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10140455",
+            "score": 58.71
           }
         ],
         "first_seen": "2026-09-27T18:16:30.778383+09:00",
-        "last_seen": "2026-10-03T04:55:10.124887+09:00",
-        "latest_source_count": 3,
-        "latest_post_count": 3,
-        "rank": 9,
+        "last_seen": "2026-10-03T17:31:33.747059+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 10,
         "change": -1
       },
       {
@@ -2379,8 +2418,8 @@
         "last_seen": "2026-10-03T12:47:13.694231+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 10,
-        "change": "NEW"
+        "rank": 11,
+        "change": -1
       },
       {
         "id": "i2c099e33",
@@ -2417,8 +2456,8 @@
         "last_seen": "2026-10-02T04:00:21.148239+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
-        "change": -2
+        "rank": 12,
+        "change": -1
       },
       {
         "id": "ic037995c",
@@ -2455,8 +2494,8 @@
         "last_seen": "2026-10-01T22:54:48.352543+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 12,
-        "change": -2
+        "rank": 13,
+        "change": -1
       },
       {
         "id": "i00705cf2",
@@ -2501,8 +2540,8 @@
         "last_seen": "2026-10-01T00:51:55.502360+09:00",
         "latest_source_count": 3,
         "latest_post_count": 3,
-        "rank": 13,
-        "change": -2
+        "rank": 14,
+        "change": -1
       },
       {
         "id": "i62196098",
@@ -2540,8 +2579,8 @@
         "last_seen": "2026-10-02T08:05:57.140972+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 14,
-        "change": -2
+        "rank": 15,
+        "change": -1
       },
       {
         "id": "i13e10e10",
@@ -2580,8 +2619,48 @@
         "last_seen": "2026-10-01T15:08:17.635290+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 15,
-        "change": -2
+        "rank": 16,
+        "change": -1
+      },
+      {
+        "id": "i97ba91d3",
+        "title": "‘버거킹’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "버거킹"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 101.19,
+        "peak_score": 89.7,
+        "appearances": 2,
+        "sources": [
+          "더쿠",
+          "디시인사이드",
+          "뽐뿌",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 11,
+            "title": "지금 당장 버거킹 주문해야하는 이유.jpg",
+            "url": "https://www.clien.net/service/board/park/19273100?od=T31&po=0&category=0&groupCd=",
+            "score": 80.7
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 85,
+            "title": "배우 유해진, 버거킹•광동제약 광고 내려갔다",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467579&_dcbest=1&page=1",
+            "score": 53.77
+          }
+        ],
+        "first_seen": "2026-10-02T17:39:04.841317+09:00",
+        "last_seen": "2026-10-03T17:31:33.747059+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 17,
+        "change": "NEW"
       },
       {
         "id": "i3ccc2d51",
@@ -2618,7 +2697,7 @@
         "last_seen": "2026-10-01T22:54:48.352543+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 16,
+        "rank": 18,
         "change": -2
       },
       {
@@ -2656,102 +2735,21 @@
         "last_seen": "2026-10-02T17:39:04.841317+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 17,
-        "change": -2
-      },
-      {
-        "id": "iaab2b0f0",
-        "title": "‘좌아하게’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "좌아하게"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 99.63,
-        "peak_score": 86.7,
-        "appearances": 3,
-        "sources": [
-          "디시인사이드",
-          "뽐뿌",
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 7,
-            "title": "황희두: \"좌아하게\"는 뉴일베를 거쳐 DC갤러리로 넘어온 단어",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10138546",
-            "score": 77.7
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 98,
-            "title": "이재명 대통령 좌아하게 듣고 화들짝 놀라는 4050사이트",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467238&_dcbest=1&page=1",
-            "score": 50.27
-          }
-        ],
-        "first_seen": "2026-10-01T09:09:08.756943+09:00",
-        "last_seen": "2026-10-02T04:00:21.148239+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 18,
-        "change": -2
-      },
-      {
-        "id": "i9f5e1ed4",
-        "title": "‘인스타’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "인스타"
-        ],
-        "source_count": 2,
-        "post_count": 9,
-        "score": 98.86,
-        "peak_score": 83.39,
-        "appearances": 1,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 20,
-            "title": "후방 ㅡ 히냥 인스타",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2735097",
-            "score": 71.39
-          },
-          {
-            "source": "클리앙",
-            "rank": 31,
-            "title": "국군의날 맨유 인스타 근황.jpg",
-            "url": "https://www.clien.net/service/board/park/19272443?od=T31&po=0&category=0&groupCd=",
-            "score": 67.85
-          }
-        ],
-        "first_seen": "2026-09-29T08:23:09.958029+09:00",
-        "last_seen": "2026-10-01T22:54:48.352543+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 9,
         "rank": 19,
         "change": -2
       },
       {
-        "id": "i879d3e36",
-        "title": "‘박정희가’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "ib57c4fad",
+        "title": "‘개인적으로’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "박정희가",
-          "경제를"
+          "개인적으로"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 98.67,
-        "peak_score": 87.18,
-        "appearances": 2,
+        "score": 99.91,
+        "peak_score": 90.44,
+        "appearances": 1,
         "sources": [
-          "더쿠",
-          "디시인사이드",
           "뽐뿌",
           "클리앙"
         ],
@@ -2759,24 +2757,24 @@
           {
             "source": "뽐뿌",
             "rank": 9,
-            "title": "박정희가 외화벌이로 경제를 살렸는데 욕하는게 말이돼?",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10140021",
-            "score": 78.18
+            "title": "암살자(들)봤는데 극호입니다. 올해 우리나라영화 중 개인적으로 몰입감과 긴장감 최고입니다.",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10140445",
+            "score": 81.44
           },
           {
-            "source": "더쿠",
-            "rank": 92,
-            "title": "그래도 박정희가 외화 벌어들이면서 한국 경제를 일으킨 공이 있는데",
-            "url": "https://theqoo.net/hot/4363433743",
-            "score": 52.26
+            "source": "클리앙",
+            "rank": 27,
+            "title": "개인적으로 유튜버 중에 AI를 가장 위트있게 쓰는 유튜버! '미남재형'",
+            "url": "https://www.clien.net/service/board/park/19273085?od=T31&po=0&category=0&groupCd=",
+            "score": 68.87
           }
         ],
-        "first_seen": "2026-09-28T19:49:36.308484+09:00",
-        "last_seen": "2026-10-03T08:43:07.357089+09:00",
+        "first_seen": "2026-10-03T17:31:33.747059+09:00",
+        "last_seen": "2026-10-03T17:31:33.747059+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 20,
-        "change": -2
+        "change": "NEW"
       }
     ]
   }
