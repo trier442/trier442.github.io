@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W40",
   "label": "2026.09.28 ~ 10.04",
-  "collected_at": "2026-10-04T05:13:51.095432+09:00",
+  "collected_at": "2026-10-04T06:13:27.410063+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -44,7 +44,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 1,
-      "change": 1
+      "change": 0
     },
     {
       "id": "i18d1030c",
@@ -92,7 +92,7 @@
       "latest_source_count": 3,
       "latest_post_count": 4,
       "rank": 2,
-      "change": -1
+      "change": 0
     },
     {
       "id": "icb33dad5",
@@ -364,6 +364,56 @@
       "change": 0
     },
     {
+      "id": "i8b4085e0",
+      "title": "아시안게임 축구 경기력에 실망",
+      "keywords": [
+        "아시안게임",
+        "축구"
+      ],
+      "source_count": 3,
+      "post_count": 5,
+      "score": 116.44,
+      "peak_score": 91.02,
+      "appearances": 11,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "루리웹",
+        "뽐뿌",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 72,
+          "title": "일본인조차 실례라고 말하는 아시안게임",
+          "url": "https://theqoo.net/hot/4364415071",
+          "score": 56.68
+        },
+        {
+          "source": "클리앙",
+          "rank": 78,
+          "title": "아시안게임 축구 경기력에 실망",
+          "url": "https://www.clien.net/service/board/park/19273212?od=T31&po=0&category=0&groupCd=",
+          "score": 55.97
+        },
+        {
+          "source": "더쿠",
+          "rank": 100,
+          "title": "일본기자 개소리에 받아치는 한국 축구 아시안게임 감독",
+          "url": "https://theqoo.net/hot/4364330523",
+          "score": 51.26
+        }
+      ],
+      "first_seen": "2026-09-27T20:01:41.851026+09:00",
+      "last_seen": "2026-10-04T06:13:27.410063+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 3,
+      "rank": 9,
+      "change": 1
+    },
+    {
       "id": "i0c93084d",
       "title": "우크라가 남북한 무력충돌 시간문제라고 말한거 팩트 체크",
       "keywords": [
@@ -401,51 +451,8 @@
       "last_seen": "2026-09-29T03:16:54.567078+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 9,
-      "change": 0
-    },
-    {
-      "id": "i8b4085e0",
-      "title": "아시안게임 축구 경기력에 실망",
-      "keywords": [
-        "축구",
-        "아시안게임"
-      ],
-      "source_count": 3,
-      "post_count": 5,
-      "score": 116.01,
-      "peak_score": 91.02,
-      "appearances": 10,
-      "sources": [
-        "더쿠",
-        "디시인사이드",
-        "루리웹",
-        "뽐뿌",
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 83,
-          "title": "아시안게임 축구 경기력에 실망",
-          "url": "https://www.clien.net/service/board/park/19273212?od=T31&po=0&category=0&groupCd=",
-          "score": 55.31
-        },
-        {
-          "source": "더쿠",
-          "rank": 90,
-          "title": "일본기자 개소리에 받아치는 한국 축구 아시안게임 감독",
-          "url": "https://theqoo.net/hot/4364330523",
-          "score": 53.42
-        }
-      ],
-      "first_seen": "2026-09-27T20:01:41.851026+09:00",
-      "last_seen": "2026-10-04T05:13:51.095432+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 10,
-      "change": 3
+      "change": -1
     },
     {
       "id": "i76aeafd1",
@@ -484,7 +491,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 11,
-      "change": -1
+      "change": 0
     },
     {
       "id": "if553a5cf",
@@ -522,7 +529,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 12,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i106465f0",
@@ -563,7 +570,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 13,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i8447a234",
@@ -802,7 +809,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 19,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i09667a01",
@@ -841,7 +848,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 20,
-      "change": -1
+      "change": 0
     }
   ]
 }
