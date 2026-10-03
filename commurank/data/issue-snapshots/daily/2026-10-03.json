@@ -3,9 +3,59 @@
   "period": "daily",
   "key": "2026-10-03",
   "label": "2026년 10월 03일",
-  "collected_at": "2026-10-03T08:43:07.357089+09:00",
+  "collected_at": "2026-10-03T11:22:51.315192+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
+    {
+      "id": "ic7c7aec6",
+      "title": "속보) 트럼프 \"한국, 알래스카 투자 합의 안 하면 두 배로 청구\"",
+      "keywords": [
+        "알래스카",
+        "트럼프",
+        "청구",
+        "한국",
+        "투자"
+      ],
+      "source_count": 3,
+      "post_count": 3,
+      "score": 130.03,
+      "peak_score": 113.54,
+      "appearances": 2,
+      "sources": [
+        "더쿠",
+        "루리웹",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 1,
+          "title": "속보) 트럼프 \"한국, 알래스카 투자 합의 안 하면 두 배로 청구\"",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76888875?m=humor",
+          "score": 98.54
+        },
+        {
+          "source": "인벤",
+          "rank": 75,
+          "title": "트럼프 \"한국, 알래스카 투자 합의 안 하면 두 배로 청구\"",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2735670",
+          "score": 55.82
+        },
+        {
+          "source": "더쿠",
+          "rank": 84,
+          "title": "[속보] 트럼프 \"한국, 알래스카 투자 합의 안 하면 두 배로 청구\"",
+          "url": "https://theqoo.net/hot/4363637868",
+          "score": 52.58
+        }
+      ],
+      "first_seen": "2026-10-03T08:43:07.357089+09:00",
+      "last_seen": "2026-10-03T11:22:51.315192+09:00",
+      "latest_source_count": 3,
+      "latest_post_count": 3,
+      "rank": 1,
+      "change": 6
+    },
     {
       "id": "i106465f0",
       "title": "‘암살자들’ 관련 글이 여러 커뮤니티에서 화제",
@@ -49,8 +99,8 @@
       "last_seen": "2026-10-03T04:55:10.124887+09:00",
       "latest_source_count": 3,
       "latest_post_count": 3,
-      "rank": 1,
-      "change": 0
+      "rank": 2,
+      "change": -1
     },
     {
       "id": "i78f6419e",
@@ -60,9 +110,9 @@
       ],
       "source_count": 3,
       "post_count": 3,
-      "score": 103.11,
+      "score": 104.55,
       "peak_score": 86.62,
-      "appearances": 2,
+      "appearances": 3,
       "sources": [
         "더쿠",
         "디시인사이드",
@@ -71,25 +121,25 @@
       "posts": [
         {
           "source": "인벤",
-          "rank": 22,
-          "title": "영화 암살자(들)에 분노 하신분들은 꼭 보세요.",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2735622",
-          "score": 69.9
+          "rank": 20,
+          "title": "박정희 재단*육영재단, '암살자(들)' 대국민 사과요구",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2735672",
+          "score": 69.28
         },
         {
-          "source": "디시인사이드",
-          "rank": 96,
-          "title": "황현필 “‘건국전쟁2’ 박수친 사람, ‘암살자(들)’ 비판 자격 없다”",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467492&_dcbest=1&page=1",
-          "score": 51.42
+          "source": "더쿠",
+          "rank": 79,
+          "title": "주진우 \"'암살자(들)' 메가박스 패륜굿즈 전량 폐기·사과하라, 안 하면 불매운동·홍정인 국감 출석\"",
+          "url": "https://theqoo.net/hot/4363708568",
+          "score": 54.68
         }
       ],
       "first_seen": "2026-09-27T20:23:34.525151+09:00",
-      "last_seen": "2026-10-03T08:43:07.357089+09:00",
+      "last_seen": "2026-10-03T11:22:51.315192+09:00",
       "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 2,
-      "change": 0
+      "latest_post_count": 3,
+      "rank": 3,
+      "change": -1
     },
     {
       "id": "i879d3e36",
@@ -127,8 +177,8 @@
       "last_seen": "2026-10-03T08:43:07.357089+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 3,
-      "change": "NEW"
+      "rank": 4,
+      "change": -1
     },
     {
       "id": "i7b918478",
@@ -166,7 +216,7 @@
       "last_seen": "2026-10-03T08:43:07.357089+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 4,
+      "rank": 5,
       "change": -1
     },
     {
@@ -204,7 +254,7 @@
       "last_seen": "2026-10-03T04:55:10.124887+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
+      "rank": 6,
       "change": -1
     },
     {
@@ -242,49 +292,45 @@
       "last_seen": "2026-10-03T04:55:10.124887+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
+      "rank": 7,
       "change": -1
     },
     {
-      "id": "ic7c7aec6",
-      "title": "트럼프 \"韓 알래스카 투자 안 하면 2배로 청구\"",
+      "id": "ib46b908f",
+      "title": "중국스트리머가 하루 700만원 버는 방법",
       "keywords": [
-        "하면",
-        "투자",
-        "트럼프",
-        "알래스카",
-        "청구"
+        "중국스트리머가"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 89.77,
-      "peak_score": 80.3,
+      "score": 86.51,
+      "peak_score": 77.04,
       "appearances": 1,
       "sources": [
-        "더쿠",
+        "루리웹",
         "인벤"
       ],
       "posts": [
         {
           "source": "인벤",
-          "rank": 13,
-          "title": "트럼프 \"韓 알래스카 투자 안 하면 2배로 청구\"",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2735627",
-          "score": 72.3
+          "rank": 22,
+          "title": "중국스트리머가 하루 700만원 버는 방법",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2735665",
+          "score": 69.04
         },
         {
-          "source": "더쿠",
-          "rank": 35,
-          "title": "[속보] 트럼프 \"한국, 알래스카 투자 합의 안 하면 두 배로 청구\"",
-          "url": "https://theqoo.net/hot/4363637868",
-          "score": 65.0
+          "source": "루리웹",
+          "rank": 40,
+          "title": "중국스트리머가 하루에 700만원씩 도네터지는 이유",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76890547?m=humor_only&t=now",
+          "score": 63.56
         }
       ],
-      "first_seen": "2026-10-03T08:43:07.357089+09:00",
-      "last_seen": "2026-10-03T08:43:07.357089+09:00",
+      "first_seen": "2026-10-03T11:22:51.315192+09:00",
+      "last_seen": "2026-10-03T11:22:51.315192+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
+      "rank": 8,
       "change": "NEW"
     },
     {
@@ -322,8 +368,46 @@
       "last_seen": "2026-10-03T00:05:02.277306+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 8,
-      "change": -2
+      "rank": 9,
+      "change": -1
+    },
+    {
+      "id": "i6fb7ee77",
+      "title": "‘마운자로’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "마운자로"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 84.25,
+      "peak_score": 74.78,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 32,
+          "title": "일본 마운자로 전문병원 근황.jpg",
+          "url": "https://www.clien.net/service/board/park/19272975?od=T31&po=0&category=0&groupCd=",
+          "score": 65.78
+        },
+        {
+          "source": "루리웹",
+          "rank": 45,
+          "title": "마운자로 3일차",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76890509?m=humor_only&t=now",
+          "score": 61.54
+        }
+      ],
+      "first_seen": "2026-10-03T11:22:51.315192+09:00",
+      "last_seen": "2026-10-03T11:22:51.315192+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 10,
+      "change": "NEW"
     },
     {
       "id": "icb33dad5",
@@ -360,8 +444,8 @@
       "last_seen": "2026-10-03T08:43:07.357089+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 9,
-      "change": "NEW"
+      "rank": 11,
+      "change": -2
     },
     {
       "id": "i47cfdc73",
@@ -398,8 +482,8 @@
       "last_seen": "2026-10-03T08:43:07.357089+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 10,
-      "change": "NEW"
+      "rank": 12,
+      "change": -2
     },
     {
       "id": "i8b4085e0",
@@ -436,8 +520,8 @@
       "last_seen": "2026-10-03T04:55:10.124887+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 11,
-      "change": -4
+      "rank": 13,
+      "change": -2
     },
     {
       "id": "i50b33b63",
@@ -474,8 +558,8 @@
       "last_seen": "2026-10-03T08:43:07.357089+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 12,
-      "change": "NEW"
+      "rank": 14,
+      "change": -2
     }
   ]
 }
