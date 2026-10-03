@@ -2,19 +2,19 @@
   "version": 1,
   "date": "2026-10-04",
   "label": "2026년 10월 04일",
-  "collected_at": "2026-10-04T08:09:31.765636+09:00",
+  "collected_at": "2026-10-04T08:47:53.166066+09:00",
   "timezone": "Asia/Seoul",
   "overview": "오늘 가장 두드러진 이슈는 ‘‘나혼산’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #한국. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
-    "ok_sources": 5,
-    "cached_sources": 1,
+    "ok_sources": 6,
+    "cached_sources": 0,
     "realtime_posts": 100,
     "daily_posts": 100,
-    "daily_issues": 8,
-    "keywords": 14,
-    "top100_views": 1061861,
-    "top100_comments": 8314
+    "daily_issues": 11,
+    "keywords": 20,
+    "top100_views": 1003263,
+    "top100_comments": 7402
   },
   "highlights": [
     {
@@ -32,7 +32,7 @@
     {
       "type": "keyword",
       "title": "#한국",
-      "text": "3개 커뮤니티 · 4개 인기글에서 함께 등장했습니다.",
+      "text": "5개 커뮤니티 · 6개 인기글에서 함께 등장했습니다.",
       "keyword": "한국"
     }
   ],
@@ -49,7 +49,7 @@
       "max_likes": 122,
       "max_comments": 76,
       "appearances": 1,
-      "score": 107.91,
+      "score": 107.85,
       "views": 26803,
       "likes": 122,
       "comments": 76,
@@ -67,7 +67,7 @@
       "max_likes": 96,
       "max_comments": 44,
       "appearances": 2,
-      "score": 107.71,
+      "score": 107.65,
       "views": 17312,
       "likes": 96,
       "comments": 44,
@@ -85,11 +85,11 @@
       "max_likes": 91,
       "max_comments": 60,
       "appearances": 1,
-      "score": 106.83,
+      "score": 106.77,
       "views": 19964,
       "likes": 91,
       "comments": 60,
-      "change": "NEW"
+      "change": 0
     },
     {
       "title": "노가다 하는 남자랑 사귀고 싶다는 여자",
@@ -103,10 +103,28 @@
       "max_likes": 78,
       "max_comments": 49,
       "appearances": 1,
-      "score": 106.68,
+      "score": 106.62,
       "views": 13944,
       "likes": 78,
       "comments": 49,
+      "change": 0
+    },
+    {
+      "title": "첫 부산 여행 후기 태클 걸어달라는 스레드인",
+      "source": "루리웹",
+      "category": "생활",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76900441?m=humor",
+      "first_seen": "2026-10-04T08:47:53.166066+09:00",
+      "last_seen": "2026-10-04T08:47:53.166066+09:00",
+      "peak_score": 96.83,
+      "max_views": 12967,
+      "max_likes": 61,
+      "max_comments": 41,
+      "appearances": 1,
+      "score": 106.22,
+      "views": 12967,
+      "likes": 61,
+      "comments": 41,
       "change": "NEW"
     },
     {
@@ -121,11 +139,29 @@
       "max_likes": 141,
       "max_comments": 52,
       "appearances": 1,
-      "score": 105.84,
+      "score": 105.78,
       "views": 15655,
       "likes": 141,
       "comments": 52,
-      "change": -2
+      "change": -1
+    },
+    {
+      "title": "11월부터 완전히 바뀐다는 일본 면세 규정",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76900393?m=humor",
+      "first_seen": "2026-10-04T08:09:31.765636+09:00",
+      "last_seen": "2026-10-04T08:47:53.166066+09:00",
+      "peak_score": 94.5,
+      "max_views": 14054,
+      "max_likes": 41,
+      "max_comments": 57,
+      "appearances": 2,
+      "score": 104.7,
+      "views": 14054,
+      "likes": 41,
+      "comments": 57,
+      "change": 4
     },
     {
       "title": "사실 내겐 개짧은 똥꼬치마가 ㅈ나 많아",
@@ -139,7 +175,7 @@
       "max_likes": 81,
       "max_comments": 89,
       "appearances": 1,
-      "score": 104.49,
+      "score": 104.44,
       "views": 12797,
       "likes": 81,
       "comments": 89,
@@ -157,7 +193,7 @@
       "max_likes": 98,
       "max_comments": 110,
       "appearances": 2,
-      "score": 104.44,
+      "score": 104.38,
       "views": 22692,
       "likes": 98,
       "comments": 110,
@@ -175,219 +211,183 @@
       "max_likes": 76,
       "max_comments": 68,
       "appearances": 2,
-      "score": 103.85,
+      "score": 103.79,
       "views": 14784,
       "likes": 76,
       "comments": 68,
-      "change": -2
-    },
-    {
-      "title": "어제자 찐 이였다는 나혼산 출연배우",
-      "source": "루리웹",
-      "category": "연예",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76899817?m=humor",
-      "first_seen": "2026-10-04T05:13:51.095432+09:00",
-      "last_seen": "2026-10-04T05:13:51.095432+09:00",
-      "peak_score": 94.23,
-      "max_views": 13984,
-      "max_likes": 117,
-      "max_comments": 58,
-      "appearances": 1,
-      "score": 103.37,
-      "views": 13984,
-      "likes": 117,
-      "comments": 58,
-      "change": -2
-    },
-    {
-      "title": "6개 이상 먹어봤으면 할아버지.jpg",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76897776?m=humor",
-      "first_seen": "2026-10-04T02:38:46.688956+09:00",
-      "last_seen": "2026-10-04T02:38:46.688956+09:00",
-      "peak_score": 93.69,
-      "max_views": 15087,
-      "max_likes": 48,
-      "max_comments": 95,
-      "appearances": 1,
-      "score": 102.62,
-      "views": 15087,
-      "likes": 48,
-      "comments": 95,
       "change": -2
     }
   ],
   "rising": [
     {
-      "source": "인벤",
-      "title": "금가루낮도마뱀붙이",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2735972",
+      "source": "루리웹",
+      "title": "11월부터 완전히 바뀐다는 일본 면세 규정",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76900393?m=humor",
       "category": "이슈",
-      "views": 1582,
-      "likes": 1,
-      "comments": 3,
-      "score": 66.04,
-      "change": 7,
-      "current_rank": 29,
+      "views": 14054,
+      "likes": 41,
+      "comments": 57,
+      "score": 94.5,
+      "change": 1,
+      "current_rank": 2,
       "new_entry": false,
       "delta_views": 0,
       "delta_likes": 0,
       "delta_comments": 0,
-      "rank_gain": 7,
-      "rising_score": 97.83,
+      "rank_gain": 1,
+      "rising_score": 100.0,
       "rising_rank": 1,
-      "window_minutes": 116
+      "window_minutes": 38
     },
     {
       "source": "디시인사이드",
-      "title": "시간이 지날수록 재평가되는 빌런",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467739&_dcbest=1&page=1",
+      "title": "유해발굴 무안공항 참사 유족들 근황 ㄷㄷㄷㄷ",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467764&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 24418,
-      "likes": 331,
-      "comments": 156,
-      "score": 74.3,
-      "change": 0,
-      "current_rank": 9,
+      "views": 5045,
+      "likes": 73,
+      "comments": 267,
+      "score": 72.91,
+      "change": 8,
+      "current_rank": 8,
       "new_entry": false,
-      "delta_views": 2461,
-      "delta_likes": 30,
-      "delta_comments": 13,
-      "rank_gain": 0,
-      "rising_score": 87.75,
+      "delta_views": 2321,
+      "delta_likes": 29,
+      "delta_comments": 112,
+      "rank_gain": 8,
+      "rising_score": 95.43,
       "rising_rank": 2,
-      "window_minutes": 116
+      "window_minutes": 38
     },
     {
-      "source": "디시인사이드",
-      "title": "[단독] \"국내 도입 신중\"…레버리지 출시 전 금감원 용역 경고 묵살됐나",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467757&_dcbest=1&page=1",
+      "source": "클리앙",
+      "title": "은행 해킹보다 더 심각한 일이 곧 닥칠 겁니다.",
+      "url": "https://www.clien.net/service/board/park/19273253?od=T31&po=0&category=0&groupCd=",
       "category": "이슈",
-      "views": 9085,
-      "likes": 86,
-      "comments": 115,
-      "score": 71.13,
+      "views": 4370,
+      "likes": 2,
+      "comments": 21,
+      "score": 70.16,
       "change": 0,
-      "current_rank": 18,
+      "current_rank": 20,
       "new_entry": false,
-      "delta_views": 2361,
-      "delta_likes": 23,
-      "delta_comments": 27,
+      "delta_views": 1685,
+      "delta_likes": 0,
+      "delta_comments": 5,
       "rank_gain": 0,
-      "rising_score": 87.36,
+      "rising_score": 92.72,
       "rising_rank": 3,
-      "window_minutes": 116
-    },
-    {
-      "source": "인벤",
-      "title": "일본인들 사이에서 늘고 있다는 서울 탄환 여행",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2735960",
-      "category": "생활",
-      "views": 2590,
-      "likes": 0,
-      "comments": 9,
-      "score": 67.93,
-      "change": 6,
-      "current_rank": 24,
-      "new_entry": false,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 6,
-      "rising_score": 86.96,
-      "rising_rank": 4,
-      "window_minutes": 116
-    },
-    {
-      "source": "인벤",
-      "title": "유니폼 걷어서 보여주는 나띠 (키스 오브 라이프)",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2735965",
-      "category": "연예",
-      "views": 1436,
-      "likes": 0,
-      "comments": 2,
-      "score": 54.59,
-      "change": 6,
-      "current_rank": 79,
-      "new_entry": false,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 6,
-      "rising_score": 86.96,
-      "rising_rank": 5,
-      "window_minutes": 116
-    },
-    {
-      "source": "인벤",
-      "title": "도넛 얻는 방법을 알아낸 라쿤",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2735952",
-      "category": "이슈",
-      "views": 2175,
-      "likes": 3,
-      "comments": 5,
-      "score": 54.53,
-      "change": 6,
-      "current_rank": 80,
-      "new_entry": false,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 6,
-      "rising_score": 86.96,
-      "rising_rank": 6,
-      "window_minutes": 116
-    },
-    {
-      "source": "인벤",
-      "title": "(ㅇㅎ?) 하지원 치어리더 피지컬",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2735957",
-      "category": "이슈",
-      "views": 2911,
-      "likes": 0,
-      "comments": 2,
-      "score": 54.4,
-      "change": 6,
-      "current_rank": 81,
-      "new_entry": false,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 6,
-      "rising_score": 86.96,
-      "rising_rank": 7,
-      "window_minutes": 116
+      "window_minutes": 38
     },
     {
       "source": "더쿠",
       "title": "부산 사람들도 어리둥절하다는 부산 상상도 못한 상황...jpg",
       "url": "https://theqoo.net/hot/4364450567",
       "category": "이슈",
-      "views": 53384,
+      "views": 60359,
       "likes": 0,
-      "comments": 222,
-      "score": 73.84,
-      "change": 12,
-      "current_rank": 10,
+      "comments": 261,
+      "score": 72.68,
+      "change": 1,
+      "current_rank": 9,
       "new_entry": false,
-      "delta_views": 22053,
+      "delta_views": 6975,
       "delta_likes": 0,
-      "delta_comments": 54,
-      "rank_gain": 12,
-      "rising_score": 83.67,
+      "delta_comments": 39,
+      "rank_gain": 1,
+      "rising_score": 91.25,
+      "rising_rank": 4,
+      "window_minutes": 38
+    },
+    {
+      "source": "디시인사이드",
+      "title": "경찰 적대시하는 가리봉동 근황",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467763&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 5625,
+      "likes": 57,
+      "comments": 74,
+      "score": 64.45,
+      "change": 0,
+      "current_rank": 38,
+      "new_entry": false,
+      "delta_views": 2133,
+      "delta_likes": 17,
+      "delta_comments": 17,
+      "rank_gain": 0,
+      "rising_score": 90.57,
+      "rising_rank": 5,
+      "window_minutes": 38
+    },
+    {
+      "source": "클리앙",
+      "title": "Google Gemini Plus 요금제 너프(Pro 제외)",
+      "url": "https://www.clien.net/service/board/park/19273260?od=T31&po=0&category=0&groupCd=",
+      "category": "이슈",
+      "views": 1538,
+      "likes": 0,
+      "comments": 5,
+      "score": 61.74,
+      "change": 0,
+      "current_rank": 49,
+      "new_entry": false,
+      "delta_views": 1508,
+      "delta_likes": 0,
+      "delta_comments": 5,
+      "rank_gain": 0,
+      "rising_score": 87.4,
+      "rising_rank": 6,
+      "window_minutes": 38
+    },
+    {
+      "source": "디시인사이드",
+      "title": "한국의 1/11 이라는 일본 연예계 출연료",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467769&_dcbest=1&page=1",
+      "category": "연예",
+      "views": 2613,
+      "likes": 7,
+      "comments": 66,
+      "score": 60.88,
+      "change": 0,
+      "current_rank": 51,
+      "new_entry": false,
+      "delta_views": 2053,
+      "delta_likes": 6,
+      "delta_comments": 47,
+      "rank_gain": 0,
+      "rising_score": 84.21,
+      "rising_rank": 7,
+      "window_minutes": 38
+    },
+    {
+      "source": "디시인사이드",
+      "title": "정준하도 몰랐던 정준하 결혼의 비밀",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467766&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 3679,
+      "likes": 19,
+      "comments": 40,
+      "score": 60.42,
+      "change": 0,
+      "current_rank": 54,
+      "new_entry": false,
+      "delta_views": 1852,
+      "delta_likes": 11,
+      "delta_comments": 18,
+      "rank_gain": 0,
+      "rising_score": 83.57,
       "rising_rank": 8,
-      "window_minutes": 116
+      "window_minutes": 38
     },
     {
       "source": "루리웹",
-      "title": "원작자가 개빡칠뻔 했음",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76900128?m=humor",
-      "category": "이슈",
-      "views": 19964,
-      "likes": 91,
-      "comments": 60,
-      "score": 97.44,
+      "title": "첫 부산 여행 후기 태클 걸어달라는 스레드인",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76900441?m=humor",
+      "category": "생활",
+      "views": 12967,
+      "likes": 61,
+      "comments": 41,
+      "score": 96.83,
       "change": "NEW",
       "current_rank": 1,
       "new_entry": true,
@@ -395,29 +395,29 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.92,
+      "rising_score": 82.67,
       "rising_rank": 9,
-      "window_minutes": 116
+      "window_minutes": 38
     },
     {
       "source": "루리웹",
-      "title": "노가다 하는 남자랑 사귀고 싶다는 여자",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76900519?m=humor",
+      "title": "4~5천일 되면 한번씩 정신이 나가는게 분명함",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76900104?m=humor",
       "category": "이슈",
-      "views": 13944,
-      "likes": 78,
-      "comments": 49,
-      "score": 97.29,
+      "views": 8438,
+      "likes": 42,
+      "comments": 42,
+      "score": 90.89,
       "change": "NEW",
-      "current_rank": 2,
+      "current_rank": 3,
       "new_entry": true,
       "delta_views": 0,
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.86,
+      "rising_score": 80.17,
       "rising_rank": 10,
-      "window_minutes": 116
+      "window_minutes": 38
     }
   ],
   "issues": [
@@ -499,6 +499,44 @@
       "change": 0
     },
     {
+      "id": "ifd5a2cc3",
+      "title": "‘한국의’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "한국의"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 95.96,
+      "peak_score": 81.0,
+      "appearances": 5,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 21,
+          "title": "한국의 디스토피아 내러티브는 수익성 높은 수출품이다",
+          "url": "https://theqoo.net/hot/4364454659",
+          "score": 69.84
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 51,
+          "title": "한국의 1/11 이라는 일본 연예계 출연료",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467769&_dcbest=1&page=1",
+          "score": 60.88
+        }
+      ],
+      "first_seen": "2026-09-30T17:58:06.192419+09:00",
+      "last_seen": "2026-10-04T08:47:53.166066+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 3,
+      "change": 2
+    },
+    {
       "id": "i039fd79c",
       "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -533,8 +571,8 @@
       "last_seen": "2026-10-04T02:38:46.688956+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 3,
-      "change": 0
+      "rank": 4,
+      "change": -1
     },
     {
       "id": "i268dadd0",
@@ -582,93 +620,124 @@
       "last_seen": "2026-10-04T08:09:31.765636+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 4,
-      "change": 0
-    },
-    {
-      "id": "ifd5a2cc3",
-      "title": "‘한국의’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "한국의"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 95.05,
-      "peak_score": 81.0,
-      "appearances": 4,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 15,
-          "title": "한국의 디스토피아 내러티브는 수익성 높은 수출품이다",
-          "url": "https://theqoo.net/hot/4364454659",
-          "score": 72.0
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 45,
-          "title": "한국의 1/11 이라는 일본 연예계 출연료",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467769&_dcbest=1&page=1",
-          "score": 61.23
-        }
-      ],
-      "first_seen": "2026-09-30T17:58:06.192419+09:00",
-      "last_seen": "2026-10-04T08:09:31.765636+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 5,
-      "change": 2
+      "change": -1
     },
     {
       "id": "i8b4085e0",
-      "title": "아시안게임 축구 경기력에 실망",
+      "title": "‘아시안게임’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "아시안게임",
-        "축구"
+        "아시안게임"
       ],
       "source_count": 3,
       "post_count": 3,
-      "score": 92.75,
+      "score": 93.66,
       "peak_score": 73.7,
-      "appearances": 4,
+      "appearances": 5,
       "sources": [
         "더쿠",
+        "뽐뿌",
         "인벤",
         "클리앙"
       ],
       "posts": [
         {
+          "source": "뽐뿌",
+          "rank": 46,
+          "title": "아시안게임 축구 금메달 한국 국기 게양 실패에 대한 일본 반응 ㄷㄷ.jpg",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=soccer&no=189311",
+          "score": 62.07
+        },
+        {
           "source": "더쿠",
-          "rank": 72,
+          "rank": 53,
           "title": "일본인조차 실례라고 말하는 아시안게임",
           "url": "https://theqoo.net/hot/4364415071",
-          "score": 56.68
-        },
-        {
-          "source": "클리앙",
-          "rank": 78,
-          "title": "아시안게임 축구 경기력에 실망",
-          "url": "https://www.clien.net/service/board/park/19273212?od=T31&po=0&category=0&groupCd=",
-          "score": 55.97
-        },
-        {
-          "source": "더쿠",
-          "rank": 100,
-          "title": "일본기자 개소리에 받아치는 한국 축구 아시안게임 감독",
-          "url": "https://theqoo.net/hot/4364330523",
-          "score": 51.26
+          "score": 60.53
         }
       ],
       "first_seen": "2026-09-27T20:01:41.851026+09:00",
-      "last_seen": "2026-10-04T06:13:27.410063+09:00",
+      "last_seen": "2026-10-04T08:47:53.166066+09:00",
       "latest_source_count": 2,
-      "latest_post_count": 3,
+      "latest_post_count": 2,
       "rank": 6,
-      "change": -1
+      "change": 0
+    },
+    {
+      "id": "i78f6419e",
+      "title": "‘암살자’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "암살자"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 90.71,
+      "peak_score": 81.24,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 11,
+          "title": "암살자(들)을 보고나니 확실히 알겠습니다.",
+          "url": "https://www.clien.net/service/board/park/19273262?od=T31&po=0&category=0&groupCd=",
+          "score": 72.24
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 88,
+          "title": "영화 \"암살자\"에 입 연 박지만 \"우리 아버지가 그리 미운가\"",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467713&_dcbest=1&page=1",
+          "score": 53.38
+        }
+      ],
+      "first_seen": "2026-09-27T20:23:34.525151+09:00",
+      "last_seen": "2026-10-04T08:47:53.166066+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 7,
+      "change": "NEW"
+    },
+    {
+      "id": "iaf3fcfcf",
+      "title": "‘노무현’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "노무현"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 89.16,
+      "peak_score": 79.69,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 17,
+          "title": "노무현 조롱 연극 보고 쳐웃은 것들이",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10141239",
+          "score": 70.69
+        },
+        {
+          "source": "클리앙",
+          "rank": 40,
+          "title": "노무현 대통령이 그립다에 대한 ai 답변",
+          "url": "https://www.clien.net/service/board/park/19273246?od=T31&po=0&category=0&groupCd=",
+          "score": 63.85
+        }
+      ],
+      "first_seen": "2026-10-04T08:47:53.166066+09:00",
+      "last_seen": "2026-10-04T08:47:53.166066+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 8,
+      "change": "NEW"
     },
     {
       "id": "ieb0313ac",
@@ -705,92 +774,117 @@
       "last_seen": "2026-10-04T03:06:46.347880+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": -1
+      "rank": 9,
+      "change": -2
     },
     {
-      "id": "i995eeaea",
-      "title": "‘캐릭터’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "ib43099e0",
+      "title": "아시안게임 축구 금메달 한국 국기 게양 실패에 대한 일본 반응 ㄷㄷ.jpg",
       "keywords": [
-        "캐릭터"
+        "축구",
+        "게양"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 73.98,
-      "peak_score": 64.51,
+      "score": 79.54,
+      "peak_score": 70.07,
       "appearances": 1,
       "sources": [
-        "디시인사이드",
-        "루리웹"
+        "뽐뿌",
+        "클리앙"
       ],
       "posts": [
         {
-          "source": "디시인사이드",
-          "rank": 82,
-          "title": "다 맞추면 IQ 140이상이라는 캐릭터 맞추기 퀴즈",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467687&_dcbest=1&page=1",
-          "score": 55.51
+          "source": "뽐뿌",
+          "rank": 46,
+          "title": "아시안게임 축구 금메달 한국 국기 게양 실패에 대한 일본 반응 ㄷㄷ.jpg",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=soccer&no=189311",
+          "score": 62.07
         },
         {
-          "source": "루리웹",
-          "rank": 89,
-          "title": "아랑전설2 캐릭터 미사용 디자인",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/76900287?m=humor_only&t=now",
-          "score": 53.79
+          "source": "클리앙",
+          "rank": 68,
+          "title": "축구 시상식 태극기 게양 논란",
+          "url": "https://www.clien.net/service/board/park/19273242?od=T31&po=0&category=0&groupCd=",
+          "score": 57.85
         }
       ],
-      "first_seen": "2026-10-04T05:13:51.095432+09:00",
-      "last_seen": "2026-10-04T05:13:51.095432+09:00",
+      "first_seen": "2026-10-04T08:47:53.166066+09:00",
+      "last_seen": "2026-10-04T08:47:53.166066+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 8,
-      "change": 0
+      "rank": 10,
+      "change": "NEW"
     }
   ],
   "realtime_issues": [
     {
-      "id": "i268dadd0",
-      "title": "축구 시상식 태극기 게양 논란",
+      "id": "i78f6419e",
+      "title": "‘암살자’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "축구",
-        "게양",
-        "태극기",
-        "시상식"
+        "암살자"
       ],
       "source_count": 2,
-      "post_count": 3,
-      "score": 74.49,
-      "peak_score": 74.49,
+      "post_count": 2,
+      "score": 81.24,
+      "peak_score": 81.24,
       "appearances": 1,
       "sources": [
-        "인벤",
+        "디시인사이드",
         "클리앙"
       ],
       "posts": [
         {
           "source": "클리앙",
-          "rank": 30,
-          "title": "축구 시상식 태극기 게양 논란",
-          "url": "https://www.clien.net/service/board/park/19273242?od=T31&po=0&category=0&groupCd=",
-          "score": 65.49
+          "rank": 11,
+          "title": "암살자(들)을 보고나니 확실히 알겠습니다.",
+          "url": "https://www.clien.net/service/board/park/19273262?od=T31&po=0&category=0&groupCd=",
+          "score": 72.24
         },
         {
-          "source": "인벤",
-          "rank": 69,
-          "title": "아시안 게임 축구 시상식에서 태극기 게양 실수(?) 해프닝",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2735951",
-          "score": 57.51
-        },
-        {
-          "source": "인벤",
-          "rank": 87,
-          "title": "AG 남자 축구 시상식 대참사 국기 게양이 안됩니다. 애국가 끝나고 야유",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2735954",
-          "score": 53.25
+          "source": "디시인사이드",
+          "rank": 88,
+          "title": "영화 \"암살자\"에 입 연 박지만 \"우리 아버지가 그리 미운가\"",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467713&_dcbest=1&page=1",
+          "score": 53.38
         }
       ],
       "rank": 1,
-      "change": 0
+      "change": "NEW"
+    },
+    {
+      "id": "iaf3fcfcf",
+      "title": "‘노무현’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "노무현"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 79.69,
+      "peak_score": 79.69,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 17,
+          "title": "노무현 조롱 연극 보고 쳐웃은 것들이",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10141239",
+          "score": 70.69
+        },
+        {
+          "source": "클리앙",
+          "rank": 40,
+          "title": "노무현 대통령이 그립다에 대한 ai 답변",
+          "url": "https://www.clien.net/service/board/park/19273246?od=T31&po=0&category=0&groupCd=",
+          "score": 63.85
+        }
+      ],
+      "rank": 2,
+      "change": "NEW"
     },
     {
       "id": "ifd5a2cc3",
@@ -800,8 +894,8 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 81.0,
-      "peak_score": 81.0,
+      "score": 78.84,
+      "peak_score": 78.84,
       "appearances": 1,
       "sources": [
         "더쿠",
@@ -810,309 +904,358 @@
       "posts": [
         {
           "source": "더쿠",
-          "rank": 15,
+          "rank": 21,
           "title": "한국의 디스토피아 내러티브는 수익성 높은 수출품이다",
           "url": "https://theqoo.net/hot/4364454659",
-          "score": 72.0
+          "score": 69.84
         },
         {
           "source": "디시인사이드",
-          "rank": 45,
+          "rank": 51,
           "title": "한국의 1/11 이라는 일본 연예계 출연료",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467769&_dcbest=1&page=1",
-          "score": 61.23
+          "score": 60.88
         }
       ],
-      "rank": 2,
-      "change": "NEW"
+      "rank": 3,
+      "change": -1
     },
     {
-      "id": "ib3876eed",
-      "title": "‘대통령이’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i8b4085e0",
+      "title": "‘아시안게임’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "대통령이"
+        "아시안게임"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 79.12,
-      "peak_score": 79.12,
+      "score": 71.07,
+      "peak_score": 71.07,
       "appearances": 1,
       "sources": [
-        "인벤",
+        "더쿠",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 46,
+          "title": "아시안게임 축구 금메달 한국 국기 게양 실패에 대한 일본 반응 ㄷㄷ.jpg",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=soccer&no=189311",
+          "score": 62.07
+        },
+        {
+          "source": "더쿠",
+          "rank": 53,
+          "title": "일본인조차 실례라고 말하는 아시안게임",
+          "url": "https://theqoo.net/hot/4364415071",
+          "score": 60.53
+        }
+      ],
+      "rank": 4,
+      "change": "NEW"
+    },
+    {
+      "id": "ib43099e0",
+      "title": "아시안게임 축구 금메달 한국 국기 게양 실패에 대한 일본 반응 ㄷㄷ.jpg",
+      "keywords": [
+        "축구",
+        "게양"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 70.07,
+      "peak_score": 70.07,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
         "클리앙"
       ],
       "posts": [
         {
-          "source": "클리앙",
-          "rank": 21,
-          "title": "노무현 대통령이 그립다에 대한 ai 답변",
-          "url": "https://www.clien.net/service/board/park/19273246?od=T31&po=0&category=0&groupCd=",
-          "score": 70.12
+          "source": "뽐뿌",
+          "rank": 46,
+          "title": "아시안게임 축구 금메달 한국 국기 게양 실패에 대한 일본 반응 ㄷㄷ.jpg",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=soccer&no=189311",
+          "score": 62.07
         },
         {
-          "source": "인벤",
-          "rank": 92,
-          "title": "대통령이 sns를 하는 이유",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2735941",
-          "score": 52.4
+          "source": "클리앙",
+          "rank": 68,
+          "title": "축구 시상식 태극기 게양 논란",
+          "url": "https://www.clien.net/service/board/park/19273242?od=T31&po=0&category=0&groupCd=",
+          "score": 57.85
         }
       ],
-      "rank": 3,
-      "change": 1
+      "rank": 5,
+      "change": "NEW"
     }
   ],
   "keywords": [
     {
       "keyword": "한국",
-      "score": 136.12,
-      "post_count": 4,
-      "source_count": 3,
-      "best_rank": 8,
+      "score": 188.73,
+      "post_count": 6,
+      "source_count": 5,
+      "best_rank": 14,
       "sources": [
         "더쿠",
         "디시인사이드",
+        "뽐뿌",
+        "인벤",
         "클리앙"
       ],
       "aliases": [],
       "rank": 1,
-      "change": 2
+      "change": 0
     },
     {
-      "keyword": "일본",
-      "score": 127.98,
+      "keyword": "축구",
+      "score": 140.21,
       "post_count": 4,
-      "source_count": 3,
-      "best_rank": 3,
+      "source_count": 4,
+      "best_rank": 46,
       "sources": [
         "디시인사이드",
         "루리웹",
+        "뽐뿌",
         "클리앙"
       ],
       "aliases": [],
       "rank": 2,
-      "change": 2
-    },
-    {
-      "keyword": "축구",
-      "score": 123.93,
-      "post_count": 5,
-      "source_count": 3,
-      "best_rank": 30,
-      "sources": [
-        "디시인사이드",
-        "인벤",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 3,
-      "change": -2
-    },
-    {
-      "keyword": "중국",
-      "score": 115.49,
-      "post_count": 3,
-      "source_count": 3,
-      "best_rank": 44,
-      "sources": [
-        "디시인사이드",
-        "인벤",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 4,
-      "change": -2
-    },
-    {
-      "keyword": "사이",
-      "score": 94.04,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 24,
-      "sources": [
-        "디시인사이드",
-        "인벤"
-      ],
-      "aliases": [],
-      "rank": 5,
       "change": 1
     },
     {
-      "keyword": "방법",
-      "score": 91.92,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 12,
+      "keyword": "일본",
+      "score": 129.92,
+      "post_count": 3,
+      "source_count": 3,
+      "best_rank": 2,
       "sources": [
         "디시인사이드",
-        "인벤"
+        "루리웹",
+        "뽐뿌"
       ],
       "aliases": [],
-      "rank": 6,
+      "rank": 3,
+      "change": -1
+    },
+    {
+      "keyword": "부산",
+      "score": 111.42,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 1,
+      "sources": [
+        "더쿠",
+        "루리웹"
+      ],
+      "aliases": [],
+      "rank": 4,
       "change": "NEW"
     },
     {
-      "keyword": "시상식",
-      "score": 90.81,
-      "post_count": 3,
-      "source_count": 2,
-      "best_rank": 30,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "aliases": [
-        "게양"
-      ],
-      "rank": 7,
-      "change": 2
-    },
-    {
-      "keyword": "태극기",
-      "score": 87.58,
+      "keyword": "시간",
+      "score": 99.97,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 30,
+      "best_rank": 15,
       "sources": [
-        "인벤",
-        "클리앙"
+        "디시인사이드",
+        "뽐뿌"
       ],
       "aliases": [],
-      "rank": 8,
-      "change": 4
+      "rank": 5,
+      "change": "NEW"
     },
     {
-      "keyword": "결혼",
-      "score": 85.9,
+      "keyword": "방법",
+      "score": 99.46,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 49,
+      "best_rank": 10,
       "sources": [
         "더쿠",
         "디시인사이드"
+      ],
+      "aliases": [],
+      "rank": 6,
+      "change": 0
+    },
+    {
+      "keyword": "여행",
+      "score": 98.8,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 1,
+      "sources": [
+        "루리웹",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 7,
+      "change": "NEW"
+    },
+    {
+      "keyword": "중국",
+      "score": 96.46,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 7,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌"
+      ],
+      "aliases": [],
+      "rank": 8,
+      "change": -4
+    },
+    {
+      "keyword": "노무현",
+      "score": 95.29,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 17,
+      "sources": [
+        "뽐뿌",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 9,
       "change": "NEW"
     },
     {
-      "keyword": "아들",
-      "score": 84.39,
+      "keyword": "해리포터",
+      "score": 94.42,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 43,
+      "best_rank": 5,
       "sources": [
-        "루리웹",
-        "인벤"
+        "디시인사이드",
+        "루리웹"
       ],
       "aliases": [],
       "rank": 10,
       "change": "NEW"
     },
     {
-      "keyword": "군대",
-      "score": 83.91,
+      "keyword": "암살자",
+      "score": 91.1,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 46,
+      "best_rank": 11,
       "sources": [
         "디시인사이드",
-        "루리웹"
+        "클리앙"
       ],
       "aliases": [],
       "rank": 11,
       "change": "NEW"
     },
     {
-      "keyword": "영화",
-      "score": 83.46,
+      "keyword": "ai",
+      "score": 89.97,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 53,
+      "best_rank": 40,
       "sources": [
         "디시인사이드",
         "클리앙"
       ],
       "aliases": [],
       "rank": 12,
-      "change": -5
+      "change": "NEW"
     },
     {
-      "keyword": "구글",
-      "score": 80.51,
+      "keyword": "아시안게임",
+      "score": 87.52,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 64,
+      "best_rank": 46,
       "sources": [
-        "디시인사이드",
-        "클리앙"
+        "더쿠",
+        "뽐뿌"
       ],
       "aliases": [],
       "rank": 13,
       "change": "NEW"
     },
     {
-      "keyword": "국기",
-      "score": 74.83,
+      "keyword": "게양",
+      "score": 85.35,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 87,
+      "best_rank": 46,
       "sources": [
-        "인벤",
+        "뽐뿌",
         "클리앙"
       ],
       "aliases": [],
       "rank": 14,
-      "change": 1
+      "change": "NEW"
+    },
+    {
+      "keyword": "피해",
+      "score": 83.92,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 47,
+      "sources": [
+        "디시인사이드",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 15,
+      "change": "NEW"
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "원작자가 개빡칠뻔 했음",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76900128?m=humor",
-      "score": 97.44,
-      "views": 19964,
-      "comments": 60
+      "title": "첫 부산 여행 후기 태클 걸어달라는 스레드인",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76900441?m=humor",
+      "score": 96.83,
+      "views": 12967,
+      "comments": 41
     },
     {
       "source": "뽐뿌",
-      "title": "이거 마지막 장면 물리법칙 설명 좀 해주실 분",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=22360",
-      "score": 85.13,
-      "views": 10361,
-      "comments": 25
-    },
-    {
-      "source": "인벤",
-      "title": "시스루 전소미",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2735970",
-      "score": 79.27,
-      "views": 3998,
-      "comments": 4
-    },
-    {
-      "source": "클리앙",
-      "title": "은행 해킹보다 더 심각한 일이 곧 닥칠 겁니다.",
-      "url": "https://www.clien.net/service/board/park/19273253?od=T31&po=0&category=0&groupCd=",
-      "score": 75.68,
-      "views": 2685,
-      "comments": 16
-    },
-    {
-      "source": "더쿠",
-      "title": "아까 골 넣은 한국 선수 원숭이 포즈 하더라 이런 국제 경기에서 그런 짓거리 하는 거...민도 너무 낮지 않냐?",
-      "url": "https://theqoo.net/hot/4364375015",
-      "score": 75.05,
-      "views": 67591,
-      "comments": 564
+      "title": "[네이버페이] 인증태그 바로적립 20원 받으세요",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=119248",
+      "score": 77.65,
+      "views": 4440,
+      "comments": 10
     },
     {
       "source": "디시인사이드",
-      "title": "시간이 지날수록 재평가되는 빌런",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467739&_dcbest=1&page=1",
-      "score": 74.3,
-      "views": 24418,
-      "comments": 156
+      "title": "해리포터와 말포이의 첫만남...jpg",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467774&_dcbest=1&page=1",
+      "score": 76.98,
+      "views": 13208,
+      "comments": 65
+    },
+    {
+      "source": "더쿠",
+      "title": "부산 사람들도 어리둥절하다는 부산 상상도 못한 상황...jpg",
+      "url": "https://theqoo.net/hot/4364450567",
+      "score": 72.68,
+      "views": 60359,
+      "comments": 261
+    },
+    {
+      "source": "클리앙",
+      "title": "암살자(들)을 보고나니 확실히 알겠습니다.",
+      "url": "https://www.clien.net/service/board/park/19273262?od=T31&po=0&category=0&groupCd=",
+      "score": 72.24,
+      "views": 1095,
+      "comments": 8
+    },
+    {
+      "source": "인벤",
+      "title": "어느 유튜브 채널을 따라하는 채널들",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2735987",
+      "score": 72.04,
+      "views": 940,
+      "comments": 9
     }
   ]
 }
