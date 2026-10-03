@@ -2,19 +2,19 @@
   "version": 1,
   "date": "2026-10-04",
   "label": "2026년 10월 04일",
-  "collected_at": "2026-10-04T02:38:46.688956+09:00",
+  "collected_at": "2026-10-04T03:06:46.347880+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘‘이재명’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #영화. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘‘이재명’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #한국. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
-    "ok_sources": 5,
-    "cached_sources": 1,
+    "ok_sources": 6,
+    "cached_sources": 0,
     "realtime_posts": 100,
     "daily_posts": 100,
-    "daily_issues": 3,
-    "keywords": 11,
-    "top100_views": 1062690,
-    "top100_comments": 9972
+    "daily_issues": 6,
+    "keywords": 17,
+    "top100_views": 1061243,
+    "top100_comments": 9834
   },
   "highlights": [
     {
@@ -25,35 +25,71 @@
     },
     {
       "type": "post",
-      "title": "GPT) 기술적 특이점 안 올 것 같은데?",
+      "title": "현재 비상터졌다는 일본 오사카 근황.twit",
       "text": "루리웹에서 현재 상위권에 오른 인기글입니다.",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76896330?m=humor"
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76897498?m=humor"
     },
     {
       "type": "keyword",
-      "title": "#영화",
-      "text": "4개 커뮤니티 · 4개 인기글에서 함께 등장했습니다.",
-      "keyword": "영화"
+      "title": "#한국",
+      "text": "4개 커뮤니티 · 10개 인기글에서 함께 등장했습니다.",
+      "keyword": "한국"
     }
   ],
   "top_posts": [
+    {
+      "title": "현재 비상터졌다는 일본 오사카 근황.twit",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76897498?m=humor",
+      "first_seen": "2026-10-04T03:06:46.347880+09:00",
+      "last_seen": "2026-10-04T03:06:46.347880+09:00",
+      "peak_score": 98.94,
+      "max_views": 26803,
+      "max_likes": 122,
+      "max_comments": 76,
+      "appearances": 1,
+      "score": 108.33,
+      "views": 26803,
+      "likes": 122,
+      "comments": 76,
+      "change": "NEW"
+    },
+    {
+      "title": "현기차 안타본 사람이 흔히 하는 착각",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76896866?m=humor",
+      "first_seen": "2026-10-03T22:39:51.098987+09:00",
+      "last_seen": "2026-10-04T03:06:46.347880+09:00",
+      "peak_score": 94.66,
+      "max_views": 22692,
+      "max_likes": 98,
+      "max_comments": 110,
+      "appearances": 2,
+      "score": 104.86,
+      "views": 22692,
+      "likes": 98,
+      "comments": 110,
+      "change": "NEW"
+    },
     {
       "title": "GPT) 기술적 특이점 안 올 것 같은데?",
       "source": "루리웹",
       "category": "이슈",
       "url": "https://bbs.ruliweb.com/best/board/300143/read/76896330?m=humor",
       "first_seen": "2026-10-04T02:38:46.688956+09:00",
-      "last_seen": "2026-10-04T02:38:46.688956+09:00",
-      "peak_score": 93.84,
+      "last_seen": "2026-10-04T03:06:46.347880+09:00",
+      "peak_score": 94.07,
       "max_views": 14784,
       "max_likes": 76,
       "max_comments": 68,
-      "appearances": 1,
-      "score": 103.23,
+      "appearances": 2,
+      "score": 104.27,
       "views": 14784,
       "likes": 76,
       "comments": 68,
-      "change": "NEW"
+      "change": -2
     },
     {
       "title": "6개 이상 먹어봤으면 할아버지.jpg",
@@ -67,11 +103,11 @@
       "max_likes": 48,
       "max_comments": 95,
       "appearances": 1,
-      "score": 103.08,
+      "score": 103.04,
       "views": 15087,
       "likes": 48,
       "comments": 95,
-      "change": "NEW"
+      "change": -2
     },
     {
       "title": "호불호 갈리는 자취 밥상 ㄷㄷ",
@@ -85,11 +121,11 @@
       "max_likes": 35,
       "max_comments": 63,
       "appearances": 1,
-      "score": 102.1,
+      "score": 102.06,
       "views": 15693,
       "likes": 35,
       "comments": 63,
-      "change": "NEW"
+      "change": -2
     },
     {
       "title": "축구 진짜 별로네요",
@@ -103,11 +139,11 @@
       "max_likes": 2,
       "max_comments": 129,
       "appearances": 3,
-      "score": 101.09,
+      "score": 101.05,
       "views": 5995,
       "likes": 2,
       "comments": 129,
-      "change": 17
+      "change": -2
     },
     {
       "title": "기안84도 개 멋있다고 한 남자",
@@ -115,17 +151,17 @@
       "category": "연예",
       "url": "https://www.inven.co.kr/board/webzine/2097/2735930",
       "first_seen": "2026-10-03T22:39:51.098987+09:00",
-      "last_seen": "2026-10-04T02:38:46.688956+09:00",
+      "last_seen": "2026-10-04T03:06:46.347880+09:00",
       "peak_score": 80.0,
-      "max_views": 1688,
-      "max_likes": 1,
-      "max_comments": 3,
-      "appearances": 3,
-      "score": 90.77,
-      "views": 1688,
-      "likes": 1,
-      "comments": 3,
-      "change": 51
+      "max_views": 4756,
+      "max_likes": 3,
+      "max_comments": 5,
+      "appearances": 4,
+      "score": 91.22,
+      "views": 4756,
+      "likes": 3,
+      "comments": 5,
+      "change": -2
     },
     {
       "title": "양민혁 미친 스틸 후 엄지성 마무리 축구 한일전 승리ㄷㄷ.webp",
@@ -133,17 +169,17 @@
       "category": "스포츠",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467707&_dcbest=1&page=1",
       "first_seen": "2026-10-03T22:39:51.098987+09:00",
-      "last_seen": "2026-10-04T02:38:46.688956+09:00",
+      "last_seen": "2026-10-04T03:06:46.347880+09:00",
       "peak_score": 79.55,
-      "max_views": 13408,
-      "max_likes": 210,
+      "max_views": 13547,
+      "max_likes": 211,
       "max_comments": 312,
-      "appearances": 3,
-      "score": 90.32,
-      "views": 13408,
-      "likes": 210,
+      "appearances": 4,
+      "score": 90.77,
+      "views": 13547,
+      "likes": 211,
       "comments": 312,
-      "change": 52
+      "change": -2
     },
     {
       "title": "시어머니가 14억짜리 아파트를 내 명의로 증여해준다는데",
@@ -151,17 +187,17 @@
       "category": "이슈",
       "url": "https://theqoo.net/hot/4364290603",
       "first_seen": "2026-10-03T22:39:51.098987+09:00",
-      "last_seen": "2026-10-04T02:38:46.688956+09:00",
+      "last_seen": "2026-10-04T03:06:46.347880+09:00",
       "peak_score": 79.37,
-      "max_views": 56804,
+      "max_views": 57823,
       "max_likes": 0,
       "max_comments": 638,
-      "appearances": 3,
-      "score": 90.14,
-      "views": 56804,
+      "appearances": 4,
+      "score": 90.59,
+      "views": 57823,
       "likes": 0,
       "comments": 638,
-      "change": 52
+      "change": -2
     },
     {
       "title": "벌레, 혐주의) 싱글벙글 와이프 몰래 비바리움 만듬",
@@ -169,205 +205,149 @@
       "category": "이슈",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467701&_dcbest=1&page=1",
       "first_seen": "2026-10-03T22:39:51.098987+09:00",
-      "last_seen": "2026-10-04T02:38:46.688956+09:00",
+      "last_seen": "2026-10-04T03:06:46.347880+09:00",
       "peak_score": 79.05,
-      "max_views": 28037,
-      "max_likes": 165,
-      "max_comments": 263,
-      "appearances": 3,
-      "score": 89.82,
-      "views": 28037,
-      "likes": 165,
-      "comments": 263,
-      "change": 53
-    },
-    {
-      "title": "국민의힘이 빨갱이영화라고 했던 영화",
-      "source": "인벤",
-      "category": "연예",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2735933",
-      "first_seen": "2026-10-03T23:25:26.434950+09:00",
-      "last_seen": "2026-10-04T02:38:46.688956+09:00",
-      "peak_score": 79.33,
-      "max_views": 1039,
-      "max_likes": 4,
-      "max_comments": 5,
-      "appearances": 2,
-      "score": 89.53,
-      "views": 1039,
-      "likes": 4,
-      "comments": 5,
-      "change": 53
-    },
-    {
-      "title": "노산의 기준을 획기적으로 바꾼 한녀기자.News",
-      "source": "디시인사이드",
-      "category": "이슈",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467715&_dcbest=1&page=1",
-      "first_seen": "2026-10-03T22:39:51.098987+09:00",
-      "last_seen": "2026-10-04T02:38:46.688956+09:00",
-      "peak_score": 78.21,
-      "max_views": 14611,
-      "max_likes": 214,
-      "max_comments": 587,
-      "appearances": 3,
-      "score": 88.98,
-      "views": 14611,
-      "likes": 214,
-      "comments": 587,
-      "change": 55
+      "max_views": 28314,
+      "max_likes": 168,
+      "max_comments": 264,
+      "appearances": 4,
+      "score": 90.27,
+      "views": 28314,
+      "likes": 168,
+      "comments": 264,
+      "change": -2
     }
   ],
   "rising": [
     {
-      "source": "뽐뿌",
-      "title": "결승전 후 일본의 졸렬함",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10141069",
+      "source": "인벤",
+      "title": "동굴을 사랑하는 사람들",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2735939",
       "category": "이슈",
-      "views": 32380,
-      "likes": 27,
-      "comments": 69,
-      "score": 74.91,
-      "change": 59,
-      "current_rank": 12,
+      "views": 2413,
+      "likes": 0,
+      "comments": 24,
+      "score": 52.6,
+      "change": 0,
+      "current_rank": 93,
       "new_entry": false,
-      "delta_views": 18501,
-      "delta_likes": 16,
-      "delta_comments": 39,
-      "rank_gain": 59,
+      "delta_views": 2270,
+      "delta_likes": 0,
+      "delta_comments": 20,
+      "rank_gain": 0,
       "rising_score": 100.0,
       "rising_rank": 1,
-      "window_minutes": 193
+      "window_minutes": 28
+    },
+    {
+      "source": "디시인사이드",
+      "title": "[단독] \"국내 도입 신중\"…레버리지 출시 전 금감원 용역 경고 묵살됐나",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467757&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 3266,
+      "likes": 42,
+      "comments": 70,
+      "score": 69.8,
+      "change": 14,
+      "current_rank": 16,
+      "new_entry": false,
+      "delta_views": 853,
+      "delta_likes": 8,
+      "delta_comments": 10,
+      "rank_gain": 14,
+      "rising_score": 94.39,
+      "rising_rank": 2,
+      "window_minutes": 28
+    },
+    {
+      "source": "디시인사이드",
+      "title": "\"부자 못 된다, 도박이다\" '뼈 때린' 주식 습관?",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467751&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 4599,
+      "likes": 6,
+      "comments": 71,
+      "score": 63.87,
+      "change": 22,
+      "current_rank": 37,
+      "new_entry": false,
+      "delta_views": 766,
+      "delta_likes": 0,
+      "delta_comments": 12,
+      "rank_gain": 22,
+      "rising_score": 93.1,
+      "rising_rank": 3,
+      "window_minutes": 28
+    },
+    {
+      "source": "더쿠",
+      "title": "부산 사람들도 어리둥절하다는 부산 상상도 못한 상황...jpg",
+      "url": "https://theqoo.net/hot/4364450567",
+      "category": "이슈",
+      "views": 18311,
+      "likes": 0,
+      "comments": 125,
+      "score": 64.84,
+      "change": 7,
+      "current_rank": 29,
+      "new_entry": false,
+      "delta_views": 4773,
+      "delta_likes": 0,
+      "delta_comments": 12,
+      "rank_gain": 7,
+      "rising_score": 88.38,
+      "rising_rank": 4,
+      "window_minutes": 28
     },
     {
       "source": "클리앙",
-      "title": "아이폰 듀오 사면 아이패드는 계륵되겠죠?",
-      "url": "https://www.clien.net/service/board/park/19273209?od=T31&po=0&category=0&groupCd=",
+      "title": "일본대형 AV레이블들도 토렌트 저작권 고소하기 시작했습니다.",
+      "url": "https://www.clien.net/service/board/park/19273235?od=T31&po=0&category=0&groupCd=",
       "category": "이슈",
-      "views": 2287,
+      "views": 2511,
       "likes": 0,
-      "comments": 19,
-      "score": 57.38,
-      "change": 0,
-      "current_rank": 75,
-      "new_entry": false,
-      "delta_views": 2246,
-      "delta_likes": 0,
-      "delta_comments": 19,
-      "rank_gain": 0,
-      "rising_score": 100.0,
-      "rising_rank": 2,
-      "window_minutes": 193
-    },
-    {
-      "source": "인벤",
-      "title": "내향인이 타면 내리기 어렵다는 버스",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2735922",
-      "category": "유머",
-      "views": 1474,
-      "likes": 0,
-      "comments": 7,
-      "score": 68.09,
+      "comments": 8,
+      "score": 77.19,
       "change": 4,
-      "current_rank": 25,
+      "current_rank": 6,
       "new_entry": false,
-      "delta_views": 0,
+      "delta_views": 431,
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 4,
-      "rising_score": 95.45,
-      "rising_rank": 3,
-      "window_minutes": 193
-    },
-    {
-      "source": "디시인사이드",
-      "title": "나루토 세계관 최고의 재능충.jpg",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467723&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 24163,
-      "likes": 181,
-      "comments": 170,
-      "score": 73.49,
-      "change": 0,
-      "current_rank": 13,
-      "new_entry": false,
-      "delta_views": 8766,
-      "delta_likes": 87,
-      "delta_comments": 73,
-      "rank_gain": 0,
-      "rising_score": 87.61,
-      "rising_rank": 4,
-      "window_minutes": 193
-    },
-    {
-      "source": "인벤",
-      "title": "무조건 한 군데 주차해야 한다면?",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2735918",
-      "category": "이슈",
-      "views": 1399,
-      "likes": 0,
-      "comments": 21,
-      "score": 68.35,
-      "change": 3,
-      "current_rank": 24,
-      "new_entry": false,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 3,
-      "rising_score": 86.36,
+      "rising_score": 87.5,
       "rising_rank": 5,
-      "window_minutes": 193
+      "window_minutes": 28
     },
     {
-      "source": "디시인사이드",
-      "title": "노산의 기준을 획기적으로 바꾼 한녀기자.News",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467715&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 14611,
-      "likes": 214,
-      "comments": 587,
-      "score": 70.67,
-      "change": 0,
-      "current_rank": 16,
-      "new_entry": false,
-      "delta_views": 6230,
-      "delta_likes": 85,
-      "delta_comments": 198,
-      "rank_gain": 0,
-      "rising_score": 86.32,
-      "rising_rank": 6,
-      "window_minutes": 193
-    },
-    {
-      "source": "디시인사이드",
-      "title": "‘초비상’ 미국서 쫓겨난 중국 CCTV, 군대에 쫙 깔렸다",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467725&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 8382,
-      "likes": 129,
-      "comments": 159,
-      "score": 67.4,
+      "source": "더쿠",
+      "title": "잊지말자 이성계도 57살에 조선을 건국했다는 사실을",
+      "url": "https://theqoo.net/hot/4364411573",
+      "category": "유머",
+      "views": 21276,
+      "likes": 0,
+      "comments": 192,
+      "score": 64.68,
       "change": 2,
-      "current_rank": 29,
+      "current_rank": 30,
       "new_entry": false,
-      "delta_views": 6344,
-      "delta_likes": 77,
-      "delta_comments": 106,
+      "delta_views": 2343,
+      "delta_likes": 0,
+      "delta_comments": 16,
       "rank_gain": 2,
-      "rising_score": 83.08,
-      "rising_rank": 7,
-      "window_minutes": 193
+      "rising_score": 83.82,
+      "rising_rank": 6,
+      "window_minutes": 28
     },
     {
       "source": "루리웹",
-      "title": "GPT) 기술적 특이점 안 올 것 같은데?",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76896330?m=humor",
+      "title": "현재 비상터졌다는 일본 오사카 근황.twit",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76897498?m=humor",
       "category": "이슈",
-      "views": 14784,
-      "likes": 76,
-      "comments": 68,
-      "score": 93.84,
+      "views": 26803,
+      "likes": 122,
+      "comments": 76,
+      "score": 98.94,
       "change": "NEW",
       "current_rank": 1,
       "new_entry": true,
@@ -375,19 +355,39 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 81.41,
+      "rising_score": 83.55,
+      "rising_rank": 7,
+      "window_minutes": 28
+    },
+    {
+      "source": "뽐뿌",
+      "title": "현금 줍고 당장 경찰서 가야하는 이유 ㄷㄷ",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=22308",
+      "category": "이슈",
+      "views": 5802,
+      "likes": 0,
+      "comments": 23,
+      "score": 62.66,
+      "change": 9,
+      "current_rank": 46,
+      "new_entry": false,
+      "delta_views": 1167,
+      "delta_likes": 0,
+      "delta_comments": 5,
+      "rank_gain": 9,
+      "rising_score": 83.06,
       "rising_rank": 8,
-      "window_minutes": 193
+      "window_minutes": 28
     },
     {
       "source": "루리웹",
-      "title": "6개 이상 먹어봤으면 할아버지.jpg",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76897776?m=humor",
+      "title": "현기차 안타본 사람이 흔히 하는 착각",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76896866?m=humor",
       "category": "이슈",
-      "views": 15087,
-      "likes": 48,
-      "comments": 95,
-      "score": 93.69,
+      "views": 22692,
+      "likes": 98,
+      "comments": 110,
+      "score": 94.66,
       "change": "NEW",
       "current_rank": 2,
       "new_entry": true,
@@ -395,29 +395,29 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 81.35,
+      "rising_score": 81.76,
       "rising_rank": 9,
-      "window_minutes": 193
+      "window_minutes": 28
     },
     {
-      "source": "루리웹",
-      "title": "호불호 갈리는 자취 밥상 ㄷㄷ",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76897977?m=humor",
+      "source": "디시인사이드",
+      "title": "채널a) 미군 1만명 중동 증파..공격 재개?",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467755&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 15693,
-      "likes": 35,
-      "comments": 63,
-      "score": 92.71,
-      "change": "NEW",
-      "current_rank": 3,
-      "new_entry": true,
-      "delta_views": 0,
+      "views": 2251,
+      "likes": 8,
+      "comments": 35,
+      "score": 60.52,
+      "change": 7,
+      "current_rank": 55,
+      "new_entry": false,
+      "delta_views": 510,
       "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 80.94,
+      "delta_comments": 11,
+      "rank_gain": 7,
+      "rising_score": 81.5,
       "rising_rank": 10,
-      "window_minutes": 193
+      "window_minutes": 28
     }
   ],
   "issues": [
@@ -457,148 +457,99 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 1,
-      "change": 6
-    },
-    {
-      "id": "i8b4085e0",
-      "title": "아시안게임 축구 경기력에 실망",
-      "keywords": [
-        "아시안게임",
-        "축구"
-      ],
-      "source_count": 3,
-      "post_count": 3,
-      "score": 88.17,
-      "peak_score": 73.7,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 67,
-          "title": "아시안게임 축구 경기력에 실망",
-          "url": "https://www.clien.net/service/board/park/19273212?od=T31&po=0&category=0&groupCd=",
-          "score": 58.7
-        },
-        {
-          "source": "인벤",
-          "rank": 77,
-          "title": "일본에서 열린 아시안게임 축구 결승 일본 1:0 발라버린 대~한! 민! 국! 지화자",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2735919",
-          "score": 56.29
-        },
-        {
-          "source": "더쿠",
-          "rank": 82,
-          "title": "일본기자 개소리에 받아치는 한국 축구 아시안게임 감독",
-          "url": "https://theqoo.net/hot/4364330523",
-          "score": 55.58
-        }
-      ],
-      "first_seen": "2026-09-27T20:01:41.851026+09:00",
-      "last_seen": "2026-10-04T02:38:46.688956+09:00",
-      "latest_source_count": 3,
-      "latest_post_count": 3,
-      "rank": 2,
-      "change": 7
-    },
-    {
-      "id": "ifd5a2cc3",
-      "title": "‘한국에서’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "한국에서"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 75.33,
-      "peak_score": 65.86,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 76,
-          "title": "한국에서 타죽은 조선족 여자들",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467697&_dcbest=1&page=1",
-          "score": 56.86
-        },
-        {
-          "source": "더쿠",
-          "rank": 85,
-          "title": "한국에서 초대박이 난 마운자로",
-          "url": "https://theqoo.net/hot/4364280284",
-          "score": 54.95
-        }
-      ],
-      "first_seen": "2026-09-30T17:58:06.192419+09:00",
-      "last_seen": "2026-10-04T02:38:46.688956+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 3,
-      "change": 15
-    }
-  ],
-  "realtime_issues": [
-    {
-      "id": "i8b4085e0",
-      "title": "아시안게임 축구 경기력에 실망",
-      "keywords": [
-        "아시안게임",
-        "축구"
-      ],
-      "source_count": 3,
-      "post_count": 3,
-      "score": 73.7,
-      "peak_score": 73.7,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 67,
-          "title": "아시안게임 축구 경기력에 실망",
-          "url": "https://www.clien.net/service/board/park/19273212?od=T31&po=0&category=0&groupCd=",
-          "score": 58.7
-        },
-        {
-          "source": "인벤",
-          "rank": 77,
-          "title": "일본에서 열린 아시안게임 축구 결승 일본 1:0 발라버린 대~한! 민! 국! 지화자",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2735919",
-          "score": 56.29
-        },
-        {
-          "source": "더쿠",
-          "rank": 82,
-          "title": "일본기자 개소리에 받아치는 한국 축구 아시안게임 감독",
-          "url": "https://theqoo.net/hot/4364330523",
-          "score": 55.58
-        }
-      ],
-      "rank": 1,
       "change": 0
     },
     {
-      "id": "i039fd79c",
-      "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i8b4085e0",
+      "title": "아시안게임 축구 경기력에 실망",
       "keywords": [
-        "이재명"
+        "축구",
+        "아시안게임"
+      ],
+      "source_count": 3,
+      "post_count": 3,
+      "score": 90.19,
+      "peak_score": 73.7,
+      "appearances": 2,
+      "sources": [
+        "더쿠",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 74,
+          "title": "아시안게임 축구 경기력에 실망",
+          "url": "https://www.clien.net/service/board/park/19273212?od=T31&po=0&category=0&groupCd=",
+          "score": 56.56
+        },
+        {
+          "source": "더쿠",
+          "rank": 89,
+          "title": "일본기자 개소리에 받아치는 한국 축구 아시안게임 감독",
+          "url": "https://theqoo.net/hot/4364330523",
+          "score": 53.42
+        }
+      ],
+      "first_seen": "2026-09-27T20:01:41.851026+09:00",
+      "last_seen": "2026-10-04T03:06:46.347880+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 2,
+      "change": 0
+    },
+    {
+      "id": "i707041a3",
+      "title": "‘금메달’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "금메달"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 85.88,
-      "peak_score": 85.88,
+      "score": 87.42,
+      "peak_score": 77.95,
+      "appearances": 1,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 17,
+          "title": "축구 금메달 딴 나라 국기 안올리는 일본",
+          "url": "https://www.clien.net/service/board/park/19273228?od=T31&po=0&category=0&groupCd=",
+          "score": 68.95
+        },
+        {
+          "source": "인벤",
+          "rank": 85,
+          "title": "“우린 21센데 韓은 23세 이하”라는 日, 어쩌라고? 한국 축구대표팀, 日 꺾고 4회 연속 금메달",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2735958",
+          "score": 54.47
+        }
+      ],
+      "first_seen": "2026-09-27T20:01:41.851026+09:00",
+      "last_seen": "2026-10-04T03:06:46.347880+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 3,
+      "change": "NEW"
+    },
+    {
+      "id": "i268dadd0",
+      "title": "아시안 게임 축구 시상식에서 태극기 게양 실수(?) 해프닝",
+      "keywords": [
+        "축구",
+        "게양",
+        "태극기",
+        "시상식"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 82.44,
+      "peak_score": 71.97,
       "appearances": 1,
       "sources": [
         "인벤",
@@ -607,20 +558,69 @@
       "posts": [
         {
           "source": "인벤",
-          "rank": 9,
-          "title": "이재명 대통령님과 문재인 전 대통령",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2735934",
-          "score": 76.88
+          "rank": 44,
+          "title": "아시안 게임 축구 시상식에서 태극기 게양 실수(?) 해프닝",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2735951",
+          "score": 62.97
         },
         {
           "source": "클리앙",
-          "rank": 34,
-          "title": "근데 2030세대가 이재명 정부 지지율이",
-          "url": "https://www.clien.net/service/board/park/19273239?od=T31&po=0&category=0&groupCd=",
-          "score": 65.52
+          "rank": 60,
+          "title": "축구 시상식 태극기 게양 논란",
+          "url": "https://www.clien.net/service/board/park/19273242?od=T31&po=0&category=0&groupCd=",
+          "score": 59.93
+        },
+        {
+          "source": "인벤",
+          "rank": 82,
+          "title": "AG 남자 축구 시상식 대참사 국기 게양이 안됩니다. 애국가 끝나고 야유",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2735954",
+          "score": 54.85
         }
       ],
-      "rank": 2,
+      "first_seen": "2026-09-28T09:44:07.013724+09:00",
+      "last_seen": "2026-10-04T03:06:46.347880+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 3,
+      "rank": 4,
+      "change": "NEW"
+    },
+    {
+      "id": "ieb0313ac",
+      "title": "‘끝나고’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "끝나고"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 79.92,
+      "peak_score": 70.45,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 51,
+          "title": "현직 경찰인데 재판 끝나고 집 가는 중이다..",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76900068?m=humor_only&t=now",
+          "score": 61.45
+        },
+        {
+          "source": "인벤",
+          "rank": 82,
+          "title": "AG 남자 축구 시상식 대참사 국기 게양이 안됩니다. 애국가 끝나고 야유",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2735954",
+          "score": 54.85
+        }
+      ],
+      "first_seen": "2026-10-04T03:06:46.347880+09:00",
+      "last_seen": "2026-10-04T03:06:46.347880+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 5,
       "change": "NEW"
     },
     {
@@ -631,8 +631,160 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 65.86,
+      "score": 77.35,
       "peak_score": 65.86,
+      "appearances": 2,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 73,
+          "title": "한국에서 타죽은 조선족 여자들",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467697&_dcbest=1&page=1",
+          "score": 56.59
+        },
+        {
+          "source": "더쿠",
+          "rank": 98,
+          "title": "한국에서 초대박이 난 마운자로",
+          "url": "https://theqoo.net/hot/4364280284",
+          "score": 51.79
+        }
+      ],
+      "first_seen": "2026-09-30T17:58:06.192419+09:00",
+      "last_seen": "2026-10-04T03:06:46.347880+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 6,
+      "change": -3
+    }
+  ],
+  "realtime_issues": [
+    {
+      "id": "i268dadd0",
+      "title": "아시안 게임 축구 시상식에서 태극기 게양 실수(?) 해프닝",
+      "keywords": [
+        "축구",
+        "게양",
+        "태극기",
+        "시상식"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 71.97,
+      "peak_score": 71.97,
+      "appearances": 1,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 44,
+          "title": "아시안 게임 축구 시상식에서 태극기 게양 실수(?) 해프닝",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2735951",
+          "score": 62.97
+        },
+        {
+          "source": "클리앙",
+          "rank": 60,
+          "title": "축구 시상식 태극기 게양 논란",
+          "url": "https://www.clien.net/service/board/park/19273242?od=T31&po=0&category=0&groupCd=",
+          "score": 59.93
+        },
+        {
+          "source": "인벤",
+          "rank": 82,
+          "title": "AG 남자 축구 시상식 대참사 국기 게양이 안됩니다. 애국가 끝나고 야유",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2735954",
+          "score": 54.85
+        }
+      ],
+      "rank": 1,
+      "change": "NEW"
+    },
+    {
+      "id": "i707041a3",
+      "title": "‘금메달’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "금메달"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 77.95,
+      "peak_score": 77.95,
+      "appearances": 1,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 17,
+          "title": "축구 금메달 딴 나라 국기 안올리는 일본",
+          "url": "https://www.clien.net/service/board/park/19273228?od=T31&po=0&category=0&groupCd=",
+          "score": 68.95
+        },
+        {
+          "source": "인벤",
+          "rank": 85,
+          "title": "“우린 21센데 韓은 23세 이하”라는 日, 어쩌라고? 한국 축구대표팀, 日 꺾고 4회 연속 금메달",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2735958",
+          "score": 54.47
+        }
+      ],
+      "rank": 2,
+      "change": "NEW"
+    },
+    {
+      "id": "ieb0313ac",
+      "title": "‘끝나고’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "끝나고"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 70.45,
+      "peak_score": 70.45,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 51,
+          "title": "현직 경찰인데 재판 끝나고 집 가는 중이다..",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76900068?m=humor_only&t=now",
+          "score": 61.45
+        },
+        {
+          "source": "인벤",
+          "rank": 82,
+          "title": "AG 남자 축구 시상식 대참사 국기 게양이 안됩니다. 애국가 끝나고 야유",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2735954",
+          "score": 54.85
+        }
+      ],
+      "rank": 3,
+      "change": "NEW"
+    },
+    {
+      "id": "ifd5a2cc3",
+      "title": "‘한국에서’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "한국에서"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 65.59,
+      "peak_score": 65.59,
       "appearances": 1,
       "sources": [
         "더쿠",
@@ -641,44 +793,95 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 76,
+          "rank": 73,
           "title": "한국에서 타죽은 조선족 여자들",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467697&_dcbest=1&page=1",
-          "score": 56.86
+          "score": 56.59
         },
         {
           "source": "더쿠",
-          "rank": 85,
+          "rank": 98,
           "title": "한국에서 초대박이 난 마운자로",
           "url": "https://theqoo.net/hot/4364280284",
-          "score": 54.95
+          "score": 51.79
         }
       ],
-      "rank": 3,
-      "change": 0
+      "rank": 4,
+      "change": -1
+    },
+    {
+      "id": "i8b4085e0",
+      "title": "아시안게임 축구 경기력에 실망",
+      "keywords": [
+        "축구",
+        "아시안게임"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 64.56,
+      "peak_score": 64.56,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 74,
+          "title": "아시안게임 축구 경기력에 실망",
+          "url": "https://www.clien.net/service/board/park/19273212?od=T31&po=0&category=0&groupCd=",
+          "score": 56.56
+        },
+        {
+          "source": "더쿠",
+          "rank": 89,
+          "title": "일본기자 개소리에 받아치는 한국 축구 아시안게임 감독",
+          "url": "https://theqoo.net/hot/4364330523",
+          "score": 53.42
+        }
+      ],
+      "rank": 5,
+      "change": -4
     }
   ],
   "keywords": [
     {
-      "keyword": "영화",
-      "score": 156.28,
-      "post_count": 4,
+      "keyword": "한국",
+      "score": 187.84,
+      "post_count": 10,
       "source_count": 4,
       "best_rank": 5,
       "sources": [
+        "더쿠",
         "디시인사이드",
-        "뽐뿌",
-        "인벤",
-        "클리앙"
+        "루리웹",
+        "인벤"
       ],
       "aliases": [],
       "rank": 1,
-      "change": 3
+      "change": 4
+    },
+    {
+      "keyword": "일본",
+      "score": 166.66,
+      "post_count": 5,
+      "source_count": 4,
+      "best_rank": 1,
+      "sources": [
+        "디시인사이드",
+        "루리웹",
+        "뽐뿌",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 2,
+      "change": 1
     },
     {
       "keyword": "축구",
-      "score": 151.7,
-      "post_count": 5,
+      "score": 165.33,
+      "post_count": 7,
       "source_count": 4,
       "best_rank": 17,
       "sources": [
@@ -688,99 +891,115 @@
         "클리앙"
       ],
       "aliases": [],
-      "rank": 2,
+      "rank": 3,
       "change": -1
     },
     {
-      "keyword": "일본",
-      "score": 150.59,
+      "keyword": "중국",
+      "score": 125.83,
       "post_count": 4,
-      "source_count": 4,
-      "best_rank": 12,
+      "source_count": 3,
+      "best_rank": 21,
       "sources": [
         "디시인사이드",
-        "뽐뿌",
-        "인벤",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 3,
-      "change": 0
-    },
-    {
-      "keyword": "아시안게임",
-      "score": 121.93,
-      "post_count": 5,
-      "source_count": 3,
-      "best_rank": 67,
-      "sources": [
-        "더쿠",
         "인벤",
         "클리앙"
       ],
       "aliases": [],
       "rank": 4,
-      "change": 1
-    },
-    {
-      "keyword": "한국",
-      "score": 116.56,
-      "post_count": 6,
-      "source_count": 2,
-      "best_rank": 4,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "aliases": [],
-      "rank": 5,
-      "change": -3
-    },
-    {
-      "keyword": "무료",
-      "score": 103.12,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 7,
-      "sources": [
-        "루리웹",
-        "뽐뿌"
-      ],
-      "aliases": [],
-      "rank": 6,
       "change": "NEW"
     },
     {
-      "keyword": "이재명",
-      "score": 100.87,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 9,
+      "keyword": "영화",
+      "score": 125.31,
+      "post_count": 3,
+      "source_count": 3,
+      "best_rank": 14,
       "sources": [
+        "디시인사이드",
+        "뽐뿌",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 5,
+      "change": -4
+    },
+    {
+      "keyword": "아시안게임",
+      "score": 106.03,
+      "post_count": 3,
+      "source_count": 3,
+      "best_rank": 74,
+      "sources": [
+        "더쿠",
         "인벤",
         "클리앙"
+      ],
+      "aliases": [],
+      "rank": 6,
+      "change": -2
+    },
+    {
+      "keyword": "오브",
+      "score": 92.03,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 13,
+      "sources": [
+        "루리웹",
+        "인벤"
       ],
       "aliases": [],
       "rank": 7,
       "change": "NEW"
     },
     {
-      "keyword": "군대",
+      "keyword": "시상식",
       "score": 90.95,
+      "post_count": 3,
+      "source_count": 2,
+      "best_rank": 44,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "aliases": [
+        "게양"
+      ],
+      "rank": 8,
+      "change": "NEW"
+    },
+    {
+      "keyword": "사이",
+      "score": 90.19,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 29,
+      "best_rank": 18,
       "sources": [
         "디시인사이드",
         "인벤"
       ],
       "aliases": [],
-      "rank": 8,
-      "change": 0
+      "rank": 9,
+      "change": "NEW"
+    },
+    {
+      "keyword": "국기",
+      "score": 88.74,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 17,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 10,
+      "change": "NEW"
     },
     {
       "keyword": "나라",
-      "score": 88.48,
+      "score": 88.61,
       "post_count": 2,
       "source_count": 2,
       "best_rank": 17,
@@ -789,86 +1008,114 @@
         "클리앙"
       ],
       "aliases": [],
-      "rank": 9,
+      "rank": 11,
+      "change": -2
+    },
+    {
+      "keyword": "금메달",
+      "score": 88.33,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 17,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 12,
       "change": "NEW"
     },
     {
-      "keyword": "우리",
-      "score": 88.31,
+      "keyword": "태극기",
+      "score": 86.97,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 40,
+      "best_rank": 44,
       "sources": [
-        "디시인사이드",
-        "인벤"
+        "인벤",
+        "클리앙"
       ],
       "aliases": [],
-      "rank": 10,
-      "change": -3
+      "rank": 13,
+      "change": "NEW"
     },
     {
       "keyword": "여자들",
-      "score": 83.43,
+      "score": 83.71,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 53,
+      "best_rank": 52,
       "sources": [
         "더쿠",
         "디시인사이드"
       ],
       "aliases": [],
-      "rank": 11,
+      "rank": 14,
+      "change": -3
+    },
+    {
+      "keyword": "않은",
+      "score": 83.6,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 59,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 15,
       "change": "NEW"
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "GPT) 기술적 특이점 안 올 것 같은데?",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76896330?m=humor",
-      "score": 93.84,
-      "views": 14784,
-      "comments": 68
-    },
-    {
-      "source": "더쿠",
-      "title": "아까 골 넣은 한국 선수 원숭이 포즈 하더라 이런 국제 경기에서 그런 짓거리 하는 거...민도 너무 낮지 않냐?",
-      "url": "https://theqoo.net/hot/4364375015",
-      "score": 79.37,
-      "views": 48297,
-      "comments": 513
-    },
-    {
-      "source": "인벤",
-      "title": "국민의힘이 빨갱이영화라고 했던 영화",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2735933",
-      "score": 79.33,
-      "views": 1039,
-      "comments": 5
+      "title": "현재 비상터졌다는 일본 오사카 근황.twit",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76897498?m=humor",
+      "score": 98.94,
+      "views": 26803,
+      "comments": 76
     },
     {
       "source": "디시인사이드",
       "title": "시간이 지날수록 재평가되는 빌런",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467739&_dcbest=1&page=1",
-      "score": 79.25,
-      "views": 18191,
-      "comments": 119
+      "score": 79.66,
+      "views": 18895,
+      "comments": 124
     },
     {
-      "source": "뽐뿌",
-      "title": "몇억의 책재고, 매달 빠져나가는 창고비.. 결국 '파쇄'",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=soho&no=29333",
-      "score": 78.14,
-      "views": 19034,
-      "comments": 58
+      "source": "더쿠",
+      "title": "아까 골 넣은 한국 선수 원숭이 포즈 하더라 이런 국제 경기에서 그런 짓거리 하는 거...민도 너무 낮지 않냐?",
+      "url": "https://theqoo.net/hot/4364375015",
+      "score": 77.21,
+      "views": 49347,
+      "comments": 524
     },
     {
       "source": "클리앙",
       "title": "일본대형 AV레이블들도 토렌트 저작권 고소하기 시작했습니다.",
       "url": "https://www.clien.net/service/board/park/19273235?od=T31&po=0&category=0&groupCd=",
-      "score": 76.35,
-      "views": 2080,
+      "score": 77.19,
+      "views": 2511,
       "comments": 8
+    },
+    {
+      "source": "뽐뿌",
+      "title": "몇억의 책재고, 매달 빠져나가는 창고비.. 결국 '파쇄'",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=soho&no=29333",
+      "score": 75.31,
+      "views": 19526,
+      "comments": 59
+    },
+    {
+      "source": "인벤",
+      "title": "시스루 전소미",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2735970",
+      "score": 74.44,
+      "views": 1617,
+      "comments": 2
     }
   ]
 }
