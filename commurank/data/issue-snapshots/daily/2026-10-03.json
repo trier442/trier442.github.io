@@ -3,7 +3,7 @@
   "period": "daily",
   "key": "2026-10-03",
   "label": "2026년 10월 03일",
-  "collected_at": "2026-10-03T11:22:51.315192+09:00",
+  "collected_at": "2026-10-03T12:47:13.694231+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -54,7 +54,92 @@
       "latest_source_count": 3,
       "latest_post_count": 3,
       "rank": 1,
-      "change": 6
+      "change": 0
+    },
+    {
+      "id": "i7f717bd5",
+      "title": "‘부캉이’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "부캉이"
+      ],
+      "source_count": 3,
+      "post_count": 5,
+      "score": 129.31,
+      "peak_score": 112.84,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 3,
+          "title": "부산 상어, 부캉이 방류 유도 중단",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76890284?m=humor",
+          "score": 93.84
+        },
+        {
+          "source": "더쿠",
+          "rank": 32,
+          "title": "그물 맴돌던 '부캉이', 그물 뚫고 북항친수공원 쪽으로 이동",
+          "url": "https://theqoo.net/hot/4363789207",
+          "score": 68.0
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 50,
+          "title": "상어 부캉이 구조작업 또 실패…바다 앞서 멈췄다",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467571&_dcbest=1&page=1",
+          "score": 62.5
+        }
+      ],
+      "first_seen": "2026-10-03T12:47:13.694231+09:00",
+      "last_seen": "2026-10-03T12:47:13.694231+09:00",
+      "latest_source_count": 3,
+      "latest_post_count": 5,
+      "rank": 2,
+      "change": "NEW"
+    },
+    {
+      "id": "i46d45bb2",
+      "title": "부산 상어, 부캉이 방류 유도 중단",
+      "keywords": [
+        "상어",
+        "부산"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 111.31,
+      "peak_score": 101.84,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 3,
+          "title": "부산 상어, 부캉이 방류 유도 중단",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76890284?m=humor",
+          "score": 93.84
+        },
+        {
+          "source": "인벤",
+          "rank": 14,
+          "title": "부산 상어 근황",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2735712",
+          "score": 74.02
+        }
+      ],
+      "first_seen": "2026-09-30T19:29:43.128023+09:00",
+      "last_seen": "2026-10-03T12:47:13.694231+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 3,
+      "change": "NEW"
     },
     {
       "id": "i106465f0",
@@ -99,8 +184,8 @@
       "last_seen": "2026-10-03T04:55:10.124887+09:00",
       "latest_source_count": 3,
       "latest_post_count": 3,
-      "rank": 2,
-      "change": -1
+      "rank": 4,
+      "change": -2
     },
     {
       "id": "i78f6419e",
@@ -138,8 +223,8 @@
       "last_seen": "2026-10-03T11:22:51.315192+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 3,
-      "change": -1
+      "rank": 5,
+      "change": -2
     },
     {
       "id": "i879d3e36",
@@ -177,8 +262,47 @@
       "last_seen": "2026-10-03T08:43:07.357089+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 4,
-      "change": -1
+      "rank": 6,
+      "change": -2
+    },
+    {
+      "id": "ib38c3213",
+      "title": "‘암살자’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "암살자",
+        "메가박스"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 96.57,
+      "peak_score": 87.1,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 10,
+          "title": "박정희·육영수·태극기에 총탄 3발?…암살자(들) 메가박스 특전 오리지널",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467589&_dcbest=1&page=1",
+          "score": 78.1
+        },
+        {
+          "source": "더쿠",
+          "rank": 76,
+          "title": "주진우 \"'암살자(들)' 메가박스 패륜굿즈 전량 폐기·사과하라, 안 하면 불매운동·홍정인 국감 출석\"",
+          "url": "https://theqoo.net/hot/4363708568",
+          "score": 56.21
+        }
+      ],
+      "first_seen": "2026-10-03T12:47:13.694231+09:00",
+      "last_seen": "2026-10-03T12:47:13.694231+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 7,
+      "change": "NEW"
     },
     {
       "id": "i7b918478",
@@ -216,8 +340,8 @@
       "last_seen": "2026-10-03T08:43:07.357089+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
-      "change": -1
+      "rank": 8,
+      "change": -3
     },
     {
       "id": "ia4c9a0a3",
@@ -254,8 +378,46 @@
       "last_seen": "2026-10-03T04:55:10.124887+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
-      "change": -1
+      "rank": 9,
+      "change": -3
+    },
+    {
+      "id": "i039fd79c",
+      "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "이재명"
+      ],
+      "source_count": 2,
+      "post_count": 4,
+      "score": 92.06,
+      "peak_score": 80.59,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 27,
+          "title": "[이재명 대통령 지지율 하락] 슬프고 화남 - 즐겁고 행복함 / 어느 쪽이 정상일까요?",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2735709",
+          "score": 69.59
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 39,
+          "title": "김여정, 이재명 기념사에 “자작 광대극” 조롱",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467585&_dcbest=1&page=1",
+          "score": 65.37
+        }
+      ],
+      "first_seen": "2026-09-27T13:38:37.715424+09:00",
+      "last_seen": "2026-10-03T12:47:13.694231+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 4,
+      "rank": 10,
+      "change": "NEW"
     },
     {
       "id": "i4ddd6a96",
@@ -292,8 +454,122 @@
       "last_seen": "2026-10-03T04:55:10.124887+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": -1
+      "rank": 11,
+      "change": -4
+    },
+    {
+      "id": "idf55914c",
+      "title": "‘아버지’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "아버지"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 91.38,
+      "peak_score": 81.91,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 16,
+          "title": "'담배 꺼주세요' 했더니…아이 안은 아버지 추격·폭행한 남성",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2735699",
+          "score": 72.91
+        },
+        {
+          "source": "더쿠",
+          "rank": 43,
+          "title": "박지만 “가슴 들썩이도록 울던 아버지, 그날 처음 봤다”",
+          "url": "https://theqoo.net/hot/4363709501",
+          "score": 64.37
+        }
+      ],
+      "first_seen": "2026-10-03T12:47:13.694231+09:00",
+      "last_seen": "2026-10-03T12:47:13.694231+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 12,
+      "change": "NEW"
+    },
+    {
+      "id": "i533b29bd",
+      "title": "‘말하는’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "말하는"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 88.5,
+      "peak_score": 79.03,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 23,
+          "title": "정신과 의사가 말하는 피해야 할 배우자 구별하는 법",
+          "url": "https://theqoo.net/hot/4363728891",
+          "score": 70.03
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 94,
+          "title": "이재명이 말하는.. 북한이 나쁜 이유 ..jpg",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467543&_dcbest=1&page=1",
+          "score": 53.32
+        }
+      ],
+      "first_seen": "2026-09-30T00:45:42.350300+09:00",
+      "last_seen": "2026-10-03T12:47:13.694231+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 13,
+      "change": "NEW"
+    },
+    {
+      "id": "i054228c4",
+      "title": "‘무선헤드폰’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "무선헤드폰"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 88.24,
+      "peak_score": 78.77,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 25,
+          "title": "무선헤드폰 2개",
+          "url": "https://www.clien.net/service/board/park/19272998?od=T31&po=0&category=0&groupCd=",
+          "score": 69.77
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 67,
+          "title": "베이스어스 보스사운드 XC1 보스사운드 오픈형 ($57) XH1 무선헤드폰 ($68) XP1 무선이어버드 ($70)",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu8&no=100767",
+          "score": 57.99
+        }
+      ],
+      "first_seen": "2026-10-03T12:47:13.694231+09:00",
+      "last_seen": "2026-10-03T12:47:13.694231+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 14,
+      "change": "NEW"
     },
     {
       "id": "ib46b908f",
@@ -330,7 +606,46 @@
       "last_seen": "2026-10-03T11:22:51.315192+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 8,
+      "rank": 15,
+      "change": -7
+    },
+    {
+      "id": "ia9e1f70b",
+      "title": "그물 맴돌던 '부캉이', 그물 뚫고 북항친수공원 쪽으로 이동",
+      "keywords": [
+        "부캉이",
+        "그물"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 85.47,
+      "peak_score": 76.0,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 32,
+          "title": "그물 맴돌던 '부캉이', 그물 뚫고 북항친수공원 쪽으로 이동",
+          "url": "https://theqoo.net/hot/4363789207",
+          "score": 68.0
+        },
+        {
+          "source": "루리웹",
+          "rank": 74,
+          "title": "그물 넘은 부캉이 근황.jpg",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76891260?m=humor_only&t=now",
+          "score": 56.92
+        }
+      ],
+      "first_seen": "2026-10-03T12:47:13.694231+09:00",
+      "last_seen": "2026-10-03T12:47:13.694231+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 16,
       "change": "NEW"
     },
     {
@@ -368,8 +683,8 @@
       "last_seen": "2026-10-03T00:05:02.277306+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 9,
-      "change": -1
+      "rank": 17,
+      "change": -8
     },
     {
       "id": "i6fb7ee77",
@@ -406,8 +721,8 @@
       "last_seen": "2026-10-03T11:22:51.315192+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 10,
-      "change": "NEW"
+      "rank": 18,
+      "change": -8
     },
     {
       "id": "icb33dad5",
@@ -444,8 +759,8 @@
       "last_seen": "2026-10-03T08:43:07.357089+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 11,
-      "change": -2
+      "rank": 19,
+      "change": -8
     },
     {
       "id": "i47cfdc73",
@@ -482,84 +797,8 @@
       "last_seen": "2026-10-03T08:43:07.357089+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 12,
-      "change": -2
-    },
-    {
-      "id": "i8b4085e0",
-      "title": "‘아시안게임’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "아시안게임"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 78.48,
-      "peak_score": 69.01,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 49,
-          "title": "아시안게임 어제의 메달리스트들",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2735591",
-          "score": 60.01
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 91,
-          "title": "아시안게임 버추얼 태권도, 장비 오류로 경기 줄줄이 중단",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467503&_dcbest=1&page=1",
-          "score": 53.71
-        }
-      ],
-      "first_seen": "2026-09-27T20:01:41.851026+09:00",
-      "last_seen": "2026-10-03T04:55:10.124887+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 13,
-      "change": -2
-    },
-    {
-      "id": "i50b33b63",
-      "title": "‘고양이’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "고양이"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 77.26,
-      "peak_score": 67.79,
-      "appearances": 1,
-      "sources": [
-        "루리웹",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 68,
-          "title": "삐약 삐약 아기 고양이",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2735617",
-          "score": 58.79
-        },
-        {
-          "source": "루리웹",
-          "rank": 90,
-          "title": "엄마의 고양이 덕질 기록.twt",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/76889383?m=humor_only&t=now",
-          "score": 53.06
-        }
-      ],
-      "first_seen": "2026-10-03T08:43:07.357089+09:00",
-      "last_seen": "2026-10-03T08:43:07.357089+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 14,
-      "change": -2
+      "rank": 20,
+      "change": -8
     }
   ]
 }
