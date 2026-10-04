@@ -2,7 +2,7 @@
   "version": 1,
   "date": "2026-10-05",
   "label": "2026년 10월 05일",
-  "collected_at": "2026-10-05T03:20:14.855966+09:00",
+  "collected_at": "2026-10-05T03:47:41.149271+09:00",
   "timezone": "Asia/Seoul",
   "overview": "오늘 가장 두드러진 이슈는 ‘‘암살자들’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #암살자들. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
@@ -12,9 +12,9 @@
     "realtime_posts": 100,
     "daily_posts": 100,
     "daily_issues": 7,
-    "keywords": 16,
-    "top100_views": 845891,
-    "top100_comments": 7817
+    "keywords": 14,
+    "top100_views": 835784,
+    "top100_comments": 7976
   },
   "highlights": [
     {
@@ -25,9 +25,9 @@
     },
     {
       "type": "post",
-      "title": "요즘 엠지들은 점심시간 1시간이 권리인 줄 앎",
+      "title": "시골 살 때 ㄹㅇ 무시 못할 장점",
       "text": "루리웹에서 현재 상위권에 오른 인기글입니다.",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76907642?m=humor"
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76909273?m=humor"
     },
     {
       "type": "keyword",
@@ -37,6 +37,24 @@
     }
   ],
   "top_posts": [
+    {
+      "title": "시골 살 때 ㄹㅇ 무시 못할 장점",
+      "source": "루리웹",
+      "category": "스포츠",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76909273?m=humor",
+      "first_seen": "2026-10-05T03:47:41.149271+09:00",
+      "last_seen": "2026-10-05T03:47:41.149271+09:00",
+      "peak_score": 98.12,
+      "max_views": 24254,
+      "max_likes": 114,
+      "max_comments": 76,
+      "appearances": 1,
+      "score": 107.51,
+      "views": 24254,
+      "likes": 114,
+      "comments": 76,
+      "change": "NEW"
+    },
     {
       "title": "요즘 엠지들은 점심시간 1시간이 권리인 줄 앎",
       "source": "루리웹",
@@ -49,10 +67,28 @@
       "max_likes": 226,
       "max_comments": 106,
       "appearances": 2,
-      "score": 106.57,
+      "score": 106.53,
       "views": 25500,
       "likes": 226,
       "comments": 106,
+      "change": -1
+    },
+    {
+      "title": "내일 대체공휴일이라 휴일인데 일하는사람있냐?ㅋㅋㅋㅋ",
+      "source": "루리웹",
+      "category": "유머",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76909394?m=humor",
+      "first_seen": "2026-10-04T23:28:24.247654+09:00",
+      "last_seen": "2026-10-05T03:47:41.149271+09:00",
+      "peak_score": 95.17,
+      "max_views": 11285,
+      "max_likes": 51,
+      "max_comments": 95,
+      "appearances": 4,
+      "score": 106.39,
+      "views": 11285,
+      "likes": 51,
+      "comments": 95,
       "change": 0
     },
     {
@@ -67,29 +103,11 @@
       "max_likes": 260,
       "max_comments": 158,
       "appearances": 1,
-      "score": 106.41,
+      "score": 106.37,
       "views": 44307,
       "likes": 260,
       "comments": 158,
-      "change": "NEW"
-    },
-    {
-      "title": "내일 대체공휴일이라 휴일인데 일하는사람있냐?ㅋㅋㅋㅋ",
-      "source": "루리웹",
-      "category": "유머",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76909394?m=humor",
-      "first_seen": "2026-10-04T23:28:24.247654+09:00",
-      "last_seen": "2026-10-05T03:20:14.855966+09:00",
-      "peak_score": 95.17,
-      "max_views": 11285,
-      "max_likes": 51,
-      "max_comments": 95,
-      "appearances": 3,
-      "score": 105.94,
-      "views": 11285,
-      "likes": 51,
-      "comments": 95,
-      "change": -1
+      "change": -2
     },
     {
       "title": "채용시장 근황",
@@ -103,11 +121,29 @@
       "max_likes": 141,
       "max_comments": 120,
       "appearances": 2,
-      "score": 105.05,
+      "score": 105.01,
       "views": 44173,
       "likes": 141,
       "comments": 120,
       "change": -1
+    },
+    {
+      "title": "은둔 청년에게 \"알바라도 해봐\"",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76909732?m=humor",
+      "first_seen": "2026-10-05T03:47:41.149271+09:00",
+      "last_seen": "2026-10-05T03:47:41.149271+09:00",
+      "peak_score": 95.09,
+      "max_views": 24187,
+      "max_likes": 213,
+      "max_comments": 141,
+      "appearances": 1,
+      "score": 104.48,
+      "views": 24187,
+      "likes": 213,
+      "comments": 141,
+      "change": "NEW"
     },
     {
       "title": "600조받기 vs 짜장면받기 당연히 전자가 이득아님???",
@@ -121,11 +157,11 @@
       "max_likes": 68,
       "max_comments": 61,
       "appearances": 1,
-      "score": 100.94,
+      "score": 100.9,
       "views": 10765,
       "likes": 68,
       "comments": 61,
-      "change": "NEW"
+      "change": -2
     },
     {
       "title": "한강에 외국인이 많아지며 생기는 일",
@@ -133,14 +169,14 @@
       "category": "이슈",
       "url": "https://www.inven.co.kr/board/webzine/2097/2736262",
       "first_seen": "2026-10-04T23:28:24.247654+09:00",
-      "last_seen": "2026-10-05T03:20:14.855966+09:00",
+      "last_seen": "2026-10-05T03:47:41.149271+09:00",
       "peak_score": 89.29,
-      "max_views": 6443,
+      "max_views": 6516,
       "max_likes": 1,
       "max_comments": 29,
-      "appearances": 3,
-      "score": 100.06,
-      "views": 6443,
+      "appearances": 4,
+      "score": 100.51,
+      "views": 6516,
       "likes": 1,
       "comments": 29,
       "change": -2
@@ -157,11 +193,11 @@
       "max_likes": 195,
       "max_comments": 19,
       "appearances": 1,
-      "score": 98.38,
+      "score": 98.34,
       "views": 50623,
       "likes": 195,
       "comments": 19,
-      "change": "NEW"
+      "change": -2
     },
     {
       "title": "싱글벙글 태극기 게양 실패 일본 현지 반응...jpg",
@@ -169,255 +205,219 @@
       "category": "이슈",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467875&_dcbest=1&page=1",
       "first_seen": "2026-10-04T17:51:24.799079+09:00",
-      "last_seen": "2026-10-05T03:20:14.855966+09:00",
+      "last_seen": "2026-10-05T03:47:41.149271+09:00",
       "peak_score": 86.32,
-      "max_views": 30228,
-      "max_likes": 200,
+      "max_views": 30367,
+      "max_likes": 201,
       "max_comments": 322,
-      "appearances": 5,
-      "score": 97.9,
-      "views": 30228,
-      "likes": 200,
+      "appearances": 6,
+      "score": 98.21,
+      "views": 30367,
+      "likes": 201,
       "comments": 322,
       "change": -2
-    },
-    {
-      "title": "와들와들 미국쌀 개방하면 진짜 ㅈ되는 이유",
-      "source": "디시인사이드",
-      "category": "이슈",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467863&_dcbest=1&page=1",
-      "first_seen": "2026-10-04T17:51:24.799079+09:00",
-      "last_seen": "2026-10-05T00:30:26.011984+09:00",
-      "peak_score": 86.71,
-      "max_views": 45203,
-      "max_likes": 614,
-      "max_comments": 1125,
-      "appearances": 4,
-      "score": 97.69,
-      "views": 45203,
-      "likes": 614,
-      "comments": 1125,
-      "change": -4
-    },
-    {
-      "title": "속이 뻥~ 조선 취업시장 근황 ㅋㅋㅋㅋㅋ",
-      "source": "디시인사이드",
-      "category": "유머",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467937&_dcbest=1&page=1",
-      "first_seen": "2026-10-04T23:28:24.247654+09:00",
-      "last_seen": "2026-10-05T03:20:14.855966+09:00",
-      "peak_score": 84.91,
-      "max_views": 24671,
-      "max_likes": 148,
-      "max_comments": 641,
-      "appearances": 3,
-      "score": 95.68,
-      "views": 24671,
-      "likes": 148,
-      "comments": 641,
-      "change": -3
     }
   ],
   "rising": [
     {
-      "source": "루리웹",
-      "title": "내일 대체공휴일이라 휴일인데 일하는사람있냐?ㅋㅋㅋㅋ",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76909394?m=humor",
-      "category": "유머",
-      "views": 11285,
-      "likes": 51,
-      "comments": 95,
-      "score": 94.38,
-      "change": 1,
-      "current_rank": 2,
-      "new_entry": false,
-      "delta_views": 1402,
-      "delta_likes": 4,
-      "delta_comments": 4,
-      "rank_gain": 1,
-      "rising_score": 100.0,
-      "rising_rank": 1,
-      "window_minutes": 170
-    },
-    {
-      "source": "디시인사이드",
-      "title": "한밤중 외국인 10여명 집단 난투극…각목까지",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467963&_dcbest=1&page=1",
-      "category": "생활",
-      "views": 6773,
-      "likes": 33,
-      "comments": 85,
-      "score": 64.99,
-      "change": 23,
-      "current_rank": 34,
-      "new_entry": false,
-      "delta_views": 6744,
-      "delta_likes": 32,
-      "delta_comments": 84,
-      "rank_gain": 23,
-      "rising_score": 90.62,
-      "rising_rank": 2,
-      "window_minutes": 170
-    },
-    {
-      "source": "더쿠",
-      "title": "36년만에 군면제 폐지 가능성이 생긴 상황",
-      "url": "https://theqoo.net/hot/4365382129",
-      "category": "이슈",
-      "views": 49908,
-      "likes": 0,
-      "comments": 506,
-      "score": 69.05,
-      "change": 16,
-      "current_rank": 22,
-      "new_entry": false,
-      "delta_views": 33215,
-      "delta_likes": 0,
-      "delta_comments": 263,
-      "rank_gain": 16,
-      "rising_score": 89.17,
-      "rising_rank": 3,
-      "window_minutes": 170
-    },
-    {
-      "source": "디시인사이드",
-      "title": "싱글벙글 평생을 열등감에 살았던 사람",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467955&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 21266,
-      "likes": 132,
-      "comments": 157,
-      "score": 78.77,
-      "change": 0,
-      "current_rank": 7,
-      "new_entry": false,
-      "delta_views": 6451,
-      "delta_likes": 43,
-      "delta_comments": 50,
-      "rank_gain": 0,
-      "rising_score": 87.83,
-      "rising_rank": 4,
-      "window_minutes": 170
-    },
-    {
-      "source": "디시인사이드",
-      "title": "속이 뻥~ 조선 취업시장 근황 ㅋㅋㅋㅋㅋ",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467937&_dcbest=1&page=1",
-      "category": "유머",
-      "views": 24671,
-      "likes": 148,
-      "comments": 641,
-      "score": 73.94,
-      "change": 0,
-      "current_rank": 13,
-      "new_entry": false,
-      "delta_views": 6348,
-      "delta_likes": 35,
-      "delta_comments": 70,
-      "rank_gain": 0,
-      "rising_score": 86.72,
-      "rising_rank": 5,
-      "window_minutes": 170
-    },
-    {
-      "source": "루리웹",
-      "title": "1억에 산 집이 50억이 됐습니다.jgp",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76909414?m=humor",
-      "category": "생활",
-      "views": 44307,
-      "likes": 260,
-      "comments": 158,
-      "score": 97.02,
-      "change": "NEW",
-      "current_rank": 1,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 82.75,
-      "rising_rank": 6,
-      "window_minutes": 170
-    },
-    {
       "source": "인벤",
-      "title": "이서진 근황",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2736269",
-      "category": "연예",
-      "views": 4542,
-      "likes": 4,
-      "comments": 22,
-      "score": 51.95,
+      "title": "ㅇㅎ 아니 오늘 쉬는날이었네?",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2736280",
+      "category": "이슈",
+      "views": 3122,
+      "likes": 0,
+      "comments": 11,
+      "score": 56.29,
       "change": 0,
-      "current_rank": 89,
+      "current_rank": 70,
       "new_entry": false,
-      "delta_views": 2289,
-      "delta_likes": 0,
-      "delta_comments": 8,
-      "rank_gain": 0,
-      "rising_score": 81.41,
-      "rising_rank": 7,
-      "window_minutes": 170
-    },
-    {
-      "source": "루리웹",
-      "title": "600조받기 vs 짜장면받기 당연히 전자가 이득아님???",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76911081?m=humor",
-      "category": "이슈",
-      "views": 10765,
-      "likes": 68,
-      "comments": 61,
-      "score": 91.55,
-      "change": "NEW",
-      "current_rank": 3,
-      "new_entry": true,
-      "delta_views": 0,
+      "delta_views": 331,
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 80.45,
-      "rising_rank": 8,
-      "window_minutes": 170
+      "rising_score": 97.83,
+      "rising_rank": 1,
+      "window_minutes": 27
     },
     {
-      "source": "루리웹",
-      "title": "[네이버페이] 일일적립, 클릭 48원, 라이브예고 3원",
-      "url": "https://bbs.ruliweb.com/market/board/1020/read/107745",
+      "source": "디시인사이드",
+      "title": "비상금 4천8백 걸린 아내의 반응 및 여자 쉴드 댓글들",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467979&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 50623,
-      "likes": 195,
-      "comments": 19,
-      "score": 88.99,
-      "change": "NEW",
-      "current_rank": 4,
-      "new_entry": true,
-      "delta_views": 0,
+      "views": 6445,
+      "likes": 98,
+      "comments": 197,
+      "score": 83.54,
+      "change": 1,
+      "current_rank": 5,
+      "new_entry": false,
+      "delta_views": 1039,
+      "delta_likes": 17,
+      "delta_comments": 25,
+      "rank_gain": 1,
+      "rising_score": 92.39,
+      "rising_rank": 2,
+      "window_minutes": 27
+    },
+    {
+      "source": "뽐뿌",
+      "title": "20년전 리얼 액션 영화.gif",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10141998",
+      "category": "연예",
+      "views": 6101,
+      "likes": 2,
+      "comments": 33,
+      "score": 64.68,
+      "change": 4,
+      "current_rank": 37,
+      "new_entry": false,
+      "delta_views": 1041,
       "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 79.38,
-      "rising_rank": 9,
-      "window_minutes": 170
+      "delta_comments": 5,
+      "rank_gain": 4,
+      "rising_score": 92.0,
+      "rising_rank": 3,
+      "window_minutes": 27
     },
     {
       "source": "클리앙",
-      "title": "언주의 뉴박이 성공했네요",
-      "url": "https://www.clien.net/service/board/park/19273577?od=T31&po=0&category=0&groupCd=",
+      "title": "목동, 화곡 재개발 엄청 추진하는군요",
+      "url": "https://www.clien.net/service/board/park/19273593?od=T31&po=0&category=0&groupCd=",
       "category": "이슈",
-      "views": 2034,
-      "likes": 9,
-      "comments": 19,
-      "score": 69.59,
+      "views": 463,
+      "likes": 0,
+      "comments": 3,
+      "score": 62.67,
       "change": 0,
+      "current_rank": 48,
+      "new_entry": false,
+      "delta_views": 222,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 90.62,
+      "rising_rank": 4,
+      "window_minutes": 27
+    },
+    {
+      "source": "인벤",
+      "title": ".....왜 그렇게 날 빤히 쳐다봐??",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2736305",
+      "category": "유머",
+      "views": 680,
+      "likes": 0,
+      "comments": 4,
+      "score": 70.83,
+      "change": 14,
       "current_rank": 18,
       "new_entry": false,
-      "delta_views": 1696,
-      "delta_likes": 8,
-      "delta_comments": 8,
+      "delta_views": 324,
+      "delta_likes": 0,
+      "delta_comments": 2,
+      "rank_gain": 14,
+      "rising_score": 90.31,
+      "rising_rank": 5,
+      "window_minutes": 27
+    },
+    {
+      "source": "인벤",
+      "title": "후방코스 ㅡ 갸니 인스타",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2736281",
+      "category": "이슈",
+      "views": 2116,
+      "likes": 0,
+      "comments": 0,
+      "score": 58.54,
+      "change": 0,
+      "current_rank": 64,
+      "new_entry": false,
+      "delta_views": 224,
+      "delta_likes": 0,
+      "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 77.64,
+      "rising_score": 89.13,
+      "rising_rank": 6,
+      "window_minutes": 27
+    },
+    {
+      "source": "디시인사이드",
+      "title": "800살 은행나무 거짓으로 밝혀짐",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467973&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 7314,
+      "likes": 76,
+      "comments": 125,
+      "score": 77.2,
+      "change": 1,
+      "current_rank": 7,
+      "new_entry": false,
+      "delta_views": 803,
+      "delta_likes": 8,
+      "delta_comments": 7,
+      "rank_gain": 1,
+      "rising_score": 86.59,
+      "rising_rank": 7,
+      "window_minutes": 27
+    },
+    {
+      "source": "더쿠",
+      "title": "현재 비주얼 하나로 난리난 남돌 출신 연예인......................jpg",
+      "url": "https://theqoo.net/hot/4365437448",
+      "category": "연예",
+      "views": 16808,
+      "likes": 0,
+      "comments": 154,
+      "score": 68.0,
+      "change": 1,
+      "current_rank": 24,
+      "new_entry": false,
+      "delta_views": 2770,
+      "delta_likes": 0,
+      "delta_comments": 25,
+      "rank_gain": 1,
+      "rising_score": 86.3,
+      "rising_rank": 8,
+      "window_minutes": 27
+    },
+    {
+      "source": "클리앙",
+      "title": "서울 재개발 조합원 입성율 낮다고 하시는데 현실은 90% 이상입니다",
+      "url": "https://www.clien.net/service/board/park/19273594?od=T31&po=0&category=0&groupCd=",
+      "category": "이슈",
+      "views": 189,
+      "likes": 0,
+      "comments": 6,
+      "score": 69.56,
+      "change": 29,
+      "current_rank": 20,
+      "new_entry": false,
+      "delta_views": 187,
+      "delta_likes": 0,
+      "delta_comments": 6,
+      "rank_gain": 29,
+      "rising_score": 85.07,
+      "rising_rank": 9,
+      "window_minutes": 27
+    },
+    {
+      "source": "루리웹",
+      "title": "윈도우11 최신 근황.jpg",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76912092?m=humor_only&t=now",
+      "category": "이슈",
+      "views": 7818,
+      "likes": 67,
+      "comments": 26,
+      "score": 66.3,
+      "change": 0,
+      "current_rank": 30,
+      "new_entry": false,
+      "delta_views": 5171,
+      "delta_likes": 43,
+      "delta_comments": 10,
+      "rank_gain": 0,
+      "rising_score": 83.33,
       "rising_rank": 10,
-      "window_minutes": 170
+      "window_minutes": 27
     }
   ],
   "issues": [
@@ -429,9 +429,9 @@
       ],
       "source_count": 4,
       "post_count": 4,
-      "score": 121.64,
+      "score": 123.08,
       "peak_score": 100.15,
-      "appearances": 2,
+      "appearances": 3,
       "sources": [
         "디시인사이드",
         "뽐뿌",
@@ -441,35 +441,35 @@
       "posts": [
         {
           "source": "뽐뿌",
-          "rank": 36,
+          "rank": 38,
           "title": "암살자들 보고 왔습니다. (노스포)",
           "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10141963",
-          "score": 64.17
+          "score": 64.37
         },
         {
           "source": "클리앙",
-          "rank": 65,
+          "rank": 71,
           "title": "암살자들 보고 왔는데 재미있네요 소문(?)과는 다릅니다",
           "url": "https://www.clien.net/service/board/park/19273574?od=T31&po=0&category=0&groupCd=",
-          "score": 56.48
-        },
-        {
-          "source": "인벤",
-          "rank": 76,
-          "title": "암살자들 영화로 국민의힘이 선동하는중",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2736271",
-          "score": 54.26
+          "score": 56.23
         },
         {
           "source": "디시인사이드",
           "rank": 80,
           "title": "암살자들 매크로 주작 확인..네이버 수사 의뢰",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467919&_dcbest=1&page=1",
-          "score": 53.87
+          "score": 53.6
+        },
+        {
+          "source": "인벤",
+          "rank": 91,
+          "title": "암살자들 영화로 국민의힘이 선동하는중",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2736271",
+          "score": 51.15
         }
       ],
       "first_seen": "2026-09-27T18:16:30.778383+09:00",
-      "last_seen": "2026-10-05T03:20:14.855966+09:00",
+      "last_seen": "2026-10-05T03:47:41.149271+09:00",
       "latest_source_count": 4,
       "latest_post_count": 4,
       "rank": 1,
@@ -483,9 +483,9 @@
       ],
       "source_count": 2,
       "post_count": 3,
-      "score": 95.06,
-      "peak_score": 84.59,
-      "appearances": 1,
+      "score": 97.87,
+      "peak_score": 85.38,
+      "appearances": 2,
       "sources": [
         "뽐뿌",
         "클리앙"
@@ -493,25 +493,25 @@
       "posts": [
         {
           "source": "클리앙",
-          "rank": 12,
+          "rank": 11,
           "title": "🔴친일자산 철저환수 / 역시 이재명 대통령이시네요. ㅎㅎ",
           "url": "https://www.clien.net/service/board/park/19273589?od=T31&po=0&category=0&groupCd=",
-          "score": 74.59
+          "score": 75.38
         },
         {
           "source": "뽐뿌",
-          "rank": 21,
+          "rank": 23,
           "title": "최배근)교수 이재명 지지 철회",
           "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10141996",
-          "score": 69.24
+          "score": 68.58
         }
       ],
       "first_seen": "2026-09-27T13:38:37.715424+09:00",
-      "last_seen": "2026-10-05T03:20:14.855966+09:00",
+      "last_seen": "2026-10-05T03:47:41.149271+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 2,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "ifd24d317",
@@ -555,7 +555,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 3,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i5db928b2",
@@ -593,7 +593,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 4,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i78f6419e",
@@ -603,9 +603,9 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 84.96,
+      "score": 86.98,
       "peak_score": 75.49,
-      "appearances": 1,
+      "appearances": 2,
       "sources": [
         "디시인사이드",
         "인벤"
@@ -613,25 +613,25 @@
       "posts": [
         {
           "source": "인벤",
-          "rank": 29,
+          "rank": 39,
           "title": "(노스포)암살자(들) 보고 온 솔직 후기",
           "url": "https://www.inven.co.kr/board/webzine/2097/2736291",
-          "score": 66.49
+          "score": 64.25
         },
         {
           "source": "디시인사이드",
           "rank": 99,
           "title": "암살자(들)' 관람평 매크로 조작 정황 확인…네이버, 경찰에",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467925&_dcbest=1&page=1",
-          "score": 49.57
+          "score": 49.7
         }
       ],
       "first_seen": "2026-09-27T20:23:34.525151+09:00",
-      "last_seen": "2026-10-05T03:20:14.855966+09:00",
+      "last_seen": "2026-10-05T03:47:41.149271+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 5,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "ib3fd2c1d",
@@ -641,35 +641,35 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 84.96,
+      "score": 86.98,
       "peak_score": 75.49,
-      "appearances": 1,
+      "appearances": 2,
       "sources": [
         "뽐뿌",
         "인벤"
       ],
       "posts": [
         {
-          "source": "인벤",
-          "rank": 29,
-          "title": "(노스포)암살자(들) 보고 온 솔직 후기",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2736291",
-          "score": 66.49
-        },
-        {
           "source": "뽐뿌",
-          "rank": 36,
+          "rank": 38,
           "title": "암살자들 보고 왔습니다. (노스포)",
           "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10141963",
-          "score": 64.17
+          "score": 64.37
+        },
+        {
+          "source": "인벤",
+          "rank": 39,
+          "title": "(노스포)암살자(들) 보고 온 솔직 후기",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2736291",
+          "score": 64.25
         }
       ],
       "first_seen": "2026-10-05T03:20:14.855966+09:00",
-      "last_seen": "2026-10-05T03:20:14.855966+09:00",
+      "last_seen": "2026-10-05T03:47:41.149271+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 6,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "ia8451ee4",
@@ -707,7 +707,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 7,
-      "change": -4
+      "change": 0
     }
   ],
   "realtime_issues": [
@@ -719,8 +719,8 @@
       ],
       "source_count": 4,
       "post_count": 4,
-      "score": 89.17,
-      "peak_score": 89.17,
+      "score": 89.37,
+      "peak_score": 89.37,
       "appearances": 1,
       "sources": [
         "디시인사이드",
@@ -731,31 +731,31 @@
       "posts": [
         {
           "source": "뽐뿌",
-          "rank": 36,
+          "rank": 38,
           "title": "암살자들 보고 왔습니다. (노스포)",
           "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10141963",
-          "score": 64.17
+          "score": 64.37
         },
         {
           "source": "클리앙",
-          "rank": 65,
+          "rank": 71,
           "title": "암살자들 보고 왔는데 재미있네요 소문(?)과는 다릅니다",
           "url": "https://www.clien.net/service/board/park/19273574?od=T31&po=0&category=0&groupCd=",
-          "score": 56.48
-        },
-        {
-          "source": "인벤",
-          "rank": 76,
-          "title": "암살자들 영화로 국민의힘이 선동하는중",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2736271",
-          "score": 54.26
+          "score": 56.23
         },
         {
           "source": "디시인사이드",
           "rank": 80,
           "title": "암살자들 매크로 주작 확인..네이버 수사 의뢰",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467919&_dcbest=1&page=1",
-          "score": 53.87
+          "score": 53.6
+        },
+        {
+          "source": "인벤",
+          "rank": 91,
+          "title": "암살자들 영화로 국민의힘이 선동하는중",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2736271",
+          "score": 51.15
         }
       ],
       "rank": 1,
@@ -769,8 +769,8 @@
       ],
       "source_count": 2,
       "post_count": 3,
-      "score": 84.59,
-      "peak_score": 84.59,
+      "score": 85.38,
+      "peak_score": 85.38,
       "appearances": 1,
       "sources": [
         "뽐뿌",
@@ -779,55 +779,21 @@
       "posts": [
         {
           "source": "클리앙",
-          "rank": 12,
+          "rank": 11,
           "title": "🔴친일자산 철저환수 / 역시 이재명 대통령이시네요. ㅎㅎ",
           "url": "https://www.clien.net/service/board/park/19273589?od=T31&po=0&category=0&groupCd=",
-          "score": 74.59
+          "score": 75.38
         },
         {
           "source": "뽐뿌",
-          "rank": 21,
+          "rank": 23,
           "title": "최배근)교수 이재명 지지 철회",
           "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10141996",
-          "score": 69.24
+          "score": 68.58
         }
       ],
       "rank": 2,
-      "change": "NEW"
-    },
-    {
-      "id": "i5db928b2",
-      "title": "‘전세계’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "전세계"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 79.91,
-      "peak_score": 79.91,
-      "appearances": 1,
-      "sources": [
-        "루리웹",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 17,
-          "title": "[전세계] 영화 어벤져스 : 엔드게임 - 역대 흥행 1위 등극",
-          "url": "https://www.clien.net/service/board/park/19273583?od=T31&po=0&category=0&groupCd=",
-          "score": 70.91
-        },
-        {
-          "source": "루리웹",
-          "rank": 82,
-          "title": "전세계 승객수 1위 항공 노선 레전드 ㄷㄷㄷㄷ.jpg",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/76911993?m=humor_only&t=now",
-          "score": 53.37
-        }
-      ],
-      "rank": 3,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "ib3876eed",
@@ -837,8 +803,8 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 78.26,
-      "peak_score": 78.26,
+      "score": 76.51,
+      "peak_score": 76.51,
       "appearances": 1,
       "sources": [
         "뽐뿌",
@@ -847,21 +813,21 @@
       "posts": [
         {
           "source": "뽐뿌",
-          "rank": 20,
+          "rank": 26,
           "title": "조국) 중수청장 논란에 대한 대통령 논리는 논점 흐리기이다",
           "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10141953",
-          "score": 69.26
+          "score": 67.51
         },
         {
           "source": "인벤",
-          "rank": 27,
+          "rank": 40,
           "title": "유해진 자택 앞 시위‥'북한상' 논란에 광고 불매 시위까지 확산 (2026.10.04/뉴스데스크/MBC)",
           "url": "https://www.inven.co.kr/board/webzine/2097/2736302",
-          "score": 66.96
+          "score": 63.82
         }
       ],
-      "rank": 4,
-      "change": "NEW"
+      "rank": 3,
+      "change": 1
     },
     {
       "id": "ib3fd2c1d",
@@ -871,8 +837,8 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 75.49,
-      "peak_score": 75.49,
+      "score": 73.37,
+      "peak_score": 73.37,
       "appearances": 1,
       "sources": [
         "뽐뿌",
@@ -880,22 +846,22 @@
       ],
       "posts": [
         {
-          "source": "인벤",
-          "rank": 29,
-          "title": "(노스포)암살자(들) 보고 온 솔직 후기",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2736291",
-          "score": 66.49
-        },
-        {
           "source": "뽐뿌",
-          "rank": 36,
+          "rank": 38,
           "title": "암살자들 보고 왔습니다. (노스포)",
           "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10141963",
-          "score": 64.17
+          "score": 64.37
+        },
+        {
+          "source": "인벤",
+          "rank": 39,
+          "title": "(노스포)암살자(들) 보고 온 솔직 후기",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2736291",
+          "score": 64.25
         }
       ],
-      "rank": 5,
-      "change": "NEW"
+      "rank": 4,
+      "change": 1
     },
     {
       "id": "i78f6419e",
@@ -905,8 +871,8 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 75.49,
-      "peak_score": 75.49,
+      "score": 73.25,
+      "peak_score": 73.25,
       "appearances": 1,
       "sources": [
         "디시인사이드",
@@ -915,30 +881,30 @@
       "posts": [
         {
           "source": "인벤",
-          "rank": 29,
+          "rank": 39,
           "title": "(노스포)암살자(들) 보고 온 솔직 후기",
           "url": "https://www.inven.co.kr/board/webzine/2097/2736291",
-          "score": 66.49
+          "score": 64.25
         },
         {
           "source": "디시인사이드",
           "rank": 99,
           "title": "암살자(들)' 관람평 매크로 조작 정황 확인…네이버, 경찰에",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467925&_dcbest=1&page=1",
-          "score": 49.57
+          "score": 49.7
         }
       ],
-      "rank": 6,
-      "change": "NEW"
+      "rank": 5,
+      "change": 1
     }
   ],
   "keywords": [
     {
       "keyword": "암살자들",
-      "score": 140.83,
+      "score": 139.21,
       "post_count": 4,
       "source_count": 4,
-      "best_rank": 36,
+      "best_rank": 38,
       "sources": [
         "디시인사이드",
         "뽐뿌",
@@ -951,10 +917,10 @@
     },
     {
       "keyword": "좋은",
-      "score": 120.61,
+      "score": 121.65,
       "post_count": 3,
       "source_count": 3,
-      "best_rank": 14,
+      "best_rank": 12,
       "sources": [
         "더쿠",
         "디시인사이드",
@@ -962,14 +928,14 @@
       ],
       "aliases": [],
       "rank": 2,
-      "change": "NEW"
+      "change": 0
     },
     {
       "keyword": "암살자",
-      "score": 109.18,
+      "score": 107.76,
       "post_count": 3,
       "source_count": 3,
-      "best_rank": 29,
+      "best_rank": 39,
       "sources": [
         "디시인사이드",
         "인벤",
@@ -977,138 +943,108 @@
       ],
       "aliases": [],
       "rank": 3,
-      "change": 5
+      "change": 0
     },
     {
       "keyword": "이재명",
-      "score": 105.83,
+      "score": 105.69,
       "post_count": 3,
       "source_count": 2,
-      "best_rank": 12,
+      "best_rank": 11,
       "sources": [
         "뽐뿌",
         "클리앙"
       ],
       "aliases": [],
       "rank": 4,
-      "change": "NEW"
-    },
-    {
-      "keyword": "평생",
-      "score": 96.13,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 7,
-      "sources": [
-        "디시인사이드",
-        "루리웹"
-      ],
-      "aliases": [],
-      "rank": 5,
-      "change": "NEW"
+      "change": 0
     },
     {
       "keyword": "영화",
-      "score": 95.1,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 17,
-      "sources": [
-        "뽐뿌",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 6,
-      "change": "NEW"
-    },
-    {
-      "keyword": "노스포",
-      "score": 92.73,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 29,
-      "sources": [
-        "뽐뿌",
-        "인벤"
-      ],
-      "aliases": [],
-      "rank": 7,
-      "change": "NEW"
-    },
-    {
-      "keyword": "유행",
-      "score": 90.95,
+      "score": 96.3,
       "post_count": 2,
       "source_count": 2,
       "best_rank": 16,
       "sources": [
+        "뽐뿌",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 5,
+      "change": 1
+    },
+    {
+      "keyword": "노스포",
+      "score": 91.01,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 38,
+      "sources": [
+        "뽐뿌",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 6,
+      "change": 1
+    },
+    {
+      "keyword": "유행",
+      "score": 90.73,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 15,
+      "sources": [
         "더쿠",
         "인벤"
       ],
       "aliases": [],
-      "rank": 8,
-      "change": "NEW"
+      "rank": 7,
+      "change": 1
     },
     {
       "keyword": "일본",
-      "score": 89.75,
+      "score": 89.23,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 39,
+      "best_rank": 43,
       "sources": [
         "더쿠",
+        "디시인사이드"
+      ],
+      "aliases": [],
+      "rank": 8,
+      "change": 1
+    },
+    {
+      "keyword": "아내",
+      "score": 86.2,
+      "post_count": 3,
+      "source_count": 1,
+      "best_rank": 5,
+      "sources": [
         "디시인사이드"
       ],
       "aliases": [],
       "rank": 9,
-      "change": "NEW"
-    },
-    {
-      "keyword": "전세계",
-      "score": 88.81,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 17,
-      "sources": [
-        "루리웹",
-        "클리앙"
-      ],
-      "aliases": [
-        "1위"
-      ],
-      "rank": 10,
-      "change": "NEW"
+      "change": 3
     },
     {
       "keyword": "조회수",
-      "score": 86.79,
+      "score": 84.36,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 19,
+      "best_rank": 21,
       "sources": [
         "더쿠",
         "인벤"
       ],
       "aliases": [],
-      "rank": 11,
-      "change": "NEW"
-    },
-    {
-      "keyword": "아내",
-      "score": 86.38,
-      "post_count": 3,
-      "source_count": 1,
-      "best_rank": 6,
-      "sources": [
-        "디시인사이드"
-      ],
-      "aliases": [],
-      "rank": 12,
-      "change": "NEW"
+      "rank": 10,
+      "change": 1
     },
     {
       "keyword": "생긴",
-      "score": 86.02,
+      "score": 84.17,
       "post_count": 2,
       "source_count": 2,
       "best_rank": 22,
@@ -1117,86 +1053,100 @@
         "인벤"
       ],
       "aliases": [],
-      "rank": 13,
-      "change": -9
+      "rank": 11,
+      "change": 2
     },
     {
       "keyword": "리즈",
-      "score": 85.16,
+      "score": 82.68,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 38,
+      "best_rank": 49,
       "sources": [
         "더쿠",
         "인벤"
       ],
       "aliases": [],
-      "rank": 14,
-      "change": "NEW"
+      "rank": 12,
+      "change": 2
     },
     {
-      "keyword": "말이",
-      "score": 84.58,
+      "keyword": "은행",
+      "score": 82.58,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 23,
+      "best_rank": 58,
       "sources": [
         "디시인사이드",
         "루리웹"
       ],
       "aliases": [],
-      "rank": 15,
+      "rank": 13,
       "change": "NEW"
+    },
+    {
+      "keyword": "말이",
+      "score": 78.15,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 65,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "aliases": [],
+      "rank": 14,
+      "change": 1
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "1억에 산 집이 50억이 됐습니다.jgp",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76909414?m=humor",
-      "score": 97.02,
-      "views": 44307,
-      "comments": 158
+      "title": "시골 살 때 ㄹㅇ 무시 못할 장점",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76909273?m=humor",
+      "score": 98.12,
+      "views": 24254,
+      "comments": 76
     },
     {
       "source": "뽐뿌",
       "title": "프랑스는 진짜 맛이갔네요",
       "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=439440",
-      "score": 84.74,
-      "views": 21136,
-      "comments": 51
+      "score": 85.17,
+      "views": 22162,
+      "comments": 52
     },
     {
       "source": "디시인사이드",
       "title": "비상금 4천8백 걸린 아내의 반응 및 여자 쉴드 댓글들",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467979&_dcbest=1&page=1",
-      "score": 81.9,
-      "views": 5406,
-      "comments": 172
+      "score": 83.54,
+      "views": 6445,
+      "comments": 197
     },
     {
       "source": "더쿠",
       "title": "외국인들이 입모아 노벨상 줘야한다고 드립치는 타코먹는 법",
       "url": "https://theqoo.net/hot/4365415997",
       "score": 75.84,
-      "views": 38383,
-      "comments": 233
+      "views": 40283,
+      "comments": 248
     },
     {
       "source": "클리앙",
       "title": "🔴친일자산 철저환수 / 역시 이재명 대통령이시네요. ㅎㅎ",
       "url": "https://www.clien.net/service/board/park/19273589?od=T31&po=0&category=0&groupCd=",
-      "score": 74.59,
-      "views": 1563,
-      "comments": 13
+      "score": 75.38,
+      "views": 1703,
+      "comments": 14
     },
     {
       "source": "인벤",
       "title": "장르소설 유행도 독자 연령을 따라가나봐요",
       "url": "https://www.inven.co.kr/board/webzine/2097/2736303",
-      "score": 73.19,
-      "views": 832,
-      "comments": 4
+      "score": 72.57,
+      "views": 1012,
+      "comments": 5
     }
   ]
 }
