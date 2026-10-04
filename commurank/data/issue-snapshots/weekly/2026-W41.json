@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W41",
   "label": "2026.10.05 ~ 10.11",
-  "collected_at": "2026-10-05T06:40:10.175480+09:00",
+  "collected_at": "2026-10-05T07:11:30.755767+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -14,9 +14,9 @@
       ],
       "source_count": 4,
       "post_count": 4,
-      "score": 123.08,
+      "score": 124.2,
       "peak_score": 100.15,
-      "appearances": 3,
+      "appearances": 4,
       "sources": [
         "디시인사이드",
         "뽐뿌",
@@ -26,37 +26,23 @@
       "posts": [
         {
           "source": "뽐뿌",
-          "rank": 38,
+          "rank": 30,
           "title": "암살자들 보고 왔습니다. (노스포)",
           "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10141963",
-          "score": 64.37
-        },
-        {
-          "source": "클리앙",
-          "rank": 71,
-          "title": "암살자들 보고 왔는데 재미있네요 소문(?)과는 다릅니다",
-          "url": "https://www.clien.net/service/board/park/19273574?od=T31&po=0&category=0&groupCd=",
-          "score": 56.23
+          "score": 70.29
         },
         {
           "source": "디시인사이드",
-          "rank": 80,
+          "rank": 97,
           "title": "암살자들 매크로 주작 확인..네이버 수사 의뢰",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467919&_dcbest=1&page=1",
-          "score": 53.6
-        },
-        {
-          "source": "인벤",
-          "rank": 91,
-          "title": "암살자들 영화로 국민의힘이 선동하는중",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2736271",
-          "score": 51.15
+          "score": 49.19
         }
       ],
       "first_seen": "2026-09-27T18:16:30.778383+09:00",
-      "last_seen": "2026-10-05T03:47:41.149271+09:00",
-      "latest_source_count": 4,
-      "latest_post_count": 4,
+      "last_seen": "2026-10-05T07:11:30.755767+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
       "rank": 1,
       "change": 0
     },
@@ -96,7 +82,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 2,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "ife021da2",
@@ -134,7 +120,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 3,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i039fd79c",
@@ -144,9 +130,9 @@
       ],
       "source_count": 2,
       "post_count": 3,
-      "score": 99.31,
+      "score": 100.43,
       "peak_score": 85.38,
-      "appearances": 3,
+      "appearances": 4,
       "sources": [
         "뽐뿌",
         "클리앙"
@@ -154,25 +140,25 @@
       "posts": [
         {
           "source": "클리앙",
-          "rank": 22,
+          "rank": 27,
           "title": "🔴친일자산 철저환수 / 역시 이재명 대통령이시네요. ㅎㅎ",
           "url": "https://www.clien.net/service/board/park/19273589?od=T31&po=0&category=0&groupCd=",
-          "score": 74.07
+          "score": 70.52
         },
         {
           "source": "뽐뿌",
-          "rank": 30,
+          "rank": 83,
           "title": "최배근)교수 이재명 지지 철회",
           "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10141996",
-          "score": 70.12
+          "score": 52.97
         }
       ],
       "first_seen": "2026-09-27T13:38:37.715424+09:00",
-      "last_seen": "2026-10-05T06:40:10.175480+09:00",
+      "last_seen": "2026-10-05T07:11:30.755767+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 4,
-      "change": -2
+      "change": 0
     },
     {
       "id": "ifd24d317",
@@ -216,7 +202,45 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 5,
-      "change": -2
+      "change": 0
+    },
+    {
+      "id": "ib3fd2c1d",
+      "title": "‘노스포’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "노스포"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 92.22,
+      "peak_score": 79.29,
+      "appearances": 3,
+      "sources": [
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 30,
+          "title": "암살자들 보고 왔습니다. (노스포)",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10141963",
+          "score": 70.29
+        },
+        {
+          "source": "인벤",
+          "rank": 50,
+          "title": "(노스포)암살자(들) 보고 온 솔직 후기",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2736291",
+          "score": 62.05
+        }
+      ],
+      "first_seen": "2026-10-05T03:20:14.855966+09:00",
+      "last_seen": "2026-10-05T07:11:30.755767+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 6,
+      "change": 2
     },
     {
       "id": "i78f6419e",
@@ -253,7 +277,7 @@
       "last_seen": "2026-10-05T06:40:10.175480+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 6,
+      "rank": 7,
       "change": -1
     },
     {
@@ -291,46 +315,8 @@
       "last_seen": "2026-10-05T03:20:14.855966+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": -3
-    },
-    {
-      "id": "ib3fd2c1d",
-      "title": "‘노스포’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "노스포"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 86.98,
-      "peak_score": 75.49,
-      "appearances": 2,
-      "sources": [
-        "뽐뿌",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 38,
-          "title": "암살자들 보고 왔습니다. (노스포)",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10141963",
-          "score": 64.37
-        },
-        {
-          "source": "인벤",
-          "rank": 39,
-          "title": "(노스포)암살자(들) 보고 온 솔직 후기",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2736291",
-          "score": 64.25
-        }
-      ],
-      "first_seen": "2026-10-05T03:20:14.855966+09:00",
-      "last_seen": "2026-10-05T03:47:41.149271+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 8,
-      "change": -2
+      "change": -1
     },
     {
       "id": "ia8451ee4",
@@ -368,7 +354,45 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 9,
-      "change": -2
+      "change": 0
+    },
+    {
+      "id": "id51f0bd8",
+      "title": "‘팬사인회’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "팬사인회"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 83.38,
+      "peak_score": 73.91,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 41,
+          "title": "팬사인회 트리플에스 정하연",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2736301",
+          "score": 64.91
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 59,
+          "title": "침착맨 팬사인회 규모 클라스",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467981&_dcbest=1&page=1",
+          "score": 59.43
+        }
+      ],
+      "first_seen": "2026-10-05T07:11:30.755767+09:00",
+      "last_seen": "2026-10-05T07:11:30.755767+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 10,
+      "change": "NEW"
     },
     {
       "id": "i00705cf2",
@@ -405,8 +429,8 @@
       "last_seen": "2026-10-05T06:40:10.175480+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 10,
-      "change": "NEW"
+      "rank": 11,
+      "change": -1
     }
   ]
 }
