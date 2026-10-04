@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-10-04T08:47:53.166066+09:00",
+  "collected_at": "2026-10-04T11:44:43.352420+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -11,106 +11,95 @@
   "rankings": {
     "realtime": [
       {
-        "id": "i78f6419e",
-        "title": "‘암살자’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i707041a3",
+        "title": "축구 금메달 세레머니 훼방놓은 일본인들",
         "keywords": [
-          "암살자"
+          "축구",
+          "금메달"
         ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 81.24,
-        "peak_score": 81.24,
+        "source_count": 3,
+        "post_count": 3,
+        "score": 95.23,
+        "peak_score": 95.23,
         "appearances": 1,
         "sources": [
+          "더쿠",
           "디시인사이드",
-          "클리앙"
+          "인벤"
         ],
         "posts": [
           {
-            "source": "클리앙",
-            "rank": 11,
-            "title": "암살자(들)을 보고나니 확실히 알겠습니다.",
-            "url": "https://www.clien.net/service/board/park/19273262?od=T31&po=0&category=0&groupCd=",
-            "score": 72.24
+            "source": "디시인사이드",
+            "rank": 8,
+            "title": "축구 금메달 세레머니 훼방놓은 일본인들",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467795&_dcbest=1&page=1",
+            "score": 80.23
           },
           {
-            "source": "디시인사이드",
-            "rank": 88,
-            "title": "영화 \"암살자\"에 입 연 박지만 \"우리 아버지가 그리 미운가\"",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467713&_dcbest=1&page=1",
-            "score": 53.38
+            "source": "더쿠",
+            "rank": 9,
+            "title": "축구 금메달 선수 인스타 논란",
+            "url": "https://theqoo.net/hot/4364565661",
+            "score": 78.84
+          },
+          {
+            "source": "인벤",
+            "rank": 45,
+            "title": "올림픽) 축구 금메달 국기게양 VAR 결과 나왔 네요",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2736009",
+            "score": 61.08
           }
         ],
         "rank": 1,
         "change": "NEW"
       },
       {
-        "id": "iaf3fcfcf",
-        "title": "‘노무현’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "ibd61c9f9",
+        "title": "'韓 최고 재능' 양민혁, 역대급 크로스→드디어 입 열다 \"금메달이고 트로피고 다 중요하지 않아…군 면제 하나만 봤다\" [현장인터뷰]",
         "keywords": [
-          "노무현"
+          "하나만",
+          "중요하지",
+          "면제",
+          "않아",
+          "트로피고",
+          "양민혁",
+          "금메달이고"
         ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 79.69,
-        "peak_score": 79.69,
+        "source_count": 3,
+        "post_count": 3,
+        "score": 91.37,
+        "peak_score": 91.37,
         "appearances": 1,
         "sources": [
-          "뽐뿌",
+          "더쿠",
+          "인벤",
           "클리앙"
         ],
         "posts": [
           {
-            "source": "뽐뿌",
-            "rank": 17,
-            "title": "노무현 조롱 연극 보고 쳐웃은 것들이",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10141239",
-            "score": 70.69
+            "source": "더쿠",
+            "rank": 12,
+            "title": "'韓 최고 재능' 양민혁, 역대급 크로스→드디어 입 열다 \"금메달이고 트로피고 다 중요하지 않아…군 면제 하나만 봤다\" [현장인터뷰]",
+            "url": "https://theqoo.net/hot/4364534101",
+            "score": 76.37
+          },
+          {
+            "source": "인벤",
+            "rank": 26,
+            "title": "양민혁 \"금메달이고 트로피고 다 중요하지 않아…군 면제 하나만 봤다\"",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2736016",
+            "score": 67.61
           },
           {
             "source": "클리앙",
-            "rank": 40,
-            "title": "노무현 대통령이 그립다에 대한 ai 답변",
-            "url": "https://www.clien.net/service/board/park/19273246?od=T31&po=0&category=0&groupCd=",
-            "score": 63.85
+            "rank": 90,
+            "title": "금메달이고 트로피고 다 중요하지 않아…군 면제 하나만 봤다",
+            "url": "https://www.clien.net/service/board/park/19273287?od=T31&po=0&category=0&groupCd=",
+            "score": 52.73
           }
         ],
         "rank": 2,
         "change": "NEW"
-      },
-      {
-        "id": "ifd5a2cc3",
-        "title": "‘한국의’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "한국의"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 78.84,
-        "peak_score": 78.84,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "디시인사이드"
-        ],
-        "posts": [
-          {
-            "source": "더쿠",
-            "rank": 21,
-            "title": "한국의 디스토피아 내러티브는 수익성 높은 수출품이다",
-            "url": "https://theqoo.net/hot/4364454659",
-            "score": 69.84
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 51,
-            "title": "한국의 1/11 이라는 일본 연예계 출연료",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467769&_dcbest=1&page=1",
-            "score": 60.88
-          }
-        ],
-        "rank": 3,
-        "change": -1
       },
       {
         "id": "i8b4085e0",
@@ -119,9 +108,77 @@
           "아시안게임"
         ],
         "source_count": 2,
+        "post_count": 4,
+        "score": 105.25,
+        "peak_score": 105.25,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 3,
+            "title": "반나절 만에 욕을 먹고 있는 아시안게임 축구대표팀.jpg",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76901594?m=humor",
+            "score": 94.25
+          },
+          {
+            "source": "인벤",
+            "rank": 10,
+            "title": "이번 아시안게임 축구 군면제 빡치는 이유",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2736021",
+            "score": 77.31
+          }
+        ],
+        "rank": 3,
+        "change": 1
+      },
+      {
+        "id": "i9f5e1ed4",
+        "title": "‘인스타’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "인스타"
+        ],
+        "source_count": 2,
         "post_count": 2,
-        "score": 71.07,
-        "peak_score": 71.07,
+        "score": 87.84,
+        "peak_score": 87.84,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "더쿠",
+            "rank": 9,
+            "title": "축구 금메달 선수 인스타 논란",
+            "url": "https://theqoo.net/hot/4364565661",
+            "score": 78.84
+          },
+          {
+            "source": "인벤",
+            "rank": 43,
+            "title": "전역모 쓰고 인스타 아시안게임 축구대표 박승수",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2736014",
+            "score": 61.26
+          }
+        ],
+        "rank": 4,
+        "change": "NEW"
+      },
+      {
+        "id": "i2af08ac5",
+        "title": "‘역대급’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "역대급"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 85.37,
+        "peak_score": 85.37,
         "appearances": 1,
         "sources": [
           "더쿠",
@@ -129,60 +186,218 @@
         ],
         "posts": [
           {
-            "source": "뽐뿌",
-            "rank": 46,
-            "title": "아시안게임 축구 금메달 한국 국기 게양 실패에 대한 일본 반응 ㄷㄷ.jpg",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=soccer&no=189311",
-            "score": 62.07
-          },
-          {
             "source": "더쿠",
-            "rank": 53,
-            "title": "일본인조차 실례라고 말하는 아시안게임",
-            "url": "https://theqoo.net/hot/4364415071",
-            "score": 60.53
-          }
-        ],
-        "rank": 4,
-        "change": "NEW"
-      },
-      {
-        "id": "ib43099e0",
-        "title": "아시안게임 축구 금메달 한국 국기 게양 실패에 대한 일본 반응 ㄷㄷ.jpg",
-        "keywords": [
-          "축구",
-          "게양"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 70.07,
-        "peak_score": 70.07,
-        "appearances": 1,
-        "sources": [
-          "뽐뿌",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 46,
-            "title": "아시안게임 축구 금메달 한국 국기 게양 실패에 대한 일본 반응 ㄷㄷ.jpg",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=soccer&no=189311",
-            "score": 62.07
+            "rank": 12,
+            "title": "'韓 최고 재능' 양민혁, 역대급 크로스→드디어 입 열다 \"금메달이고 트로피고 다 중요하지 않아…군 면제 하나만 봤다\" [현장인터뷰]",
+            "url": "https://theqoo.net/hot/4364534101",
+            "score": 76.37
           },
           {
-            "source": "클리앙",
-            "rank": 68,
-            "title": "축구 시상식 태극기 게양 논란",
-            "url": "https://www.clien.net/service/board/park/19273242?od=T31&po=0&category=0&groupCd=",
-            "score": 57.85
+            "source": "뽐뿌",
+            "rank": 93,
+            "title": "간장게장 처음 먹고 역대급 리액션",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=22361",
+            "score": 51.94
           }
         ],
         "rank": 5,
         "change": "NEW"
+      },
+      {
+        "id": "i9785fc48",
+        "title": "‘드디어’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "드디어"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 85.37,
+        "peak_score": 85.37,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "더쿠",
+            "rank": 12,
+            "title": "'韓 최고 재능' 양민혁, 역대급 크로스→드디어 입 열다 \"금메달이고 트로피고 다 중요하지 않아…군 면제 하나만 봤다\" [현장인터뷰]",
+            "url": "https://theqoo.net/hot/4364534101",
+            "score": 76.37
+          },
+          {
+            "source": "클리앙",
+            "rank": 70,
+            "title": "개인용 러닝어플 드디어 마무리...",
+            "url": "https://www.clien.net/service/board/park/19273308?od=T31&po=0&category=0&groupCd=",
+            "score": 57.59
+          }
+        ],
+        "rank": 6,
+        "change": "NEW"
+      },
+      {
+        "id": "ia8451ee4",
+        "title": "이번 아시안게임 축구 군면제 빡치는 이유",
+        "keywords": [
+          "축구",
+          "군면제"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 85.31,
+        "peak_score": 85.31,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 10,
+            "title": "이번 아시안게임 축구 군면제 빡치는 이유",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2736021",
+            "score": 77.31
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 66,
+            "title": "축구 양민혁 군면제 관련 인터뷰",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10141292",
+            "score": 58.49
+          }
+        ],
+        "rank": 7,
+        "change": "NEW"
+      },
+      {
+        "id": "ia8d31ae3",
+        "title": "‘태극기’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "태극기"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 77.68,
+        "peak_score": 77.68,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "더쿠",
+            "rank": 21,
+            "title": "태극기 게양 안되는 사고이후에 반성회하고있었대",
+            "url": "https://theqoo.net/hot/4364557654",
+            "score": 68.68
+          },
+          {
+            "source": "인벤",
+            "rank": 87,
+            "title": "애국가 끝날때까지 태극기 안올려주는 일본",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2735993",
+            "score": 53.03
+          }
+        ],
+        "rank": 8,
+        "change": "NEW"
       }
     ],
     "daily": [
+      {
+        "id": "i8b4085e0",
+        "title": "‘아시안게임’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "아시안게임"
+        ],
+        "source_count": 3,
+        "post_count": 4,
+        "score": 126.98,
+        "peak_score": 105.25,
+        "appearances": 6,
+        "sources": [
+          "더쿠",
+          "루리웹",
+          "뽐뿌",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 3,
+            "title": "반나절 만에 욕을 먹고 있는 아시안게임 축구대표팀.jpg",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76901594?m=humor",
+            "score": 94.25
+          },
+          {
+            "source": "인벤",
+            "rank": 10,
+            "title": "이번 아시안게임 축구 군면제 빡치는 이유",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2736021",
+            "score": 77.31
+          }
+        ],
+        "first_seen": "2026-09-27T20:01:41.851026+09:00",
+        "last_seen": "2026-10-04T11:44:43.352420+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 4,
+        "rank": 1,
+        "change": 5
+      },
+      {
+        "id": "i707041a3",
+        "title": "축구 금메달 세레머니 훼방놓은 일본인들",
+        "keywords": [
+          "축구",
+          "금메달"
+        ],
+        "source_count": 3,
+        "post_count": 3,
+        "score": 114.28,
+        "peak_score": 95.23,
+        "appearances": 4,
+        "sources": [
+          "더쿠",
+          "디시인사이드",
+          "뽐뿌",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 8,
+            "title": "축구 금메달 세레머니 훼방놓은 일본인들",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467795&_dcbest=1&page=1",
+            "score": 80.23
+          },
+          {
+            "source": "더쿠",
+            "rank": 9,
+            "title": "축구 금메달 선수 인스타 논란",
+            "url": "https://theqoo.net/hot/4364565661",
+            "score": 78.84
+          },
+          {
+            "source": "인벤",
+            "rank": 45,
+            "title": "올림픽) 축구 금메달 국기게양 VAR 결과 나왔 네요",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2736009",
+            "score": 61.08
+          }
+        ],
+        "first_seen": "2026-09-27T20:01:41.851026+09:00",
+        "last_seen": "2026-10-04T11:44:43.352420+09:00",
+        "latest_source_count": 3,
+        "latest_post_count": 3,
+        "rank": 2,
+        "change": 0
+      },
       {
         "id": "i68d53cf7",
         "title": "‘나혼산’ 관련 글이 여러 커뮤니티에서 화제",
@@ -218,47 +433,97 @@
         "last_seen": "2026-10-04T05:13:51.095432+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 1,
-        "change": 0
+        "rank": 3,
+        "change": -2
       },
       {
-        "id": "i707041a3",
-        "title": "‘금메달’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "ibd61c9f9",
+        "title": "'韓 최고 재능' 양민혁, 역대급 크로스→드디어 입 열다 \"금메달이고 트로피고 다 중요하지 않아…군 면제 하나만 봤다\" [현장인터뷰]",
         "keywords": [
-          "금메달"
+          "중요하지",
+          "면제",
+          "않아",
+          "트로피고",
+          "양민혁",
+          "금메달이고"
         ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 100.69,
-        "peak_score": 87.76,
-        "appearances": 3,
+        "source_count": 3,
+        "post_count": 3,
+        "score": 105.84,
+        "peak_score": 91.37,
+        "appearances": 1,
         "sources": [
-          "뽐뿌",
+          "더쿠",
           "인벤",
           "클리앙"
         ],
         "posts": [
           {
-            "source": "뽐뿌",
-            "rank": 8,
-            "title": "올림픽) 축구 금메달 국기게양 VAR 결과 나왔네요 ㄷㄷ.mp4",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10141188",
-            "score": 78.76
+            "source": "더쿠",
+            "rank": 12,
+            "title": "'韓 최고 재능' 양민혁, 역대급 크로스→드디어 입 열다 \"금메달이고 트로피고 다 중요하지 않아…군 면제 하나만 봤다\" [현장인터뷰]",
+            "url": "https://theqoo.net/hot/4364534101",
+            "score": 76.37
+          },
+          {
+            "source": "인벤",
+            "rank": 26,
+            "title": "양민혁 \"금메달이고 트로피고 다 중요하지 않아…군 면제 하나만 봤다\"",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2736016",
+            "score": 67.61
           },
           {
             "source": "클리앙",
-            "rank": 31,
-            "title": "축구 금메달 딴 나라 국기 안올리는 일본",
-            "url": "https://www.clien.net/service/board/park/19273228?od=T31&po=0&category=0&groupCd=",
-            "score": 67.39
+            "rank": 90,
+            "title": "금메달이고 트로피고 다 중요하지 않아…군 면제 하나만 봤다",
+            "url": "https://www.clien.net/service/board/park/19273287?od=T31&po=0&category=0&groupCd=",
+            "score": 52.73
           }
         ],
-        "first_seen": "2026-09-27T20:01:41.851026+09:00",
-        "last_seen": "2026-10-04T06:13:27.410063+09:00",
+        "first_seen": "2026-10-04T11:44:43.352420+09:00",
+        "last_seen": "2026-10-04T11:44:43.352420+09:00",
+        "latest_source_count": 3,
+        "latest_post_count": 3,
+        "rank": 4,
+        "change": "NEW"
+      },
+      {
+        "id": "i9f5e1ed4",
+        "title": "‘인스타’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "인스타"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 97.31,
+        "peak_score": 87.84,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "더쿠",
+            "rank": 9,
+            "title": "축구 금메달 선수 인스타 논란",
+            "url": "https://theqoo.net/hot/4364565661",
+            "score": 78.84
+          },
+          {
+            "source": "인벤",
+            "rank": 43,
+            "title": "전역모 쓰고 인스타 아시안게임 축구대표 박승수",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2736014",
+            "score": 61.26
+          }
+        ],
+        "first_seen": "2026-09-29T08:23:09.958029+09:00",
+        "last_seen": "2026-10-04T11:44:43.352420+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 2,
-        "change": 0
+        "rank": 5,
+        "change": "NEW"
       },
       {
         "id": "ifd5a2cc3",
@@ -295,8 +560,8 @@
         "last_seen": "2026-10-04T08:47:53.166066+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 3,
-        "change": 2
+        "rank": 6,
+        "change": -3
       },
       {
         "id": "i039fd79c",
@@ -333,8 +598,8 @@
         "last_seen": "2026-10-04T02:38:46.688956+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 4,
-        "change": -1
+        "rank": 7,
+        "change": -3
       },
       {
         "id": "i268dadd0",
@@ -382,48 +647,123 @@
         "last_seen": "2026-10-04T08:09:31.765636+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 5,
-        "change": -1
+        "rank": 8,
+        "change": -3
       },
       {
-        "id": "i8b4085e0",
-        "title": "‘아시안게임’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i2af08ac5",
+        "title": "‘역대급’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "아시안게임"
+          "역대급"
         ],
-        "source_count": 3,
-        "post_count": 3,
-        "score": 93.66,
-        "peak_score": 73.7,
-        "appearances": 5,
+        "source_count": 2,
+        "post_count": 2,
+        "score": 94.84,
+        "peak_score": 85.37,
+        "appearances": 1,
         "sources": [
           "더쿠",
-          "뽐뿌",
-          "인벤",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "더쿠",
+            "rank": 12,
+            "title": "'韓 최고 재능' 양민혁, 역대급 크로스→드디어 입 열다 \"금메달이고 트로피고 다 중요하지 않아…군 면제 하나만 봤다\" [현장인터뷰]",
+            "url": "https://theqoo.net/hot/4364534101",
+            "score": 76.37
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 93,
+            "title": "간장게장 처음 먹고 역대급 리액션",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=22361",
+            "score": 51.94
+          }
+        ],
+        "first_seen": "2026-10-04T11:44:43.352420+09:00",
+        "last_seen": "2026-10-04T11:44:43.352420+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 9,
+        "change": "NEW"
+      },
+      {
+        "id": "i9785fc48",
+        "title": "‘드디어’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "드디어"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 94.84,
+        "peak_score": 85.37,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
           "클리앙"
         ],
         "posts": [
           {
-            "source": "뽐뿌",
-            "rank": 46,
-            "title": "아시안게임 축구 금메달 한국 국기 게양 실패에 대한 일본 반응 ㄷㄷ.jpg",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=soccer&no=189311",
-            "score": 62.07
+            "source": "더쿠",
+            "rank": 12,
+            "title": "'韓 최고 재능' 양민혁, 역대급 크로스→드디어 입 열다 \"금메달이고 트로피고 다 중요하지 않아…군 면제 하나만 봤다\" [현장인터뷰]",
+            "url": "https://theqoo.net/hot/4364534101",
+            "score": 76.37
           },
           {
-            "source": "더쿠",
-            "rank": 53,
-            "title": "일본인조차 실례라고 말하는 아시안게임",
-            "url": "https://theqoo.net/hot/4364415071",
-            "score": 60.53
+            "source": "클리앙",
+            "rank": 70,
+            "title": "개인용 러닝어플 드디어 마무리...",
+            "url": "https://www.clien.net/service/board/park/19273308?od=T31&po=0&category=0&groupCd=",
+            "score": 57.59
           }
         ],
-        "first_seen": "2026-09-27T20:01:41.851026+09:00",
-        "last_seen": "2026-10-04T08:47:53.166066+09:00",
+        "first_seen": "2026-10-04T11:44:43.352420+09:00",
+        "last_seen": "2026-10-04T11:44:43.352420+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 6,
-        "change": 0
+        "rank": 10,
+        "change": "NEW"
+      },
+      {
+        "id": "ia8451ee4",
+        "title": "이번 아시안게임 축구 군면제 빡치는 이유",
+        "keywords": [
+          "축구",
+          "군면제"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 94.78,
+        "peak_score": 85.31,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 10,
+            "title": "이번 아시안게임 축구 군면제 빡치는 이유",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2736021",
+            "score": 77.31
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 66,
+            "title": "축구 양민혁 군면제 관련 인터뷰",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10141292",
+            "score": 58.49
+          }
+        ],
+        "first_seen": "2026-09-29T18:03:51.886668+09:00",
+        "last_seen": "2026-10-04T11:44:43.352420+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 11,
+        "change": "NEW"
       },
       {
         "id": "i78f6419e",
@@ -460,8 +800,8 @@
         "last_seen": "2026-10-04T08:47:53.166066+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 7,
-        "change": "NEW"
+        "rank": 12,
+        "change": -5
       },
       {
         "id": "iaf3fcfcf",
@@ -498,7 +838,45 @@
         "last_seen": "2026-10-04T08:47:53.166066+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 8,
+        "rank": 13,
+        "change": -5
+      },
+      {
+        "id": "ia8d31ae3",
+        "title": "‘태극기’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "태극기"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 87.15,
+        "peak_score": 77.68,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "더쿠",
+            "rank": 21,
+            "title": "태극기 게양 안되는 사고이후에 반성회하고있었대",
+            "url": "https://theqoo.net/hot/4364557654",
+            "score": 68.68
+          },
+          {
+            "source": "인벤",
+            "rank": 87,
+            "title": "애국가 끝날때까지 태극기 안올려주는 일본",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2735993",
+            "score": 53.03
+          }
+        ],
+        "first_seen": "2026-10-04T11:44:43.352420+09:00",
+        "last_seen": "2026-10-04T11:44:43.352420+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 14,
         "change": "NEW"
       },
       {
@@ -536,8 +914,8 @@
         "last_seen": "2026-10-04T03:06:46.347880+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 9,
-        "change": -2
+        "rank": 15,
+        "change": -6
       },
       {
         "id": "ib43099e0",
@@ -575,8 +953,8 @@
         "last_seen": "2026-10-04T08:47:53.166066+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 10,
-        "change": "NEW"
+        "rank": 16,
+        "change": -6
       },
       {
         "id": "i995eeaea",
@@ -613,8 +991,8 @@
         "last_seen": "2026-10-04T05:13:51.095432+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
-        "change": -3
+        "rank": 17,
+        "change": -6
       }
     ],
     "weekly": [
@@ -795,6 +1173,48 @@
         "change": 0
       },
       {
+        "id": "i8b4085e0",
+        "title": "‘아시안게임’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "아시안게임"
+        ],
+        "source_count": 3,
+        "post_count": 5,
+        "score": 131.45,
+        "peak_score": 105.25,
+        "appearances": 13,
+        "sources": [
+          "더쿠",
+          "디시인사이드",
+          "루리웹",
+          "뽐뿌",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 3,
+            "title": "반나절 만에 욕을 먹고 있는 아시안게임 축구대표팀.jpg",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76901594?m=humor",
+            "score": 94.25
+          },
+          {
+            "source": "인벤",
+            "rank": 10,
+            "title": "이번 아시안게임 축구 군면제 빡치는 이유",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2736021",
+            "score": 77.31
+          }
+        ],
+        "first_seen": "2026-09-27T20:01:41.851026+09:00",
+        "last_seen": "2026-10-04T11:44:43.352420+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 4,
+        "rank": 5,
+        "change": 4
+      },
+      {
         "id": "i7f717bd5",
         "title": "‘부캉이’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -831,8 +1251,8 @@
         "last_seen": "2026-10-03T18:39:57.662536+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 5,
-        "change": 0
+        "rank": 6,
+        "change": -1
       },
       {
         "id": "i78f6419e",
@@ -873,8 +1293,8 @@
         "last_seen": "2026-10-04T08:47:53.166066+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 6,
-        "change": 0
+        "rank": 7,
+        "change": -1
       },
       {
         "id": "i5ae392bf",
@@ -914,8 +1334,8 @@
         "last_seen": "2026-10-03T18:39:57.662536+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 7,
-        "change": 0
+        "rank": 8,
+        "change": -1
       },
       {
         "id": "i039fd79c",
@@ -954,50 +1374,57 @@
         "last_seen": "2026-10-04T02:38:46.688956+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 8,
-        "change": 0
+        "rank": 9,
+        "change": -1
       },
       {
-        "id": "i8b4085e0",
-        "title": "‘아시안게임’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i707041a3",
+        "title": "축구 금메달 세레머니 훼방놓은 일본인들",
         "keywords": [
-          "아시안게임"
+          "축구",
+          "금메달"
         ],
         "source_count": 3,
-        "post_count": 5,
-        "score": 116.84,
-        "peak_score": 91.02,
-        "appearances": 12,
+        "post_count": 3,
+        "score": 116.63,
+        "peak_score": 95.23,
+        "appearances": 7,
         "sources": [
           "더쿠",
           "디시인사이드",
-          "루리웹",
           "뽐뿌",
           "인벤",
           "클리앙"
         ],
         "posts": [
           {
-            "source": "뽐뿌",
-            "rank": 46,
-            "title": "아시안게임 축구 금메달 한국 국기 게양 실패에 대한 일본 반응 ㄷㄷ.jpg",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=soccer&no=189311",
-            "score": 62.07
+            "source": "디시인사이드",
+            "rank": 8,
+            "title": "축구 금메달 세레머니 훼방놓은 일본인들",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467795&_dcbest=1&page=1",
+            "score": 80.23
           },
           {
             "source": "더쿠",
-            "rank": 53,
-            "title": "일본인조차 실례라고 말하는 아시안게임",
-            "url": "https://theqoo.net/hot/4364415071",
-            "score": 60.53
+            "rank": 9,
+            "title": "축구 금메달 선수 인스타 논란",
+            "url": "https://theqoo.net/hot/4364565661",
+            "score": 78.84
+          },
+          {
+            "source": "인벤",
+            "rank": 45,
+            "title": "올림픽) 축구 금메달 국기게양 VAR 결과 나왔 네요",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2736009",
+            "score": 61.08
           }
         ],
         "first_seen": "2026-09-27T20:01:41.851026+09:00",
-        "last_seen": "2026-10-04T08:47:53.166066+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 9,
-        "change": 0
+        "last_seen": "2026-10-04T11:44:43.352420+09:00",
+        "latest_source_count": 3,
+        "latest_post_count": 3,
+        "rank": 10,
+        "change": "NEW"
       },
       {
         "id": "i0c93084d",
@@ -1037,8 +1464,8 @@
         "last_seen": "2026-09-29T03:16:54.567078+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 10,
-        "change": 0
+        "rank": 11,
+        "change": -1
       },
       {
         "id": "i76aeafd1",
@@ -1076,8 +1503,8 @@
         "last_seen": "2026-10-01T09:33:11.658888+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
-        "change": 0
+        "rank": 12,
+        "change": -1
       },
       {
         "id": "if553a5cf",
@@ -1114,8 +1541,8 @@
         "last_seen": "2026-10-02T11:10:36.587418+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 12,
-        "change": 0
+        "rank": 13,
+        "change": -1
       },
       {
         "id": "i106465f0",
@@ -1155,8 +1582,8 @@
         "last_seen": "2026-10-03T18:39:57.662536+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 13,
-        "change": 0
+        "rank": 14,
+        "change": -1
       },
       {
         "id": "i8447a234",
@@ -1194,8 +1621,8 @@
         "last_seen": "2026-10-02T11:10:36.587418+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 14,
-        "change": 0
+        "rank": 15,
+        "change": -1
       },
       {
         "id": "ia99bde06",
@@ -1235,8 +1662,8 @@
         "last_seen": "2026-09-28T13:04:57.705093+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 15,
-        "change": 0
+        "rank": 16,
+        "change": -1
       },
       {
         "id": "ia9e1f70b",
@@ -1274,8 +1701,8 @@
         "last_seen": "2026-10-03T17:31:33.747059+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 16,
-        "change": 0
+        "rank": 17,
+        "change": -1
       },
       {
         "id": "i81e4b6ca",
@@ -1315,8 +1742,8 @@
         "last_seen": "2026-09-29T18:06:58.844578+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 17,
-        "change": 0
+        "rank": 18,
+        "change": -1
       },
       {
         "id": "i46d45bb2",
@@ -1356,8 +1783,8 @@
         "last_seen": "2026-10-03T12:47:13.694231+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 18,
-        "change": 0
+        "rank": 19,
+        "change": -1
       },
       {
         "id": "i68d53cf7",
@@ -1394,47 +1821,8 @@
         "last_seen": "2026-10-04T05:13:51.095432+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 19,
-        "change": 0
-      },
-      {
-        "id": "i09667a01",
-        "title": "‘시간문제’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "시간문제",
-          "우크라"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 111.89,
-        "peak_score": 102.42,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "루리웹"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 3,
-            "title": "우크라 \"남북한 무력충돌 시간문제\"… 北포로 공방 중 'DMZ 사고' 언급",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/76839316?m=humor",
-            "score": 93.42
-          },
-          {
-            "source": "더쿠",
-            "rank": 76,
-            "title": "우크라 \"남북한 무력충돌 시간문제\"",
-            "url": "https://theqoo.net/hot/4359317225",
-            "score": 55.95
-          }
-        ],
-        "first_seen": "2026-09-29T03:16:54.567078+09:00",
-        "last_seen": "2026-09-29T03:16:54.567078+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 20,
-        "change": 0
+        "change": -1
       }
     ],
     "monthly": [
@@ -1567,6 +1955,48 @@
         "change": 0
       },
       {
+        "id": "i8b4085e0",
+        "title": "‘아시안게임’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "아시안게임"
+        ],
+        "source_count": 3,
+        "post_count": 5,
+        "score": 130.24,
+        "peak_score": 105.25,
+        "appearances": 10,
+        "sources": [
+          "더쿠",
+          "디시인사이드",
+          "루리웹",
+          "뽐뿌",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 3,
+            "title": "반나절 만에 욕을 먹고 있는 아시안게임 축구대표팀.jpg",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76901594?m=humor",
+            "score": 94.25
+          },
+          {
+            "source": "인벤",
+            "rank": 10,
+            "title": "이번 아시안게임 축구 군면제 빡치는 이유",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2736021",
+            "score": 77.31
+          }
+        ],
+        "first_seen": "2026-09-27T20:01:41.851026+09:00",
+        "last_seen": "2026-10-04T11:44:43.352420+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 4,
+        "rank": 4,
+        "change": 11
+      },
+      {
         "id": "i78f6419e",
         "title": "‘암살자’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -1604,8 +2034,8 @@
         "last_seen": "2026-10-04T08:47:53.166066+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 4,
-        "change": 0
+        "rank": 5,
+        "change": -1
       },
       {
         "id": "i5ae392bf",
@@ -1645,8 +2075,8 @@
         "last_seen": "2026-10-03T18:39:57.662536+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 5,
-        "change": 0
+        "rank": 6,
+        "change": -1
       },
       {
         "id": "i039fd79c",
@@ -1685,8 +2115,57 @@
         "last_seen": "2026-10-04T02:38:46.688956+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 6,
-        "change": 0
+        "rank": 7,
+        "change": -1
+      },
+      {
+        "id": "i707041a3",
+        "title": "축구 금메달 세레머니 훼방놓은 일본인들",
+        "keywords": [
+          "축구",
+          "금메달"
+        ],
+        "source_count": 3,
+        "post_count": 3,
+        "score": 115.96,
+        "peak_score": 95.23,
+        "appearances": 6,
+        "sources": [
+          "더쿠",
+          "디시인사이드",
+          "뽐뿌",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 8,
+            "title": "축구 금메달 세레머니 훼방놓은 일본인들",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467795&_dcbest=1&page=1",
+            "score": 80.23
+          },
+          {
+            "source": "더쿠",
+            "rank": 9,
+            "title": "축구 금메달 선수 인스타 논란",
+            "url": "https://theqoo.net/hot/4364565661",
+            "score": 78.84
+          },
+          {
+            "source": "인벤",
+            "rank": 45,
+            "title": "올림픽) 축구 금메달 국기게양 VAR 결과 나왔 네요",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2736009",
+            "score": 61.08
+          }
+        ],
+        "first_seen": "2026-09-27T20:01:41.851026+09:00",
+        "last_seen": "2026-10-04T11:44:43.352420+09:00",
+        "latest_source_count": 3,
+        "latest_post_count": 3,
+        "rank": 8,
+        "change": 10
       },
       {
         "id": "i76aeafd1",
@@ -1724,8 +2203,8 @@
         "last_seen": "2026-10-01T09:33:11.658888+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 7,
-        "change": 0
+        "rank": 9,
+        "change": -2
       },
       {
         "id": "if553a5cf",
@@ -1762,8 +2241,8 @@
         "last_seen": "2026-10-02T11:10:36.587418+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 8,
-        "change": 0
+        "rank": 10,
+        "change": -2
       },
       {
         "id": "i8447a234",
@@ -1801,8 +2280,8 @@
         "last_seen": "2026-10-02T11:10:36.587418+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 9,
-        "change": 0
+        "rank": 11,
+        "change": -2
       },
       {
         "id": "ia9e1f70b",
@@ -1840,8 +2319,8 @@
         "last_seen": "2026-10-03T17:31:33.747059+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 10,
-        "change": 0
+        "rank": 12,
+        "change": -2
       },
       {
         "id": "i106465f0",
@@ -1881,8 +2360,8 @@
         "last_seen": "2026-10-03T18:39:57.662536+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
-        "change": 0
+        "rank": 13,
+        "change": -2
       },
       {
         "id": "i68d53cf7",
@@ -1919,8 +2398,8 @@
         "last_seen": "2026-10-04T05:13:51.095432+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 12,
-        "change": 0
+        "rank": 14,
+        "change": -2
       },
       {
         "id": "i46d45bb2",
@@ -1958,8 +2437,8 @@
         "last_seen": "2026-10-03T12:47:13.694231+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 13,
-        "change": 0
+        "rank": 15,
+        "change": -2
       },
       {
         "id": "i2c099e33",
@@ -1996,50 +2475,98 @@
         "last_seen": "2026-10-02T04:00:21.148239+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 14,
-        "change": 0
+        "rank": 16,
+        "change": -2
       },
       {
-        "id": "i8b4085e0",
-        "title": "‘아시안게임’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "ibd61c9f9",
+        "title": "'韓 최고 재능' 양민혁, 역대급 크로스→드디어 입 열다 \"금메달이고 트로피고 다 중요하지 않아…군 면제 하나만 봤다\" [현장인터뷰]",
         "keywords": [
-          "아시안게임"
+          "중요하지",
+          "면제",
+          "않아",
+          "트로피고",
+          "양민혁",
+          "금메달이고"
         ],
         "source_count": 3,
-        "post_count": 5,
-        "score": 107.25,
-        "peak_score": 82.74,
-        "appearances": 9,
+        "post_count": 3,
+        "score": 105.84,
+        "peak_score": 91.37,
+        "appearances": 1,
         "sources": [
           "더쿠",
-          "디시인사이드",
-          "루리웹",
-          "뽐뿌",
           "인벤",
           "클리앙"
         ],
         "posts": [
           {
-            "source": "뽐뿌",
-            "rank": 46,
-            "title": "아시안게임 축구 금메달 한국 국기 게양 실패에 대한 일본 반응 ㄷㄷ.jpg",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=soccer&no=189311",
-            "score": 62.07
+            "source": "더쿠",
+            "rank": 12,
+            "title": "'韓 최고 재능' 양민혁, 역대급 크로스→드디어 입 열다 \"금메달이고 트로피고 다 중요하지 않아…군 면제 하나만 봤다\" [현장인터뷰]",
+            "url": "https://theqoo.net/hot/4364534101",
+            "score": 76.37
           },
           {
-            "source": "더쿠",
-            "rank": 53,
-            "title": "일본인조차 실례라고 말하는 아시안게임",
-            "url": "https://theqoo.net/hot/4364415071",
-            "score": 60.53
+            "source": "인벤",
+            "rank": 26,
+            "title": "양민혁 \"금메달이고 트로피고 다 중요하지 않아…군 면제 하나만 봤다\"",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2736016",
+            "score": 67.61
+          },
+          {
+            "source": "클리앙",
+            "rank": 90,
+            "title": "금메달이고 트로피고 다 중요하지 않아…군 면제 하나만 봤다",
+            "url": "https://www.clien.net/service/board/park/19273287?od=T31&po=0&category=0&groupCd=",
+            "score": 52.73
           }
         ],
-        "first_seen": "2026-09-27T20:01:41.851026+09:00",
-        "last_seen": "2026-10-04T08:47:53.166066+09:00",
+        "first_seen": "2026-10-04T11:44:43.352420+09:00",
+        "last_seen": "2026-10-04T11:44:43.352420+09:00",
+        "latest_source_count": 3,
+        "latest_post_count": 3,
+        "rank": 17,
+        "change": "NEW"
+      },
+      {
+        "id": "i9f5e1ed4",
+        "title": "‘인스타’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "인스타"
+        ],
+        "source_count": 2,
+        "post_count": 9,
+        "score": 105.33,
+        "peak_score": 87.84,
+        "appearances": 2,
+        "sources": [
+          "더쿠",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "더쿠",
+            "rank": 9,
+            "title": "축구 금메달 선수 인스타 논란",
+            "url": "https://theqoo.net/hot/4364565661",
+            "score": 78.84
+          },
+          {
+            "source": "인벤",
+            "rank": 43,
+            "title": "전역모 쓰고 인스타 아시안게임 축구대표 박승수",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2736014",
+            "score": 61.26
+          }
+        ],
+        "first_seen": "2026-09-29T08:23:09.958029+09:00",
+        "last_seen": "2026-10-04T11:44:43.352420+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 15,
-        "change": 0
+        "rank": 18,
+        "change": "NEW"
       },
       {
         "id": "ic037995c",
@@ -2076,8 +2603,8 @@
         "last_seen": "2026-10-01T22:54:48.352543+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 16,
-        "change": 0
+        "rank": 19,
+        "change": -3
       },
       {
         "id": "i00705cf2",
@@ -2122,128 +2649,8 @@
         "last_seen": "2026-10-01T00:51:55.502360+09:00",
         "latest_source_count": 3,
         "latest_post_count": 3,
-        "rank": 17,
-        "change": 0
-      },
-      {
-        "id": "i707041a3",
-        "title": "‘금메달’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "금메달"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 102.72,
-        "peak_score": 87.76,
-        "appearances": 5,
-        "sources": [
-          "더쿠",
-          "디시인사이드",
-          "뽐뿌",
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 8,
-            "title": "올림픽) 축구 금메달 국기게양 VAR 결과 나왔네요 ㄷㄷ.mp4",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10141188",
-            "score": 78.76
-          },
-          {
-            "source": "클리앙",
-            "rank": 31,
-            "title": "축구 금메달 딴 나라 국기 안올리는 일본",
-            "url": "https://www.clien.net/service/board/park/19273228?od=T31&po=0&category=0&groupCd=",
-            "score": 67.39
-          }
-        ],
-        "first_seen": "2026-09-27T20:01:41.851026+09:00",
-        "last_seen": "2026-10-04T06:13:27.410063+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 18,
-        "change": 0
-      },
-      {
-        "id": "i62196098",
-        "title": "‘김지용’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "김지용"
-        ],
-        "source_count": 2,
-        "post_count": 3,
-        "score": 102.71,
-        "peak_score": 87.66,
-        "appearances": 4,
-        "sources": [
-          "뽐뿌",
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 20,
-            "title": "속보)이통, 김지용 중수청장 임명",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10138698",
-            "score": 71.24
-          },
-          {
-            "source": "클리앙",
-            "rank": 39,
-            "title": "김지용, 박은정 남편 누가 더 별로인가요",
-            "url": "https://www.clien.net/service/board/park/19272510?od=T31&po=0&category=0&groupCd=",
-            "score": 64.13
-          }
-        ],
-        "first_seen": "2026-10-01T15:08:17.635290+09:00",
-        "last_seen": "2026-10-02T08:05:57.140972+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 3,
-        "rank": 19,
-        "change": 0
-      },
-      {
-        "id": "i13e10e10",
-        "title": "아내랑 싸워서 ㅈㄴ 짜증나서 그런데",
-        "keywords": [
-          "싸워서",
-          "아내랑",
-          "짜증나서"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 101.32,
-        "peak_score": 91.85,
-        "appearances": 1,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 4,
-            "title": "아내랑 싸워서 ㅈㄴ 짜증나서 그런데",
-            "url": "https://www.clien.net/service/board/park/19272262?od=T31&po=0&category=0&groupCd=",
-            "score": 83.85
-          },
-          {
-            "source": "인벤",
-            "rank": 8,
-            "title": "아내랑 싸워서 ㅈㄴ 짜증나서 그런데",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2734853",
-            "score": 74.98
-          }
-        ],
-        "first_seen": "2026-10-01T15:08:17.635290+09:00",
-        "last_seen": "2026-10-01T15:08:17.635290+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 20,
-        "change": 0
+        "change": -3
       }
     ]
   }
