@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-10-05T03:47:41.149271+09:00",
+  "collected_at": "2026-10-05T06:40:10.175480+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -11,56 +11,6 @@
   "rankings": {
     "realtime": [
       {
-        "id": "i106465f0",
-        "title": "‘암살자들’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "암살자들"
-        ],
-        "source_count": 4,
-        "post_count": 4,
-        "score": 89.37,
-        "peak_score": 89.37,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "뽐뿌",
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 38,
-            "title": "암살자들 보고 왔습니다. (노스포)",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10141963",
-            "score": 64.37
-          },
-          {
-            "source": "클리앙",
-            "rank": 71,
-            "title": "암살자들 보고 왔는데 재미있네요 소문(?)과는 다릅니다",
-            "url": "https://www.clien.net/service/board/park/19273574?od=T31&po=0&category=0&groupCd=",
-            "score": 56.23
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 80,
-            "title": "암살자들 매크로 주작 확인..네이버 수사 의뢰",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467919&_dcbest=1&page=1",
-            "score": 53.6
-          },
-          {
-            "source": "인벤",
-            "rank": 91,
-            "title": "암살자들 영화로 국민의힘이 선동하는중",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2736271",
-            "score": 51.15
-          }
-        ],
-        "rank": 1,
-        "change": 0
-      },
-      {
         "id": "i039fd79c",
         "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -68,8 +18,8 @@
         ],
         "source_count": 2,
         "post_count": 3,
-        "score": 85.38,
-        "peak_score": 85.38,
+        "score": 84.07,
+        "peak_score": 84.07,
         "appearances": 1,
         "sources": [
           "뽐뿌",
@@ -78,88 +28,20 @@
         "posts": [
           {
             "source": "클리앙",
-            "rank": 11,
+            "rank": 22,
             "title": "🔴친일자산 철저환수 / 역시 이재명 대통령이시네요. ㅎㅎ",
             "url": "https://www.clien.net/service/board/park/19273589?od=T31&po=0&category=0&groupCd=",
-            "score": 75.38
+            "score": 74.07
           },
           {
             "source": "뽐뿌",
-            "rank": 23,
+            "rank": 30,
             "title": "최배근)교수 이재명 지지 철회",
             "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10141996",
-            "score": 68.58
+            "score": 70.12
           }
         ],
-        "rank": 2,
-        "change": 0
-      },
-      {
-        "id": "ib3876eed",
-        "title": "‘논란에’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "논란에"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 76.51,
-        "peak_score": 76.51,
-        "appearances": 1,
-        "sources": [
-          "뽐뿌",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 26,
-            "title": "조국) 중수청장 논란에 대한 대통령 논리는 논점 흐리기이다",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10141953",
-            "score": 67.51
-          },
-          {
-            "source": "인벤",
-            "rank": 40,
-            "title": "유해진 자택 앞 시위‥'북한상' 논란에 광고 불매 시위까지 확산 (2026.10.04/뉴스데스크/MBC)",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2736302",
-            "score": 63.82
-          }
-        ],
-        "rank": 3,
-        "change": 1
-      },
-      {
-        "id": "ib3fd2c1d",
-        "title": "‘노스포’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "노스포"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 73.37,
-        "peak_score": 73.37,
-        "appearances": 1,
-        "sources": [
-          "뽐뿌",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 38,
-            "title": "암살자들 보고 왔습니다. (노스포)",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10141963",
-            "score": 64.37
-          },
-          {
-            "source": "인벤",
-            "rank": 39,
-            "title": "(노스포)암살자(들) 보고 온 솔직 후기",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2736291",
-            "score": 64.25
-          }
-        ],
-        "rank": 4,
+        "rank": 1,
         "change": 1
       },
       {
@@ -169,9 +51,9 @@
           "암살자"
         ],
         "source_count": 2,
-        "post_count": 2,
-        "score": 73.25,
-        "peak_score": 73.25,
+        "post_count": 3,
+        "score": 73.05,
+        "peak_score": 73.05,
         "appearances": 1,
         "sources": [
           "디시인사이드",
@@ -180,21 +62,123 @@
         "posts": [
           {
             "source": "인벤",
-            "rank": 39,
+            "rank": 50,
             "title": "(노스포)암살자(들) 보고 온 솔직 후기",
             "url": "https://www.inven.co.kr/board/webzine/2097/2736291",
-            "score": 64.25
+            "score": 63.05
           },
           {
             "source": "디시인사이드",
-            "rank": 99,
-            "title": "암살자(들)' 관람평 매크로 조작 정황 확인…네이버, 경찰에",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467925&_dcbest=1&page=1",
-            "score": 49.7
+            "rank": 95,
+            "title": "‘암살자(들)’ 역사왜곡 논란…유해진 자택 앞 집회",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467901&_dcbest=1&page=1",
+            "score": 48.61
+          }
+        ],
+        "rank": 2,
+        "change": 3
+      },
+      {
+        "id": "i7b918478",
+        "title": "‘일본에서’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "일본에서"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 105.36,
+        "peak_score": 105.36,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "루리웹"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 1,
+            "title": "일본에서 난리난 가정필수교육",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76911649?m=humor",
+            "score": 96.36
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 29,
+            "title": "2016년 일본에서 실종 된 실종자의 사라진 뒷계정과 게시글",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467975&_dcbest=1&page=1",
+            "score": 70.7
+          }
+        ],
+        "rank": 3,
+        "change": "NEW"
+      },
+      {
+        "id": "ife021da2",
+        "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "난리난"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 105.36,
+        "peak_score": 105.36,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "루리웹"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 1,
+            "title": "일본에서 난리난 가정필수교육",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76911649?m=humor",
+            "score": 96.36
+          },
+          {
+            "source": "더쿠",
+            "rank": 17,
+            "title": "현재 비주얼 하나로 난리난 남돌 출신 연예인......................jpg",
+            "url": "https://theqoo.net/hot/4365437448",
+            "score": 77.0
+          }
+        ],
+        "rank": 4,
+        "change": "NEW"
+      },
+      {
+        "id": "i00705cf2",
+        "title": "‘유해진’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "유해진"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 69.3,
+        "peak_score": 69.3,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 59,
+            "title": "유해진 자택 앞 시위‥'북한상' 논란에 광고 불매 시위까지 확산 (2026.10.04/뉴스데스크/MBC)",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2736302",
+            "score": 60.3
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 95,
+            "title": "‘암살자(들)’ 역사왜곡 논란…유해진 자택 앞 집회",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467901&_dcbest=1&page=1",
+            "score": 48.61
           }
         ],
         "rank": 5,
-        "change": 1
+        "change": "NEW"
       }
     ],
     "daily": [
@@ -253,6 +237,82 @@
         "change": 0
       },
       {
+        "id": "i7b918478",
+        "title": "‘일본에서’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "일본에서"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 114.83,
+        "peak_score": 105.36,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "루리웹"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 1,
+            "title": "일본에서 난리난 가정필수교육",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76911649?m=humor",
+            "score": 96.36
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 29,
+            "title": "2016년 일본에서 실종 된 실종자의 사라진 뒷계정과 게시글",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467975&_dcbest=1&page=1",
+            "score": 70.7
+          }
+        ],
+        "first_seen": "2026-10-03T04:55:10.124887+09:00",
+        "last_seen": "2026-10-05T06:40:10.175480+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 2,
+        "change": "NEW"
+      },
+      {
+        "id": "ife021da2",
+        "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "난리난"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 114.83,
+        "peak_score": 105.36,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "루리웹"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 1,
+            "title": "일본에서 난리난 가정필수교육",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76911649?m=humor",
+            "score": 96.36
+          },
+          {
+            "source": "더쿠",
+            "rank": 17,
+            "title": "현재 비주얼 하나로 난리난 남돌 출신 연예인......................jpg",
+            "url": "https://theqoo.net/hot/4365437448",
+            "score": 77.0
+          }
+        ],
+        "first_seen": "2026-09-29T11:40:38.000414+09:00",
+        "last_seen": "2026-10-05T06:40:10.175480+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 3,
+        "change": "NEW"
+      },
+      {
         "id": "i039fd79c",
         "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -260,9 +320,9 @@
         ],
         "source_count": 2,
         "post_count": 3,
-        "score": 97.87,
+        "score": 99.31,
         "peak_score": 85.38,
-        "appearances": 2,
+        "appearances": 3,
         "sources": [
           "뽐뿌",
           "클리앙"
@@ -270,25 +330,25 @@
         "posts": [
           {
             "source": "클리앙",
-            "rank": 11,
+            "rank": 22,
             "title": "🔴친일자산 철저환수 / 역시 이재명 대통령이시네요. ㅎㅎ",
             "url": "https://www.clien.net/service/board/park/19273589?od=T31&po=0&category=0&groupCd=",
-            "score": 75.38
+            "score": 74.07
           },
           {
             "source": "뽐뿌",
-            "rank": 23,
+            "rank": 30,
             "title": "최배근)교수 이재명 지지 철회",
             "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10141996",
-            "score": 68.58
+            "score": 70.12
           }
         ],
         "first_seen": "2026-09-27T13:38:37.715424+09:00",
-        "last_seen": "2026-10-05T03:47:41.149271+09:00",
+        "last_seen": "2026-10-05T06:40:10.175480+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 2,
-        "change": 0
+        "rank": 4,
+        "change": -2
       },
       {
         "id": "ifd24d317",
@@ -331,8 +391,46 @@
         "last_seen": "2026-10-05T00:30:26.011984+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 3,
-        "change": 0
+        "rank": 5,
+        "change": -2
+      },
+      {
+        "id": "i78f6419e",
+        "title": "‘암살자’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "암살자"
+        ],
+        "source_count": 2,
+        "post_count": 3,
+        "score": 89.42,
+        "peak_score": 75.49,
+        "appearances": 3,
+        "sources": [
+          "디시인사이드",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 50,
+            "title": "(노스포)암살자(들) 보고 온 솔직 후기",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2736291",
+            "score": 63.05
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 95,
+            "title": "‘암살자(들)’ 역사왜곡 논란…유해진 자택 앞 집회",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467901&_dcbest=1&page=1",
+            "score": 48.61
+          }
+        ],
+        "first_seen": "2026-09-27T20:23:34.525151+09:00",
+        "last_seen": "2026-10-05T06:40:10.175480+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 3,
+        "rank": 6,
+        "change": -1
       },
       {
         "id": "i5db928b2",
@@ -369,46 +467,8 @@
         "last_seen": "2026-10-05T03:20:14.855966+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 4,
-        "change": 0
-      },
-      {
-        "id": "i78f6419e",
-        "title": "‘암살자’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "암살자"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 86.98,
-        "peak_score": 75.49,
-        "appearances": 2,
-        "sources": [
-          "디시인사이드",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 39,
-            "title": "(노스포)암살자(들) 보고 온 솔직 후기",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2736291",
-            "score": 64.25
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 99,
-            "title": "암살자(들)' 관람평 매크로 조작 정황 확인…네이버, 경찰에",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467925&_dcbest=1&page=1",
-            "score": 49.7
-          }
-        ],
-        "first_seen": "2026-09-27T20:23:34.525151+09:00",
-        "last_seen": "2026-10-05T03:47:41.149271+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 5,
-        "change": 0
+        "rank": 7,
+        "change": -3
       },
       {
         "id": "ib3fd2c1d",
@@ -445,8 +505,8 @@
         "last_seen": "2026-10-05T03:47:41.149271+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 6,
-        "change": 0
+        "rank": 8,
+        "change": -2
       },
       {
         "id": "ia8451ee4",
@@ -483,8 +543,46 @@
         "last_seen": "2026-10-05T00:30:26.011984+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 7,
-        "change": 0
+        "rank": 9,
+        "change": -2
+      },
+      {
+        "id": "i00705cf2",
+        "title": "‘유해진’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "유해진"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 78.77,
+        "peak_score": 69.3,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 59,
+            "title": "유해진 자택 앞 시위‥'북한상' 논란에 광고 불매 시위까지 확산 (2026.10.04/뉴스데스크/MBC)",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2736302",
+            "score": 60.3
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 95,
+            "title": "‘암살자(들)’ 역사왜곡 논란…유해진 자택 앞 집회",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467901&_dcbest=1&page=1",
+            "score": 48.61
+          }
+        ],
+        "first_seen": "2026-10-01T00:51:55.502360+09:00",
+        "last_seen": "2026-10-05T06:40:10.175480+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 10,
+        "change": "NEW"
       }
     ],
     "weekly": [
@@ -543,6 +641,82 @@
         "change": 0
       },
       {
+        "id": "i7b918478",
+        "title": "‘일본에서’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "일본에서"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 114.83,
+        "peak_score": 105.36,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "루리웹"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 1,
+            "title": "일본에서 난리난 가정필수교육",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76911649?m=humor",
+            "score": 96.36
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 29,
+            "title": "2016년 일본에서 실종 된 실종자의 사라진 뒷계정과 게시글",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467975&_dcbest=1&page=1",
+            "score": 70.7
+          }
+        ],
+        "first_seen": "2026-10-03T04:55:10.124887+09:00",
+        "last_seen": "2026-10-05T06:40:10.175480+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 2,
+        "change": "NEW"
+      },
+      {
+        "id": "ife021da2",
+        "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "난리난"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 114.83,
+        "peak_score": 105.36,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "루리웹"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 1,
+            "title": "일본에서 난리난 가정필수교육",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76911649?m=humor",
+            "score": 96.36
+          },
+          {
+            "source": "더쿠",
+            "rank": 17,
+            "title": "현재 비주얼 하나로 난리난 남돌 출신 연예인......................jpg",
+            "url": "https://theqoo.net/hot/4365437448",
+            "score": 77.0
+          }
+        ],
+        "first_seen": "2026-09-29T11:40:38.000414+09:00",
+        "last_seen": "2026-10-05T06:40:10.175480+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 3,
+        "change": "NEW"
+      },
+      {
         "id": "i039fd79c",
         "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -550,9 +724,9 @@
         ],
         "source_count": 2,
         "post_count": 3,
-        "score": 97.87,
+        "score": 99.31,
         "peak_score": 85.38,
-        "appearances": 2,
+        "appearances": 3,
         "sources": [
           "뽐뿌",
           "클리앙"
@@ -560,25 +734,25 @@
         "posts": [
           {
             "source": "클리앙",
-            "rank": 11,
+            "rank": 22,
             "title": "🔴친일자산 철저환수 / 역시 이재명 대통령이시네요. ㅎㅎ",
             "url": "https://www.clien.net/service/board/park/19273589?od=T31&po=0&category=0&groupCd=",
-            "score": 75.38
+            "score": 74.07
           },
           {
             "source": "뽐뿌",
-            "rank": 23,
+            "rank": 30,
             "title": "최배근)교수 이재명 지지 철회",
             "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10141996",
-            "score": 68.58
+            "score": 70.12
           }
         ],
         "first_seen": "2026-09-27T13:38:37.715424+09:00",
-        "last_seen": "2026-10-05T03:47:41.149271+09:00",
+        "last_seen": "2026-10-05T06:40:10.175480+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 2,
-        "change": 0
+        "rank": 4,
+        "change": -2
       },
       {
         "id": "ifd24d317",
@@ -621,8 +795,46 @@
         "last_seen": "2026-10-05T00:30:26.011984+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 3,
-        "change": 0
+        "rank": 5,
+        "change": -2
+      },
+      {
+        "id": "i78f6419e",
+        "title": "‘암살자’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "암살자"
+        ],
+        "source_count": 2,
+        "post_count": 3,
+        "score": 89.42,
+        "peak_score": 75.49,
+        "appearances": 3,
+        "sources": [
+          "디시인사이드",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 50,
+            "title": "(노스포)암살자(들) 보고 온 솔직 후기",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2736291",
+            "score": 63.05
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 95,
+            "title": "‘암살자(들)’ 역사왜곡 논란…유해진 자택 앞 집회",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467901&_dcbest=1&page=1",
+            "score": 48.61
+          }
+        ],
+        "first_seen": "2026-09-27T20:23:34.525151+09:00",
+        "last_seen": "2026-10-05T06:40:10.175480+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 3,
+        "rank": 6,
+        "change": -1
       },
       {
         "id": "i5db928b2",
@@ -659,46 +871,8 @@
         "last_seen": "2026-10-05T03:20:14.855966+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 4,
-        "change": 0
-      },
-      {
-        "id": "i78f6419e",
-        "title": "‘암살자’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "암살자"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 86.98,
-        "peak_score": 75.49,
-        "appearances": 2,
-        "sources": [
-          "디시인사이드",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 39,
-            "title": "(노스포)암살자(들) 보고 온 솔직 후기",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2736291",
-            "score": 64.25
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 99,
-            "title": "암살자(들)' 관람평 매크로 조작 정황 확인…네이버, 경찰에",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467925&_dcbest=1&page=1",
-            "score": 49.7
-          }
-        ],
-        "first_seen": "2026-09-27T20:23:34.525151+09:00",
-        "last_seen": "2026-10-05T03:47:41.149271+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 5,
-        "change": 0
+        "rank": 7,
+        "change": -3
       },
       {
         "id": "ib3fd2c1d",
@@ -735,8 +909,8 @@
         "last_seen": "2026-10-05T03:47:41.149271+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 6,
-        "change": 0
+        "rank": 8,
+        "change": -2
       },
       {
         "id": "ia8451ee4",
@@ -773,8 +947,46 @@
         "last_seen": "2026-10-05T00:30:26.011984+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 7,
-        "change": 0
+        "rank": 9,
+        "change": -2
+      },
+      {
+        "id": "i00705cf2",
+        "title": "‘유해진’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "유해진"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 78.77,
+        "peak_score": 69.3,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 59,
+            "title": "유해진 자택 앞 시위‥'북한상' 논란에 광고 불매 시위까지 확산 (2026.10.04/뉴스데스크/MBC)",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2736302",
+            "score": 60.3
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 95,
+            "title": "‘암살자(들)’ 역사왜곡 논란…유해진 자택 앞 집회",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467901&_dcbest=1&page=1",
+            "score": 48.61
+          }
+        ],
+        "first_seen": "2026-10-01T00:51:55.502360+09:00",
+        "last_seen": "2026-10-05T06:40:10.175480+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 10,
+        "change": "NEW"
       }
     ],
     "monthly": [
@@ -956,9 +1168,9 @@
         ],
         "source_count": 3,
         "post_count": 5,
-        "score": 129.15,
+        "score": 129.47,
         "peak_score": 102.61,
-        "appearances": 14,
+        "appearances": 15,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -969,23 +1181,23 @@
         "posts": [
           {
             "source": "인벤",
-            "rank": 39,
+            "rank": 50,
             "title": "(노스포)암살자(들) 보고 온 솔직 후기",
             "url": "https://www.inven.co.kr/board/webzine/2097/2736291",
-            "score": 64.25
+            "score": 63.05
           },
           {
             "source": "디시인사이드",
-            "rank": 99,
-            "title": "암살자(들)' 관람평 매크로 조작 정황 확인…네이버, 경찰에",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467925&_dcbest=1&page=1",
-            "score": 49.7
+            "rank": 95,
+            "title": "‘암살자(들)’ 역사왜곡 논란…유해진 자택 앞 집회",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467901&_dcbest=1&page=1",
+            "score": 48.61
           }
         ],
         "first_seen": "2026-09-27T20:23:34.525151+09:00",
-        "last_seen": "2026-10-05T03:47:41.149271+09:00",
+        "last_seen": "2026-10-05T06:40:10.175480+09:00",
         "latest_source_count": 2,
-        "latest_post_count": 2,
+        "latest_post_count": 3,
         "rank": 5,
         "change": 0
       },
@@ -1093,9 +1305,9 @@
         ],
         "source_count": 3,
         "post_count": 5,
-        "score": 121.29,
+        "score": 121.72,
         "peak_score": 96.3,
-        "appearances": 10,
+        "appearances": 11,
         "sources": [
           "디시인사이드",
           "뽐뿌",
@@ -1105,25 +1317,65 @@
         "posts": [
           {
             "source": "클리앙",
-            "rank": 11,
+            "rank": 22,
             "title": "🔴친일자산 철저환수 / 역시 이재명 대통령이시네요. ㅎㅎ",
             "url": "https://www.clien.net/service/board/park/19273589?od=T31&po=0&category=0&groupCd=",
-            "score": 75.38
+            "score": 74.07
           },
           {
             "source": "뽐뿌",
-            "rank": 23,
+            "rank": 30,
             "title": "최배근)교수 이재명 지지 철회",
             "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10141996",
-            "score": 68.58
+            "score": 70.12
           }
         ],
         "first_seen": "2026-09-27T13:38:37.715424+09:00",
-        "last_seen": "2026-10-05T03:47:41.149271+09:00",
+        "last_seen": "2026-10-05T06:40:10.175480+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
         "rank": 8,
         "change": 0
+      },
+      {
+        "id": "i7b918478",
+        "title": "‘일본에서’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "일본에서"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 119.41,
+        "peak_score": 105.36,
+        "appearances": 4,
+        "sources": [
+          "디시인사이드",
+          "루리웹",
+          "뽐뿌",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 1,
+            "title": "일본에서 난리난 가정필수교육",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76911649?m=humor",
+            "score": 96.36
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 29,
+            "title": "2016년 일본에서 실종 된 실종자의 사라진 뒷계정과 게시글",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467975&_dcbest=1&page=1",
+            "score": 70.7
+          }
+        ],
+        "first_seen": "2026-10-03T04:55:10.124887+09:00",
+        "last_seen": "2026-10-05T06:40:10.175480+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 9,
+        "change": "NEW"
       },
       {
         "id": "i707041a3",
@@ -1172,8 +1424,8 @@
         "last_seen": "2026-10-04T13:18:15.113118+09:00",
         "latest_source_count": 3,
         "latest_post_count": 3,
-        "rank": 9,
-        "change": 0
+        "rank": 10,
+        "change": -1
       },
       {
         "id": "i76aeafd1",
@@ -1211,8 +1463,8 @@
         "last_seen": "2026-10-01T09:33:11.658888+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 10,
-        "change": 0
+        "rank": 11,
+        "change": -1
       },
       {
         "id": "if553a5cf",
@@ -1249,8 +1501,46 @@
         "last_seen": "2026-10-02T11:10:36.587418+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
-        "change": 0
+        "rank": 12,
+        "change": -1
+      },
+      {
+        "id": "ife021da2",
+        "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "난리난"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 114.83,
+        "peak_score": 105.36,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "루리웹"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 1,
+            "title": "일본에서 난리난 가정필수교육",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76911649?m=humor",
+            "score": 96.36
+          },
+          {
+            "source": "더쿠",
+            "rank": 17,
+            "title": "현재 비주얼 하나로 난리난 남돌 출신 연예인......................jpg",
+            "url": "https://theqoo.net/hot/4365437448",
+            "score": 77.0
+          }
+        ],
+        "first_seen": "2026-09-29T11:40:38.000414+09:00",
+        "last_seen": "2026-10-05T06:40:10.175480+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 13,
+        "change": "NEW"
       },
       {
         "id": "i8447a234",
@@ -1288,8 +1578,8 @@
         "last_seen": "2026-10-02T11:10:36.587418+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 12,
-        "change": 0
+        "rank": 14,
+        "change": -2
       },
       {
         "id": "ia9e1f70b",
@@ -1327,8 +1617,8 @@
         "last_seen": "2026-10-03T17:31:33.747059+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 13,
-        "change": 0
+        "rank": 15,
+        "change": -2
       },
       {
         "id": "i68d53cf7",
@@ -1365,8 +1655,8 @@
         "last_seen": "2026-10-04T05:13:51.095432+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 14,
-        "change": 0
+        "rank": 16,
+        "change": -2
       },
       {
         "id": "i46d45bb2",
@@ -1404,8 +1694,8 @@
         "last_seen": "2026-10-03T12:47:13.694231+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 15,
-        "change": 0
+        "rank": 17,
+        "change": -2
       },
       {
         "id": "i2c099e33",
@@ -1442,49 +1732,49 @@
         "last_seen": "2026-10-02T04:00:21.148239+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 16,
-        "change": 0
+        "rank": 18,
+        "change": -2
       },
       {
         "id": "i00705cf2",
-        "title": "실시간 유해진 집 앞 상황",
+        "title": "‘유해진’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "유해진",
-          "상황"
+          "유해진"
         ],
         "source_count": 3,
         "post_count": 3,
-        "score": 106.97,
+        "score": 108.09,
         "peak_score": 89.04,
-        "appearances": 3,
+        "appearances": 4,
         "sources": [
           "더쿠",
+          "디시인사이드",
           "뽐뿌",
           "인벤",
           "클리앙"
         ],
         "posts": [
           {
-            "source": "뽐뿌",
-            "rank": 18,
-            "title": "실시간 유해진 집 앞 상황",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10141827",
-            "score": 71.65
+            "source": "인벤",
+            "rank": 59,
+            "title": "유해진 자택 앞 시위‥'북한상' 논란에 광고 불매 시위까지 확산 (2026.10.04/뉴스데스크/MBC)",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2736302",
+            "score": 60.3
           },
           {
-            "source": "인벤",
-            "rank": 96,
-            "title": "배우 유해진 집앞 시위 상황",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2736174",
-            "score": 51.52
+            "source": "디시인사이드",
+            "rank": 95,
+            "title": "‘암살자(들)’ 역사왜곡 논란…유해진 자택 앞 집회",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467901&_dcbest=1&page=1",
+            "score": 48.61
           }
         ],
         "first_seen": "2026-10-01T00:51:55.502360+09:00",
-        "last_seen": "2026-10-04T19:41:52.553170+09:00",
+        "last_seen": "2026-10-05T06:40:10.175480+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 17,
-        "change": 0
+        "rank": 19,
+        "change": -2
       },
       {
         "id": "ibd61c9f9",
@@ -1534,85 +1824,8 @@
         "last_seen": "2026-10-04T11:44:43.352420+09:00",
         "latest_source_count": 3,
         "latest_post_count": 3,
-        "rank": 18,
-        "change": 0
-      },
-      {
-        "id": "i9f5e1ed4",
-        "title": "‘인스타’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "인스타"
-        ],
-        "source_count": 2,
-        "post_count": 9,
-        "score": 105.33,
-        "peak_score": 87.84,
-        "appearances": 2,
-        "sources": [
-          "더쿠",
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "더쿠",
-            "rank": 9,
-            "title": "축구 금메달 선수 인스타 논란",
-            "url": "https://theqoo.net/hot/4364565661",
-            "score": 78.84
-          },
-          {
-            "source": "인벤",
-            "rank": 43,
-            "title": "전역모 쓰고 인스타 아시안게임 축구대표 박승수",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2736014",
-            "score": 61.26
-          }
-        ],
-        "first_seen": "2026-09-29T08:23:09.958029+09:00",
-        "last_seen": "2026-10-04T11:44:43.352420+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 19,
-        "change": 0
-      },
-      {
-        "id": "ic037995c",
-        "title": "‘집회신고’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "집회신고"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 104.08,
-        "peak_score": 94.61,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "뽐뿌"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 4,
-            "title": "암살자 주연배우 유해진 자택 앞 집회신고 접수됨",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10138406",
-            "score": 85.61
-          },
-          {
-            "source": "더쿠",
-            "rank": 36,
-            "title": "암살자들 배우 집앞에 집회신고;;;;;",
-            "url": "https://theqoo.net/hot/4362331264",
-            "score": 65.58
-          }
-        ],
-        "first_seen": "2026-10-01T22:54:48.352543+09:00",
-        "last_seen": "2026-10-01T22:54:48.352543+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 20,
-        "change": 0
+        "change": -2
       }
     ]
   }
