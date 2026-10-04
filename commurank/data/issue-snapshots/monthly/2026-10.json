@@ -3,7 +3,7 @@
   "period": "monthly",
   "key": "2026-10",
   "label": "2026년 10월",
-  "collected_at": "2026-10-04T23:28:24.247654+09:00",
+  "collected_at": "2026-10-05T00:30:26.011984+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -266,6 +266,54 @@
       "change": 0
     },
     {
+      "id": "i106465f0",
+      "title": "‘암살자들’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "암살자들"
+      ],
+      "source_count": 3,
+      "post_count": 4,
+      "score": 123.66,
+      "peak_score": 100.15,
+      "appearances": 9,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "뽐뿌",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 6,
+          "title": "암살자들 영화로 국민의힘이 선동하는중",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2736271",
+          "score": 82.15
+        },
+        {
+          "source": "클리앙",
+          "rank": 14,
+          "title": "암살자들 보고 왔는데 재미있네요 소문(?)과는 다릅니다",
+          "url": "https://www.clien.net/service/board/park/19273574?od=T31&po=0&category=0&groupCd=",
+          "score": 74.77
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 52,
+          "title": "암살자들 매크로 주작 확인..네이버 수사 의뢰",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467919&_dcbest=1&page=1",
+          "score": 61.26
+        }
+      ],
+      "first_seen": "2026-09-27T18:16:30.778383+09:00",
+      "last_seen": "2026-10-05T00:30:26.011984+09:00",
+      "latest_source_count": 3,
+      "latest_post_count": 4,
+      "rank": 7,
+      "change": 6
+    },
+    {
       "id": "i039fd79c",
       "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -302,8 +350,8 @@
       "last_seen": "2026-10-04T13:18:15.113118+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": 0
+      "rank": 8,
+      "change": -1
     },
     {
       "id": "i707041a3",
@@ -352,8 +400,8 @@
       "last_seen": "2026-10-04T13:18:15.113118+09:00",
       "latest_source_count": 3,
       "latest_post_count": 3,
-      "rank": 8,
-      "change": 0
+      "rank": 9,
+      "change": -1
     },
     {
       "id": "i76aeafd1",
@@ -391,8 +439,8 @@
       "last_seen": "2026-10-01T09:33:11.658888+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 9,
-      "change": 0
+      "rank": 10,
+      "change": -1
     },
     {
       "id": "if553a5cf",
@@ -429,8 +477,8 @@
       "last_seen": "2026-10-02T11:10:36.587418+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 10,
-      "change": 0
+      "rank": 11,
+      "change": -1
     },
     {
       "id": "i8447a234",
@@ -468,8 +516,8 @@
       "last_seen": "2026-10-02T11:10:36.587418+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 11,
-      "change": 0
+      "rank": 12,
+      "change": -1
     },
     {
       "id": "ia9e1f70b",
@@ -507,49 +555,8 @@
       "last_seen": "2026-10-03T17:31:33.747059+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 12,
-      "change": 0
-    },
-    {
-      "id": "i106465f0",
-      "title": "‘암살자들’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "암살자들"
-      ],
-      "source_count": 3,
-      "post_count": 3,
-      "score": 112.74,
-      "peak_score": 90.75,
-      "appearances": 8,
-      "sources": [
-        "더쿠",
-        "디시인사이드",
-        "뽐뿌",
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 31,
-          "title": "부산국제영화제 암살자들 행사 취소",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467631&_dcbest=1&page=1",
-          "score": 68.41
-        },
-        {
-          "source": "클리앙",
-          "rank": 44,
-          "title": "암살자들, 로튼토마토 지수 100%",
-          "url": "https://www.clien.net/service/board/park/19273109?od=T31&po=0&category=0&groupCd=",
-          "score": 63.73
-        }
-      ],
-      "first_seen": "2026-09-27T18:16:30.778383+09:00",
-      "last_seen": "2026-10-03T18:39:57.662536+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 13,
-      "change": 0
+      "change": -1
     },
     {
       "id": "i68d53cf7",
