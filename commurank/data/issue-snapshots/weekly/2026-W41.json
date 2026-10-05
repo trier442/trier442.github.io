@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W41",
   "label": "2026.10.05 ~ 10.11",
-  "collected_at": "2026-10-06T00:32:36.331560+09:00",
+  "collected_at": "2026-10-06T06:36:15.476715+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -249,6 +249,44 @@
       "change": 0
     },
     {
+      "id": "i5d6688ff",
+      "title": "‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "네이버페이"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 107.87,
+      "peak_score": 98.4,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 4,
+          "title": "[네이버페이] 자음퀴즈 최대 5원 적립",
+          "url": "https://bbs.ruliweb.com/market/board/1020/read/107785",
+          "score": 89.4
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 33,
+          "title": "[란123] 네이버페이 97원 + 랜덤 포인트 받으세요 (+기타 270원)",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10143171",
+          "score": 68.52
+        }
+      ],
+      "first_seen": "2026-09-28T07:08:45.324597+09:00",
+      "last_seen": "2026-10-06T06:36:15.476715+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 7,
+      "change": "NEW"
+    },
+    {
       "id": "i039fd79c",
       "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -284,8 +322,8 @@
       "last_seen": "2026-10-05T23:25:29.795675+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 7,
-      "change": 0
+      "rank": 8,
+      "change": -1
     },
     {
       "id": "iaec9192e",
@@ -322,8 +360,8 @@
       "last_seen": "2026-10-05T09:57:10.444467+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 8,
-      "change": 0
+      "rank": 9,
+      "change": -1
     },
     {
       "id": "i78f6419e",
@@ -362,8 +400,8 @@
       "last_seen": "2026-10-06T00:32:36.331560+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 9,
-      "change": 0
+      "rank": 10,
+      "change": -1
     },
     {
       "id": "i1c6fbb40",
@@ -405,8 +443,8 @@
       "last_seen": "2026-10-05T14:53:01.854717+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 10,
-      "change": 0
+      "rank": 11,
+      "change": -1
     },
     {
       "id": "icb33dad5",
@@ -443,8 +481,8 @@
       "last_seen": "2026-10-05T15:44:40.983153+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 11,
-      "change": 0
+      "rank": 12,
+      "change": -1
     },
     {
       "id": "i106183b4",
@@ -481,7 +519,45 @@
       "last_seen": "2026-10-05T15:44:40.983153+09:00",
       "latest_source_count": 2,
       "latest_post_count": 4,
-      "rank": 12,
+      "rank": 13,
+      "change": -1
+    },
+    {
+      "id": "i9f5e1ed4",
+      "title": "‘인스타’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "인스타"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 95.93,
+      "peak_score": 82.0,
+      "appearances": 3,
+      "sources": [
+        "더쿠",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 29,
+          "title": "보디빌더 박우현 인스타 근황",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2736668",
+          "score": 70.16
+        },
+        {
+          "source": "더쿠",
+          "rank": 71,
+          "title": "핫게갔던 남돌 출신 정승환 인스타 업뎃....jpg",
+          "url": "https://theqoo.net/hot/4366272676",
+          "score": 56.26
+        }
+      ],
+      "first_seen": "2026-09-29T08:23:09.958029+09:00",
+      "last_seen": "2026-10-06T06:36:15.476715+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 3,
+      "rank": 14,
       "change": 0
     },
     {
@@ -525,46 +601,8 @@
       "last_seen": "2026-10-05T00:30:26.011984+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 13,
-      "change": 0
-    },
-    {
-      "id": "i9f5e1ed4",
-      "title": "‘인스타’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "인스타"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 93.49,
-      "peak_score": 82.0,
-      "appearances": 2,
-      "sources": [
-        "더쿠",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 37,
-          "title": "핫게갔던 남돌 출신 정승환 인스타 업뎃....jpg",
-          "url": "https://theqoo.net/hot/4366272676",
-          "score": 63.89
-        },
-        {
-          "source": "인벤",
-          "rank": 94,
-          "title": "가수 김다현 인스타 사진 업로드 근황",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2736626",
-          "score": 51.99
-        }
-      ],
-      "first_seen": "2026-09-29T08:23:09.958029+09:00",
-      "last_seen": "2026-10-06T00:32:36.331560+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 14,
-      "change": 1
+      "rank": 15,
+      "change": -2
     },
     {
       "id": "ib3fd2c1d",
@@ -601,8 +639,48 @@
       "last_seen": "2026-10-05T07:11:30.755767+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 15,
+      "rank": 16,
       "change": -1
+    },
+    {
+      "id": "i25f2c46f",
+      "title": "로맨스스캠 사기꾼들이 안망하는 이유",
+      "keywords": [
+        "안망하는",
+        "로맨스스캠",
+        "사기꾼들이"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 91.26,
+      "peak_score": 81.79,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 19,
+          "title": "로맨스스캠 사기꾼들이 안망하는 이유",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2736681",
+          "score": 73.79
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 21,
+          "title": "로맨스스캠 사기꾼들이 안망하는 이유.jpg",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10143141",
+          "score": 72.47
+        }
+      ],
+      "first_seen": "2026-10-06T06:36:15.476715+09:00",
+      "last_seen": "2026-10-06T06:36:15.476715+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 17,
+      "change": "NEW"
     },
     {
       "id": "i9aa41ed1",
@@ -645,8 +723,8 @@
       "last_seen": "2026-10-05T14:53:01.854717+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 16,
-      "change": 0
+      "rank": 18,
+      "change": -2
     },
     {
       "id": "iaf3fcbdb",
@@ -683,8 +761,8 @@
       "last_seen": "2026-10-05T14:53:01.854717+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 17,
-      "change": 0
+      "rank": 19,
+      "change": -2
     },
     {
       "id": "i5db928b2",
@@ -721,84 +799,8 @@
       "last_seen": "2026-10-05T03:20:14.855966+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 18,
-      "change": 0
-    },
-    {
-      "id": "ie6023320",
-      "title": "‘극단주의’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "극단주의"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 86.82,
-      "peak_score": 77.35,
-      "appearances": 1,
-      "sources": [
-        "뽐뿌",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 23,
-          "title": "추미애, “비루한 침묵보다 진실 남기겠다”...李대통령 ‘극단주의 경계’ 응수",
-          "url": "https://www.clien.net/service/board/park/19273730?od=T31&po=0&category=0&groupCd=",
-          "score": 68.35
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 89,
-          "title": "무책임한 극단주의 최고봉",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10142633",
-          "score": 53.86
-        }
-      ],
-      "first_seen": "2026-10-05T15:44:40.983153+09:00",
-      "last_seen": "2026-10-05T15:44:40.983153+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 19,
-      "change": 0
-    },
-    {
-      "id": "iaf37cd06",
-      "title": "‘그렇게’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "그렇게"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 86.52,
-      "peak_score": 77.05,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "루리웹"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 31,
-          "title": "신혼여행 때문에 개싸움 유럽을 그렇게 꼭 가야 해?",
-          "url": "https://theqoo.net/hot/4365599944",
-          "score": 68.05
-        },
-        {
-          "source": "루리웹",
-          "rank": 56,
-          "title": "(해리포터) \"그렇게 TS 하렘이 좋으면...\"",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/76916149?m=humor_only&t=now",
-          "score": 61.33
-        }
-      ],
-      "first_seen": "2026-10-05T14:53:01.854717+09:00",
-      "last_seen": "2026-10-05T14:53:01.854717+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 20,
-      "change": 0
+      "change": -2
     }
   ]
 }
