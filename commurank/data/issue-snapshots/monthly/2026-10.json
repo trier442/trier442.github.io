@@ -3,7 +3,7 @@
   "period": "monthly",
   "key": "2026-10",
   "label": "2026년 10월",
-  "collected_at": "2026-10-05T14:53:01.854717+09:00",
+  "collected_at": "2026-10-05T15:44:40.983153+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -14,9 +14,9 @@
       ],
       "source_count": 3,
       "post_count": 5,
-      "score": 143.12,
+      "score": 143.4,
       "peak_score": 115.95,
-      "appearances": 16,
+      "appearances": 17,
       "sources": [
         "더쿠",
         "디시인사이드",
@@ -27,26 +27,66 @@
       ],
       "posts": [
         {
-          "source": "뽐뿌",
-          "rank": 5,
-          "title": "아시안게임 군면제 폐지되겠네요 ㅋㅋ",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10142611",
-          "score": 82.65
-        },
-        {
           "source": "디시인사이드",
-          "rank": 17,
+          "rank": 22,
           "title": "온라인에 유포되고 있는 아시안게임 축구선수 '지뢰 세레머니' 가짜뉴스",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468031&_dcbest=1&page=1",
-          "score": 74.26
+          "score": 69.1
+        },
+        {
+          "source": "클리앙",
+          "rank": 71,
+          "title": "아시안게임 같은 경기에는",
+          "url": "https://www.clien.net/service/board/park/19273752?od=T31&po=0&category=0&groupCd=",
+          "score": 58.6
         }
       ],
       "first_seen": "2026-09-27T20:01:41.851026+09:00",
-      "last_seen": "2026-10-05T14:53:01.854717+09:00",
+      "last_seen": "2026-10-05T15:44:40.983153+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 1,
       "change": 0
+    },
+    {
+      "id": "icb33dad5",
+      "title": "‘sns’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "sns"
+      ],
+      "source_count": 3,
+      "post_count": 3,
+      "score": 133.0,
+      "peak_score": 113.04,
+      "appearances": 5,
+      "sources": [
+        "루리웹",
+        "뽐뿌",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 8,
+          "title": "이재명 sns",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2736450",
+          "score": 76.95
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 30,
+          "title": "김용민의원 방금 SNS",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10142628",
+          "score": 66.4
+        }
+      ],
+      "first_seen": "2026-09-29T18:03:51.886668+09:00",
+      "last_seen": "2026-10-05T15:44:40.983153+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 2,
+      "change": 1
     },
     {
       "id": "ic7c7aec6",
@@ -86,48 +126,8 @@
       "last_seen": "2026-10-03T22:39:51.098987+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 2,
-      "change": 0
-    },
-    {
-      "id": "icb33dad5",
-      "title": "‘sns’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "sns"
-      ],
-      "source_count": 3,
-      "post_count": 3,
-      "score": 132.09,
-      "peak_score": 113.04,
-      "appearances": 4,
-      "sources": [
-        "루리웹",
-        "뽐뿌",
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 10,
-          "title": "이재명 sns",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2736315",
-          "score": 79.78
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 72,
-          "title": "추미애 SNS 떴네요. jpg",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10142307",
-          "score": 56.35
-        }
-      ],
-      "first_seen": "2026-09-29T18:03:51.886668+09:00",
-      "last_seen": "2026-10-05T09:13:38.536627+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 3,
-      "change": 0
+      "change": -1
     },
     {
       "id": "i7f717bd5",
@@ -177,9 +177,9 @@
       ],
       "source_count": 3,
       "post_count": 5,
-      "score": 129.78,
+      "score": 130.06,
       "peak_score": 102.61,
-      "appearances": 16,
+      "appearances": 17,
       "sources": [
         "더쿠",
         "디시인사이드",
@@ -190,21 +190,21 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 15,
+          "rank": 11,
           "title": "‘암살자(들)’ 유해진 쪽 “인신공격·신변위협 매우 엄중…자료 수집중”",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468061&_dcbest=1&page=1",
-          "score": 74.75
+          "score": 75.71
         },
         {
           "source": "인벤",
-          "rank": 30,
+          "rank": 57,
           "title": "[속보] 최휘영 \"'암살자(들)' 신변 위협은 민주주의 파괴… 엄정 법 집행 요청\"",
           "url": "https://www.inven.co.kr/board/webzine/2097/2736439",
-          "score": 68.19
+          "score": 61.08
         }
       ],
       "first_seen": "2026-09-27T20:23:34.525151+09:00",
-      "last_seen": "2026-10-05T14:53:01.854717+09:00",
+      "last_seen": "2026-10-05T15:44:40.983153+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 5,
@@ -300,9 +300,9 @@
       ],
       "source_count": 3,
       "post_count": 5,
-      "score": 122.84,
+      "score": 123.16,
       "peak_score": 96.3,
-      "appearances": 14,
+      "appearances": 15,
       "sources": [
         "디시인사이드",
         "뽐뿌",
@@ -312,25 +312,67 @@
       "posts": [
         {
           "source": "인벤",
-          "rank": 33,
+          "rank": 8,
           "title": "이재명 sns",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2736315",
-          "score": 67.3
+          "url": "https://www.inven.co.kr/board/webzine/2097/2736450",
+          "score": 76.95
         },
         {
-          "source": "클리앙",
-          "rank": 57,
-          "title": "이재명 계속 응원하고 지지합니다",
-          "url": "https://www.clien.net/service/board/park/19273623?od=T31&po=0&category=0&groupCd=",
-          "score": 60.41
+          "source": "뽐뿌",
+          "rank": 64,
+          "title": "이재명 분석은 조성은 말이 딱이네요 ㅋ",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10142684",
+          "score": 59.44
         }
       ],
       "first_seen": "2026-09-27T13:38:37.715424+09:00",
-      "last_seen": "2026-10-05T09:57:10.444467+09:00",
+      "last_seen": "2026-10-05T15:44:40.983153+09:00",
       "latest_source_count": 2,
-      "latest_post_count": 3,
+      "latest_post_count": 2,
       "rank": 8,
       "change": 0
+    },
+    {
+      "id": "ia8451ee4",
+      "title": "‘군면제’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "군면제"
+      ],
+      "source_count": 3,
+      "post_count": 3,
+      "score": 122.38,
+      "peak_score": 102.42,
+      "appearances": 5,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "루리웹",
+        "뽐뿌",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 3,
+          "title": "금메달 군면제 이슈가 이렇게 커진 이유",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76915869?m=humor",
+          "score": 93.42
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 16,
+          "title": "싱글벙글 군면제 논란 여초 반응",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468053&_dcbest=1&page=1",
+          "score": 74.52
+        }
+      ],
+      "first_seen": "2026-09-29T18:03:51.886668+09:00",
+      "last_seen": "2026-10-05T15:44:40.983153+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 9,
+      "change": 1
     },
     {
       "id": "i7b918478",
@@ -369,57 +411,8 @@
       "last_seen": "2026-10-05T06:40:10.175480+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 9,
-      "change": 0
-    },
-    {
-      "id": "ia8451ee4",
-      "title": "‘군면제’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "군면제"
-      ],
-      "source_count": 3,
-      "post_count": 3,
-      "score": 118.7,
-      "peak_score": 99.65,
-      "appearances": 4,
-      "sources": [
-        "더쿠",
-        "디시인사이드",
-        "루리웹",
-        "뽐뿌",
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 5,
-          "title": "아시안게임 군면제 폐지되겠네요 ㅋㅋ",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10142611",
-          "score": 82.65
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 12,
-          "title": "싱글벙글 군면제 논란 여초 반응",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468053&_dcbest=1&page=1",
-          "score": 76.56
-        },
-        {
-          "source": "루리웹",
-          "rank": 59,
-          "title": "이번 군면제 건으로 다시 튀어나온 논란",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/76916135?m=humor_only&t=now",
-          "score": 60.85
-        }
-      ],
-      "first_seen": "2026-09-29T18:03:51.886668+09:00",
-      "last_seen": "2026-10-05T14:53:01.854717+09:00",
-      "latest_source_count": 3,
-      "latest_post_count": 3,
       "rank": 10,
-      "change": "NEW"
+      "change": -1
     },
     {
       "id": "i707041a3",
@@ -469,7 +462,7 @@
       "latest_source_count": 3,
       "latest_post_count": 3,
       "rank": 11,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i76aeafd1",
@@ -508,7 +501,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 12,
-      "change": -1
+      "change": 0
     },
     {
       "id": "if553a5cf",
@@ -546,7 +539,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 13,
-      "change": -1
+      "change": 0
     },
     {
       "id": "ife021da2",
@@ -584,7 +577,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 14,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i8447a234",
@@ -623,7 +616,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 15,
-      "change": -1
+      "change": 0
     },
     {
       "id": "ia9e1f70b",
@@ -662,7 +655,55 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 16,
-      "change": -1
+      "change": 0
+    },
+    {
+      "id": "i00705cf2",
+      "title": "‘유해진’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "유해진"
+      ],
+      "source_count": 3,
+      "post_count": 3,
+      "score": 113.44,
+      "peak_score": 92.71,
+      "appearances": 6,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "뽐뿌",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 11,
+          "title": "‘암살자(들)’ 유해진 쪽 “인신공격·신변위협 매우 엄중…자료 수집중”",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468061&_dcbest=1&page=1",
+          "score": 75.71
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 26,
+          "title": "배우 유해진 소속사 공지",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10142473",
+          "score": 67.8
+        },
+        {
+          "source": "인벤",
+          "rank": 28,
+          "title": "유해진 측, 강경 대응 예고.. 신변 위협명예 훼 손, 모든 조치 취할 것",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2736440",
+          "score": 66.77
+        }
+      ],
+      "first_seen": "2026-10-01T00:51:55.502360+09:00",
+      "last_seen": "2026-10-05T15:44:40.983153+09:00",
+      "latest_source_count": 3,
+      "latest_post_count": 3,
+      "rank": 17,
+      "change": 2
     },
     {
       "id": "i68d53cf7",
@@ -699,7 +740,7 @@
       "last_seen": "2026-10-04T05:13:51.095432+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 17,
+      "rank": 18,
       "change": -1
     },
     {
@@ -736,47 +777,6 @@
       ],
       "first_seen": "2026-09-30T19:29:43.128023+09:00",
       "last_seen": "2026-10-03T12:47:13.694231+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 18,
-      "change": -1
-    },
-    {
-      "id": "i00705cf2",
-      "title": "‘유해진’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "유해진"
-      ],
-      "source_count": 3,
-      "post_count": 3,
-      "score": 110.46,
-      "peak_score": 90.5,
-      "appearances": 5,
-      "sources": [
-        "더쿠",
-        "디시인사이드",
-        "뽐뿌",
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 8,
-          "title": "유해진 관상 ㅎㄷ",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10141951",
-          "score": 81.5
-        },
-        {
-          "source": "인벤",
-          "rank": 97,
-          "title": "유해진 자택 앞 시위‥'북한상' 논란에 광고 불매 시위까지 확산 (2026.10.04/뉴스데스크/MBC)",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2736302",
-          "score": 50.55
-        }
-      ],
-      "first_seen": "2026-10-01T00:51:55.502360+09:00",
-      "last_seen": "2026-10-05T09:13:38.536627+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 19,
@@ -818,7 +818,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 20,
-      "change": -1
+      "change": 0
     }
   ]
 }
