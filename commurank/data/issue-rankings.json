@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-10-05T09:13:38.536627+09:00",
+  "collected_at": "2026-10-05T09:57:10.444467+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -11,46 +11,74 @@
   "rankings": {
     "realtime": [
       {
-        "id": "i8b4085e0",
-        "title": "‘아시안게임’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i039fd79c",
+        "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "아시안게임"
+          "이재명"
         ],
-        "source_count": 3,
+        "source_count": 2,
         "post_count": 3,
-        "score": 91.58,
-        "peak_score": 91.58,
+        "score": 77.3,
+        "peak_score": 77.3,
         "appearances": 1,
         "sources": [
-          "뽐뿌",
           "인벤",
           "클리앙"
         ],
         "posts": [
           {
-            "source": "뽐뿌",
-            "rank": 17,
-            "title": "이번 아시안게임 축구애들 ㅂㅅ들만 모인건가",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10142207",
-            "score": 74.58
-          },
-          {
             "source": "인벤",
-            "rank": 50,
-            "title": "아시안게임 축구 대표팀 최우진 선수 마녀사냥 살인스탭 쳐밟는 자랑스러운 국민의힘 2찍분들.jpg",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2736326",
-            "score": 61.69
+            "rank": 33,
+            "title": "이재명 sns",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2736315",
+            "score": 67.3
           },
           {
             "source": "클리앙",
-            "rank": 54,
-            "title": "[아시안게임] 유도 정수진, 계체 실격 폭로 '대상 아니라고 해서 음식 섭취'",
-            "url": "https://www.clien.net/service/board/park/19273628?od=T31&po=0&category=0&groupCd=",
-            "score": 61.26
+            "rank": 57,
+            "title": "이재명 계속 응원하고 지지합니다",
+            "url": "https://www.clien.net/service/board/park/19273623?od=T31&po=0&category=0&groupCd=",
+            "score": 60.41
           }
         ],
         "rank": 1,
-        "change": "NEW"
+        "change": 3
+      },
+      {
+        "id": "i8b4085e0",
+        "title": "싱글벙글 아시안게임 유도 계체탈락 선수 은퇴빵 폭로",
+        "keywords": [
+          "폭로",
+          "아시안게임",
+          "유도"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 85.28,
+        "peak_score": 85.28,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 12,
+            "title": "싱글벙글 아시안게임 유도 계체탈락 선수 은퇴빵 폭로",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468010&_dcbest=1&page=1",
+            "score": 77.28
+          },
+          {
+            "source": "클리앙",
+            "rank": 39,
+            "title": "[아시안게임] 유도 정수진, 계체 실격 폭로 '대상 아니라고 해서 음식 섭취'",
+            "url": "https://www.clien.net/service/board/park/19273628?od=T31&po=0&category=0&groupCd=",
+            "score": 65.34
+          }
+        ],
+        "rank": 2,
+        "change": -1
       },
       {
         "id": "iaec9192e",
@@ -60,8 +88,8 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 91.51,
-        "peak_score": 91.51,
+        "score": 81.0,
+        "peak_score": 81.0,
         "appearances": 1,
         "sources": [
           "뽐뿌",
@@ -70,135 +98,66 @@
         "posts": [
           {
             "source": "인벤",
-            "rank": 7,
+            "rank": 18,
             "title": "시간이 참 빨리 흐른단 증거 jpg",
             "url": "https://www.inven.co.kr/board/webzine/2097/2736321",
-            "score": 82.51
+            "score": 72.0
           },
           {
             "source": "뽐뿌",
-            "rank": 57,
+            "rank": 51,
             "title": "시간이 가면서 나이가 들면서 점점더 문재인대통령이 대단하다고 느껴집니다.",
             "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10142279",
-            "score": 60.3
-          }
-        ],
-        "rank": 2,
-        "change": "NEW"
-      },
-      {
-        "id": "i00705cf2",
-        "title": "‘유해진’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "유해진"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 90.5,
-        "peak_score": 90.5,
-        "appearances": 1,
-        "sources": [
-          "뽐뿌",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 8,
-            "title": "유해진 관상 ㅎㄷ",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10141951",
-            "score": 81.5
-          },
-          {
-            "source": "인벤",
-            "rank": 97,
-            "title": "유해진 자택 앞 시위‥'북한상' 논란에 광고 불매 시위까지 확산 (2026.10.04/뉴스데스크/MBC)",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2736302",
-            "score": 50.55
+            "score": 62.04
           }
         ],
         "rank": 3,
-        "change": "NEW"
+        "change": -1
       },
       {
-        "id": "i039fd79c",
-        "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i5c6da920",
+        "title": "‘중국의’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "이재명"
+          "중국의"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 88.78,
-        "peak_score": 88.78,
+        "score": 75.38,
+        "peak_score": 75.38,
         "appearances": 1,
         "sources": [
-          "인벤",
-          "클리앙"
+          "디시인사이드",
+          "루리웹"
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 10,
-            "title": "이재명 sns",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2736315",
-            "score": 79.78
+            "source": "디시인사이드",
+            "rank": 37,
+            "title": "우울우울 중국의 입시지옥",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467967&_dcbest=1&page=1",
+            "score": 66.38
           },
           {
-            "source": "클리앙",
-            "rank": 36,
-            "title": "이재명 계속 응원하고 지지합니다",
-            "url": "https://www.clien.net/service/board/park/19273623?od=T31&po=0&category=0&groupCd=",
-            "score": 66.7
+            "source": "루리웹",
+            "rank": 94,
+            "title": "중국의 입시 지옥",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76913288?m=humor_only&t=now",
+            "score": 53.95
           }
         ],
         "rank": 4,
-        "change": -3
-      },
-      {
-        "id": "icb33dad5",
-        "title": "‘sns’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "sns"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 88.78,
-        "peak_score": 88.78,
-        "appearances": 1,
-        "sources": [
-          "뽐뿌",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 10,
-            "title": "이재명 sns",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2736315",
-            "score": 79.78
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 72,
-            "title": "추미애 SNS 떴네요. jpg",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10142307",
-            "score": 56.35
-          }
-        ],
-        "rank": 5,
         "change": "NEW"
       },
       {
-        "id": "ie375bdab",
-        "title": "리얼미터] 이재명대통령 지지율",
+        "id": "i37ee91ac",
+        "title": "‘오디세이’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "리얼미터",
-          "지지율"
+          "오디세이"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 76.74,
-        "peak_score": 76.74,
+        "score": 69.48,
+        "peak_score": 69.48,
         "appearances": 1,
         "sources": [
           "인벤",
@@ -206,21 +165,21 @@
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 30,
-            "title": "리얼미터] 이재명대통령 지지율",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2736318",
-            "score": 68.74
+            "source": "클리앙",
+            "rank": 56,
+            "title": "[관객수] 영화 오디세이 - 1,200만명 돌파",
+            "url": "https://www.clien.net/service/board/park/19273644?od=T31&po=0&category=0&groupCd=",
+            "score": 60.48
           },
           {
-            "source": "클리앙",
-            "rank": 49,
-            "title": "李 지지율 37.4% 3주만에 하락…민주 42.5%·국힘 38.4% [리얼미터]",
-            "url": "https://www.clien.net/service/board/park/19273618?od=T31&po=0&category=0&groupCd=",
-            "score": 61.98
+            "source": "인벤",
+            "rank": 59,
+            "title": "한동안 조용하던 크리스토퍼 놀란 <오디세이> 국내 1200만 관객 돌파.jpg",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2736338",
+            "score": 60.4
           }
         ],
-        "rank": 6,
+        "rank": 5,
         "change": "NEW"
       }
     ],
@@ -343,49 +302,45 @@
       },
       {
         "id": "i8b4085e0",
-        "title": "‘아시안게임’ 관련 글이 여러 커뮤니티에서 화제",
+        "title": "싱글벙글 아시안게임 유도 계체탈락 선수 은퇴빵 폭로",
         "keywords": [
-          "아시안게임"
+          "폭로",
+          "아시안게임",
+          "유도"
         ],
         "source_count": 3,
         "post_count": 3,
-        "score": 106.05,
+        "score": 108.07,
         "peak_score": 91.58,
-        "appearances": 1,
+        "appearances": 2,
         "sources": [
+          "디시인사이드",
           "뽐뿌",
           "인벤",
           "클리앙"
         ],
         "posts": [
           {
-            "source": "뽐뿌",
-            "rank": 17,
-            "title": "이번 아시안게임 축구애들 ㅂㅅ들만 모인건가",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10142207",
-            "score": 74.58
-          },
-          {
-            "source": "인벤",
-            "rank": 50,
-            "title": "아시안게임 축구 대표팀 최우진 선수 마녀사냥 살인스탭 쳐밟는 자랑스러운 국민의힘 2찍분들.jpg",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2736326",
-            "score": 61.69
+            "source": "디시인사이드",
+            "rank": 12,
+            "title": "싱글벙글 아시안게임 유도 계체탈락 선수 은퇴빵 폭로",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468010&_dcbest=1&page=1",
+            "score": 77.28
           },
           {
             "source": "클리앙",
-            "rank": 54,
+            "rank": 39,
             "title": "[아시안게임] 유도 정수진, 계체 실격 폭로 '대상 아니라고 해서 음식 섭취'",
             "url": "https://www.clien.net/service/board/park/19273628?od=T31&po=0&category=0&groupCd=",
-            "score": 61.26
+            "score": 65.34
           }
         ],
         "first_seen": "2026-09-27T20:01:41.851026+09:00",
-        "last_seen": "2026-10-05T09:13:38.536627+09:00",
-        "latest_source_count": 3,
-        "latest_post_count": 3,
+        "last_seen": "2026-10-05T09:57:10.444467+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
         "rank": 4,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "i039fd79c",
@@ -395,9 +350,9 @@
         ],
         "source_count": 2,
         "post_count": 3,
-        "score": 104.74,
+        "score": 105.51,
         "peak_score": 88.78,
-        "appearances": 5,
+        "appearances": 6,
         "sources": [
           "뽐뿌",
           "인벤",
@@ -406,25 +361,63 @@
         "posts": [
           {
             "source": "인벤",
-            "rank": 10,
+            "rank": 33,
             "title": "이재명 sns",
             "url": "https://www.inven.co.kr/board/webzine/2097/2736315",
-            "score": 79.78
+            "score": 67.3
           },
           {
             "source": "클리앙",
-            "rank": 36,
+            "rank": 57,
             "title": "이재명 계속 응원하고 지지합니다",
             "url": "https://www.clien.net/service/board/park/19273623?od=T31&po=0&category=0&groupCd=",
-            "score": 66.7
+            "score": 60.41
           }
         ],
         "first_seen": "2026-09-27T13:38:37.715424+09:00",
-        "last_seen": "2026-10-05T09:13:38.536627+09:00",
+        "last_seen": "2026-10-05T09:57:10.444467+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 3,
+        "rank": 5,
+        "change": 0
+      },
+      {
+        "id": "iaec9192e",
+        "title": "‘시간이’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "시간이"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 103.0,
+        "peak_score": 91.51,
+        "appearances": 2,
+        "sources": [
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 18,
+            "title": "시간이 참 빨리 흐른단 증거 jpg",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2736321",
+            "score": 72.0
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 51,
+            "title": "시간이 가면서 나이가 들면서 점점더 문재인대통령이 대단하다고 느껴집니다.",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10142279",
+            "score": 62.04
+          }
+        ],
+        "first_seen": "2026-10-05T09:13:38.536627+09:00",
+        "last_seen": "2026-10-05T09:57:10.444467+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 5,
-        "change": -1
+        "rank": 6,
+        "change": 1
       },
       {
         "id": "i00705cf2",
@@ -462,46 +455,8 @@
         "last_seen": "2026-10-05T09:13:38.536627+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 6,
-        "change": 5
-      },
-      {
-        "id": "iaec9192e",
-        "title": "‘시간이’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "시간이"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 100.98,
-        "peak_score": 91.51,
-        "appearances": 1,
-        "sources": [
-          "뽐뿌",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 7,
-            "title": "시간이 참 빨리 흐른단 증거 jpg",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2736321",
-            "score": 82.51
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 57,
-            "title": "시간이 가면서 나이가 들면서 점점더 문재인대통령이 대단하다고 느껴집니다.",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10142279",
-            "score": 60.3
-          }
-        ],
-        "first_seen": "2026-10-05T09:13:38.536627+09:00",
-        "last_seen": "2026-10-05T09:13:38.536627+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 7,
-        "change": "NEW"
+        "change": -1
       },
       {
         "id": "icb33dad5",
@@ -539,7 +494,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 8,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "ifd24d317",
@@ -583,7 +538,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 9,
-        "change": -4
+        "change": 0
       },
       {
         "id": "ib3fd2c1d",
@@ -621,7 +576,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 10,
-        "change": -4
+        "change": 0
       },
       {
         "id": "i78f6419e",
@@ -659,7 +614,7 @@
         "latest_source_count": 2,
         "latest_post_count": 3,
         "rank": 11,
-        "change": -4
+        "change": 0
       },
       {
         "id": "i5db928b2",
@@ -697,7 +652,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 12,
-        "change": -4
+        "change": 0
       },
       {
         "id": "ie375bdab",
@@ -736,6 +691,44 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 13,
+        "change": 0
+      },
+      {
+        "id": "i5c6da920",
+        "title": "‘중국의’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "중국의"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 84.85,
+        "peak_score": 75.38,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "루리웹"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 37,
+            "title": "우울우울 중국의 입시지옥",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467967&_dcbest=1&page=1",
+            "score": 66.38
+          },
+          {
+            "source": "루리웹",
+            "rank": 94,
+            "title": "중국의 입시 지옥",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76913288?m=humor_only&t=now",
+            "score": 53.95
+          }
+        ],
+        "first_seen": "2026-10-05T09:57:10.444467+09:00",
+        "last_seen": "2026-10-05T09:57:10.444467+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 14,
         "change": "NEW"
       },
       {
@@ -773,8 +766,8 @@
         "last_seen": "2026-10-05T00:30:26.011984+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 14,
-        "change": -5
+        "rank": 15,
+        "change": -1
       },
       {
         "id": "id51f0bd8",
@@ -811,8 +804,46 @@
         "last_seen": "2026-10-05T07:11:30.755767+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 15,
-        "change": -5
+        "rank": 16,
+        "change": -1
+      },
+      {
+        "id": "i37ee91ac",
+        "title": "‘오디세이’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "오디세이"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 78.95,
+        "peak_score": 69.48,
+        "appearances": 1,
+        "sources": [
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 56,
+            "title": "[관객수] 영화 오디세이 - 1,200만명 돌파",
+            "url": "https://www.clien.net/service/board/park/19273644?od=T31&po=0&category=0&groupCd=",
+            "score": 60.48
+          },
+          {
+            "source": "인벤",
+            "rank": 59,
+            "title": "한동안 조용하던 크리스토퍼 놀란 <오디세이> 국내 1200만 관객 돌파.jpg",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2736338",
+            "score": 60.4
+          }
+        ],
+        "first_seen": "2026-10-05T09:57:10.444467+09:00",
+        "last_seen": "2026-10-05T09:57:10.444467+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 17,
+        "change": "NEW"
       }
     ],
     "weekly": [
@@ -934,49 +965,45 @@
       },
       {
         "id": "i8b4085e0",
-        "title": "‘아시안게임’ 관련 글이 여러 커뮤니티에서 화제",
+        "title": "싱글벙글 아시안게임 유도 계체탈락 선수 은퇴빵 폭로",
         "keywords": [
-          "아시안게임"
+          "폭로",
+          "아시안게임",
+          "유도"
         ],
         "source_count": 3,
         "post_count": 3,
-        "score": 106.05,
+        "score": 108.07,
         "peak_score": 91.58,
-        "appearances": 1,
+        "appearances": 2,
         "sources": [
+          "디시인사이드",
           "뽐뿌",
           "인벤",
           "클리앙"
         ],
         "posts": [
           {
-            "source": "뽐뿌",
-            "rank": 17,
-            "title": "이번 아시안게임 축구애들 ㅂㅅ들만 모인건가",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10142207",
-            "score": 74.58
-          },
-          {
-            "source": "인벤",
-            "rank": 50,
-            "title": "아시안게임 축구 대표팀 최우진 선수 마녀사냥 살인스탭 쳐밟는 자랑스러운 국민의힘 2찍분들.jpg",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2736326",
-            "score": 61.69
+            "source": "디시인사이드",
+            "rank": 12,
+            "title": "싱글벙글 아시안게임 유도 계체탈락 선수 은퇴빵 폭로",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468010&_dcbest=1&page=1",
+            "score": 77.28
           },
           {
             "source": "클리앙",
-            "rank": 54,
+            "rank": 39,
             "title": "[아시안게임] 유도 정수진, 계체 실격 폭로 '대상 아니라고 해서 음식 섭취'",
             "url": "https://www.clien.net/service/board/park/19273628?od=T31&po=0&category=0&groupCd=",
-            "score": 61.26
+            "score": 65.34
           }
         ],
         "first_seen": "2026-09-27T20:01:41.851026+09:00",
-        "last_seen": "2026-10-05T09:13:38.536627+09:00",
-        "latest_source_count": 3,
-        "latest_post_count": 3,
+        "last_seen": "2026-10-05T09:57:10.444467+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
         "rank": 4,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "i039fd79c",
@@ -986,9 +1013,9 @@
         ],
         "source_count": 2,
         "post_count": 3,
-        "score": 104.74,
+        "score": 105.51,
         "peak_score": 88.78,
-        "appearances": 5,
+        "appearances": 6,
         "sources": [
           "뽐뿌",
           "인벤",
@@ -997,25 +1024,63 @@
         "posts": [
           {
             "source": "인벤",
-            "rank": 10,
+            "rank": 33,
             "title": "이재명 sns",
             "url": "https://www.inven.co.kr/board/webzine/2097/2736315",
-            "score": 79.78
+            "score": 67.3
           },
           {
             "source": "클리앙",
-            "rank": 36,
+            "rank": 57,
             "title": "이재명 계속 응원하고 지지합니다",
             "url": "https://www.clien.net/service/board/park/19273623?od=T31&po=0&category=0&groupCd=",
-            "score": 66.7
+            "score": 60.41
           }
         ],
         "first_seen": "2026-09-27T13:38:37.715424+09:00",
-        "last_seen": "2026-10-05T09:13:38.536627+09:00",
+        "last_seen": "2026-10-05T09:57:10.444467+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 3,
+        "rank": 5,
+        "change": 0
+      },
+      {
+        "id": "iaec9192e",
+        "title": "‘시간이’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "시간이"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 103.0,
+        "peak_score": 91.51,
+        "appearances": 2,
+        "sources": [
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 18,
+            "title": "시간이 참 빨리 흐른단 증거 jpg",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2736321",
+            "score": 72.0
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 51,
+            "title": "시간이 가면서 나이가 들면서 점점더 문재인대통령이 대단하다고 느껴집니다.",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10142279",
+            "score": 62.04
+          }
+        ],
+        "first_seen": "2026-10-05T09:13:38.536627+09:00",
+        "last_seen": "2026-10-05T09:57:10.444467+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 5,
-        "change": -1
+        "rank": 6,
+        "change": 1
       },
       {
         "id": "i00705cf2",
@@ -1053,46 +1118,8 @@
         "last_seen": "2026-10-05T09:13:38.536627+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 6,
-        "change": 5
-      },
-      {
-        "id": "iaec9192e",
-        "title": "‘시간이’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "시간이"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 100.98,
-        "peak_score": 91.51,
-        "appearances": 1,
-        "sources": [
-          "뽐뿌",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 7,
-            "title": "시간이 참 빨리 흐른단 증거 jpg",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2736321",
-            "score": 82.51
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 57,
-            "title": "시간이 가면서 나이가 들면서 점점더 문재인대통령이 대단하다고 느껴집니다.",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10142279",
-            "score": 60.3
-          }
-        ],
-        "first_seen": "2026-10-05T09:13:38.536627+09:00",
-        "last_seen": "2026-10-05T09:13:38.536627+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 7,
-        "change": "NEW"
+        "change": -1
       },
       {
         "id": "icb33dad5",
@@ -1130,7 +1157,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 8,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "ifd24d317",
@@ -1174,7 +1201,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 9,
-        "change": -4
+        "change": 0
       },
       {
         "id": "ib3fd2c1d",
@@ -1212,7 +1239,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 10,
-        "change": -4
+        "change": 0
       },
       {
         "id": "i78f6419e",
@@ -1250,7 +1277,7 @@
         "latest_source_count": 2,
         "latest_post_count": 3,
         "rank": 11,
-        "change": -4
+        "change": 0
       },
       {
         "id": "i5db928b2",
@@ -1288,7 +1315,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 12,
-        "change": -4
+        "change": 0
       },
       {
         "id": "ie375bdab",
@@ -1327,6 +1354,44 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 13,
+        "change": 0
+      },
+      {
+        "id": "i5c6da920",
+        "title": "‘중국의’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "중국의"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 84.85,
+        "peak_score": 75.38,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "루리웹"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 37,
+            "title": "우울우울 중국의 입시지옥",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467967&_dcbest=1&page=1",
+            "score": 66.38
+          },
+          {
+            "source": "루리웹",
+            "rank": 94,
+            "title": "중국의 입시 지옥",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76913288?m=humor_only&t=now",
+            "score": 53.95
+          }
+        ],
+        "first_seen": "2026-10-05T09:57:10.444467+09:00",
+        "last_seen": "2026-10-05T09:57:10.444467+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 14,
         "change": "NEW"
       },
       {
@@ -1364,8 +1429,8 @@
         "last_seen": "2026-10-05T00:30:26.011984+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 14,
-        "change": -5
+        "rank": 15,
+        "change": -1
       },
       {
         "id": "id51f0bd8",
@@ -1402,22 +1467,62 @@
         "last_seen": "2026-10-05T07:11:30.755767+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 15,
-        "change": -5
+        "rank": 16,
+        "change": -1
+      },
+      {
+        "id": "i37ee91ac",
+        "title": "‘오디세이’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "오디세이"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 78.95,
+        "peak_score": 69.48,
+        "appearances": 1,
+        "sources": [
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 56,
+            "title": "[관객수] 영화 오디세이 - 1,200만명 돌파",
+            "url": "https://www.clien.net/service/board/park/19273644?od=T31&po=0&category=0&groupCd=",
+            "score": 60.48
+          },
+          {
+            "source": "인벤",
+            "rank": 59,
+            "title": "한동안 조용하던 크리스토퍼 놀란 <오디세이> 국내 1200만 관객 돌파.jpg",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2736338",
+            "score": 60.4
+          }
+        ],
+        "first_seen": "2026-10-05T09:57:10.444467+09:00",
+        "last_seen": "2026-10-05T09:57:10.444467+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 17,
+        "change": "NEW"
       }
     ],
     "monthly": [
       {
         "id": "i8b4085e0",
-        "title": "‘아시안게임’ 관련 글이 여러 커뮤니티에서 화제",
+        "title": "싱글벙글 아시안게임 유도 계체탈락 선수 은퇴빵 폭로",
         "keywords": [
-          "아시안게임"
+          "폭로",
+          "아시안게임",
+          "유도"
         ],
         "source_count": 3,
         "post_count": 5,
-        "score": 142.49,
+        "score": 142.81,
         "peak_score": 115.95,
-        "appearances": 14,
+        "appearances": 15,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -1428,31 +1533,24 @@
         ],
         "posts": [
           {
-            "source": "뽐뿌",
-            "rank": 17,
-            "title": "이번 아시안게임 축구애들 ㅂㅅ들만 모인건가",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10142207",
-            "score": 74.58
-          },
-          {
-            "source": "인벤",
-            "rank": 50,
-            "title": "아시안게임 축구 대표팀 최우진 선수 마녀사냥 살인스탭 쳐밟는 자랑스러운 국민의힘 2찍분들.jpg",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2736326",
-            "score": 61.69
+            "source": "디시인사이드",
+            "rank": 12,
+            "title": "싱글벙글 아시안게임 유도 계체탈락 선수 은퇴빵 폭로",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468010&_dcbest=1&page=1",
+            "score": 77.28
           },
           {
             "source": "클리앙",
-            "rank": 54,
+            "rank": 39,
             "title": "[아시안게임] 유도 정수진, 계체 실격 폭로 '대상 아니라고 해서 음식 섭취'",
             "url": "https://www.clien.net/service/board/park/19273628?od=T31&po=0&category=0&groupCd=",
-            "score": 61.26
+            "score": 65.34
           }
         ],
         "first_seen": "2026-09-27T20:01:41.851026+09:00",
-        "last_seen": "2026-10-05T09:13:38.536627+09:00",
-        "latest_source_count": 3,
-        "latest_post_count": 3,
+        "last_seen": "2026-10-05T09:57:10.444467+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
         "rank": 1,
         "change": 0
       },
@@ -1535,7 +1633,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 3,
-        "change": 1
+        "change": 0
       },
       {
         "id": "i7f717bd5",
@@ -1575,7 +1673,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 4,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i78f6419e",
@@ -1708,9 +1806,9 @@
         ],
         "source_count": 3,
         "post_count": 5,
-        "score": 122.5,
+        "score": 122.84,
         "peak_score": 96.3,
-        "appearances": 13,
+        "appearances": 14,
         "sources": [
           "디시인사이드",
           "뽐뿌",
@@ -1720,23 +1818,23 @@
         "posts": [
           {
             "source": "인벤",
-            "rank": 10,
+            "rank": 33,
             "title": "이재명 sns",
             "url": "https://www.inven.co.kr/board/webzine/2097/2736315",
-            "score": 79.78
+            "score": 67.3
           },
           {
             "source": "클리앙",
-            "rank": 36,
+            "rank": 57,
             "title": "이재명 계속 응원하고 지지합니다",
             "url": "https://www.clien.net/service/board/park/19273623?od=T31&po=0&category=0&groupCd=",
-            "score": 66.7
+            "score": 60.41
           }
         ],
         "first_seen": "2026-09-27T13:38:37.715424+09:00",
-        "last_seen": "2026-10-05T09:13:38.536627+09:00",
+        "last_seen": "2026-10-05T09:57:10.444467+09:00",
         "latest_source_count": 2,
-        "latest_post_count": 2,
+        "latest_post_count": 3,
         "rank": 8,
         "change": 0
       },
@@ -2139,7 +2237,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 18,
-        "change": 1
+        "change": 0
       },
       {
         "id": "i2c099e33",
@@ -2177,7 +2275,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 19,
-        "change": -1
+        "change": 0
       },
       {
         "id": "ibd61c9f9",
