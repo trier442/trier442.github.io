@@ -276,7 +276,7 @@ function render(){
   }
   card.innerHTML=`<div class="qhead"><span class="badge">${escapeHtml(q.cat)}</span><span class="source">${escapeHtml(q.source)}</span></div>
   <div class="qbody"><div class="qnum">현재 ${current+1} / ${list.length} · 전체번호 ${q.id}</div><div class="prompt">${escapeHtml(q.prompt)}</div>${body}<div id="feedback" class="feedback"></div></div>
-  <div class="qfooter"><div class="left"><button class="small" id="prevBtn">← 이전</button><button class="small unknown" id="unknownBtn">모르겠음</button></div><div class="right"><button class="small primary" id="nextBtn">다음 →</button></div></div>`;
+  <div class="qfooter"><div class="left"><button class="small" id="prevBtn">← 이전</button><button class="small unknown" id="unknownBtn">모르겠음</button><button class="small" id="retryBtn">재도전</button></div><div class="right"><button class="small primary" id="nextBtn">다음 →</button></div></div>`;
   const prevAns=state.answers[q.id];
   if(q.type==="mcq"){
     card.querySelectorAll(".option").forEach(el=>el.onclick=()=>{
@@ -295,6 +295,8 @@ function render(){
     }
   };
   $("#unknownBtn").onclick=()=>{if(!state.answers[q.id])mark(q,false,"모르겠음")};
+  $("#retryBtn").style.display=prevAns?"inline-block":"none";
+  $("#retryBtn").onclick=()=>{delete state.answers[q.id];save();stats();render();renderReview();};
   $("#prevBtn").onclick=()=>{current=Math.max(0,current-1);render()};
   $("#nextBtn").onclick=()=>{current=Math.min(list.length-1,current+1);render()};
   if(prevAns)renderFeedback(q);
