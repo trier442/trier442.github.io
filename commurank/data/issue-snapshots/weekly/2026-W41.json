@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W41",
   "label": "2026.10.05 ~ 10.11",
-  "collected_at": "2026-10-06T17:53:04.817970+09:00",
+  "collected_at": "2026-10-07T00:51:49.981088+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -122,7 +122,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 3,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "ife021da2",
@@ -162,7 +162,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 4,
-      "change": 2
+      "change": 0
     },
     {
       "id": "ie39b12d5",
@@ -200,7 +200,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 5,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i0a93296e",
@@ -238,7 +238,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 6,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i7b918478",
@@ -276,7 +276,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 7,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i0cd78725",
@@ -320,7 +320,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 8,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i8b4085e0",
@@ -360,7 +360,7 @@
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 9,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i00705cf2",
@@ -406,7 +406,7 @@
       "latest_source_count": 3,
       "latest_post_count": 3,
       "rank": 10,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i5d6688ff",
@@ -444,7 +444,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 11,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i039fd79c",
@@ -483,7 +483,7 @@
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 12,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i78f6419e",
@@ -530,7 +530,7 @@
       "latest_source_count": 3,
       "latest_post_count": 3,
       "rank": 13,
-      "change": -1
+      "change": 0
     },
     {
       "id": "iaec9192e",
@@ -568,7 +568,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 14,
-      "change": -3
+      "change": 0
     },
     {
       "id": "i7a05fcc0",
@@ -606,7 +606,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 15,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i1c6fbb40",
@@ -649,7 +649,7 @@
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 16,
-      "change": -2
+      "change": 0
     },
     {
       "id": "icb33dad5",
@@ -687,7 +687,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 17,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i9f5e1ed4",
@@ -725,7 +725,45 @@
       "latest_source_count": 2,
       "latest_post_count": 4,
       "rank": 18,
-      "change": -2
+      "change": 0
+    },
+    {
+      "id": "ia6af4d8f",
+      "title": "‘연구소에서’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "연구소에서"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 97.0,
+      "peak_score": 87.53,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 11,
+          "title": "[속보] 러시아 연구소에서 흑사병 유출 후 두번째 사망자 발생",
+          "url": "https://theqoo.net/hot/4367368536",
+          "score": 78.53
+        },
+        {
+          "source": "인벤",
+          "rank": 73,
+          "title": "러시아의 페스트 연구소에서 발생한 원인 불명의 연구원 사망",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2737086",
+          "score": 57.62
+        }
+      ],
+      "first_seen": "2026-10-07T00:51:49.981088+09:00",
+      "last_seen": "2026-10-07T00:51:49.981088+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 19,
+      "change": "NEW"
     },
     {
       "id": "ibbaf90c6",
@@ -763,48 +801,8 @@
       "last_seen": "2026-10-06T10:52:31.794638+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 19,
-      "change": -2
-    },
-    {
-      "id": "i25f2c46f",
-      "title": "로맨스스캠 사기꾼들이 안망하는 이유",
-      "keywords": [
-        "사기꾼들이",
-        "안망하는",
-        "로맨스스캠"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 96.15,
-      "peak_score": 84.66,
-      "appearances": 2,
-      "sources": [
-        "뽐뿌",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 14,
-          "title": "로맨스스캠 사기꾼들이 안망하는 이유",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2736681",
-          "score": 76.66
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 96,
-          "title": "로맨스스캠 사기꾼들이 안망하는 이유.jpg",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10143141",
-          "score": 51.71
-        }
-      ],
-      "first_seen": "2026-10-06T06:36:15.476715+09:00",
-      "last_seen": "2026-10-06T07:11:34.783452+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 20,
-      "change": -2
+      "change": -1
     }
   ]
 }
