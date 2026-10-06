@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W41",
   "label": "2026.10.05 ~ 10.11",
-  "collected_at": "2026-10-07T00:51:49.981088+09:00",
+  "collected_at": "2026-10-07T05:37:53.772123+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -323,6 +323,44 @@
       "change": 0
     },
     {
+      "id": "i51a99cec",
+      "title": "‘남자들의’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "남자들의"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 111.83,
+      "peak_score": 102.36,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 3,
+          "title": "여자들은 절대 이해 못한다는 남자들의 방",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76934758?m=humor",
+          "score": 93.36
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 13,
+          "title": "오싹오싹 중국 시골 결혼못한 남자들의 여성 인신매매",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468421&_dcbest=1&page=1",
+          "score": 77.08
+        }
+      ],
+      "first_seen": "2026-10-07T05:37:53.772123+09:00",
+      "last_seen": "2026-10-07T05:37:53.772123+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 9,
+      "change": "NEW"
+    },
+    {
       "id": "i8b4085e0",
       "title": "‘아시안게임’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -359,7 +397,45 @@
       "last_seen": "2026-10-05T15:44:40.983153+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 9,
+      "rank": 10,
+      "change": -1
+    },
+    {
+      "id": "i5d6688ff",
+      "title": "‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "네이버페이"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 111.41,
+      "peak_score": 99.92,
+      "appearances": 2,
+      "sources": [
+        "루리웹",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 4,
+          "title": "[네이버페이] 일일적립, 클릭 48원, 라이브예고 9원",
+          "url": "https://bbs.ruliweb.com/market/board/1020/read/107820",
+          "score": 90.92
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 95,
+          "title": "[란123] 네이버페이 75원 + 랜덤 포인트 받으세요 (+기타 293원)",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10144458",
+          "score": 51.46
+        }
+      ],
+      "first_seen": "2026-09-28T07:08:45.324597+09:00",
+      "last_seen": "2026-10-07T05:37:53.772123+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 11,
       "change": 0
     },
     {
@@ -405,46 +481,8 @@
       "last_seen": "2026-10-05T15:44:40.983153+09:00",
       "latest_source_count": 3,
       "latest_post_count": 3,
-      "rank": 10,
-      "change": 0
-    },
-    {
-      "id": "i5d6688ff",
-      "title": "‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "네이버페이"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 107.87,
-      "peak_score": 98.4,
-      "appearances": 1,
-      "sources": [
-        "루리웹",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 4,
-          "title": "[네이버페이] 자음퀴즈 최대 5원 적립",
-          "url": "https://bbs.ruliweb.com/market/board/1020/read/107785",
-          "score": 89.4
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 33,
-          "title": "[란123] 네이버페이 97원 + 랜덤 포인트 받으세요 (+기타 270원)",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10143171",
-          "score": 68.52
-        }
-      ],
-      "first_seen": "2026-09-28T07:08:45.324597+09:00",
-      "last_seen": "2026-10-06T06:36:15.476715+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 11,
-      "change": 0
+      "rank": 12,
+      "change": -2
     },
     {
       "id": "i039fd79c",
@@ -482,8 +520,8 @@
       "last_seen": "2026-10-05T23:25:29.795675+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 12,
-      "change": 0
+      "rank": 13,
+      "change": -1
     },
     {
       "id": "i78f6419e",
@@ -529,8 +567,8 @@
       "last_seen": "2026-10-06T17:53:04.817970+09:00",
       "latest_source_count": 3,
       "latest_post_count": 3,
-      "rank": 13,
-      "change": 0
+      "rank": 14,
+      "change": -1
     },
     {
       "id": "iaec9192e",
@@ -567,8 +605,8 @@
       "last_seen": "2026-10-05T09:57:10.444467+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 14,
-      "change": 0
+      "rank": 15,
+      "change": -1
     },
     {
       "id": "i7a05fcc0",
@@ -605,8 +643,8 @@
       "last_seen": "2026-10-06T07:11:34.783452+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 15,
-      "change": 0
+      "rank": 16,
+      "change": -1
     },
     {
       "id": "i1c6fbb40",
@@ -648,8 +686,8 @@
       "last_seen": "2026-10-05T14:53:01.854717+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 16,
-      "change": 0
+      "rank": 17,
+      "change": -1
     },
     {
       "id": "icb33dad5",
@@ -686,8 +724,8 @@
       "last_seen": "2026-10-05T15:44:40.983153+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 17,
-      "change": 0
+      "rank": 18,
+      "change": -1
     },
     {
       "id": "i9f5e1ed4",
@@ -724,8 +762,8 @@
       "last_seen": "2026-10-06T07:11:34.783452+09:00",
       "latest_source_count": 2,
       "latest_post_count": 4,
-      "rank": 18,
-      "change": 0
+      "rank": 19,
+      "change": -1
     },
     {
       "id": "ia6af4d8f",
@@ -760,45 +798,6 @@
       ],
       "first_seen": "2026-10-07T00:51:49.981088+09:00",
       "last_seen": "2026-10-07T00:51:49.981088+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 19,
-      "change": "NEW"
-    },
-    {
-      "id": "ibbaf90c6",
-      "title": "서울 따릉이 대폭 감축하네요",
-      "keywords": [
-        "서울",
-        "따릉이"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 96.94,
-      "peak_score": 87.47,
-      "appearances": 1,
-      "sources": [
-        "뽐뿌",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 4,
-          "title": "서울 따릉이 대폭 감축하네요",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=money&no=548500",
-          "score": 79.47
-        },
-        {
-          "source": "인벤",
-          "rank": 43,
-          "title": "전기자전거 씽씽 달리자 서울 따릉이 감축 검토",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2736745",
-          "score": 62.19
-        }
-      ],
-      "first_seen": "2026-10-06T10:52:31.794638+09:00",
-      "last_seen": "2026-10-06T10:52:31.794638+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 20,
