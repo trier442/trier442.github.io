@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-10-06T07:11:34.783452+09:00",
+  "collected_at": "2026-10-06T10:52:31.794638+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -11,153 +11,49 @@
   "rankings": {
     "realtime": [
       {
-        "id": "i9f5e1ed4",
-        "title": "‘인스타’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "ie39b12d5",
+        "title": "‘하루만에’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "인스타"
+          "하루만에"
         ],
         "source_count": 2,
-        "post_count": 4,
-        "score": 76.41,
-        "peak_score": 76.41,
+        "post_count": 2,
+        "score": 106.29,
+        "peak_score": 106.29,
         "appearances": 1,
         "sources": [
-          "더쿠",
-          "인벤"
+          "루리웹",
+          "클리앙"
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 44,
-            "title": "후방 ㅡ 히요코 인스타",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2736674",
-            "score": 65.41
+            "source": "루리웹",
+            "rank": 1,
+            "title": "하루만에 고장 문제로 되돌아온 컴퓨터",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76924234?m=humor",
+            "score": 97.29
           },
           {
-            "source": "더쿠",
-            "rank": 75,
-            "title": "핫게갔던 남돌 출신 정승환 인스타 업뎃....jpg",
-            "url": "https://theqoo.net/hot/4366272676",
-            "score": 56.26
+            "source": "클리앙",
+            "rank": 55,
+            "title": "62,500 크레딧이 하루만에...",
+            "url": "https://www.clien.net/service/board/park/19274023?od=T31&po=0&category=0&groupCd=",
+            "score": 60.67
           }
         ],
         "rank": 1,
-        "change": 0
-      },
-      {
-        "id": "i7a05fcc0",
-        "title": "‘하는데’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "하는데"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 91.55,
-        "peak_score": 91.55,
-        "appearances": 1,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 7,
-            "title": "아크 서바이벌이라는 게임을 하는데 어떤 사람이 와이번 용을 그냥 휙 던져주고 감.",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2736680",
-            "score": 82.55
-          },
-          {
-            "source": "클리앙",
-            "rank": 64,
-            "title": "장기 공공임대 사는 사람들도 서울의 삶의 터전을 떠나기 싫다고 하는데",
-            "url": "https://www.clien.net/service/board/park/19273957?od=T31&po=0&category=0&groupCd=",
-            "score": 59.54
-          }
-        ],
-        "rank": 2,
         "change": "NEW"
       },
       {
-        "id": "i25f2c46f",
-        "title": "로맨스스캠 사기꾼들이 안망하는 이유",
+        "id": "i0a93296e",
+        "title": "‘문제로’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "사기꾼들이",
-          "안망하는",
-          "로맨스스캠"
+          "문제로"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 84.66,
-        "peak_score": 84.66,
-        "appearances": 1,
-        "sources": [
-          "뽐뿌",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 14,
-            "title": "로맨스스캠 사기꾼들이 안망하는 이유",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2736681",
-            "score": 76.66
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 96,
-            "title": "로맨스스캠 사기꾼들이 안망하는 이유.jpg",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10143141",
-            "score": 51.71
-          }
-        ],
-        "rank": 3,
-        "change": 0
-      },
-      {
-        "id": "i36ddd5fd",
-        "title": "‘민주당’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "민주당"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 81.77,
-        "peak_score": 81.77,
-        "appearances": 1,
-        "sources": [
-          "뽐뿌",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 20,
-            "title": "임대아파트 공급은 민주당 몰표에요",
-            "url": "https://www.clien.net/service/board/park/19273954?od=T31&po=0&category=0&groupCd=",
-            "score": 72.77
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 34,
-            "title": "지난주부터 민주당 지지자들이 획득한 칭호 (feat.이재명)",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10143172",
-            "score": 68.95
-          }
-        ],
-        "rank": 4,
-        "change": "NEW"
-      },
-      {
-        "id": "i9eddbb18",
-        "title": "‘궁금한’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "궁금한"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 79.95,
-        "peak_score": 79.95,
+        "score": 106.29,
+        "peak_score": 106.29,
         "appearances": 1,
         "sources": [
           "디시인사이드",
@@ -166,32 +62,69 @@
         "posts": [
           {
             "source": "루리웹",
-            "rank": 27,
-            "title": "남자친구의 뇌 구조가 궁금한 여자",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/76923861?m=humor_only&t=now",
-            "score": 70.95
+            "rank": 1,
+            "title": "하루만에 고장 문제로 되돌아온 컴퓨터",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76924234?m=humor",
+            "score": 97.29
           },
           {
             "source": "디시인사이드",
-            "rank": 50,
-            "title": "안지영의 저작권료가 궁금한 남규리",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468191&_dcbest=1&page=1",
-            "score": 63.41
+            "rank": 32,
+            "title": "전역모 세리머니 논란 박승수, 인성 문제로 U-17 월드컵 탈락..jpg",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468241&_dcbest=1&page=1",
+            "score": 64.87
           }
         ],
-        "rank": 5,
+        "rank": 2,
         "change": "NEW"
       },
       {
-        "id": "ib3876eed",
-        "title": "‘남자가’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "ibbaf90c6",
+        "title": "서울 따릉이 대폭 감축하네요",
         "keywords": [
-          "남자가"
+          "서울",
+          "따릉이"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 74.29,
-        "peak_score": 74.29,
+        "score": 87.47,
+        "peak_score": 87.47,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 4,
+            "title": "서울 따릉이 대폭 감축하네요",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=money&no=548500",
+            "score": 79.47
+          },
+          {
+            "source": "인벤",
+            "rank": 43,
+            "title": "전기자전거 씽씽 달리자 서울 따릉이 감축 검토",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2736745",
+            "score": 62.19
+          }
+        ],
+        "rank": 3,
+        "change": "NEW"
+      },
+      {
+        "id": "i25c5efce",
+        "title": "리센느 원이한테 젓가락질 가르쳐주는 이서진.jpg",
+        "keywords": [
+          "리센느",
+          "이서진",
+          "젓가락질"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 80.56,
+        "peak_score": 80.56,
         "appearances": 1,
         "sources": [
           "더쿠",
@@ -200,50 +133,118 @@
         "posts": [
           {
             "source": "디시인사이드",
-            "rank": 45,
-            "title": "남자가 비싼 시계를 찼을때 여성들의 생각.",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468153&_dcbest=1&page=1",
-            "score": 65.29
+            "rank": 13,
+            "title": "리센느 원이한테 젓가락질 가르쳐주는 이서진.jpg",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468225&_dcbest=1&page=1",
+            "score": 72.56
           },
           {
             "source": "더쿠",
-            "rank": 93,
-            "title": "데이트 비용 10:0, 9:1 이런사람들은 계산할때 당연히 그냥 남자가 하게끔 두는거야?",
-            "url": "https://theqoo.net/hot/4366331063",
-            "score": 51.89
+            "rank": 44,
+            "title": "리센느 원이 젓가락질 고쳐주는 이서진.jpg",
+            "url": "https://theqoo.net/hot/4366544748",
+            "score": 62.05
           }
         ],
-        "rank": 6,
-        "change": -2
+        "rank": 4,
+        "change": "NEW"
       },
       {
-        "id": "ie1741c16",
-        "title": "‘이렇게’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "id59b04c5",
+        "title": "‘중수청’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "이렇게"
+          "중수청"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 70.58,
-        "peak_score": 70.58,
+        "score": 78.93,
+        "peak_score": 78.93,
         "appearances": 1,
         "sources": [
-          "디시인사이드",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 20,
+            "title": "[속보]이 대통령 “중수청, 여야 없이 범죄행위 철저 수사해야”",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2736746",
+            "score": 69.93
+          },
+          {
+            "source": "클리앙",
+            "rank": 36,
+            "title": "[단독] 중수청·공소청 수장도 국무회의에…'정치적 중립' 또 도마 위",
+            "url": "https://www.clien.net/service/board/park/19274020?od=T31&po=0&category=0&groupCd=",
+            "score": 63.13
+          }
+        ],
+        "rank": 5,
+        "change": "NEW"
+      },
+      {
+        "id": "ifba08ae4",
+        "title": "‘어머니’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "어머니"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 72.89,
+        "peak_score": 72.89,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 33,
+            "title": "길거리서 어머니 위에 올라타 폭행",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2736738",
+            "score": 63.89
+          },
+          {
+            "source": "루리웹",
+            "rank": 59,
+            "title": "사랑방 손님과 어머니.manhwa",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76925366?m=humor_only&t=now",
+            "score": 59.93
+          }
+        ],
+        "rank": 6,
+        "change": "NEW"
+      },
+      {
+        "id": "if6b2d7b7",
+        "title": "‘10월’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "10월"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 71.47,
+        "peak_score": 71.47,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
           "뽐뿌"
         ],
         "posts": [
           {
             "source": "뽐뿌",
-            "rank": 58,
-            "title": "나스닥은 왜 이렇게 오르나요??",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=439553",
-            "score": 61.58
+            "rank": 41,
+            "title": "신한플레이 쏠야구 퀴즈 10월 06일 정답",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10143226",
+            "score": 62.47
           },
           {
-            "source": "디시인사이드",
-            "rank": 84,
-            "title": "기능사 자격증 1위, 지게차 자격증... 왜 이렇게 인기?.jpg",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468161&_dcbest=1&page=1",
+            "source": "더쿠",
+            "rank": 88,
+            "title": "🍀10월 6일 별자리/띠별 운세🍀",
+            "url": "https://theqoo.net/hot/4366520384",
             "score": 54.89
           }
         ],
@@ -252,6 +253,82 @@
       }
     ],
     "daily": [
+      {
+        "id": "ie39b12d5",
+        "title": "‘하루만에’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "하루만에"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 115.76,
+        "peak_score": 106.29,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 1,
+            "title": "하루만에 고장 문제로 되돌아온 컴퓨터",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76924234?m=humor",
+            "score": 97.29
+          },
+          {
+            "source": "클리앙",
+            "rank": 55,
+            "title": "62,500 크레딧이 하루만에...",
+            "url": "https://www.clien.net/service/board/park/19274023?od=T31&po=0&category=0&groupCd=",
+            "score": 60.67
+          }
+        ],
+        "first_seen": "2026-10-06T10:52:31.794638+09:00",
+        "last_seen": "2026-10-06T10:52:31.794638+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 1,
+        "change": "NEW"
+      },
+      {
+        "id": "i0a93296e",
+        "title": "‘문제로’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "문제로"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 115.76,
+        "peak_score": 106.29,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "루리웹"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 1,
+            "title": "하루만에 고장 문제로 되돌아온 컴퓨터",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76924234?m=humor",
+            "score": 97.29
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 32,
+            "title": "전역모 세리머니 논란 박승수, 인성 문제로 U-17 월드컵 탈락..jpg",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468241&_dcbest=1&page=1",
+            "score": 64.87
+          }
+        ],
+        "first_seen": "2026-10-06T10:52:31.794638+09:00",
+        "last_seen": "2026-10-06T10:52:31.794638+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 2,
+        "change": "NEW"
+      },
       {
         "id": "i5d6688ff",
         "title": "‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제",
@@ -287,8 +364,8 @@
         "last_seen": "2026-10-06T06:36:15.476715+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 1,
-        "change": 0
+        "rank": 3,
+        "change": -2
       },
       {
         "id": "i7a05fcc0",
@@ -325,7 +402,46 @@
         "last_seen": "2026-10-06T07:11:34.783452+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 2,
+        "rank": 4,
+        "change": -2
+      },
+      {
+        "id": "ibbaf90c6",
+        "title": "서울 따릉이 대폭 감축하네요",
+        "keywords": [
+          "서울",
+          "따릉이"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 96.94,
+        "peak_score": 87.47,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 4,
+            "title": "서울 따릉이 대폭 감축하네요",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=money&no=548500",
+            "score": 79.47
+          },
+          {
+            "source": "인벤",
+            "rank": 43,
+            "title": "전기자전거 씽씽 달리자 서울 따릉이 감축 검토",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2736745",
+            "score": 62.19
+          }
+        ],
+        "first_seen": "2026-10-06T10:52:31.794638+09:00",
+        "last_seen": "2026-10-06T10:52:31.794638+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 5,
         "change": "NEW"
       },
       {
@@ -365,8 +481,8 @@
         "last_seen": "2026-10-06T07:11:34.783452+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 3,
-        "change": 0
+        "rank": 6,
+        "change": -3
       },
       {
         "id": "i9f5e1ed4",
@@ -403,8 +519,8 @@
         "last_seen": "2026-10-06T07:11:34.783452+09:00",
         "latest_source_count": 2,
         "latest_post_count": 4,
-        "rank": 4,
-        "change": -2
+        "rank": 7,
+        "change": -3
       },
       {
         "id": "i36ddd5fd",
@@ -441,7 +557,47 @@
         "last_seen": "2026-10-06T07:11:34.783452+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 5,
+        "rank": 8,
+        "change": -3
+      },
+      {
+        "id": "i25c5efce",
+        "title": "리센느 원이한테 젓가락질 가르쳐주는 이서진.jpg",
+        "keywords": [
+          "리센느",
+          "이서진",
+          "젓가락질"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 90.03,
+        "peak_score": 80.56,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "디시인사이드"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 13,
+            "title": "리센느 원이한테 젓가락질 가르쳐주는 이서진.jpg",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468225&_dcbest=1&page=1",
+            "score": 72.56
+          },
+          {
+            "source": "더쿠",
+            "rank": 44,
+            "title": "리센느 원이 젓가락질 고쳐주는 이서진.jpg",
+            "url": "https://theqoo.net/hot/4366544748",
+            "score": 62.05
+          }
+        ],
+        "first_seen": "2026-10-06T10:52:31.794638+09:00",
+        "last_seen": "2026-10-06T10:52:31.794638+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 9,
         "change": "NEW"
       },
       {
@@ -479,7 +635,45 @@
         "last_seen": "2026-10-06T07:11:34.783452+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 6,
+        "rank": 10,
+        "change": -4
+      },
+      {
+        "id": "id59b04c5",
+        "title": "‘중수청’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "중수청"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 88.4,
+        "peak_score": 78.93,
+        "appearances": 1,
+        "sources": [
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 20,
+            "title": "[속보]이 대통령 “중수청, 여야 없이 범죄행위 철저 수사해야”",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2736746",
+            "score": 69.93
+          },
+          {
+            "source": "클리앙",
+            "rank": 36,
+            "title": "[단독] 중수청·공소청 수장도 국무회의에…'정치적 중립' 또 도마 위",
+            "url": "https://www.clien.net/service/board/park/19274020?od=T31&po=0&category=0&groupCd=",
+            "score": 63.13
+          }
+        ],
+        "first_seen": "2026-10-04T17:51:24.799079+09:00",
+        "last_seen": "2026-10-06T10:52:31.794638+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 11,
         "change": "NEW"
       },
       {
@@ -517,8 +711,8 @@
         "last_seen": "2026-10-06T00:32:36.331560+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 7,
-        "change": -3
+        "rank": 12,
+        "change": -5
       },
       {
         "id": "i78f6419e",
@@ -556,8 +750,8 @@
         "last_seen": "2026-10-06T00:32:36.331560+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 8,
-        "change": -3
+        "rank": 13,
+        "change": -5
       },
       {
         "id": "i92a9cf57",
@@ -594,8 +788,46 @@
         "last_seen": "2026-10-06T06:36:15.476715+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 9,
-        "change": -3
+        "rank": 14,
+        "change": -5
+      },
+      {
+        "id": "ifba08ae4",
+        "title": "‘어머니’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "어머니"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 82.36,
+        "peak_score": 72.89,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 33,
+            "title": "길거리서 어머니 위에 올라타 폭행",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2736738",
+            "score": 63.89
+          },
+          {
+            "source": "루리웹",
+            "rank": 59,
+            "title": "사랑방 손님과 어머니.manhwa",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76925366?m=humor_only&t=now",
+            "score": 59.93
+          }
+        ],
+        "first_seen": "2026-10-06T10:52:31.794638+09:00",
+        "last_seen": "2026-10-06T10:52:31.794638+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 15,
+        "change": "NEW"
       },
       {
         "id": "i18276ea2",
@@ -632,8 +864,46 @@
         "last_seen": "2026-10-06T00:32:36.331560+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 10,
-        "change": -3
+        "rank": 16,
+        "change": -6
+      },
+      {
+        "id": "if6b2d7b7",
+        "title": "‘10월’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "10월"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 80.94,
+        "peak_score": 71.47,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 41,
+            "title": "신한플레이 쏠야구 퀴즈 10월 06일 정답",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10143226",
+            "score": 62.47
+          },
+          {
+            "source": "더쿠",
+            "rank": 88,
+            "title": "🍀10월 6일 별자리/띠별 운세🍀",
+            "url": "https://theqoo.net/hot/4366520384",
+            "score": 54.89
+          }
+        ],
+        "first_seen": "2026-10-01T09:09:08.756943+09:00",
+        "last_seen": "2026-10-06T10:52:31.794638+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 17,
+        "change": "NEW"
       },
       {
         "id": "ie1741c16",
@@ -670,8 +940,8 @@
         "last_seen": "2026-10-06T07:11:34.783452+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
-        "change": "NEW"
+        "rank": 18,
+        "change": -7
       },
       {
         "id": "i29d00468",
@@ -711,8 +981,8 @@
         "last_seen": "2026-10-06T00:32:36.331560+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 12,
-        "change": -4
+        "rank": 19,
+        "change": -7
       }
     ],
     "weekly": [
@@ -797,6 +1067,82 @@
         "change": 0
       },
       {
+        "id": "ie39b12d5",
+        "title": "‘하루만에’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "하루만에"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 115.76,
+        "peak_score": 106.29,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 1,
+            "title": "하루만에 고장 문제로 되돌아온 컴퓨터",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76924234?m=humor",
+            "score": 97.29
+          },
+          {
+            "source": "클리앙",
+            "rank": 55,
+            "title": "62,500 크레딧이 하루만에...",
+            "url": "https://www.clien.net/service/board/park/19274023?od=T31&po=0&category=0&groupCd=",
+            "score": 60.67
+          }
+        ],
+        "first_seen": "2026-10-06T10:52:31.794638+09:00",
+        "last_seen": "2026-10-06T10:52:31.794638+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 3,
+        "change": "NEW"
+      },
+      {
+        "id": "i0a93296e",
+        "title": "‘문제로’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "문제로"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 115.76,
+        "peak_score": 106.29,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "루리웹"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 1,
+            "title": "하루만에 고장 문제로 되돌아온 컴퓨터",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76924234?m=humor",
+            "score": 97.29
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 32,
+            "title": "전역모 세리머니 논란 박승수, 인성 문제로 U-17 월드컵 탈락..jpg",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468241&_dcbest=1&page=1",
+            "score": 64.87
+          }
+        ],
+        "first_seen": "2026-10-06T10:52:31.794638+09:00",
+        "last_seen": "2026-10-06T10:52:31.794638+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 4,
+        "change": "NEW"
+      },
+      {
         "id": "i7b918478",
         "title": "‘일본에서’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -831,8 +1177,8 @@
         "last_seen": "2026-10-05T06:40:10.175480+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 3,
-        "change": 0
+        "rank": 5,
+        "change": -2
       },
       {
         "id": "ife021da2",
@@ -869,8 +1215,8 @@
         "last_seen": "2026-10-05T06:40:10.175480+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 4,
-        "change": 0
+        "rank": 6,
+        "change": -2
       },
       {
         "id": "i8b4085e0",
@@ -909,8 +1255,8 @@
         "last_seen": "2026-10-05T15:44:40.983153+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 5,
-        "change": 0
+        "rank": 7,
+        "change": -2
       },
       {
         "id": "i00705cf2",
@@ -955,8 +1301,8 @@
         "last_seen": "2026-10-05T15:44:40.983153+09:00",
         "latest_source_count": 3,
         "latest_post_count": 3,
-        "rank": 6,
-        "change": 0
+        "rank": 8,
+        "change": -2
       },
       {
         "id": "i5d6688ff",
@@ -993,8 +1339,8 @@
         "last_seen": "2026-10-06T06:36:15.476715+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 7,
-        "change": 0
+        "rank": 9,
+        "change": -2
       },
       {
         "id": "i039fd79c",
@@ -1032,8 +1378,8 @@
         "last_seen": "2026-10-05T23:25:29.795675+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 8,
-        "change": 0
+        "rank": 10,
+        "change": -2
       },
       {
         "id": "iaec9192e",
@@ -1070,8 +1416,8 @@
         "last_seen": "2026-10-05T09:57:10.444467+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 9,
-        "change": 0
+        "rank": 11,
+        "change": -2
       },
       {
         "id": "i78f6419e",
@@ -1110,8 +1456,8 @@
         "last_seen": "2026-10-06T00:32:36.331560+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 10,
-        "change": 0
+        "rank": 12,
+        "change": -2
       },
       {
         "id": "i7a05fcc0",
@@ -1148,8 +1494,8 @@
         "last_seen": "2026-10-06T07:11:34.783452+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
-        "change": "NEW"
+        "rank": 13,
+        "change": -2
       },
       {
         "id": "i1c6fbb40",
@@ -1191,8 +1537,8 @@
         "last_seen": "2026-10-05T14:53:01.854717+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 12,
-        "change": -1
+        "rank": 14,
+        "change": -2
       },
       {
         "id": "icb33dad5",
@@ -1229,8 +1575,8 @@
         "last_seen": "2026-10-05T15:44:40.983153+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 13,
-        "change": -1
+        "rank": 15,
+        "change": -2
       },
       {
         "id": "i9f5e1ed4",
@@ -1267,8 +1613,47 @@
         "last_seen": "2026-10-06T07:11:34.783452+09:00",
         "latest_source_count": 2,
         "latest_post_count": 4,
-        "rank": 14,
-        "change": 0
+        "rank": 16,
+        "change": -2
+      },
+      {
+        "id": "ibbaf90c6",
+        "title": "서울 따릉이 대폭 감축하네요",
+        "keywords": [
+          "서울",
+          "따릉이"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 96.94,
+        "peak_score": 87.47,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 4,
+            "title": "서울 따릉이 대폭 감축하네요",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=money&no=548500",
+            "score": 79.47
+          },
+          {
+            "source": "인벤",
+            "rank": 43,
+            "title": "전기자전거 씽씽 달리자 서울 따릉이 감축 검토",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2736745",
+            "score": 62.19
+          }
+        ],
+        "first_seen": "2026-10-06T10:52:31.794638+09:00",
+        "last_seen": "2026-10-06T10:52:31.794638+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 17,
+        "change": "NEW"
       },
       {
         "id": "i25f2c46f",
@@ -1307,8 +1692,8 @@
         "last_seen": "2026-10-06T07:11:34.783452+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 15,
-        "change": 2
+        "rank": 18,
+        "change": -3
       },
       {
         "id": "i106183b4",
@@ -1345,7 +1730,7 @@
         "last_seen": "2026-10-05T15:44:40.983153+09:00",
         "latest_source_count": 2,
         "latest_post_count": 4,
-        "rank": 16,
+        "rank": 19,
         "change": -3
       },
       {
@@ -1389,128 +1774,8 @@
         "last_seen": "2026-10-05T00:30:26.011984+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 17,
-        "change": -2
-      },
-      {
-        "id": "ib3fd2c1d",
-        "title": "‘노스포’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "노스포"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 92.22,
-        "peak_score": 79.29,
-        "appearances": 3,
-        "sources": [
-          "뽐뿌",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 30,
-            "title": "암살자들 보고 왔습니다. (노스포)",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10141963",
-            "score": 70.29
-          },
-          {
-            "source": "인벤",
-            "rank": 50,
-            "title": "(노스포)암살자(들) 보고 온 솔직 후기",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2736291",
-            "score": 62.05
-          }
-        ],
-        "first_seen": "2026-10-05T03:20:14.855966+09:00",
-        "last_seen": "2026-10-05T07:11:30.755767+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 18,
-        "change": -2
-      },
-      {
-        "id": "i36ddd5fd",
-        "title": "‘민주당’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "민주당"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 91.24,
-        "peak_score": 81.77,
-        "appearances": 1,
-        "sources": [
-          "뽐뿌",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 20,
-            "title": "임대아파트 공급은 민주당 몰표에요",
-            "url": "https://www.clien.net/service/board/park/19273954?od=T31&po=0&category=0&groupCd=",
-            "score": 72.77
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 34,
-            "title": "지난주부터 민주당 지지자들이 획득한 칭호 (feat.이재명)",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10143172",
-            "score": 68.95
-          }
-        ],
-        "first_seen": "2026-09-30T08:46:44.153676+09:00",
-        "last_seen": "2026-10-06T07:11:34.783452+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 19,
-        "change": "NEW"
-      },
-      {
-        "id": "i9aa41ed1",
-        "title": "유해진 측, 강경 대응 예고..신변 위협명예 훼손, 모든 조치 취할 것\"",
-        "keywords": [
-          "신변",
-          "강경",
-          "취할",
-          "예고",
-          "대응",
-          "유해진",
-          "위협명예"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 90.46,
-        "peak_score": 80.99,
-        "appearances": 1,
-        "sources": [
-          "뽐뿌",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 21,
-            "title": "유해진 측, 강경 대응 예고..신변 위협명예 훼손, 모든 조치 취할 것\"",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10142637",
-            "score": 72.99
-          },
-          {
-            "source": "인벤",
-            "rank": 35,
-            "title": "유해진 측, 강경 대응 예고.. 신변 위협명예 훼 손, 모든 조치 취할 것",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2736440",
-            "score": 66.42
-          }
-        ],
-        "first_seen": "2026-10-05T14:53:01.854717+09:00",
-        "last_seen": "2026-10-05T14:53:01.854717+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 20,
-        "change": -2
+        "change": -3
       }
     ],
     "monthly": [
@@ -2013,6 +2278,82 @@
         "change": 0
       },
       {
+        "id": "ie39b12d5",
+        "title": "‘하루만에’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "하루만에"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 115.76,
+        "peak_score": 106.29,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 1,
+            "title": "하루만에 고장 문제로 되돌아온 컴퓨터",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76924234?m=humor",
+            "score": 97.29
+          },
+          {
+            "source": "클리앙",
+            "rank": 55,
+            "title": "62,500 크레딧이 하루만에...",
+            "url": "https://www.clien.net/service/board/park/19274023?od=T31&po=0&category=0&groupCd=",
+            "score": 60.67
+          }
+        ],
+        "first_seen": "2026-10-06T10:52:31.794638+09:00",
+        "last_seen": "2026-10-06T10:52:31.794638+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 13,
+        "change": "NEW"
+      },
+      {
+        "id": "i0a93296e",
+        "title": "‘문제로’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "문제로"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 115.76,
+        "peak_score": 106.29,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "루리웹"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 1,
+            "title": "하루만에 고장 문제로 되돌아온 컴퓨터",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76924234?m=humor",
+            "score": 97.29
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 32,
+            "title": "전역모 세리머니 논란 박승수, 인성 문제로 U-17 월드컵 탈락..jpg",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468241&_dcbest=1&page=1",
+            "score": 64.87
+          }
+        ],
+        "first_seen": "2026-10-06T10:52:31.794638+09:00",
+        "last_seen": "2026-10-06T10:52:31.794638+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 14,
+        "change": "NEW"
+      },
+      {
         "id": "if553a5cf",
         "title": "‘트럼프’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -2047,8 +2388,8 @@
         "last_seen": "2026-10-02T11:10:36.587418+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 13,
-        "change": 0
+        "rank": 15,
+        "change": -2
       },
       {
         "id": "ife021da2",
@@ -2085,8 +2426,8 @@
         "last_seen": "2026-10-05T06:40:10.175480+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 14,
-        "change": 0
+        "rank": 16,
+        "change": -2
       },
       {
         "id": "i8447a234",
@@ -2124,8 +2465,8 @@
         "last_seen": "2026-10-02T11:10:36.587418+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 15,
-        "change": 0
+        "rank": 17,
+        "change": -2
       },
       {
         "id": "ia9e1f70b",
@@ -2163,8 +2504,8 @@
         "last_seen": "2026-10-03T17:31:33.747059+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 16,
-        "change": 0
+        "rank": 18,
+        "change": -2
       },
       {
         "id": "i00705cf2",
@@ -2211,8 +2552,8 @@
         "last_seen": "2026-10-05T15:44:40.983153+09:00",
         "latest_source_count": 3,
         "latest_post_count": 3,
-        "rank": 17,
-        "change": 0
+        "rank": 19,
+        "change": -2
       },
       {
         "id": "i68d53cf7",
@@ -2249,85 +2590,8 @@
         "last_seen": "2026-10-04T05:13:51.095432+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 18,
-        "change": 0
-      },
-      {
-        "id": "i46d45bb2",
-        "title": "부산 상어, 부캉이 방류 유도 중단",
-        "keywords": [
-          "상어",
-          "부산"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 111.31,
-        "peak_score": 101.84,
-        "appearances": 1,
-        "sources": [
-          "루리웹",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 3,
-            "title": "부산 상어, 부캉이 방류 유도 중단",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/76890284?m=humor",
-            "score": 93.84
-          },
-          {
-            "source": "인벤",
-            "rank": 14,
-            "title": "부산 상어 근황",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2735712",
-            "score": 74.02
-          }
-        ],
-        "first_seen": "2026-09-30T19:29:43.128023+09:00",
-        "last_seen": "2026-10-03T12:47:13.694231+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 19,
-        "change": 0
-      },
-      {
-        "id": "i2c099e33",
-        "title": "‘외국인’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "외국인"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 110.22,
-        "peak_score": 100.75,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "루리웹"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 3,
-            "title": "외국인: 너희 나라의 아름다운 풍경을 봐",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/76873541?m=humor",
-            "score": 91.75
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 75,
-            "title": "MBC) 외국인, 한국약 쇼핑은 필수...약국마다 문전성시",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467272&_dcbest=1&page=1",
-            "score": 55.69
-          }
-        ],
-        "first_seen": "2026-10-02T04:00:21.148239+09:00",
-        "last_seen": "2026-10-02T04:00:21.148239+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 20,
-        "change": 0
+        "change": -2
       }
     ]
   }
