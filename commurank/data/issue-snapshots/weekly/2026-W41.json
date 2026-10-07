@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W41",
   "label": "2026.10.05 ~ 10.11",
-  "collected_at": "2026-10-07T05:37:53.772123+09:00",
+  "collected_at": "2026-10-07T09:11:43.132658+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -358,7 +358,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 9,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i8b4085e0",
@@ -398,7 +398,7 @@
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 10,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i5d6688ff",
@@ -482,7 +482,7 @@
       "latest_source_count": 3,
       "latest_post_count": 3,
       "rank": 12,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i039fd79c",
@@ -521,7 +521,7 @@
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 13,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i78f6419e",
@@ -568,7 +568,7 @@
       "latest_source_count": 3,
       "latest_post_count": 3,
       "rank": 14,
-      "change": -1
+      "change": 0
     },
     {
       "id": "iaec9192e",
@@ -606,7 +606,83 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 15,
-      "change": -1
+      "change": 0
+    },
+    {
+      "id": "id8fd9d6b",
+      "title": "‘레버리지’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "레버리지"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 101.45,
+      "peak_score": 91.98,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 4,
+          "title": "단독] \"삼전닉스 단일종목 레버리지? 비공개라 회의록 안 썼다\". 1월 13일 밀실 회의 논란",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10144528",
+          "score": 82.98
+        },
+        {
+          "source": "클리앙",
+          "rank": 24,
+          "title": "레버리지 관련, 이미 김용범 사퇴로 끝난 거 아닌가요?",
+          "url": "https://www.clien.net/service/board/park/19274420?od=T31&po=0&category=0&groupCd=",
+          "score": 67.0
+        }
+      ],
+      "first_seen": "2026-09-27T23:49:45.340258+09:00",
+      "last_seen": "2026-10-07T09:11:43.132658+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 16,
+      "change": "NEW"
+    },
+    {
+      "id": "ib6c52aea",
+      "title": "‘회의록’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "회의록"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 101.45,
+      "peak_score": 91.98,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 4,
+          "title": "단독] \"삼전닉스 단일종목 레버리지? 비공개라 회의록 안 썼다\". 1월 13일 밀실 회의 논란",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10144528",
+          "score": 82.98
+        },
+        {
+          "source": "클리앙",
+          "rank": 87,
+          "title": "회의록 문제 참 웃기네요",
+          "url": "https://www.clien.net/service/board/park/19274415?od=T31&po=0&category=0&groupCd=",
+          "score": 56.14
+        }
+      ],
+      "first_seen": "2026-10-07T09:11:43.132658+09:00",
+      "last_seen": "2026-10-07T09:11:43.132658+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 17,
+      "change": "NEW"
     },
     {
       "id": "i7a05fcc0",
@@ -643,8 +719,8 @@
       "last_seen": "2026-10-06T07:11:34.783452+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 16,
-      "change": -1
+      "rank": 18,
+      "change": -2
     },
     {
       "id": "i1c6fbb40",
@@ -686,8 +762,8 @@
       "last_seen": "2026-10-05T14:53:01.854717+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 17,
-      "change": -1
+      "rank": 19,
+      "change": -2
     },
     {
       "id": "icb33dad5",
@@ -724,84 +800,8 @@
       "last_seen": "2026-10-05T15:44:40.983153+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 18,
-      "change": -1
-    },
-    {
-      "id": "i9f5e1ed4",
-      "title": "‘인스타’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "인스타"
-      ],
-      "source_count": 2,
-      "post_count": 4,
-      "score": 98.05,
-      "peak_score": 82.0,
-      "appearances": 4,
-      "sources": [
-        "더쿠",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 44,
-          "title": "후방 ㅡ 히요코 인스타",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2736674",
-          "score": 65.41
-        },
-        {
-          "source": "더쿠",
-          "rank": 75,
-          "title": "핫게갔던 남돌 출신 정승환 인스타 업뎃....jpg",
-          "url": "https://theqoo.net/hot/4366272676",
-          "score": 56.26
-        }
-      ],
-      "first_seen": "2026-09-29T08:23:09.958029+09:00",
-      "last_seen": "2026-10-06T07:11:34.783452+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 4,
-      "rank": 19,
-      "change": -1
-    },
-    {
-      "id": "ia6af4d8f",
-      "title": "‘연구소에서’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "연구소에서"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 97.0,
-      "peak_score": 87.53,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 11,
-          "title": "[속보] 러시아 연구소에서 흑사병 유출 후 두번째 사망자 발생",
-          "url": "https://theqoo.net/hot/4367368536",
-          "score": 78.53
-        },
-        {
-          "source": "인벤",
-          "rank": 73,
-          "title": "러시아의 페스트 연구소에서 발생한 원인 불명의 연구원 사망",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2737086",
-          "score": 57.62
-        }
-      ],
-      "first_seen": "2026-10-07T00:51:49.981088+09:00",
-      "last_seen": "2026-10-07T00:51:49.981088+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 20,
-      "change": -1
+      "change": -2
     }
   ]
 }
