@@ -95,6 +95,9 @@ button{font:inherit;cursor:pointer}
 .wrong-note .mini{font-size:13px;color:var(--muted);margin-top:6px}
 .exam-summary{padding:20px;border-radius:15px;background:var(--goldbg);border:1px solid #e1cd83;margin-bottom:16px}
 .exam-summary .score{font-size:30px;font-weight:950;color:#6d4d0d}
+.vocab-feedback{margin-top:14px;padding:15px;border-radius:12px;border:1px solid var(--line)}
+.vocab-feedback.ok{background:var(--okbg);border-color:#9bd3b5}
+.vocab-feedback.bad{background:var(--badbg);border-color:#efb6ae}
 @media(max-width:850px){
   .two{grid-template-columns:1fr}
   .mocklist{position:static}
@@ -116,6 +119,7 @@ button{font:inherit;cursor:pointer}
   <div class="navinner">
     <button class="tab active" data-view="mockPanel">모고 문제 점검</button>
     <button class="tab" data-view="examPanel">파이널 시험</button>
+    <button class="tab" data-view="vocabPanel">어휘 100문제</button>
   </div>
 </nav>
 
@@ -131,6 +135,13 @@ button{font:inherit;cursor:pointer}
     <div class="two">
       <aside id="examList" class="card mocklist"></aside>
       <article id="examContent" class="card mockcontent"></article>
+    </div>
+  </section>
+
+  <section id="vocabPanel" class="panel">
+    <div class="two">
+      <aside id="vocabList" class="card mocklist"></aside>
+      <article id="vocabContent" class="card mockcontent"></article>
     </div>
   </section>
 </main>
@@ -1182,6 +1193,31 @@ B: “응, 시골에 계신 ㉡ 큰집에 가기로 했어.”`,prompt:"윗글�
 ];
 </script>
 <script>
+const VOCAB_ITEMS=[["운율","시를 읽을 때 느껴지는 규칙적인 소리의 질서.","운율·운문"],["음보","시를 읽을 때 한 번에 끊어 읽는 호흡의 단위.","운율·운문"],["시어","시에 사용된 언어 또는 시 속의 낱말.","운율·운문"],["시구","시를 이루는 하나의 구절.","운율·운문"],["시행","운율적으로 배열되어 있는 시의 한 줄.","운율·운문"],["음보율","한 행을 이루는 음보의 수가 규칙적으로 반복되어 생기는 운율.","운율·운문"],["음수율","일정한 음절 수가 규칙적으로 반복되어 생기는 운율.","운율·운문"],["각운","시행이나 시구의 끝에서 같거나 비슷한 소리가 반복되는 운율.","운율·운문"],["후렴구","시가에서 일정하게 되풀이되는 구절.","운율·운문"],["수미상관","처음과 끝에 같거나 비슷한 표현을 배치하는 구성 방식.","운율·운문"],["음성 상징어","소리·모양·움직임 등을 언어의 소리로 드러내어 느낌을 환기하는 말.","운율·운문"],["심상","시적 대상이나 상황을 감각적으로 떠올리게 하는 이미지.","이미지"],["감각적 이미지","시각·청각·촉각·미각·후각 등 감각으로 느끼게 하는 이미지.","이미지"],["공감각적 이미지","한 감각을 다른 감각으로 전이하여 표현한 이미지.","이미지"],["상승 이미지","아래에서 위로 움직이는 느낌을 주는 이미지.","이미지"],["하강 이미지","위에서 아래로 움직이는 느낌을 주는 이미지.","이미지"],["생성 이미지","대상이 생겨나거나 성장하는 모습을 드러내는 이미지.","이미지"],["소멸 이미지","대상이 사라지거나 죽어 가는 모습을 드러내는 이미지.","이미지"],["수평적 이미지","좌우나 평면의 수평 방향으로 펼쳐지는 이미지.","이미지"],["밝음의 이미지","빛·햇살·밝은 색채 등으로 환하고 밝은 느낌을 주는 이미지.","이미지"],["어둠의 이미지","밤·그늘·어둠 등으로 어둡고 침침한 느낌을 주는 이미지.","이미지"],["정적 이미지","움직임이 거의 없이 고요하고 정지된 느낌을 주는 이미지.","이미지"],["동적 이미지","움직임이나 변화가 활발한 느낌을 주는 이미지.","이미지"],["색채 이미지","색깔을 활용하여 시각적 느낌을 선명하게 하는 이미지.","이미지"],["대조적 이미지","서로 상반되는 이미지를 나란히 제시하여 차이를 강조하는 방식.","이미지"],["향토적 이미지","고향·농촌·토속적 삶과 풍경을 떠올리게 하는 이미지.","이미지"],["계절적 이미지","특정 계절의 분위기와 특성을 드러내는 이미지.","이미지"],["형상화","추상적인 생각이나 감정을 구체적인 이미지·장면으로 나타내는 것.","표현법"],["비유","한 대상을 다른 대상에 빗대어 표현하는 방법.","표현법"],["상징","구체적인 대상이 그 자체를 넘어 추상적 의미를 암시하도록 하는 표현.","표현법"],["원관념","비유에서 표현하려는 본래의 대상.","표현법"],["보조 관념","원관념을 효과적으로 드러내기 위해 끌어온 대상.","표현법"],["직유법","‘처럼, 같이, 듯’ 등의 연결어를 사용하여 직접 빗대는 표현법.","표현법"],["은유법","연결어 없이 두 대상을 동일시하여 빗대는 표현법.","표현법"],["의인법","사람이 아닌 대상을 사람처럼 표현하는 방법.","표현법"],["대유법","부분·속성·관련 대상을 들어 전체나 다른 대상을 대신 나타내는 표현법.","표현법"],["중의법","하나의 표현에 둘 이상의 의미가 가능하도록 하는 표현법.","표현법"],["과장법","실제보다 크게 또는 작게 표현하여 의미를 강조하는 방법.","표현법"],["영탄법","감탄형 표현을 사용하여 화자의 정서를 강하게 드러내는 방법.","표현법"],["연쇄법","앞 구절의 끝말을 다음 구절의 첫머리에 이어 내용이 연결되게 하는 방법.","표현법"],["반복법","같거나 비슷한 말·구절·문장 구조를 되풀이하는 방법.","표현법"],["점층법","내용이나 의미의 강도를 점차 강하게 또는 크게 전개하는 방법.","표현법"],["점강법","내용이나 의미의 강도를 점차 약하게 또는 작게 전개하는 방법.","표현법"],["반어법","겉으로 드러난 말과 실제 의도를 반대로 표현하는 방법.","표현법"],["역설법","겉보기에는 모순되지만 그 속에 진실한 의미를 담는 표현법.","표현법"],["설의법","질문의 형식을 취하지만 답을 요구하지 않고 의미를 강조하는 표현법.","표현법"],["문답법","묻고 답하는 형식으로 내용을 전개하는 표현법.","표현법"],["도치법","일반적인 문장 성분의 순서를 의도적으로 바꾸어 강조하는 표현법.","표현법"],["대구법","비슷한 문장 구조나 구절을 짝지어 나란히 제시하는 표현법.","표현법"],["돈호법","대상의 이름을 직접 불러 주의를 환기하고 정서를 강조하는 방법.","표현법"],["시적 허용","시적 효과를 위해 일반적인 문법·어법·맞춤법에서 벗어난 표현을 허용하는 것.","표현법"],["객관적 상관물","화자의 정서와 대응되는 구체적 사물·상황을 통해 감정을 간접적으로 드러내는 대상.","표현법"],["감정 이입","화자의 감정을 대상에 옮겨 대상도 같은 감정을 지닌 것처럼 표현하는 방법.","표현법"],["낯설게 하기","익숙한 대상을 새롭고 낯선 방식으로 표현하여 새롭게 인식하게 하는 방법.","표현법"],["시상","시에 나타난 생각과 감정의 흐름.","시상 전개"],["시상의 전환","시상의 흐름이 이전과 다른 방향으로 바뀌는 것.","시상 전개"],["시상의 확산","하나의 시상이 다른 대상·공간·생각으로 넓어지는 것.","시상 전개"],["시상의 집약","여러 시상이나 정서가 하나의 중심 의미로 모이는 것.","시상 전개"],["시상의 마무리","시의 마지막 부분에서 시상을 정리하고 종결하는 것.","시상 전개"],["시선의 이동","화자의 시선이 한 대상이나 공간에서 다른 곳으로 옮겨 가는 것.","시상 전개"],["시간의 흐름","시간의 변화에 따라 시상이 전개되는 방식.","시상 전개"],["공간의 이동","장소나 공간의 변화에 따라 시상이 전개되는 방식.","시상 전개"],["선경후정","먼저 경치를 제시한 뒤 그에 대한 정서나 감정을 드러내는 구성 방식.","시상 전개"],["기승전결","시상을 시작하고 이어 가며 전환한 뒤 맺는 네 단계의 구성 방식.","시상 전개"],["장면의 초점화","여러 장면 중 특정 장면을 집중적으로 부각하여 보여 주는 방식.","시상 전개"],["연상","한 대상에서 그와 관련된 다른 대상이나 생각을 떠올리는 것.","시상 전개"],["대비","서로 상반되는 대상이나 상황을 나란히 제시하여 차이를 강조하는 방법.","시상 전개"],["어조","화자가 대상에 대해 취하는 말투나 목소리의 느낌.","어조"],["독백적 어조","혼잣말하듯 자신의 생각과 감정을 드러내는 말투.","어조"],["고백적 어조","자신의 내면이나 감정을 솔직하게 털어놓는 말투.","어조"],["단정적 어조","확신을 가지고 딱 잘라 말하는 말투.","어조"],["애상적 어조","슬픔·서러움·쓸쓸함이 느껴지는 말투.","어조"],["사색적 어조","대상이나 삶의 의미를 깊이 생각하고 성찰하는 말투.","어조"],["기원의 어조","어떤 바람이나 소망이 이루어지기를 비는 말투.","어조"],["설득적 어조","상대가 자신의 생각을 받아들이도록 권유하고 설득하는 말투.","어조"],["명령적 어조","상대에게 어떤 행동을 하도록 명령하거나 요구하는 말투.","어조"],["격정적 어조","감정이 매우 강하고 격하게 분출되는 말투.","어조"],["담담한 어조","감정을 절제하고 차분하게 말하는 태도가 드러나는 말투.","어조"],["친근한 어조","가까운 사람에게 말하듯 다정하고 친밀한 느낌을 주는 말투.","어조"],["예스러운 어조","옛말이나 고풍스러운 표현을 사용하여 옛스러운 느낌을 주는 말투.","어조"],["홍진","속세를 비유적으로 이르는 말.","고전시가"],["무릉","무릉도원처럼 현실을 벗어난 이상적인 세계를 이르는 말.","고전시가"],["동풍","봄바람.","고전시가"],["북풍","겨울바람.","고전시가"],["저근덧","잠깐 동안, 잠시.","고전시가"],["화중월태","꽃 같은 얼굴과 달 같은 자태라는 뜻으로 아름다운 용모를 이르는 말.","고전시가"],["암향","은은하고 그윽한 향기.","고전시가"],["녹양","푸른 버드나무.","고전시가"],["성은","임금의 은혜.","고전시가"],["백구","흰 갈매기.","고전시가"],["녹음","푸른 잎이 우거진 나무나 그 그늘.","고전시가"],["녹수","푸른 물.","고전시가"],["박주","변변하지 못한 술, 막걸리 같은 소박한 술.","고전시가"],["헤다","생각하다, 헤아리다.","고전시가"],["어엿브다","불쌍하다, 가엾다.","고전시가"],["시비","사립문.","고전시가"],["황운","누런 구름.","고전시가"],["세우","가늘게 내리는 비, 가랑비.","고전시가"],["조물","만물을 만든 조물주 또는 자연의 창조 원리를 이르는 말.","고전시가"],["홍안","젊고 아름다운 얼굴.","고전시가"]];
+function buildVocabularyData(){
+  const groups={};
+  VOCAB_ITEMS.forEach(([t,d,g],i)=>{(groups[g]??=[]).push(i);});
+  return VOCAB_ITEMS.map(([term,def,group],idx)=>{
+    const pool=groups[group].filter(i=>i!==idx);
+    const picks=[];
+    for(let k=0;k<pool.length && picks.length<4;k++){
+      const i=pool[(idx*3+k*5)%pool.length];
+      if(!picks.includes(i)) picks.push(i);
+    }
+    const askTerm=idx%2===0;
+    const correct=askTerm?def:term;
+    const wrong=picks.map(i=>askTerm?VOCAB_ITEMS[i][1]:VOCAB_ITEMS[i][0]);
+    const answer=idx%5;
+    const options=wrong.slice();
+    options.splice(answer,0,correct);
+    return {n:idx+1,term,def,group,askTerm,
+      prompt:askTerm?`‘${term}’의 뜻으로 가장 적절한 것은?`:`다음 설명에 해당하는 용어는?\n${def}`,
+      options,answer};
+  });
+}
+const VOCAB100=buildVocabularyData();
+</script>
+<script>
 function esc(s){
   return String(s ?? "").replace(/[&<>"']/g, m => ({
     "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"
@@ -1474,7 +1510,63 @@ function loadSharedResult(){
   try{renderSharedResult(b64urlDecode(location.hash.slice(8)));return true;}catch(e){return false;}
 }
 
-renderMockList();renderMock();renderExamList();renderExam();
+
+const vocabState={answers:{},checked:{},current:1};
+function renderVocabList(){
+  const el=document.getElementById("vocabList");
+  let last="";
+  el.innerHTML=VOCAB100.map(q=>{
+    const head=q.group!==last?`<div class="group">${esc(q.group)}</div>`:"";
+    last=q.group;
+    return head+`<button class="mockbtn ${q.n===vocabState.current?"active":""} ${vocabState.checked[q.n]?"answered":""}" data-n="${q.n}">${q.n}번 · ${esc(q.term)}</button>`;
+  }).join("");
+  el.querySelectorAll(".mockbtn").forEach(b=>b.onclick=()=>{
+    vocabState.current=Number(b.dataset.n);renderVocabList();renderVocab();
+    document.getElementById("vocabContent").scrollIntoView({behavior:"smooth",block:"start"});
+  });
+}
+function vocabFeedback(q){
+  if(!vocabState.checked[q.n]) return "";
+  const a=vocabState.answers[q.n],ok=a===q.answer;
+  return `<div class="vocab-feedback ${ok?"ok":"bad"}"><div style="font-size:19px;font-weight:950">${ok?"정답입니다.":"오답입니다."}</div>
+    ${ok?"":`<div><b>정답:</b> ${q.answer+1}번 ${esc(q.options[q.answer])}</div>`}
+    <div style="margin-top:7px"><b>${esc(q.term)}</b> — ${esc(q.def)}</div></div>`;
+}
+function renderVocab(){
+  const q=VOCAB100.find(x=>x.n===vocabState.current)||VOCAB100[0],el=document.getElementById("vocabContent");
+  el.innerHTML=`<div class="mockhead"><span class="badge">어휘 100문제</span><span class="counter">${q.n} / 100</span></div>
+  <div class="mockbody"><div class="qprompt">${esc(q.prompt)}</div>
+    <div>${q.options.map((o,i)=>`<button class="exam-option ${vocabState.answers[q.n]===i?"selected":""}" data-i="${i}" ${vocabState.checked[q.n]?"disabled":""}><b>${i+1}.</b> ${esc(o)}</button>`).join("")}</div>
+    ${vocabFeedback(q)}
+    <div class="actions"><button class="btn" id="vocabPrev">← 이전</button><button class="btn gold" id="vocabResult">점수·오답노트</button><button class="btn primary" id="vocabNext">다음 →</button></div>
+    <div id="vocabSummary" class="exam-result"></div>
+  </div>`;
+  if(!vocabState.checked[q.n]) el.querySelectorAll(".exam-option").forEach(b=>b.onclick=()=>{
+    vocabState.answers[q.n]=Number(b.dataset.i);vocabState.checked[q.n]=true;renderVocabList();renderVocab();
+  });
+  document.getElementById("vocabPrev").onclick=()=>{if(q.n>1){vocabState.current=q.n-1;renderVocabList();renderVocab();}};
+  document.getElementById("vocabNext").onclick=()=>{if(q.n<100){vocabState.current=q.n+1;renderVocabList();renderVocab();}};
+  document.getElementById("vocabResult").onclick=renderVocabSummary;
+}
+function renderVocabSummary(){
+  let correct=0;const wrong=[],unanswered=[];
+  for(const q of VOCAB100){
+    if(!vocabState.checked[q.n]){unanswered.push(q.n);continue;}
+    if(vocabState.answers[q.n]===q.answer)correct++;else wrong.push(q.n);
+  }
+  const box=document.getElementById("vocabSummary");
+  box.className="exam-result show";
+  const notes=wrong.length?wrong.map(n=>{
+    const q=VOCAB100[n-1],a=vocabState.answers[n];
+    return `<div class="wrong-note"><h4>${n}번 · ${esc(q.term)}</h4><div><b>내 답:</b> ${a+1}번 ${esc(q.options[a])}</div>
+      <div><b>정답:</b> ${q.answer+1}번 ${esc(q.options[q.answer])}</div><div style="margin-top:7px"><b>정리:</b> ${esc(q.term)} — ${esc(q.def)}</div></div>`;
+  }).join(""):`<div class="wrong-note"><h4>오답노트</h4><div>오답이 없습니다.</div></div>`;
+  box.innerHTML=`<div class="exam-summary"><div class="score">${correct}점</div><div>정답 ${correct}/100 · 오답 ${wrong.length} · 미응답 ${unanswered.length}</div>
+    <div style="margin-top:7px"><b>오답 번호:</b> ${wrong.length?wrong.join(", "):"없음"}</div></div><h3>오답노트</h3>${notes}`;
+  box.scrollIntoView({behavior:"smooth",block:"start"});
+}
+
+renderMockList();renderMock();renderExamList();renderExam();renderVocabList();renderVocab();
 loadSharedResult();
 </script>
 </body>
