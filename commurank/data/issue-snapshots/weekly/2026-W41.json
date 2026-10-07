@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W41",
   "label": "2026.10.05 ~ 10.11",
-  "collected_at": "2026-10-07T22:36:17.172132+09:00",
+  "collected_at": "2026-10-08T04:31:06.731721+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -87,6 +87,47 @@
       "change": 0
     },
     {
+      "id": "ife021da2",
+      "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "난리난"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 118.29,
+      "peak_score": 105.36,
+      "appearances": 3,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "루리웹",
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 27,
+          "title": "일본 맥도날드 신제품이 미국에서 난리난 이유",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76946810?m=humor_only&t=now",
+          "score": 67.7
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 39,
+          "title": "MBC) 수류탄에 손절단, 고무탄에 실명...난리난 프랑스",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468680&_dcbest=1&page=1",
+          "score": 63.27
+        }
+      ],
+      "first_seen": "2026-09-29T11:40:38.000414+09:00",
+      "last_seen": "2026-10-08T04:31:06.731721+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 3,
+      "change": 2
+    },
+    {
       "id": "i9f5e1ed4",
       "title": "‘인스타’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -123,8 +164,8 @@
       "last_seen": "2026-10-07T15:10:25.459989+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 3,
-      "change": 0
+      "rank": 4,
+      "change": -1
     },
     {
       "id": "i7970f34c",
@@ -161,48 +202,8 @@
       "last_seen": "2026-10-06T17:53:04.817970+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 4,
-      "change": 0
-    },
-    {
-      "id": "ife021da2",
-      "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "난리난"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 116.85,
-      "peak_score": 105.36,
-      "appearances": 2,
-      "sources": [
-        "더쿠",
-        "루리웹",
-        "뽐뿌",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 65,
-          "title": "알뜰폰 갤러리 난리난 요금제",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2736965",
-          "score": 57.03
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 82,
-          "title": "난리난 어느 아파트 시공 신공법",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10143770",
-          "score": 53.61
-        }
-      ],
-      "first_seen": "2026-09-29T11:40:38.000414+09:00",
-      "last_seen": "2026-10-06T17:53:04.817970+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 5,
-      "change": 0
+      "change": -1
     },
     {
       "id": "ie39b12d5",
@@ -400,7 +401,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 10,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "if8890818",
@@ -438,7 +439,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 11,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i51a99cec",
@@ -476,7 +477,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 12,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i8b4085e0",
@@ -516,7 +517,7 @@
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 13,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i5d6688ff",
@@ -554,7 +555,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 14,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i00705cf2",
@@ -600,7 +601,7 @@
       "latest_source_count": 3,
       "latest_post_count": 3,
       "rank": 15,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i53a2e4b6",
@@ -639,7 +640,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 16,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i039fd79c",
@@ -678,7 +679,7 @@
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 17,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i78f6419e",
@@ -725,7 +726,7 @@
       "latest_source_count": 3,
       "latest_post_count": 3,
       "rank": 18,
-      "change": -2
+      "change": 0
     },
     {
       "id": "iaec9192e",
@@ -763,7 +764,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 19,
-      "change": -2
+      "change": 0
     },
     {
       "id": "id8fd9d6b",
@@ -801,7 +802,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 20,
-      "change": -2
+      "change": 0
     }
   ]
 }
