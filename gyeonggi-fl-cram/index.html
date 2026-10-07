@@ -86,6 +86,15 @@ button{font:inherit;cursor:pointer}
 .exam-result{display:none;margin-top:16px;padding:18px;border-radius:13px;background:var(--goldbg);border:1px solid #e1cd83}
 .exam-result.show{display:block}
 .mockbtn.answered::after{content:" ✓";color:var(--ok);font-weight:900}
+.instant-feedback{margin-top:16px;padding:16px;border-radius:13px;border:1px solid var(--line)}
+.instant-feedback.ok{background:var(--okbg);border-color:#9bd3b5}
+.instant-feedback.bad{background:var(--badbg);border-color:#efb6ae}
+.instant-feedback .judge{font-size:20px;font-weight:950;margin-bottom:8px}
+.wrong-note{margin-top:14px;padding:16px;border:1px solid #e3c07a;background:#fffaf0;border-radius:13px}
+.wrong-note h4{margin:0 0 8px;color:#6d4d0d}
+.wrong-note .mini{font-size:13px;color:var(--muted);margin-top:6px}
+.exam-summary{padding:20px;border-radius:15px;background:var(--goldbg);border:1px solid #e1cd83;margin-bottom:16px}
+.exam-summary .score{font-size:30px;font-weight:950;color:#6d4d0d}
 @media(max-width:850px){
   .two{grid-template-columns:1fr}
   .mocklist{position:static}
@@ -106,8 +115,7 @@ button{font:inherit;cursor:pointer}
 <nav class="mainnav">
   <div class="navinner">
     <button class="tab active" data-view="mockPanel">모고 문제 점검</button>
-    <button class="tab" data-view="finalPanel">파이널 50문제</button>
-    <button class="tab" data-view="examPanel">파이널 50 시험</button>
+    <button class="tab" data-view="examPanel">파이널 시험</button>
   </div>
 </nav>
 
@@ -119,13 +127,6 @@ button{font:inherit;cursor:pointer}
     </div>
   </section>
 
-  <section id="finalPanel" class="panel">
-    <div class="two">
-      <aside id="finalList" class="card mocklist"></aside>
-      <article id="finalContent" class="card mockcontent"></article>
-    </div>
-  </section>
-
   <section id="examPanel" class="panel">
     <div class="two">
       <aside id="examList" class="card mocklist"></aside>
@@ -134,7 +135,406 @@ button{font:inherit;cursor:pointer}
   </section>
 </main>
 
-<script src="mock-data.js?v=20261007-1540"></script>
+<script>
+const MOCK_SETS = [
+  {
+    id:"A1",
+    group:"겹문장·관형사절",
+    title:"11번",
+    prompt:"윗글을 바탕으로 <보기>를 이해한 내용으로 적절하지 않은 것은?",
+    answer:0,
+    passage:`[11~12] 다음 글을 읽고 물음에 답하시오.
+
+문장은 주어와 서술어 관계가 한 번만 나타나는 홑문장과 주어와 서술어 관계가 두 번 이상 나타나는 겹문장으로 나뉜다. 겹문장은 다시 문장의 짜임새에 따라 안은문장과 이어진문장으로 나뉜다. 안은문장은 안긴문장을 하나의 문장 성분으로 안고 있는 문장을 말하고, 이어진문장은 둘 이상의 문장이 연결 어미에 의하여 결합된 문장을 말한다.
+
+안은문장에서 안긴문장은 명사절, 부사절, 인용절, 서술절, 관형사절이 있다. 명사절은 안긴문장의 서술어 어간에 명사형 어미 ‘-(으)ㅁ’, ‘-기’가 붙어서 만들어지고, 조사와 결합하여 안은문장에서 주어, 목적어, 부사어 등의 기능을 한다. 부사절은 안긴문장의 서술어 어간에 부사형 어미 ‘-게’, ‘-도록’ 등이 붙어서 만들어지고, 안은문장에서 부사어 기능을 한다. 인용절은 서술어에 인용의 부사격 조사 ‘고’, ‘라고’가 붙어서 만들어지고, 말이나 생각을 인용하는 기능을 한다. 서술절은 다른 절과 달리 조사나 어미 등 문법적 표지 없이 안은문장에서 서술어 기능을 하는데, 서술절을 안은문장은 ‘주어+(주어+서술어)’로 구성된다. 예를 들어 ‘토끼는 앞발이 짧다.’에서 ‘앞발이 짧다.’가 서술절에 해당한다. 관형사절은 안긴문장의 서술어 어간에 관형사형 어미 ‘-(으)ㄴ’, ‘-는’, ‘-(으)ㄹ’, ‘-던’이 붙어서 만들어지고, 안은문장에서 관형어 기능을 한다.
+
+그런데 관형사절을 안은문장에서 관형사절이 절이 아닌 것처럼 보일 때가 있다. 예를 들어, ‘그녀는 빨간 사과를 샀다.’는 ‘사과가 빨갛다.’라는 문장이 관형사절로 안긴 것으로, ㉮ 관형사절의 주어가 생략된 문장이다. 안긴문장에서 ‘빨간’의 주어가 되는 대상은 ‘사과’인데 그것이 안은문장에서 꾸밈을 받는 대상인 ‘사과’와 동일하기 때문에 안긴문장의 주어인 ‘사과가’가 생략된 것이다. 그러다 보니 ‘빨간’만 남게 되어서 관형사절인 안긴문장이 절이 아닌 것처럼 보이는 것이다.`,
+    box:`㉠ 영수는 학교에 빨리 가기를 원하고 있다.
+㉡ 우리 집 정원에 드디어 라일락이 피었다.
+㉢ 하늘이 눈이 부시게 푸르다.
+㉣ 그녀가 좋아하는 식당은 인기가 많다.
+㉤ 영희가 바닷가에 놀러 가자고 했다.`,
+    options:[
+      "㉠에는 조사 ‘에’와 결합해 부사어 기능을 하는 명사절이 있다.",
+      "㉡에는 주어와 서술어의 관계가 한 번만 나타나 있다.",
+      "㉢에는 어미 ‘-게’가 붙어서 만들어진 부사절이 있다.",
+      "㉣에는 관형사절과 서술절이 모두 나타나 있다.",
+      "㉤에는 조사 ‘고’를 사용해 다른 사람의 말을 인용하는 인용절이 있다."
+    ],
+    verdicts:["X","O","O","O","O"],
+    analyses:[
+      "명사절은 ‘학교에 빨리 가기’이고 조사 ‘를’과 결합해 목적어 기능을 한다. 조사 ‘에’는 명사절 안의 ‘학교’와 결합해 부사어 기능을 하게 한다.",
+      "주어와 서술어 관계가 ‘라일락이 피었다’로 한 번만 나타나는 홑문장이다.",
+      "‘눈이 부시게’는 어미 ‘-게’가 붙어 만들어진 부사절이다.",
+      "관형사절 ‘그녀가 좋아하는’과 서술절 ‘인기가 많다’가 모두 나타난다.",
+      "‘바닷가에 놀러 가자’에 조사 ‘고’가 결합한 인용절이 나타난다."
+    ],
+    source:"2025학년도 6월 고1 전국연합학력평가 11번"
+  },
+  {
+    id:"A2",
+    group:"겹문장·관형사절",
+    title:"12번",
+    prompt:"㉮에 해당하는 예로 적절한 것은?",
+    answer:1,
+    passage:`[11~12] 다음 글을 읽고 물음에 답하시오.
+
+문장은 주어와 서술어 관계가 한 번만 나타나는 홑문장과 주어와 서술어 관계가 두 번 이상 나타나는 겹문장으로 나뉜다. 겹문장은 다시 문장의 짜임새에 따라 안은문장과 이어진문장으로 나뉜다. 안은문장은 안긴문장을 하나의 문장 성분으로 안고 있는 문장을 말하고, 이어진문장은 둘 이상의 문장이 연결 어미에 의하여 결합된 문장을 말한다.
+
+안은문장에서 안긴문장은 명사절, 부사절, 인용절, 서술절, 관형사절이 있다. 명사절은 안긴문장의 서술어 어간에 명사형 어미 ‘-(으)ㅁ’, ‘-기’가 붙어서 만들어지고, 조사와 결합하여 안은문장에서 주어, 목적어, 부사어 등의 기능을 한다. 부사절은 안긴문장의 서술어 어간에 부사형 어미 ‘-게’, ‘-도록’ 등이 붙어서 만들어지고, 안은문장에서 부사어 기능을 한다. 인용절은 서술어에 인용의 부사격 조사 ‘고’, ‘라고’가 붙어서 만들어지고, 말이나 생각을 인용하는 기능을 한다. 서술절은 다른 절과 달리 조사나 어미 등 문법적 표지 없이 안은문장에서 서술어 기능을 하는데, 서술절을 안은문장은 ‘주어+(주어+서술어)’로 구성된다. 예를 들어 ‘토끼는 앞발이 짧다.’에서 ‘앞발이 짧다.’가 서술절에 해당한다. 관형사절은 안긴문장의 서술어 어간에 관형사형 어미 ‘-(으)ㄴ’, ‘-는’, ‘-(으)ㄹ’, ‘-던’이 붙어서 만들어지고, 안은문장에서 관형어 기능을 한다.
+
+그런데 관형사절을 안은문장에서 관형사절이 절이 아닌 것처럼 보일 때가 있다. 예를 들어, ‘그녀는 빨간 사과를 샀다.’는 ‘사과가 빨갛다.’라는 문장이 관형사절로 안긴 것으로, ㉮ 관형사절의 주어가 생략된 문장이다. 안긴문장에서 ‘빨간’의 주어가 되는 대상은 ‘사과’인데 그것이 안은문장에서 꾸밈을 받는 대상인 ‘사과’와 동일하기 때문에 안긴문장의 주어인 ‘사과가’가 생략된 것이다. 그러다 보니 ‘빨간’만 남게 되어서 관형사절인 안긴문장이 절이 아닌 것처럼 보이는 것이다.`,
+    options:[
+      "내가 살던 마을에 함박눈이 펑펑 내렸다.",
+      "아버지는 손짓으로 운동하는 딸을 불렀다.",
+      "내일 날씨가 화창하면 공원에 산책하러 가자.",
+      "그는 하굣길에 학교 앞 서점에서 새 책을 샀다.",
+      "우리 회사가 새로 개발한 제품이 소비자의 호응을 얻었다."
+    ],
+    verdicts:["X","O","X","X","X"],
+    analyses:[
+      "관형사절은 ‘내가 살던’이고 주어가 생략되지 않았다. 이 경우에는 관형사절에서 ‘마을에’에 해당하는 부사어가 생략된 것으로 본다.",
+      "관형사절 ‘운동하는’에서 주어에 해당하는 ‘딸이’가 생략되어 있으므로 ㉮의 조건에 해당한다.",
+      "연결 어미 ‘-면’을 사용한 이어진문장이다.",
+      "홑문장으로서 관형사절이 없다.",
+      "관형사절은 ‘우리 회사가 새로 개발한’이고 주어가 생략되지 않았다. 목적어 ‘제품을’이 생략된 경우이다."
+    ],
+    source:"2025학년도 6월 고1 전국연합학력평가 12번"
+  },
+  {
+    id:"B3",
+    group:"본용언·보조 용언",
+    title:"38번",
+    prompt:"<보기>를 바탕으로 <자료>를 탐구한 내용으로 적절하지 않은 것은?",
+    answer:4,
+    passage:`<보기>
+문장의 주체를 주되게 서술하면서 보조 용언의 도움을 받는 용언을 본용언, 본용언과 연결되어 그것의 뜻을 보충하는 역할을 하는 용언을 보조 용언이라고 하는데, 용언에는 본용언, 보조 용언으로 둘 다 쓰이는 것이 있다. 본용언과 보조 용언의 품사는 대체로 활용 양상에 따라 판별할 수 있는데, 동사는 현재 시제 선어말 어미 ‘-는/-ㄴ-’과 결합할 수 있고, ‘-고 있다’와도 결합할 수 있지만 형용사는 그렇지 않다. 이때 보조 용언의 품사는 본용언의 품사에 연동되어 결정되는 것도 있고 그와 관계없이 고정되어 있는 것도 있다.`,
+    box:`<자료>
+㉠ 그는 노래를 못하지 않았다.
+㉡ 음식 솜씨가 예전보다 못하지 않다.
+㉢ 그는 사람들에게 말을 않고 떠났다.
+㉣ 눈물 때문에 말을 잇지 못했다.
+㉤ 그가 한 행동은 옳지 못했다.`,
+    options:[
+      "㉠의 ‘못하다’와 ㉣의 ‘못하다’를 보니, ‘못하다’는 본용언뿐만 아니라 보조 용언으로도 쓰이고 있군.",
+      "㉡의 ‘않다’는 ㉠의 ‘않다’와 달리, 현재 시제 선어말 어미와 결합할 수 없다는 점에서 보조 형용사겠군.",
+      "㉡의 ‘않다’는 ㉢의 ‘않다’와 달리, 본용언의 뜻을 보충하는 역할을 하고 있다는 점에서 보조 용언이겠군.",
+      "㉢의 ‘않다’는 ㉡의 ‘못하다’와 달리, ‘-고 있다’와 결합할 수 있다는 점에서 동사겠군.",
+      "㉣의 ‘못하다’와 ㉤의 ‘못하다’는 모두 본용언의 품사와 다르다는 점에서 ‘못하다’의 품사는 고정되어 쓰이고 있군."
+    ],
+    verdicts:["O","O","O","O","X"],
+    analyses:[
+      "㉠의 ‘못하다’는 ‘노래를 못하다’처럼 문장의 주된 서술 기능을 하는 본용언이고, ㉣의 ‘못하다’는 ‘잇지 못했다’에서 앞말의 뜻을 보충하는 보조 용언이다.",
+      "㉡의 ‘않다’는 형용사 ‘못하다’ 뒤에서 쓰인 보조 형용사라 동사처럼 현재 시제 ‘-는/-ㄴ-’과 결합하지 않는다. 반면 ㉠의 ‘않다’는 동사적 보조 용언이다.",
+      "㉡의 ‘않다’는 앞의 ‘못하다’를 보충하는 보조 용언이지만, ㉢의 ‘않다’는 ‘말을 않다’에서 목적어를 직접 취하는 본용언이다.",
+      "㉢의 ‘않다’는 동사이므로 ‘않고 있다’처럼 ‘-고 있다’와 결합할 수 있다. ㉡의 ‘못하다’는 형용사적 용법이므로 이와 다르다.",
+      "㉣에서는 보조 동사, ㉤에서는 ‘옳지 못했다’의 보조 형용사로 쓰인다. 따라서 ‘못하다’의 품사가 항상 고정된다고 볼 수 없다."
+    ],
+    source:"2026학년도 7월 고3 전국연합학력평가 38번"
+  },
+  {
+    id:"C6",
+    group:"병렬 구성",
+    title:"35번",
+    prompt:"윗글을 읽고 이해한 내용으로 적절하지 않은 것은?",
+    answer:0,
+    passage:`문장을 이루는 단위에는 단어, 구, 절 등이 있다. 이들은 같은 단위끼리 대등하게 연결되어 병렬 구성을 이룰 수 있다. 단, 명사와 명사구는 같은 단위가 아니지만 병렬 구성을 이룰 수 있다. 국어에서는 조사, 어미 등을 사용하여 병렬 구성을 만든다. 예컨대, ‘물과 불’에서는 ‘물’과 ‘불’이 접속 조사 ‘과’로, ‘밖은 춥고 안은 덥다.’에서는 ‘밖은 춥-’과 ‘안은 덥-’이 연결 어미 ‘-고’로 대등하게 연결되었다. 물론 동일한 단위가 조사나 어미 없이 나열되는 것으로도 병렬 구성을 이룰 수 있다.
+
+병렬 구성에서는 둘 이상의 요소가 대등하게 연결되기 때문에, 이들의 위치를 서로 바꾸어도 의미는 유지된다. 예컨대, ‘밖은 춥고 안은 덥다.’나 ‘안은 덥고 밖은 춥다.’는 둘 다 같은 사실을 나타낸다. 또한 절이 병렬 구성을 이룰 때, 선행절과 후행절에서 똑같은 말이 동일한 문장 성분이면 후행절의 해당 성분이 생략될 수 있다. ‘형은 지금 네 살이고 동생은 지금 세 살이다.’에서 후행절의 ‘지금’은 생략이 가능하다는 것이다.
+
+병렬 구성의 특성을 이해하면 문장의 문법적 적절성을 따질 때 유용하다. ‘이 법으로 평화 수호와 인권을 보장하기 어렵다.’에서 조사 ‘와’로 연결된 두 요소는 ‘평화 수호’와 ‘인권을 보장하기’인데, 전자는 구이고 후자는 절이다. 즉 ㉠ 병렬 구성을 이루려면 그 요소들의 단위가 동일해야 하는데 그렇지 않아 적절하지 않은 것이다. 또한 ‘그는 남을 속이기도 하고 속기도 한다.’에서 후행절에 나타나지 않은 부사어 ‘남에게’는 선행절의 목적어 ‘남을’과는 다른 문장 성분이다. 즉 ㉡ 동일한 문장 성분이 아닌데 생략되어 적절하지 않은 것이다. 끝으로 ‘빵과 물을 마셨다.’에서 ‘빵과 물’은 병렬 구성이지만 ‘빵’은 서술어 ‘마시다’의 목적어가 될 수 없다. 즉 ㉢ 대등하게 연결된 모든 요소가 동일한 성분에 호응할 수 있어야 하는데 그렇지 않아 적절하지 않은 것이다.`,
+    options:[
+      "‘도서관이 우리 집과 참 가깝다.’를 ‘우리 집이 도서관과 참 가깝다.’로 바꾸어도 의미가 유지되므로 두 문장에는 모두 병렬 구성이 있다.",
+      "‘나는 빵을 먹고 기분이 좋아졌다.’에는 연결 어미가 쓰였으나 두 절이 대등하게 연결된 것은 아니므로 이 문장에는 병렬 구성이 없다.",
+      "‘팥, 콩, 쌀이 많다.’에는 접속 조사가 없지만 명사가 대등하게 나열되어 있으므로 이 문장에는 병렬 구성이 있다.",
+      "‘오래 걷기랑 빨리 걷기 중에 뭘 할까?’에는 병렬 구성이 있지만, 이는 어미로써 이루어진 것은 아니다.",
+      "‘동생은 중학생이었으나 형은 대학생이었다.’에는 병렬 구성이 있고, 이는 어미로써 이루어졌다."
+    ],
+    verdicts:["X","O","O","O","O"],
+    analyses:[
+      "‘우리 집과 가깝다’의 ‘과’는 두 명사를 접속하는 조사가 아니라 비교·기준의 대상을 나타내는 부사격 조사이다. 두 문장의 어순을 바꿀 수 있다는 사실만으로 병렬 구성은 성립하지 않는다.",
+      "‘먹고’의 ‘-고’는 계기적 관계를 나타내며 두 절이 대등하게 병렬된 구조가 아니다.",
+      "‘팥, 콩, 쌀’은 조사 없이 같은 단위인 명사가 나열된 병렬 구성이다.",
+      "‘오래 걷기’와 ‘빨리 걷기’가 접속 조사 ‘랑’으로 연결되었으므로 병렬 구성이지만 연결 어미에 의한 것은 아니다.",
+      "‘동생은 중학생이었-’과 ‘형은 대학생이었-’이 연결 어미 ‘-으나’로 대등하게 연결되어 있다."
+    ],
+    source:"2026학년도 대학수학능력시험 9월 모의평가 35번"
+  },
+  {
+    id:"C7",
+    group:"병렬 구성",
+    title:"36번",
+    prompt:"윗글을 바탕으로 <학습 활동>을 수행한 결과로 적절한 것은?",
+    answer:2,
+    passage:`<학습 활동>
+ⓐ~ⓔ에는 ㉠~㉢의 문제가 하나 이상씩 있다. [보기 문장]에는 이런 문제 없이 ⓐ~ⓔ가 나타내려던 바가 표현되어 있다. 이제 ⓐ~ⓔ에서 ㉠~㉢의 문제를 있는 대로 찾아보자.
+
+㉠ 병렬 요소의 단위가 서로 맞지 않음
+㉡ 생략된 성분이 앞 절의 동일한 문장 성분과 대응하지 않음
+㉢ 대등하게 연결된 요소가 동일한 서술어와 호응하지 않음`,
+    box:`ⓐ 나는 매주 체력을 단련하거나 방 청소 후에 집을 나가지만, 형은 국을 끓이거나 빵을 굽느라고 집에 머문다.
+ⓑ 나는 매주 체력 단련하거나 방을 청소한 후에 집을 나가지만, 형은 국이나 빵을 굽느라고 머문다.
+ⓒ 나는 매주 체력 단련이나 방을 청소한 후에 집을 나가지만, 형은 국을 끓이거나 빵을 굽느라고 머문다.
+ⓓ 나는 매주 체력 단련이나 방 청소 후에 집을 나가지만, 형은 국이나 빵을 굽느라고 집에 머문다.
+ⓔ 나는 매주 체력을 단련하거나 방 청소한 후에 집을 나가지만, 형은 국을 끓이거나 빵을 굽느라고 머문다.
+
+[보기 문장] 나는 매주 체력 단련이나 방 청소 후에 집을 나가지만, 형은 국을 끓이거나 빵을 굽느라고 집에 머문다.`,
+    options:["ⓐ : ㉡","ⓑ : ㉢","ⓒ : ㉠, ㉡","ⓓ : ㉡, ㉢","ⓔ : ㉠, ㉡, ㉢"],
+    verdicts:["X","X","O","X","X"],
+    analyses:[
+      "원문 ⓐ에는 병렬 요소의 단위가 서로 맞지 않는 문제가 있다. 선택지는 문제 유형을 정확히 잡지 못한다.",
+      "원문 ⓑ는 ‘국이나 빵을 굽다’처럼 공유 서술어와의 호응 문제를 포함한다. 선택지가 제시한 유형만으로는 문제를 모두 포착하지 못한다.",
+      "원문 ⓒ에는 ‘체력 단련’과 ‘방을 청소한’의 단위 불일치가 있고, 후행절에서 생략된 ‘집에’가 선행절의 ‘집을’과 동일한 문장 성분이 아니라는 문제도 있다.",
+      "원문 ⓓ의 핵심 문제는 ‘국이나 빵을 굽다’에서 ‘국’이 ‘굽다’와 호응하지 않는 점이다. 선택지의 문제 유형 조합은 맞지 않는다.",
+      "원문 ⓔ에는 단위 불일치와 부적절한 생략이 있지만, 선택지가 제시한 세 문제 모두가 나타나는 것은 아니다."
+    ],
+    source:"2026학년도 대학수학능력시험 9월 모의평가 36번"
+  },
+  {
+    id:"C8",
+    group:"지시 표현",
+    title:"37번",
+    prompt:"<보기>의 ㉠~㉨에 대한 이해로 적절한 것은?",
+    answer:4,
+    passage:`<보기>
+[현기의 부모가 여행을 가기 위해 공항으로 가려는 상황]
+
+엄마: 아들, 여행사 안내문 좀 가져다줄래? 엄마가, 우리 언제 나가야 하나 좀 ㉠ 보자.
+아빠: (방에 들어오며) ㉡ 당신 뭐해요?
+엄마: 요 ㉢ 앞 여행 때 늦었던 게 생각나 시간 좀 보려고요.
+아들: (엄마에게 전해 준 안내문을 함께 보며) 여기 말고, ㉣ 다음 장. 네, 거기, 집합 장소에서 11시에 모여야 한대요.
+아빠: 그럼, 집 ㉤ 앞에서 9시 버스 타면 되겠네요. 아, 어머니 전화 왔었어요. ㉥ 당신께서 오후에 현기 보러 오신대요. 현기야, 우리 올 때까지 잘 지내고 있어.
+아들: 네, 잘 다녀오세요. ㉦ 다음에는 저도 같이 갈게요.
+엄마: 그래, ㉧ 우리 갔다 올게. 할머니랑 둘이 있는 동안에도, 우리, 화초에 물 매일 꼭 ㉨ 주자.`,
+    options:[
+      "㉠의 주체는 ㉧이 가리키는 대상과 같다.",
+      "㉡과 ㉥은 모두 청자를 가리킨다.",
+      "㉣은 ㉤과 달리 시간을 가리킨다.",
+      "㉦이 가리키는 시간은 ㉢보다 먼저이다.",
+      "㉨의 주체에는 ㉡이 가리키는 대상이 포함되지 않는다."
+    ],
+    verdicts:["X","X","X","X","O"],
+    analyses:[
+      "원문에서 ‘보자’의 행위 주체는 엄마이고, 비교 대상인 ‘우리’는 엄마와 아빠를 함께 가리켜 동일하지 않다.",
+      "‘당신’ 하나는 청자인 엄마를, 다른 하나는 재귀적 용법으로 할머니를 가리키므로 둘 다 청자를 가리키지 않는다.",
+      "‘다음 장’은 안내문의 공간적/문서적 위치를, ‘집 앞’은 장소를 가리킨다. 시간 대비로 볼 수 없다.",
+      "‘다음’은 앞으로의 여행을, ‘앞 여행’은 현재 여행보다 이전의 여행을 가리키므로 선택지의 시간 선후 판단이 뒤집혀 있다.",
+      "마지막 청유형 ‘주자’는 맥락상 현기에게 하는 명령에 가깝고, 그 행위 주체에 엄마는 포함되지 않는다."
+    ],
+    source:"2026학년도 대학수학능력시험 9월 모의평가 37번"
+  },
+  {
+    id:"C9",
+    group:"조사 결합",
+    title:"38번",
+    prompt:"<학습 활동>을 수행한 결과로 적절한 것은?",
+    answer:3,
+    passage:`<학습 활동>
+격 조사나 보조사는 앞말에 둘 이상 결합할 수 있다. 이때 이들의 결합 유형에는 ‘격 조사-격 조사’, ‘격 조사-보조사’, ‘보조사-격 조사’, ‘보조사-보조사’가 있다. 예컨대 ‘형에게조차도’의 ‘에게조차’는 두 번째 유형에, ‘조차도’는 네 번째 유형에 해당한다. 또한 일부 격 조사와 달리, 보조사는 어미나 부사 바로 뒤에도 결합할 수 있다.
+
+그 애는 늦게나마 나만을 위해 자기한테만 있는 책을 빌려줬다.`,
+    options:[
+      "작은 집이나마 필요한 동물은 고양이만이 아니겠다.",
+      "뜻밖에 그 좋은 소식이 큰누나에게까지는 전해졌다.",
+      "규정만으로 문제점을 해결할 길이 이밖에는 없었다.",
+      "논리가 이것뿐이라면 말로써는 이길 도리가 없겠다.",
+      "우리만의 장점을 그에게 조금이라도 설명해야 했다."
+    ],
+    verdicts:["X","X","X","O","X"],
+    analyses:[
+      "‘고양이만이’에서 보조사-격 조사 결합은 보이지만, ‘이나마’는 하나의 보조사로 처리되어 요구 유형을 모두 보여 주지 않는다.",
+      "‘에게까지는’에는 격 조사-보조사, 보조사-보조사 결합은 보이지만 보조사-격 조사 유형이 없다.",
+      "원문에서는 ‘규정만으로’의 보조사-격 조사와 ‘이밖에는’의 보조사-보조사가 확인될 뿐, 필요한 두 핵심 유형을 모두 갖추지 못한다.",
+      "‘뿐이라면’은 보조사-격 조사, ‘말로써는’은 격 조사-보조사 결합을 보여 주어 학습 활동의 두 유형을 모두 갖춘다.",
+      "‘우리만의’는 보조사-격 조사이지만 ‘이라도’는 하나의 보조사이므로 다른 핵심 유형까지 충족하지 못한다."
+    ],
+    source:"2026학년도 대학수학능력시험 9월 모의평가 38번"
+  },
+  {
+    id:"C10",
+    group:"의미 변화",
+    title:"39번",
+    prompt:"[A]에 들어갈 말로 적절한 것은?",
+    answer:4,
+    passage:`선생님: 단어의 의미 변화에는 원래의 의미가 유지되고 새로운 의미가 더해지는 확대, 원래의 의미 중 일부가 사라지는 축소, 원래의 의미는 사라지고 새로운 의미가 생기는 이동 등이 있어요. ‘ᄉᆞᅀᅵ(사이)’는 확대를, ‘놀다’는 축소를, ‘즈ᅀᅳᆷᄒᆞ다(즈음하다)’는 이동을 겪었어요. 이를 확정할 수 있는 중세 국어와 현대 국어의 자료를 아래에 제시했어요.
+
+◦ 도ᄌᆞᄀᆡ ㉠ ᄉᆞᅀᅵᆯ 디나샤 [도적의 사이를 지나셔]
+◦ 七寶琴(칠보금) ㉡ 놀오 [칠보금을 연주하고]
+◦ 프른 門(문)이 ㉢ 즈ᅀᅳᆷᄒᆞ고 [푸른 문이 사이에 있고]
+◦ ㉣ 사이 좋은 가족
+◦ 물고기가 한가로이 ㉤ 놀고
+◦ 현충일에 ㉥ 즈음하여
+
+학생: 현대 국어 단어 [A]을 확인해야 해요.
+선생님: 네, 맞아요.`,
+    options:[
+      "‘사이’에 ㉠에서의 뜻이 없고 중세 국어 ‘ᄉᆞᅀᅵ’에 ㉣에서의 뜻이 없음",
+      "‘놀다’에 ㉡에서의 뜻이 있고 중세 국어 ‘놀다’에 ㉤에서의 뜻이 없음",
+      "‘놀다’에 ㉡에서의 뜻이 없고 중세 국어 ‘놀다’에 ㉤에서의 뜻이 없음",
+      "‘즈음하다’에 ㉢에서의 뜻이 없고 중세 국어 ‘즈ᅀᅳᆷᄒᆞ다’에 ㉥에서의 뜻이 있음",
+      "‘즈음하다’에 ㉢에서의 뜻이 없고 중세 국어 ‘즈ᅀᅳᆷᄒᆞ다’에 ㉥에서의 뜻이 없음"
+    ],
+    verdicts:["X","X","X","X","O"],
+    analyses:[
+      "‘사이’의 확대는 옛 의미가 현대에도 남아 있고 새로운 의미가 추가되었는지를 확인해야 하는데, 선택지는 필요한 정보 관계를 반대로 잡는다.",
+      "‘놀다’의 축소는 중세에 있던 ‘연주하다’의 뜻이 현대에 사라졌는지를 확인해야 한다. 선택지의 방향이 반대다.",
+      "중세와 현대 모두 해당 뜻이 없다고 하면 ‘축소’를 입증할 수 없다.",
+      "의미 이동을 보이려면 옛 의미의 소멸만이 아니라 현대의 새 의미가 중세에는 없었음까지 확인해야 한다. 한쪽 정보만으로는 불충분하다.",
+      "‘즈음하다’는 중세의 ‘사이에 있다’ 의미가 현대에서 사라지고, 현대의 ‘특정한 때에 다다르다/맞다’ 의미가 새로 나타났음을 함께 확인해야 한다."
+    ],
+    source:"2026학년도 대학수학능력시험 9월 모의평가 39번"
+  },
+  {
+    id:"F1",
+    group:"용언 활용과 표기",
+    title:"35번",
+    prompt:"윗글을 이해한 내용으로 적절한 것은?",
+    answer:3,
+    passage:`국어의 용언은 어간에 어미가 결합하여 다양하게 활용한다. 용언의 활용형은 원칙적으로 어간과 어미의 원래 형태를 밝혀 적는다. 그런데 용언이 활용할 때에는 음운 변동이 일어날 수 있으며 그 결과가 표기에 반영되기도 하고 반영되지 않기도 한다. 예컨대 ‘쌓다’는 ‘쌓+고[싸코]’에서 거센소리되기, ‘쌓+아[싸아]’에서 ㅎ 탈락, ‘쌓+는[싼는]’에서 음절의 끝소리 규칙과 비음화가 적용되더라도 이들 음운 변동 결과는 표기에 반영되지 않는다. ‘날다’의 경우에는 ‘날+고[날고]’, ‘날+아[나라]’, ‘날+니[나니]’로 활용하는데, ㄹ 탈락이 일어날 때의 결과는 표기에 반영된다.
+
+[A] 어간 말 모음이 오/우이면 반모음 w로의 교체가 일어날 수 있고, 어간 말 모음이 이이면 반모음 j로 교체될 수 있다. ‘견디+어[견디어]’는 [견디여]처럼 어미 ‘어’에 반모음 j가 첨가되기도 한다. 그러나 ㅅ 불규칙 용언 ‘짓+어[지어]’에서는 반모음 첨가가 일어나지 않는다. 어간 말 모음이 아/어이면 동일 모음 탈락이, 으이면 어간 말 모음 으 탈락이 일어난다. j 반모음 첨가를 제외하고는 이 음운 변동의 결과가 표기에 반영된다.
+
+어간 말이 르일 때에는 르 불규칙, 러 불규칙 활용도 나타난다. ‘지르다’는 ‘질러’로, ‘(정상에) 이르다’는 ‘이르러’로 활용한다.`,
+    options:[
+      "용언이 불규칙 활용해도 어간, 어미의 원래 형태대로 적는다.",
+      "용언의 어간이 여러 어미와 결합할 때 한 가지 음운 변동만 일어난다.",
+      "‘(문제를) 푸니’는 음운 변동이 일어났지만 표기에 반영되지 않았다.",
+      "‘본떠’는 ‘닳아서’와 달리 음운 변동의 결과가 표기에 반영되었다.",
+      "‘(정상에) 이르다’와 ‘(주의 사항을) 이르다’의 활용은 어간과 어미가 모두 변한다는 공통점이 있다."
+    ],
+    verdicts:["X","X","X","O","X"],
+    analyses:[
+      "불규칙 활용에서는 어간이나 어미의 형태 변화가 표기에 반영되는 경우가 있으므로 항상 원형대로 적는다는 말은 틀리다.",
+      "한 활용형에서 음절 끝소리 규칙·비음화처럼 둘 이상의 음운 변동이 연속해 일어날 수 있다.",
+      "‘푸니’는 ‘풀-+-니’에서 ㄹ 탈락이 일어나고 그 결과가 표기에도 반영된 예이다.",
+      "‘본떠’는 ‘본뜨-+ -어’의 ㅡ 탈락 결과가 표기에 반영되는 반면, ‘닳아서’의 ㅎ 탈락은 표기에 반영되지 않아 대비가 맞다.",
+      "‘(정상에) 이르다’는 러 불규칙으로 주로 어미가 바뀌고, ‘(주의 사항을) 이르다’는 르 불규칙으로 어간 쪽 변화가 나타나므로 둘 다 어간과 어미가 모두 변한다는 공통점은 없다."
+    ],
+    source:"2026학년도 대학수학능력시험 6월 모의평가 35번"
+  },
+  {
+    id:"F2",
+    group:"용언 활용과 표기",
+    title:"36번",
+    prompt:"㉠~㉤에 대해 이해한 내용으로 적절하지 않은 것은?",
+    answer:1,
+    passage:`<음운 변동 활용 사례>
+㉠ 나오 + 아 → 나와
+㉡ 견디 + 어 → 견디어 → 견뎌
+㉢ 견디 + 어 → 견디어[견디어/견디여]
+※ 주의: 짓 + 어 → 지어[지어]
+㉣ 사 + 아 → 사
+㉤ 쓰 + 어 → 써`,
+    options:[
+      "‘(다리를) 꽈서’, ‘(꽃을) 봐서’는 모두 ㉠의 사례로 추가할 수 있군.",
+      "‘(회사에) 다녀’, ‘(사람들과) 어울리려고’는 모두 ㉡의 사례로 추가할 수 있군.",
+      "‘(어려움을) 버티어’는 ‘(두 점을) 이어’와 달리 ㉢의 사례로 추가할 수 있군.",
+      "‘(잘못을) 나무라서’는 ‘(유행을) 따라서’와 달리 ㉣의 사례로 추가할 수 있군.",
+      "‘(김치를) 담가’, ‘(돈을) 모아’는 모두 ㉤의 사례로 추가할 수 있군."
+    ],
+    verdicts:["O","X","O","O","O"],
+    analyses:[
+      "‘꽈서/봐서’는 어간 말 ‘오’가 반모음 [w]로 교체되는 유형이다.",
+      "‘다녀’는 ‘다니-+ -어’에서 ‘ㅣ’가 반모음 [j]로 교체된 예지만, ‘어울리려고’의 ‘려’는 원래 어미 ‘-려고’의 일부이지 ‘ㅣ+어’가 줄어든 결과가 아니다.",
+      "‘버티+어’가 [버티여]로 발음되는 경우는 어미 ‘어’에 반모음 j가 첨가된 것이므로 ㉢의 사례로 적절하다. 반면 ‘잇다’는 ㅅ 불규칙 용언이기 때문에 활용에서 이러한 j 첨가가 일어나지 않는다.",
+      "‘나무라서’는 동일 모음 ‘ㅏ’ 탈락, ‘따라서’는 ‘따르-’의 ㅡ 탈락 계열이므로 서로 다른 유형임을 구별한 설명이 맞다.",
+      "‘담그+아[담가]’, ‘모으+아[모아]’는 모두 어간 말 모음 ‘으’가 탈락하는 경우이므로 ㉤의 사례로 적절하다."
+    ],
+    source:"2026학년도 대학수학능력시험 6월 모의평가 36번"
+  },
+  {
+    id:"F3",
+    group:"피동·서술절·보조 용언",
+    title:"37번",
+    prompt:"<학습 활동>을 수행한 결과로 적절하지 않은 것은?",
+    answer:4,
+    passage:`<학습 활동>
+㉠ 피동 접미사가 결합한 피동사
+㉡ 서술어로 기능하는 안긴문장
+㉢ 본용언과 보조 용언의 결합으로 이루어진 서술어`,
+    options:[
+      "우리나라 선수는 올림픽 대회에서 우승 후보로 손꼽히는 실력자이다. / ㉠은 실현되었지만 ㉡은 실현되지 않았다.",
+      "내 짝은 어제 졸업식장에 친구들과의 추억이 담긴 사진들을 모아 왔다. / ㉠은 실현되었지만 ㉢은 실현되지 않았다.",
+      "친구가 마음이 여려서 나는 친구의 부탁을 가볍게 넘기지 못했다. / ㉡은 실현되었지만 ㉠은 실현되지 않았다.",
+      "형이 골동품 가게에서 싸게 산 우표가 올해 들어 값이 올랐다. / ㉡은 실현되었지만 ㉢은 실현되지 않았다.",
+      "나는 날씨가 따뜻해질 것처럼 보여 외출했다가 감기에 걸려 버렸다. / ㉢은 실현되었지만 ㉠은 실현되지 않았다."
+    ],
+    verdicts:["O","O","O","O","X"],
+    analyses:[
+      "‘손꼽히는’은 피동 접미사 ‘-히-’가 결합한 피동사이고, 서술어로 기능하는 안긴문장은 없다.",
+      "‘담긴’은 피동 접미사 ‘-기-’가 결합했다. ‘모아 왔다’의 ‘오다’는 실제 이동의 본용언이라 보조 용언 구성이 아니다.",
+      "‘마음이 여려서’는 주어 ‘친구가’의 서술어 역할을 하는 안긴문장으로 볼 수 있고, ‘넘기다’의 ‘-기-’는 피동 접미사가 아니다.",
+      "‘값이 올랐다’가 주어 ‘우표가’의 서술어 역할을 하는 서술절이며, 본용언+보조 용언 구성은 없다.",
+      "‘걸려 버렸다’는 본용언+보조 용언이고, ‘보여’의 ‘보이다’에는 피동 접미사 ‘-이-’가 들어 있다. 따라서 ㉢만 있고 ㉠은 없다는 수행 결과가 틀리다."
+    ],
+    source:"2026학년도 대학수학능력시험 6월 모의평가 37번"
+  },
+  {
+    id:"F4",
+    group:"관형사절",
+    title:"38번",
+    prompt:"<보기>의 ㉠, ㉡의 예로 적절하지 않은 것은?",
+    answer:0,
+    passage:`<보기>
+(가) 나는 이번 조사에서 밝혀진 사실에 충격을 받았다.
+(나) 나는 동생이 열심히 노력한 사실을 새삼 깨달았다.
+
+(가)는 ‘사실’이 관형사절의 원래 문장 ‘(생략된 주어) 이번 조사에서 밝혀졌다.’의 주어에 해당하여, ㉠ 수식받는 명사가 관형사절의 문장 성분이 될 수 있는 경우이다. 반면 (나)는 관형사절의 원래 문장 ‘동생이 열심히 노력하였다.’가 ‘사실’의 내용에 해당하여, ㉡ 수식받는 명사가 관형사절의 문장 성분이 될 수 없는 경우이다.`,
+    options:[
+      "㉠ : 그들은 함께 어울렸던 기억을 더듬어 나갔다.",
+      "㉠ : 어제 박물관에서 일어난 사건으로 모두 놀랐다.",
+      "㉡ : 이 손목시계는 방수가 잘되지 않는 단점이 있다.",
+      "㉡ : 언론에서는 전쟁이 끝날 가능성이 크다고 보았다.",
+      "㉡ : 친구는 새벽마다 운동을 한 경험을 소중히 여겼다."
+    ],
+    verdicts:["X","O","O","O","O"],
+    analyses:[
+      "‘함께 어울렸던 기억’에서 ‘기억’은 ‘함께 어울렸다’의 문장 성분으로 복원되지 않고, 그 절 전체가 ‘기억’의 내용이 된다. 따라서 관계 관형사절이 아니라 내용 관형사절이다.",
+      "‘박물관에서 일어난 사건’은 ‘사건이 박물관에서 일어났다’처럼 ‘사건’이 관형사절의 주어로 복원되므로 관계 관형사절이다.",
+      "‘방수가 잘되지 않는 단점’은 ‘방수가 잘되지 않는다’가 ‘단점’의 내용이므로 내용 관형사절이다.",
+      "‘전쟁이 끝날 가능성’은 ‘전쟁이 끝나다’가 ‘가능성’의 내용이므로 내용 관형사절이다.",
+      "‘운동을 한 경험’은 ‘운동을 하다’가 ‘경험’의 내용이므로 내용 관형사절이다."
+    ],
+    source:"2026학년도 대학수학능력시험 6월 모의평가 38번"
+  },
+  {
+    id:"F5",
+    group:"중세 국어 목적격 조사",
+    title:"39번",
+    prompt:"중세 국어 목적격 조사의 사용에 대한 설명으로 적절한 것은?",
+    answer:2,
+    passage:`선생님: 중세 국어 목적격 조사는 ‘을/를’ 외에 ‘ᄋᆞᆯ/ᄅᆞᆯ’도 있었어요. 체언 끝음절에 받침이 있으면 ‘ᄋᆞᆯ/을’이, 받침이 없으면 ‘ᄅᆞᆯ/를’이 결합했어요. 그리고 중세 국어에서 비교적 엄격하게 지켜진 모음 조화에 따라, 체언의 끝음절 모음이 양성 모음(ㅏ, ㅑ, ㅗ, ㅛ, ㆍ)이면 ‘ᄋᆞᆯ/ᄅᆞᆯ’이, 음성 모음(ㅓ, ㅕ, ㅜ, ㅠ, ㅡ)이면 ‘을/를’이 결합했어요.
+
+학생: 그럼 끝음절 모음이 중성 모음 ㅣ인 체언은 어떤 형태의 목적격 조사와 결합했나요?
+선생님: 그 경우에는 모음 조화와 무관하게 받침의 유무로만 조사가 결정되면서 ‘을/를’은 물론 ‘ᄋᆞᆯ/ᄅᆞᆯ’과도 결합할 수 있었어요. 특이한 것은, 끝음절 모음이 ‘ㅔ, ㅟ’인 체언도 중성 모음 ㅣ인 체언과 마찬가지로 받침 유무에 따라서만 조사가 결합됐다는 점이에요.`,
+    box:`중세 국어 단어
+둡게(덮개), 바ᄅᆞᆯ(바다), 염규(부추), 아바님(아버님), 꿈, 벼로(벼루)
+
+목적격 조사   결합 단어
+ᄋᆞᆯ             ㉠
+ᄅᆞᆯ             ㉡
+을             ㉢
+를             ㉣`,
+    options:[
+      "㉠에 들어갈 단어는 ‘바ᄅᆞᆯ’뿐이다.",
+      "㉡에 들어갈 단어는 ‘염규, 벼로’이다.",
+      "㉢에 들어갈 단어는 ‘아바님, 꿈’이다.",
+      "㉣에 들어갈 단어는 ‘둡게’뿐이다.",
+      "㉡과 ㉣에 공통으로 들어갈 단어는 ‘아바님’이다."
+    ],
+    verdicts:["X","X","O","X","X"],
+    analyses:[
+      "㉠에는 ‘바ᄅᆞᆯ’뿐 아니라 끝음절 모음이 중성 ‘ㅣ’이고 받침이 있는 ‘아바님’도 들어갈 수 있다.",
+      "㉡은 ‘둡게, 벼로’이다. ‘염규’는 끝모음이 음성 모음이고 받침이 없어 ‘를’과 결합한다.",
+      "㉢ ‘을’과 결합하는 단어는 ‘아바님’과 ‘꿈’이다.",
+      "㉣에는 ‘둡게’뿐 아니라 ‘염규’도 들어간다.",
+      "㉡과 ㉣에 공통으로 들어가는 것은 ‘아바님’이 아니라 ‘둡게’이다."
+    ],
+    source:"2026학년도 대학수학능력시험 6월 모의평가 39번"
+  }
+];
+</script>
 <script>
 const FEATURE_PASSAGE = `언어학에서 변별적 자질은 두 대상이 어떤 특성에서 구별된다는 것을 나타내는 개념이다. 변별적 자질은 [+F], [-F]처럼 표시하며, F는 음성적 특성을, +/-는 그 특성의 유무를 나타낸다. 예를 들어 /ㅁ/과 /ㅂ/은 [+양순성]을 공유하지만 /ㅁ/은 [+비음성], /ㅂ/은 [-비음성]이다. 변별적 자질을 사용하면 음운 현상에서 함께 행동하는 음들의 부류와 규칙 적용 전의 음, 적용 후의 음, 규칙의 환경이 되는 음을 공통 자질로 설명할 수 있다.`;
 
@@ -796,7 +1196,6 @@ document.querySelectorAll(".tab").forEach(btn=>{
   };
 });
 
-
 let activeMock=MOCK_SETS[0]?.id;
 function groupedMocks(){
   const groups=[];
@@ -842,9 +1241,6 @@ function renderMock(){
   };
 }
 
-
-let activeFinal=1;
-
 function finalGroupName(n){
   if(n<=15) return "음운의 개념·체계";
   if(n<=32) return "음운 변동";
@@ -852,59 +1248,9 @@ function finalGroupName(n){
   return "형태소·합성어";
 }
 
-function renderFinalList(){
-  const el=document.getElementById("finalList");
-  let last="";
-  el.innerHTML=FINAL50.map(q=>{
-    const g=finalGroupName(q.n);
-    const head=g!==last?`<div class="group">${esc(g)}</div>`:"";
-    last=g;
-    return head+`<button class="mockbtn ${q.n===activeFinal?"active":""}" data-n="${q.n}">${q.n}번 · ${esc(q.title)}</button>`;
-  }).join("");
-  el.querySelectorAll(".mockbtn").forEach(b=>b.onclick=()=>{
-    activeFinal=Number(b.dataset.n);
-    renderFinalList(); renderFinal();
-    document.getElementById("finalContent").scrollIntoView({behavior:"smooth",block:"start"});
-  });
-}
-
-function renderFinal(){
-  const q=FINAL50.find(x=>x.n===activeFinal)||FINAL50[0];
-  const el=document.getElementById("finalContent");
-  const body=q.body?`<div class="passage">${esc(q.body)}</div>`:"";
-  if(q.type==="short"){
-    el.innerHTML=`<div class="mockhead"><span class="badge">${esc(finalGroupName(q.n))}</span><span class="counter">${q.n}번</span></div>
-    <div class="mockbody">
-      ${body}
-      <div class="qprompt">${esc(q.prompt)}</div>
-      <div class="actions"><button class="btn gold" id="finalShortReveal">정답·해설 보기</button></div>
-      <div id="finalShortAnswer" class="finalanswer"><div><b>정답</b><br>${esc(q.answerText)}</div><div style="margin-top:9px;font-weight:700;color:#344054">${esc(q.explanation)}</div></div>
-    </div>`;
-    document.getElementById("finalShortReveal").onclick=()=>document.getElementById("finalShortAnswer").classList.toggle("show");
-    return;
-  }
-  el.innerHTML=`<div class="mockhead"><span class="badge">${esc(finalGroupName(q.n))}</span><span class="counter">${q.n}번</span></div>
-  <div class="mockbody">
-    ${body}
-    <div class="qprompt">${esc(q.prompt)}</div>
-    <div>${q.options.map((o,i)=>`<div class="choicecheck">
-      <div class="choice-line"><div class="choice-text"><b>${i+1}.</b> ${esc(o)}</div><button class="reveal" data-i="${i}">선택지 점검</button></div>
-      <div class="analysis" id="fanalysis-${i}"><span class="mark ${i===q.answer?"o":"x"}">${i===q.answer?"O":"X"}</span>${esc(q.analyses[i])}</div>
-    </div>`).join("")}</div>
-    <div class="actions"><button class="btn gold" id="showFinal50Answer">정답 보기</button><button class="btn" id="showAllFinal50">선택지 전체 점검</button></div>
-    <div id="final50Answer" class="finalanswer">정답: ${q.answer+1}번</div>
-  </div>`;
-  el.querySelectorAll(".reveal").forEach(btn=>btn.onclick=()=>document.getElementById("fanalysis-"+btn.dataset.i).classList.toggle("show"));
-  document.getElementById("showFinal50Answer").onclick=()=>document.getElementById("final50Answer").classList.toggle("show");
-  document.getElementById("showAllFinal50").onclick=()=>{
-    const boxes=[...el.querySelectorAll(".analysis")];
-    const allOpen=boxes.every(x=>x.classList.contains("show"));
-    boxes.forEach(x=>x.classList.toggle("show",!allOpen));
-  };
-}
-
-
-const examState={answers:{},current:1,name:""};
+const OMITTED_FINAL = new Set([35,36,40,41,42,48,49,50]);
+const EXAM_Q = FINAL50.filter(q=>!OMITTED_FINAL.has(q.n));
+const examState={answers:{},checked:{},current:EXAM_Q[0].n,name:""};
 
 const SHORT_RULES={
   7:["분절","자음","모음"],
@@ -914,7 +1260,6 @@ const SHORT_RULES={
   17:["첫여름","ㄴ첨가","비음화","잡히다","거센소리"],
   30:["된소리","자음군단순화"],
   37:["나무","꾼","사람"],
-  40:["놀이터","눈웃음"],
   44:["의존명사","실질","띄어"]
 };
 
@@ -926,18 +1271,25 @@ function shortCorrect(q,ans){
   const keys=SHORT_RULES[q.n]||[];
   return keys.length>0 && keys.every(k=>t.includes(normText(k)));
 }
-function examAnswered(q){
-  const a=examState.answers[q.n];
+function examAnswered(q,state=examState){
+  const a=state.answers[q.n];
   return q.type==="short" ? !!String(a||"").trim() : Number.isInteger(a);
+}
+function isCorrect(q,state=examState){
+  const a=state.answers[q.n];
+  return q.type==="short" ? shortCorrect(q,a) : a===q.answer;
+}
+function currentIndex(){
+  return Math.max(0,EXAM_Q.findIndex(x=>x.n===examState.current));
 }
 function renderExamList(){
   const el=document.getElementById("examList");
   let last="";
-  el.innerHTML=FINAL50.map(q=>{
+  el.innerHTML=EXAM_Q.map(q=>{
     const g=finalGroupName(q.n);
     const head=g!==last?`<div class="group">${esc(g)}</div>`:"";
     last=g;
-    return head+`<button class="mockbtn ${q.n===examState.current?"active":""} ${examAnswered(q)?"answered":""}" data-n="${q.n}">${q.n}번 · ${esc(q.title)}</button>`;
+    return head+`<button class="mockbtn ${q.n===examState.current?"active":""} ${examState.checked[q.n]?"answered":""}" data-n="${q.n}">${q.n}번 · ${esc(q.title)}</button>`;
   }).join("");
   el.querySelectorAll(".mockbtn").forEach(b=>b.onclick=()=>{
     examState.current=Number(b.dataset.n);
@@ -945,25 +1297,53 @@ function renderExamList(){
     document.getElementById("examContent").scrollIntoView({behavior:"smooth",block:"start"});
   });
 }
+function feedbackHtml(q){
+  if(!examState.checked[q.n]) return "";
+  const ok=isCorrect(q);
+  if(q.type==="short"){
+    return `<div class="instant-feedback ${ok?"ok":"bad"}">
+      <div class="judge">${ok?"정답입니다.":"오답입니다."}</div>
+      <div><b>내 답:</b> ${esc(examState.answers[q.n]||"")}</div>
+      <div><b>정답:</b> ${esc(q.answerText)}</div>
+      <div style="margin-top:8px"><b>해설:</b> ${esc(q.explanation)}</div>
+    </div>`;
+  }
+  const a=examState.answers[q.n];
+  const chosen=q.options[a]??"";
+  const correct=q.options[q.answer];
+  const chosenExp=q.analyses[a]||"";
+  const correctExp=q.analyses[q.answer]||"";
+  return `<div class="instant-feedback ${ok?"ok":"bad"}">
+    <div class="judge">${ok?"정답입니다.":"오답입니다."}</div>
+    <div><b>내 선택:</b> ${a+1}번 ${esc(chosen)}</div>
+    ${ok?"":`<div><b>정답:</b> ${q.answer+1}번 ${esc(correct)}</div>`}
+    <div style="margin-top:8px"><b>선택지 해설:</b> ${esc(chosenExp)}</div>
+    ${ok?"":`<div style="margin-top:6px"><b>정답 해설:</b> ${esc(correctExp)}</div>`}
+  </div>`;
+}
 function renderExam(){
-  const q=FINAL50.find(x=>x.n===examState.current)||FINAL50[0];
+  const q=EXAM_Q.find(x=>x.n===examState.current)||EXAM_Q[0];
+  const idx=currentIndex();
   const el=document.getElementById("examContent");
   const body=q.body?`<div class="passage">${esc(q.body)}</div>`:"";
+  const locked=!!examState.checked[q.n];
   let answerArea="";
   if(q.type==="short"){
-    answerArea=`<textarea id="examTextAnswer" class="exam-text" placeholder="답안을 입력하세요.">${esc(examState.answers[q.n]||"")}</textarea>`;
+    answerArea=`<textarea id="examTextAnswer" class="exam-text" placeholder="답안을 입력하세요." ${locked?"disabled":""}>${esc(examState.answers[q.n]||"")}</textarea>
+      ${locked?"":`<div class="actions"><button class="btn primary" id="checkShort">답안 확인</button></div>`}`;
   }else{
-    answerArea=q.options.map((o,i)=>`<button class="exam-option ${examState.answers[q.n]===i?"selected":""}" data-i="${i}"><b>${i+1}.</b> ${esc(o)}</button>`).join("");
+    answerArea=q.options.map((o,i)=>`<button class="exam-option ${examState.answers[q.n]===i?"selected":""}" data-i="${i}" ${locked?"disabled":""}><b>${i+1}.</b> ${esc(o)}</button>`).join("");
   }
-  el.innerHTML=`<div class="mockhead"><span class="badge">파이널 50 시험</span><span class="counter">${q.n} / 50</span></div>
+  el.innerHTML=`<div class="mockhead"><span class="badge">파이널 시험</span><span class="counter">${idx+1} / ${EXAM_Q.length} · 원문 ${q.n}번</span></div>
   <div class="mockbody">
     <div class="exam-top">
       <input id="examName" class="exam-name" value="${esc(examState.name)}" placeholder="학생 이름">
-      <button class="btn gold" id="submitExam">시험 제출·채점</button>
+      <button class="btn gold" id="submitExam">최종 점수·오답노트 보기</button>
     </div>
     ${body}
     <div class="qprompt">${esc(q.prompt)}</div>
     <div>${answerArea}</div>
+    ${feedbackHtml(q)}
     <div class="actions">
       <button class="btn" id="examPrev">← 이전</button>
       <button class="btn primary" id="examNext">다음 →</button>
@@ -973,62 +1353,129 @@ function renderExam(){
 
   document.getElementById("examName").oninput=e=>examState.name=e.target.value;
   if(q.type==="short"){
-    document.getElementById("examTextAnswer").oninput=e=>{
-      examState.answers[q.n]=e.target.value;
-      renderExamList();
-    };
-  }else{
+    if(!locked){
+      document.getElementById("examTextAnswer").oninput=e=>examState.answers[q.n]=e.target.value;
+      document.getElementById("checkShort").onclick=()=>{
+        if(!String(examState.answers[q.n]||"").trim()){alert("답안을 입력하세요.");return;}
+        examState.checked[q.n]=true;renderExamList();renderExam();
+      };
+    }
+  }else if(!locked){
     el.querySelectorAll(".exam-option").forEach(b=>b.onclick=()=>{
       examState.answers[q.n]=Number(b.dataset.i);
-      el.querySelectorAll(".exam-option").forEach(x=>x.classList.toggle("selected",x===b));
-      renderExamList();
+      examState.checked[q.n]=true;
+      renderExamList();renderExam();
     });
   }
   document.getElementById("examPrev").onclick=()=>{
-    if(examState.current>1){examState.current--;renderExamList();renderExam();}
+    if(idx>0){examState.current=EXAM_Q[idx-1].n;renderExamList();renderExam();}
   };
   document.getElementById("examNext").onclick=()=>{
-    if(examState.current<50){examState.current++;renderExamList();renderExam();}
+    if(idx<EXAM_Q.length-1){examState.current=EXAM_Q[idx+1].n;renderExamList();renderExam();}
   };
   document.getElementById("submitExam").onclick=submitExam;
 }
-
-function gradeExam(){
+function gradeState(state=examState){
   let correct=0; const wrong=[]; const unanswered=[];
-  for(const q of FINAL50){
-    const a=examState.answers[q.n];
-    if(!examAnswered(q)){unanswered.push(q.n);continue;}
-    const ok=q.type==="short" ? shortCorrect(q,a) : a===q.answer;
-    if(ok) correct++; else wrong.push(q.n);
+  for(const q of EXAM_Q){
+    if(!state.checked[q.n] || !examAnswered(q,state)){unanswered.push(q.n);continue;}
+    if(isCorrect(q,state)) correct++; else wrong.push(q.n);
   }
-  return {correct,score:correct*2,wrong,unanswered};
+  const score=Math.round((correct/EXAM_Q.length)*1000)/10;
+  return {correct,score,wrong,unanswered};
 }
-function resultText(r){
-  const nm=examState.name.trim()||"이름 미입력";
-  return `[경기외고 문법 파이널 50]\n학생: ${nm}\n점수: ${r.score}점 / 100점\n정답: ${r.correct}/50\n오답: ${r.wrong.length?r.wrong.join(", "):"없음"}\n미응답: ${r.unanswered.length?r.unanswered.join(", "):"없음"}`;
+function answerLabel(q,a){
+  if(q.type==="short") return String(a||"");
+  return Number.isInteger(a)?`${a+1}번 ${q.options[a]}`:"미응답";
+}
+function correctLabel(q){
+  return q.type==="short"?q.answerText:`${q.answer+1}번 ${q.options[q.answer]}`;
+}
+function wrongNotebookHtml(r,state=examState){
+  if(!r.wrong.length) return `<div class="wrong-note"><h4>오답노트</h4><div>오답이 없습니다.</div></div>`;
+  return r.wrong.map(n=>{
+    const q=EXAM_Q.find(x=>x.n===n);
+    const a=state.answers[n];
+    const exp=q.type==="short"?q.explanation:((q.analyses[a]||"")+" "+(a===q.answer?"":(q.analyses[q.answer]||"")));
+    return `<div class="wrong-note">
+      <h4>${q.n}번 · ${esc(q.title)}</h4>
+      <div><b>문제:</b> ${esc(q.prompt)}</div>
+      <div class="mini"><b>내 답:</b> ${esc(answerLabel(q,a))}</div>
+      <div class="mini"><b>정답:</b> ${esc(correctLabel(q))}</div>
+      <div style="margin-top:8px"><b>해설:</b> ${esc(exp)}</div>
+    </div>`;
+  }).join("");
+}
+function resultText(r,state=examState){
+  const nm=(state.name||"").trim()||"이름 미입력";
+  return `[경기외고 문법 파이널 시험]\n학생: ${nm}\n점수: ${r.score}점 / 100점\n정답: ${r.correct}/${EXAM_Q.length}\n오답: ${r.wrong.length?r.wrong.join(", "):"없음"}\n미응답: ${r.unanswered.length?r.unanswered.join(", "):"없음"}`;
+}
+function b64urlEncode(obj){
+  const bytes=new TextEncoder().encode(JSON.stringify(obj));
+  let s=""; bytes.forEach(b=>s+=String.fromCharCode(b));
+  return btoa(s).replace(/\+/g,"-").replace(/\//g,"_").replace(/=+$/,"");
+}
+function b64urlDecode(s){
+  s=s.replace(/-/g,"+").replace(/_/g,"/");
+  while(s.length%4) s+="=";
+  const bin=atob(s); const bytes=Uint8Array.from(bin,c=>c.charCodeAt(0));
+  return JSON.parse(new TextDecoder().decode(bytes));
+}
+function makeShareUrl(){
+  const payload={name:examState.name,answers:examState.answers,checked:examState.checked};
+  return location.origin+location.pathname+"#result="+b64urlEncode(payload);
 }
 async function shareExamResult(r){
-  const txt=resultText(r);
+  const url=makeShareUrl();
+  const txt=resultText(r)+"\n\n아래 링크를 열면 점수와 오답노트를 확인할 수 있습니다.";
   if(navigator.share){
-    try{await navigator.share({title:"경기외고 문법 파이널 50 결과",text:txt,url:location.href});return;}catch(e){}
+    try{await navigator.share({title:"경기외고 문법 파이널 시험 결과",text:txt,url});return;}catch(e){}
   }
-  try{await navigator.clipboard.writeText(txt);alert("결과를 복사했습니다. 카카오톡에서 선생님께 붙여 넣어 보내세요.");}
-  catch(e){prompt("아래 결과를 복사해 카카오톡으로 보내세요.",txt);}
+  try{await navigator.clipboard.writeText(txt+"\n"+url);alert("점수와 오답노트 확인 링크를 복사했습니다. 카카오톡으로 보내세요.");}
+  catch(e){prompt("아래 내용을 복사해 카카오톡으로 보내세요.",txt+"\n"+url);}
 }
 function submitExam(){
-  const r=gradeExam();
+  const r=gradeState();
   const box=document.getElementById("examResult");
   box.className="exam-result show";
-  box.innerHTML=`<div style="font-size:24px;font-weight:950;color:#6d4d0d">${r.score}점</div>
-    <div style="margin-top:6px">정답 ${r.correct}/50 · 오답 ${r.wrong.length} · 미응답 ${r.unanswered.length}</div>
-    <div style="margin-top:8px"><b>오답 번호:</b> ${r.wrong.length?r.wrong.join(", "):"없음"}</div>
-    <div style="margin-top:4px"><b>미응답:</b> ${r.unanswered.length?r.unanswered.join(", "):"없음"}</div>
-    <button class="btn primary" id="shareExam" style="margin-top:12px">카카오톡으로 결과 보내기</button>`;
+  box.innerHTML=`<div class="exam-summary">
+      <div class="score">${r.score}점</div>
+      <div>정답 ${r.correct}/${EXAM_Q.length} · 오답 ${r.wrong.length} · 미응답 ${r.unanswered.length}</div>
+      <div style="margin-top:8px"><b>오답 번호:</b> ${r.wrong.length?r.wrong.join(", "):"없음"}</div>
+      <div><b>미응답:</b> ${r.unanswered.length?r.unanswered.join(", "):"없음"}</div>
+      <button class="btn primary" id="shareExam" style="margin-top:12px">선생님에게 점수·오답노트 공유</button>
+    </div>
+    <h3 style="margin:18px 0 8px">오답노트</h3>
+    ${wrongNotebookHtml(r)}`;
   document.getElementById("shareExam").onclick=()=>shareExamResult(r);
-  box.scrollIntoView({behavior:"smooth",block:"center"});
+  box.scrollIntoView({behavior:"smooth",block:"start"});
+}
+function renderSharedResult(payload){
+  const state={name:payload.name||"",answers:payload.answers||{},checked:payload.checked||{}};
+  const r=gradeState(state);
+  document.querySelectorAll(".tab").forEach(x=>x.classList.toggle("active",x.dataset.view==="examPanel"));
+  document.querySelectorAll(".panel").forEach(p=>p.classList.toggle("active",p.id==="examPanel"));
+  document.getElementById("examList").innerHTML=`<div class="group">공유 결과</div><div style="padding:10px;font-weight:850">${esc(state.name||"이름 미입력")}</div>`;
+  document.getElementById("examContent").innerHTML=`<div class="mockhead"><span class="badge">교사용 결과 확인</span><span class="counter">${EXAM_Q.length}문항</span></div>
+    <div class="mockbody">
+      <div class="exam-summary">
+        <div class="score">${r.score}점</div>
+        <div><b>학생:</b> ${esc(state.name||"이름 미입력")}</div>
+        <div>정답 ${r.correct}/${EXAM_Q.length} · 오답 ${r.wrong.length} · 미응답 ${r.unanswered.length}</div>
+        <div style="margin-top:8px"><b>오답 번호:</b> ${r.wrong.length?r.wrong.join(", "):"없음"}</div>
+        <div><b>미응답:</b> ${r.unanswered.length?r.unanswered.join(", "):"없음"}</div>
+      </div>
+      <h3>오답노트</h3>
+      ${wrongNotebookHtml(r,state)}
+    </div>`;
+}
+function loadSharedResult(){
+  if(!location.hash.startsWith("#result=")) return false;
+  try{renderSharedResult(b64urlDecode(location.hash.slice(8)));return true;}catch(e){return false;}
 }
 
-renderMockList();renderMock();renderFinalList();renderFinal();renderExamList();renderExam();
+renderMockList();renderMock();renderExamList();renderExam();
+loadSharedResult();
 </script>
 </body>
 </html>
