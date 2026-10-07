@@ -99,6 +99,7 @@ button{font:inherit;cursor:pointer}
   <div class="navinner">
     <button class="tab active" data-view="conceptPanel">개념 학습</button>
     <button class="tab" data-view="mockPanel">모고 문제 점검</button>
+    <button class="tab" data-view="finalPanel">파이널 50문제</button>
   </div>
 </nav>
 
@@ -115,10 +116,18 @@ button{font:inherit;cursor:pointer}
       <article id="mockContent" class="card mockcontent"></article>
     </div>
   </section>
+
+  <section id="finalPanel" class="panel">
+    <div class="two">
+      <aside id="finalList" class="card mocklist"></aside>
+      <article id="finalContent" class="card mockcontent"></article>
+    </div>
+  </section>
 </main>
 
 <script src="questions.js?v=20261007-1421"></script>
 <script src="mock-data.js?v=20261007-1421"></script>
+<script src="final50-data.js?v=20261007-1510"></script>
 <script>
 
 const CORE_CASE_IDS = new Set([
@@ -400,7 +409,68 @@ function renderMock(){
   };
 }
 
-renderTopicBar();renderConcept();renderCase();renderMockList();renderMock();
+
+let activeFinal=1;
+
+function finalGroupName(n){
+  if(n<=15) return "음운의 개념·체계";
+  if(n<=32) return "음운 변동";
+  if(n<=40) return "단어 형성";
+  return "형태소·합성어";
+}
+
+function renderFinalList(){
+  const el=document.getElementById("finalList");
+  let last="";
+  el.innerHTML=FINAL50.map(q=>{
+    const g=finalGroupName(q.n);
+    const head=g!==last?`<div class="group">${esc(g)}</div>`:"";
+    last=g;
+    return head+`<button class="mockbtn ${q.n===activeFinal?"active":""}" data-n="${q.n}">${q.n}번 · ${esc(q.title)}</button>`;
+  }).join("");
+  el.querySelectorAll(".mockbtn").forEach(b=>b.onclick=()=>{
+    activeFinal=Number(b.dataset.n);
+    renderFinalList(); renderFinal();
+    document.getElementById("finalContent").scrollIntoView({behavior:"smooth",block:"start"});
+  });
+}
+
+function renderFinal(){
+  const q=FINAL50.find(x=>x.n===activeFinal)||FINAL50[0];
+  const el=document.getElementById("finalContent");
+  const body=q.body?`<div class="passage">${esc(q.body)}</div>`:"";
+  if(q.type==="short"){
+    el.innerHTML=`<div class="mockhead"><span class="badge">${esc(finalGroupName(q.n))}</span><span class="counter">${q.n}번</span></div>
+    <div class="mockbody">
+      ${body}
+      <div class="qprompt">${esc(q.prompt)}</div>
+      <div class="actions"><button class="btn gold" id="finalShortReveal">정답·해설 보기</button></div>
+      <div id="finalShortAnswer" class="finalanswer"><div><b>정답</b><br>${esc(q.answerText)}</div><div style="margin-top:9px;font-weight:700;color:#344054">${esc(q.explanation)}</div></div>
+    </div>`;
+    document.getElementById("finalShortReveal").onclick=()=>document.getElementById("finalShortAnswer").classList.toggle("show");
+    return;
+  }
+  el.innerHTML=`<div class="mockhead"><span class="badge">${esc(finalGroupName(q.n))}</span><span class="counter">${q.n}번</span></div>
+  <div class="mockbody">
+    ${body}
+    <div class="qprompt">${esc(q.prompt)}</div>
+    <div>${q.options.map((o,i)=>`<div class="choicecheck">
+      <div class="choice-line"><div class="choice-text"><b>${i+1}.</b> ${esc(o)}</div><button class="reveal" data-i="${i}">선택지 점검</button></div>
+      <div class="analysis" id="fanalysis-${i}"><span class="mark ${i===q.answer?"o":"x"}">${i===q.answer?"O":"X"}</span>${esc(q.analyses[i])}</div>
+    </div>`).join("")}</div>
+    <div class="actions"><button class="btn gold" id="showFinal50Answer">정답 보기</button><button class="btn" id="showAllFinal50">선택지 전체 점검</button></div>
+    <div id="final50Answer" class="finalanswer">정답: ${q.answer+1}번</div>
+  </div>`;
+  el.querySelectorAll(".reveal").forEach(btn=>btn.onclick=()=>document.getElementById("fanalysis-"+btn.dataset.i).classList.toggle("show"));
+  document.getElementById("showFinal50Answer").onclick=()=>document.getElementById("final50Answer").classList.toggle("show");
+  document.getElementById("showAllFinal50").onclick=()=>{
+    const boxes=[...el.querySelectorAll(".analysis")];
+    const allOpen=boxes.every(x=>x.classList.contains("show"));
+    boxes.forEach(x=>x.classList.toggle("show",!allOpen));
+  };
+}
+
+renderTopicBar();renderConcept();renderCase();renderMockList();renderMock();renderFinalList();renderFinal();
 </script>
 </body>
 </html>
