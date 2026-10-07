@@ -78,6 +78,14 @@ button{font:inherit;cursor:pointer}
 .finalanswer{display:none;margin-top:16px;padding:14px 16px;border-radius:12px;background:var(--goldbg);border:1px solid #e1cd83;font-weight:900;color:#6d4d0d}
 .finalanswer.show{display:block}
 .source{font-size:12px;color:var(--muted);margin-top:9px}
+.exam-top{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin-bottom:14px}
+.exam-name{border:1px solid var(--line);border-radius:10px;padding:10px 12px;min-width:180px;font:inherit}
+.exam-option{width:100%;text-align:left;border:1px solid #cfd9e3;background:#fff;border-radius:13px;padding:13px 15px;margin:5px 0;color:var(--ink)}
+.exam-option.selected{border:2px solid var(--blue);background:#eef6fc}
+.exam-text{width:100%;min-height:90px;border:1px solid #cfd9e3;border-radius:12px;padding:12px;font:inherit;resize:vertical}
+.exam-result{display:none;margin-top:16px;padding:18px;border-radius:13px;background:var(--goldbg);border:1px solid #e1cd83}
+.exam-result.show{display:block}
+.mockbtn.answered::after{content:" ✓";color:var(--ok);font-weight:900}
 @media(max-width:850px){
   .two{grid-template-columns:1fr}
   .mocklist{position:static}
@@ -99,6 +107,7 @@ button{font:inherit;cursor:pointer}
   <div class="navinner">
     <button class="tab active" data-view="mockPanel">모고 문제 점검</button>
     <button class="tab" data-view="finalPanel">파이널 50문제</button>
+    <button class="tab" data-view="examPanel">파이널 50 시험</button>
   </div>
 </nav>
 
@@ -114,6 +123,13 @@ button{font:inherit;cursor:pointer}
     <div class="two">
       <aside id="finalList" class="card mocklist"></aside>
       <article id="finalContent" class="card mockcontent"></article>
+    </div>
+  </section>
+
+  <section id="examPanel" class="panel">
+    <div class="two">
+      <aside id="examList" class="card mocklist"></aside>
+      <article id="examContent" class="card mockcontent"></article>
     </div>
   </section>
 </main>
@@ -772,6 +788,14 @@ function esc(s){
   }[m]));
 }
 
+document.querySelectorAll(".tab").forEach(btn=>{
+  btn.onclick=()=>{
+    document.querySelectorAll(".tab").forEach(x=>x.classList.toggle("active",x===btn));
+    document.querySelectorAll(".panel").forEach(p=>p.classList.toggle("active",p.id===btn.dataset.view));
+    window.scrollTo({top:0,behavior:"smooth"});
+  };
+});
+
 
 let activeMock=MOCK_SETS[0]?.id;
 function groupedMocks(){
@@ -879,7 +903,132 @@ function renderFinal(){
   };
 }
 
-renderMockList();renderMock();renderFinalList();renderFinal();
+
+const examState={answers:{},current:1,name:""};
+
+const SHORT_RULES={
+  7:["분절","자음","모음"],
+  8:["여린입천장","ㅊ","마찰음"],
+  10:["거리","머리","반모음","최소대립쌍"],
+  16:["입학","거센소리","옷걸이","음절의끝소리","된소리","실내화","유음화","미닫이","구개음화"],
+  17:["첫여름","ㄴ첨가","비음화","잡히다","거센소리"],
+  30:["된소리","자음군단순화"],
+  37:["나무","꾼","사람"],
+  40:["놀이터","눈웃음"],
+  44:["의존명사","실질","띄어"]
+};
+
+function normText(s){
+  return String(s||"").replace(/\s+/g,"").replace(/[.,·ㆍ()\[\]{}'"“”‘’:-]/g,"").toLowerCase();
+}
+function shortCorrect(q,ans){
+  const t=normText(ans);
+  const keys=SHORT_RULES[q.n]||[];
+  return keys.length>0 && keys.every(k=>t.includes(normText(k)));
+}
+function examAnswered(q){
+  const a=examState.answers[q.n];
+  return q.type==="short" ? !!String(a||"").trim() : Number.isInteger(a);
+}
+function renderExamList(){
+  const el=document.getElementById("examList");
+  let last="";
+  el.innerHTML=FINAL50.map(q=>{
+    const g=finalGroupName(q.n);
+    const head=g!==last?`<div class="group">${esc(g)}</div>`:"";
+    last=g;
+    return head+`<button class="mockbtn ${q.n===examState.current?"active":""} ${examAnswered(q)?"answered":""}" data-n="${q.n}">${q.n}번 · ${esc(q.title)}</button>`;
+  }).join("");
+  el.querySelectorAll(".mockbtn").forEach(b=>b.onclick=()=>{
+    examState.current=Number(b.dataset.n);
+    renderExamList();renderExam();
+    document.getElementById("examContent").scrollIntoView({behavior:"smooth",block:"start"});
+  });
+}
+function renderExam(){
+  const q=FINAL50.find(x=>x.n===examState.current)||FINAL50[0];
+  const el=document.getElementById("examContent");
+  const body=q.body?`<div class="passage">${esc(q.body)}</div>`:"";
+  let answerArea="";
+  if(q.type==="short"){
+    answerArea=`<textarea id="examTextAnswer" class="exam-text" placeholder="답안을 입력하세요.">${esc(examState.answers[q.n]||"")}</textarea>`;
+  }else{
+    answerArea=q.options.map((o,i)=>`<button class="exam-option ${examState.answers[q.n]===i?"selected":""}" data-i="${i}"><b>${i+1}.</b> ${esc(o)}</button>`).join("");
+  }
+  el.innerHTML=`<div class="mockhead"><span class="badge">파이널 50 시험</span><span class="counter">${q.n} / 50</span></div>
+  <div class="mockbody">
+    <div class="exam-top">
+      <input id="examName" class="exam-name" value="${esc(examState.name)}" placeholder="학생 이름">
+      <button class="btn gold" id="submitExam">시험 제출·채점</button>
+    </div>
+    ${body}
+    <div class="qprompt">${esc(q.prompt)}</div>
+    <div>${answerArea}</div>
+    <div class="actions">
+      <button class="btn" id="examPrev">← 이전</button>
+      <button class="btn primary" id="examNext">다음 →</button>
+    </div>
+    <div id="examResult" class="exam-result"></div>
+  </div>`;
+
+  document.getElementById("examName").oninput=e=>examState.name=e.target.value;
+  if(q.type==="short"){
+    document.getElementById("examTextAnswer").oninput=e=>{
+      examState.answers[q.n]=e.target.value;
+      renderExamList();
+    };
+  }else{
+    el.querySelectorAll(".exam-option").forEach(b=>b.onclick=()=>{
+      examState.answers[q.n]=Number(b.dataset.i);
+      el.querySelectorAll(".exam-option").forEach(x=>x.classList.toggle("selected",x===b));
+      renderExamList();
+    });
+  }
+  document.getElementById("examPrev").onclick=()=>{
+    if(examState.current>1){examState.current--;renderExamList();renderExam();}
+  };
+  document.getElementById("examNext").onclick=()=>{
+    if(examState.current<50){examState.current++;renderExamList();renderExam();}
+  };
+  document.getElementById("submitExam").onclick=submitExam;
+}
+
+function gradeExam(){
+  let correct=0; const wrong=[]; const unanswered=[];
+  for(const q of FINAL50){
+    const a=examState.answers[q.n];
+    if(!examAnswered(q)){unanswered.push(q.n);continue;}
+    const ok=q.type==="short" ? shortCorrect(q,a) : a===q.answer;
+    if(ok) correct++; else wrong.push(q.n);
+  }
+  return {correct,score:correct*2,wrong,unanswered};
+}
+function resultText(r){
+  const nm=examState.name.trim()||"이름 미입력";
+  return `[경기외고 문법 파이널 50]\n학생: ${nm}\n점수: ${r.score}점 / 100점\n정답: ${r.correct}/50\n오답: ${r.wrong.length?r.wrong.join(", "):"없음"}\n미응답: ${r.unanswered.length?r.unanswered.join(", "):"없음"}`;
+}
+async function shareExamResult(r){
+  const txt=resultText(r);
+  if(navigator.share){
+    try{await navigator.share({title:"경기외고 문법 파이널 50 결과",text:txt,url:location.href});return;}catch(e){}
+  }
+  try{await navigator.clipboard.writeText(txt);alert("결과를 복사했습니다. 카카오톡에서 선생님께 붙여 넣어 보내세요.");}
+  catch(e){prompt("아래 결과를 복사해 카카오톡으로 보내세요.",txt);}
+}
+function submitExam(){
+  const r=gradeExam();
+  const box=document.getElementById("examResult");
+  box.className="exam-result show";
+  box.innerHTML=`<div style="font-size:24px;font-weight:950;color:#6d4d0d">${r.score}점</div>
+    <div style="margin-top:6px">정답 ${r.correct}/50 · 오답 ${r.wrong.length} · 미응답 ${r.unanswered.length}</div>
+    <div style="margin-top:8px"><b>오답 번호:</b> ${r.wrong.length?r.wrong.join(", "):"없음"}</div>
+    <div style="margin-top:4px"><b>미응답:</b> ${r.unanswered.length?r.unanswered.join(", "):"없음"}</div>
+    <button class="btn primary" id="shareExam" style="margin-top:12px">카카오톡으로 결과 보내기</button>`;
+  document.getElementById("shareExam").onclick=()=>shareExamResult(r);
+  box.scrollIntoView({behavior:"smooth",block:"center"});
+}
+
+renderMockList();renderMock();renderFinalList();renderFinal();renderExamList();renderExam();
 </script>
 </body>
 </html>
