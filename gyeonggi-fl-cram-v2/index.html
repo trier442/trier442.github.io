@@ -86,6 +86,15 @@ button{font:inherit;cursor:pointer}
 .exam-result{display:none;margin-top:16px;padding:18px;border-radius:13px;background:var(--goldbg);border:1px solid #e1cd83}
 .exam-result.show{display:block}
 .mockbtn.answered::after{content:" ✓";color:var(--ok);font-weight:900}
+.instant-feedback{margin-top:16px;padding:16px;border-radius:13px;border:1px solid var(--line)}
+.instant-feedback.ok{background:var(--okbg);border-color:#9bd3b5}
+.instant-feedback.bad{background:var(--badbg);border-color:#efb6ae}
+.instant-feedback .judge{font-size:20px;font-weight:950;margin-bottom:8px}
+.wrong-note{margin-top:14px;padding:16px;border:1px solid #e3c07a;background:#fffaf0;border-radius:13px}
+.wrong-note h4{margin:0 0 8px;color:#6d4d0d}
+.wrong-note .mini{font-size:13px;color:var(--muted);margin-top:6px}
+.exam-summary{padding:20px;border-radius:15px;background:var(--goldbg);border:1px solid #e1cd83;margin-bottom:16px}
+.exam-summary .score{font-size:30px;font-weight:950;color:#6d4d0d}
 @media(max-width:850px){
   .two{grid-template-columns:1fr}
   .mocklist{position:static}
@@ -106,8 +115,7 @@ button{font:inherit;cursor:pointer}
 <nav class="mainnav">
   <div class="navinner">
     <button class="tab active" data-view="mockPanel">모고 문제 점검</button>
-    <button class="tab" data-view="finalPanel">파이널 50문제</button>
-    <button class="tab" data-view="examPanel">파이널 50 시험</button>
+    <button class="tab" data-view="examPanel">파이널 시험</button>
   </div>
 </nav>
 
@@ -116,13 +124,6 @@ button{font:inherit;cursor:pointer}
     <div class="two">
       <aside id="mockList" class="card mocklist"></aside>
       <article id="mockContent" class="card mockcontent"></article>
-    </div>
-  </section>
-
-  <section id="finalPanel" class="panel">
-    <div class="two">
-      <aside id="finalList" class="card mocklist"></aside>
-      <article id="finalContent" class="card mockcontent"></article>
     </div>
   </section>
 
@@ -1195,7 +1196,6 @@ document.querySelectorAll(".tab").forEach(btn=>{
   };
 });
 
-
 let activeMock=MOCK_SETS[0]?.id;
 function groupedMocks(){
   const groups=[];
@@ -1241,9 +1241,6 @@ function renderMock(){
   };
 }
 
-
-let activeFinal=1;
-
 function finalGroupName(n){
   if(n<=15) return "음운의 개념·체계";
   if(n<=32) return "음운 변동";
@@ -1251,59 +1248,9 @@ function finalGroupName(n){
   return "형태소·합성어";
 }
 
-function renderFinalList(){
-  const el=document.getElementById("finalList");
-  let last="";
-  el.innerHTML=FINAL50.map(q=>{
-    const g=finalGroupName(q.n);
-    const head=g!==last?`<div class="group">${esc(g)}</div>`:"";
-    last=g;
-    return head+`<button class="mockbtn ${q.n===activeFinal?"active":""}" data-n="${q.n}">${q.n}번 · ${esc(q.title)}</button>`;
-  }).join("");
-  el.querySelectorAll(".mockbtn").forEach(b=>b.onclick=()=>{
-    activeFinal=Number(b.dataset.n);
-    renderFinalList(); renderFinal();
-    document.getElementById("finalContent").scrollIntoView({behavior:"smooth",block:"start"});
-  });
-}
-
-function renderFinal(){
-  const q=FINAL50.find(x=>x.n===activeFinal)||FINAL50[0];
-  const el=document.getElementById("finalContent");
-  const body=q.body?`<div class="passage">${esc(q.body)}</div>`:"";
-  if(q.type==="short"){
-    el.innerHTML=`<div class="mockhead"><span class="badge">${esc(finalGroupName(q.n))}</span><span class="counter">${q.n}번</span></div>
-    <div class="mockbody">
-      ${body}
-      <div class="qprompt">${esc(q.prompt)}</div>
-      <div class="actions"><button class="btn gold" id="finalShortReveal">정답·해설 보기</button></div>
-      <div id="finalShortAnswer" class="finalanswer"><div><b>정답</b><br>${esc(q.answerText)}</div><div style="margin-top:9px;font-weight:700;color:#344054">${esc(q.explanation)}</div></div>
-    </div>`;
-    document.getElementById("finalShortReveal").onclick=()=>document.getElementById("finalShortAnswer").classList.toggle("show");
-    return;
-  }
-  el.innerHTML=`<div class="mockhead"><span class="badge">${esc(finalGroupName(q.n))}</span><span class="counter">${q.n}번</span></div>
-  <div class="mockbody">
-    ${body}
-    <div class="qprompt">${esc(q.prompt)}</div>
-    <div>${q.options.map((o,i)=>`<div class="choicecheck">
-      <div class="choice-line"><div class="choice-text"><b>${i+1}.</b> ${esc(o)}</div><button class="reveal" data-i="${i}">선택지 점검</button></div>
-      <div class="analysis" id="fanalysis-${i}"><span class="mark ${i===q.answer?"o":"x"}">${i===q.answer?"O":"X"}</span>${esc(q.analyses[i])}</div>
-    </div>`).join("")}</div>
-    <div class="actions"><button class="btn gold" id="showFinal50Answer">정답 보기</button><button class="btn" id="showAllFinal50">선택지 전체 점검</button></div>
-    <div id="final50Answer" class="finalanswer">정답: ${q.answer+1}번</div>
-  </div>`;
-  el.querySelectorAll(".reveal").forEach(btn=>btn.onclick=()=>document.getElementById("fanalysis-"+btn.dataset.i).classList.toggle("show"));
-  document.getElementById("showFinal50Answer").onclick=()=>document.getElementById("final50Answer").classList.toggle("show");
-  document.getElementById("showAllFinal50").onclick=()=>{
-    const boxes=[...el.querySelectorAll(".analysis")];
-    const allOpen=boxes.every(x=>x.classList.contains("show"));
-    boxes.forEach(x=>x.classList.toggle("show",!allOpen));
-  };
-}
-
-
-const examState={answers:{},current:1,name:""};
+const OMITTED_FINAL = new Set([35,36,40,41,42,48,49,50]);
+const EXAM_Q = FINAL50.filter(q=>!OMITTED_FINAL.has(q.n));
+const examState={answers:{},checked:{},current:EXAM_Q[0].n,name:""};
 
 const SHORT_RULES={
   7:["분절","자음","모음"],
@@ -1313,7 +1260,6 @@ const SHORT_RULES={
   17:["첫여름","ㄴ첨가","비음화","잡히다","거센소리"],
   30:["된소리","자음군단순화"],
   37:["나무","꾼","사람"],
-  40:["놀이터","눈웃음"],
   44:["의존명사","실질","띄어"]
 };
 
@@ -1325,18 +1271,25 @@ function shortCorrect(q,ans){
   const keys=SHORT_RULES[q.n]||[];
   return keys.length>0 && keys.every(k=>t.includes(normText(k)));
 }
-function examAnswered(q){
-  const a=examState.answers[q.n];
+function examAnswered(q,state=examState){
+  const a=state.answers[q.n];
   return q.type==="short" ? !!String(a||"").trim() : Number.isInteger(a);
+}
+function isCorrect(q,state=examState){
+  const a=state.answers[q.n];
+  return q.type==="short" ? shortCorrect(q,a) : a===q.answer;
+}
+function currentIndex(){
+  return Math.max(0,EXAM_Q.findIndex(x=>x.n===examState.current));
 }
 function renderExamList(){
   const el=document.getElementById("examList");
   let last="";
-  el.innerHTML=FINAL50.map(q=>{
+  el.innerHTML=EXAM_Q.map(q=>{
     const g=finalGroupName(q.n);
     const head=g!==last?`<div class="group">${esc(g)}</div>`:"";
     last=g;
-    return head+`<button class="mockbtn ${q.n===examState.current?"active":""} ${examAnswered(q)?"answered":""}" data-n="${q.n}">${q.n}번 · ${esc(q.title)}</button>`;
+    return head+`<button class="mockbtn ${q.n===examState.current?"active":""} ${examState.checked[q.n]?"answered":""}" data-n="${q.n}">${q.n}번 · ${esc(q.title)}</button>`;
   }).join("");
   el.querySelectorAll(".mockbtn").forEach(b=>b.onclick=()=>{
     examState.current=Number(b.dataset.n);
@@ -1344,25 +1297,53 @@ function renderExamList(){
     document.getElementById("examContent").scrollIntoView({behavior:"smooth",block:"start"});
   });
 }
+function feedbackHtml(q){
+  if(!examState.checked[q.n]) return "";
+  const ok=isCorrect(q);
+  if(q.type==="short"){
+    return `<div class="instant-feedback ${ok?"ok":"bad"}">
+      <div class="judge">${ok?"정답입니다.":"오답입니다."}</div>
+      <div><b>내 답:</b> ${esc(examState.answers[q.n]||"")}</div>
+      <div><b>정답:</b> ${esc(q.answerText)}</div>
+      <div style="margin-top:8px"><b>해설:</b> ${esc(q.explanation)}</div>
+    </div>`;
+  }
+  const a=examState.answers[q.n];
+  const chosen=q.options[a]??"";
+  const correct=q.options[q.answer];
+  const chosenExp=q.analyses[a]||"";
+  const correctExp=q.analyses[q.answer]||"";
+  return `<div class="instant-feedback ${ok?"ok":"bad"}">
+    <div class="judge">${ok?"정답입니다.":"오답입니다."}</div>
+    <div><b>내 선택:</b> ${a+1}번 ${esc(chosen)}</div>
+    ${ok?"":`<div><b>정답:</b> ${q.answer+1}번 ${esc(correct)}</div>`}
+    <div style="margin-top:8px"><b>선택지 해설:</b> ${esc(chosenExp)}</div>
+    ${ok?"":`<div style="margin-top:6px"><b>정답 해설:</b> ${esc(correctExp)}</div>`}
+  </div>`;
+}
 function renderExam(){
-  const q=FINAL50.find(x=>x.n===examState.current)||FINAL50[0];
+  const q=EXAM_Q.find(x=>x.n===examState.current)||EXAM_Q[0];
+  const idx=currentIndex();
   const el=document.getElementById("examContent");
   const body=q.body?`<div class="passage">${esc(q.body)}</div>`:"";
+  const locked=!!examState.checked[q.n];
   let answerArea="";
   if(q.type==="short"){
-    answerArea=`<textarea id="examTextAnswer" class="exam-text" placeholder="답안을 입력하세요.">${esc(examState.answers[q.n]||"")}</textarea>`;
+    answerArea=`<textarea id="examTextAnswer" class="exam-text" placeholder="답안을 입력하세요." ${locked?"disabled":""}>${esc(examState.answers[q.n]||"")}</textarea>
+      ${locked?"":`<div class="actions"><button class="btn primary" id="checkShort">답안 확인</button></div>`}`;
   }else{
-    answerArea=q.options.map((o,i)=>`<button class="exam-option ${examState.answers[q.n]===i?"selected":""}" data-i="${i}"><b>${i+1}.</b> ${esc(o)}</button>`).join("");
+    answerArea=q.options.map((o,i)=>`<button class="exam-option ${examState.answers[q.n]===i?"selected":""}" data-i="${i}" ${locked?"disabled":""}><b>${i+1}.</b> ${esc(o)}</button>`).join("");
   }
-  el.innerHTML=`<div class="mockhead"><span class="badge">파이널 50 시험</span><span class="counter">${q.n} / 50</span></div>
+  el.innerHTML=`<div class="mockhead"><span class="badge">파이널 시험</span><span class="counter">${idx+1} / ${EXAM_Q.length} · 원문 ${q.n}번</span></div>
   <div class="mockbody">
     <div class="exam-top">
       <input id="examName" class="exam-name" value="${esc(examState.name)}" placeholder="학생 이름">
-      <button class="btn gold" id="submitExam">시험 제출·채점</button>
+      <button class="btn gold" id="submitExam">최종 점수·오답노트 보기</button>
     </div>
     ${body}
     <div class="qprompt">${esc(q.prompt)}</div>
     <div>${answerArea}</div>
+    ${feedbackHtml(q)}
     <div class="actions">
       <button class="btn" id="examPrev">← 이전</button>
       <button class="btn primary" id="examNext">다음 →</button>
@@ -1372,62 +1353,129 @@ function renderExam(){
 
   document.getElementById("examName").oninput=e=>examState.name=e.target.value;
   if(q.type==="short"){
-    document.getElementById("examTextAnswer").oninput=e=>{
-      examState.answers[q.n]=e.target.value;
-      renderExamList();
-    };
-  }else{
+    if(!locked){
+      document.getElementById("examTextAnswer").oninput=e=>examState.answers[q.n]=e.target.value;
+      document.getElementById("checkShort").onclick=()=>{
+        if(!String(examState.answers[q.n]||"").trim()){alert("답안을 입력하세요.");return;}
+        examState.checked[q.n]=true;renderExamList();renderExam();
+      };
+    }
+  }else if(!locked){
     el.querySelectorAll(".exam-option").forEach(b=>b.onclick=()=>{
       examState.answers[q.n]=Number(b.dataset.i);
-      el.querySelectorAll(".exam-option").forEach(x=>x.classList.toggle("selected",x===b));
-      renderExamList();
+      examState.checked[q.n]=true;
+      renderExamList();renderExam();
     });
   }
   document.getElementById("examPrev").onclick=()=>{
-    if(examState.current>1){examState.current--;renderExamList();renderExam();}
+    if(idx>0){examState.current=EXAM_Q[idx-1].n;renderExamList();renderExam();}
   };
   document.getElementById("examNext").onclick=()=>{
-    if(examState.current<50){examState.current++;renderExamList();renderExam();}
+    if(idx<EXAM_Q.length-1){examState.current=EXAM_Q[idx+1].n;renderExamList();renderExam();}
   };
   document.getElementById("submitExam").onclick=submitExam;
 }
-
-function gradeExam(){
+function gradeState(state=examState){
   let correct=0; const wrong=[]; const unanswered=[];
-  for(const q of FINAL50){
-    const a=examState.answers[q.n];
-    if(!examAnswered(q)){unanswered.push(q.n);continue;}
-    const ok=q.type==="short" ? shortCorrect(q,a) : a===q.answer;
-    if(ok) correct++; else wrong.push(q.n);
+  for(const q of EXAM_Q){
+    if(!state.checked[q.n] || !examAnswered(q,state)){unanswered.push(q.n);continue;}
+    if(isCorrect(q,state)) correct++; else wrong.push(q.n);
   }
-  return {correct,score:correct*2,wrong,unanswered};
+  const score=Math.round((correct/EXAM_Q.length)*1000)/10;
+  return {correct,score,wrong,unanswered};
 }
-function resultText(r){
-  const nm=examState.name.trim()||"이름 미입력";
-  return `[경기외고 문법 파이널 50]\n학생: ${nm}\n점수: ${r.score}점 / 100점\n정답: ${r.correct}/50\n오답: ${r.wrong.length?r.wrong.join(", "):"없음"}\n미응답: ${r.unanswered.length?r.unanswered.join(", "):"없음"}`;
+function answerLabel(q,a){
+  if(q.type==="short") return String(a||"");
+  return Number.isInteger(a)?`${a+1}번 ${q.options[a]}`:"미응답";
+}
+function correctLabel(q){
+  return q.type==="short"?q.answerText:`${q.answer+1}번 ${q.options[q.answer]}`;
+}
+function wrongNotebookHtml(r,state=examState){
+  if(!r.wrong.length) return `<div class="wrong-note"><h4>오답노트</h4><div>오답이 없습니다.</div></div>`;
+  return r.wrong.map(n=>{
+    const q=EXAM_Q.find(x=>x.n===n);
+    const a=state.answers[n];
+    const exp=q.type==="short"?q.explanation:((q.analyses[a]||"")+" "+(a===q.answer?"":(q.analyses[q.answer]||"")));
+    return `<div class="wrong-note">
+      <h4>${q.n}번 · ${esc(q.title)}</h4>
+      <div><b>문제:</b> ${esc(q.prompt)}</div>
+      <div class="mini"><b>내 답:</b> ${esc(answerLabel(q,a))}</div>
+      <div class="mini"><b>정답:</b> ${esc(correctLabel(q))}</div>
+      <div style="margin-top:8px"><b>해설:</b> ${esc(exp)}</div>
+    </div>`;
+  }).join("");
+}
+function resultText(r,state=examState){
+  const nm=(state.name||"").trim()||"이름 미입력";
+  return `[경기외고 문법 파이널 시험]\n학생: ${nm}\n점수: ${r.score}점 / 100점\n정답: ${r.correct}/${EXAM_Q.length}\n오답: ${r.wrong.length?r.wrong.join(", "):"없음"}\n미응답: ${r.unanswered.length?r.unanswered.join(", "):"없음"}`;
+}
+function b64urlEncode(obj){
+  const bytes=new TextEncoder().encode(JSON.stringify(obj));
+  let s=""; bytes.forEach(b=>s+=String.fromCharCode(b));
+  return btoa(s).replace(/\+/g,"-").replace(/\//g,"_").replace(/=+$/,"");
+}
+function b64urlDecode(s){
+  s=s.replace(/-/g,"+").replace(/_/g,"/");
+  while(s.length%4) s+="=";
+  const bin=atob(s); const bytes=Uint8Array.from(bin,c=>c.charCodeAt(0));
+  return JSON.parse(new TextDecoder().decode(bytes));
+}
+function makeShareUrl(){
+  const payload={name:examState.name,answers:examState.answers,checked:examState.checked};
+  return location.origin+location.pathname+"#result="+b64urlEncode(payload);
 }
 async function shareExamResult(r){
-  const txt=resultText(r);
+  const url=makeShareUrl();
+  const txt=resultText(r)+"\n\n아래 링크를 열면 점수와 오답노트를 확인할 수 있습니다.";
   if(navigator.share){
-    try{await navigator.share({title:"경기외고 문법 파이널 50 결과",text:txt,url:location.href});return;}catch(e){}
+    try{await navigator.share({title:"경기외고 문법 파이널 시험 결과",text:txt,url});return;}catch(e){}
   }
-  try{await navigator.clipboard.writeText(txt);alert("결과를 복사했습니다. 카카오톡에서 선생님께 붙여 넣어 보내세요.");}
-  catch(e){prompt("아래 결과를 복사해 카카오톡으로 보내세요.",txt);}
+  try{await navigator.clipboard.writeText(txt+"\n"+url);alert("점수와 오답노트 확인 링크를 복사했습니다. 카카오톡으로 보내세요.");}
+  catch(e){prompt("아래 내용을 복사해 카카오톡으로 보내세요.",txt+"\n"+url);}
 }
 function submitExam(){
-  const r=gradeExam();
+  const r=gradeState();
   const box=document.getElementById("examResult");
   box.className="exam-result show";
-  box.innerHTML=`<div style="font-size:24px;font-weight:950;color:#6d4d0d">${r.score}점</div>
-    <div style="margin-top:6px">정답 ${r.correct}/50 · 오답 ${r.wrong.length} · 미응답 ${r.unanswered.length}</div>
-    <div style="margin-top:8px"><b>오답 번호:</b> ${r.wrong.length?r.wrong.join(", "):"없음"}</div>
-    <div style="margin-top:4px"><b>미응답:</b> ${r.unanswered.length?r.unanswered.join(", "):"없음"}</div>
-    <button class="btn primary" id="shareExam" style="margin-top:12px">카카오톡으로 결과 보내기</button>`;
+  box.innerHTML=`<div class="exam-summary">
+      <div class="score">${r.score}점</div>
+      <div>정답 ${r.correct}/${EXAM_Q.length} · 오답 ${r.wrong.length} · 미응답 ${r.unanswered.length}</div>
+      <div style="margin-top:8px"><b>오답 번호:</b> ${r.wrong.length?r.wrong.join(", "):"없음"}</div>
+      <div><b>미응답:</b> ${r.unanswered.length?r.unanswered.join(", "):"없음"}</div>
+      <button class="btn primary" id="shareExam" style="margin-top:12px">선생님에게 점수·오답노트 공유</button>
+    </div>
+    <h3 style="margin:18px 0 8px">오답노트</h3>
+    ${wrongNotebookHtml(r)}`;
   document.getElementById("shareExam").onclick=()=>shareExamResult(r);
-  box.scrollIntoView({behavior:"smooth",block:"center"});
+  box.scrollIntoView({behavior:"smooth",block:"start"});
+}
+function renderSharedResult(payload){
+  const state={name:payload.name||"",answers:payload.answers||{},checked:payload.checked||{}};
+  const r=gradeState(state);
+  document.querySelectorAll(".tab").forEach(x=>x.classList.toggle("active",x.dataset.view==="examPanel"));
+  document.querySelectorAll(".panel").forEach(p=>p.classList.toggle("active",p.id==="examPanel"));
+  document.getElementById("examList").innerHTML=`<div class="group">공유 결과</div><div style="padding:10px;font-weight:850">${esc(state.name||"이름 미입력")}</div>`;
+  document.getElementById("examContent").innerHTML=`<div class="mockhead"><span class="badge">교사용 결과 확인</span><span class="counter">${EXAM_Q.length}문항</span></div>
+    <div class="mockbody">
+      <div class="exam-summary">
+        <div class="score">${r.score}점</div>
+        <div><b>학생:</b> ${esc(state.name||"이름 미입력")}</div>
+        <div>정답 ${r.correct}/${EXAM_Q.length} · 오답 ${r.wrong.length} · 미응답 ${r.unanswered.length}</div>
+        <div style="margin-top:8px"><b>오답 번호:</b> ${r.wrong.length?r.wrong.join(", "):"없음"}</div>
+        <div><b>미응답:</b> ${r.unanswered.length?r.unanswered.join(", "):"없음"}</div>
+      </div>
+      <h3>오답노트</h3>
+      ${wrongNotebookHtml(r,state)}
+    </div>`;
+}
+function loadSharedResult(){
+  if(!location.hash.startsWith("#result=")) return false;
+  try{renderSharedResult(b64urlDecode(location.hash.slice(8)));return true;}catch(e){return false;}
 }
 
-renderMockList();renderMock();renderFinalList();renderFinal();renderExamList();renderExam();
+renderMockList();renderMock();renderExamList();renderExam();
+loadSharedResult();
 </script>
 </body>
 </html>
