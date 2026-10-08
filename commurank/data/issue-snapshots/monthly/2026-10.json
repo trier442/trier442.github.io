@@ -3,7 +3,7 @@
   "period": "monthly",
   "key": "2026-10",
   "label": "2026년 10월",
-  "collected_at": "2026-10-08T19:25:19.235438+09:00",
+  "collected_at": "2026-10-08T20:37:27.877885+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -272,9 +272,9 @@
       ],
       "source_count": 4,
       "post_count": 4,
-      "score": 128.97,
+      "score": 129.35,
       "peak_score": 100.15,
-      "appearances": 12,
+      "appearances": 13,
       "sources": [
         "더쿠",
         "디시인사이드",
@@ -284,26 +284,69 @@
       ],
       "posts": [
         {
-          "source": "뽐뿌",
-          "rank": 30,
-          "title": "암살자들 보고 왔습니다. (노스포)",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10141963",
-          "score": 70.29
+          "source": "디시인사이드",
+          "rank": 73,
+          "title": "JTBC) 국힘 \"암살자들 제작자 국감 불러야\" \"이건 검열\"",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468861&_dcbest=1&page=1",
+          "score": 57.71
         },
         {
-          "source": "디시인사이드",
-          "rank": 97,
-          "title": "암살자들 매크로 주작 확인..네이버 수사 의뢰",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467919&_dcbest=1&page=1",
-          "score": 49.19
+          "source": "인벤",
+          "rank": 87,
+          "title": "영화 암살자들 관객수 근황",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2737853",
+          "score": 55.8
         }
       ],
       "first_seen": "2026-09-27T18:16:30.778383+09:00",
-      "last_seen": "2026-10-05T07:11:30.755767+09:00",
+      "last_seen": "2026-10-08T20:37:27.877885+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 7,
       "change": 0
+    },
+    {
+      "id": "ide45eba0",
+      "title": "[속보] 외교부 “주우크라이나 대사 국내 소환”",
+      "keywords": [
+        "대사",
+        "소환",
+        "주우크라이나",
+        "외교부"
+      ],
+      "source_count": 3,
+      "post_count": 3,
+      "score": 127.68,
+      "peak_score": 111.19,
+      "appearances": 2,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "루리웹",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 17,
+          "title": "[속보] 외교부 “주우크라이나 대사 국내 소환”",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468895&_dcbest=1&page=1",
+          "score": 70.45
+        },
+        {
+          "source": "더쿠",
+          "rank": 26,
+          "title": "[속보] 외교부 \"주우크라이나 대사 본국 소환 결정\"",
+          "url": "https://theqoo.net/hot/4369166216",
+          "score": 68.21
+        }
+      ],
+      "first_seen": "2026-10-08T19:25:19.235438+09:00",
+      "last_seen": "2026-10-08T20:37:27.877885+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 8,
+      "change": 1
     },
     {
       "id": "i5ae392bf",
@@ -343,58 +386,8 @@
       "last_seen": "2026-10-03T18:39:57.662536+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 8,
-      "change": 0
-    },
-    {
-      "id": "ide45eba0",
-      "title": "외교부\"주우크라이나 대사 국내로 소환\"",
-      "keywords": [
-        "대사",
-        "외교부",
-        "소환",
-        "주우크라이나",
-        "본국"
-      ],
-      "source_count": 3,
-      "post_count": 3,
-      "score": 125.66,
-      "peak_score": 111.19,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "루리웹",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 2,
-          "title": "외교부\"주우크라이나 대사 국내로 소환\"",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/76952753?m=humor",
-          "score": 96.19
-        },
-        {
-          "source": "더쿠",
-          "rank": 26,
-          "title": "[속보] 외교부 \"주우크라이나 대사 본국 소환 결정\"",
-          "url": "https://theqoo.net/hot/4369166216",
-          "score": 68.53
-        },
-        {
-          "source": "인벤",
-          "rank": 75,
-          "title": "[속보] 외교부 \"주우크라이나 대사 본국 소환 결정\"",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2737815",
-          "score": 57.46
-        }
-      ],
-      "first_seen": "2026-10-08T19:25:19.235438+09:00",
-      "last_seen": "2026-10-08T19:25:19.235438+09:00",
-      "latest_source_count": 3,
-      "latest_post_count": 3,
       "rank": 9,
-      "change": "NEW"
+      "change": -1
     },
     {
       "id": "ife021da2",
@@ -435,7 +428,7 @@
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 10,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i039fd79c",
@@ -475,7 +468,7 @@
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 11,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i9f5e1ed4",
@@ -516,7 +509,7 @@
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 12,
-      "change": -1
+      "change": 0
     },
     {
       "id": "ia8451ee4",
@@ -558,7 +551,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 13,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i413fcde4",
@@ -605,7 +598,7 @@
       "latest_source_count": 3,
       "latest_post_count": 3,
       "rank": 14,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i7b918478",
@@ -645,7 +638,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 15,
-      "change": -1
+      "change": 0
     },
     {
       "id": "if553a5cf",
@@ -683,7 +676,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 16,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i7970f34c",
@@ -721,7 +714,46 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 17,
-      "change": -1
+      "change": 0
+    },
+    {
+      "id": "i7cafd979",
+      "title": "\"한국 빠지면 일본과 한다\"…美 밴스, 알래스카 LNG 압박",
+      "keywords": [
+        "압박",
+        "일본과"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 116.78,
+      "peak_score": 105.29,
+      "appearances": 2,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 2,
+          "title": "\"한국 빠지면 일본과 한다\"…美 밴스, 알래스카 LNG 압박",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76954060?m=humor",
+          "score": 97.29
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 72,
+          "title": "미국 부통령 \"한국이 안하면 일본과 하겠다!\" 알래스카LNG사업 압박",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468830&_dcbest=1&page=1",
+          "score": 57.79
+        }
+      ],
+      "first_seen": "2026-10-08T19:25:19.235438+09:00",
+      "last_seen": "2026-10-08T20:37:27.877885+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 18,
+      "change": "NEW"
     },
     {
       "id": "i707041a3",
@@ -770,7 +802,7 @@
       "last_seen": "2026-10-04T13:18:15.113118+09:00",
       "latest_source_count": 3,
       "latest_post_count": 3,
-      "rank": 18,
+      "rank": 19,
       "change": -1
     },
     {
@@ -807,44 +839,6 @@
       ],
       "first_seen": "2026-10-01T09:09:08.756943+09:00",
       "last_seen": "2026-10-01T09:33:11.658888+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 19,
-      "change": -1
-    },
-    {
-      "id": "ie39b12d5",
-      "title": "‘하루만에’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "하루만에"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 115.76,
-      "peak_score": 106.29,
-      "appearances": 1,
-      "sources": [
-        "루리웹",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 1,
-          "title": "하루만에 고장 문제로 되돌아온 컴퓨터",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/76924234?m=humor",
-          "score": 97.29
-        },
-        {
-          "source": "클리앙",
-          "rank": 55,
-          "title": "62,500 크레딧이 하루만에...",
-          "url": "https://www.clien.net/service/board/park/19274023?od=T31&po=0&category=0&groupCd=",
-          "score": 60.67
-        }
-      ],
-      "first_seen": "2026-10-06T10:52:31.794638+09:00",
-      "last_seen": "2026-10-06T10:52:31.794638+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 20,

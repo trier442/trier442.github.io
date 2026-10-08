@@ -2,7 +2,7 @@
   "version": 1,
   "date": "2026-10-08",
   "label": "2026년 10월 08일",
-  "collected_at": "2026-10-08T19:25:19.235438+09:00",
+  "collected_at": "2026-10-08T20:37:27.877885+09:00",
   "timezone": "Asia/Seoul",
   "overview": "오늘 가장 두드러진 이슈는 ‘‘프랑스’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #한국. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
@@ -13,8 +13,8 @@
     "daily_posts": 100,
     "daily_issues": 20,
     "keywords": 20,
-    "top100_views": 919894,
-    "top100_comments": 11404
+    "top100_views": 961708,
+    "top100_comments": 12678
   },
   "highlights": [
     {
@@ -32,7 +32,7 @@
     {
       "type": "keyword",
       "title": "#한국",
-      "text": "4개 커뮤니티 · 7개 인기글에서 함께 등장했습니다.",
+      "text": "3개 커뮤니티 · 4개 인기글에서 함께 등장했습니다.",
       "keyword": "한국"
     }
   ],
@@ -49,7 +49,7 @@
       "max_likes": 124,
       "max_comments": 137,
       "appearances": 2,
-      "score": 108.66,
+      "score": 108.56,
       "views": 31934,
       "likes": 124,
       "comments": 137,
@@ -67,11 +67,11 @@
       "max_likes": 191,
       "max_comments": 131,
       "appearances": 1,
-      "score": 108.35,
+      "score": 108.25,
       "views": 21634,
       "likes": 191,
       "comments": 131,
-      "change": "NEW"
+      "change": 0
     },
     {
       "title": "요즘 고등학교 상황",
@@ -85,11 +85,11 @@
       "max_likes": 83,
       "max_comments": 47,
       "appearances": 1,
-      "score": 107.44,
+      "score": 107.34,
       "views": 17916,
       "likes": 83,
       "comments": 47,
-      "change": -1
+      "change": 0
     },
     {
       "title": "디지털 도태라는거 우리도 언젠가 겪게되지 않을까",
@@ -103,11 +103,47 @@
       "max_likes": 158,
       "max_comments": 112,
       "appearances": 1,
-      "score": 107.09,
+      "score": 106.99,
       "views": 19373,
       "likes": 158,
       "comments": 112,
-      "change": -1
+      "change": 0
+    },
+    {
+      "title": "\"맞아 나 메갈이야\"...웹툰 근황...JPG",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76951887?m=humor",
+      "first_seen": "2026-10-08T20:37:27.877885+09:00",
+      "last_seen": "2026-10-08T20:37:27.877885+09:00",
+      "peak_score": 97.44,
+      "max_views": 35309,
+      "max_likes": 257,
+      "max_comments": 124,
+      "appearances": 1,
+      "score": 106.83,
+      "views": 35309,
+      "likes": 257,
+      "comments": 124,
+      "change": "NEW"
+    },
+    {
+      "title": "\"한국 빠지면 일본과 한다\"…美 밴스, 알래스카 LNG 압박",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76954060?m=humor",
+      "first_seen": "2026-10-08T20:37:27.877885+09:00",
+      "last_seen": "2026-10-08T20:37:27.877885+09:00",
+      "peak_score": 97.29,
+      "max_views": 12606,
+      "max_likes": 184,
+      "max_comments": 103,
+      "appearances": 1,
+      "score": 106.68,
+      "views": 12606,
+      "likes": 184,
+      "comments": 103,
+      "change": "NEW"
     },
     {
       "title": "외교부\"주우크라이나 대사 국내로 소환\"",
@@ -121,11 +157,11 @@
       "max_likes": 189,
       "max_comments": 188,
       "appearances": 1,
-      "score": 105.58,
+      "score": 105.48,
       "views": 17264,
       "likes": 189,
       "comments": 188,
-      "change": "NEW"
+      "change": -2
     },
     {
       "title": "홈플러스 근황",
@@ -139,7 +175,7 @@
       "max_likes": 129,
       "max_comments": 109,
       "appearances": 1,
-      "score": 105.36,
+      "score": 105.26,
       "views": 16852,
       "likes": 129,
       "comments": 109,
@@ -157,77 +193,121 @@
       "max_likes": 201,
       "max_comments": 63,
       "appearances": 1,
-      "score": 103.48,
+      "score": 103.38,
       "views": 6279,
       "likes": 201,
       "comments": 63,
       "change": -2
     },
     {
-      "title": "한문철TV 백스텝 부부 결말...",
+      "title": "여긴 남유게지 북유게가 아니다",
       "source": "루리웹",
       "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76948610?m=humor",
-      "first_seen": "2026-10-08T13:29:25.370320+09:00",
-      "last_seen": "2026-10-08T13:29:25.370320+09:00",
-      "peak_score": 94.25,
-      "max_views": 20468,
-      "max_likes": 235,
-      "max_comments": 92,
-      "appearances": 1,
-      "score": 103.14,
-      "views": 20468,
-      "likes": 235,
-      "comments": 92,
-      "change": -2
-    },
-    {
-      "title": "일본 치매 어머니 살인사건 댓글에 안락사 필요하다는거 보니 생각난 것",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76949019?m=humor",
-      "first_seen": "2026-10-08T13:29:25.370320+09:00",
-      "last_seen": "2026-10-08T13:29:25.370320+09:00",
-      "peak_score": 93.69,
-      "max_views": 8407,
-      "max_likes": 76,
-      "max_comments": 98,
-      "appearances": 1,
-      "score": 102.58,
-      "views": 8407,
-      "likes": 76,
-      "comments": 98,
-      "change": -2
-    },
-    {
-      "title": "\"프로젝트문이 매출 8할 잃고 나락 감\"",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76948330?m=humor",
-      "first_seen": "2026-10-08T12:01:09.196787+09:00",
-      "last_seen": "2026-10-08T12:01:09.196787+09:00",
-      "peak_score": 93.39,
-      "max_views": 13169,
-      "max_likes": 112,
-      "max_comments": 99,
-      "appearances": 1,
-      "score": 102.16,
-      "views": 13169,
-      "likes": 112,
-      "comments": 99,
-      "change": -2
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76953174?m=humor",
+      "first_seen": "2026-10-08T19:25:19.235438+09:00",
+      "last_seen": "2026-10-08T20:37:27.877885+09:00",
+      "peak_score": 93.0,
+      "max_views": 8157,
+      "max_likes": 129,
+      "max_comments": 113,
+      "appearances": 2,
+      "score": 103.2,
+      "views": 8157,
+      "likes": 129,
+      "comments": 113,
+      "change": 1
     }
   ],
   "rising": [
     {
       "source": "루리웹",
-      "title": "PC 포팅당한 블러드본 미친 근황.jpg",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76953268?m=humor",
+      "title": "여긴 남유게지 북유게가 아니다",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76953174?m=humor",
       "category": "이슈",
-      "views": 21634,
-      "likes": 191,
-      "comments": 131,
-      "score": 98.96,
+      "views": 8157,
+      "likes": 129,
+      "comments": 113,
+      "score": 93.0,
+      "change": 0,
+      "current_rank": 3,
+      "new_entry": false,
+      "delta_views": 1305,
+      "delta_likes": 7,
+      "delta_comments": 15,
+      "rank_gain": 0,
+      "rising_score": 100.0,
+      "rising_rank": 1,
+      "window_minutes": 72
+    },
+    {
+      "source": "디시인사이드",
+      "title": "실시간 새 역사를 쓰는중인 삼성전자..",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468844&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 58685,
+      "likes": 206,
+      "comments": 792,
+      "score": 71.55,
+      "change": 0,
+      "current_rank": 13,
+      "new_entry": false,
+      "delta_views": 4573,
+      "delta_likes": 28,
+      "delta_comments": 110,
+      "rank_gain": 0,
+      "rising_score": 88.42,
+      "rising_rank": 2,
+      "window_minutes": 72
+    },
+    {
+      "source": "더쿠",
+      "title": "삼성전자 분기 영업이익 세계 1위 등극",
+      "url": "https://theqoo.net/hot/4369221466",
+      "category": "이슈",
+      "views": 37895,
+      "likes": 0,
+      "comments": 396,
+      "score": 69.68,
+      "change": 20,
+      "current_rank": 20,
+      "new_entry": false,
+      "delta_views": 20253,
+      "delta_likes": 0,
+      "delta_comments": 180,
+      "rank_gain": 20,
+      "rising_score": 84.86,
+      "rising_rank": 3,
+      "window_minutes": 72
+    },
+    {
+      "source": "더쿠",
+      "title": "드디어 유출됐다는 K-마운자로 에페 가격 근황",
+      "url": "https://theqoo.net/hot/4369216969",
+      "category": "이슈",
+      "views": 49875,
+      "likes": 0,
+      "comments": 269,
+      "score": 65.53,
+      "change": 15,
+      "current_rank": 32,
+      "new_entry": false,
+      "delta_views": 21593,
+      "delta_likes": 0,
+      "delta_comments": 86,
+      "rank_gain": 15,
+      "rising_score": 84.58,
+      "rising_rank": 4,
+      "window_minutes": 72
+    },
+    {
+      "source": "루리웹",
+      "title": "\"맞아 나 메갈이야\"...웹툰 근황...JPG",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76951887?m=humor",
+      "category": "이슈",
+      "views": 35309,
+      "likes": 257,
+      "comments": 124,
+      "score": 97.44,
       "change": "NEW",
       "current_rank": 1,
       "new_entry": true,
@@ -235,19 +315,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 83.56,
-      "rising_rank": 1,
-      "window_minutes": 356
+      "rising_score": 82.92,
+      "rising_rank": 5,
+      "window_minutes": 72
     },
     {
       "source": "루리웹",
-      "title": "외교부\"주우크라이나 대사 국내로 소환\"",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76952753?m=humor",
+      "title": "\"한국 빠지면 일본과 한다\"…美 밴스, 알래스카 LNG 압박",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76954060?m=humor",
       "category": "이슈",
-      "views": 17264,
-      "likes": 189,
-      "comments": 188,
-      "score": 96.19,
+      "views": 12606,
+      "likes": 184,
+      "comments": 103,
+      "score": 97.29,
       "change": "NEW",
       "current_rank": 2,
       "new_entry": true,
@@ -255,39 +335,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.4,
-      "rising_rank": 2,
-      "window_minutes": 356
+      "rising_score": 82.86,
+      "rising_rank": 6,
+      "window_minutes": 72
     },
     {
-      "source": "루리웹",
-      "title": "여긴 남유게지 북유게가 아니다",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76953174?m=humor",
+      "source": "디시인사이드",
+      "title": "안싱글벙글 개물림 사고(강아지사망) 당했습니다",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468885&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 6852,
-      "likes": 122,
-      "comments": 98,
-      "score": 92.17,
-      "change": "NEW",
-      "current_rank": 3,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 80.71,
-      "rising_rank": 3,
-      "window_minutes": 356
-    },
-    {
-      "source": "뽐뿌",
-      "title": "한국 기름값이 비�患� 이유",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10145973",
-      "category": "이슈",
-      "views": 10503,
-      "likes": 31,
-      "comments": 33,
-      "score": 91.47,
+      "views": 17747,
+      "likes": 76,
+      "comments": 369,
+      "score": 87.08,
       "change": "NEW",
       "current_rank": 4,
       "new_entry": true,
@@ -295,39 +355,39 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 80.42,
-      "rising_rank": 4,
-      "window_minutes": 356
+      "rising_score": 78.57,
+      "rising_rank": 7,
+      "window_minutes": 72
     },
     {
       "source": "디시인사이드",
       "title": "싱글벙글 엔저로 수출 대박났다는 일본 근황…jpg",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468855&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 38567,
-      "likes": 163,
-      "comments": 960,
-      "score": 84.75,
-      "change": "NEW",
-      "current_rank": 5,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
+      "views": 41361,
+      "likes": 191,
+      "comments": 1277,
+      "score": 77.53,
+      "change": 0,
+      "current_rank": 8,
+      "new_entry": false,
+      "delta_views": 2794,
+      "delta_likes": 28,
+      "delta_comments": 317,
       "rank_gain": 0,
-      "rising_score": 77.59,
-      "rising_rank": 5,
-      "window_minutes": 356
+      "rising_score": 77.6,
+      "rising_rank": 8,
+      "window_minutes": 72
     },
     {
       "source": "루리웹",
-      "title": "[대원샵] 월드 오브 워크래프트 포에버 CE (199,900원/무료배송)",
-      "url": "https://bbs.ruliweb.com/market/board/1020/read/107867",
+      "title": "[네이버] 스위치2 젤다의전설 시간의 오카리나[메탈코인]88,000원/유배",
+      "url": "https://bbs.ruliweb.com/market/board/1020/read/107872",
       "category": "이슈",
-      "views": 19566,
-      "likes": 17,
-      "comments": 33,
-      "score": 83.99,
+      "views": 24994,
+      "likes": 15,
+      "comments": 63,
+      "score": 80.65,
       "change": "NEW",
       "current_rank": 6,
       "new_entry": true,
@@ -335,19 +395,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 77.28,
-      "rising_rank": 6,
-      "window_minutes": 356
+      "rising_score": 75.87,
+      "rising_rank": 9,
+      "window_minutes": 72
     },
     {
-      "source": "인벤",
-      "title": "퍼옴) 요즘 후라이드 치킨 가격 요약본",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2737818",
+      "source": "뽐뿌",
+      "title": "남편을 많이 사랑한다는 17살 연하 베트남 아내",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=22741",
       "category": "이슈",
-      "views": 1970,
-      "likes": 0,
-      "comments": 24,
-      "score": 81.72,
+      "views": 13170,
+      "likes": 5,
+      "comments": 26,
+      "score": 80.64,
       "change": "NEW",
       "current_rank": 7,
       "new_entry": true,
@@ -355,69 +415,9 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 76.32,
-      "rising_rank": 7,
-      "window_minutes": 356
-    },
-    {
-      "source": "디시인사이드",
-      "title": "아흐아흐 폴리주스를 훔친 말포이.manhwa",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468870&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 10434,
-      "likes": 127,
-      "comments": 106,
-      "score": 80.28,
-      "change": "NEW",
-      "current_rank": 8,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 75.72,
-      "rising_rank": 8,
-      "window_minutes": 356
-    },
-    {
-      "source": "인벤",
-      "title": "앞차가 시킨거랑 같은걸로 주세요",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2737820",
-      "category": "유머",
-      "views": 1968,
-      "likes": 0,
-      "comments": 13,
-      "score": 79.81,
-      "change": "NEW",
-      "current_rank": 9,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 75.52,
-      "rising_rank": 9,
-      "window_minutes": 356
-    },
-    {
-      "source": "디시인사이드",
-      "title": "실시간 새 역사를 쓰는중인 삼성전자..",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468844&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 54112,
-      "likes": 178,
-      "comments": 682,
-      "score": 79.05,
-      "change": "NEW",
-      "current_rank": 10,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 75.2,
+      "rising_score": 75.87,
       "rising_rank": 10,
-      "window_minutes": 356
+      "window_minutes": 72
     }
   ],
   "issues": [
@@ -470,53 +470,46 @@
     },
     {
       "id": "ide45eba0",
-      "title": "외교부\"주우크라이나 대사 국내로 소환\"",
+      "title": "[속보] 외교부 “주우크라이나 대사 국내 소환”",
       "keywords": [
         "대사",
-        "외교부",
         "소환",
         "주우크라이나",
-        "본국"
+        "외교부"
       ],
       "source_count": 3,
       "post_count": 3,
-      "score": 125.66,
+      "score": 127.68,
       "peak_score": 111.19,
-      "appearances": 1,
+      "appearances": 2,
       "sources": [
         "더쿠",
+        "디시인사이드",
         "루리웹",
         "인벤"
       ],
       "posts": [
         {
-          "source": "루리웹",
-          "rank": 2,
-          "title": "외교부\"주우크라이나 대사 국내로 소환\"",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/76952753?m=humor",
-          "score": 96.19
+          "source": "디시인사이드",
+          "rank": 17,
+          "title": "[속보] 외교부 “주우크라이나 대사 국내 소환”",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468895&_dcbest=1&page=1",
+          "score": 70.45
         },
         {
           "source": "더쿠",
           "rank": 26,
           "title": "[속보] 외교부 \"주우크라이나 대사 본국 소환 결정\"",
           "url": "https://theqoo.net/hot/4369166216",
-          "score": 68.53
-        },
-        {
-          "source": "인벤",
-          "rank": 75,
-          "title": "[속보] 외교부 \"주우크라이나 대사 본국 소환 결정\"",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2737815",
-          "score": 57.46
+          "score": 68.21
         }
       ],
       "first_seen": "2026-10-08T19:25:19.235438+09:00",
-      "last_seen": "2026-10-08T19:25:19.235438+09:00",
-      "latest_source_count": 3,
-      "latest_post_count": 3,
+      "last_seen": "2026-10-08T20:37:27.877885+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
       "rank": 2,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "ife021da2",
@@ -555,7 +548,7 @@
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 3,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i413fcde4",
@@ -602,7 +595,46 @@
       "latest_source_count": 3,
       "latest_post_count": 3,
       "rank": 4,
-      "change": -1
+      "change": 0
+    },
+    {
+      "id": "i7cafd979",
+      "title": "\"한국 빠지면 일본과 한다\"…美 밴스, 알래스카 LNG 압박",
+      "keywords": [
+        "압박",
+        "일본과"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 116.78,
+      "peak_score": 105.29,
+      "appearances": 2,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 2,
+          "title": "\"한국 빠지면 일본과 한다\"…美 밴스, 알래스카 LNG 압박",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76954060?m=humor",
+          "score": 97.29
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 72,
+          "title": "미국 부통령 \"한국이 안하면 일본과 하겠다!\" 알래스카LNG사업 압박",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468830&_dcbest=1&page=1",
+          "score": 57.79
+        }
+      ],
+      "first_seen": "2026-10-08T19:25:19.235438+09:00",
+      "last_seen": "2026-10-08T20:37:27.877885+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 5,
+      "change": 6
     },
     {
       "id": "ifba08ae4",
@@ -639,7 +671,7 @@
       "last_seen": "2026-10-08T13:29:25.370320+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
+      "rank": 6,
       "change": -1
     },
     {
@@ -689,7 +721,7 @@
       "last_seen": "2026-10-08T13:29:25.370320+09:00",
       "latest_source_count": 3,
       "latest_post_count": 3,
-      "rank": 6,
+      "rank": 7,
       "change": -1
     },
     {
@@ -727,7 +759,7 @@
       "last_seen": "2026-10-08T12:01:09.196787+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
+      "rank": 8,
       "change": -1
     },
     {
@@ -777,44 +809,6 @@
       "last_seen": "2026-10-08T08:45:43.423458+09:00",
       "latest_source_count": 3,
       "latest_post_count": 5,
-      "rank": 8,
-      "change": -1
-    },
-    {
-      "id": "ic921d7eb",
-      "title": "‘의료장비’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "의료장비"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 97.99,
-      "peak_score": 88.52,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 7,
-          "title": "DMZ 지뢰 폭발 사고도 해결 안됐는데 정부, 北에 93억원어치 의료장비",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468761&_dcbest=1&page=1",
-          "score": 79.52
-        },
-        {
-          "source": "클리앙",
-          "rank": 50,
-          "title": "김여정, 대북 의료장비 지원 정부 방침에 '개조불능한 바보들'",
-          "url": "https://www.clien.net/service/board/park/19274966?od=T31&po=0&category=0&groupCd=",
-          "score": 61.9
-        }
-      ],
-      "first_seen": "2026-10-08T13:29:25.370320+09:00",
-      "last_seen": "2026-10-08T13:29:25.370320+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 9,
       "change": -1
     },
@@ -826,9 +820,9 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 97.52,
+      "score": 99.54,
       "peak_score": 88.05,
-      "appearances": 1,
+      "appearances": 2,
       "sources": [
         "더쿠",
         "디시인사이드"
@@ -836,150 +830,28 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 10,
+          "rank": 13,
           "title": "실시간 새 역사를 쓰는중인 삼성전자..",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468844&_dcbest=1&page=1",
-          "score": 79.05
+          "score": 71.55
         },
         {
           "source": "더쿠",
-          "rank": 40,
+          "rank": 20,
           "title": "삼성전자 분기 영업이익 세계 1위 등극",
           "url": "https://theqoo.net/hot/4369221466",
-          "score": 65.0
+          "score": 69.68
         }
       ],
       "first_seen": "2026-10-08T19:25:19.235438+09:00",
-      "last_seen": "2026-10-08T19:25:19.235438+09:00",
+      "last_seen": "2026-10-08T20:37:27.877885+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 10,
-      "change": "NEW"
+      "change": 0
     }
   ],
   "realtime_issues": [
-    {
-      "id": "ide45eba0",
-      "title": "외교부\"주우크라이나 대사 국내로 소환\"",
-      "keywords": [
-        "대사",
-        "외교부",
-        "소환",
-        "주우크라이나",
-        "본국"
-      ],
-      "source_count": 3,
-      "post_count": 3,
-      "score": 111.19,
-      "peak_score": 111.19,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "루리웹",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 2,
-          "title": "외교부\"주우크라이나 대사 국내로 소환\"",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/76952753?m=humor",
-          "score": 96.19
-        },
-        {
-          "source": "더쿠",
-          "rank": 26,
-          "title": "[속보] 외교부 \"주우크라이나 대사 본국 소환 결정\"",
-          "url": "https://theqoo.net/hot/4369166216",
-          "score": 68.53
-        },
-        {
-          "source": "인벤",
-          "rank": 75,
-          "title": "[속보] 외교부 \"주우크라이나 대사 본국 소환 결정\"",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2737815",
-          "score": 57.46
-        }
-      ],
-      "rank": 1,
-      "change": "NEW"
-    },
-    {
-      "id": "i057e85da",
-      "title": "[단독]한동훈 딸 왜 수사안되나 봤더니..",
-      "keywords": [
-        "한동훈",
-        "단독"
-      ],
-      "source_count": 2,
-      "post_count": 3,
-      "score": 81.3,
-      "peak_score": 81.3,
-      "appearances": 1,
-      "sources": [
-        "뽐뿌",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 19,
-          "title": "[단독]한동훈 딸 왜 수사안되나 봤더니..",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10145876",
-          "score": 70.3
-        },
-        {
-          "source": "인벤",
-          "rank": 38,
-          "title": "한동훈 딸 수사 해외 공조 요청 검찰서 중단…법무부 \"경위 확인",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2737817",
-          "score": 65.17
-        },
-        {
-          "source": "인벤",
-          "rank": 63,
-          "title": "[단독] '김승원 브로커' 양 씨, 명예훼손 등 혐의로 한동훈 의원 고소",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2737825",
-          "score": 59.61
-        }
-      ],
-      "rank": 2,
-      "change": "NEW"
-    },
-    {
-      "id": "i10990536",
-      "title": "‘삼성전자’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "삼성전자"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 88.05,
-      "peak_score": 88.05,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 10,
-          "title": "실시간 새 역사를 쓰는중인 삼성전자..",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468844&_dcbest=1&page=1",
-          "score": 79.05
-        },
-        {
-          "source": "더쿠",
-          "rank": 40,
-          "title": "삼성전자 분기 영업이익 세계 1위 등극",
-          "url": "https://theqoo.net/hot/4369221466",
-          "score": 65.0
-        }
-      ],
-      "rank": 3,
-      "change": "NEW"
-    },
     {
       "id": "i7cafd979",
       "title": "\"한국 빠지면 일본과 한다\"…美 밴스, 알래스카 LNG 압박",
@@ -989,8 +861,8 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 85.61,
-      "peak_score": 85.61,
+      "score": 105.29,
+      "peak_score": 105.29,
       "appearances": 1,
       "sources": [
         "디시인사이드",
@@ -999,74 +871,66 @@
       "posts": [
         {
           "source": "루리웹",
-          "rank": 12,
+          "rank": 2,
           "title": "\"한국 빠지면 일본과 한다\"…美 밴스, 알래스카 LNG 압박",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/76954060?m=humor_only&t=now",
-          "score": 77.61
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76954060?m=humor",
+          "score": 97.29
         },
         {
           "source": "디시인사이드",
-          "rank": 39,
+          "rank": 72,
           "title": "미국 부통령 \"한국이 안하면 일본과 하겠다!\" 알래스카LNG사업 압박",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468830&_dcbest=1&page=1",
-          "score": 65.02
+          "score": 57.79
         }
       ],
-      "rank": 4,
-      "change": "NEW"
+      "rank": 1,
+      "change": 3
     },
     {
-      "id": "ifd58168c",
-      "title": "[단독] 서울 강남 초등학교 3학년 학생 독감으로 사망",
+      "id": "iba838050",
+      "title": "‘베트남’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "독감으로",
-        "강남",
-        "학생",
-        "초등학교",
-        "사망",
-        "3학년"
+        "베트남"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 85.01,
-      "peak_score": 85.01,
+      "score": 89.64,
+      "peak_score": 89.64,
       "appearances": 1,
       "sources": [
-        "더쿠",
+        "디시인사이드",
         "뽐뿌"
       ],
       "posts": [
         {
           "source": "뽐뿌",
-          "rank": 13,
-          "title": "[단독] 서울 강남 초등학교 3학년 학생 독감으로 사망",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10145927",
-          "score": 77.01
+          "rank": 7,
+          "title": "남편을 많이 사랑한다는 17살 연하 베트남 아내",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=22741",
+          "score": 80.64
         },
         {
-          "source": "더쿠",
-          "rank": 89,
-          "title": "[단독] 서울 강남 초등학교 3학년 학생 독감으로 사망…질병청, 예방접종·개인위생 당부",
-          "url": "https://theqoo.net/hot/4369020140",
-          "score": 54.58
+          "source": "디시인사이드",
+          "rank": 16,
+          "title": "불법취업 베트남 라이더 급증... 유학원부터 조직적 범죄 정황",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468869&_dcbest=1&page=1",
+          "score": 70.71
         }
       ],
-      "rank": 5,
+      "rank": 2,
       "change": "NEW"
     },
     {
-      "id": "i1b11d4fe",
-      "title": "‘3인방’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i10990536",
+      "title": "‘삼성전자’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "3인방",
-        "96년생",
-        "손흥민",
-        "리더십"
+        "삼성전자"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 83.37,
-      "peak_score": 83.37,
+      "score": 80.55,
+      "peak_score": 80.55,
       "appearances": 1,
       "sources": [
         "더쿠",
@@ -1074,94 +938,192 @@
       ],
       "posts": [
         {
-          "source": "더쿠",
-          "rank": 15,
-          "title": "협회도 쉬쉬해온 ‘손흥민 리더십’ 문제…콘트롤타워 부재 속 총대 멘 96년생 3인방",
-          "url": "https://theqoo.net/hot/4369148006",
-          "score": 74.37
+          "source": "디시인사이드",
+          "rank": 13,
+          "title": "실시간 새 역사를 쓰는중인 삼성전자..",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468844&_dcbest=1&page=1",
+          "score": 71.55
         },
         {
+          "source": "더쿠",
+          "rank": 20,
+          "title": "삼성전자 분기 영업이익 세계 1위 등극",
+          "url": "https://theqoo.net/hot/4369221466",
+          "score": 69.68
+        }
+      ],
+      "rank": 3,
+      "change": 0
+    },
+    {
+      "id": "ide45eba0",
+      "title": "[속보] 외교부 “주우크라이나 대사 국내 소환”",
+      "keywords": [
+        "대사",
+        "소환",
+        "주우크라이나",
+        "외교부"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 78.45,
+      "peak_score": 78.45,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "posts": [
+        {
           "source": "디시인사이드",
-          "rank": 99,
-          "title": "손흥민 리더십 두고 쌓인 불만 폭발했나...'96년생 3인방' 밤샘 면담",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468818&_dcbest=1&page=1",
-          "score": 50.82
+          "rank": 17,
+          "title": "[속보] 외교부 “주우크라이나 대사 국내 소환”",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468895&_dcbest=1&page=1",
+          "score": 70.45
+        },
+        {
+          "source": "더쿠",
+          "rank": 26,
+          "title": "[속보] 외교부 \"주우크라이나 대사 본국 소환 결정\"",
+          "url": "https://theqoo.net/hot/4369166216",
+          "score": 68.21
+        }
+      ],
+      "rank": 4,
+      "change": -3
+    },
+    {
+      "id": "i093a9545",
+      "title": "‘재테크’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "재테크"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 78.19,
+      "peak_score": 78.19,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 23,
+          "title": "요즘 초등학생들이 많이 한다는 재테크",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468866&_dcbest=1&page=1",
+          "score": 69.19
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 35,
+          "title": "엔화가 너무 낮은거같은데 재테크 어떨까요?",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=money&no=548574",
+          "score": 63.9
+        }
+      ],
+      "rank": 5,
+      "change": "NEW"
+    },
+    {
+      "id": "ib3876eed",
+      "title": "‘남자가’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "남자가"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 71.58,
+      "peak_score": 71.58,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 41,
+          "title": "여자들아 남자가 사라진다면 뭐 하고싶어?",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468832&_dcbest=1&page=1",
+          "score": 62.58
+        },
+        {
+          "source": "인벤",
+          "rank": 65,
+          "title": "남자가 결혼 못하는 5가지 이유",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2737866",
+          "score": 58.37
         }
       ],
       "rank": 6,
       "change": "NEW"
     },
     {
-      "id": "i54713cc1",
-      "title": "이 대통령, 극초음속 미사일 최초 시험발사 참관",
+      "id": "idf55914c",
+      "title": "아버지 사진 공개 후회하는 연예인.jpg",
       "keywords": [
-        "극초음속",
-        "미사일",
-        "최초",
-        "참관",
-        "시험발사"
+        "연예인",
+        "아버지"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 75.65,
-      "peak_score": 75.65,
+      "score": 69.42,
+      "peak_score": 69.42,
       "appearances": 1,
       "sources": [
-        "디시인사이드",
-        "클리앙"
+        "더쿠",
+        "뽐뿌"
       ],
       "posts": [
         {
-          "source": "디시인사이드",
-          "rank": 28,
-          "title": "이 대통령, 극초음속 미사일 최초 시험발사 참관",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468873&_dcbest=1&page=1",
-          "score": 67.65
+          "source": "더쿠",
+          "rank": 45,
+          "title": "아버지 사진 공개 후회하는 연예인.jpg",
+          "url": "https://theqoo.net/hot/4369026406",
+          "score": 61.42
         },
         {
-          "source": "클리앙",
-          "rank": 69,
-          "title": "[속보] 이 대통령, 극초음속 미사일 최초 시험발사 참관",
-          "url": "https://www.clien.net/service/board/park/19275115?od=T31&po=0&category=0&groupCd=",
-          "score": 58.7
+          "source": "뽐뿌",
+          "rank": 100,
+          "title": "아버지 사진 공개 후회한다는 연예인",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10146122",
+          "score": 51.26
         }
       ],
       "rank": 7,
       "change": "NEW"
     },
     {
-      "id": "i6fb7ee77",
-      "title": "드디어 유출됐다는 K-마운자로 에페 가격",
+      "id": "i106465f0",
+      "title": "‘암살자들’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "마운자로",
-        "유출됐다는",
-        "에페",
-        "가격",
-        "드디어"
+        "암살자들"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 74.95,
-      "peak_score": 74.95,
+      "score": 66.71,
+      "peak_score": 66.71,
       "appearances": 1,
       "sources": [
-        "더쿠",
+        "디시인사이드",
         "인벤"
       ],
       "posts": [
         {
-          "source": "인벤",
-          "rank": 29,
-          "title": "드디어 유출됐다는 K-마운자로 에페 가격",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2737811",
-          "score": 66.95
+          "source": "디시인사이드",
+          "rank": 73,
+          "title": "JTBC) 국힘 \"암살자들 제작자 국감 불러야\" \"이건 검열\"",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468861&_dcbest=1&page=1",
+          "score": 57.71
         },
         {
-          "source": "더쿠",
-          "rank": 47,
-          "title": "드디어 유출됐다는 K-마운자로 에페 가격 근황",
-          "url": "https://theqoo.net/hot/4369216969",
-          "score": 62.84
+          "source": "인벤",
+          "rank": 87,
+          "title": "영화 암살자들 관객수 근황",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2737853",
+          "score": 55.8
         }
       ],
       "rank": 8,
@@ -1171,282 +1133,269 @@
   "keywords": [
     {
       "keyword": "한국",
-      "score": 175.56,
-      "post_count": 7,
-      "source_count": 4,
-      "best_rank": 4,
+      "score": 132.69,
+      "post_count": 4,
+      "source_count": 3,
+      "best_rank": 2,
       "sources": [
         "디시인사이드",
         "루리웹",
-        "뽐뿌",
-        "인벤"
+        "뽐뿌"
       ],
       "aliases": [],
       "rank": 1,
-      "change": 3
+      "change": 0
     },
     {
-      "keyword": "단독",
-      "score": 161.49,
-      "post_count": 6,
-      "source_count": 4,
-      "best_rank": 13,
+      "keyword": "아내",
+      "score": 128.61,
+      "post_count": 3,
+      "source_count": 3,
+      "best_rank": 7,
       "sources": [
-        "더쿠",
         "디시인사이드",
         "뽐뿌",
         "인벤"
       ],
       "aliases": [],
       "rank": 2,
-      "change": 7
-    },
-    {
-      "keyword": "대사",
-      "score": 154.02,
-      "post_count": 4,
-      "source_count": 4,
-      "best_rank": 2,
-      "sources": [
-        "더쿠",
-        "루리웹",
-        "인벤",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 3,
-      "change": "NEW"
-    },
-    {
-      "keyword": "가격",
-      "score": 135.83,
-      "post_count": 5,
-      "source_count": 3,
-      "best_rank": 7,
-      "sources": [
-        "더쿠",
-        "인벤",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 4,
       "change": "NEW"
     },
     {
       "keyword": "일본",
-      "score": 133.82,
-      "post_count": 4,
-      "source_count": 3,
-      "best_rank": 5,
+      "score": 110.69,
+      "post_count": 3,
+      "source_count": 2,
+      "best_rank": 2,
       "sources": [
-        "더쿠",
         "디시인사이드",
         "루리웹"
       ],
       "aliases": [],
-      "rank": 5,
-      "change": 6
+      "rank": 3,
+      "change": 2
     },
     {
-      "keyword": "주우크라이나",
-      "score": 130.04,
-      "post_count": 3,
-      "source_count": 3,
+      "keyword": "한다",
+      "score": 108.85,
+      "post_count": 2,
+      "source_count": 2,
       "best_rank": 2,
       "sources": [
-        "더쿠",
-        "루리웹",
-        "인벤"
+        "디시인사이드",
+        "루리웹"
       ],
-      "aliases": [
-        "소환",
-        "외교부"
+      "aliases": [],
+      "rank": 4,
+      "change": 8
+    },
+    {
+      "keyword": "베트남",
+      "score": 105.22,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 7,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌"
       ],
-      "rank": 6,
+      "aliases": [],
+      "rank": 5,
       "change": "NEW"
     },
     {
       "keyword": "손흥민",
-      "score": 124.56,
-      "post_count": 4,
-      "source_count": 3,
-      "best_rank": 15,
+      "score": 104.89,
+      "post_count": 3,
+      "source_count": 2,
+      "best_rank": 5,
       "sources": [
         "더쿠",
+        "뽐뿌"
+      ],
+      "aliases": [],
+      "rank": 6,
+      "change": 1
+    },
+    {
+      "keyword": "많이",
+      "score": 104.17,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 7,
+      "sources": [
         "디시인사이드",
         "뽐뿌"
       ],
       "aliases": [],
       "rank": 7,
-      "change": -4
+      "change": "NEW"
     },
     {
-      "keyword": "서울",
-      "score": 123.9,
-      "post_count": 4,
-      "source_count": 3,
-      "best_rank": 13,
+      "keyword": "업적",
+      "score": 102.09,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 5,
       "sources": [
-        "더쿠",
         "뽐뿌",
-        "클리앙"
+        "인벤"
       ],
       "aliases": [],
       "rank": 8,
       "change": "NEW"
     },
     {
-      "keyword": "에페",
-      "score": 116.85,
-      "post_count": 3,
-      "source_count": 3,
-      "best_rank": 29,
-      "sources": [
-        "더쿠",
-        "인벤",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 9,
-      "change": "NEW"
-    },
-    {
-      "keyword": "만화",
-      "score": 111.49,
-      "post_count": 3,
-      "source_count": 3,
-      "best_rank": 54,
-      "sources": [
-        "디시인사이드",
-        "루리웹",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 10,
-      "change": -9
-    },
-    {
-      "keyword": "한동훈",
-      "score": 103.65,
-      "post_count": 4,
-      "source_count": 2,
-      "best_rank": 19,
-      "sources": [
-        "뽐뿌",
-        "인벤"
-      ],
-      "aliases": [],
-      "rank": 11,
-      "change": "NEW"
-    },
-    {
-      "keyword": "한다",
-      "score": 101.08,
+      "keyword": "압박",
+      "score": 101.37,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 12,
+      "best_rank": 2,
       "sources": [
         "디시인사이드",
         "루리웹"
       ],
       "aliases": [],
-      "rank": 12,
+      "rank": 9,
+      "change": 5
+    },
+    {
+      "keyword": "맞아",
+      "score": 101.24,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 1,
+      "sources": [
+        "루리웹",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 10,
       "change": "NEW"
     },
     {
       "keyword": "삼성전자",
-      "score": 99.91,
+      "score": 100.5,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 10,
+      "best_rank": 13,
       "sources": [
         "더쿠",
         "디시인사이드"
+      ],
+      "aliases": [],
+      "rank": 11,
+      "change": 2
+    },
+    {
+      "keyword": "주우크라이나",
+      "score": 97.54,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 17,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "aliases": [
+        "대사",
+        "소환",
+        "외교부"
+      ],
+      "rank": 12,
+      "change": -6
+    },
+    {
+      "keyword": "재테크",
+      "score": 93.91,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 23,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌"
       ],
       "aliases": [],
       "rank": 13,
       "change": "NEW"
     },
     {
-      "keyword": "압박",
-      "score": 98.89,
+      "keyword": "50대",
+      "score": 92.48,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 12,
+      "best_rank": 33,
       "sources": [
-        "디시인사이드",
-        "루리웹"
+        "뽐뿌",
+        "인벤"
       ],
       "aliases": [],
       "rank": 14,
       "change": "NEW"
     },
     {
-      "keyword": "유출됐다",
-      "score": 91.29,
+      "keyword": "에페",
+      "score": 88.08,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 29,
+      "best_rank": 32,
       "sources": [
         "더쿠",
-        "인벤"
+        "클리앙"
       ],
-      "aliases": [
-        "드디어",
-        "마운자로"
-      ],
+      "aliases": [],
       "rank": 15,
-      "change": "NEW"
+      "change": -6
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "PC 포팅당한 블러드본 미친 근황.jpg",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76953268?m=humor",
-      "score": 98.96,
-      "views": 21634,
-      "comments": 131
-    },
-    {
-      "source": "뽐뿌",
-      "title": "한국 기름값이 비�患� 이유",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10145973",
-      "score": 91.47,
-      "views": 10503,
-      "comments": 33
+      "title": "\"맞아 나 메갈이야\"...웹툰 근황...JPG",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76951887?m=humor",
+      "score": 97.44,
+      "views": 35309,
+      "comments": 124
     },
     {
       "source": "디시인사이드",
-      "title": "싱글벙글 엔저로 수출 대박났다는 일본 근황…jpg",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468855&_dcbest=1&page=1",
-      "score": 84.75,
-      "views": 38567,
-      "comments": 960
+      "title": "안싱글벙글 개물림 사고(강아지사망) 당했습니다",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468885&_dcbest=1&page=1",
+      "score": 87.08,
+      "views": 17747,
+      "comments": 369
+    },
+    {
+      "source": "뽐뿌",
+      "title": "손흥민의 업적은 대단하긴 한데 .. 양쪽말 들어보고 싶긴 해지네요",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=soccer&no=189344",
+      "score": 82.03,
+      "views": 9258,
+      "comments": 71
     },
     {
       "source": "인벤",
-      "title": "퍼옴) 요즘 후라이드 치킨 가격 요약본",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2737818",
-      "score": 81.72,
-      "views": 1970,
-      "comments": 24
+      "title": "강사룩 김채연",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2737855",
+      "score": 72.27,
+      "views": 920,
+      "comments": 11
+    },
+    {
+      "source": "클리앙",
+      "title": "등산할때 큰 도움 주었던 기능성 의류.jpg",
+      "url": "https://www.clien.net/service/board/park/19275131?od=T31&po=0&category=0&groupCd=",
+      "score": 70.44,
+      "views": 1969,
+      "comments": 16
     },
     {
       "source": "더쿠",
       "title": "협회도 쉬쉬해온 ‘손흥민 리더십’ 문제…콘트롤타워 부재 속 총대 멘 96년생 3인방",
       "url": "https://theqoo.net/hot/4369148006",
-      "score": 74.37,
-      "views": 37353,
-      "comments": 810
-    },
-    {
-      "source": "클리앙",
-      "title": "장관 의견이 곧 대통령 의견입니다",
-      "url": "https://www.clien.net/service/board/park/19275122?od=T31&po=0&category=0&groupCd=",
-      "score": 66.63,
-      "views": 164,
-      "comments": 3
+      "score": 70.05,
+      "views": 45108,
+      "comments": 881
     }
   ]
 }
