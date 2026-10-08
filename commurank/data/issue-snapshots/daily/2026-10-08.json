@@ -3,7 +3,7 @@
   "period": "daily",
   "key": "2026-10-08",
   "label": "2026년 10월 08일",
-  "collected_at": "2026-10-08T12:01:09.196787+09:00",
+  "collected_at": "2026-10-08T13:29:25.370320+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -51,7 +51,7 @@
       "latest_source_count": 3,
       "latest_post_count": 4,
       "rank": 1,
-      "change": 7
+      "change": 0
     },
     {
       "id": "ife021da2",
@@ -100,42 +100,131 @@
       ],
       "source_count": 3,
       "post_count": 4,
-      "score": 119.47,
+      "score": 121.49,
       "peak_score": 104.0,
-      "appearances": 1,
+      "appearances": 2,
       "sources": [
         "더쿠",
         "디시인사이드",
-        "뽐뿌"
+        "뽐뿌",
+        "인벤"
       ],
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 5,
+          "rank": 11,
           "title": "실시간 '96 은퇴 소동' 손흥민 sbs피셜..",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468737&_dcbest=1&page=1",
-          "score": 86.0
+          "score": 77.25
         },
         {
-          "source": "뽐뿌",
-          "rank": 14,
-          "title": "손흥민 & 양민혁 과거 인터뷰 수준.jpg",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=sports&no=154974",
-          "score": 72.19
+          "source": "인벤",
+          "rank": 67,
+          "title": "손흥민 축구 역사상 A매치 직접 프리킥 골 순위 3위 랭크.jpg",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2737669",
+          "score": 58.64
         },
         {
           "source": "더쿠",
-          "rank": 34,
+          "rank": 100,
           "title": "손흥민 주장 9년…92·96라인 갈등, 갈 데까지 갔다",
           "url": "https://theqoo.net/hot/4368725620",
-          "score": 65.05
+          "score": 50.26
         }
       ],
       "first_seen": "2026-10-08T12:01:09.196787+09:00",
-      "last_seen": "2026-10-08T12:01:09.196787+09:00",
+      "last_seen": "2026-10-08T13:29:25.370320+09:00",
       "latest_source_count": 3,
-      "latest_post_count": 4,
+      "latest_post_count": 3,
       "rank": 3,
+      "change": 0
+    },
+    {
+      "id": "ifba08ae4",
+      "title": "‘어머니’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "어머니"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 112.16,
+      "peak_score": 102.69,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 3,
+          "title": "일본 치매 어머니 살인사건 댓글에 안락사 필요하다는거 보니 생각난 것",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76949019?m=humor",
+          "score": 93.69
+        },
+        {
+          "source": "클리앙",
+          "rank": 30,
+          "title": "상주는 여자가 하는 게 아니다…완장 찬 장녀가 어머니 장례서 겪은 일.gisa",
+          "url": "https://www.clien.net/service/board/park/19274964?od=T31&po=0&category=0&groupCd=",
+          "score": 66.68
+        }
+      ],
+      "first_seen": "2026-10-06T10:52:31.794638+09:00",
+      "last_seen": "2026-10-08T13:29:25.370320+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 4,
+      "change": "NEW"
+    },
+    {
+      "id": "ia830e3b5",
+      "title": "명랑 만화 뚱딴지 김우영 작가 별세",
+      "keywords": [
+        "별세",
+        "만화",
+        "뚱딴지",
+        "김우영",
+        "작가"
+      ],
+      "source_count": 3,
+      "post_count": 3,
+      "score": 102.25,
+      "peak_score": 87.78,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 18,
+          "title": "명랑 만화 뚱딴지 김우영 작가 별세",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2737679",
+          "score": 72.78
+        },
+        {
+          "source": "더쿠",
+          "rank": 47,
+          "title": "만화 뚱딴지 그리신 김우영 작가분 향년 86세로 별세",
+          "url": "https://theqoo.net/hot/4368876765",
+          "score": 62.53
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 55,
+          "title": "명랑 만화 뚱딴지 김우영 작가 별세",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10145744",
+          "score": 60.74
+        }
+      ],
+      "first_seen": "2026-10-08T13:29:25.370320+09:00",
+      "last_seen": "2026-10-08T13:29:25.370320+09:00",
+      "latest_source_count": 3,
+      "latest_post_count": 3,
+      "rank": 5,
       "change": "NEW"
     },
     {
@@ -173,8 +262,8 @@
       "last_seen": "2026-10-08T12:01:09.196787+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 4,
-      "change": "NEW"
+      "rank": 6,
+      "change": -2
     },
     {
       "id": "icde93929",
@@ -223,8 +312,122 @@
       "last_seen": "2026-10-08T08:45:43.423458+09:00",
       "latest_source_count": 3,
       "latest_post_count": 5,
-      "rank": 5,
-      "change": -4
+      "rank": 7,
+      "change": -2
+    },
+    {
+      "id": "ic921d7eb",
+      "title": "‘의료장비’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "의료장비"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 97.99,
+      "peak_score": 88.52,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 7,
+          "title": "DMZ 지뢰 폭발 사고도 해결 안됐는데 정부, 北에 93억원어치 의료장비",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468761&_dcbest=1&page=1",
+          "score": 79.52
+        },
+        {
+          "source": "클리앙",
+          "rank": 50,
+          "title": "김여정, 대북 의료장비 지원 정부 방침에 '개조불능한 바보들'",
+          "url": "https://www.clien.net/service/board/park/19274966?od=T31&po=0&category=0&groupCd=",
+          "score": 61.9
+        }
+      ],
+      "first_seen": "2026-10-08T13:29:25.370320+09:00",
+      "last_seen": "2026-10-08T13:29:25.370320+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 8,
+      "change": "NEW"
+    },
+    {
+      "id": "ie1cd7b67",
+      "title": "‘이화영’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "이화영"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 93.03,
+      "peak_score": 83.56,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 15,
+          "title": "이화영 대통령에게화가많이날만도하네;",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2737678",
+          "score": 74.56
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 36,
+          "title": "sbs) '가석방' 요구한 이화영..\"대통령에 화 많이 나\"",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468777&_dcbest=1&page=1",
+          "score": 64.63
+        }
+      ],
+      "first_seen": "2026-10-08T13:29:25.370320+09:00",
+      "last_seen": "2026-10-08T13:29:25.370320+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 9,
+      "change": "NEW"
+    },
+    {
+      "id": "i1e941339",
+      "title": "‘중국인’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "중국인"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 92.25,
+      "peak_score": 80.76,
+      "appearances": 2,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 32,
+          "title": "JTBC) 중국인 장예모 감독도 \"이건 창작의 자유\" 옹호",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468749&_dcbest=1&page=1",
+          "score": 65.93
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 54,
+          "title": "한국 지하철에서 중국인 근황",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10145661",
+          "score": 61.29
+        }
+      ],
+      "first_seen": "2026-10-08T12:01:09.196787+09:00",
+      "last_seen": "2026-10-08T13:29:25.370320+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 10,
+      "change": -3
     },
     {
       "id": "i1060e3b1",
@@ -261,46 +464,8 @@
       "last_seen": "2026-10-08T08:45:43.423458+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 6,
-      "change": -3
-    },
-    {
-      "id": "i1e941339",
-      "title": "‘중국인’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "중국인"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 90.23,
-      "peak_score": 80.76,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 17,
-          "title": "JTBC) 중국인 장예모 감독도 \"이건 창작의 자유\" 옹호",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468749&_dcbest=1&page=1",
-          "score": 71.76
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 68,
-          "title": "한국 지하철에서 중국인 근황",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10145661",
-          "score": 57.92
-        }
-      ],
-      "first_seen": "2026-10-08T12:01:09.196787+09:00",
-      "last_seen": "2026-10-08T12:01:09.196787+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 7,
-      "change": "NEW"
+      "rank": 11,
+      "change": -5
     },
     {
       "id": "i2885ff88",
@@ -341,7 +506,7 @@
       "last_seen": "2026-10-08T08:45:43.423458+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 8,
+      "rank": 12,
       "change": -4
     },
     {
@@ -379,7 +544,7 @@
       "last_seen": "2026-10-08T08:45:43.423458+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 9,
+      "rank": 13,
       "change": -4
     },
     {
@@ -420,7 +585,7 @@
       "last_seen": "2026-10-08T08:45:43.423458+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 10,
+      "rank": 14,
       "change": -4
     },
     {
@@ -458,8 +623,46 @@
       "last_seen": "2026-10-08T08:45:43.423458+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 11,
+      "rank": 15,
       "change": -4
+    },
+    {
+      "id": "i4c8bdd1e",
+      "title": "‘대한민국’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "대한민국"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 81.07,
+      "peak_score": 71.6,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 46,
+          "title": "대한민국 인구성장표",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2737668",
+          "score": 62.6
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 73,
+          "title": "골 때리는 대한민국 공정과 상식",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10145725",
+          "score": 57.09
+        }
+      ],
+      "first_seen": "2026-10-08T13:29:25.370320+09:00",
+      "last_seen": "2026-10-08T13:29:25.370320+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 16,
+      "change": "NEW"
     },
     {
       "id": "i5791457f",
@@ -496,8 +699,8 @@
       "last_seen": "2026-10-08T08:45:43.423458+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 12,
-      "change": -3
+      "rank": 17,
+      "change": -5
     },
     {
       "id": "if553a5cf",
@@ -534,7 +737,45 @@
       "last_seen": "2026-10-08T12:01:09.196787+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 13,
+      "rank": 18,
+      "change": -5
+    },
+    {
+      "id": "id50390b0",
+      "title": "‘나오는’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "나오는"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 78.49,
+      "peak_score": 69.02,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 61,
+          "title": "부캉이에 대해 나오는 우려의 목소리",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76950180?m=humor_only&t=now",
+          "score": 60.02
+        },
+        {
+          "source": "클리앙",
+          "rank": 74,
+          "title": "이불 털때 나오는 먼지는 적응이 안되네요",
+          "url": "https://www.clien.net/service/board/park/19274959?od=T31&po=0&category=0&groupCd=",
+          "score": 57.07
+        }
+      ],
+      "first_seen": "2026-10-08T13:29:25.370320+09:00",
+      "last_seen": "2026-10-08T13:29:25.370320+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 19,
       "change": "NEW"
     },
     {
@@ -572,8 +813,8 @@
       "last_seen": "2026-10-08T12:01:09.196787+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 14,
-      "change": "NEW"
+      "rank": 20,
+      "change": -6
     }
   ]
 }
