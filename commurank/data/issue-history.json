@@ -1,6 +1,387 @@
 {
   "version": 1,
   "issues": {
+    "i6fb7ee77": {
+      "id": "i6fb7ee77",
+      "first_seen": "2026-10-03T11:22:51.315192+09:00",
+      "last_seen": "2026-10-08T19:25:19.235438+09:00",
+      "title": "드디어 유출됐다는 K-마운자로 에페 가격",
+      "keywords": [
+        "마운자로",
+        "유출됐다는",
+        "에페",
+        "가격",
+        "드디어"
+      ],
+      "points": [
+        {
+          "at": "2026-10-03T11:22:51.315192+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 74.78,
+          "sources": [
+            "루리웹",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://www.clien.net/service/board/park/19272975?od=T31&po=0&category=0&groupCd=",
+            "https://bbs.ruliweb.com/best/board/300143/read/76890509?m=humor_only&t=now"
+          ]
+        },
+        {
+          "at": "2026-10-08T19:25:19.235438+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 74.95,
+          "sources": [
+            "더쿠",
+            "인벤"
+          ],
+          "post_urls": [
+            "https://www.inven.co.kr/board/webzine/2097/2737811",
+            "https://theqoo.net/hot/4369216969"
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 29,
+          "title": "드디어 유출됐다는 K-마운자로 에페 가격",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2737811",
+          "score": 66.95
+        },
+        {
+          "source": "더쿠",
+          "rank": 47,
+          "title": "드디어 유출됐다는 K-마운자로 에페 가격 근황",
+          "url": "https://theqoo.net/hot/4369216969",
+          "score": 62.84
+        }
+      ]
+    },
+    "ide45eba0": {
+      "id": "ide45eba0",
+      "first_seen": "2026-10-08T19:25:19.235438+09:00",
+      "last_seen": "2026-10-08T19:25:19.235438+09:00",
+      "title": "외교부\"주우크라이나 대사 국내로 소환\"",
+      "keywords": [
+        "대사",
+        "외교부",
+        "소환",
+        "주우크라이나",
+        "본국"
+      ],
+      "points": [
+        {
+          "at": "2026-10-08T19:25:19.235438+09:00",
+          "source_count": 3,
+          "post_count": 3,
+          "score": 111.19,
+          "sources": [
+            "더쿠",
+            "루리웹",
+            "인벤"
+          ],
+          "post_urls": [
+            "https://bbs.ruliweb.com/best/board/300143/read/76952753?m=humor",
+            "https://theqoo.net/hot/4369166216",
+            "https://www.inven.co.kr/board/webzine/2097/2737815"
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 2,
+          "title": "외교부\"주우크라이나 대사 국내로 소환\"",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76952753?m=humor",
+          "score": 96.19
+        },
+        {
+          "source": "더쿠",
+          "rank": 26,
+          "title": "[속보] 외교부 \"주우크라이나 대사 본국 소환 결정\"",
+          "url": "https://theqoo.net/hot/4369166216",
+          "score": 68.53
+        },
+        {
+          "source": "인벤",
+          "rank": 75,
+          "title": "[속보] 외교부 \"주우크라이나 대사 본국 소환 결정\"",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2737815",
+          "score": 57.46
+        }
+      ]
+    },
+    "i057e85da": {
+      "id": "i057e85da",
+      "first_seen": "2026-10-08T19:25:19.235438+09:00",
+      "last_seen": "2026-10-08T19:25:19.235438+09:00",
+      "title": "[단독]한동훈 딸 왜 수사안되나 봤더니..",
+      "keywords": [
+        "한동훈",
+        "단독"
+      ],
+      "points": [
+        {
+          "at": "2026-10-08T19:25:19.235438+09:00",
+          "source_count": 2,
+          "post_count": 3,
+          "score": 81.3,
+          "sources": [
+            "뽐뿌",
+            "인벤"
+          ],
+          "post_urls": [
+            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10145876",
+            "https://www.inven.co.kr/board/webzine/2097/2737817",
+            "https://www.inven.co.kr/board/webzine/2097/2737825"
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 19,
+          "title": "[단독]한동훈 딸 왜 수사안되나 봤더니..",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10145876",
+          "score": 70.3
+        },
+        {
+          "source": "인벤",
+          "rank": 38,
+          "title": "한동훈 딸 수사 해외 공조 요청 검찰서 중단…법무부 \"경위 확인",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2737817",
+          "score": 65.17
+        },
+        {
+          "source": "인벤",
+          "rank": 63,
+          "title": "[단독] '김승원 브로커' 양 씨, 명예훼손 등 혐의로 한동훈 의원 고소",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2737825",
+          "score": 59.61
+        }
+      ]
+    },
+    "i10990536": {
+      "id": "i10990536",
+      "first_seen": "2026-10-08T19:25:19.235438+09:00",
+      "last_seen": "2026-10-08T19:25:19.235438+09:00",
+      "title": "‘삼성전자’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "삼성전자"
+      ],
+      "points": [
+        {
+          "at": "2026-10-08T19:25:19.235438+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 88.05,
+          "sources": [
+            "더쿠",
+            "디시인사이드"
+          ],
+          "post_urls": [
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=468844&_dcbest=1&page=1",
+            "https://theqoo.net/hot/4369221466"
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 10,
+          "title": "실시간 새 역사를 쓰는중인 삼성전자..",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468844&_dcbest=1&page=1",
+          "score": 79.05
+        },
+        {
+          "source": "더쿠",
+          "rank": 40,
+          "title": "삼성전자 분기 영업이익 세계 1위 등극",
+          "url": "https://theqoo.net/hot/4369221466",
+          "score": 65.0
+        }
+      ]
+    },
+    "i7cafd979": {
+      "id": "i7cafd979",
+      "first_seen": "2026-10-08T19:25:19.235438+09:00",
+      "last_seen": "2026-10-08T19:25:19.235438+09:00",
+      "title": "\"한국 빠지면 일본과 한다\"…美 밴스, 알래스카 LNG 압박",
+      "keywords": [
+        "압박",
+        "일본과"
+      ],
+      "points": [
+        {
+          "at": "2026-10-08T19:25:19.235438+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 85.61,
+          "sources": [
+            "디시인사이드",
+            "루리웹"
+          ],
+          "post_urls": [
+            "https://bbs.ruliweb.com/best/board/300143/read/76954060?m=humor_only&t=now",
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=468830&_dcbest=1&page=1"
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 12,
+          "title": "\"한국 빠지면 일본과 한다\"…美 밴스, 알래스카 LNG 압박",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76954060?m=humor_only&t=now",
+          "score": 77.61
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 39,
+          "title": "미국 부통령 \"한국이 안하면 일본과 하겠다!\" 알래스카LNG사업 압박",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468830&_dcbest=1&page=1",
+          "score": 65.02
+        }
+      ]
+    },
+    "ifd58168c": {
+      "id": "ifd58168c",
+      "first_seen": "2026-10-08T19:25:19.235438+09:00",
+      "last_seen": "2026-10-08T19:25:19.235438+09:00",
+      "title": "[단독] 서울 강남 초등학교 3학년 학생 독감으로 사망",
+      "keywords": [
+        "독감으로",
+        "강남",
+        "학생",
+        "초등학교",
+        "사망",
+        "3학년"
+      ],
+      "points": [
+        {
+          "at": "2026-10-08T19:25:19.235438+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 85.01,
+          "sources": [
+            "더쿠",
+            "뽐뿌"
+          ],
+          "post_urls": [
+            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10145927",
+            "https://theqoo.net/hot/4369020140"
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 13,
+          "title": "[단독] 서울 강남 초등학교 3학년 학생 독감으로 사망",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10145927",
+          "score": 77.01
+        },
+        {
+          "source": "더쿠",
+          "rank": 89,
+          "title": "[단독] 서울 강남 초등학교 3학년 학생 독감으로 사망…질병청, 예방접종·개인위생 당부",
+          "url": "https://theqoo.net/hot/4369020140",
+          "score": 54.58
+        }
+      ]
+    },
+    "i1b11d4fe": {
+      "id": "i1b11d4fe",
+      "first_seen": "2026-10-08T19:25:19.235438+09:00",
+      "last_seen": "2026-10-08T19:25:19.235438+09:00",
+      "title": "‘3인방’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "3인방",
+        "96년생",
+        "손흥민",
+        "리더십"
+      ],
+      "points": [
+        {
+          "at": "2026-10-08T19:25:19.235438+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 83.37,
+          "sources": [
+            "더쿠",
+            "디시인사이드"
+          ],
+          "post_urls": [
+            "https://theqoo.net/hot/4369148006",
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=468818&_dcbest=1&page=1"
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 15,
+          "title": "협회도 쉬쉬해온 ‘손흥민 리더십’ 문제…콘트롤타워 부재 속 총대 멘 96년생 3인방",
+          "url": "https://theqoo.net/hot/4369148006",
+          "score": 74.37
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 99,
+          "title": "손흥민 리더십 두고 쌓인 불만 폭발했나...'96년생 3인방' 밤샘 면담",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468818&_dcbest=1&page=1",
+          "score": 50.82
+        }
+      ]
+    },
+    "i54713cc1": {
+      "id": "i54713cc1",
+      "first_seen": "2026-10-08T19:25:19.235438+09:00",
+      "last_seen": "2026-10-08T19:25:19.235438+09:00",
+      "title": "이 대통령, 극초음속 미사일 최초 시험발사 참관",
+      "keywords": [
+        "극초음속",
+        "미사일",
+        "최초",
+        "참관",
+        "시험발사"
+      ],
+      "points": [
+        {
+          "at": "2026-10-08T19:25:19.235438+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 75.65,
+          "sources": [
+            "디시인사이드",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=468873&_dcbest=1&page=1",
+            "https://www.clien.net/service/board/park/19275115?od=T31&po=0&category=0&groupCd="
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 28,
+          "title": "이 대통령, 극초음속 미사일 최초 시험발사 참관",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468873&_dcbest=1&page=1",
+          "score": 67.65
+        },
+        {
+          "source": "클리앙",
+          "rank": 69,
+          "title": "[속보] 이 대통령, 극초음속 미사일 최초 시험발사 참관",
+          "url": "https://www.clien.net/service/board/park/19275115?od=T31&po=0&category=0&groupCd=",
+          "score": 58.7
+        }
+      ]
+    },
     "i413fcde4": {
       "id": "i413fcde4",
       "first_seen": "2026-10-08T12:01:09.196787+09:00",
@@ -8885,47 +9266,6 @@
         }
       ]
     },
-    "i6fb7ee77": {
-      "id": "i6fb7ee77",
-      "first_seen": "2026-10-03T11:22:51.315192+09:00",
-      "last_seen": "2026-10-03T11:22:51.315192+09:00",
-      "title": "‘마운자로’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "마운자로"
-      ],
-      "points": [
-        {
-          "at": "2026-10-03T11:22:51.315192+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 74.78,
-          "sources": [
-            "루리웹",
-            "클리앙"
-          ],
-          "post_urls": [
-            "https://www.clien.net/service/board/park/19272975?od=T31&po=0&category=0&groupCd=",
-            "https://bbs.ruliweb.com/best/board/300143/read/76890509?m=humor_only&t=now"
-          ]
-        }
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 32,
-          "title": "일본 마운자로 전문병원 근황.jpg",
-          "url": "https://www.clien.net/service/board/park/19272975?od=T31&po=0&category=0&groupCd=",
-          "score": 65.78
-        },
-        {
-          "source": "루리웹",
-          "rank": 45,
-          "title": "마운자로 3일차",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/76890509?m=humor_only&t=now",
-          "score": 61.54
-        }
-      ]
-    },
     "i879d3e36": {
       "id": "i879d3e36",
       "first_seen": "2026-09-28T19:49:36.308484+09:00",
@@ -15734,5 +16074,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-08T13:29:25.370320+09:00"
+  "updated_at": "2026-10-08T19:25:19.235438+09:00"
 }
