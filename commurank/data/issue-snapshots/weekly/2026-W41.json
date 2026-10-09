@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W41",
   "label": "2026.10.05 ~ 10.11",
-  "collected_at": "2026-10-10T06:11:57.425375+09:00",
+  "collected_at": "2026-10-10T06:41:57.619157+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -490,6 +490,45 @@
       "change": 0
     },
     {
+      "id": "i039fd79c",
+      "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "이재명"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 115.3,
+      "peak_score": 96.31,
+      "appearances": 10,
+      "sources": [
+        "뽐뿌",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 8,
+          "title": "이재명 대통령의 현재 상황",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2738366",
+          "score": 83.2
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 51,
+          "title": "이재명 임기는 1년남았다봐야죠",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10147314",
+          "score": 60.71
+        }
+      ],
+      "first_seen": "2026-09-27T13:38:37.715424+09:00",
+      "last_seen": "2026-10-10T06:41:57.619157+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 3,
+      "rank": 13,
+      "change": 1
+    },
+    {
       "id": "i7b918478",
       "title": "‘일본에서’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -524,47 +563,8 @@
       "last_seen": "2026-10-05T06:40:10.175480+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 13,
-      "change": 0
-    },
-    {
-      "id": "i039fd79c",
-      "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "이재명"
-      ],
-      "source_count": 2,
-      "post_count": 3,
-      "score": 114.82,
-      "peak_score": 96.31,
-      "appearances": 9,
-      "sources": [
-        "뽐뿌",
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 5,
-          "title": "이재명 대통령의 현재 상황",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2738366",
-          "score": 86.31
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 19,
-          "title": "이재명 임기는 1년남았다봐야죠",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10147314",
-          "score": 72.5
-        }
-      ],
-      "first_seen": "2026-09-27T13:38:37.715424+09:00",
-      "last_seen": "2026-10-10T06:11:57.425375+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 3,
       "rank": 14,
-      "change": "NEW"
+      "change": -1
     },
     {
       "id": "i64779620",
@@ -605,7 +605,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 15,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i0cd78725",
@@ -649,7 +649,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 16,
-      "change": -1
+      "change": 0
     },
     {
       "id": "ifba08ae4",
@@ -688,7 +688,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 17,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i8213e5c0",
@@ -728,7 +728,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 18,
-      "change": -1
+      "change": 0
     },
     {
       "id": "idcd59a51",
@@ -768,7 +768,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 19,
-      "change": -1
+      "change": 0
     },
     {
       "id": "if8890818",
@@ -806,7 +806,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 20,
-      "change": -1
+      "change": 0
     }
   ]
 }
