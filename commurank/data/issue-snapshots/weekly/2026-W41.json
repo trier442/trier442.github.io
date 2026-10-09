@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W41",
   "label": "2026.10.05 ~ 10.11",
-  "collected_at": "2026-10-09T18:34:09.825495+09:00",
+  "collected_at": "2026-10-09T19:32:06.514270+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -528,6 +528,47 @@
       "change": 0
     },
     {
+      "id": "i64779620",
+      "title": "스페인 강제 퇴거 할머니 사망.jpg",
+      "keywords": [
+        "퇴거",
+        "사망",
+        "강제",
+        "할머니"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 114.49,
+      "peak_score": 105.02,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 2,
+          "title": "스페인 강제 퇴거 할머니 사망.jpg",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76964959?m=humor",
+          "score": 97.02
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 23,
+          "title": "sbs) '강제 퇴거' 할머니 끝내 사망...스페인사람들 더 커진 분노",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469095&_dcbest=1&page=1",
+          "score": 67.62
+        }
+      ],
+      "first_seen": "2026-10-09T19:32:06.514270+09:00",
+      "last_seen": "2026-10-09T19:32:06.514270+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 14,
+      "change": "NEW"
+    },
+    {
       "id": "i0cd78725",
       "title": "속보)국방부 \"예술체육요원 포함 보충역 감축·폐지 궁극적 추진\"",
       "keywords": [
@@ -568,8 +609,8 @@
       "last_seen": "2026-10-06T17:53:04.817970+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 14,
-      "change": 0
+      "rank": 15,
+      "change": -1
     },
     {
       "id": "ifba08ae4",
@@ -607,8 +648,8 @@
       "last_seen": "2026-10-08T13:29:25.370320+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 15,
-      "change": 0
+      "rank": 16,
+      "change": -1
     },
     {
       "id": "i8213e5c0",
@@ -647,8 +688,8 @@
       "last_seen": "2026-10-07T22:36:17.172132+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 16,
-      "change": 0
+      "rank": 17,
+      "change": -1
     },
     {
       "id": "if8890818",
@@ -685,8 +726,8 @@
       "last_seen": "2026-10-07T22:36:17.172132+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 17,
-      "change": 0
+      "rank": 18,
+      "change": -1
     },
     {
       "id": "i51a99cec",
@@ -723,8 +764,8 @@
       "last_seen": "2026-10-07T05:37:53.772123+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 18,
-      "change": 0
+      "rank": 19,
+      "change": -1
     },
     {
       "id": "i8b4085e0",
@@ -763,46 +804,8 @@
       "last_seen": "2026-10-05T15:44:40.983153+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 19,
-      "change": 0
-    },
-    {
-      "id": "i5d6688ff",
-      "title": "‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "네이버페이"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 111.41,
-      "peak_score": 99.92,
-      "appearances": 2,
-      "sources": [
-        "루리웹",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 4,
-          "title": "[네이버페이] 일일적립, 클릭 48원, 라이브예고 9원",
-          "url": "https://bbs.ruliweb.com/market/board/1020/read/107820",
-          "score": 90.92
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 95,
-          "title": "[란123] 네이버페이 75원 + 랜덤 포인트 받으세요 (+기타 293원)",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10144458",
-          "score": 51.46
-        }
-      ],
-      "first_seen": "2026-09-28T07:08:45.324597+09:00",
-      "last_seen": "2026-10-07T05:37:53.772123+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 20,
-      "change": 0
+      "change": -1
     }
   ]
 }
