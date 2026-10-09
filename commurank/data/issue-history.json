@@ -1,6 +1,159 @@
 {
   "version": 1,
   "issues": {
+    "i123ff185": {
+      "id": "i123ff185",
+      "first_seen": "2026-10-10T01:31:43.299348+09:00",
+      "last_seen": "2026-10-10T02:11:16.952147+09:00",
+      "title": "‘페이스북’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "페이스북"
+      ],
+      "points": [
+        {
+          "at": "2026-10-10T01:31:43.299348+09:00",
+          "source_count": 2,
+          "post_count": 3,
+          "score": 84.89,
+          "sources": [
+            "뽐뿌",
+            "인벤"
+          ],
+          "post_urls": [
+            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10147176",
+            "https://www.inven.co.kr/board/webzine/2097/2738335"
+          ]
+        },
+        {
+          "at": "2026-10-10T02:11:16.952147+09:00",
+          "source_count": 2,
+          "post_count": 3,
+          "score": 74.31,
+          "sources": [
+            "뽐뿌",
+            "인벤"
+          ],
+          "post_urls": [
+            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10147176",
+            "https://www.inven.co.kr/board/webzine/2097/2738335"
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 29,
+          "title": "김창록 교수 페이스북.jpg",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10147176",
+          "score": 64.31
+        },
+        {
+          "source": "인벤",
+          "rank": 60,
+          "title": "박은정 의원 페이스북",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2738335",
+          "score": 58.82
+        }
+      ]
+    },
+    "icfb7b12b": {
+      "id": "icfb7b12b",
+      "first_seen": "2026-10-09T08:20:24.501214+09:00",
+      "last_seen": "2026-10-10T02:11:16.952147+09:00",
+      "title": "‘해리포터’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "해리포터"
+      ],
+      "points": [
+        {
+          "at": "2026-10-09T08:20:24.501214+09:00",
+          "source_count": 2,
+          "post_count": 3,
+          "score": 82.76,
+          "sources": [
+            "루리웹",
+            "인벤"
+          ],
+          "post_urls": [
+            "https://www.inven.co.kr/board/webzine/2097/2737986",
+            "https://bbs.ruliweb.com/best/board/300143/read/76960466?m=humor_only&t=now"
+          ]
+        },
+        {
+          "at": "2026-10-10T02:11:16.952147+09:00",
+          "source_count": 2,
+          "post_count": 3,
+          "score": 67.73,
+          "sources": [
+            "디시인사이드",
+            "루리웹"
+          ],
+          "post_urls": [
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=469169&_dcbest=1&page=1",
+            "https://bbs.ruliweb.com/best/board/300143/read/76971030?m=humor_only&t=now"
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 64,
+          "title": "해리포터 드라마판 해리 배우 근황.jpg",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469169&_dcbest=1&page=1",
+          "score": 57.73
+        },
+        {
+          "source": "루리웹",
+          "rank": 90,
+          "title": "해리포터) 말포이는 뒤가 약한가?",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76971030?m=humor_only&t=now",
+          "score": 52.14
+        }
+      ]
+    },
+    "i3eade1a8": {
+      "id": "i3eade1a8",
+      "first_seen": "2026-10-10T02:11:16.952147+09:00",
+      "last_seen": "2026-10-10T02:11:16.952147+09:00",
+      "title": "[스팀] 플라이오버! 100KM (무료/무료)",
+      "keywords": [
+        "무료",
+        "스팀",
+        "100km"
+      ],
+      "points": [
+        {
+          "at": "2026-10-10T02:11:16.952147+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 87.19,
+          "sources": [
+            "루리웹",
+            "뽐뿌"
+          ],
+          "post_urls": [
+            "https://bbs.ruliweb.com/market/board/1020/read/107903",
+            "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=739023"
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 7,
+          "title": "[스팀] 플라이오버! 100KM (무료/무료)",
+          "url": "https://bbs.ruliweb.com/market/board/1020/read/107903",
+          "score": 79.19
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 68,
+          "title": "[스팀] (유료화 예정) 비행! 100KM! 산맥! (무료/무료)",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=739023",
+          "score": 57.07
+        }
+      ]
+    },
     "idcd59a51": {
       "id": "idcd59a51",
       "first_seen": "2026-09-29T18:03:51.886668+09:00",
@@ -55,47 +208,6 @@
           "title": "안싱글벙글 오늘자 고속도로 사망사고",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469177&_dcbest=1&page=1",
           "score": 81.96
-        }
-      ]
-    },
-    "i123ff185": {
-      "id": "i123ff185",
-      "first_seen": "2026-10-10T01:31:43.299348+09:00",
-      "last_seen": "2026-10-10T01:31:43.299348+09:00",
-      "title": "‘페이스북’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "페이스북"
-      ],
-      "points": [
-        {
-          "at": "2026-10-10T01:31:43.299348+09:00",
-          "source_count": 2,
-          "post_count": 3,
-          "score": 84.89,
-          "sources": [
-            "뽐뿌",
-            "인벤"
-          ],
-          "post_urls": [
-            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10147176",
-            "https://www.inven.co.kr/board/webzine/2097/2738335"
-          ]
-        }
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 9,
-          "title": "김창록 교수 페이스북.jpg",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10147176",
-          "score": 74.89
-        },
-        {
-          "source": "인벤",
-          "rank": 12,
-          "title": "박은정 의원 페이스북",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2738335",
-          "score": 73.4
         }
       ]
     },
@@ -1603,47 +1715,6 @@
           "title": "손흥민, 이 상황에서도 계속 주장 맡고 싶을까'…이강인 하극상·인터뷰 보이콧·홍명보 갈등설, 이번엔 96라인까지 손흥민 리더십 문제 제기?",
           "url": "https://www.inven.co.kr/board/webzine/2097/2737987",
           "score": 68.68
-        }
-      ]
-    },
-    "icfb7b12b": {
-      "id": "icfb7b12b",
-      "first_seen": "2026-10-09T08:20:24.501214+09:00",
-      "last_seen": "2026-10-09T08:20:24.501214+09:00",
-      "title": "‘해리포터’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "해리포터"
-      ],
-      "points": [
-        {
-          "at": "2026-10-09T08:20:24.501214+09:00",
-          "source_count": 2,
-          "post_count": 3,
-          "score": 82.76,
-          "sources": [
-            "루리웹",
-            "인벤"
-          ],
-          "post_urls": [
-            "https://www.inven.co.kr/board/webzine/2097/2737986",
-            "https://bbs.ruliweb.com/best/board/300143/read/76960466?m=humor_only&t=now"
-          ]
-        }
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 19,
-          "title": "해리포터 짜치는 부분",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2737986",
-          "score": 72.76
-        },
-        {
-          "source": "루리웹",
-          "rank": 83,
-          "title": "해리포터) 순수한 호의를 거절당한 말포이",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/76960466?m=humor_only&t=now",
-          "score": 54.27
         }
       ]
     },
@@ -17529,5 +17600,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-10T01:31:43.299348+09:00"
+  "updated_at": "2026-10-10T02:11:16.952147+09:00"
 }
