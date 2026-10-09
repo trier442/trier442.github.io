@@ -2,19 +2,19 @@
   "version": 1,
   "date": "2026-10-10",
   "label": "2026년 10월 10일",
-  "collected_at": "2026-10-10T02:11:16.952147+09:00",
+  "collected_at": "2026-10-10T06:11:57.425375+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘오늘자 고속도로 제네시스 추돌 사망사고.jpg’입니다. 실시간 키워드 상위: #무료. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘오늘자 고속도로 제네시스 추돌 사망사고.jpg’입니다. 실시간 키워드 상위: #한국. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 6,
     "cached_sources": 0,
     "realtime_posts": 100,
     "daily_posts": 100,
-    "daily_issues": 4,
-    "keywords": 14,
-    "top100_views": 783304,
-    "top100_comments": 9247
+    "daily_issues": 7,
+    "keywords": 20,
+    "top100_views": 945648,
+    "top100_comments": 10456
   },
   "highlights": [
     {
@@ -25,18 +25,36 @@
     },
     {
       "type": "post",
-      "title": "\"한국사회는 다문화가 아니라 만달로어식을 원한다.\"",
+      "title": "속보) 트럼프, 노벨평화상 발표 이후 보복조치 ㅋㅋ",
       "text": "루리웹에서 현재 상위권에 오른 인기글입니다.",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76967664?m=humor"
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76970463?m=humor"
     },
     {
       "type": "keyword",
-      "title": "#무료",
-      "text": "3개 커뮤니티 · 6개 인기글에서 함께 등장했습니다.",
-      "keyword": "무료"
+      "title": "#한국",
+      "text": "4개 커뮤니티 · 4개 인기글에서 함께 등장했습니다.",
+      "keyword": "한국"
     }
   ],
   "top_posts": [
+    {
+      "title": "속보) 트럼프, 노벨평화상 발표 이후 보복조치 ㅋㅋ",
+      "source": "루리웹",
+      "category": "유머",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76970463?m=humor",
+      "first_seen": "2026-10-10T06:11:57.425375+09:00",
+      "last_seen": "2026-10-10T06:11:57.425375+09:00",
+      "peak_score": 98.51,
+      "max_views": 16037,
+      "max_likes": 143,
+      "max_comments": 52,
+      "appearances": 1,
+      "score": 107.9,
+      "views": 16037,
+      "likes": 143,
+      "comments": 52,
+      "change": "NEW"
+    },
     {
       "title": "\"한국사회는 다문화가 아니라 만달로어식을 원한다.\"",
       "source": "루리웹",
@@ -49,11 +67,29 @@
       "max_likes": 108,
       "max_comments": 125,
       "appearances": 1,
-      "score": 106.83,
+      "score": 106.49,
       "views": 16601,
       "likes": 108,
       "comments": 125,
-      "change": "NEW"
+      "change": -1
+    },
+    {
+      "title": "국내 ps5유저 규모",
+      "source": "루리웹",
+      "category": "게임",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76970731?m=humor",
+      "first_seen": "2026-10-10T01:31:43.299348+09:00",
+      "last_seen": "2026-10-10T06:11:57.425375+09:00",
+      "peak_score": 96.18,
+      "max_views": 14587,
+      "max_likes": 134,
+      "max_comments": 156,
+      "appearances": 2,
+      "score": 106.38,
+      "views": 14587,
+      "likes": 134,
+      "comments": 156,
+      "change": 2
     },
     {
       "title": "오늘자 고속도로 제네시스 추돌 사망사고.jpg",
@@ -67,11 +103,11 @@
       "max_likes": 50,
       "max_comments": 111,
       "appearances": 1,
-      "score": 105.37,
+      "score": 105.04,
       "views": 15494,
       "likes": 50,
       "comments": 111,
-      "change": -1
+      "change": -2
     },
     {
       "title": "국내 자동차 시장 근황",
@@ -85,11 +121,29 @@
       "max_likes": 60,
       "max_comments": 83,
       "appearances": 1,
-      "score": 105.1,
+      "score": 104.77,
       "views": 21893,
       "likes": 60,
       "comments": 83,
-      "change": -1
+      "change": -2
+    },
+    {
+      "title": "한국 군필자, \"포를 쏘고 바로 덮는건 비현실적\"",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76971188?m=humor",
+      "first_seen": "2026-10-10T06:11:57.425375+09:00",
+      "last_seen": "2026-10-10T06:11:57.425375+09:00",
+      "peak_score": 93.82,
+      "max_views": 15482,
+      "max_likes": 132,
+      "max_comments": 53,
+      "appearances": 1,
+      "score": 103.21,
+      "views": 15482,
+      "likes": 132,
+      "comments": 53,
+      "change": "NEW"
     },
     {
       "title": "너무 억울해서 제보한 교통사고",
@@ -103,29 +157,29 @@
       "max_likes": 78,
       "max_comments": 74,
       "appearances": 1,
-      "score": 103.23,
+      "score": 102.89,
       "views": 14698,
       "likes": 78,
       "comments": 74,
-      "change": "NEW"
+      "change": -3
     },
     {
-      "title": "국내 ps5유저 규모",
-      "source": "루리웹",
-      "category": "게임",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76970731?m=humor",
-      "first_seen": "2026-10-10T01:31:43.299348+09:00",
-      "last_seen": "2026-10-10T01:31:43.299348+09:00",
-      "peak_score": 91.34,
-      "max_views": 4615,
-      "max_likes": 73,
-      "max_comments": 69,
-      "appearances": 1,
-      "score": 100.67,
-      "views": 4615,
-      "likes": 73,
-      "comments": 69,
-      "change": -2
+      "title": "애 아빠가 바람을 피웠는데 애 엄마가 친권 못 받음.jpg",
+      "source": "디시인사이드",
+      "category": "이슈",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469187&_dcbest=1&page=1",
+      "first_seen": "2026-10-10T02:11:16.952147+09:00",
+      "last_seen": "2026-10-10T06:11:57.425375+09:00",
+      "peak_score": 91.27,
+      "max_views": 20429,
+      "max_likes": 164,
+      "max_comments": 244,
+      "appearances": 2,
+      "score": 101.47,
+      "views": 20429,
+      "likes": 164,
+      "comments": 244,
+      "change": 2
     },
     {
       "title": "2027년에 애니화하는 한국작품 원작",
@@ -139,11 +193,11 @@
       "max_likes": 25,
       "max_comments": 69,
       "appearances": 1,
-      "score": 100.43,
+      "score": 100.09,
       "views": 14875,
       "likes": 25,
       "comments": 69,
-      "change": "NEW"
+      "change": -3
     },
     {
       "title": "안싱글벙글 오늘자 고속도로 사망사고",
@@ -151,203 +205,129 @@
       "category": "이슈",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469177&_dcbest=1&page=1",
       "first_seen": "2026-10-10T01:31:43.299348+09:00",
-      "last_seen": "2026-10-10T02:11:16.952147+09:00",
-      "peak_score": 84.63,
-      "max_views": 19053,
-      "max_likes": 44,
-      "max_comments": 372,
-      "appearances": 2,
-      "score": 94.83,
-      "views": 19053,
-      "likes": 44,
-      "comments": 372,
-      "change": -1
-    },
-    {
-      "title": "[네이버페이] 일일적립, 클릭 42원, 라이브예고 1원",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/market/board/1020/read/107909",
-      "first_seen": "2026-10-10T01:31:43.299348+09:00",
-      "last_seen": "2026-10-10T01:31:43.299348+09:00",
-      "peak_score": 84.4,
-      "max_views": 5278,
-      "max_likes": 71,
-      "max_comments": 11,
-      "appearances": 1,
-      "score": 93.73,
-      "views": 5278,
-      "likes": 71,
-      "comments": 11,
-      "change": -4
-    },
-    {
-      "title": "싱글벙글 26살 중국 해커한테 털려버린 국내 은행들",
-      "source": "디시인사이드",
-      "category": "이슈",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469107&_dcbest=1&page=1",
-      "first_seen": "2026-10-09T19:32:06.514270+09:00",
-      "last_seen": "2026-10-10T02:11:16.952147+09:00",
-      "peak_score": 82.73,
-      "max_views": 20145,
-      "max_likes": 257,
-      "max_comments": 291,
+      "last_seen": "2026-10-10T06:11:57.425375+09:00",
+      "peak_score": 86.27,
+      "max_views": 27908,
+      "max_likes": 65,
+      "max_comments": 469,
       "appearances": 3,
-      "score": 93.5,
-      "views": 20145,
-      "likes": 257,
-      "comments": 291,
-      "change": -4
-    },
-    {
-      "title": "애 아빠가 바람을 피웠는데 애 엄마가 친권 못 받음.jpg",
-      "source": "디시인사이드",
-      "category": "이슈",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469187&_dcbest=1&page=1",
-      "first_seen": "2026-10-10T02:11:16.952147+09:00",
-      "last_seen": "2026-10-10T02:11:16.952147+09:00",
-      "peak_score": 83.92,
-      "max_views": 13115,
-      "max_likes": 107,
-      "max_comments": 122,
-      "appearances": 1,
-      "score": 93.31,
-      "views": 13115,
-      "likes": 107,
-      "comments": 122,
-      "change": "NEW"
+      "score": 97.04,
+      "views": 27908,
+      "likes": 65,
+      "comments": 469,
+      "change": -3
     }
   ],
   "rising": [
+    {
+      "source": "클리앙",
+      "title": "[속보/AP] 미국, ICC에 전면제제 선포. 노벨평화상 수상에 화났나?",
+      "url": "https://www.clien.net/service/board/park/19275590?od=T31&po=0&category=0&groupCd=",
+      "category": "이슈",
+      "views": 3222,
+      "likes": 0,
+      "comments": 2,
+      "score": 58.14,
+      "change": 0,
+      "current_rank": 68,
+      "new_entry": false,
+      "delta_views": 2424,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 93.75,
+      "rising_rank": 1,
+      "window_minutes": 241
+    },
+    {
+      "source": "디시인사이드",
+      "title": "안싱글벙글 오늘자 고속도로 사망사고",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469177&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 27908,
+      "likes": 65,
+      "comments": 469,
+      "score": 86.27,
+      "change": 0,
+      "current_rank": 6,
+      "new_entry": false,
+      "delta_views": 8855,
+      "delta_likes": 21,
+      "delta_comments": 97,
+      "rank_gain": 0,
+      "rising_score": 90.81,
+      "rising_rank": 2,
+      "window_minutes": 241
+    },
     {
       "source": "디시인사이드",
       "title": "싱글벙글 애낳고 sns하면 안되는 이유",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469149&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 27450,
-      "likes": 237,
-      "comments": 542,
-      "score": 75.46,
+      "views": 32549,
+      "likes": 296,
+      "comments": 630,
+      "score": 76.28,
       "change": 0,
-      "current_rank": 9,
+      "current_rank": 12,
       "new_entry": false,
-      "delta_views": 1647,
-      "delta_likes": 15,
-      "delta_comments": 31,
+      "delta_views": 5099,
+      "delta_likes": 59,
+      "delta_comments": 88,
       "rank_gain": 0,
-      "rising_score": 91.15,
-      "rising_rank": 1,
-      "window_minutes": 40
+      "rising_score": 88.68,
+      "rising_rank": 3,
+      "window_minutes": 241
     },
     {
-      "source": "더쿠",
-      "title": "열애설 터지고 전시회 취소해서 욕 먹은 탑 20년 팬사이트 탈덕문",
-      "url": "https://theqoo.net/hot/4370468270",
+      "source": "디시인사이드",
+      "title": "애 아빠가 바람을 피웠는데 애 엄마가 친권 못 받음.jpg",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469187&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 22766,
-      "likes": 0,
-      "comments": 229,
-      "score": 74.68,
-      "change": 20,
-      "current_rank": 10,
+      "views": 20429,
+      "likes": 164,
+      "comments": 244,
+      "score": 91.27,
+      "change": 1,
+      "current_rank": 4,
       "new_entry": false,
-      "delta_views": 12364,
-      "delta_likes": 0,
-      "delta_comments": 117,
-      "rank_gain": 20,
-      "rising_score": 90.48,
-      "rising_rank": 2,
-      "window_minutes": 40
+      "delta_views": 7314,
+      "delta_likes": 57,
+      "delta_comments": 122,
+      "rank_gain": 1,
+      "rising_score": 86.69,
+      "rising_rank": 4,
+      "window_minutes": 241
     },
     {
       "source": "클리앙",
       "title": "솔직히 100세시대 현실성 없는거 같아요",
       "url": "https://www.clien.net/service/board/park/19275589?od=T31&po=0&category=0&groupCd=",
       "category": "이슈",
-      "views": 1053,
+      "views": 2824,
       "likes": 0,
-      "comments": 10,
-      "score": 74.15,
+      "comments": 19,
+      "score": 72.07,
       "change": 0,
-      "current_rank": 11,
+      "current_rank": 21,
       "new_entry": false,
-      "delta_views": 564,
+      "delta_views": 1771,
       "delta_likes": 0,
-      "delta_comments": 4,
+      "delta_comments": 9,
       "rank_gain": 0,
-      "rising_score": 89.42,
-      "rising_rank": 3,
-      "window_minutes": 40
-    },
-    {
-      "source": "인벤",
-      "title": "간호사 ㅊㅈ",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2738338",
-      "category": "유머",
-      "views": 2418,
-      "likes": 0,
-      "comments": 8,
-      "score": 60.58,
-      "change": 0,
-      "current_rank": 55,
-      "new_entry": false,
-      "delta_views": 695,
-      "delta_likes": 0,
-      "delta_comments": 3,
-      "rank_gain": 0,
-      "rising_score": 86.92,
-      "rising_rank": 4,
-      "window_minutes": 40
-    },
-    {
-      "source": "디시인사이드",
-      "title": "안싱글벙글 오늘자 고속도로 사망사고",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469177&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 19053,
-      "likes": 44,
-      "comments": 372,
-      "score": 84.63,
-      "change": 1,
-      "current_rank": 4,
-      "new_entry": false,
-      "delta_views": 5653,
-      "delta_likes": 13,
-      "delta_comments": 92,
-      "rank_gain": 1,
-      "rising_score": 85.79,
+      "rising_score": 83.94,
       "rising_rank": 5,
-      "window_minutes": 40
-    },
-    {
-      "source": "디시인사이드",
-      "title": "다음달 국내개봉하는 고소공포층 유발하는 신작호러영화 근황.jpg",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469179&_dcbest=1&page=1",
-      "category": "연예",
-      "views": 4845,
-      "likes": 17,
-      "comments": 86,
-      "score": 62.76,
-      "change": 14,
-      "current_rank": 35,
-      "new_entry": false,
-      "delta_views": 1909,
-      "delta_likes": 5,
-      "delta_comments": 25,
-      "rank_gain": 14,
-      "rising_score": 83.93,
-      "rising_rank": 6,
-      "window_minutes": 40
+      "window_minutes": 241
     },
     {
       "source": "루리웹",
-      "title": "\"한국사회는 다문화가 아니라 만달로어식을 원한다.\"",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76967664?m=humor",
-      "category": "이슈",
-      "views": 16601,
-      "likes": 108,
-      "comments": 125,
-      "score": 97.44,
+      "title": "속보) 트럼프, 노벨평화상 발표 이후 보복조치 ㅋㅋ",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76970463?m=humor",
+      "category": "유머",
+      "views": 16037,
+      "likes": 143,
+      "comments": 52,
+      "score": 98.51,
       "change": "NEW",
       "current_rank": 1,
       "new_entry": true,
@@ -355,19 +335,39 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.92,
+      "rising_score": 83.37,
+      "rising_rank": 6,
+      "window_minutes": 241
+    },
+    {
+      "source": "더쿠",
+      "title": "한국식 돈까스집이 줄어가는게 싫은 사람",
+      "url": "https://theqoo.net/hot/4370489852",
+      "category": "생활",
+      "views": 24376,
+      "likes": 0,
+      "comments": 216,
+      "score": 71.68,
+      "change": 0,
+      "current_rank": 22,
+      "new_entry": false,
+      "delta_views": 18048,
+      "delta_likes": 0,
+      "delta_comments": 134,
+      "rank_gain": 0,
+      "rising_score": 82.97,
       "rising_rank": 7,
-      "window_minutes": 40
+      "window_minutes": 241
     },
     {
       "source": "루리웹",
-      "title": "너무 억울해서 제보한 교통사고",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76969776?m=humor",
-      "category": "이슈",
-      "views": 14698,
-      "likes": 78,
-      "comments": 74,
-      "score": 93.84,
+      "title": "국내 ps5유저 규모",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76970731?m=humor",
+      "category": "게임",
+      "views": 14587,
+      "likes": 134,
+      "comments": 156,
+      "score": 96.18,
       "change": "NEW",
       "current_rank": 2,
       "new_entry": true,
@@ -375,19 +375,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 81.41,
+      "rising_score": 82.4,
       "rising_rank": 8,
-      "window_minutes": 40
+      "window_minutes": 241
     },
     {
       "source": "루리웹",
-      "title": "2027년에 애니화하는 한국작품 원작",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76969359?m=humor",
+      "title": "한국 군필자, \"포를 쏘고 바로 덮는건 비현실적\"",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76971188?m=humor",
       "category": "이슈",
-      "views": 14875,
-      "likes": 25,
-      "comments": 69,
-      "score": 91.04,
+      "views": 15482,
+      "likes": 132,
+      "comments": 53,
+      "score": 93.82,
       "change": "NEW",
       "current_rank": 3,
       "new_entry": true,
@@ -395,29 +395,29 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 80.24,
+      "rising_score": 81.4,
       "rising_rank": 9,
-      "window_minutes": 40
+      "window_minutes": 241
     },
     {
-      "source": "디시인사이드",
-      "title": "해리포터 드라마판 해리 배우 근황.jpg",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469169&_dcbest=1&page=1",
-      "category": "연예",
-      "views": 8404,
+      "source": "인벤",
+      "title": "이재명 대통령의 현재 상황",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2738366",
+      "category": "이슈",
+      "views": 3069,
       "likes": 8,
-      "comments": 84,
-      "score": 57.73,
-      "change": 0,
-      "current_rank": 64,
-      "new_entry": false,
-      "delta_views": 1372,
+      "comments": 65,
+      "score": 86.31,
+      "change": "NEW",
+      "current_rank": 5,
+      "new_entry": true,
+      "delta_views": 0,
       "delta_likes": 0,
-      "delta_comments": 13,
+      "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 79.66,
+      "rising_score": 78.25,
       "rising_rank": 10,
-      "window_minutes": 40
+      "window_minutes": 241
     }
   ],
   "issues": [
@@ -462,6 +462,44 @@
       "change": 0
     },
     {
+      "id": "i039fd79c",
+      "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "이재명"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 106.78,
+      "peak_score": 96.31,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 5,
+          "title": "이재명 대통령의 현재 상황",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2738366",
+          "score": 86.31
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 19,
+          "title": "이재명 임기는 1년남았다봐야죠",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10147314",
+          "score": 72.5
+        }
+      ],
+      "first_seen": "2026-09-27T13:38:37.715424+09:00",
+      "last_seen": "2026-10-10T06:11:57.425375+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 3,
+      "rank": 2,
+      "change": "NEW"
+    },
+    {
       "id": "i123ff185",
       "title": "‘페이스북’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -496,8 +534,8 @@
       "last_seen": "2026-10-10T02:11:16.952147+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 2,
-      "change": 0
+      "rank": 3,
+      "change": -1
     },
     {
       "id": "i3eade1a8",
@@ -536,7 +574,88 @@
       "last_seen": "2026-10-10T02:11:16.952147+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 3,
+      "rank": 4,
+      "change": -1
+    },
+    {
+      "id": "iae209e51",
+      "title": "‘충격적인’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "충격적인"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 90.98,
+      "peak_score": 81.51,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 18,
+          "title": "새벽에 빵구우려 했다가 충격적인? 댓글을 봤네요.txt",
+          "url": "https://www.clien.net/service/board/park/19275602?od=T31&po=0&category=0&groupCd=",
+          "score": 72.51
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 33,
+          "title": "충격적인) 위고비 마운자로 최근 연구결과 정리 ㄷㄷ..jpg",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10147313",
+          "score": 67.7
+        }
+      ],
+      "first_seen": "2026-10-10T06:11:57.425375+09:00",
+      "last_seen": "2026-10-10T06:11:57.425375+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 5,
+      "change": "NEW"
+    },
+    {
+      "id": "i0118d867",
+      "title": "노벨평화상 발표 직후…美, ICC 제재 “산산조각 캠페인 계속”",
+      "keywords": [
+        "노벨평화상",
+        "산산조각",
+        "캠페인",
+        "직후",
+        "계속",
+        "icc"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 83.78,
+      "peak_score": 74.31,
+      "appearances": 1,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 36,
+          "title": "노벨평화상 발표 직후…美, ICC 제재 “산산조각 캠페인 계속”",
+          "url": "https://www.clien.net/service/board/park/19275596?od=T31&po=0&category=0&groupCd=",
+          "score": 66.31
+        },
+        {
+          "source": "인벤",
+          "rank": 57,
+          "title": "노벨평화상 발표 직후…美, ICC 제재 “산산조각 캠페인 계속”",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2738367",
+          "score": 60.77
+        }
+      ],
+      "first_seen": "2026-10-09T18:34:09.825495+09:00",
+      "last_seen": "2026-10-10T06:11:57.425375+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 6,
       "change": "NEW"
     },
     {
@@ -574,21 +693,21 @@
       "last_seen": "2026-10-10T02:11:16.952147+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 4,
-      "change": "NEW"
+      "rank": 7,
+      "change": -3
     }
   ],
   "realtime_issues": [
     {
-      "id": "i123ff185",
-      "title": "‘페이스북’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i039fd79c",
+      "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "페이스북"
+        "이재명"
       ],
       "source_count": 2,
       "post_count": 3,
-      "score": 74.31,
-      "peak_score": 74.31,
+      "score": 96.31,
+      "peak_score": 96.31,
       "appearances": 1,
       "sources": [
         "뽐뿌",
@@ -596,88 +715,91 @@
       ],
       "posts": [
         {
-          "source": "뽐뿌",
-          "rank": 29,
-          "title": "김창록 교수 페이스북.jpg",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10147176",
-          "score": 64.31
+          "source": "인벤",
+          "rank": 5,
+          "title": "이재명 대통령의 현재 상황",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2738366",
+          "score": 86.31
         },
         {
-          "source": "인벤",
-          "rank": 60,
-          "title": "박은정 의원 페이스북",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2738335",
-          "score": 58.82
+          "source": "뽐뿌",
+          "rank": 19,
+          "title": "이재명 임기는 1년남았다봐야죠",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10147314",
+          "score": 72.5
         }
       ],
       "rank": 1,
-      "change": 0
+      "change": "NEW"
     },
     {
-      "id": "icfb7b12b",
-      "title": "‘해리포터’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "iae209e51",
+      "title": "‘충격적인’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "해리포터"
+        "충격적인"
       ],
       "source_count": 2,
-      "post_count": 3,
-      "score": 67.73,
-      "peak_score": 67.73,
+      "post_count": 2,
+      "score": 81.51,
+      "peak_score": 81.51,
       "appearances": 1,
       "sources": [
-        "디시인사이드",
-        "루리웹"
+        "뽐뿌",
+        "클리앙"
       ],
       "posts": [
         {
-          "source": "디시인사이드",
-          "rank": 64,
-          "title": "해리포터 드라마판 해리 배우 근황.jpg",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469169&_dcbest=1&page=1",
-          "score": 57.73
+          "source": "클리앙",
+          "rank": 18,
+          "title": "새벽에 빵구우려 했다가 충격적인? 댓글을 봤네요.txt",
+          "url": "https://www.clien.net/service/board/park/19275602?od=T31&po=0&category=0&groupCd=",
+          "score": 72.51
         },
         {
-          "source": "루리웹",
-          "rank": 90,
-          "title": "해리포터) 말포이는 뒤가 약한가?",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/76971030?m=humor_only&t=now",
-          "score": 52.14
+          "source": "뽐뿌",
+          "rank": 33,
+          "title": "충격적인) 위고비 마운자로 최근 연구결과 정리 ㄷㄷ..jpg",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10147313",
+          "score": 67.7
         }
       ],
       "rank": 2,
       "change": "NEW"
     },
     {
-      "id": "i3eade1a8",
-      "title": "[스팀] 플라이오버! 100KM (무료/무료)",
+      "id": "i0118d867",
+      "title": "노벨평화상 발표 직후…美, ICC 제재 “산산조각 캠페인 계속”",
       "keywords": [
-        "무료",
-        "스팀",
-        "100km"
+        "노벨평화상",
+        "산산조각",
+        "캠페인",
+        "직후",
+        "계속",
+        "icc"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 87.19,
-      "peak_score": 87.19,
+      "score": 74.31,
+      "peak_score": 74.31,
       "appearances": 1,
       "sources": [
-        "루리웹",
-        "뽐뿌"
+        "인벤",
+        "클리앙"
       ],
       "posts": [
         {
-          "source": "루리웹",
-          "rank": 7,
-          "title": "[스팀] 플라이오버! 100KM (무료/무료)",
-          "url": "https://bbs.ruliweb.com/market/board/1020/read/107903",
-          "score": 79.19
+          "source": "클리앙",
+          "rank": 36,
+          "title": "노벨평화상 발표 직후…美, ICC 제재 “산산조각 캠페인 계속”",
+          "url": "https://www.clien.net/service/board/park/19275596?od=T31&po=0&category=0&groupCd=",
+          "score": 66.31
         },
         {
-          "source": "뽐뿌",
-          "rank": 68,
-          "title": "[스팀] (유료화 예정) 비행! 100KM! 산맥! (무료/무료)",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=739023",
-          "score": 57.07
+          "source": "인벤",
+          "rank": 57,
+          "title": "노벨평화상 발표 직후…美, ICC 제재 “산산조각 캠페인 계속”",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2738367",
+          "score": 60.77
         }
       ],
       "rank": 3,
@@ -686,140 +808,153 @@
   ],
   "keywords": [
     {
-      "keyword": "무료",
-      "score": 142.95,
-      "post_count": 6,
-      "source_count": 3,
-      "best_rank": 7,
+      "keyword": "한국",
+      "score": 154.27,
+      "post_count": 4,
+      "source_count": 4,
+      "best_rank": 3,
       "sources": [
+        "디시인사이드",
         "루리웹",
         "뽐뿌",
         "인벤"
       ],
       "aliases": [],
       "rank": 1,
-      "change": 6
+      "change": 1
     },
     {
-      "keyword": "한국",
-      "score": 112.86,
-      "post_count": 3,
+      "keyword": "이재명",
+      "score": 140.53,
+      "post_count": 4,
       "source_count": 3,
-      "best_rank": 42,
-      "sources": [
-        "더쿠",
-        "디시인사이드",
-        "인벤"
-      ],
-      "aliases": [],
-      "rank": 2,
-      "change": 7
-    },
-    {
-      "keyword": "엄마",
-      "score": 97.92,
-      "post_count": 2,
-      "source_count": 2,
       "best_rank": 5,
       "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "aliases": [],
-      "rank": 3,
-      "change": 11
-    },
-    {
-      "keyword": "100km",
-      "score": 96.87,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 7,
-      "sources": [
-        "루리웹",
-        "뽐뿌"
-      ],
-      "aliases": [
-        "스팀"
-      ],
-      "rank": 4,
-      "change": "NEW"
-    },
-    {
-      "keyword": "게임",
-      "score": 95.19,
-      "post_count": 3,
-      "source_count": 2,
-      "best_rank": 23,
-      "sources": [
+        "뽐뿌",
         "인벤",
         "클리앙"
       ],
       "aliases": [],
-      "rank": 5,
-      "change": 1
+      "rank": 2,
+      "change": "NEW"
     },
     {
-      "keyword": "평소",
-      "score": 94.83,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 17,
+      "keyword": "노벨평화상",
+      "score": 135.03,
+      "post_count": 4,
+      "source_count": 3,
+      "best_rank": 1,
       "sources": [
-        "더쿠",
-        "디시인사이드"
+        "루리웹",
+        "인벤",
+        "클리앙"
       ],
       "aliases": [],
-      "rank": 6,
-      "change": -2
+      "rank": 3,
+      "change": "NEW"
     },
     {
-      "keyword": "김영광",
-      "score": 94.17,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 17,
+      "keyword": "계속",
+      "score": 113.94,
+      "post_count": 3,
+      "source_count": 3,
+      "best_rank": 36,
       "sources": [
         "디시인사이드",
-        "뽐뿌"
+        "인벤",
+        "클리앙"
       ],
-      "aliases": [
-        "운전"
-      ],
-      "rank": 7,
-      "change": 1
+      "aliases": [],
+      "rank": 4,
+      "change": "NEW"
     },
     {
-      "keyword": "페이스북",
-      "score": 92.12,
-      "post_count": 3,
+      "keyword": "무료",
+      "score": 100.29,
+      "post_count": 4,
       "source_count": 2,
-      "best_rank": 29,
+      "best_rank": 31,
       "sources": [
         "뽐뿌",
         "인벤"
       ],
       "aliases": [],
-      "rank": 8,
-      "change": -5
+      "rank": 5,
+      "change": -4
     },
     {
-      "keyword": "고전",
-      "score": 88.1,
+      "keyword": "댓글",
+      "score": 97.21,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 23,
+      "best_rank": 18,
+      "sources": [
+        "뽐뿌",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 6,
+      "change": "NEW"
+    },
+    {
+      "keyword": "엄마",
+      "score": 96.92,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 4,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "aliases": [],
+      "rank": 7,
+      "change": -4
+    },
+    {
+      "keyword": "국내",
+      "score": 96.7,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 2,
       "sources": [
         "디시인사이드",
+        "루리웹"
+      ],
+      "aliases": [],
+      "rank": 8,
+      "change": "NEW"
+    },
+    {
+      "keyword": "충격적인",
+      "score": 96.45,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 18,
+      "sources": [
+        "뽐뿌",
         "클리앙"
       ],
       "aliases": [],
       "rank": 9,
-      "change": 3
+      "change": "NEW"
     },
     {
-      "keyword": "수상",
-      "score": 87.39,
+      "keyword": "게임",
+      "score": 92.65,
+      "post_count": 3,
+      "source_count": 2,
+      "best_rank": 31,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 10,
+      "change": -5
+    },
+    {
+      "keyword": "산산조각",
+      "score": 88.87,
       "post_count": 2,
       "source_count": 2,
       "best_rank": 36,
@@ -827,115 +962,120 @@
         "인벤",
         "클리앙"
       ],
-      "aliases": [],
-      "rank": 10,
-      "change": "NEW"
-    },
-    {
-      "keyword": "공무원",
-      "score": 87.33,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 30,
-      "sources": [
-        "디시인사이드",
-        "인벤"
+      "aliases": [
+        "icc",
+        "제재",
+        "직후",
+        "캠페인"
       ],
-      "aliases": [],
       "rank": 11,
       "change": "NEW"
     },
     {
-      "keyword": "스킬",
-      "score": 85.42,
+      "keyword": "평소",
+      "score": 88.22,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 56,
+      "best_rank": 30,
       "sources": [
-        "디시인사이드",
-        "클리앙"
+        "더쿠",
+        "디시인사이드"
       ],
       "aliases": [],
       "rank": 12,
-      "change": "NEW"
+      "change": -6
     },
     {
-      "keyword": "해리포터",
-      "score": 83.98,
-      "post_count": 3,
+      "keyword": "새벽",
+      "score": 87.85,
+      "post_count": 2,
       "source_count": 2,
-      "best_rank": 64,
+      "best_rank": 18,
       "sources": [
-        "디시인사이드",
-        "루리웹"
+        "루리웹",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 13,
       "change": "NEW"
     },
     {
-      "keyword": "의원",
-      "score": 82.97,
+      "keyword": "스킬",
+      "score": 84.87,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 60,
+      "best_rank": 52,
       "sources": [
         "디시인사이드",
-        "인벤"
+        "클리앙"
       ],
       "aliases": [],
       "rank": 14,
-      "change": -3
+      "change": -2
+    },
+    {
+      "keyword": "ai",
+      "score": 82.57,
+      "post_count": 3,
+      "source_count": 2,
+      "best_rank": 77,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "aliases": [],
+      "rank": 15,
+      "change": "NEW"
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "\"한국사회는 다문화가 아니라 만달로어식을 원한다.\"",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76967664?m=humor",
-      "score": 97.44,
-      "views": 16601,
-      "comments": 125
+      "title": "속보) 트럼프, 노벨평화상 발표 이후 보복조치 ㅋㅋ",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76970463?m=humor",
+      "score": 98.51,
+      "views": 16037,
+      "comments": 52
     },
     {
       "source": "디시인사이드",
-      "title": "안싱글벙글 오늘자 고속도로 사망사고",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469177&_dcbest=1&page=1",
-      "score": 84.63,
-      "views": 19053,
-      "comments": 372
-    },
-    {
-      "source": "뽐뿌",
-      "title": "4천억 체납 1위가 갑자기 세금 내는 이유",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=22773",
-      "score": 82.45,
-      "views": 10016,
-      "comments": 26
-    },
-    {
-      "source": "클리앙",
-      "title": "유튜버 침착맨 발언 어떻게 생각하나요",
-      "url": "https://www.clien.net/service/board/park/19275575?od=T31&po=0&category=0&groupCd=",
-      "score": 76.15,
-      "views": 3451,
-      "comments": 13
-    },
-    {
-      "source": "더쿠",
-      "title": "열애설 터지고 전시회 취소해서 욕 먹은 탑 20년 팬사이트 탈덕문",
-      "url": "https://theqoo.net/hot/4370468270",
-      "score": 74.68,
-      "views": 22766,
-      "comments": 229
+      "title": "애 아빠가 바람을 피웠는데 애 엄마가 친권 못 받음.jpg",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469187&_dcbest=1&page=1",
+      "score": 91.27,
+      "views": 20429,
+      "comments": 244
     },
     {
       "source": "인벤",
-      "title": "이잼은 이미 레임덕이 온듯함",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2738352",
-      "score": 71.31,
-      "views": 623,
-      "comments": 24
+      "title": "이재명 대통령의 현재 상황",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2738366",
+      "score": 86.31,
+      "views": 3069,
+      "comments": 65
+    },
+    {
+      "source": "클리앙",
+      "title": "남자는 75살이면 인생 거의 끝임",
+      "url": "https://www.clien.net/service/board/park/19275598?od=T31&po=0&category=0&groupCd=",
+      "score": 85.81,
+      "views": 3381,
+      "comments": 16
+    },
+    {
+      "source": "더쿠",
+      "title": "임신한 여자한테 소리지른 의사",
+      "url": "https://theqoo.net/hot/4370491735",
+      "score": 74.84,
+      "views": 24398,
+      "comments": 124
+    },
+    {
+      "source": "뽐뿌",
+      "title": "이재명 임기는 1년남았다봐야죠",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10147314",
+      "score": 72.5,
+      "views": 7439,
+      "comments": 19
     }
   ]
 }
