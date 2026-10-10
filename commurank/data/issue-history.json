@@ -1,6 +1,272 @@
 {
   "version": 1,
   "issues": {
+    "i413fcde4": {
+      "id": "i413fcde4",
+      "first_seen": "2026-10-08T12:01:09.196787+09:00",
+      "last_seen": "2026-10-10T22:33:55.699352+09:00",
+      "title": "‘손흥민’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "손흥민"
+      ],
+      "points": [
+        {
+          "at": "2026-10-08T12:01:09.196787+09:00",
+          "source_count": 3,
+          "post_count": 4,
+          "score": 104.0,
+          "sources": [
+            "더쿠",
+            "디시인사이드",
+            "뽐뿌"
+          ],
+          "post_urls": [
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=468737&_dcbest=1&page=1",
+            "https://www.ppomppu.co.kr/zboard/view.php?id=sports&no=154974",
+            "https://theqoo.net/hot/4368725620"
+          ]
+        },
+        {
+          "at": "2026-10-08T13:29:25.370320+09:00",
+          "source_count": 3,
+          "post_count": 3,
+          "score": 94.25,
+          "sources": [
+            "더쿠",
+            "디시인사이드",
+            "인벤"
+          ],
+          "post_urls": [
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=468737&_dcbest=1&page=1",
+            "https://www.inven.co.kr/board/webzine/2097/2737669",
+            "https://theqoo.net/hot/4368725620"
+          ]
+        },
+        {
+          "at": "2026-10-09T08:20:24.501214+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 91.5,
+          "sources": [
+            "뽐뿌",
+            "인벤"
+          ],
+          "post_urls": [
+            "https://www.ppomppu.co.kr/zboard/view.php?id=soccer&no=189346",
+            "https://www.inven.co.kr/board/webzine/2097/2737987"
+          ]
+        },
+        {
+          "at": "2026-10-10T22:33:55.699352+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 90.14,
+          "sources": [
+            "디시인사이드",
+            "인벤"
+          ],
+          "post_urls": [
+            "https://www.inven.co.kr/board/webzine/2097/2738677",
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=469358&_dcbest=1&page=1"
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 7,
+          "title": "극한직업 손흥민",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2738677",
+          "score": 81.14
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 37,
+          "title": "황인범을 한국의 지단이라고 띄워줬던 손흥민",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469358&_dcbest=1&page=1",
+          "score": 66.57
+        }
+      ]
+    },
+    "ia4c9a0a3": {
+      "id": "ia4c9a0a3",
+      "first_seen": "2026-10-03T04:55:10.124887+09:00",
+      "last_seen": "2026-10-10T22:33:55.699352+09:00",
+      "title": "‘오세훈’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "오세훈"
+      ],
+      "points": [
+        {
+          "at": "2026-10-03T04:55:10.124887+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 83.32,
+          "sources": [
+            "더쿠",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://www.clien.net/service/board/park/19272886?od=T31&po=0&category=0&groupCd=",
+            "https://theqoo.net/hot/4363571220"
+          ]
+        },
+        {
+          "at": "2026-10-10T22:33:55.699352+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 71.77,
+          "sources": [
+            "디시인사이드",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://www.clien.net/service/board/park/19275876?od=T31&po=0&category=0&groupCd=",
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=469326&_dcbest=1&page=1"
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 47,
+          "title": "'오세훈 사퇴설' 온라인 확산",
+          "url": "https://www.clien.net/service/board/park/19275876?od=T31&po=0&category=0&groupCd=",
+          "score": 62.77
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 92,
+          "title": "오세훈 시장직 운명, 23일 항소심서 결판",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469326&_dcbest=1&page=1",
+          "score": 50.98
+        }
+      ]
+    },
+    "i7ef347fa": {
+      "id": "i7ef347fa",
+      "first_seen": "2026-10-10T22:33:55.699352+09:00",
+      "last_seen": "2026-10-10T22:33:55.699352+09:00",
+      "title": "‘원하는’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "원하는"
+      ],
+      "points": [
+        {
+          "at": "2026-10-10T22:33:55.699352+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 104.77,
+          "sources": [
+            "루리웹",
+            "인벤"
+          ],
+          "post_urls": [
+            "https://bbs.ruliweb.com/best/board/300143/read/76977964?m=humor",
+            "https://www.inven.co.kr/board/webzine/2097/2738685"
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 2,
+          "title": "한국인이 원하는 다문화",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/76977964?m=humor",
+          "score": 95.77
+        },
+        {
+          "source": "인벤",
+          "rank": 5,
+          "title": "넥슨겜인데 은근 재출시를 원하는 사람들이 많다는 게임",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2738685",
+          "score": 83.28
+        }
+      ]
+    },
+    "ie002fc7e": {
+      "id": "ie002fc7e",
+      "first_seen": "2026-10-10T22:33:55.699352+09:00",
+      "last_seen": "2026-10-10T22:33:55.699352+09:00",
+      "title": "로또 1245회 당첨번호 조회···'1등 10명 전부 자동'",
+      "keywords": [
+        "당첨번호",
+        "로또"
+      ],
+      "points": [
+        {
+          "at": "2026-10-10T22:33:55.699352+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 64.13,
+          "sources": [
+            "뽐뿌",
+            "인벤"
+          ],
+          "post_urls": [
+            "https://www.ppomppu.co.kr/zboard/view.php?id=news_economy&no=487069",
+            "https://www.inven.co.kr/board/webzine/2097/2738672"
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 77,
+          "title": "로또 1245회 당첨번호 조회···'1등 10명 전부 자동'",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=news_economy&no=487069",
+          "score": 56.13
+        },
+        {
+          "source": "인벤",
+          "rank": 85,
+          "title": "로또 제1245회차 당첨번호 (2026년 10월 10일 추첨)",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2738672",
+          "score": 53.05
+        }
+      ]
+    },
+    "i2485a196": {
+      "id": "i2485a196",
+      "first_seen": "2026-10-10T22:33:55.699352+09:00",
+      "last_seen": "2026-10-10T22:33:55.699352+09:00",
+      "title": "‘아이스크림’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "아이스크림"
+      ],
+      "points": [
+        {
+          "at": "2026-10-10T22:33:55.699352+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 60.27,
+          "sources": [
+            "더쿠",
+            "디시인사이드"
+          ],
+          "post_urls": [
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=469304&_dcbest=1&page=1",
+            "https://theqoo.net/hot/4371133145"
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 89,
+          "title": "日, 유명 아이스크림 개봉하자 새빨간 피가 주르륵... 열도 경악",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469304&_dcbest=1&page=1",
+          "score": 51.27
+        },
+        {
+          "source": "더쿠",
+          "rank": 99,
+          "title": "무인 아이스크림 매장 또라이 등장 ㄷㄷㄷㄷㄷ",
+          "url": "https://theqoo.net/hot/4371133145",
+          "score": 49.42
+        }
+      ]
+    },
     "ib3876eed": {
       "id": "ib3876eed",
       "first_seen": "2026-09-27T12:58:49.050910+09:00",
@@ -3324,79 +3590,6 @@
           "title": "강호동 아들 시후군 근황",
           "url": "https://theqoo.net/hot/4369490902",
           "score": 65.58
-        }
-      ]
-    },
-    "i413fcde4": {
-      "id": "i413fcde4",
-      "first_seen": "2026-10-08T12:01:09.196787+09:00",
-      "last_seen": "2026-10-09T08:20:24.501214+09:00",
-      "title": "‘손흥민’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "손흥민"
-      ],
-      "points": [
-        {
-          "at": "2026-10-08T12:01:09.196787+09:00",
-          "source_count": 3,
-          "post_count": 4,
-          "score": 104.0,
-          "sources": [
-            "더쿠",
-            "디시인사이드",
-            "뽐뿌"
-          ],
-          "post_urls": [
-            "https://gall.dcinside.com/board/view/?id=dcbest&no=468737&_dcbest=1&page=1",
-            "https://www.ppomppu.co.kr/zboard/view.php?id=sports&no=154974",
-            "https://theqoo.net/hot/4368725620"
-          ]
-        },
-        {
-          "at": "2026-10-08T13:29:25.370320+09:00",
-          "source_count": 3,
-          "post_count": 3,
-          "score": 94.25,
-          "sources": [
-            "더쿠",
-            "디시인사이드",
-            "인벤"
-          ],
-          "post_urls": [
-            "https://gall.dcinside.com/board/view/?id=dcbest&no=468737&_dcbest=1&page=1",
-            "https://www.inven.co.kr/board/webzine/2097/2737669",
-            "https://theqoo.net/hot/4368725620"
-          ]
-        },
-        {
-          "at": "2026-10-09T08:20:24.501214+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 91.5,
-          "sources": [
-            "뽐뿌",
-            "인벤"
-          ],
-          "post_urls": [
-            "https://www.ppomppu.co.kr/zboard/view.php?id=soccer&no=189346",
-            "https://www.inven.co.kr/board/webzine/2097/2737987"
-          ]
-        }
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 5,
-          "title": "손흥민 주장 그만하라는 k리그 출신 감독",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=soccer&no=189346",
-          "score": 82.5
-        },
-        {
-          "source": "인벤",
-          "rank": 32,
-          "title": "손흥민, 이 상황에서도 계속 주장 맡고 싶을까'…이강인 하극상·인터뷰 보이콧·홍명보 갈등설, 이번엔 96라인까지 손흥민 리더십 문제 제기?",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2737987",
-          "score": 68.68
         }
       ]
     },
@@ -12024,47 +12217,6 @@
         }
       ]
     },
-    "ia4c9a0a3": {
-      "id": "ia4c9a0a3",
-      "first_seen": "2026-10-03T04:55:10.124887+09:00",
-      "last_seen": "2026-10-03T04:55:10.124887+09:00",
-      "title": "‘오세훈’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "오세훈"
-      ],
-      "points": [
-        {
-          "at": "2026-10-03T04:55:10.124887+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 83.32,
-          "sources": [
-            "더쿠",
-            "클리앙"
-          ],
-          "post_urls": [
-            "https://www.clien.net/service/board/park/19272886?od=T31&po=0&category=0&groupCd=",
-            "https://theqoo.net/hot/4363571220"
-          ]
-        }
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 11,
-          "title": "오세훈 날라가서 다행이네요",
-          "url": "https://www.clien.net/service/board/park/19272886?od=T31&po=0&category=0&groupCd=",
-          "score": 74.32
-        },
-        {
-          "source": "더쿠",
-          "rank": 42,
-          "title": "오세훈, 대답 없이 직진하다 홱 돌아 \"잔인하지 않아요?\"",
-          "url": "https://theqoo.net/hot/4363571220",
-          "score": 61.68
-        }
-      ]
-    },
     "i4ddd6a96": {
       "id": "i4ddd6a96",
       "first_seen": "2026-10-03T04:55:10.124887+09:00",
@@ -18327,5 +18479,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-10T16:30:08.272621+09:00"
+  "updated_at": "2026-10-10T22:33:55.699352+09:00"
 }

@@ -3,7 +3,7 @@
   "period": "monthly",
   "key": "2026-10",
   "label": "2026년 10월",
-  "collected_at": "2026-10-10T16:30:08.272621+09:00",
+  "collected_at": "2026-10-10T22:33:55.699352+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -87,7 +87,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 2,
-      "change": 1
+      "change": 0
     },
     {
       "id": "icb33dad5",
@@ -127,7 +127,7 @@
       "latest_source_count": 2,
       "latest_post_count": 4,
       "rank": 3,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i7f717bd5",
@@ -387,7 +387,7 @@
       "latest_source_count": 3,
       "latest_post_count": 3,
       "rank": 9,
-      "change": 6
+      "change": 0
     },
     {
       "id": "i5ae392bf",
@@ -428,7 +428,47 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 10,
-      "change": -1
+      "change": 0
+    },
+    {
+      "id": "i413fcde4",
+      "title": "‘손흥민’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "손흥민"
+      ],
+      "source_count": 3,
+      "post_count": 4,
+      "score": 124.05,
+      "peak_score": 104.0,
+      "appearances": 4,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 7,
+          "title": "극한직업 손흥민",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2738677",
+          "score": 81.14
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 37,
+          "title": "황인범을 한국의 지단이라고 띄워줬던 손흥민",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469358&_dcbest=1&page=1",
+          "score": 66.57
+        }
+      ],
+      "first_seen": "2026-10-08T12:01:09.196787+09:00",
+      "last_seen": "2026-10-10T22:33:55.699352+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 11,
+      "change": 3
     },
     {
       "id": "i039fd79c",
@@ -467,7 +507,7 @@
       "last_seen": "2026-10-10T06:41:57.619157+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 11,
+      "rank": 12,
       "change": -1
     },
     {
@@ -508,7 +548,7 @@
       "last_seen": "2026-10-08T12:01:09.196787+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 12,
+      "rank": 13,
       "change": -1
     },
     {
@@ -549,46 +589,6 @@
       "last_seen": "2026-10-07T15:10:25.459989+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 13,
-      "change": -1
-    },
-    {
-      "id": "i413fcde4",
-      "title": "‘손흥민’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "손흥민"
-      ],
-      "source_count": 3,
-      "post_count": 4,
-      "score": 122.93,
-      "peak_score": 104.0,
-      "appearances": 3,
-      "sources": [
-        "더쿠",
-        "디시인사이드",
-        "뽐뿌",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 5,
-          "title": "손흥민 주장 그만하라는 k리그 출신 감독",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=soccer&no=189346",
-          "score": 82.5
-        },
-        {
-          "source": "인벤",
-          "rank": 32,
-          "title": "손흥민, 이 상황에서도 계속 주장 맡고 싶을까'…이강인 하극상·인터뷰 보이콧·홍명보 갈등설, 이번엔 96라인까지 손흥민 리더십 문제 제기?",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2737987",
-          "score": 68.68
-        }
-      ],
-      "first_seen": "2026-10-08T12:01:09.196787+09:00",
-      "last_seen": "2026-10-09T08:20:24.501214+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 14,
       "change": -1
     },
@@ -632,7 +632,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 15,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i7b918478",
