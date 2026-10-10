@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-10-10T22:33:55.699352+09:00",
+  "collected_at": "2026-10-10T22:58:06.962499+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -18,8 +18,8 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 104.77,
-        "peak_score": 104.77,
+        "score": 103.25,
+        "peak_score": 103.25,
         "appearances": 1,
         "sources": [
           "루리웹",
@@ -28,20 +28,54 @@
         "posts": [
           {
             "source": "루리웹",
-            "rank": 2,
+            "rank": 3,
             "title": "한국인이 원하는 다문화",
             "url": "https://bbs.ruliweb.com/best/board/300143/read/76977964?m=humor",
-            "score": 95.77
+            "score": 94.25
           },
           {
             "source": "인벤",
-            "rank": 5,
+            "rank": 6,
             "title": "넥슨겜인데 은근 재출시를 원하는 사람들이 많다는 게임",
             "url": "https://www.inven.co.kr/board/webzine/2097/2738685",
-            "score": 83.28
+            "score": 84.59
           }
         ],
         "rank": 1,
+        "change": 0
+      },
+      {
+        "id": "ib3876eed",
+        "title": "‘남자가’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "남자가"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 95.95,
+        "peak_score": 95.95,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 4,
+            "title": "유부녀가 남자가 운전하는 차에 단 둘이 타게 된다면",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=problem&no=237142",
+            "score": 86.95
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 32,
+            "title": "잘생긴 남자가 엘리베이터에서 쳐다본다면?.jpg",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469360&_dcbest=1&page=1",
+            "score": 69.27
+          }
+        ],
+        "rank": 2,
         "change": "NEW"
       },
       {
@@ -52,8 +86,8 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 90.14,
-        "peak_score": 90.14,
+        "score": 87.88,
+        "peak_score": 87.88,
         "appearances": 1,
         "sources": [
           "디시인사이드",
@@ -62,20 +96,54 @@
         "posts": [
           {
             "source": "인벤",
-            "rank": 7,
+            "rank": 10,
             "title": "극한직업 손흥민",
             "url": "https://www.inven.co.kr/board/webzine/2097/2738677",
-            "score": 81.14
+            "score": 78.88
           },
           {
             "source": "디시인사이드",
-            "rank": 37,
+            "rank": 40,
             "title": "황인범을 한국의 지단이라고 띄워줬던 손흥민",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469358&_dcbest=1&page=1",
-            "score": 66.57
+            "score": 66.52
           }
         ],
-        "rank": 2,
+        "rank": 3,
+        "change": -1
+      },
+      {
+        "id": "ib02497ae",
+        "title": "‘애니화’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "애니화"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 76.83,
+        "peak_score": 76.83,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 36,
+            "title": "웹툰 더 복서 애니화.gif",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2738676",
+            "score": 67.83
+          },
+          {
+            "source": "루리웹",
+            "rank": 89,
+            "title": "죠죠 스팀 볼 런 애니화 근황",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76980876?m=humor_only&t=now",
+            "score": 53.03
+          }
+        ],
+        "rank": 4,
         "change": "NEW"
       },
       {
@@ -86,8 +154,8 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 71.77,
-        "peak_score": 71.77,
+        "score": 64.82,
+        "peak_score": 64.82,
         "appearances": 1,
         "sources": [
           "디시인사이드",
@@ -96,93 +164,62 @@
         "posts": [
           {
             "source": "클리앙",
-            "rank": 47,
+            "rank": 76,
             "title": "'오세훈 사퇴설' 온라인 확산",
             "url": "https://www.clien.net/service/board/park/19275876?od=T31&po=0&category=0&groupCd=",
-            "score": 62.77
+            "score": 55.82
           },
           {
             "source": "디시인사이드",
-            "rank": 92,
+            "rank": 99,
             "title": "오세훈 시장직 운명, 23일 항소심서 결판",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469326&_dcbest=1&page=1",
-            "score": 50.98
+            "score": 49.84
           }
         ],
-        "rank": 3,
-        "change": "NEW"
-      },
+        "rank": 5,
+        "change": -2
+      }
+    ],
+    "daily": [
       {
-        "id": "ie002fc7e",
-        "title": "로또 1245회 당첨번호 조회···'1등 10명 전부 자동'",
+        "id": "i7ef347fa",
+        "title": "‘원하는’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "당첨번호",
-          "로또"
+          "원하는"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 64.13,
-        "peak_score": 64.13,
-        "appearances": 1,
+        "score": 116.26,
+        "peak_score": 104.77,
+        "appearances": 2,
         "sources": [
-          "뽐뿌",
+          "루리웹",
           "인벤"
         ],
         "posts": [
           {
-            "source": "뽐뿌",
-            "rank": 77,
-            "title": "로또 1245회 당첨번호 조회···'1등 10명 전부 자동'",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=news_economy&no=487069",
-            "score": 56.13
+            "source": "루리웹",
+            "rank": 3,
+            "title": "한국인이 원하는 다문화",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76977964?m=humor",
+            "score": 94.25
           },
           {
             "source": "인벤",
-            "rank": 85,
-            "title": "로또 제1245회차 당첨번호 (2026년 10월 10일 추첨)",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2738672",
-            "score": 53.05
+            "rank": 6,
+            "title": "넥슨겜인데 은근 재출시를 원하는 사람들이 많다는 게임",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2738685",
+            "score": 84.59
           }
         ],
-        "rank": 4,
-        "change": "NEW"
+        "first_seen": "2026-10-10T22:33:55.699352+09:00",
+        "last_seen": "2026-10-10T22:58:06.962499+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 1,
+        "change": 1
       },
-      {
-        "id": "i2485a196",
-        "title": "‘아이스크림’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "아이스크림"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 60.27,
-        "peak_score": 60.27,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "디시인사이드"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 89,
-            "title": "日, 유명 아이스크림 개봉하자 새빨간 피가 주르륵... 열도 경악",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469304&_dcbest=1&page=1",
-            "score": 51.27
-          },
-          {
-            "source": "더쿠",
-            "rank": 99,
-            "title": "무인 아이스크림 매장 또라이 등장 ㄷㄷㄷㄷㄷ",
-            "url": "https://theqoo.net/hot/4371133145",
-            "score": 49.42
-          }
-        ],
-        "rank": 5,
-        "change": "NEW"
-      }
-    ],
-    "daily": [
       {
         "id": "idcd59a51",
         "title": "안싱글벙글 오늘자 고속도로 사망사고",
@@ -221,46 +258,8 @@
         "last_seen": "2026-10-10T09:59:00.166207+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 1,
-        "change": 0
-      },
-      {
-        "id": "i7ef347fa",
-        "title": "‘원하는’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "원하는"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 114.24,
-        "peak_score": 104.77,
-        "appearances": 1,
-        "sources": [
-          "루리웹",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 2,
-            "title": "한국인이 원하는 다문화",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/76977964?m=humor",
-            "score": 95.77
-          },
-          {
-            "source": "인벤",
-            "rank": 5,
-            "title": "넥슨겜인데 은근 재출시를 원하는 사람들이 많다는 게임",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2738685",
-            "score": 83.28
-          }
-        ],
-        "first_seen": "2026-10-10T22:33:55.699352+09:00",
-        "last_seen": "2026-10-10T22:33:55.699352+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 2,
-        "change": "NEW"
+        "change": -1
       },
       {
         "id": "i9ff6bf96",
@@ -298,7 +297,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 3,
-        "change": -1
+        "change": 0
       },
       {
         "id": "if553a5cf",
@@ -344,7 +343,7 @@
         "latest_source_count": 3,
         "latest_post_count": 3,
         "rank": 4,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i039fd79c",
@@ -382,7 +381,7 @@
         "latest_source_count": 2,
         "latest_post_count": 3,
         "rank": 5,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i413fcde4",
@@ -392,9 +391,9 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 99.61,
+        "score": 101.63,
         "peak_score": 90.14,
-        "appearances": 1,
+        "appearances": 2,
         "sources": [
           "디시인사이드",
           "인벤"
@@ -402,25 +401,25 @@
         "posts": [
           {
             "source": "인벤",
-            "rank": 7,
+            "rank": 10,
             "title": "극한직업 손흥민",
             "url": "https://www.inven.co.kr/board/webzine/2097/2738677",
-            "score": 81.14
+            "score": 78.88
           },
           {
             "source": "디시인사이드",
-            "rank": 37,
+            "rank": 40,
             "title": "황인범을 한국의 지단이라고 띄워줬던 손흥민",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469358&_dcbest=1&page=1",
-            "score": 66.57
+            "score": 66.52
           }
         ],
         "first_seen": "2026-10-08T12:01:09.196787+09:00",
-        "last_seen": "2026-10-10T22:33:55.699352+09:00",
+        "last_seen": "2026-10-10T22:58:06.962499+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 6,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "iae209e51",
@@ -458,7 +457,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 7,
-        "change": -2
+        "change": 0
       },
       {
         "id": "i123ff185",
@@ -496,7 +495,7 @@
         "latest_source_count": 2,
         "latest_post_count": 3,
         "rank": 8,
-        "change": -2
+        "change": 0
       },
       {
         "id": "i3eade1a8",
@@ -536,7 +535,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 9,
-        "change": -2
+        "change": 0
       },
       {
         "id": "i8d54d86c",
@@ -575,7 +574,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 10,
-        "change": -2
+        "change": 0
       },
       {
         "id": "ie89894c8",
@@ -613,7 +612,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 11,
-        "change": -2
+        "change": 0
       },
       {
         "id": "i5c04ea95",
@@ -653,7 +652,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 12,
-        "change": -2
+        "change": 0
       },
       {
         "id": "i7f02ed68",
@@ -695,7 +694,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 13,
-        "change": -2
+        "change": 0
       },
       {
         "id": "i11fa4c33",
@@ -733,7 +732,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 14,
-        "change": -2
+        "change": 0
       },
       {
         "id": "i5bc1f20b",
@@ -776,7 +775,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 15,
-        "change": -2
+        "change": 0
       },
       {
         "id": "i0118d867",
@@ -816,7 +815,45 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 16,
-        "change": -2
+        "change": 0
+      },
+      {
+        "id": "ib02497ae",
+        "title": "‘애니화’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "애니화"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 86.3,
+        "peak_score": 76.83,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 36,
+            "title": "웹툰 더 복서 애니화.gif",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2738676",
+            "score": 67.83
+          },
+          {
+            "source": "루리웹",
+            "rank": 89,
+            "title": "죠죠 스팀 볼 런 애니화 근황",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76980876?m=humor_only&t=now",
+            "score": 53.03
+          }
+        ],
+        "first_seen": "2026-10-10T22:58:06.962499+09:00",
+        "last_seen": "2026-10-10T22:58:06.962499+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 17,
+        "change": "NEW"
       },
       {
         "id": "ie46031e7",
@@ -853,8 +890,8 @@
         "last_seen": "2026-10-10T09:59:00.166207+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 17,
-        "change": -2
+        "rank": 18,
+        "change": -1
       },
       {
         "id": "i598e4351",
@@ -896,8 +933,8 @@
         "last_seen": "2026-10-10T15:58:13.723345+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 18,
-        "change": -2
+        "rank": 19,
+        "change": -1
       },
       {
         "id": "ia4c9a0a3",
@@ -907,9 +944,9 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 81.24,
+        "score": 83.26,
         "peak_score": 71.77,
-        "appearances": 1,
+        "appearances": 2,
         "sources": [
           "디시인사이드",
           "클리앙"
@@ -917,63 +954,25 @@
         "posts": [
           {
             "source": "클리앙",
-            "rank": 47,
+            "rank": 76,
             "title": "'오세훈 사퇴설' 온라인 확산",
             "url": "https://www.clien.net/service/board/park/19275876?od=T31&po=0&category=0&groupCd=",
-            "score": 62.77
+            "score": 55.82
           },
           {
             "source": "디시인사이드",
-            "rank": 92,
+            "rank": 99,
             "title": "오세훈 시장직 운명, 23일 항소심서 결판",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469326&_dcbest=1&page=1",
-            "score": 50.98
+            "score": 49.84
           }
         ],
         "first_seen": "2026-10-03T04:55:10.124887+09:00",
-        "last_seen": "2026-10-10T22:33:55.699352+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 19,
-        "change": "NEW"
-      },
-      {
-        "id": "icfb7b12b",
-        "title": "‘해리포터’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "해리포터"
-        ],
-        "source_count": 2,
-        "post_count": 3,
-        "score": 80.44,
-        "peak_score": 67.95,
-        "appearances": 2,
-        "sources": [
-          "디시인사이드",
-          "루리웹"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 59,
-            "title": "해리포터 드라마판 해리 배우 근황.jpg",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469169&_dcbest=1&page=1",
-            "score": 58.95
-          },
-          {
-            "source": "루리웹",
-            "rank": 95,
-            "title": "해리포터) 이제 AI슬롭은 끝났다",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/76971420?m=humor_only&t=now",
-            "score": 51.08
-          }
-        ],
-        "first_seen": "2026-10-09T08:20:24.501214+09:00",
-        "last_seen": "2026-10-10T06:41:57.619157+09:00",
+        "last_seen": "2026-10-10T22:58:06.962499+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 20,
-        "change": -3
+        "change": -1
       }
     ],
     "weekly": [
@@ -1109,9 +1108,9 @@
         ],
         "source_count": 3,
         "post_count": 4,
-        "score": 124.05,
+        "score": 124.96,
         "peak_score": 104.0,
-        "appearances": 4,
+        "appearances": 5,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -1121,25 +1120,25 @@
         "posts": [
           {
             "source": "인벤",
-            "rank": 7,
+            "rank": 10,
             "title": "극한직업 손흥민",
             "url": "https://www.inven.co.kr/board/webzine/2097/2738677",
-            "score": 81.14
+            "score": 78.88
           },
           {
             "source": "디시인사이드",
-            "rank": 37,
+            "rank": 40,
             "title": "황인범을 한국의 지단이라고 띄워줬던 손흥민",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469358&_dcbest=1&page=1",
-            "score": 66.57
+            "score": 66.52
           }
         ],
         "first_seen": "2026-10-08T12:01:09.196787+09:00",
-        "last_seen": "2026-10-10T22:33:55.699352+09:00",
+        "last_seen": "2026-10-10T22:58:06.962499+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 4,
-        "change": 1
+        "change": 0
       },
       {
         "id": "ife021da2",
@@ -1180,7 +1179,7 @@
         "latest_source_count": 2,
         "latest_post_count": 3,
         "rank": 5,
-        "change": -1
+        "change": 0
       },
       {
         "id": "ia8451ee4",
@@ -1379,6 +1378,44 @@
         "change": 0
       },
       {
+        "id": "i7ef347fa",
+        "title": "‘원하는’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "원하는"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 116.26,
+        "peak_score": 104.77,
+        "appearances": 2,
+        "sources": [
+          "루리웹",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 3,
+            "title": "한국인이 원하는 다문화",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/76977964?m=humor",
+            "score": 94.25
+          },
+          {
+            "source": "인벤",
+            "rank": 6,
+            "title": "넥슨겜인데 은근 재출시를 원하는 사람들이 많다는 게임",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2738685",
+            "score": 84.59
+          }
+        ],
+        "first_seen": "2026-10-10T22:33:55.699352+09:00",
+        "last_seen": "2026-10-10T22:58:06.962499+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 11,
+        "change": 7
+      },
+      {
         "id": "ie39b12d5",
         "title": "‘하루만에’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -1413,8 +1450,8 @@
         "last_seen": "2026-10-06T10:52:31.794638+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
-        "change": 0
+        "rank": 12,
+        "change": -1
       },
       {
         "id": "i0a93296e",
@@ -1451,8 +1488,8 @@
         "last_seen": "2026-10-06T10:52:31.794638+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 12,
-        "change": 0
+        "rank": 13,
+        "change": -1
       },
       {
         "id": "idcd59a51",
@@ -1492,8 +1529,8 @@
         "last_seen": "2026-10-10T09:59:00.166207+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 13,
-        "change": 0
+        "rank": 14,
+        "change": -1
       },
       {
         "id": "i039fd79c",
@@ -1531,8 +1568,8 @@
         "last_seen": "2026-10-10T06:41:57.619157+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 14,
-        "change": 0
+        "rank": 15,
+        "change": -1
       },
       {
         "id": "i7b918478",
@@ -1569,8 +1606,8 @@
         "last_seen": "2026-10-05T06:40:10.175480+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 15,
-        "change": 0
+        "rank": 16,
+        "change": -1
       },
       {
         "id": "i64779620",
@@ -1610,8 +1647,8 @@
         "last_seen": "2026-10-09T19:32:06.514270+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 16,
-        "change": 0
+        "rank": 17,
+        "change": -1
       },
       {
         "id": "i0cd78725",
@@ -1654,46 +1691,8 @@
         "last_seen": "2026-10-06T17:53:04.817970+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 17,
-        "change": 0
-      },
-      {
-        "id": "i7ef347fa",
-        "title": "‘원하는’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "원하는"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 114.24,
-        "peak_score": 104.77,
-        "appearances": 1,
-        "sources": [
-          "루리웹",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 2,
-            "title": "한국인이 원하는 다문화",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/76977964?m=humor",
-            "score": 95.77
-          },
-          {
-            "source": "인벤",
-            "rank": 5,
-            "title": "넥슨겜인데 은근 재출시를 원하는 사람들이 많다는 게임",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2738685",
-            "score": 83.28
-          }
-        ],
-        "first_seen": "2026-10-10T22:33:55.699352+09:00",
-        "last_seen": "2026-10-10T22:33:55.699352+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 18,
-        "change": "NEW"
+        "change": -1
       },
       {
         "id": "ifba08ae4",
@@ -1732,7 +1731,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 19,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i8213e5c0",
@@ -1772,7 +1771,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 20,
-        "change": -1
+        "change": 0
       }
     ],
     "monthly": [
@@ -2208,9 +2207,9 @@
         ],
         "source_count": 3,
         "post_count": 4,
-        "score": 124.05,
+        "score": 124.96,
         "peak_score": 104.0,
-        "appearances": 4,
+        "appearances": 5,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -2220,25 +2219,25 @@
         "posts": [
           {
             "source": "인벤",
-            "rank": 7,
+            "rank": 10,
             "title": "극한직업 손흥민",
             "url": "https://www.inven.co.kr/board/webzine/2097/2738677",
-            "score": 81.14
+            "score": 78.88
           },
           {
             "source": "디시인사이드",
-            "rank": 37,
+            "rank": 40,
             "title": "황인범을 한국의 지단이라고 띄워줬던 손흥민",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469358&_dcbest=1&page=1",
-            "score": 66.57
+            "score": 66.52
           }
         ],
         "first_seen": "2026-10-08T12:01:09.196787+09:00",
-        "last_seen": "2026-10-10T22:33:55.699352+09:00",
+        "last_seen": "2026-10-10T22:58:06.962499+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 11,
-        "change": 3
+        "change": 0
       },
       {
         "id": "i039fd79c",
@@ -2278,7 +2277,7 @@
         "latest_source_count": 2,
         "latest_post_count": 3,
         "rank": 12,
-        "change": -1
+        "change": 0
       },
       {
         "id": "ife021da2",
@@ -2319,7 +2318,7 @@
         "latest_source_count": 2,
         "latest_post_count": 3,
         "rank": 13,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i9f5e1ed4",
@@ -2360,7 +2359,7 @@
         "latest_source_count": 2,
         "latest_post_count": 3,
         "rank": 14,
-        "change": -1
+        "change": 0
       },
       {
         "id": "ia8451ee4",
