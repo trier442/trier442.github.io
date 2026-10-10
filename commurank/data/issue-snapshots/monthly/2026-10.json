@@ -3,7 +3,7 @@
   "period": "monthly",
   "key": "2026-10",
   "label": "2026년 10월",
-  "collected_at": "2026-10-11T03:25:04.949429+09:00",
+  "collected_at": "2026-10-11T06:33:51.583403+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -355,9 +355,9 @@
       ],
       "source_count": 3,
       "post_count": 3,
-      "score": 127.69,
+      "score": 128.28,
       "peak_score": 106.29,
-      "appearances": 7,
+      "appearances": 8,
       "sources": [
         "디시인사이드",
         "루리웹",
@@ -366,26 +366,26 @@
       ],
       "posts": [
         {
-          "source": "루리웹",
-          "rank": 21,
-          "title": "트럼프 지지 인파 ㄷㄷ",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/76982776?m=humor_only&t=now",
-          "score": 68.84
-        },
-        {
           "source": "클리앙",
-          "rank": 31,
+          "rank": 23,
           "title": "[긴급/AP] 트럼프, 젤린스키 사임요구. 새 대통령 선출해야 발언.",
           "url": "https://www.clien.net/service/board/park/19275934?od=T31&po=0&category=0&groupCd=",
-          "score": 66.41
+          "score": 69.04
+        },
+        {
+          "source": "인벤",
+          "rank": 78,
+          "title": "젤렌스키 사임과 재선거 요구하는 트럼프",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2738723",
+          "score": 54.88
         }
       ],
       "first_seen": "2026-10-02T11:10:36.587418+09:00",
-      "last_seen": "2026-10-11T03:25:04.949429+09:00",
+      "last_seen": "2026-10-11T06:33:51.583403+09:00",
       "latest_source_count": 2,
-      "latest_post_count": 2,
+      "latest_post_count": 3,
       "rank": 9,
-      "change": 1
+      "change": 0
     },
     {
       "id": "ide45eba0",
@@ -428,7 +428,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 10,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i5ae392bf",
