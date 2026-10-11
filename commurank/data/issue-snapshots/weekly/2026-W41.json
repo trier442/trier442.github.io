@@ -3,20 +3,21 @@
   "period": "weekly",
   "key": "2026-W41",
   "label": "2026.10.05 ~ 10.11",
-  "collected_at": "2026-10-11T22:09:31.879059+09:00",
+  "collected_at": "2026-10-11T22:32:24.151905+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
       "id": "i039fd79c",
-      "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
+      "title": "‘이재명의’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
+        "이재명의",
         "이재명"
       ],
       "source_count": 4,
       "post_count": 6,
-      "score": 137.25,
+      "score": 137.56,
       "peak_score": 105.39,
-      "appearances": 15,
+      "appearances": 16,
       "sources": [
         "더쿠",
         "디시인사이드",
@@ -26,30 +27,37 @@
       ],
       "posts": [
         {
+          "source": "뽐뿌",
+          "rank": 5,
+          "title": "이재명의 내로남불<골프관련> .jpg",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10148899",
+          "score": 79.15
+        },
+        {
+          "source": "인벤",
+          "rank": 24,
+          "title": "대한민국 모두의 대통령 이재명의 성과 총정리!!!!",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2739014",
+          "score": 67.93
+        },
+        {
           "source": "클리앙",
-          "rank": 53,
+          "rank": 64,
           "title": "트럼프 구라를 한번 겪습니까? 이재명 대통령님? 이시국에 골프라뇨..",
           "url": "https://www.clien.net/service/board/park/19276231?od=T31&po=0&category=0&groupCd=",
-          "score": 59.65
+          "score": 58.19
         },
         {
           "source": "디시인사이드",
-          "rank": 54,
+          "rank": 69,
           "title": "이재명 대통령 골프장서 붕괴사고 지시",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469540&_dcbest=1&page=1",
-          "score": 59.63
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 61,
-          "title": "미워도 이재명 아니면 내란당이 정권잡을지도",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10148794",
-          "score": 58.83
+          "score": 57.13
         }
       ],
       "first_seen": "2026-09-27T13:38:37.715424+09:00",
-      "last_seen": "2026-10-11T22:09:31.879059+09:00",
-      "latest_source_count": 3,
+      "last_seen": "2026-10-11T22:32:24.151905+09:00",
+      "latest_source_count": 4,
       "latest_post_count": 4,
       "rank": 1,
       "change": 0
