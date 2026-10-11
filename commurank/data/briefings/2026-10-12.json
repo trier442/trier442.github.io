@@ -2,41 +2,59 @@
   "version": 1,
   "date": "2026-10-12",
   "label": "2026년 10월 12일",
-  "collected_at": "2026-10-12T03:09:47.824635+09:00",
+  "collected_at": "2026-10-12T07:07:36.695804+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘‘네이버’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #민주당. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘‘시작한’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #일본. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 6,
     "cached_sources": 0,
     "realtime_posts": 100,
     "daily_posts": 100,
-    "daily_issues": 2,
-    "keywords": 8,
-    "top100_views": 774714,
-    "top100_comments": 8281
+    "daily_issues": 5,
+    "keywords": 13,
+    "top100_views": 937520,
+    "top100_comments": 8410
   },
   "highlights": [
     {
       "type": "issue",
-      "title": "‘네이버’ 관련 글이 여러 커뮤니티에서 화제",
+      "title": "‘시작한’ 관련 글이 여러 커뮤니티에서 화제",
       "text": "2개 커뮤니티에서 2개 관련 인기글이 포착됐습니다.",
-      "issue_id": "i5781c296"
+      "issue_id": "i67f949c5"
     },
     {
       "type": "post",
-      "title": "전세계 과학력 대학순위 TOP 20",
+      "title": "결정사 최하등급 40세 노처녀의 결혼 조건....JPG",
       "text": "루리웹에서 현재 상위권에 오른 인기글입니다.",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76991817?m=humor"
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76993162?m=humor"
     },
     {
       "type": "keyword",
-      "title": "#민주당",
-      "text": "2개 커뮤니티 · 3개 인기글에서 함께 등장했습니다.",
-      "keyword": "민주당"
+      "title": "#일본",
+      "text": "3개 커뮤니티 · 3개 인기글에서 함께 등장했습니다.",
+      "keyword": "일본"
     }
   ],
   "top_posts": [
+    {
+      "title": "결정사 최하등급 40세 노처녀의 결혼 조건....JPG",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76993162?m=humor",
+      "first_seen": "2026-10-12T07:07:36.695804+09:00",
+      "last_seen": "2026-10-12T07:07:36.695804+09:00",
+      "peak_score": 98.96,
+      "max_views": 18242,
+      "max_likes": 141,
+      "max_comments": 77,
+      "appearances": 1,
+      "score": 108.35,
+      "views": 18242,
+      "likes": 141,
+      "comments": 77,
+      "change": "NEW"
+    },
     {
       "title": "전세계 과학력 대학순위 TOP 20",
       "source": "루리웹",
@@ -49,11 +67,11 @@
       "max_likes": 80,
       "max_comments": 70,
       "appearances": 1,
-      "score": 107.06,
+      "score": 106.73,
       "views": 11595,
       "likes": 80,
       "comments": 70,
-      "change": "NEW"
+      "change": -1
     },
     {
       "title": "모유) 히토미 간만에 보다 생각난것",
@@ -67,10 +85,28 @@
       "max_likes": 121,
       "max_comments": 80,
       "appearances": 1,
-      "score": 105.15,
+      "score": 104.82,
       "views": 9272,
       "likes": 121,
       "comments": 80,
+      "change": -1
+    },
+    {
+      "title": "엄마랑 이모랑 일본 여행 옴....",
+      "source": "루리웹",
+      "category": "생활",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76993881?m=humor",
+      "first_seen": "2026-10-12T07:07:36.695804+09:00",
+      "last_seen": "2026-10-12T07:07:36.695804+09:00",
+      "peak_score": 94.94,
+      "max_views": 11545,
+      "max_likes": 60,
+      "max_comments": 69,
+      "appearances": 1,
+      "score": 104.33,
+      "views": 11545,
+      "likes": 60,
+      "comments": 69,
       "change": "NEW"
     },
     {
@@ -85,10 +121,28 @@
       "max_likes": 165,
       "max_comments": 63,
       "appearances": 1,
-      "score": 103.99,
+      "score": 103.66,
       "views": 23898,
       "likes": 165,
       "comments": 63,
+      "change": -2
+    },
+    {
+      "title": "진짜 고자가 아닌가 싶은 애니 주인공",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76994000?m=humor",
+      "first_seen": "2026-10-12T07:07:36.695804+09:00",
+      "last_seen": "2026-10-12T07:07:36.695804+09:00",
+      "peak_score": 90.92,
+      "max_views": 9113,
+      "max_likes": 41,
+      "max_comments": 45,
+      "appearances": 1,
+      "score": 100.31,
+      "views": 9113,
+      "likes": 41,
+      "comments": 45,
       "change": "NEW"
     },
     {
@@ -103,46 +157,28 @@
       "max_likes": 5,
       "max_comments": 77,
       "appearances": 3,
-      "score": 97.93,
+      "score": 97.6,
       "views": 18188,
       "likes": 5,
       "comments": 77,
-      "change": "NEW"
+      "change": -3
     },
     {
-      "title": "어차피 다음 총선때는 민주당 찍으실 거지 않습니까",
-      "source": "클리앙",
+      "title": "맨 주먹에서 시작한 부부 돈 모으기 참 힘드네요.",
+      "source": "뽐뿌",
       "category": "이슈",
-      "url": "https://www.clien.net/service/board/park/19276291?od=T31&po=0&category=0&groupCd=",
-      "first_seen": "2026-10-12T03:09:47.824635+09:00",
-      "last_seen": "2026-10-12T03:09:47.824635+09:00",
-      "peak_score": 83.23,
-      "max_views": 1817,
-      "max_likes": 0,
-      "max_comments": 35,
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=problem&no=237182",
+      "first_seen": "2026-10-12T07:07:36.695804+09:00",
+      "last_seen": "2026-10-12T07:07:36.695804+09:00",
+      "peak_score": 87.5,
+      "max_views": 15238,
+      "max_likes": 14,
+      "max_comments": 82,
       "appearances": 1,
-      "score": 92.62,
-      "views": 1817,
-      "likes": 0,
-      "comments": 35,
-      "change": "NEW"
-    },
-    {
-      "title": "이재명 대통령은 기본적으로 '인정'과 '사과'를 할 줄 모르는 사람인가요?",
-      "source": "클리앙",
-      "category": "이슈",
-      "url": "https://www.clien.net/service/board/park/19276287?od=T31&po=0&category=0&groupCd=",
-      "first_seen": "2026-10-12T03:09:47.824635+09:00",
-      "last_seen": "2026-10-12T03:09:47.824635+09:00",
-      "peak_score": 81.14,
-      "max_views": 2680,
-      "max_likes": 13,
-      "max_comments": 50,
-      "appearances": 1,
-      "score": 90.53,
-      "views": 2680,
-      "likes": 13,
-      "comments": 50,
+      "score": 96.89,
+      "views": 15238,
+      "likes": 14,
+      "comments": 82,
       "change": "NEW"
     },
     {
@@ -151,123 +187,127 @@
       "category": "게임",
       "url": "https://bbs.ruliweb.com/market/board/1020/read/107935",
       "first_seen": "2026-10-12T03:09:47.824635+09:00",
-      "last_seen": "2026-10-12T03:09:47.824635+09:00",
-      "peak_score": 79.87,
-      "max_views": 9428,
-      "max_likes": 19,
-      "max_comments": 13,
-      "appearances": 1,
-      "score": 89.26,
-      "views": 9428,
-      "likes": 19,
-      "comments": 13,
-      "change": "NEW"
+      "last_seen": "2026-10-12T07:07:36.695804+09:00",
+      "peak_score": 86.49,
+      "max_views": 19905,
+      "max_likes": 25,
+      "max_comments": 20,
+      "appearances": 2,
+      "score": 96.69,
+      "views": 19905,
+      "likes": 25,
+      "comments": 20,
+      "change": -2
     },
     {
-      "title": "윤석열 골프 사건과는 좀 다르죠.",
+      "title": "어차피 다음 총선때는 민주당 찍으실 거지 않습니까",
       "source": "클리앙",
-      "category": "스포츠",
-      "url": "https://www.clien.net/service/board/park/19276301?od=T31&po=0&category=0&groupCd=",
-      "first_seen": "2026-10-12T03:09:47.824635+09:00",
-      "last_seen": "2026-10-12T03:09:47.824635+09:00",
-      "peak_score": 79.5,
-      "max_views": 1259,
-      "max_likes": 2,
-      "max_comments": 22,
-      "appearances": 1,
-      "score": 88.89,
-      "views": 1259,
-      "likes": 2,
-      "comments": 22,
-      "change": "NEW"
-    },
-    {
-      "title": "싱글벙글 자신을 치료해준 아재를 불길속에서 구한 털바퀴",
-      "source": "디시인사이드",
       "category": "이슈",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469576&_dcbest=1&page=1",
-      "first_seen": "2026-10-11T22:09:31.879059+09:00",
-      "last_seen": "2026-10-12T03:09:47.824635+09:00",
-      "peak_score": 77.73,
-      "max_views": 22362,
-      "max_likes": 213,
-      "max_comments": 204,
-      "appearances": 3,
-      "score": 88.5,
-      "views": 22362,
-      "likes": 213,
-      "comments": 204,
-      "change": 44
-    },
-    {
-      "title": "한녀들 \"한국 저출산은 한남들 때문\".jpg",
-      "source": "디시인사이드",
-      "category": "이슈",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469612&_dcbest=1&page=1",
+      "url": "https://www.clien.net/service/board/park/19276291?od=T31&po=0&category=0&groupCd=",
       "first_seen": "2026-10-12T03:09:47.824635+09:00",
-      "last_seen": "2026-10-12T03:09:47.824635+09:00",
-      "peak_score": 78.44,
-      "max_views": 12918,
-      "max_likes": 358,
-      "max_comments": 541,
-      "appearances": 1,
-      "score": 87.83,
-      "views": 12918,
-      "likes": 358,
-      "comments": 541,
-      "change": "NEW"
+      "last_seen": "2026-10-12T07:07:36.695804+09:00",
+      "peak_score": 83.23,
+      "max_views": 3436,
+      "max_likes": 0,
+      "max_comments": 39,
+      "appearances": 2,
+      "score": 93.43,
+      "views": 3436,
+      "likes": 0,
+      "comments": 39,
+      "change": -5
     }
   ],
   "rising": [
     {
-      "source": "뽐뿌",
-      "title": "시외버스 잔여좌석 없어서 승차거절당했네요;",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=problem&no=237186",
-      "category": "이슈",
-      "views": 18188,
-      "likes": 5,
-      "comments": 77,
-      "score": 87.16,
-      "change": 49,
-      "current_rank": 4,
+      "source": "루리웹",
+      "title": "[닌텐도스토어] 파이널 판타지 6 6570원",
+      "url": "https://bbs.ruliweb.com/market/board/1020/read/107935",
+      "category": "게임",
+      "views": 19905,
+      "likes": 25,
+      "comments": 20,
+      "score": 86.49,
+      "change": 2,
+      "current_rank": 5,
       "new_entry": false,
-      "delta_views": 10863,
-      "delta_likes": 4,
-      "delta_comments": 39,
-      "rank_gain": 49,
+      "delta_views": 10477,
+      "delta_likes": 6,
+      "delta_comments": 7,
+      "rank_gain": 2,
       "rising_score": 100.0,
       "rising_rank": 1,
-      "window_minutes": 277
+      "window_minutes": 238
     },
     {
-      "source": "더쿠",
-      "title": "엥? 괴출 휴재 길어서 판이 터졌다고? 이게 대체 무슨 소리임",
-      "url": "https://theqoo.net/hot/4372413292",
-      "category": "이슈",
-      "views": 47668,
-      "likes": 0,
-      "comments": 535,
-      "score": 56.11,
+      "source": "디시인사이드",
+      "title": "mz부부 레전드 근황......jpg",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469602&_dcbest=1&page=1",
+      "category": "유머",
+      "views": 28304,
+      "likes": 470,
+      "comments": 506,
+      "score": 74.91,
       "change": 0,
-      "current_rank": 80,
+      "current_rank": 14,
       "new_entry": false,
-      "delta_views": 42608,
-      "delta_likes": 0,
-      "delta_comments": 448,
+      "delta_views": 4718,
+      "delta_likes": 61,
+      "delta_comments": 45,
       "rank_gain": 0,
-      "rising_score": 100.0,
+      "rising_score": 88.58,
       "rising_rank": 2,
-      "window_minutes": 277
+      "window_minutes": 238
+    },
+    {
+      "source": "클리앙",
+      "title": "윤석열 골프 사건과는 좀 다르죠.",
+      "url": "https://www.clien.net/service/board/park/19276301?od=T31&po=0&category=0&groupCd=",
+      "category": "스포츠",
+      "views": 4748,
+      "likes": 8,
+      "comments": 28,
+      "score": 69.82,
+      "change": 0,
+      "current_rank": 24,
+      "new_entry": false,
+      "delta_views": 3489,
+      "delta_likes": 6,
+      "delta_comments": 6,
+      "rank_gain": 0,
+      "rising_score": 87.04,
+      "rising_rank": 3,
+      "window_minutes": 238
+    },
+    {
+      "source": "디시인사이드",
+      "title": "새로 뜬 일본인 여친 동거 후기 2탄.jpg",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469614&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 19405,
+      "likes": 93,
+      "comments": 185,
+      "score": 72.48,
+      "change": 0,
+      "current_rank": 20,
+      "new_entry": false,
+      "delta_views": 4998,
+      "delta_likes": 27,
+      "delta_comments": 28,
+      "rank_gain": 0,
+      "rising_score": 85.19,
+      "rising_rank": 4,
+      "window_minutes": 238
     },
     {
       "source": "루리웹",
-      "title": "전세계 과학력 대학순위 TOP 20",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76991817?m=humor",
+      "title": "결정사 최하등급 40세 노처녀의 결혼 조건....JPG",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76993162?m=humor",
       "category": "이슈",
-      "views": 11595,
-      "likes": 80,
-      "comments": 70,
-      "score": 97.67,
+      "views": 18242,
+      "likes": 141,
+      "comments": 77,
+      "score": 98.96,
       "change": "NEW",
       "current_rank": 1,
       "new_entry": true,
@@ -275,19 +315,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 83.02,
-      "rising_rank": 3,
-      "window_minutes": 277
+      "rising_score": 83.56,
+      "rising_rank": 5,
+      "window_minutes": 238
     },
     {
       "source": "루리웹",
-      "title": "모유) 히토미 간만에 보다 생각난것",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76991941?m=humor",
-      "category": "이슈",
-      "views": 9272,
-      "likes": 121,
-      "comments": 80,
-      "score": 95.76,
+      "title": "엄마랑 이모랑 일본 여행 옴....",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76993881?m=humor",
+      "category": "생활",
+      "views": 11545,
+      "likes": 60,
+      "comments": 69,
+      "score": 94.94,
       "change": "NEW",
       "current_rank": 2,
       "new_entry": true,
@@ -295,19 +335,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.22,
-      "rising_rank": 4,
-      "window_minutes": 277
+      "rising_score": 81.87,
+      "rising_rank": 6,
+      "window_minutes": 238
     },
     {
       "source": "루리웹",
-      "title": "삼성 불매하자는 우크라이나인",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76990238?m=humor",
+      "title": "진짜 고자가 아닌가 싶은 애니 주인공",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76994000?m=humor",
       "category": "이슈",
-      "views": 23898,
-      "likes": 165,
-      "comments": 63,
-      "score": 94.6,
+      "views": 9113,
+      "likes": 41,
+      "comments": 45,
+      "score": 90.92,
       "change": "NEW",
       "current_rank": 3,
       "new_entry": true,
@@ -315,112 +355,157 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 81.73,
-      "rising_rank": 5,
-      "window_minutes": 277
+      "rising_score": 80.19,
+      "rising_rank": 7,
+      "window_minutes": 238
+    },
+    {
+      "source": "뽐뿌",
+      "title": "맨 주먹에서 시작한 부부 돈 모으기 참 힘드네요.",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=problem&no=237182",
+      "category": "이슈",
+      "views": 15238,
+      "likes": 14,
+      "comments": 82,
+      "score": 87.5,
+      "change": "NEW",
+      "current_rank": 4,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 78.75,
+      "rising_rank": 8,
+      "window_minutes": 238
+    },
+    {
+      "source": "인벤",
+      "title": "도는 순간 집중시키는 에이핑크 오하영",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2739082",
+      "category": "연예",
+      "views": 2408,
+      "likes": 1,
+      "comments": 1,
+      "score": 54.04,
+      "change": 0,
+      "current_rank": 90,
+      "new_entry": false,
+      "delta_views": 2310,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 78.57,
+      "rising_rank": 9,
+      "window_minutes": 238
     },
     {
       "source": "디시인사이드",
-      "title": "문재인 대통령 x실시간 트렌드 입갤",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469592&_dcbest=1&page=1",
+      "title": "척추 전문의가 말하는 허리나가는 운동 best 5",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469620&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 14470,
-      "likes": 179,
-      "comments": 217,
-      "score": 63.66,
+      "views": 13852,
+      "likes": 93,
+      "comments": 376,
+      "score": 74.71,
       "change": 0,
-      "current_rank": 42,
+      "current_rank": 16,
       "new_entry": false,
-      "delta_views": 8889,
-      "delta_likes": 64,
-      "delta_comments": 92,
+      "delta_views": 4055,
+      "delta_likes": 14,
+      "delta_comments": 62,
       "rank_gain": 0,
-      "rising_score": 80.0,
-      "rising_rank": 6,
-      "window_minutes": 277
-    },
-    {
-      "source": "클리앙",
-      "title": "어차피 다음 총선때는 민주당 찍으실 거지 않습니까",
-      "url": "https://www.clien.net/service/board/park/19276291?od=T31&po=0&category=0&groupCd=",
-      "category": "이슈",
-      "views": 1817,
-      "likes": 0,
-      "comments": 35,
-      "score": 83.23,
-      "change": "NEW",
-      "current_rank": 5,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 76.96,
-      "rising_rank": 7,
-      "window_minutes": 277
-    },
-    {
-      "source": "클리앙",
-      "title": "이재명 대통령은 기본적으로 '인정'과 '사과'를 할 줄 모르는 사람인가요?",
-      "url": "https://www.clien.net/service/board/park/19276287?od=T31&po=0&category=0&groupCd=",
-      "category": "이슈",
-      "views": 2680,
-      "likes": 13,
-      "comments": 50,
-      "score": 81.14,
-      "change": "NEW",
-      "current_rank": 6,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 76.08,
-      "rising_rank": 8,
-      "window_minutes": 277
-    },
-    {
-      "source": "루리웹",
-      "title": "[닌텐도스토어] 파이널 판타지 6 6570원",
-      "url": "https://bbs.ruliweb.com/market/board/1020/read/107935",
-      "category": "게임",
-      "views": 9428,
-      "likes": 19,
-      "comments": 13,
-      "score": 79.87,
-      "change": "NEW",
-      "current_rank": 7,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 75.55,
-      "rising_rank": 9,
-      "window_minutes": 277
-    },
-    {
-      "source": "클리앙",
-      "title": "윤석열 골프 사건과는 좀 다르죠.",
-      "url": "https://www.clien.net/service/board/park/19276301?od=T31&po=0&category=0&groupCd=",
-      "category": "스포츠",
-      "views": 1259,
-      "likes": 2,
-      "comments": 22,
-      "score": 79.5,
-      "change": "NEW",
-      "current_rank": 8,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 75.39,
+      "rising_score": 78.09,
       "rising_rank": 10,
-      "window_minutes": 277
+      "window_minutes": 238
     }
   ],
   "issues": [
+    {
+      "id": "i67f949c5",
+      "title": "‘시작한’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "시작한"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 105.97,
+      "peak_score": 96.5,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 4,
+          "title": "맨 주먹에서 시작한 부부 돈 모으기 참 힘드네요.",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=problem&no=237182",
+          "score": 87.5
+        },
+        {
+          "source": "더쿠",
+          "rank": 63,
+          "title": "오늘 시작한 온에어 반응 호호호호호에 존잼 반응 많은 예능",
+          "url": "https://theqoo.net/hot/4372496155",
+          "score": 59.58
+        }
+      ],
+      "first_seen": "2026-10-02T08:05:57.140972+09:00",
+      "last_seen": "2026-10-12T07:07:36.695804+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 1,
+      "change": "NEW"
+    },
+    {
+      "id": "ie375bdab",
+      "title": "[리얼미터 여론조사]李대통령 지지율 2.2%p 내린 35.2%",
+      "keywords": [
+        "리얼미터",
+        "내린",
+        "지지율"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 96.28,
+      "peak_score": 85.81,
+      "appearances": 1,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 12,
+          "title": "[리얼미터 여론조사]李대통령 지지율 2.2%p 내린 35.2%",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2739093",
+          "score": 75.81
+        },
+        {
+          "source": "클리앙",
+          "rank": 22,
+          "title": "방금 나온 리얼미터 대통령지지율과 정당지지도",
+          "url": "https://www.clien.net/service/board/park/19276312?od=T31&po=0&category=0&groupCd=",
+          "score": 71.69
+        },
+        {
+          "source": "클리앙",
+          "rank": 68,
+          "title": "[리얼미터]李대통령 지지율 2.2%p 내린 35.2%",
+          "url": "https://www.clien.net/service/board/park/19276315?od=T31&po=0&category=0&groupCd=",
+          "score": 59.25
+        }
+      ],
+      "first_seen": "2026-10-05T09:13:38.536627+09:00",
+      "last_seen": "2026-10-12T07:07:36.695804+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 3,
+      "rank": 2,
+      "change": "NEW"
+    },
     {
       "id": "i5781c296",
       "title": "‘네이버’ 관련 글이 여러 커뮤니티에서 화제",
@@ -456,7 +541,53 @@
       "last_seen": "2026-10-12T03:09:47.824635+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 1,
+      "rank": 3,
+      "change": -2
+    },
+    {
+      "id": "i68fcb6ec",
+      "title": "이언주 MBC 신임 보도국장, 특정 정파 위한 뉴스라는 오해에서 벗어날 것",
+      "keywords": [
+        "특정",
+        "위한",
+        "뉴스라는",
+        "mbc",
+        "신임",
+        "오해에서",
+        "보도국장",
+        "벗어날",
+        "이언주"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 85.91,
+      "peak_score": 76.44,
+      "appearances": 1,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 27,
+          "title": "이언주 MBC 신임 보도국장, 특정 정파 위한 뉴스라는 오해에서 벗어날 것",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2739092",
+          "score": 68.44
+        },
+        {
+          "source": "클리앙",
+          "rank": 54,
+          "title": "이언주 MBC 신임 보도국장, '특정 정파 위한 뉴스라는 오해에서 벗어날 것'",
+          "url": "https://www.clien.net/service/board/park/19276314?od=T31&po=0&category=0&groupCd=",
+          "score": 61.13
+        }
+      ],
+      "first_seen": "2026-10-12T07:07:36.695804+09:00",
+      "last_seen": "2026-10-12T07:07:36.695804+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 4,
       "change": "NEW"
     },
     {
@@ -494,21 +625,64 @@
       "last_seen": "2026-10-12T03:09:47.824635+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 2,
-      "change": "NEW"
+      "rank": 5,
+      "change": -3
     }
   ],
   "realtime_issues": [
     {
-      "id": "i5781c296",
-      "title": "‘네이버’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "ie375bdab",
+      "title": "[리얼미터 여론조사]李대통령 지지율 2.2%p 내린 35.2%",
       "keywords": [
-        "네이버"
+        "리얼미터",
+        "내린",
+        "지지율"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 85.81,
+      "peak_score": 85.81,
+      "appearances": 1,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 12,
+          "title": "[리얼미터 여론조사]李대통령 지지율 2.2%p 내린 35.2%",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2739093",
+          "score": 75.81
+        },
+        {
+          "source": "클리앙",
+          "rank": 22,
+          "title": "방금 나온 리얼미터 대통령지지율과 정당지지도",
+          "url": "https://www.clien.net/service/board/park/19276312?od=T31&po=0&category=0&groupCd=",
+          "score": 71.69
+        },
+        {
+          "source": "클리앙",
+          "rank": 68,
+          "title": "[리얼미터]李대통령 지지율 2.2%p 내린 35.2%",
+          "url": "https://www.clien.net/service/board/park/19276315?od=T31&po=0&category=0&groupCd=",
+          "score": 59.25
+        }
+      ],
+      "rank": 1,
+      "change": "NEW"
+    },
+    {
+      "id": "i67f949c5",
+      "title": "‘시작한’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "시작한"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 78.96,
-      "peak_score": 78.96,
+      "score": 96.5,
+      "peak_score": 96.5,
       "appearances": 1,
       "sources": [
         "더쿠",
@@ -517,122 +691,132 @@
       "posts": [
         {
           "source": "뽐뿌",
-          "rank": 16,
-          "title": "[네이버] 토너세이브 프린터 & 복합기 특가 최대 31% 할인",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=pmarket&no=304096",
-          "score": 69.96
+          "rank": 4,
+          "title": "맨 주먹에서 시작한 부부 돈 모으기 참 힘드네요.",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=problem&no=237182",
+          "score": 87.5
         },
         {
           "source": "더쿠",
-          "rank": 70,
-          "title": "[광고] 더쿠 X FLO 응원하기 댓글 이벤트🔥네이버 페이 1만 포인트 받자! (+선착순 쿠폰)",
-          "url": "https://theqoo.net/hot/4372537961",
-          "score": 57.84
+          "rank": 63,
+          "title": "오늘 시작한 온에어 반응 호호호호호에 존잼 반응 많은 예능",
+          "url": "https://theqoo.net/hot/4372496155",
+          "score": 59.58
         }
       ],
-      "rank": 1,
+      "rank": 2,
       "change": "NEW"
     },
     {
-      "id": "iae6b0123",
-      "title": "‘실시간’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i68fcb6ec",
+      "title": "이언주 MBC 신임 보도국장, 특정 정파 위한 뉴스라는 오해에서 벗어날 것",
       "keywords": [
-        "실시간"
+        "특정",
+        "위한",
+        "뉴스라는",
+        "mbc",
+        "신임",
+        "오해에서",
+        "보도국장",
+        "벗어날",
+        "이언주"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 75.13,
-      "peak_score": 75.13,
+      "score": 76.44,
+      "peak_score": 76.44,
       "appearances": 1,
       "sources": [
-        "더쿠",
+        "인벤",
         "클리앙"
       ],
       "posts": [
         {
-          "source": "클리앙",
-          "rank": 28,
-          "title": "현재 펨코 // '클리앙 공략' 관련 실시간 인기글",
-          "url": "https://www.clien.net/service/board/park/19276281?od=T31&po=0&category=0&groupCd=",
-          "score": 66.13
+          "source": "인벤",
+          "rank": 27,
+          "title": "이언주 MBC 신임 보도국장, 특정 정파 위한 뉴스라는 오해에서 벗어날 것",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2739092",
+          "score": 68.44
         },
         {
-          "source": "더쿠",
-          "rank": 49,
-          "title": "10월 중순 실시간 사람들 근황.....jpg",
-          "url": "https://theqoo.net/hot/4372449799",
-          "score": 62.58
+          "source": "클리앙",
+          "rank": 54,
+          "title": "이언주 MBC 신임 보도국장, '특정 정파 위한 뉴스라는 오해에서 벗어날 것'",
+          "url": "https://www.clien.net/service/board/park/19276314?od=T31&po=0&category=0&groupCd=",
+          "score": 61.13
         }
       ],
-      "rank": 2,
+      "rank": 3,
       "change": "NEW"
     }
   ],
   "keywords": [
     {
-      "keyword": "민주당",
-      "score": 107.89,
+      "keyword": "일본",
+      "score": 136.05,
       "post_count": 3,
-      "source_count": 2,
-      "best_rank": 5,
+      "source_count": 3,
+      "best_rank": 2,
       "sources": [
-        "디시인사이드",
-        "클리앙"
+        "더쿠",
+        "루리웹",
+        "뽐뿌"
       ],
       "aliases": [],
       "rank": 1,
       "change": "NEW"
     },
     {
-      "keyword": "골프",
-      "score": 101.05,
+      "keyword": "민주당",
+      "score": 118.23,
       "post_count": 3,
-      "source_count": 2,
-      "best_rank": 8,
+      "source_count": 3,
+      "best_rank": 41,
       "sources": [
+        "디시인사이드",
         "인벤",
         "클리앙"
       ],
       "aliases": [],
       "rank": 2,
-      "change": "NEW"
+      "change": -1
     },
     {
       "keyword": "한국",
-      "score": 94.87,
-      "post_count": 3,
+      "score": 107.0,
+      "post_count": 2,
       "source_count": 2,
-      "best_rank": 9,
+      "best_rank": 7,
       "sources": [
         "디시인사이드",
         "인벤"
       ],
       "aliases": [],
       "rank": 3,
-      "change": "NEW"
+      "change": 0
     },
     {
-      "keyword": "네이버",
-      "score": 91.21,
+      "keyword": "골프",
+      "score": 104.48,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 16,
+      "best_rank": 6,
       "sources": [
-        "더쿠",
-        "뽐뿌"
+        "인벤",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 4,
-      "change": "NEW"
+      "change": -2
     },
     {
-      "keyword": "실시간",
-      "score": 91.02,
-      "post_count": 2,
+      "keyword": "리얼미터",
+      "score": 103.18,
+      "post_count": 3,
       "source_count": 2,
-      "best_rank": 28,
+      "best_rank": 12,
       "sources": [
-        "더쿠",
+        "인벤",
         "클리앙"
       ],
       "aliases": [],
@@ -640,96 +824,174 @@
       "change": "NEW"
     },
     {
-      "keyword": "종교",
-      "score": 89.18,
+      "keyword": "시작한",
+      "score": 100.39,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 40,
+      "best_rank": 4,
       "sources": [
-        "디시인사이드",
-        "루리웹"
+        "더쿠",
+        "뽐뿌"
       ],
       "aliases": [],
       "rank": 6,
       "change": "NEW"
     },
     {
-      "keyword": "대응",
-      "score": 83.49,
+      "keyword": "지지율",
+      "score": 94.35,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 36,
+      "best_rank": 12,
       "sources": [
         "인벤",
         "클리앙"
       ],
-      "aliases": [],
+      "aliases": [
+        "내린"
+      ],
       "rank": 7,
       "change": "NEW"
     },
     {
-      "keyword": "부동산",
-      "score": 83.12,
+      "keyword": "후기",
+      "score": 93.26,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 20,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "aliases": [],
+      "rank": 8,
+      "change": "NEW"
+    },
+    {
+      "keyword": "미국",
+      "score": 91.23,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 13,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌"
+      ],
+      "aliases": [],
+      "rank": 9,
+      "change": "NEW"
+    },
+    {
+      "keyword": "보도국장",
+      "score": 90.66,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 27,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "aliases": [
+        "mbc",
+        "뉴스라",
+        "벗어날",
+        "신임",
+        "오해"
+      ],
+      "rank": 10,
+      "change": "NEW"
+    },
+    {
+      "keyword": "vs",
+      "score": 89.74,
       "post_count": 2,
       "source_count": 2,
       "best_rank": 35,
+      "sources": [
+        "더쿠",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 11,
+      "change": "NEW"
+    },
+    {
+      "keyword": "만화",
+      "score": 86.48,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 30,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "aliases": [],
+      "rank": 12,
+      "change": "NEW"
+    },
+    {
+      "keyword": "경고",
+      "score": 84.1,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 41,
       "sources": [
         "디시인사이드",
         "클리앙"
       ],
       "aliases": [],
-      "rank": 8,
+      "rank": 13,
       "change": "NEW"
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "전세계 과학력 대학순위 TOP 20",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/76991817?m=humor",
-      "score": 97.67,
-      "views": 11595,
-      "comments": 70
-    },
-    {
-      "source": "뽐뿌",
-      "title": "시외버스 잔여좌석 없어서 승차거절당했네요;",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=problem&no=237186",
-      "score": 87.16,
-      "views": 18188,
+      "title": "결정사 최하등급 40세 노처녀의 결혼 조건....JPG",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/76993162?m=humor",
+      "score": 98.96,
+      "views": 18242,
       "comments": 77
     },
     {
-      "source": "클리앙",
-      "title": "어차피 다음 총선때는 민주당 찍으실 거지 않습니까",
-      "url": "https://www.clien.net/service/board/park/19276291?od=T31&po=0&category=0&groupCd=",
-      "score": 83.23,
-      "views": 1817,
-      "comments": 35
+      "source": "뽐뿌",
+      "title": "맨 주먹에서 시작한 부부 돈 모으기 참 힘드네요.",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=problem&no=237182",
+      "score": 87.5,
+      "views": 15238,
+      "comments": 82
+    },
+    {
+      "source": "인벤",
+      "title": "대통령 황제 골프 비판",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2739087",
+      "score": 79.77,
+      "views": 3320,
+      "comments": 18
     },
     {
       "source": "디시인사이드",
       "title": "한녀들 \"한국 저출산은 한남들 때문\".jpg",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469612&_dcbest=1&page=1",
-      "score": 78.44,
-      "views": 12918,
-      "comments": 541
-    },
-    {
-      "source": "인벤",
-      "title": "옆구리와 허벅지 에스파 카리나",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2739085",
-      "score": 68.16,
-      "views": 84,
-      "comments": 1
+      "score": 79.53,
+      "views": 16985,
+      "comments": 554
     },
     {
       "source": "더쿠",
-      "title": "난 남자들이 이걸 맨날 착각하는 게 너무 웃김 A의 특출난 점이라고는 그냥 벤츠타고 매번 데리러온다는 거밖에 없는데 일단 키 173 vs 키 183 부터 이미 게임 끝난거 아님? 밸런스 맞추고 싶으면 키173 존잘 벤츠 vs 키 183 평범 뚜벅이 이렇게라도 하던지 그냥 여자들이 돈많은 남자면 무조건 좋아할거라는 뇌내망상 속에 빠져가지고 벤츠면 될거라는 생각 ㅉㅉ",
-      "url": "https://theqoo.net/hot/4372511326",
-      "score": 67.21,
-      "views": 29113,
-      "comments": 466
+      "title": "내향인은 다 똑같은걸 고른다는 자리고르기",
+      "url": "https://theqoo.net/hot/4372640139",
+      "score": 74.0,
+      "views": 14478,
+      "comments": 147
+    },
+    {
+      "source": "클리앙",
+      "title": "방금 나온 리얼미터 대통령지지율과 정당지지도",
+      "url": "https://www.clien.net/service/board/park/19276312?od=T31&po=0&category=0&groupCd=",
+      "score": 71.69,
+      "views": 2282,
+      "comments": 23
     }
   ]
 }

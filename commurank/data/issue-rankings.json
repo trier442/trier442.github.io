@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-10-12T03:09:47.824635+09:00",
+  "collected_at": "2026-10-12T07:07:36.695804+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -11,15 +11,58 @@
   "rankings": {
     "realtime": [
       {
-        "id": "i5781c296",
-        "title": "‘네이버’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "ie375bdab",
+        "title": "[리얼미터 여론조사]李대통령 지지율 2.2%p 내린 35.2%",
         "keywords": [
-          "네이버"
+          "리얼미터",
+          "내린",
+          "지지율"
+        ],
+        "source_count": 2,
+        "post_count": 3,
+        "score": 85.81,
+        "peak_score": 85.81,
+        "appearances": 1,
+        "sources": [
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 12,
+            "title": "[리얼미터 여론조사]李대통령 지지율 2.2%p 내린 35.2%",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2739093",
+            "score": 75.81
+          },
+          {
+            "source": "클리앙",
+            "rank": 22,
+            "title": "방금 나온 리얼미터 대통령지지율과 정당지지도",
+            "url": "https://www.clien.net/service/board/park/19276312?od=T31&po=0&category=0&groupCd=",
+            "score": 71.69
+          },
+          {
+            "source": "클리앙",
+            "rank": 68,
+            "title": "[리얼미터]李대통령 지지율 2.2%p 내린 35.2%",
+            "url": "https://www.clien.net/service/board/park/19276315?od=T31&po=0&category=0&groupCd=",
+            "score": 59.25
+          }
+        ],
+        "rank": 1,
+        "change": "NEW"
+      },
+      {
+        "id": "i67f949c5",
+        "title": "‘시작한’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "시작한"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 78.96,
-        "peak_score": 78.96,
+        "score": 96.5,
+        "peak_score": 96.5,
         "appearances": 1,
         "sources": [
           "더쿠",
@@ -28,59 +71,152 @@
         "posts": [
           {
             "source": "뽐뿌",
-            "rank": 16,
-            "title": "[네이버] 토너세이브 프린터 & 복합기 특가 최대 31% 할인",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=pmarket&no=304096",
-            "score": 69.96
+            "rank": 4,
+            "title": "맨 주먹에서 시작한 부부 돈 모으기 참 힘드네요.",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=problem&no=237182",
+            "score": 87.5
           },
           {
             "source": "더쿠",
-            "rank": 70,
-            "title": "[광고] 더쿠 X FLO 응원하기 댓글 이벤트🔥네이버 페이 1만 포인트 받자! (+선착순 쿠폰)",
-            "url": "https://theqoo.net/hot/4372537961",
-            "score": 57.84
+            "rank": 63,
+            "title": "오늘 시작한 온에어 반응 호호호호호에 존잼 반응 많은 예능",
+            "url": "https://theqoo.net/hot/4372496155",
+            "score": 59.58
           }
         ],
-        "rank": 1,
+        "rank": 2,
         "change": "NEW"
       },
       {
-        "id": "iae6b0123",
-        "title": "‘실시간’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i68fcb6ec",
+        "title": "이언주 MBC 신임 보도국장, 특정 정파 위한 뉴스라는 오해에서 벗어날 것",
         "keywords": [
-          "실시간"
+          "특정",
+          "위한",
+          "뉴스라는",
+          "mbc",
+          "신임",
+          "오해에서",
+          "보도국장",
+          "벗어날",
+          "이언주"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 75.13,
-        "peak_score": 75.13,
+        "score": 76.44,
+        "peak_score": 76.44,
         "appearances": 1,
         "sources": [
-          "더쿠",
+          "인벤",
           "클리앙"
         ],
         "posts": [
           {
-            "source": "클리앙",
-            "rank": 28,
-            "title": "현재 펨코 // '클리앙 공략' 관련 실시간 인기글",
-            "url": "https://www.clien.net/service/board/park/19276281?od=T31&po=0&category=0&groupCd=",
-            "score": 66.13
+            "source": "인벤",
+            "rank": 27,
+            "title": "이언주 MBC 신임 보도국장, 특정 정파 위한 뉴스라는 오해에서 벗어날 것",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2739092",
+            "score": 68.44
           },
           {
-            "source": "더쿠",
-            "rank": 49,
-            "title": "10월 중순 실시간 사람들 근황.....jpg",
-            "url": "https://theqoo.net/hot/4372449799",
-            "score": 62.58
+            "source": "클리앙",
+            "rank": 54,
+            "title": "이언주 MBC 신임 보도국장, '특정 정파 위한 뉴스라는 오해에서 벗어날 것'",
+            "url": "https://www.clien.net/service/board/park/19276314?od=T31&po=0&category=0&groupCd=",
+            "score": 61.13
           }
         ],
-        "rank": 2,
+        "rank": 3,
         "change": "NEW"
       }
     ],
     "daily": [
       {
+        "id": "i67f949c5",
+        "title": "‘시작한’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "시작한"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 105.97,
+        "peak_score": 96.5,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 4,
+            "title": "맨 주먹에서 시작한 부부 돈 모으기 참 힘드네요.",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=problem&no=237182",
+            "score": 87.5
+          },
+          {
+            "source": "더쿠",
+            "rank": 63,
+            "title": "오늘 시작한 온에어 반응 호호호호호에 존잼 반응 많은 예능",
+            "url": "https://theqoo.net/hot/4372496155",
+            "score": 59.58
+          }
+        ],
+        "first_seen": "2026-10-02T08:05:57.140972+09:00",
+        "last_seen": "2026-10-12T07:07:36.695804+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 1,
+        "change": "NEW"
+      },
+      {
+        "id": "ie375bdab",
+        "title": "[리얼미터 여론조사]李대통령 지지율 2.2%p 내린 35.2%",
+        "keywords": [
+          "리얼미터",
+          "내린",
+          "지지율"
+        ],
+        "source_count": 2,
+        "post_count": 3,
+        "score": 96.28,
+        "peak_score": 85.81,
+        "appearances": 1,
+        "sources": [
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 12,
+            "title": "[리얼미터 여론조사]李대통령 지지율 2.2%p 내린 35.2%",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2739093",
+            "score": 75.81
+          },
+          {
+            "source": "클리앙",
+            "rank": 22,
+            "title": "방금 나온 리얼미터 대통령지지율과 정당지지도",
+            "url": "https://www.clien.net/service/board/park/19276312?od=T31&po=0&category=0&groupCd=",
+            "score": 71.69
+          },
+          {
+            "source": "클리앙",
+            "rank": 68,
+            "title": "[리얼미터]李대통령 지지율 2.2%p 내린 35.2%",
+            "url": "https://www.clien.net/service/board/park/19276315?od=T31&po=0&category=0&groupCd=",
+            "score": 59.25
+          }
+        ],
+        "first_seen": "2026-10-05T09:13:38.536627+09:00",
+        "last_seen": "2026-10-12T07:07:36.695804+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 3,
+        "rank": 2,
+        "change": "NEW"
+      },
+      {
         "id": "i5781c296",
         "title": "‘네이버’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -115,7 +251,53 @@
         "last_seen": "2026-10-12T03:09:47.824635+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 1,
+        "rank": 3,
+        "change": -2
+      },
+      {
+        "id": "i68fcb6ec",
+        "title": "이언주 MBC 신임 보도국장, 특정 정파 위한 뉴스라는 오해에서 벗어날 것",
+        "keywords": [
+          "특정",
+          "위한",
+          "뉴스라는",
+          "mbc",
+          "신임",
+          "오해에서",
+          "보도국장",
+          "벗어날",
+          "이언주"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 85.91,
+        "peak_score": 76.44,
+        "appearances": 1,
+        "sources": [
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 27,
+            "title": "이언주 MBC 신임 보도국장, 특정 정파 위한 뉴스라는 오해에서 벗어날 것",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2739092",
+            "score": 68.44
+          },
+          {
+            "source": "클리앙",
+            "rank": 54,
+            "title": "이언주 MBC 신임 보도국장, '특정 정파 위한 뉴스라는 오해에서 벗어날 것'",
+            "url": "https://www.clien.net/service/board/park/19276314?od=T31&po=0&category=0&groupCd=",
+            "score": 61.13
+          }
+        ],
+        "first_seen": "2026-10-12T07:07:36.695804+09:00",
+        "last_seen": "2026-10-12T07:07:36.695804+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 4,
         "change": "NEW"
       },
       {
@@ -153,12 +335,97 @@
         "last_seen": "2026-10-12T03:09:47.824635+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 2,
-        "change": "NEW"
+        "rank": 5,
+        "change": -3
       }
     ],
     "weekly": [
       {
+        "id": "i67f949c5",
+        "title": "‘시작한’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "시작한"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 105.97,
+        "peak_score": 96.5,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 4,
+            "title": "맨 주먹에서 시작한 부부 돈 모으기 참 힘드네요.",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=problem&no=237182",
+            "score": 87.5
+          },
+          {
+            "source": "더쿠",
+            "rank": 63,
+            "title": "오늘 시작한 온에어 반응 호호호호호에 존잼 반응 많은 예능",
+            "url": "https://theqoo.net/hot/4372496155",
+            "score": 59.58
+          }
+        ],
+        "first_seen": "2026-10-02T08:05:57.140972+09:00",
+        "last_seen": "2026-10-12T07:07:36.695804+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 1,
+        "change": "NEW"
+      },
+      {
+        "id": "ie375bdab",
+        "title": "[리얼미터 여론조사]李대통령 지지율 2.2%p 내린 35.2%",
+        "keywords": [
+          "리얼미터",
+          "내린",
+          "지지율"
+        ],
+        "source_count": 2,
+        "post_count": 3,
+        "score": 96.28,
+        "peak_score": 85.81,
+        "appearances": 1,
+        "sources": [
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 12,
+            "title": "[리얼미터 여론조사]李대통령 지지율 2.2%p 내린 35.2%",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2739093",
+            "score": 75.81
+          },
+          {
+            "source": "클리앙",
+            "rank": 22,
+            "title": "방금 나온 리얼미터 대통령지지율과 정당지지도",
+            "url": "https://www.clien.net/service/board/park/19276312?od=T31&po=0&category=0&groupCd=",
+            "score": 71.69
+          },
+          {
+            "source": "클리앙",
+            "rank": 68,
+            "title": "[리얼미터]李대통령 지지율 2.2%p 내린 35.2%",
+            "url": "https://www.clien.net/service/board/park/19276315?od=T31&po=0&category=0&groupCd=",
+            "score": 59.25
+          }
+        ],
+        "first_seen": "2026-10-05T09:13:38.536627+09:00",
+        "last_seen": "2026-10-12T07:07:36.695804+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 3,
+        "rank": 2,
+        "change": "NEW"
+      },
+      {
         "id": "i5781c296",
         "title": "‘네이버’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -193,7 +460,53 @@
         "last_seen": "2026-10-12T03:09:47.824635+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 1,
+        "rank": 3,
+        "change": -2
+      },
+      {
+        "id": "i68fcb6ec",
+        "title": "이언주 MBC 신임 보도국장, 특정 정파 위한 뉴스라는 오해에서 벗어날 것",
+        "keywords": [
+          "특정",
+          "위한",
+          "뉴스라는",
+          "mbc",
+          "신임",
+          "오해에서",
+          "보도국장",
+          "벗어날",
+          "이언주"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 85.91,
+        "peak_score": 76.44,
+        "appearances": 1,
+        "sources": [
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 27,
+            "title": "이언주 MBC 신임 보도국장, 특정 정파 위한 뉴스라는 오해에서 벗어날 것",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2739092",
+            "score": 68.44
+          },
+          {
+            "source": "클리앙",
+            "rank": 54,
+            "title": "이언주 MBC 신임 보도국장, '특정 정파 위한 뉴스라는 오해에서 벗어날 것'",
+            "url": "https://www.clien.net/service/board/park/19276314?od=T31&po=0&category=0&groupCd=",
+            "score": 61.13
+          }
+        ],
+        "first_seen": "2026-10-12T07:07:36.695804+09:00",
+        "last_seen": "2026-10-12T07:07:36.695804+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 4,
         "change": "NEW"
       },
       {
@@ -231,8 +544,8 @@
         "last_seen": "2026-10-12T03:09:47.824635+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 2,
-        "change": "NEW"
+        "rank": 5,
+        "change": -3
       }
     ],
     "monthly": [
