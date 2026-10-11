@@ -1,6 +1,186 @@
 {
   "version": 1,
   "issues": {
+    "iae6b0123": {
+      "id": "iae6b0123",
+      "first_seen": "2026-10-06T11:19:29.813850+09:00",
+      "last_seen": "2026-10-12T03:09:47.824635+09:00",
+      "title": "‘실시간’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "실시간"
+      ],
+      "points": [
+        {
+          "at": "2026-10-06T11:19:29.813850+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 75.94,
+          "sources": [
+            "디시인사이드",
+            "뽐뿌"
+          ],
+          "post_urls": [
+            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10143448",
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=468189&_dcbest=1&page=1"
+          ]
+        },
+        {
+          "at": "2026-10-09T11:31:33.087448+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 96.17,
+          "sources": [
+            "더쿠",
+            "디시인사이드"
+          ],
+          "post_urls": [
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=469005&_dcbest=1&page=1",
+            "https://theqoo.net/hot/4369562698"
+          ]
+        },
+        {
+          "at": "2026-10-09T12:01:08.789542+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 94.26,
+          "sources": [
+            "더쿠",
+            "디시인사이드"
+          ],
+          "post_urls": [
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=469005&_dcbest=1&page=1",
+            "https://theqoo.net/hot/4369562698"
+          ]
+        },
+        {
+          "at": "2026-10-12T03:09:47.824635+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 75.13,
+          "sources": [
+            "더쿠",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://www.clien.net/service/board/park/19276281?od=T31&po=0&category=0&groupCd=",
+            "https://theqoo.net/hot/4372449799"
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 28,
+          "title": "현재 펨코 // '클리앙 공략' 관련 실시간 인기글",
+          "url": "https://www.clien.net/service/board/park/19276281?od=T31&po=0&category=0&groupCd=",
+          "score": 66.13
+        },
+        {
+          "source": "더쿠",
+          "rank": 49,
+          "title": "10월 중순 실시간 사람들 근황.....jpg",
+          "url": "https://theqoo.net/hot/4372449799",
+          "score": 62.58
+        }
+      ]
+    },
+    "i5781c296": {
+      "id": "i5781c296",
+      "first_seen": "2026-09-27T20:23:34.525151+09:00",
+      "last_seen": "2026-10-12T03:09:47.824635+09:00",
+      "title": "‘네이버’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "네이버"
+      ],
+      "points": [
+        {
+          "at": "2026-09-27T20:23:34.525151+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 90.49,
+          "sources": [
+            "더쿠",
+            "루리웹"
+          ],
+          "post_urls": [
+            "https://bbs.ruliweb.com/market/board/1020/read/107560",
+            "https://theqoo.net/hot/4357782924"
+          ]
+        },
+        {
+          "at": "2026-10-01T00:51:55.502360+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 72.89,
+          "sources": [
+            "더쿠",
+            "뽐뿌"
+          ],
+          "post_urls": [
+            "https://theqoo.net/hot/4361438752",
+            "https://www.ppomppu.co.kr/zboard/view.php?id=money&no=548350"
+          ]
+        },
+        {
+          "at": "2026-10-01T01:30:43.873431+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 79.92,
+          "sources": [
+            "더쿠",
+            "뽐뿌"
+          ],
+          "post_urls": [
+            "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=737327",
+            "https://theqoo.net/hot/4361438752"
+          ]
+        },
+        {
+          "at": "2026-10-01T06:00:23.851701+09:00",
+          "source_count": 2,
+          "post_count": 4,
+          "score": 78.06,
+          "sources": [
+            "더쿠",
+            "뽐뿌"
+          ],
+          "post_urls": [
+            "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=737327",
+            "https://theqoo.net/hot/4361438752"
+          ]
+        },
+        {
+          "at": "2026-10-12T03:09:47.824635+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 78.96,
+          "sources": [
+            "더쿠",
+            "뽐뿌"
+          ],
+          "post_urls": [
+            "https://www.ppomppu.co.kr/zboard/view.php?id=pmarket&no=304096",
+            "https://theqoo.net/hot/4372537961"
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 16,
+          "title": "[네이버] 토너세이브 프린터 & 복합기 특가 최대 31% 할인",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=pmarket&no=304096",
+          "score": 69.96
+        },
+        {
+          "source": "더쿠",
+          "rank": 70,
+          "title": "[광고] 더쿠 X FLO 응원하기 댓글 이벤트🔥네이버 페이 1만 포인트 받자! (+선착순 쿠폰)",
+          "url": "https://theqoo.net/hot/4372537961",
+          "score": 57.84
+        }
+      ]
+    },
     "i039fd79c": {
       "id": "i039fd79c",
       "first_seen": "2026-09-27T13:38:37.715424+09:00",
@@ -4196,76 +4376,6 @@
           "title": "한글날.. 아이들과 청계천을 가볼까 합니다 .",
           "url": "https://www.clien.net/service/board/park/19275328?od=T31&po=0&category=0&groupCd=",
           "score": 58.77
-        }
-      ]
-    },
-    "iae6b0123": {
-      "id": "iae6b0123",
-      "first_seen": "2026-10-06T11:19:29.813850+09:00",
-      "last_seen": "2026-10-09T12:01:08.789542+09:00",
-      "title": "싱글벙글 서버터진 쿠팡 실시간 근황",
-      "keywords": [
-        "실시간",
-        "쿠팡"
-      ],
-      "points": [
-        {
-          "at": "2026-10-06T11:19:29.813850+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 75.94,
-          "sources": [
-            "디시인사이드",
-            "뽐뿌"
-          ],
-          "post_urls": [
-            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10143448",
-            "https://gall.dcinside.com/board/view/?id=dcbest&no=468189&_dcbest=1&page=1"
-          ]
-        },
-        {
-          "at": "2026-10-09T11:31:33.087448+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 96.17,
-          "sources": [
-            "더쿠",
-            "디시인사이드"
-          ],
-          "post_urls": [
-            "https://gall.dcinside.com/board/view/?id=dcbest&no=469005&_dcbest=1&page=1",
-            "https://theqoo.net/hot/4369562698"
-          ]
-        },
-        {
-          "at": "2026-10-09T12:01:08.789542+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 94.26,
-          "sources": [
-            "더쿠",
-            "디시인사이드"
-          ],
-          "post_urls": [
-            "https://gall.dcinside.com/board/view/?id=dcbest&no=469005&_dcbest=1&page=1",
-            "https://theqoo.net/hot/4369562698"
-          ]
-        }
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 4,
-          "title": "싱글벙글 서버터진 쿠팡 실시간 근황",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469005&_dcbest=1&page=1",
-          "score": 86.26
-        },
-        {
-          "source": "더쿠",
-          "rank": 99,
-          "title": "실시간 쿠팡 서버 터짐 -> 현재 복구됨",
-          "url": "https://theqoo.net/hot/4369562698",
-          "score": 51.11
         }
       ]
     },
@@ -14759,89 +14869,6 @@
         }
       ]
     },
-    "i5781c296": {
-      "id": "i5781c296",
-      "first_seen": "2026-09-27T20:23:34.525151+09:00",
-      "last_seen": "2026-10-01T06:00:23.851701+09:00",
-      "title": "‘네이버’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "네이버"
-      ],
-      "points": [
-        {
-          "at": "2026-09-27T20:23:34.525151+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 90.49,
-          "sources": [
-            "더쿠",
-            "루리웹"
-          ],
-          "post_urls": [
-            "https://bbs.ruliweb.com/market/board/1020/read/107560",
-            "https://theqoo.net/hot/4357782924"
-          ]
-        },
-        {
-          "at": "2026-10-01T00:51:55.502360+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 72.89,
-          "sources": [
-            "더쿠",
-            "뽐뿌"
-          ],
-          "post_urls": [
-            "https://theqoo.net/hot/4361438752",
-            "https://www.ppomppu.co.kr/zboard/view.php?id=money&no=548350"
-          ]
-        },
-        {
-          "at": "2026-10-01T01:30:43.873431+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 79.92,
-          "sources": [
-            "더쿠",
-            "뽐뿌"
-          ],
-          "post_urls": [
-            "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=737327",
-            "https://theqoo.net/hot/4361438752"
-          ]
-        },
-        {
-          "at": "2026-10-01T06:00:23.851701+09:00",
-          "source_count": 2,
-          "post_count": 4,
-          "score": 78.06,
-          "sources": [
-            "더쿠",
-            "뽐뿌"
-          ],
-          "post_urls": [
-            "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=737327",
-            "https://theqoo.net/hot/4361438752"
-          ]
-        }
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 29,
-          "title": "[네이버](네멤) 신라면20개 11,280원, 신라면10+너구리10 12,340원, 육개장사발면12+김치사발면12 16...",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=737327",
-          "score": 67.06
-        },
-        {
-          "source": "더쿠",
-          "rank": 98,
-          "title": "쿠팡 7,900원 멤버십보다 저렴하고 혜택이 많아 충분히 대체 가능한 네이버 멤버십.jpg",
-          "url": "https://theqoo.net/hot/4361438752",
-          "score": 51.11
-        }
-      ]
-    },
     "i0e7c791a": {
       "id": "i0e7c791a",
       "first_seen": "2026-10-01T06:00:23.851701+09:00",
@@ -19337,5 +19364,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-11T22:32:24.151905+09:00"
+  "updated_at": "2026-10-12T03:09:47.824635+09:00"
 }
