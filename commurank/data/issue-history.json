@@ -1,6 +1,108 @@
 {
   "version": 1,
   "issues": {
+    "iaf37cd06": {
+      "id": "iaf37cd06",
+      "first_seen": "2026-10-05T14:53:01.854717+09:00",
+      "last_seen": "2026-10-11T15:21:33.958995+09:00",
+      "title": "\"공부를 그렇게 못하면 어쩌냐\"",
+      "keywords": [
+        "못하면",
+        "공부를",
+        "그렇게"
+      ],
+      "points": [
+        {
+          "at": "2026-10-05T14:53:01.854717+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 77.05,
+          "sources": [
+            "더쿠",
+            "루리웹"
+          ],
+          "post_urls": [
+            "https://theqoo.net/hot/4365599944",
+            "https://bbs.ruliweb.com/best/board/300143/read/76916149?m=humor_only&t=now"
+          ]
+        },
+        {
+          "at": "2026-10-11T15:21:33.958995+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 87.52,
+          "sources": [
+            "더쿠",
+            "디시인사이드"
+          ],
+          "post_urls": [
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=469496&_dcbest=1&page=1",
+            "https://theqoo.net/hot/4371602229"
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 7,
+          "title": "\"공부를 그렇게 못하면 어쩌냐\"",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469496&_dcbest=1&page=1",
+          "score": 79.52
+        },
+        {
+          "source": "더쿠",
+          "rank": 79,
+          "title": "제자에게 “공부를 그렇게 못하면 어짜노”… 초등 담임 벌금 500만원 확정",
+          "url": "https://theqoo.net/hot/4371602229",
+          "score": 55.26
+        }
+      ]
+    },
+    "iab5c98b9": {
+      "id": "iab5c98b9",
+      "first_seen": "2026-10-11T15:21:33.958995+09:00",
+      "last_seen": "2026-10-11T15:21:33.958995+09:00",
+      "title": "스타벅스, '탱크데이' 논란 5개월 만에 신용·체크카드 결제액 1위",
+      "keywords": [
+        "5개월",
+        "만에",
+        "스타벅스",
+        "1위",
+        "탱크데이"
+      ],
+      "points": [
+        {
+          "at": "2026-10-11T15:21:33.958995+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 69.92,
+          "sources": [
+            "더쿠",
+            "디시인사이드"
+          ],
+          "post_urls": [
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=469456&_dcbest=1&page=1",
+            "https://theqoo.net/hot/4371579324"
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 53,
+          "title": "스타벅스, '탱크데이' 논란 5개월 만에 신용·체크카드 결제액 1위",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469456&_dcbest=1&page=1",
+          "score": 61.92
+        },
+        {
+          "source": "더쿠",
+          "rank": 90,
+          "title": "'탱크데이' 논란 5개월 만에…스타벅스, 투썸 제치고 1위 탈환",
+          "url": "https://theqoo.net/hot/4371579324",
+          "score": 53.11
+        }
+      ]
+    },
     "i039fd79c": {
       "id": "i039fd79c",
       "first_seen": "2026-09-27T13:38:37.715424+09:00",
@@ -10182,47 +10284,6 @@
         }
       ]
     },
-    "iaf37cd06": {
-      "id": "iaf37cd06",
-      "first_seen": "2026-10-05T14:53:01.854717+09:00",
-      "last_seen": "2026-10-05T14:53:01.854717+09:00",
-      "title": "‘그렇게’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "그렇게"
-      ],
-      "points": [
-        {
-          "at": "2026-10-05T14:53:01.854717+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 77.05,
-          "sources": [
-            "더쿠",
-            "루리웹"
-          ],
-          "post_urls": [
-            "https://theqoo.net/hot/4365599944",
-            "https://bbs.ruliweb.com/best/board/300143/read/76916149?m=humor_only&t=now"
-          ]
-        }
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 31,
-          "title": "신혼여행 때문에 개싸움 유럽을 그렇게 꼭 가야 해?",
-          "url": "https://theqoo.net/hot/4365599944",
-          "score": 68.05
-        },
-        {
-          "source": "루리웹",
-          "rank": 56,
-          "title": "(해리포터) \"그렇게 TS 하렘이 좋으면...\"",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/76916149?m=humor_only&t=now",
-          "score": 61.33
-        }
-      ]
-    },
     "iaec9192e": {
       "id": "iaec9192e",
       "first_seen": "2026-10-05T09:13:38.536627+09:00",
@@ -19039,5 +19100,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-11T09:25:45.266011+09:00"
+  "updated_at": "2026-10-11T15:21:33.958995+09:00"
 }
