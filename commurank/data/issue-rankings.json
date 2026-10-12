@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-10-12T07:07:36.695804+09:00",
+  "collected_at": "2026-10-12T10:24:43.062897+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -11,100 +11,49 @@
   "rankings": {
     "realtime": [
       {
-        "id": "ie375bdab",
-        "title": "[리얼미터 여론조사]李대통령 지지율 2.2%p 내린 35.2%",
+        "id": "i55b3a015",
+        "title": "‘심각하다는’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "리얼미터",
-          "내린",
-          "지지율"
+          "심각하다는"
         ],
         "source_count": 2,
-        "post_count": 3,
-        "score": 85.81,
-        "peak_score": 85.81,
+        "post_count": 2,
+        "score": 89.08,
+        "peak_score": 89.08,
         "appearances": 1,
         "sources": [
-          "인벤",
-          "클리앙"
+          "디시인사이드",
+          "인벤"
         ],
         "posts": [
           {
+            "source": "디시인사이드",
+            "rank": 4,
+            "title": "문제가 심각하다는 스웨디시",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469652&_dcbest=1&page=1",
+            "score": 80.08
+          },
+          {
             "source": "인벤",
-            "rank": 12,
-            "title": "[리얼미터 여론조사]李대통령 지지율 2.2%p 내린 35.2%",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2739093",
-            "score": 75.81
-          },
-          {
-            "source": "클리앙",
-            "rank": 22,
-            "title": "방금 나온 리얼미터 대통령지지율과 정당지지도",
-            "url": "https://www.clien.net/service/board/park/19276312?od=T31&po=0&category=0&groupCd=",
-            "score": 71.69
-          },
-          {
-            "source": "클리앙",
-            "rank": 68,
-            "title": "[리얼미터]李대통령 지지율 2.2%p 내린 35.2%",
-            "url": "https://www.clien.net/service/board/park/19276315?od=T31&po=0&category=0&groupCd=",
-            "score": 59.25
+            "rank": 34,
+            "title": "요즘) 심각하다는 40대 권고사직",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2739121",
+            "score": 66.41
           }
         ],
         "rank": 1,
         "change": "NEW"
       },
       {
-        "id": "i67f949c5",
-        "title": "‘시작한’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i36ddd5fd",
+        "title": "‘민주당’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "시작한"
+          "민주당"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 96.5,
-        "peak_score": 96.5,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "뽐뿌"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 4,
-            "title": "맨 주먹에서 시작한 부부 돈 모으기 참 힘드네요.",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=problem&no=237182",
-            "score": 87.5
-          },
-          {
-            "source": "더쿠",
-            "rank": 63,
-            "title": "오늘 시작한 온에어 반응 호호호호호에 존잼 반응 많은 예능",
-            "url": "https://theqoo.net/hot/4372496155",
-            "score": 59.58
-          }
-        ],
-        "rank": 2,
-        "change": "NEW"
-      },
-      {
-        "id": "i68fcb6ec",
-        "title": "이언주 MBC 신임 보도국장, 특정 정파 위한 뉴스라는 오해에서 벗어날 것",
-        "keywords": [
-          "특정",
-          "위한",
-          "뉴스라는",
-          "mbc",
-          "신임",
-          "오해에서",
-          "보도국장",
-          "벗어날",
-          "이언주"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 76.44,
-        "peak_score": 76.44,
+        "score": 79.98,
+        "peak_score": 79.98,
         "appearances": 1,
         "sources": [
           "인벤",
@@ -113,20 +62,163 @@
         "posts": [
           {
             "source": "인벤",
-            "rank": 27,
-            "title": "이언주 MBC 신임 보도국장, 특정 정파 위한 뉴스라는 오해에서 벗어날 것",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2739092",
-            "score": 68.44
+            "rank": 14,
+            "title": "김민석의 '입' 때문? 떨어지는 민주당 지지율 … 전략 싹 바꾼다",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2739139",
+            "score": 70.98
           },
           {
             "source": "클리앙",
-            "rank": 54,
-            "title": "이언주 MBC 신임 보도국장, '특정 정파 위한 뉴스라는 오해에서 벗어날 것'",
-            "url": "https://www.clien.net/service/board/park/19276314?od=T31&po=0&category=0&groupCd=",
-            "score": 61.13
+            "rank": 24,
+            "title": "[단독] 민주당 비판한 尹관저 골프연습시설, 李정부서 양성화…'대통령비서실 관리'",
+            "url": "https://www.clien.net/service/board/park/19276386?od=T31&po=0&category=0&groupCd=",
+            "score": 68.96
+          }
+        ],
+        "rank": 2,
+        "change": "NEW"
+      },
+      {
+        "id": "i0e920102",
+        "title": "\"축의금 10만원 내면 욕먹을 판\", 하객 식대 서울 중간값 8만원",
+        "keywords": [
+          "축의금",
+          "하객",
+          "서울",
+          "8만원",
+          "식대"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 78.24,
+        "peak_score": 78.24,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 19,
+            "title": "\"축의금 10만원 내면 욕먹을 판\", 하객 식대 서울 중간값 8만원",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10149217",
+            "score": 70.24
+          },
+          {
+            "source": "인벤",
+            "rank": 66,
+            "title": "\"축의금 10만원도 부족\"… 서울 하객 식대 8만원 치솟아",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2739127",
+            "score": 59.85
           }
         ],
         "rank": 3,
+        "change": "NEW"
+      },
+      {
+        "id": "ifc2c0f8b",
+        "title": "20대에 교회에서 사역한거 후회된다",
+        "keywords": [
+          "20대에",
+          "후회된다",
+          "교회에서",
+          "사역한거"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 72.7,
+        "peak_score": 72.7,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 46,
+            "title": "20대에 교회에서 사역한거 후회된다",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2739145",
+            "score": 64.7
+          },
+          {
+            "source": "더쿠",
+            "rank": 69,
+            "title": "20대에 교회에서 사역한거 너무 후회된다",
+            "url": "https://theqoo.net/hot/4372697209",
+            "score": 59.37
+          }
+        ],
+        "rank": 4,
+        "change": "NEW"
+      },
+      {
+        "id": "ifd57f375",
+        "title": "‘신고가’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "신고가"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 69.67,
+        "peak_score": 69.67,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 62,
+            "title": "‘신고가 또 터졌다’ 분당 94%·동대문 82% 전고점 돌파",
+            "url": "https://www.clien.net/service/board/park/19276400?od=T31&po=0&category=0&groupCd=",
+            "score": 60.67
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 94,
+            "title": "미국 일본 대만은 신고가 코스피만 죽 쑤는 이유",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=440548",
+            "score": 52.8
+          }
+        ],
+        "rank": 5,
+        "change": "NEW"
+      },
+      {
+        "id": "i9785fc48",
+        "title": "‘드디어’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "드디어"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 68.68,
+        "peak_score": 68.68,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 67,
+            "title": "펌) 드디어 기적의 탈모약 나오나 ㄷㄷ",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=alopecia&no=16929",
+            "score": 59.68
+          },
+          {
+            "source": "클리앙",
+            "rank": 81,
+            "title": "드디어 퇴근 완료 했습니다. ㅠㅠ",
+            "url": "https://www.clien.net/service/board/park/19276395?od=T31&po=0&category=0&groupCd=",
+            "score": 55.72
+          }
+        ],
+        "rank": 6,
         "change": "NEW"
       }
     ],
@@ -167,6 +259,44 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 1,
+        "change": 0
+      },
+      {
+        "id": "i55b3a015",
+        "title": "‘심각하다는’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "심각하다는"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 98.55,
+        "peak_score": 89.08,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 4,
+            "title": "문제가 심각하다는 스웨디시",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469652&_dcbest=1&page=1",
+            "score": 80.08
+          },
+          {
+            "source": "인벤",
+            "rank": 34,
+            "title": "요즘) 심각하다는 40대 권고사직",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2739121",
+            "score": 66.41
+          }
+        ],
+        "first_seen": "2026-10-12T10:24:43.062897+09:00",
+        "last_seen": "2026-10-12T10:24:43.062897+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 2,
         "change": "NEW"
       },
       {
@@ -213,7 +343,45 @@
         "last_seen": "2026-10-12T07:07:36.695804+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 2,
+        "rank": 3,
+        "change": -1
+      },
+      {
+        "id": "i36ddd5fd",
+        "title": "‘민주당’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "민주당"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 89.45,
+        "peak_score": 79.98,
+        "appearances": 1,
+        "sources": [
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 14,
+            "title": "김민석의 '입' 때문? 떨어지는 민주당 지지율 … 전략 싹 바꾼다",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2739139",
+            "score": 70.98
+          },
+          {
+            "source": "클리앙",
+            "rank": 24,
+            "title": "[단독] 민주당 비판한 尹관저 골프연습시설, 李정부서 양성화…'대통령비서실 관리'",
+            "url": "https://www.clien.net/service/board/park/19276386?od=T31&po=0&category=0&groupCd=",
+            "score": 68.96
+          }
+        ],
+        "first_seen": "2026-09-30T08:46:44.153676+09:00",
+        "last_seen": "2026-10-12T10:24:43.062897+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 4,
         "change": "NEW"
       },
       {
@@ -251,8 +419,50 @@
         "last_seen": "2026-10-12T03:09:47.824635+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 3,
+        "rank": 5,
         "change": -2
+      },
+      {
+        "id": "i0e920102",
+        "title": "\"축의금 10만원 내면 욕먹을 판\", 하객 식대 서울 중간값 8만원",
+        "keywords": [
+          "축의금",
+          "하객",
+          "서울",
+          "8만원",
+          "식대"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 87.71,
+        "peak_score": 78.24,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 19,
+            "title": "\"축의금 10만원 내면 욕먹을 판\", 하객 식대 서울 중간값 8만원",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10149217",
+            "score": 70.24
+          },
+          {
+            "source": "인벤",
+            "rank": 66,
+            "title": "\"축의금 10만원도 부족\"… 서울 하객 식대 8만원 치솟아",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2739127",
+            "score": 59.85
+          }
+        ],
+        "first_seen": "2026-10-12T10:24:43.062897+09:00",
+        "last_seen": "2026-10-12T10:24:43.062897+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 6,
+        "change": "NEW"
       },
       {
         "id": "i68fcb6ec",
@@ -297,8 +507,8 @@
         "last_seen": "2026-10-12T07:07:36.695804+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 4,
-        "change": "NEW"
+        "rank": 7,
+        "change": -3
       },
       {
         "id": "iae6b0123",
@@ -335,8 +545,125 @@
         "last_seen": "2026-10-12T03:09:47.824635+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 5,
+        "rank": 8,
         "change": -3
+      },
+      {
+        "id": "ifc2c0f8b",
+        "title": "20대에 교회에서 사역한거 후회된다",
+        "keywords": [
+          "20대에",
+          "후회된다",
+          "교회에서",
+          "사역한거"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 82.17,
+        "peak_score": 72.7,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 46,
+            "title": "20대에 교회에서 사역한거 후회된다",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2739145",
+            "score": 64.7
+          },
+          {
+            "source": "더쿠",
+            "rank": 69,
+            "title": "20대에 교회에서 사역한거 너무 후회된다",
+            "url": "https://theqoo.net/hot/4372697209",
+            "score": 59.37
+          }
+        ],
+        "first_seen": "2026-10-12T10:24:43.062897+09:00",
+        "last_seen": "2026-10-12T10:24:43.062897+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 9,
+        "change": "NEW"
+      },
+      {
+        "id": "ifd57f375",
+        "title": "‘신고가’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "신고가"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 79.14,
+        "peak_score": 69.67,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 62,
+            "title": "‘신고가 또 터졌다’ 분당 94%·동대문 82% 전고점 돌파",
+            "url": "https://www.clien.net/service/board/park/19276400?od=T31&po=0&category=0&groupCd=",
+            "score": 60.67
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 94,
+            "title": "미국 일본 대만은 신고가 코스피만 죽 쑤는 이유",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=440548",
+            "score": 52.8
+          }
+        ],
+        "first_seen": "2026-10-12T10:24:43.062897+09:00",
+        "last_seen": "2026-10-12T10:24:43.062897+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 10,
+        "change": "NEW"
+      },
+      {
+        "id": "i9785fc48",
+        "title": "‘드디어’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "드디어"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 78.15,
+        "peak_score": 68.68,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 67,
+            "title": "펌) 드디어 기적의 탈모약 나오나 ㄷㄷ",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=alopecia&no=16929",
+            "score": 59.68
+          },
+          {
+            "source": "클리앙",
+            "rank": 81,
+            "title": "드디어 퇴근 완료 했습니다. ㅠㅠ",
+            "url": "https://www.clien.net/service/board/park/19276395?od=T31&po=0&category=0&groupCd=",
+            "score": 55.72
+          }
+        ],
+        "first_seen": "2026-10-04T11:44:43.352420+09:00",
+        "last_seen": "2026-10-12T10:24:43.062897+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 11,
+        "change": "NEW"
       }
     ],
     "weekly": [
@@ -376,6 +703,44 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 1,
+        "change": 0
+      },
+      {
+        "id": "i55b3a015",
+        "title": "‘심각하다는’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "심각하다는"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 98.55,
+        "peak_score": 89.08,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 4,
+            "title": "문제가 심각하다는 스웨디시",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469652&_dcbest=1&page=1",
+            "score": 80.08
+          },
+          {
+            "source": "인벤",
+            "rank": 34,
+            "title": "요즘) 심각하다는 40대 권고사직",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2739121",
+            "score": 66.41
+          }
+        ],
+        "first_seen": "2026-10-12T10:24:43.062897+09:00",
+        "last_seen": "2026-10-12T10:24:43.062897+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 2,
         "change": "NEW"
       },
       {
@@ -422,7 +787,45 @@
         "last_seen": "2026-10-12T07:07:36.695804+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 2,
+        "rank": 3,
+        "change": -1
+      },
+      {
+        "id": "i36ddd5fd",
+        "title": "‘민주당’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "민주당"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 89.45,
+        "peak_score": 79.98,
+        "appearances": 1,
+        "sources": [
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 14,
+            "title": "김민석의 '입' 때문? 떨어지는 민주당 지지율 … 전략 싹 바꾼다",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2739139",
+            "score": 70.98
+          },
+          {
+            "source": "클리앙",
+            "rank": 24,
+            "title": "[단독] 민주당 비판한 尹관저 골프연습시설, 李정부서 양성화…'대통령비서실 관리'",
+            "url": "https://www.clien.net/service/board/park/19276386?od=T31&po=0&category=0&groupCd=",
+            "score": 68.96
+          }
+        ],
+        "first_seen": "2026-09-30T08:46:44.153676+09:00",
+        "last_seen": "2026-10-12T10:24:43.062897+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 4,
         "change": "NEW"
       },
       {
@@ -460,8 +863,50 @@
         "last_seen": "2026-10-12T03:09:47.824635+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 3,
+        "rank": 5,
         "change": -2
+      },
+      {
+        "id": "i0e920102",
+        "title": "\"축의금 10만원 내면 욕먹을 판\", 하객 식대 서울 중간값 8만원",
+        "keywords": [
+          "축의금",
+          "하객",
+          "서울",
+          "8만원",
+          "식대"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 87.71,
+        "peak_score": 78.24,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 19,
+            "title": "\"축의금 10만원 내면 욕먹을 판\", 하객 식대 서울 중간값 8만원",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10149217",
+            "score": 70.24
+          },
+          {
+            "source": "인벤",
+            "rank": 66,
+            "title": "\"축의금 10만원도 부족\"… 서울 하객 식대 8만원 치솟아",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2739127",
+            "score": 59.85
+          }
+        ],
+        "first_seen": "2026-10-12T10:24:43.062897+09:00",
+        "last_seen": "2026-10-12T10:24:43.062897+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 6,
+        "change": "NEW"
       },
       {
         "id": "i68fcb6ec",
@@ -506,8 +951,8 @@
         "last_seen": "2026-10-12T07:07:36.695804+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 4,
-        "change": "NEW"
+        "rank": 7,
+        "change": -3
       },
       {
         "id": "iae6b0123",
@@ -544,8 +989,125 @@
         "last_seen": "2026-10-12T03:09:47.824635+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 5,
+        "rank": 8,
         "change": -3
+      },
+      {
+        "id": "ifc2c0f8b",
+        "title": "20대에 교회에서 사역한거 후회된다",
+        "keywords": [
+          "20대에",
+          "후회된다",
+          "교회에서",
+          "사역한거"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 82.17,
+        "peak_score": 72.7,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 46,
+            "title": "20대에 교회에서 사역한거 후회된다",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2739145",
+            "score": 64.7
+          },
+          {
+            "source": "더쿠",
+            "rank": 69,
+            "title": "20대에 교회에서 사역한거 너무 후회된다",
+            "url": "https://theqoo.net/hot/4372697209",
+            "score": 59.37
+          }
+        ],
+        "first_seen": "2026-10-12T10:24:43.062897+09:00",
+        "last_seen": "2026-10-12T10:24:43.062897+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 9,
+        "change": "NEW"
+      },
+      {
+        "id": "ifd57f375",
+        "title": "‘신고가’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "신고가"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 79.14,
+        "peak_score": 69.67,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 62,
+            "title": "‘신고가 또 터졌다’ 분당 94%·동대문 82% 전고점 돌파",
+            "url": "https://www.clien.net/service/board/park/19276400?od=T31&po=0&category=0&groupCd=",
+            "score": 60.67
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 94,
+            "title": "미국 일본 대만은 신고가 코스피만 죽 쑤는 이유",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=440548",
+            "score": 52.8
+          }
+        ],
+        "first_seen": "2026-10-12T10:24:43.062897+09:00",
+        "last_seen": "2026-10-12T10:24:43.062897+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 10,
+        "change": "NEW"
+      },
+      {
+        "id": "i9785fc48",
+        "title": "‘드디어’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "드디어"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 78.15,
+        "peak_score": 68.68,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 67,
+            "title": "펌) 드디어 기적의 탈모약 나오나 ㄷㄷ",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=alopecia&no=16929",
+            "score": 59.68
+          },
+          {
+            "source": "클리앙",
+            "rank": 81,
+            "title": "드디어 퇴근 완료 했습니다. ㅠㅠ",
+            "url": "https://www.clien.net/service/board/park/19276395?od=T31&po=0&category=0&groupCd=",
+            "score": 55.72
+          }
+        ],
+        "first_seen": "2026-10-04T11:44:43.352420+09:00",
+        "last_seen": "2026-10-12T10:24:43.062897+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 11,
+        "change": "NEW"
       }
     ],
     "monthly": [
