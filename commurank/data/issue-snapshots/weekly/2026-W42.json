@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W42",
   "label": "2026.10.12 ~ 10.18",
-  "collected_at": "2026-10-14T08:04:55.181457+09:00",
+  "collected_at": "2026-10-14T08:54:24.839303+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -339,6 +339,44 @@
       "change": 0
     },
     {
+      "id": "i36ddd5fd",
+      "title": "‘민주당’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "민주당"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 106.26,
+      "peak_score": 91.21,
+      "appearances": 4,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 52,
+          "title": "만만한게 민주당 대통령",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2739986",
+          "score": 60.98
+        },
+        {
+          "source": "클리앙",
+          "rank": 53,
+          "title": "국정감사 보니 민주당 망하는 길로 가고 있네요.",
+          "url": "https://www.clien.net/service/board/park/19277190?od=T31&po=0&category=0&groupCd=",
+          "score": 60.5
+        }
+      ],
+      "first_seen": "2026-09-30T08:46:44.153676+09:00",
+      "last_seen": "2026-10-14T08:54:24.839303+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 3,
+      "rank": 9,
+      "change": 1
+    },
+    {
       "id": "i67f949c5",
       "title": "‘시작한’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -373,46 +411,8 @@
       "last_seen": "2026-10-12T07:07:36.695804+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 9,
-      "change": 0
-    },
-    {
-      "id": "i36ddd5fd",
-      "title": "‘민주당’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "민주당"
-      ],
-      "source_count": 2,
-      "post_count": 3,
-      "score": 105.14,
-      "peak_score": 91.21,
-      "appearances": 3,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 4,
-          "title": "국정감사 보니 민주당 망하는 길로 가고 있네요.",
-          "url": "https://www.clien.net/service/board/park/19277190?od=T31&po=0&category=0&groupCd=",
-          "score": 81.21
-        },
-        {
-          "source": "인벤",
-          "rank": 15,
-          "title": "만만한게 민주당 대통령",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2739986",
-          "score": 71.36
-        }
-      ],
-      "first_seen": "2026-09-30T08:46:44.153676+09:00",
-      "last_seen": "2026-10-14T08:04:55.181457+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 3,
       "rank": 10,
-      "change": 9
+      "change": -1
     },
     {
       "id": "iae6b0123",
@@ -451,7 +451,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 11,
-      "change": -1
+      "change": 0
     },
     {
       "id": "ibd822fda",
@@ -489,7 +489,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 12,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i55b3a015",
@@ -527,7 +527,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 13,
-      "change": -1
+      "change": 0
     },
     {
       "id": "ib32476d8",
@@ -573,7 +573,7 @@
       "latest_source_count": 3,
       "latest_post_count": 3,
       "rank": 14,
-      "change": -1
+      "change": 0
     },
     {
       "id": "ib19f68fa",
@@ -611,7 +611,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 15,
-      "change": -1
+      "change": 0
     },
     {
       "id": "iead2b930",
@@ -649,7 +649,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 16,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i3ccc2d51",
@@ -687,7 +687,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 17,
-      "change": -1
+      "change": 0
     },
     {
       "id": "ie375bdab",
@@ -734,7 +734,7 @@
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 18,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i8214f1d0",
@@ -773,7 +773,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 19,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i6696390a",
@@ -812,7 +812,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 20,
-      "change": "NEW"
+      "change": 0
     }
   ]
 }
