@@ -3,9 +3,67 @@
   "period": "weekly",
   "key": "2026-W42",
   "label": "2026.10.12 ~ 10.18",
-  "collected_at": "2026-10-13T12:57:57.192634+09:00",
+  "collected_at": "2026-10-13T15:46:35.908973+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
+    {
+      "id": "i849dd46f",
+      "title": "속보)인천 칼부림 발생",
+      "keywords": [
+        "칼부림",
+        "인천",
+        "홈플러스",
+        "부상",
+        "구월점서"
+      ],
+      "source_count": 4,
+      "post_count": 5,
+      "score": 132.57,
+      "peak_score": 112.1,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "루리웹",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 4,
+          "title": "속보)인천 칼부림 발생",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469959&_dcbest=1&page=1",
+          "score": 89.1
+        },
+        {
+          "source": "더쿠",
+          "rank": 13,
+          "title": "[1보] 홈플러스 인천 구월점서 칼부림 신고…\"6∼8명 부상\"",
+          "url": "https://theqoo.net/hot/4374226625",
+          "score": 72.37
+        },
+        {
+          "source": "루리웹",
+          "rank": 75,
+          "title": "인천 칼부림 범인 살인미수로 복역 전자발찌 착용상태로 범행",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77009918?m=humor_only&t=now",
+          "score": 58.6
+        },
+        {
+          "source": "인벤",
+          "rank": 82,
+          "title": "[속보] 홈플러스 인천 구월점서 칼부림⋯1명 심정지·7명 부상",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2739719",
+          "score": 56.99
+        }
+      ],
+      "first_seen": "2026-10-13T15:46:35.908973+09:00",
+      "last_seen": "2026-10-13T15:46:35.908973+09:00",
+      "latest_source_count": 4,
+      "latest_post_count": 5,
+      "rank": 1,
+      "change": "NEW"
+    },
     {
       "id": "i4a0a5902",
       "title": "실시간 IMF GDP 떴냐? ㄷㄷ",
@@ -42,8 +100,8 @@
       "last_seen": "2026-10-13T12:57:57.192634+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 1,
-      "change": "NEW"
+      "rank": 2,
+      "change": -1
     },
     {
       "id": "ia8451ee4",
@@ -80,7 +138,7 @@
       "last_seen": "2026-10-12T16:56:06.040466+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 2,
+      "rank": 3,
       "change": -1
     },
     {
@@ -118,7 +176,7 @@
       "last_seen": "2026-10-12T07:07:36.695804+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 3,
+      "rank": 4,
       "change": -1
     },
     {
@@ -156,8 +214,54 @@
       "last_seen": "2026-10-12T10:24:43.062897+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 4,
+      "rank": 5,
       "change": -1
+    },
+    {
+      "id": "ib32476d8",
+      "title": "‘twt’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "twt"
+      ],
+      "source_count": 3,
+      "post_count": 3,
+      "score": 98.52,
+      "peak_score": 84.05,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 28,
+          "title": "미주신경성 실신의 전조.twt",
+          "url": "https://theqoo.net/hot/4374178134",
+          "score": 67.05
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 69,
+          "title": "감독 오피셜.twt",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469943&_dcbest=1&page=1",
+          "score": 59.35
+        },
+        {
+          "source": "인벤",
+          "rank": 84,
+          "title": "외모 객관화가 안된다는 일본 남자들.twt",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2739716",
+          "score": 55.89
+        }
+      ],
+      "first_seen": "2026-10-13T15:46:35.908973+09:00",
+      "last_seen": "2026-10-13T15:46:35.908973+09:00",
+      "latest_source_count": 3,
+      "latest_post_count": 3,
+      "rank": 6,
+      "change": "NEW"
     },
     {
       "id": "iead2b930",
@@ -194,8 +298,8 @@
       "last_seen": "2026-10-13T02:46:30.249073+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
-      "change": -1
+      "rank": 7,
+      "change": -2
     },
     {
       "id": "ie375bdab",
@@ -241,8 +345,8 @@
       "last_seen": "2026-10-12T07:07:36.695804+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 6,
-      "change": -1
+      "rank": 8,
+      "change": -2
     },
     {
       "id": "i36ddd5fd",
@@ -280,8 +384,8 @@
       "last_seen": "2026-10-13T12:57:57.192634+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": -1
+      "rank": 9,
+      "change": -2
     },
     {
       "id": "id73e5b1e",
@@ -319,8 +423,8 @@
       "last_seen": "2026-10-13T12:57:57.192634+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 8,
-      "change": 5
+      "rank": 10,
+      "change": -2
     },
     {
       "id": "i5b69a25a",
@@ -357,8 +461,8 @@
       "last_seen": "2026-10-13T12:57:57.192634+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 9,
-      "change": "NEW"
+      "rank": 11,
+      "change": -2
     },
     {
       "id": "i5781c296",
@@ -395,8 +499,8 @@
       "last_seen": "2026-10-12T03:09:47.824635+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 10,
-      "change": -3
+      "rank": 12,
+      "change": -2
     },
     {
       "id": "i0e920102",
@@ -437,8 +541,8 @@
       "last_seen": "2026-10-12T10:24:43.062897+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 11,
-      "change": -3
+      "rank": 13,
+      "change": -2
     },
     {
       "id": "ie761e8b9",
@@ -479,8 +583,8 @@
       "last_seen": "2026-10-13T02:46:30.249073+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 12,
-      "change": -3
+      "rank": 14,
+      "change": -2
     },
     {
       "id": "i9992652a",
@@ -518,8 +622,8 @@
       "last_seen": "2026-10-13T12:57:57.192634+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 13,
-      "change": "NEW"
+      "rank": 15,
+      "change": -2
     },
     {
       "id": "i68fcb6ec",
@@ -564,8 +668,8 @@
       "last_seen": "2026-10-12T07:07:36.695804+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 14,
-      "change": -4
+      "rank": 16,
+      "change": -2
     },
     {
       "id": "i77bec7b9",
@@ -602,8 +706,8 @@
       "last_seen": "2026-10-13T12:57:57.192634+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 15,
-      "change": "NEW"
+      "rank": 17,
+      "change": -2
     },
     {
       "id": "ie1537023",
@@ -640,8 +744,8 @@
       "last_seen": "2026-10-13T12:57:57.192634+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 16,
-      "change": "NEW"
+      "rank": 18,
+      "change": -2
     },
     {
       "id": "iae6b0123",
@@ -678,121 +782,42 @@
       "last_seen": "2026-10-12T03:09:47.824635+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 17,
-      "change": -6
+      "rank": 19,
+      "change": -2
     },
     {
-      "id": "ifc2c0f8b",
-      "title": "20대에 교회에서 사역한거 후회된다",
+      "id": "ice15bbe4",
+      "title": "‘이강인’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "20대에",
-        "후회된다",
-        "교회에서",
-        "사역한거"
+        "이강인"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 82.17,
-      "peak_score": 72.7,
+      "score": 82.52,
+      "peak_score": 73.05,
       "appearances": 1,
       "sources": [
-        "더쿠",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 46,
-          "title": "20대에 교회에서 사역한거 후회된다",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2739145",
-          "score": 64.7
-        },
-        {
-          "source": "더쿠",
-          "rank": 69,
-          "title": "20대에 교회에서 사역한거 너무 후회된다",
-          "url": "https://theqoo.net/hot/4372697209",
-          "score": 59.37
-        }
-      ],
-      "first_seen": "2026-10-12T10:24:43.062897+09:00",
-      "last_seen": "2026-10-12T10:24:43.062897+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 18,
-      "change": -6
-    },
-    {
-      "id": "i89c5681f",
-      "title": "‘테슬라’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "테슬라"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 81.1,
-      "peak_score": 71.63,
-      "appearances": 1,
-      "sources": [
-        "루리웹",
+        "디시인사이드",
         "뽐뿌"
       ],
       "posts": [
         {
           "source": "뽐뿌",
-          "rank": 48,
-          "title": "테슬람들이 넘쳐나니 테슬라 기술력이 좋아도 싫어지네요",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=979377",
-          "score": 62.63
+          "rank": 40,
+          "title": "이강인 소속사 고소예정 공지",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10150269",
+          "score": 64.05
         },
         {
-          "source": "루리웹",
-          "rank": 74,
-          "title": "테슬라 발작버튼 누른 유튜버",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77006004?m=humor_only&t=now",
-          "score": 56.33
+          "source": "디시인사이드",
+          "rank": 88,
+          "title": "이강인 고소공지 떳다 ㅋㅋㅋㅋㅋ",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469899&_dcbest=1&page=1",
+          "score": 54.48
         }
       ],
-      "first_seen": "2026-10-13T08:48:40.085192+09:00",
-      "last_seen": "2026-10-13T08:48:40.085192+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 19,
-      "change": -5
-    },
-    {
-      "id": "if6b2d7b7",
-      "title": "‘10월’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "10월"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 80.02,
-      "peak_score": 70.55,
-      "appearances": 1,
-      "sources": [
-        "뽐뿌",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 45,
-          "title": "10월 홈플러스 매출 근황.news",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2739655",
-          "score": 61.55
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 51,
-          "title": "신한플레이 쏠야구 퀴즈 10월 13일 정답",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10150147",
-          "score": 60.97
-        }
-      ],
-      "first_seen": "2026-10-01T09:09:08.756943+09:00",
-      "last_seen": "2026-10-13T12:57:57.192634+09:00",
+      "first_seen": "2026-10-13T15:46:35.908973+09:00",
+      "last_seen": "2026-10-13T15:46:35.908973+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 20,
