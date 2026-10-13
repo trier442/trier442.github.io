@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-10-13T20:40:38.638470+09:00",
+  "collected_at": "2026-10-13T23:47:28.120476+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -11,99 +11,15 @@
   "rankings": {
     "realtime": [
       {
-        "id": "i47b692dc",
-        "title": "‘칼부림’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "칼부림"
-        ],
-        "source_count": 3,
-        "post_count": 3,
-        "score": 114.71,
-        "peak_score": 114.71,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "루리웹",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 1,
-            "title": "인천 칼부림 가해자 아주 미쳤는데 ㄷㄷㄷ",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77009681?m=humor",
-            "score": 97.71
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 44,
-            "title": "인천 홈플러스 칼부림 용의자, 지난달 1인시위",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470042&_dcbest=1&page=1",
-            "score": 63.03
-          },
-          {
-            "source": "클리앙",
-            "rank": 49,
-            "title": "범인은 '전처 살인미수' 전과자…대낮 쇼핑몰 칼부림..",
-            "url": "https://www.clien.net/service/board/park/19277072?od=T31&po=0&category=0&groupCd=",
-            "score": 62.52
-          }
-        ],
-        "rank": 1,
-        "change": "NEW"
-      },
-      {
         "id": "i039fd79c",
         "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
           "이재명"
         ],
-        "source_count": 3,
-        "post_count": 3,
-        "score": 93.65,
-        "peak_score": 93.65,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "뽐뿌",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 12,
-            "title": "이재명 계란사태 근황.....jpg",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470021&_dcbest=1&page=1",
-            "score": 76.65
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 15,
-            "title": "오늘 부캉이 보러 간 이재명",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10150978",
-            "score": 74.71
-          },
-          {
-            "source": "클리앙",
-            "rank": 35,
-            "title": "이재명 근저당 거래, 사인간채무 아닌가' 질문에 임광현 국세청장 답변은?",
-            "url": "https://www.clien.net/service/board/park/19277076?od=T31&po=0&category=0&groupCd=",
-            "score": 65.17
-          }
-        ],
-        "rank": 2,
-        "change": "NEW"
-      },
-      {
-        "id": "ib19f68fa",
-        "title": "‘추미애’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "추미애"
-        ],
         "source_count": 2,
-        "post_count": 2,
-        "score": 88.87,
-        "peak_score": 88.87,
+        "post_count": 4,
+        "score": 71.4,
+        "peak_score": 71.4,
         "appearances": 1,
         "sources": [
           "디시인사이드",
@@ -112,33 +28,69 @@
         "posts": [
           {
             "source": "인벤",
-            "rank": 8,
-            "title": "추미애 '국감 자료 제출 거부', 17개시도에서 유일",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2739853",
-            "score": 79.87
+            "rank": 51,
+            "title": "이재명 감옥갈듯",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2739936",
+            "score": 60.4
           },
           {
             "source": "디시인사이드",
-            "rank": 69,
-            "title": "추미애 \"12억 관사 전세라서 호화사치 아니다\"",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470016&_dcbest=1&page=1",
-            "score": 58.37
+            "rank": 59,
+            "title": "이재명 계란사태 근황.....jpg",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470021&_dcbest=1&page=1",
+            "score": 59.1
           }
         ],
-        "rank": 3,
-        "change": "NEW"
+        "rank": 1,
+        "change": 1
       },
       {
-        "id": "i8214f1d0",
-        "title": "‘심정지’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "ife021da2",
+        "title": "현재 일본에서 난리난 성매매 법안",
         "keywords": [
-          "심정지",
-          "흉기난동"
+          "성매매",
+          "일본에서",
+          "법안",
+          "난리난"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 84.08,
-        "peak_score": 84.08,
+        "score": 103.75,
+        "peak_score": 103.75,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 2,
+            "title": "현재 일본에서 난리난 성매매 법안",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77014815?m=humor",
+            "score": 95.75
+          },
+          {
+            "source": "인벤",
+            "rank": 33,
+            "title": "현재 일본에서 난리난 성매매 법안 ㄷㄷ",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2739912",
+            "score": 66.72
+          }
+        ],
+        "rank": 2,
+        "change": "NEW"
+      },
+      {
+        "id": "iae6b0123",
+        "title": "‘실시간’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "실시간"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 89.0,
+        "peak_score": 89.0,
         "appearances": 1,
         "sources": [
           "더쿠",
@@ -146,33 +98,72 @@
         ],
         "posts": [
           {
-            "source": "디시인사이드",
-            "rank": 13,
-            "title": "인천 흉기난동 사건 cctv 긴급입수. 심정지 여성 의식 돌아옴",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470013&_dcbest=1&page=1",
-            "score": 75.08
+            "source": "더쿠",
+            "rank": 6,
+            "title": "실시간 케톡 ㄴㅇㄱ된 이수만 여돌.jpg",
+            "url": "https://theqoo.net/hot/4374778306",
+            "score": 80.0
           },
           {
-            "source": "더쿠",
-            "rank": 53,
-            "title": "[속보] '인천 흉기난동' 심정지 20대, 수술 끝에 맥박 회복",
-            "url": "https://theqoo.net/hot/4374479870",
-            "score": 61.42
+            "source": "디시인사이드",
+            "rank": 12,
+            "title": "실시간 중국인들 발작중인 글..jpg",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470046&_dcbest=1&page=1",
+            "score": 76.0
+          }
+        ],
+        "rank": 3,
+        "change": "NEW"
+      },
+      {
+        "id": "i62196098",
+        "title": "‘김지용’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "김지용"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 80.84,
+        "peak_score": 80.84,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 18,
+            "title": "[단독] 김지용~ 터지기 시작~~ ㅋ",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10151060",
+            "score": 71.84
+          },
+          {
+            "source": "인벤",
+            "rank": 56,
+            "title": "김지용 “인사 공개 비판은 부적절…기강 확립”…‘감찰 대상’ 임은정은 ‘침묵’",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2739934",
+            "score": 59.87
           }
         ],
         "rank": 4,
         "change": "NEW"
       },
       {
-        "id": "i9ccef52d",
-        "title": "‘신천지’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i7481726a",
+        "title": "[속보] 李대통령, 인천경찰청 방문…마트 흉기 난동 경위 점검",
         "keywords": [
-          "신천지"
+          "난동",
+          "흉기",
+          "점검",
+          "방문",
+          "마트",
+          "인천경찰청"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 81.59,
-        "peak_score": 81.59,
+        "score": 77.32,
+        "peak_score": 77.32,
         "appearances": 1,
         "sources": [
           "인벤",
@@ -181,102 +172,66 @@
         "posts": [
           {
             "source": "인벤",
-            "rank": 17,
-            "title": "국민의힘 신천지 의혹!!!",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2739845",
-            "score": 72.59
+            "rank": 26,
+            "title": "[속보] 李대통령, 인천경찰청 방문…마트 흉기 난동 경위 점검",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2739921",
+            "score": 69.32
           },
           {
             "source": "클리앙",
-            "rank": 64,
-            "title": "신천지 문제의 본질은 3~5만명 개입이 아닙니다",
-            "url": "https://www.clien.net/service/board/park/19277082?od=T31&po=0&category=0&groupCd=",
-            "score": 60.04
+            "rank": 46,
+            "title": "李대통령, 인천경찰청 방문…마트 흉기 난동 경위 점검",
+            "url": "https://www.clien.net/service/board/park/19277148?od=T31&po=0&category=0&groupCd=",
+            "score": 62.64
           }
         ],
         "rank": 5,
         "change": "NEW"
       },
       {
-        "id": "ib3876eed",
-        "title": "‘사람들이’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i8214f1d0",
+        "title": "‘흉기난동’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "사람들이"
+          "흉기난동"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 76.52,
-        "peak_score": 76.52,
+        "score": 74.03,
+        "peak_score": 74.03,
         "appearances": 1,
         "sources": [
           "디시인사이드",
-          "루리웹"
+          "인벤"
         ],
         "posts": [
           {
-            "source": "디시인사이드",
-            "rank": 25,
-            "title": "싱글벙글 감정기복이 심한 엄마 밑의 사람들이 겪어보았다는 아동학대..",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470003&_dcbest=1&page=1",
-            "score": 67.52
+            "source": "인벤",
+            "rank": 38,
+            "title": "인천 구월동 상가서 흉기난동…9명 부상",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2739927",
+            "score": 65.03
           },
           {
-            "source": "루리웹",
-            "rank": 90,
-            "title": "이탈리아 사람들이 꼭 봤으면 좋겠는 한국 드라마",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77013061?m=humor_only&t=now",
-            "score": 53.41
+            "source": "디시인사이드",
+            "rank": 81,
+            "title": "인천 흉기난동 사건 cctv 긴급입수. 심정지 여성 의식 돌아옴",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470013&_dcbest=1&page=1",
+            "score": 55.89
           }
         ],
         "rank": 6,
-        "change": "NEW"
+        "change": -2
       },
       {
-        "id": "ib1a9381e",
-        "title": "조국혁신당 지지율 근황 .jpg",
+        "id": "i2272efa7",
+        "title": "‘리센느’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "조국혁신당",
-          "지지율"
+          "리센느"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 74.78,
-        "peak_score": 74.78,
-        "appearances": 1,
-        "sources": [
-          "뽐뿌",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 28,
-            "title": "조국혁신당 지지율 근황 .jpg",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10150938",
-            "score": 66.78
-          },
-          {
-            "source": "클리앙",
-            "rank": 52,
-            "title": "'코어지지층 지지율 실화냐?' 조국혁신당 대폭등 조사에 민주당&청와대 발칵!",
-            "url": "https://www.clien.net/service/board/park/19277060?od=T31&po=0&category=0&groupCd=",
-            "score": 61.52
-          }
-        ],
-        "rank": 7,
-        "change": "NEW"
-      },
-      {
-        "id": "i0d62394c",
-        "title": "축구협회 입장문",
-        "keywords": [
-          "입장문",
-          "축구협회"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 73.94,
-        "peak_score": 73.94,
+        "score": 72.93,
+        "peak_score": 72.93,
         "appearances": 1,
         "sources": [
           "인벤",
@@ -284,18 +239,52 @@
         ],
         "posts": [
           {
-            "source": "클리앙",
-            "rank": 34,
-            "title": "축구협회 입장문",
-            "url": "https://www.clien.net/service/board/park/19277070?od=T31&po=0&category=0&groupCd=",
-            "score": 65.94
+            "source": "인벤",
+            "rank": 44,
+            "title": "사전예약 리센느 질문 조공 약 ㅎㅂ",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2739933",
+            "score": 63.93
           },
           {
+            "source": "클리앙",
+            "rank": 55,
+            "title": "오랜만에 음악 cd란 걸 주문했는데여 (리센느)",
+            "url": "https://www.clien.net/service/board/park/19277166?od=T31&po=0&category=0&groupCd=",
+            "score": 59.93
+          }
+        ],
+        "rank": 7,
+        "change": "NEW"
+      },
+      {
+        "id": "i50b33b63",
+        "title": "‘고양이’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "고양이"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 71.08,
+        "peak_score": 71.08,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "인벤"
+        ],
+        "posts": [
+          {
             "source": "인벤",
-            "rank": 42,
-            "title": "축구협회 입장문",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2739843",
-            "score": 63.26
+            "rank": 47,
+            "title": "자는척하면서 몰래 아이스크림을 가져가는 고양이",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2739926",
+            "score": 62.08
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 60,
+            "title": "고양이 찬양 하는 만화",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470054&_dcbest=1&page=1",
+            "score": 58.96
           }
         ],
         "rank": 8,
@@ -405,7 +394,88 @@
         "latest_source_count": 3,
         "latest_post_count": 3,
         "rank": 2,
+        "change": 0
+      },
+      {
+        "id": "ife021da2",
+        "title": "현재 일본에서 난리난 성매매 법안",
+        "keywords": [
+          "성매매",
+          "일본에서",
+          "법안",
+          "난리난"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 113.22,
+        "peak_score": 103.75,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 2,
+            "title": "현재 일본에서 난리난 성매매 법안",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77014815?m=humor",
+            "score": 95.75
+          },
+          {
+            "source": "인벤",
+            "rank": 33,
+            "title": "현재 일본에서 난리난 성매매 법안 ㄷㄷ",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2739912",
+            "score": 66.72
+          }
+        ],
+        "first_seen": "2026-09-29T11:40:38.000414+09:00",
+        "last_seen": "2026-10-13T23:47:28.120476+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 3,
         "change": "NEW"
+      },
+      {
+        "id": "i039fd79c",
+        "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "이재명"
+        ],
+        "source_count": 3,
+        "post_count": 4,
+        "score": 111.14,
+        "peak_score": 93.65,
+        "appearances": 2,
+        "sources": [
+          "디시인사이드",
+          "뽐뿌",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 51,
+            "title": "이재명 감옥갈듯",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2739936",
+            "score": 60.4
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 59,
+            "title": "이재명 계란사태 근황.....jpg",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470021&_dcbest=1&page=1",
+            "score": 59.1
+          }
+        ],
+        "first_seen": "2026-09-27T13:38:37.715424+09:00",
+        "last_seen": "2026-10-13T23:47:28.120476+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 4,
+        "rank": 4,
+        "change": 0
       },
       {
         "id": "i4a0a5902",
@@ -443,54 +513,8 @@
         "last_seen": "2026-10-13T12:57:57.192634+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 3,
-        "change": -1
-      },
-      {
-        "id": "i039fd79c",
-        "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "이재명"
-        ],
-        "source_count": 3,
-        "post_count": 3,
-        "score": 108.12,
-        "peak_score": 93.65,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "뽐뿌",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 12,
-            "title": "이재명 계란사태 근황.....jpg",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470021&_dcbest=1&page=1",
-            "score": 76.65
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 15,
-            "title": "오늘 부캉이 보러 간 이재명",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10150978",
-            "score": 74.71
-          },
-          {
-            "source": "클리앙",
-            "rank": 35,
-            "title": "이재명 근저당 거래, 사인간채무 아닌가' 질문에 임광현 국세청장 답변은?",
-            "url": "https://www.clien.net/service/board/park/19277076?od=T31&po=0&category=0&groupCd=",
-            "score": 65.17
-          }
-        ],
-        "first_seen": "2026-09-27T13:38:37.715424+09:00",
-        "last_seen": "2026-10-13T20:40:38.638470+09:00",
-        "latest_source_count": 3,
-        "latest_post_count": 3,
-        "rank": 4,
-        "change": "NEW"
+        "rank": 5,
+        "change": -2
       },
       {
         "id": "ib32476d8",
@@ -535,8 +559,46 @@
         "last_seen": "2026-10-13T15:46:35.908973+09:00",
         "latest_source_count": 3,
         "latest_post_count": 3,
-        "rank": 5,
-        "change": -2
+        "rank": 6,
+        "change": -1
+      },
+      {
+        "id": "iae6b0123",
+        "title": "‘실시간’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "실시간"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 98.47,
+        "peak_score": 89.0,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "디시인사이드"
+        ],
+        "posts": [
+          {
+            "source": "더쿠",
+            "rank": 6,
+            "title": "실시간 케톡 ㄴㅇㄱ된 이수만 여돌.jpg",
+            "url": "https://theqoo.net/hot/4374778306",
+            "score": 80.0
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 12,
+            "title": "실시간 중국인들 발작중인 글..jpg",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470046&_dcbest=1&page=1",
+            "score": 76.0
+          }
+        ],
+        "first_seen": "2026-10-06T11:19:29.813850+09:00",
+        "last_seen": "2026-10-13T23:47:28.120476+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 7,
+        "change": "NEW"
       },
       {
         "id": "ib19f68fa",
@@ -573,8 +635,8 @@
         "last_seen": "2026-10-13T20:40:38.638470+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 6,
-        "change": "NEW"
+        "rank": 8,
+        "change": -2
       },
       {
         "id": "iead2b930",
@@ -611,47 +673,47 @@
         "last_seen": "2026-10-13T02:46:30.249073+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 7,
-        "change": -3
+        "rank": 9,
+        "change": -2
       },
       {
         "id": "i8214f1d0",
-        "title": "‘심정지’ 관련 글이 여러 커뮤니티에서 화제",
+        "title": "‘흉기난동’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "심정지",
           "흉기난동"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 93.55,
+        "score": 95.57,
         "peak_score": 84.08,
-        "appearances": 1,
+        "appearances": 2,
         "sources": [
           "더쿠",
-          "디시인사이드"
+          "디시인사이드",
+          "인벤"
         ],
         "posts": [
           {
-            "source": "디시인사이드",
-            "rank": 13,
-            "title": "인천 흉기난동 사건 cctv 긴급입수. 심정지 여성 의식 돌아옴",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470013&_dcbest=1&page=1",
-            "score": 75.08
+            "source": "인벤",
+            "rank": 38,
+            "title": "인천 구월동 상가서 흉기난동…9명 부상",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2739927",
+            "score": 65.03
           },
           {
-            "source": "더쿠",
-            "rank": 53,
-            "title": "[속보] '인천 흉기난동' 심정지 20대, 수술 끝에 맥박 회복",
-            "url": "https://theqoo.net/hot/4374479870",
-            "score": 61.42
+            "source": "디시인사이드",
+            "rank": 81,
+            "title": "인천 흉기난동 사건 cctv 긴급입수. 심정지 여성 의식 돌아옴",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470013&_dcbest=1&page=1",
+            "score": 55.89
           }
         ],
         "first_seen": "2026-10-13T20:40:38.638470+09:00",
-        "last_seen": "2026-10-13T20:40:38.638470+09:00",
+        "last_seen": "2026-10-13T23:47:28.120476+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 8,
-        "change": "NEW"
+        "rank": 10,
+        "change": -2
       },
       {
         "id": "i36ddd5fd",
@@ -689,8 +751,8 @@
         "last_seen": "2026-10-13T12:57:57.192634+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 9,
-        "change": -4
+        "rank": 11,
+        "change": -2
       },
       {
         "id": "id73e5b1e",
@@ -728,8 +790,8 @@
         "last_seen": "2026-10-13T12:57:57.192634+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 10,
-        "change": -4
+        "rank": 12,
+        "change": -2
       },
       {
         "id": "i9ccef52d",
@@ -766,7 +828,45 @@
         "last_seen": "2026-10-13T20:40:38.638470+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
+        "rank": 13,
+        "change": -2
+      },
+      {
+        "id": "i62196098",
+        "title": "‘김지용’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "김지용"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 90.31,
+        "peak_score": 80.84,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 18,
+            "title": "[단독] 김지용~ 터지기 시작~~ ㅋ",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10151060",
+            "score": 71.84
+          },
+          {
+            "source": "인벤",
+            "rank": 56,
+            "title": "김지용 “인사 공개 비판은 부적절…기강 확립”…‘감찰 대상’ 임은정은 ‘침묵’",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2739934",
+            "score": 59.87
+          }
+        ],
+        "first_seen": "2026-10-01T15:08:17.635290+09:00",
+        "last_seen": "2026-10-13T23:47:28.120476+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 14,
         "change": "NEW"
       },
       {
@@ -804,8 +904,8 @@
         "last_seen": "2026-10-13T12:57:57.192634+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 12,
-        "change": -5
+        "rank": 15,
+        "change": -3
       },
       {
         "id": "ie761e8b9",
@@ -846,8 +946,8 @@
         "last_seen": "2026-10-13T02:46:30.249073+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 13,
-        "change": -5
+        "rank": 16,
+        "change": -3
       },
       {
         "id": "i9992652a",
@@ -885,8 +985,51 @@
         "last_seen": "2026-10-13T12:57:57.192634+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 14,
-        "change": -5
+        "rank": 17,
+        "change": -3
+      },
+      {
+        "id": "i7481726a",
+        "title": "[속보] 李대통령, 인천경찰청 방문…마트 흉기 난동 경위 점검",
+        "keywords": [
+          "난동",
+          "흉기",
+          "점검",
+          "방문",
+          "마트",
+          "인천경찰청"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 86.79,
+        "peak_score": 77.32,
+        "appearances": 1,
+        "sources": [
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 26,
+            "title": "[속보] 李대통령, 인천경찰청 방문…마트 흉기 난동 경위 점검",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2739921",
+            "score": 69.32
+          },
+          {
+            "source": "클리앙",
+            "rank": 46,
+            "title": "李대통령, 인천경찰청 방문…마트 흉기 난동 경위 점검",
+            "url": "https://www.clien.net/service/board/park/19277148?od=T31&po=0&category=0&groupCd=",
+            "score": 62.64
+          }
+        ],
+        "first_seen": "2026-10-13T23:47:28.120476+09:00",
+        "last_seen": "2026-10-13T23:47:28.120476+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 18,
+        "change": "NEW"
       },
       {
         "id": "i77bec7b9",
@@ -923,8 +1066,8 @@
         "last_seen": "2026-10-13T12:57:57.192634+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 15,
-        "change": -5
+        "rank": 19,
+        "change": -4
       },
       {
         "id": "ie1537023",
@@ -961,162 +1104,8 @@
         "last_seen": "2026-10-13T12:57:57.192634+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 16,
-        "change": -5
-      },
-      {
-        "id": "ib1a9381e",
-        "title": "조국혁신당 지지율 근황 .jpg",
-        "keywords": [
-          "조국혁신당",
-          "지지율"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 84.25,
-        "peak_score": 74.78,
-        "appearances": 1,
-        "sources": [
-          "뽐뿌",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 28,
-            "title": "조국혁신당 지지율 근황 .jpg",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10150938",
-            "score": 66.78
-          },
-          {
-            "source": "클리앙",
-            "rank": 52,
-            "title": "'코어지지층 지지율 실화냐?' 조국혁신당 대폭등 조사에 민주당&청와대 발칵!",
-            "url": "https://www.clien.net/service/board/park/19277060?od=T31&po=0&category=0&groupCd=",
-            "score": 61.52
-          }
-        ],
-        "first_seen": "2026-10-13T20:40:38.638470+09:00",
-        "last_seen": "2026-10-13T20:40:38.638470+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 17,
-        "change": "NEW"
-      },
-      {
-        "id": "i0d62394c",
-        "title": "축구협회 입장문",
-        "keywords": [
-          "입장문",
-          "축구협회"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 83.41,
-        "peak_score": 73.94,
-        "appearances": 1,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 34,
-            "title": "축구협회 입장문",
-            "url": "https://www.clien.net/service/board/park/19277070?od=T31&po=0&category=0&groupCd=",
-            "score": 65.94
-          },
-          {
-            "source": "인벤",
-            "rank": 42,
-            "title": "축구협회 입장문",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2739843",
-            "score": 63.26
-          }
-        ],
-        "first_seen": "2026-10-13T20:40:38.638470+09:00",
-        "last_seen": "2026-10-13T20:40:38.638470+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 18,
-        "change": "NEW"
-      },
-      {
-        "id": "ice15bbe4",
-        "title": "‘이강인’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "이강인"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 82.52,
-        "peak_score": 73.05,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "뽐뿌"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 40,
-            "title": "이강인 소속사 고소예정 공지",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10150269",
-            "score": 64.05
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 88,
-            "title": "이강인 고소공지 떳다 ㅋㅋㅋㅋㅋ",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469899&_dcbest=1&page=1",
-            "score": 54.48
-          }
-        ],
-        "first_seen": "2026-10-13T15:46:35.908973+09:00",
-        "last_seen": "2026-10-13T15:46:35.908973+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 19,
-        "change": -7
-      },
-      {
-        "id": "i0bb6525c",
-        "title": "‘아닌가’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "아닌가"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 82.21,
-        "peak_score": 72.74,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "더쿠",
-            "rank": 42,
-            "title": "언니가 큰아빠 병원 물려받았는데 나도 어느정도 지분은 있는거 아닌가?",
-            "url": "https://theqoo.net/hot/4374138952",
-            "score": 63.74
-          },
-          {
-            "source": "인벤",
-            "rank": 85,
-            "title": "지금 주식 하락장은 7월보다 위험한가? 아닌가?",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2739715",
-            "score": 54.93
-          }
-        ],
-        "first_seen": "2026-10-13T15:46:35.908973+09:00",
-        "last_seen": "2026-10-13T15:46:35.908973+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 20,
-        "change": -7
+        "change": -4
       }
     ],
     "weekly": [
@@ -1222,7 +1211,88 @@
         "latest_source_count": 3,
         "latest_post_count": 3,
         "rank": 2,
+        "change": 0
+      },
+      {
+        "id": "ife021da2",
+        "title": "현재 일본에서 난리난 성매매 법안",
+        "keywords": [
+          "성매매",
+          "일본에서",
+          "법안",
+          "난리난"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 113.22,
+        "peak_score": 103.75,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 2,
+            "title": "현재 일본에서 난리난 성매매 법안",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77014815?m=humor",
+            "score": 95.75
+          },
+          {
+            "source": "인벤",
+            "rank": 33,
+            "title": "현재 일본에서 난리난 성매매 법안 ㄷㄷ",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2739912",
+            "score": 66.72
+          }
+        ],
+        "first_seen": "2026-09-29T11:40:38.000414+09:00",
+        "last_seen": "2026-10-13T23:47:28.120476+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 3,
         "change": "NEW"
+      },
+      {
+        "id": "i039fd79c",
+        "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "이재명"
+        ],
+        "source_count": 3,
+        "post_count": 4,
+        "score": 111.14,
+        "peak_score": 93.65,
+        "appearances": 2,
+        "sources": [
+          "디시인사이드",
+          "뽐뿌",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 51,
+            "title": "이재명 감옥갈듯",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2739936",
+            "score": 60.4
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 59,
+            "title": "이재명 계란사태 근황.....jpg",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470021&_dcbest=1&page=1",
+            "score": 59.1
+          }
+        ],
+        "first_seen": "2026-09-27T13:38:37.715424+09:00",
+        "last_seen": "2026-10-13T23:47:28.120476+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 4,
+        "rank": 4,
+        "change": 0
       },
       {
         "id": "i4a0a5902",
@@ -1260,54 +1330,8 @@
         "last_seen": "2026-10-13T12:57:57.192634+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 3,
-        "change": -1
-      },
-      {
-        "id": "i039fd79c",
-        "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "이재명"
-        ],
-        "source_count": 3,
-        "post_count": 3,
-        "score": 108.12,
-        "peak_score": 93.65,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "뽐뿌",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 12,
-            "title": "이재명 계란사태 근황.....jpg",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470021&_dcbest=1&page=1",
-            "score": 76.65
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 15,
-            "title": "오늘 부캉이 보러 간 이재명",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10150978",
-            "score": 74.71
-          },
-          {
-            "source": "클리앙",
-            "rank": 35,
-            "title": "이재명 근저당 거래, 사인간채무 아닌가' 질문에 임광현 국세청장 답변은?",
-            "url": "https://www.clien.net/service/board/park/19277076?od=T31&po=0&category=0&groupCd=",
-            "score": 65.17
-          }
-        ],
-        "first_seen": "2026-09-27T13:38:37.715424+09:00",
-        "last_seen": "2026-10-13T20:40:38.638470+09:00",
-        "latest_source_count": 3,
-        "latest_post_count": 3,
-        "rank": 4,
-        "change": "NEW"
+        "rank": 5,
+        "change": -2
       },
       {
         "id": "ia8451ee4",
@@ -1344,8 +1368,8 @@
         "last_seen": "2026-10-12T16:56:06.040466+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 5,
-        "change": -2
+        "rank": 6,
+        "change": -1
       },
       {
         "id": "i67f949c5",
@@ -1382,8 +1406,47 @@
         "last_seen": "2026-10-12T07:07:36.695804+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 6,
-        "change": -2
+        "rank": 7,
+        "change": -1
+      },
+      {
+        "id": "iae6b0123",
+        "title": "‘실시간’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "실시간"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 100.49,
+        "peak_score": 89.0,
+        "appearances": 2,
+        "sources": [
+          "더쿠",
+          "디시인사이드",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "더쿠",
+            "rank": 6,
+            "title": "실시간 케톡 ㄴㅇㄱ된 이수만 여돌.jpg",
+            "url": "https://theqoo.net/hot/4374778306",
+            "score": 80.0
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 12,
+            "title": "실시간 중국인들 발작중인 글..jpg",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470046&_dcbest=1&page=1",
+            "score": 76.0
+          }
+        ],
+        "first_seen": "2026-10-06T11:19:29.813850+09:00",
+        "last_seen": "2026-10-13T23:47:28.120476+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 8,
+        "change": "NEW"
       },
       {
         "id": "i55b3a015",
@@ -1420,7 +1483,7 @@
         "last_seen": "2026-10-12T10:24:43.062897+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 7,
+        "rank": 9,
         "change": -2
       },
       {
@@ -1466,7 +1529,7 @@
         "last_seen": "2026-10-13T15:46:35.908973+09:00",
         "latest_source_count": 3,
         "latest_post_count": 3,
-        "rank": 8,
+        "rank": 10,
         "change": -2
       },
       {
@@ -1504,8 +1567,8 @@
         "last_seen": "2026-10-13T20:40:38.638470+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 9,
-        "change": "NEW"
+        "rank": 11,
+        "change": -2
       },
       {
         "id": "iead2b930",
@@ -1542,8 +1605,8 @@
         "last_seen": "2026-10-13T02:46:30.249073+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 10,
-        "change": -3
+        "rank": 12,
+        "change": -2
       },
       {
         "id": "ie375bdab",
@@ -1589,8 +1652,47 @@
         "last_seen": "2026-10-12T07:07:36.695804+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 11,
-        "change": -3
+        "rank": 13,
+        "change": -2
+      },
+      {
+        "id": "i8214f1d0",
+        "title": "‘흉기난동’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "흉기난동"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 95.57,
+        "peak_score": 84.08,
+        "appearances": 2,
+        "sources": [
+          "더쿠",
+          "디시인사이드",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 38,
+            "title": "인천 구월동 상가서 흉기난동…9명 부상",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2739927",
+            "score": 65.03
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 81,
+            "title": "인천 흉기난동 사건 cctv 긴급입수. 심정지 여성 의식 돌아옴",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470013&_dcbest=1&page=1",
+            "score": 55.89
+          }
+        ],
+        "first_seen": "2026-10-13T20:40:38.638470+09:00",
+        "last_seen": "2026-10-13T23:47:28.120476+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 14,
+        "change": -1
       },
       {
         "id": "i36ddd5fd",
@@ -1628,47 +1730,8 @@
         "last_seen": "2026-10-13T12:57:57.192634+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 12,
+        "rank": 15,
         "change": -3
-      },
-      {
-        "id": "i8214f1d0",
-        "title": "‘심정지’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "심정지",
-          "흉기난동"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 93.55,
-        "peak_score": 84.08,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "디시인사이드"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 13,
-            "title": "인천 흉기난동 사건 cctv 긴급입수. 심정지 여성 의식 돌아옴",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470013&_dcbest=1&page=1",
-            "score": 75.08
-          },
-          {
-            "source": "더쿠",
-            "rank": 53,
-            "title": "[속보] '인천 흉기난동' 심정지 20대, 수술 끝에 맥박 회복",
-            "url": "https://theqoo.net/hot/4374479870",
-            "score": 61.42
-          }
-        ],
-        "first_seen": "2026-10-13T20:40:38.638470+09:00",
-        "last_seen": "2026-10-13T20:40:38.638470+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 13,
-        "change": "NEW"
       },
       {
         "id": "id73e5b1e",
@@ -1706,8 +1769,8 @@
         "last_seen": "2026-10-13T12:57:57.192634+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 14,
-        "change": -4
+        "rank": 16,
+        "change": -2
       },
       {
         "id": "i9ccef52d",
@@ -1744,7 +1807,45 @@
         "last_seen": "2026-10-13T20:40:38.638470+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 15,
+        "rank": 17,
+        "change": -2
+      },
+      {
+        "id": "i62196098",
+        "title": "‘김지용’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "김지용"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 90.31,
+        "peak_score": 80.84,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 18,
+            "title": "[단독] 김지용~ 터지기 시작~~ ㅋ",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10151060",
+            "score": 71.84
+          },
+          {
+            "source": "인벤",
+            "rank": 56,
+            "title": "김지용 “인사 공개 비판은 부적절…기강 확립”…‘감찰 대상’ 임은정은 ‘침묵’",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2739934",
+            "score": 59.87
+          }
+        ],
+        "first_seen": "2026-10-01T15:08:17.635290+09:00",
+        "last_seen": "2026-10-13T23:47:28.120476+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 18,
         "change": "NEW"
       },
       {
@@ -1782,8 +1883,8 @@
         "last_seen": "2026-10-13T12:57:57.192634+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 16,
-        "change": -5
+        "rank": 19,
+        "change": -3
       },
       {
         "id": "i5781c296",
@@ -1820,131 +1921,8 @@
         "last_seen": "2026-10-12T03:09:47.824635+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 17,
-        "change": -5
-      },
-      {
-        "id": "i0e920102",
-        "title": "\"축의금 10만원 내면 욕먹을 판\", 하객 식대 서울 중간값 8만원",
-        "keywords": [
-          "축의금",
-          "하객",
-          "서울",
-          "8만원",
-          "식대"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 87.71,
-        "peak_score": 78.24,
-        "appearances": 1,
-        "sources": [
-          "뽐뿌",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 19,
-            "title": "\"축의금 10만원 내면 욕먹을 판\", 하객 식대 서울 중간값 8만원",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10149217",
-            "score": 70.24
-          },
-          {
-            "source": "인벤",
-            "rank": 66,
-            "title": "\"축의금 10만원도 부족\"… 서울 하객 식대 8만원 치솟아",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2739127",
-            "score": 59.85
-          }
-        ],
-        "first_seen": "2026-10-12T10:24:43.062897+09:00",
-        "last_seen": "2026-10-12T10:24:43.062897+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 18,
-        "change": -5
-      },
-      {
-        "id": "ie761e8b9",
-        "title": "한국 드라마 본 북한 군인들 처벌 영상",
-        "keywords": [
-          "처벌",
-          "군인들",
-          "한국",
-          "드라마",
-          "북한"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 87.33,
-        "peak_score": 77.86,
-        "appearances": 1,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 18,
-            "title": "한국 드라마 본 북한 군인들 처벌 영상",
-            "url": "https://www.clien.net/service/board/park/19276721?od=T31&po=0&category=0&groupCd=",
-            "score": 69.86
-          },
-          {
-            "source": "인벤",
-            "rank": 24,
-            "title": "한국 드라마 본 북한 군인들 처벌 영상",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2739504",
-            "score": 66.63
-          }
-        ],
-        "first_seen": "2026-10-13T02:46:30.249073+09:00",
-        "last_seen": "2026-10-13T02:46:30.249073+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 19,
-        "change": -5
-      },
-      {
-        "id": "i9992652a",
-        "title": "‘황제골프’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "황제골프",
-          "주진우"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 87.31,
-        "peak_score": 77.84,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 19,
-            "title": "주진우 의원님 쉬는날 골프 쳤다고 그게 어떡해 황제골프 특검감 됩니까? 간염심해서 군 면제 받았는데 말술마시는 공직자가 특검 받아야 맞죠",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2739662",
-            "score": 68.84
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 26,
-            "title": "주진우 \"이재명 황제골프 특검법 발의 기자회견하겠다\"",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469919&_dcbest=1&page=1",
-            "score": 66.68
-          }
-        ],
-        "first_seen": "2026-10-13T12:57:57.192634+09:00",
-        "last_seen": "2026-10-13T12:57:57.192634+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 20,
-        "change": -5
+        "change": -3
       }
     ],
     "monthly": [
@@ -1998,9 +1976,9 @@
         ],
         "source_count": 4,
         "post_count": 6,
-        "score": 139.68,
+        "score": 139.87,
         "peak_score": 105.39,
-        "appearances": 25,
+        "appearances": 26,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -2010,31 +1988,24 @@
         ],
         "posts": [
           {
+            "source": "인벤",
+            "rank": 51,
+            "title": "이재명 감옥갈듯",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2739936",
+            "score": 60.4
+          },
+          {
             "source": "디시인사이드",
-            "rank": 12,
+            "rank": 59,
             "title": "이재명 계란사태 근황.....jpg",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470021&_dcbest=1&page=1",
-            "score": 76.65
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 15,
-            "title": "오늘 부캉이 보러 간 이재명",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10150978",
-            "score": 74.71
-          },
-          {
-            "source": "클리앙",
-            "rank": 35,
-            "title": "이재명 근저당 거래, 사인간채무 아닌가' 질문에 임광현 국세청장 답변은?",
-            "url": "https://www.clien.net/service/board/park/19277076?od=T31&po=0&category=0&groupCd=",
-            "score": 65.17
+            "score": 59.1
           }
         ],
         "first_seen": "2026-09-27T13:38:37.715424+09:00",
-        "last_seen": "2026-10-13T20:40:38.638470+09:00",
-        "latest_source_count": 3,
-        "latest_post_count": 3,
+        "last_seen": "2026-10-13T23:47:28.120476+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 4,
         "rank": 2,
         "change": 0
       },
@@ -2391,7 +2362,7 @@
         "latest_source_count": 3,
         "latest_post_count": 3,
         "rank": 10,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "if553a5cf",
@@ -2431,7 +2402,7 @@
         "latest_source_count": 2,
         "latest_post_count": 3,
         "rank": 11,
-        "change": -1
+        "change": 0
       },
       {
         "id": "ide45eba0",
@@ -2474,7 +2445,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 12,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i5ae392bf",
@@ -2515,7 +2486,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 13,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i413fcde4",
@@ -2555,19 +2526,22 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 14,
-        "change": -1
+        "change": 0
       },
       {
         "id": "ife021da2",
-        "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
+        "title": "현재 일본에서 난리난 성매매 법안",
         "keywords": [
+          "성매매",
+          "일본에서",
+          "법안",
           "난리난"
         ],
         "source_count": 2,
         "post_count": 3,
-        "score": 123.87,
+        "score": 124.64,
         "peak_score": 107.91,
-        "appearances": 5,
+        "appearances": 6,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -2578,25 +2552,25 @@
         "posts": [
           {
             "source": "루리웹",
-            "rank": 1,
-            "title": "난리난 프랑스 근황.jpg",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/76947816?m=humor",
-            "score": 97.91
+            "rank": 2,
+            "title": "현재 일본에서 난리난 성매매 법안",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77014815?m=humor",
+            "score": 95.75
           },
           {
-            "source": "더쿠",
-            "rank": 76,
-            "title": "(약후방) 트위터 난리난 변태 씹덕들 붙어서 괴랄해져간다는 치이카와 판",
-            "url": "https://theqoo.net/hot/4368653989",
-            "score": 56.42
+            "source": "인벤",
+            "rank": 33,
+            "title": "현재 일본에서 난리난 성매매 법안 ㄷㄷ",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2739912",
+            "score": 66.72
           }
         ],
         "first_seen": "2026-09-29T11:40:38.000414+09:00",
-        "last_seen": "2026-10-08T12:01:09.196787+09:00",
+        "last_seen": "2026-10-13T23:47:28.120476+09:00",
         "latest_source_count": 2,
-        "latest_post_count": 3,
+        "latest_post_count": 2,
         "rank": 15,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i9f5e1ed4",
@@ -2637,7 +2611,7 @@
         "latest_source_count": 2,
         "latest_post_count": 3,
         "rank": 16,
-        "change": -1
+        "change": 0
       },
       {
         "id": "ia8451ee4",
@@ -2679,7 +2653,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 17,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i7b918478",
@@ -2719,7 +2693,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 18,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i273326f6",
@@ -2758,7 +2732,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 19,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i7970f34c",
@@ -2796,7 +2770,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 20,
-        "change": -1
+        "change": 0
       }
     ]
   }
