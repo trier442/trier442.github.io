@@ -3,7 +3,7 @@
   "period": "monthly",
   "key": "2026-10",
   "label": "2026년 10월",
-  "collected_at": "2026-10-13T15:46:35.908973+09:00",
+  "collected_at": "2026-10-13T20:40:38.638470+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -50,16 +50,15 @@
     },
     {
       "id": "i039fd79c",
-      "title": "‘이재명의’ 관련 글이 여러 커뮤니티에서 화제",
+      "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "이재명의",
         "이재명"
       ],
       "source_count": 4,
       "post_count": 6,
-      "score": 139.48,
+      "score": 139.68,
       "peak_score": 105.39,
-      "appearances": 24,
+      "appearances": 25,
       "sources": [
         "더쿠",
         "디시인사이드",
@@ -69,38 +68,31 @@
       ],
       "posts": [
         {
-          "source": "뽐뿌",
-          "rank": 5,
-          "title": "이재명의 내로남불<골프관련> .jpg",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10148899",
-          "score": 79.15
+          "source": "디시인사이드",
+          "rank": 12,
+          "title": "이재명 계란사태 근황.....jpg",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470021&_dcbest=1&page=1",
+          "score": 76.65
         },
         {
-          "source": "인벤",
-          "rank": 24,
-          "title": "대한민국 모두의 대통령 이재명의 성과 총정리!!!!",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2739014",
-          "score": 67.93
+          "source": "뽐뿌",
+          "rank": 15,
+          "title": "오늘 부캉이 보러 간 이재명",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10150978",
+          "score": 74.71
         },
         {
           "source": "클리앙",
-          "rank": 64,
-          "title": "트럼프 구라를 한번 겪습니까? 이재명 대통령님? 이시국에 골프라뇨..",
-          "url": "https://www.clien.net/service/board/park/19276231?od=T31&po=0&category=0&groupCd=",
-          "score": 58.19
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 69,
-          "title": "이재명 대통령 골프장서 붕괴사고 지시",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469540&_dcbest=1&page=1",
-          "score": 57.13
+          "rank": 35,
+          "title": "이재명 근저당 거래, 사인간채무 아닌가' 질문에 임광현 국세청장 답변은?",
+          "url": "https://www.clien.net/service/board/park/19277076?od=T31&po=0&category=0&groupCd=",
+          "score": 65.17
         }
       ],
       "first_seen": "2026-09-27T13:38:37.715424+09:00",
-      "last_seen": "2026-10-11T22:32:24.151905+09:00",
-      "latest_source_count": 4,
-      "latest_post_count": 4,
+      "last_seen": "2026-10-13T20:40:38.638470+09:00",
+      "latest_source_count": 3,
+      "latest_post_count": 3,
       "rank": 2,
       "change": 0
     },
@@ -322,7 +314,7 @@
       "latest_source_count": 4,
       "latest_post_count": 5,
       "rank": 7,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i78f6419e",
@@ -370,7 +362,7 @@
       "latest_source_count": 3,
       "latest_post_count": 3,
       "rank": 8,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i106465f0",
@@ -411,7 +403,53 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 9,
-      "change": -1
+      "change": 0
+    },
+    {
+      "id": "i47b692dc",
+      "title": "‘칼부림’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "칼부림"
+      ],
+      "source_count": 3,
+      "post_count": 3,
+      "score": 129.18,
+      "peak_score": 114.71,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "루리웹",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 1,
+          "title": "인천 칼부림 가해자 아주 미쳤는데 ㄷㄷㄷ",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77009681?m=humor",
+          "score": 97.71
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 44,
+          "title": "인천 홈플러스 칼부림 용의자, 지난달 1인시위",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470042&_dcbest=1&page=1",
+          "score": 63.03
+        },
+        {
+          "source": "클리앙",
+          "rank": 49,
+          "title": "범인은 '전처 살인미수' 전과자…대낮 쇼핑몰 칼부림..",
+          "url": "https://www.clien.net/service/board/park/19277072?od=T31&po=0&category=0&groupCd=",
+          "score": 62.52
+        }
+      ],
+      "first_seen": "2026-10-13T20:40:38.638470+09:00",
+      "last_seen": "2026-10-13T20:40:38.638470+09:00",
+      "latest_source_count": 3,
+      "latest_post_count": 3,
+      "rank": 10,
+      "change": "NEW"
     },
     {
       "id": "if553a5cf",
@@ -450,7 +488,7 @@
       "last_seen": "2026-10-11T06:55:58.501176+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 10,
+      "rank": 11,
       "change": -1
     },
     {
@@ -493,7 +531,7 @@
       "last_seen": "2026-10-08T20:37:27.877885+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 11,
+      "rank": 12,
       "change": -1
     },
     {
@@ -534,7 +572,7 @@
       "last_seen": "2026-10-03T18:39:57.662536+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 12,
+      "rank": 13,
       "change": -1
     },
     {
@@ -574,7 +612,7 @@
       "last_seen": "2026-10-10T22:58:06.962499+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 13,
+      "rank": 14,
       "change": -1
     },
     {
@@ -615,7 +653,7 @@
       "last_seen": "2026-10-08T12:01:09.196787+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 14,
+      "rank": 15,
       "change": -1
     },
     {
@@ -656,7 +694,7 @@
       "last_seen": "2026-10-07T15:10:25.459989+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 15,
+      "rank": 16,
       "change": -1
     },
     {
@@ -698,7 +736,7 @@
       "last_seen": "2026-10-12T16:56:06.040466+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 16,
+      "rank": 17,
       "change": -1
     },
     {
@@ -738,7 +776,7 @@
       "last_seen": "2026-10-05T06:40:10.175480+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 17,
+      "rank": 18,
       "change": -1
     },
     {
@@ -777,7 +815,7 @@
       "last_seen": "2026-10-09T08:20:24.501214+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 18,
+      "rank": 19,
       "change": -1
     },
     {
@@ -813,45 +851,6 @@
       ],
       "first_seen": "2026-10-06T17:53:04.817970+09:00",
       "last_seen": "2026-10-06T17:53:04.817970+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 19,
-      "change": -1
-    },
-    {
-      "id": "i7cafd979",
-      "title": "\"한국 빠지면 일본과 한다\"…美 밴스, 알래스카 LNG 압박",
-      "keywords": [
-        "압박",
-        "일본과"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 116.78,
-      "peak_score": 105.29,
-      "appearances": 2,
-      "sources": [
-        "디시인사이드",
-        "루리웹"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 2,
-          "title": "\"한국 빠지면 일본과 한다\"…美 밴스, 알래스카 LNG 압박",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/76954060?m=humor",
-          "score": 97.29
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 72,
-          "title": "미국 부통령 \"한국이 안하면 일본과 하겠다!\" 알래스카LNG사업 압박",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468830&_dcbest=1&page=1",
-          "score": 57.79
-        }
-      ],
-      "first_seen": "2026-10-08T19:25:19.235438+09:00",
-      "last_seen": "2026-10-08T20:37:27.877885+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 20,
