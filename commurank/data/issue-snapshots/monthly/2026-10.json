@@ -3,7 +3,7 @@
   "period": "monthly",
   "key": "2026-10",
   "label": "2026년 10월",
-  "collected_at": "2026-10-15T07:03:00.468396+09:00",
+  "collected_at": "2026-10-15T08:52:43.582251+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -649,6 +649,46 @@
       "change": 0
     },
     {
+      "id": "ifd5a2cc3",
+      "title": "‘한국에서’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "한국에서"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 124.49,
+      "peak_score": 104.67,
+      "appearances": 12,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "루리웹",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 2,
+          "title": "일본 규동이 한국에서 힘을 못쓰는 이유",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77028723?m=humor",
+          "score": 94.67
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 47,
+          "title": "와들와들 의외로 한국에서 남초였다는 사이트.JPG",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470371&_dcbest=1&page=1",
+          "score": 62.86
+        }
+      ],
+      "first_seen": "2026-09-30T17:58:06.192419+09:00",
+      "last_seen": "2026-10-15T08:52:43.582251+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 3,
+      "rank": 16,
+      "change": "NEW"
+    },
+    {
       "id": "i9f5e1ed4",
       "title": "‘인스타’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -686,8 +726,8 @@
       "last_seen": "2026-10-07T15:10:25.459989+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 16,
-      "change": 0
+      "rank": 17,
+      "change": -1
     },
     {
       "id": "ia8451ee4",
@@ -728,7 +768,47 @@
       "last_seen": "2026-10-12T16:56:06.040466+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 17,
+      "rank": 18,
+      "change": -1
+    },
+    {
+      "id": "ibef4b4bc",
+      "title": "‘무서운’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "무서운"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 120.05,
+      "peak_score": 107.12,
+      "appearances": 3,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "루리웹",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 41,
+          "title": "박위가 무서운 사람인 이유(with 화장실로 해쳐모여!!)",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470405&_dcbest=1&page=1",
+          "score": 64.76
+        },
+        {
+          "source": "루리웹",
+          "rank": 96,
+          "title": "무서운 아내",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77029641?m=humor_only&t=now",
+          "score": 53.02
+        }
+      ],
+      "first_seen": "2026-10-14T12:35:09.624615+09:00",
+      "last_seen": "2026-10-15T08:52:43.582251+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 19,
       "change": 0
     },
     {
@@ -768,87 +848,8 @@
       "last_seen": "2026-10-05T06:40:10.175480+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 18,
-      "change": 0
-    },
-    {
-      "id": "ibef4b4bc",
-      "title": "‘무서운’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "무서운"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 118.61,
-      "peak_score": 107.12,
-      "appearances": 2,
-      "sources": [
-        "더쿠",
-        "디시인사이드",
-        "루리웹",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 32,
-          "title": "MBC) 2년 일찍 생산? 중국 반도체의 무서운 추격",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470335&_dcbest=1&page=1",
-          "score": 64.26
-        },
-        {
-          "source": "더쿠",
-          "rank": 74,
-          "title": "파충류 유튜버 게시판에 올라온 무서운 글 (벌레주의?)",
-          "url": "https://theqoo.net/hot/4375847833",
-          "score": 56.21
-        }
-      ],
-      "first_seen": "2026-10-14T12:35:09.624615+09:00",
-      "last_seen": "2026-10-14T23:30:27.973805+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 19,
-      "change": 0
-    },
-    {
-      "id": "i273326f6",
-      "title": "‘강호동’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "강호동"
-      ],
-      "source_count": 2,
-      "post_count": 3,
-      "score": 117.68,
-      "peak_score": 103.75,
-      "appearances": 3,
-      "sources": [
-        "더쿠",
-        "루리웹",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 2,
-          "title": "어느순간 KBO 역적이 된 강호동 ㅋㅋ",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/76960289?m=humor",
-          "score": 94.75
-        },
-        {
-          "source": "더쿠",
-          "rank": 40,
-          "title": "강호동 아들 시후군 근황",
-          "url": "https://theqoo.net/hot/4369490902",
-          "score": 65.58
-        }
-      ],
-      "first_seen": "2026-10-09T02:34:20.188771+09:00",
-      "last_seen": "2026-10-09T08:20:24.501214+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 20,
-      "change": 0
+      "change": -2
     }
   ]
 }
