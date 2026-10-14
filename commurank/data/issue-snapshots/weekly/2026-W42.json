@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W42",
   "label": "2026.10.12 ~ 10.18",
-  "collected_at": "2026-10-14T08:54:24.839303+09:00",
+  "collected_at": "2026-10-14T10:50:25.054561+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -112,9 +112,9 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 113.97,
+      "score": 115.99,
       "peak_score": 104.5,
-      "appearances": 1,
+      "appearances": 2,
       "sources": [
         "디시인사이드",
         "루리웹"
@@ -122,21 +122,21 @@
       "posts": [
         {
           "source": "루리웹",
-          "rank": 2,
-          "title": "어제 통영대전고속도로 사망사고 영상.gif",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77014389?m=humor",
-          "score": 95.5
+          "rank": 58,
+          "title": "통영대전고속도로 사망사고 영상",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77018483?m=humor_only&t=now",
+          "score": 59.72
         },
         {
           "source": "디시인사이드",
-          "rank": 28,
+          "rank": 68,
           "title": "황영조 선수가 생각한 마라톤 사망사고 원인",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470096&_dcbest=1&page=1",
-          "score": 67.3
+          "score": 57.47
         }
       ],
       "first_seen": "2026-10-14T03:32:02.203552+09:00",
-      "last_seen": "2026-10-14T03:32:02.203552+09:00",
+      "last_seen": "2026-10-14T10:50:25.054561+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 3,
@@ -374,7 +374,7 @@
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 9,
-      "change": 1
+      "change": 0
     },
     {
       "id": "i67f949c5",
@@ -412,7 +412,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 10,
-      "change": -1
+      "change": 0
     },
     {
       "id": "iae6b0123",
@@ -614,6 +614,44 @@
       "change": 0
     },
     {
+      "id": "i3ccc2d51",
+      "title": "‘일본인’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "일본인"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 97.77,
+      "peak_score": 84.84,
+      "appearances": 3,
+      "sources": [
+        "더쿠",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 75,
+          "title": "한국인만의 독특한 상황대처력이 신기하다는 일본인",
+          "url": "https://theqoo.net/hot/4374896772",
+          "score": 55.95
+        },
+        {
+          "source": "인벤",
+          "rank": 95,
+          "title": "한국의 GDP가 앞서갔다며 돈 달라는 일본인",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2740020",
+          "score": 52.46
+        }
+      ],
+      "first_seen": "2026-10-01T22:31:06.521354+09:00",
+      "last_seen": "2026-10-14T10:50:25.054561+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 16,
+      "change": 1
+    },
+    {
       "id": "iead2b930",
       "title": "‘오늘자’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -648,46 +686,8 @@
       "last_seen": "2026-10-13T02:46:30.249073+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 16,
-      "change": 0
-    },
-    {
-      "id": "i3ccc2d51",
-      "title": "‘일본인’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "일본인"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 96.33,
-      "peak_score": 84.84,
-      "appearances": 2,
-      "sources": [
-        "더쿠",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 13,
-          "title": "한국인만의 독특한 상황대처력이 신기하다는 일본인",
-          "url": "https://theqoo.net/hot/4374896772",
-          "score": 75.84
-        },
-        {
-          "source": "인벤",
-          "rank": 54,
-          "title": "고맙다고 말해주는 일본인 여자친구.mp4",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2739962",
-          "score": 61.67
-        }
-      ],
-      "first_seen": "2026-10-01T22:31:06.521354+09:00",
-      "last_seen": "2026-10-14T05:29:54.231345+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 17,
-      "change": 0
+      "change": -1
     },
     {
       "id": "ie375bdab",
