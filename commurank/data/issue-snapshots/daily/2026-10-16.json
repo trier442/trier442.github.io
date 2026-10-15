@@ -3,7 +3,7 @@
   "period": "daily",
   "key": "2026-10-16",
   "label": "2026년 10월 16일",
-  "collected_at": "2026-10-16T06:42:44.796786+09:00",
+  "collected_at": "2026-10-16T07:16:49.112787+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -241,7 +241,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 6,
-      "change": 1
+      "change": 0
     },
     {
       "id": "i7fee3840",
@@ -279,7 +279,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 7,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i35d153cf",
@@ -358,6 +358,44 @@
       "change": 0
     },
     {
+      "id": "i54cc5255",
+      "title": "‘마지막으로’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "마지막으로"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 81.79,
+      "peak_score": 72.32,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 44,
+          "title": "어떤 게임이 마지막으로 남기고 간 전설의 시작",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77041026?m=humor_only&t=now",
+          "score": 63.32
+        },
+        {
+          "source": "더쿠",
+          "rank": 79,
+          "title": "이 아기 고양이의 이름은 덬이 마지막으로 먹은 거임",
+          "url": "https://theqoo.net/hot/4376939904",
+          "score": 55.58
+        }
+      ],
+      "first_seen": "2026-10-11T06:33:51.583403+09:00",
+      "last_seen": "2026-10-16T07:16:49.112787+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 10,
+      "change": "NEW"
+    },
+    {
       "id": "i1a0292b7",
       "title": "‘안되는’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -392,8 +430,8 @@
       "last_seen": "2026-10-16T04:06:48.075227+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 10,
-      "change": 0
+      "rank": 11,
+      "change": -1
     },
     {
       "id": "ifd5a2cc3",
@@ -430,8 +468,8 @@
       "last_seen": "2026-10-16T03:23:23.766471+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 11,
-      "change": 0
+      "rank": 12,
+      "change": -1
     },
     {
       "id": "ie1741c16",
@@ -468,8 +506,8 @@
       "last_seen": "2026-10-16T00:00:23.287441+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 12,
-      "change": 0
+      "rank": 13,
+      "change": -1
     },
     {
       "id": "icfa4554b",
@@ -506,8 +544,8 @@
       "last_seen": "2026-10-16T00:00:23.287441+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 13,
-      "change": 0
+      "rank": 14,
+      "change": -1
     }
   ]
 }
