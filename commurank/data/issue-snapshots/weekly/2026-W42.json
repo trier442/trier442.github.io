@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W42",
   "label": "2026.10.12 ~ 10.18",
-  "collected_at": "2026-10-15T14:13:47.790939+09:00",
+  "collected_at": "2026-10-15T18:22:11.215736+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -182,7 +182,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 4,
-      "change": 2
+      "change": 0
     },
     {
       "id": "i9ff6bf96",
@@ -221,7 +221,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 5,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i4a0a5902",
@@ -262,7 +262,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 6,
-      "change": -1
+      "change": 0
     },
     {
       "id": "ifd5a2cc3",
@@ -426,9 +426,9 @@
       ],
       "source_count": 3,
       "post_count": 4,
-      "score": 114.61,
+      "score": 115.38,
       "peak_score": 93.65,
-      "appearances": 5,
+      "appearances": 6,
       "sources": [
         "디시인사이드",
         "뽐뿌",
@@ -437,24 +437,31 @@
       ],
       "posts": [
         {
-          "source": "인벤",
-          "rank": 91,
-          "title": "신임 비서실장은 이재명 선거법 변호인 이승엽 변호사의 매형이다",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2740368",
-          "score": 53.3
+          "source": "클리앙",
+          "rank": 10,
+          "title": "SNS로 소통한다는 이재명 대통령.jpg",
+          "url": "https://www.clien.net/service/board/park/19278056?od=T31&po=0&category=0&groupCd=",
+          "score": 75.32
         },
         {
-          "source": "뽐뿌",
-          "rank": 98,
-          "title": "이재명 인사는 진짜 대박이네 ㅋㅋ",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10152259",
-          "score": 52.39
+          "source": "인벤",
+          "rank": 31,
+          "title": "이재명 sns",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2740704",
+          "score": 66.05
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 47,
+          "title": "이재명 “주거·일자리·금융, 최우선 국정과제”",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470542&_dcbest=1&page=1",
+          "score": 61.37
         }
       ],
       "first_seen": "2026-09-27T13:38:37.715424+09:00",
-      "last_seen": "2026-10-15T02:33:52.116069+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
+      "last_seen": "2026-10-15T18:22:11.215736+09:00",
+      "latest_source_count": 3,
+      "latest_post_count": 4,
       "rank": 11,
       "change": 0
     },
@@ -687,7 +694,7 @@
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 17,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "iae6b0123",
@@ -727,7 +734,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 18,
-      "change": -1
+      "change": 0
     },
     {
       "id": "ibd822fda",
@@ -765,7 +772,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 19,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i3ccc2d51",
@@ -804,7 +811,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 20,
-      "change": -1
+      "change": 0
     }
   ]
 }
