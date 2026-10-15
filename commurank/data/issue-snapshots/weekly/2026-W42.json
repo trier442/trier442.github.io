@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W42",
   "label": "2026.10.12 ~ 10.18",
-  "collected_at": "2026-10-16T07:16:49.112787+09:00",
+  "collected_at": "2026-10-16T08:55:19.637350+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -497,6 +497,45 @@
       "change": 0
     },
     {
+      "id": "i4d8589fc",
+      "title": "이제 30대 남성의 미혼율 62.5% 과반수 돌파",
+      "keywords": [
+        "미혼율",
+        "돌파"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 114.7,
+      "peak_score": 103.21,
+      "appearances": 2,
+      "sources": [
+        "더쿠",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 1,
+          "title": "이제 30대 남성의 미혼율 62.5% 과반수 돌파",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77040590?m=humor",
+          "score": 95.21
+        },
+        {
+          "source": "더쿠",
+          "rank": 17,
+          "title": "30대 전체 미혼율 50% 돌파",
+          "url": "https://theqoo.net/hot/4377056350",
+          "score": 72.37
+        }
+      ],
+      "first_seen": "2026-10-16T04:06:48.075227+09:00",
+      "last_seen": "2026-10-16T08:55:19.637350+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 13,
+      "change": "NEW"
+    },
+    {
       "id": "i015fefac",
       "title": "‘국민연금’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -531,8 +570,48 @@
       "last_seen": "2026-10-15T19:00:34.779872+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 13,
-      "change": 0
+      "rank": 14,
+      "change": -1
+    },
+    {
+      "id": "if553a5cf",
+      "title": "‘트럼프’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "트럼프"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 109.6,
+      "peak_score": 98.11,
+      "appearances": 2,
+      "sources": [
+        "루리웹",
+        "뽐뿌",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 3,
+          "title": "트럼프 미쳤네요",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10153635",
+          "score": 89.11
+        },
+        {
+          "source": "클리앙",
+          "rank": 67,
+          "title": "트럼프 '총살형 생중계..여론 역풍에 취소",
+          "url": "https://www.clien.net/service/board/park/19278236?od=T31&po=0&category=0&groupCd=",
+          "score": 58.3
+        }
+      ],
+      "first_seen": "2026-10-02T11:10:36.587418+09:00",
+      "last_seen": "2026-10-16T08:55:19.637350+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 15,
+      "change": "NEW"
     },
     {
       "id": "i5d6688ff",
@@ -569,8 +648,8 @@
       "last_seen": "2026-10-15T08:52:43.582251+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 14,
-      "change": 0
+      "rank": 16,
+      "change": -2
     },
     {
       "id": "ia8451ee4",
@@ -607,8 +686,8 @@
       "last_seen": "2026-10-12T16:56:06.040466+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 15,
-      "change": 0
+      "rank": 17,
+      "change": -2
     },
     {
       "id": "i36ddd5fd",
@@ -646,8 +725,8 @@
       "last_seen": "2026-10-14T23:30:27.973805+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 16,
-      "change": 0
+      "rank": 18,
+      "change": -2
     },
     {
       "id": "i5b69a25a",
@@ -686,8 +765,8 @@
       "last_seen": "2026-10-15T13:26:10.299496+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 17,
-      "change": 0
+      "rank": 19,
+      "change": -2
     },
     {
       "id": "i67f949c5",
@@ -724,86 +803,8 @@
       "last_seen": "2026-10-12T07:07:36.695804+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 18,
-      "change": 0
-    },
-    {
-      "id": "i64aac33b",
-      "title": "‘코스피’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "코스피"
-      ],
-      "source_count": 2,
-      "post_count": 3,
-      "score": 104.1,
-      "peak_score": 93.63,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 5,
-          "title": "싱글벙글 오늘자 코스피",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470451&_dcbest=1&page=1",
-          "score": 83.63
-        },
-        {
-          "source": "인벤",
-          "rank": 57,
-          "title": "코스피 현재 상황 및 1주일 변화",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2740591",
-          "score": 59.55
-        }
-      ],
-      "first_seen": "2026-10-15T14:13:47.790939+09:00",
-      "last_seen": "2026-10-15T14:13:47.790939+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 3,
-      "rank": 19,
-      "change": 0
-    },
-    {
-      "id": "iae6b0123",
-      "title": "‘실시간’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "실시간"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 103.96,
-      "peak_score": 89.0,
-      "appearances": 5,
-      "sources": [
-        "더쿠",
-        "디시인사이드",
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 6,
-          "title": "와들와들 실시간 여초 긁어서 개처맞는 주둥이방송",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470475&_dcbest=1&page=1",
-          "score": 79.41
-        },
-        {
-          "source": "인벤",
-          "rank": 43,
-          "title": "실시간 하후돈이 된 침착맨",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2740569",
-          "score": 62.27
-        }
-      ],
-      "first_seen": "2026-10-06T11:19:29.813850+09:00",
-      "last_seen": "2026-10-15T14:13:47.790939+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 20,
-      "change": 0
+      "change": -2
     }
   ]
 }
