@@ -2,7 +2,7 @@
   "version": 1,
   "date": "2026-10-16",
   "label": "2026년 10월 16일",
-  "collected_at": "2026-10-16T18:48:05.332522+09:00",
+  "collected_at": "2026-10-16T23:02:28.015945+09:00",
   "timezone": "Asia/Seoul",
   "overview": "오늘 가장 두드러진 이슈는 ‘테슬라 로드스터 시연장 근황.jpg’입니다. 실시간 키워드 상위: #단독. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
@@ -13,8 +13,8 @@
     "daily_posts": 100,
     "daily_issues": 20,
     "keywords": 20,
-    "top100_views": 841844,
-    "top100_comments": 11727
+    "top100_views": 1161844,
+    "top100_comments": 12025
   },
   "highlights": [
     {
@@ -32,7 +32,7 @@
     {
       "type": "keyword",
       "title": "#단독",
-      "text": "3개 커뮤니티 · 7개 인기글에서 함께 등장했습니다.",
+      "text": "3개 커뮤니티 · 4개 인기글에서 함께 등장했습니다.",
       "keyword": "단독"
     }
   ],
@@ -49,11 +49,11 @@
       "max_likes": 250,
       "max_comments": 155,
       "appearances": 2,
-      "score": 109.16,
+      "score": 108.8,
       "views": 35389,
       "likes": 250,
       "comments": 155,
-      "change": 9
+      "change": 0
     },
     {
       "title": "속보) 백악관 \"사형집행 생중계 취소\"",
@@ -67,11 +67,29 @@
       "max_likes": 141,
       "max_comments": 107,
       "appearances": 2,
-      "score": 108.76,
+      "score": 108.41,
       "views": 23625,
       "likes": 141,
       "comments": 107,
-      "change": -1
+      "change": 0
+    },
+    {
+      "title": "차량 관련 업계인이 설명해주는 테슬라 기술력.jpg",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77048480?m=humor",
+      "first_seen": "2026-10-16T23:02:28.015945+09:00",
+      "last_seen": "2026-10-16T23:02:28.015945+09:00",
+      "peak_score": 97.71,
+      "max_views": 15252,
+      "max_likes": 114,
+      "max_comments": 85,
+      "appearances": 1,
+      "score": 107.1,
+      "views": 15252,
+      "likes": 114,
+      "comments": 85,
+      "change": "NEW"
     },
     {
       "title": "저는 모든 언어를 이해하고 싶어요!",
@@ -85,7 +103,7 @@
       "max_likes": 153,
       "max_comments": 122,
       "appearances": 1,
-      "score": 107.43,
+      "score": 107.08,
       "views": 23920,
       "likes": 153,
       "comments": 122,
@@ -103,7 +121,7 @@
       "max_likes": 216,
       "max_comments": 153,
       "appearances": 1,
-      "score": 107.19,
+      "score": 106.84,
       "views": 31180,
       "likes": 216,
       "comments": 153,
@@ -121,7 +139,7 @@
       "max_likes": 168,
       "max_comments": 132,
       "appearances": 2,
-      "score": 107.17,
+      "score": 106.82,
       "views": 28743,
       "likes": 168,
       "comments": 132,
@@ -139,7 +157,7 @@
       "max_likes": 171,
       "max_comments": 94,
       "appearances": 2,
-      "score": 107.09,
+      "score": 106.74,
       "views": 14426,
       "likes": 171,
       "comments": 94,
@@ -157,7 +175,7 @@
       "max_likes": 198,
       "max_comments": 76,
       "appearances": 2,
-      "score": 107.07,
+      "score": 106.72,
       "views": 13874,
       "likes": 198,
       "comments": 76,
@@ -175,7 +193,7 @@
       "max_likes": 113,
       "max_comments": 125,
       "appearances": 1,
-      "score": 106.92,
+      "score": 106.57,
       "views": 16688,
       "likes": 113,
       "comments": 125,
@@ -193,181 +211,83 @@
       "max_likes": 73,
       "max_comments": 67,
       "appearances": 1,
-      "score": 106.33,
+      "score": 105.97,
       "views": 18665,
       "likes": 73,
       "comments": 67,
-      "change": -1
-    },
-    {
-      "title": "욕먹고 사과문 올린 20대 여성",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77040849?m=humor",
-      "first_seen": "2026-10-16T08:55:19.637350+09:00",
-      "last_seen": "2026-10-16T09:33:23.880914+09:00",
-      "peak_score": 96.61,
-      "max_views": 33678,
-      "max_likes": 148,
-      "max_comments": 56,
-      "appearances": 2,
-      "score": 106.04,
-      "views": 33678,
-      "likes": 148,
-      "comments": 56,
       "change": -1
     }
   ],
   "rising": [
     {
-      "source": "루리웹",
-      "title": "임신한 직원한테 퇴사하라고 소리침",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77044907?m=humor",
-      "category": "이슈",
-      "views": 35389,
-      "likes": 250,
-      "comments": 155,
-      "score": 98.96,
-      "change": 1,
-      "current_rank": 1,
+      "source": "뽐뿌",
+      "title": "결혼 7년차 난임부부의 임밍아웃.",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10154263",
+      "category": "유머",
+      "views": 23511,
+      "likes": 19,
+      "comments": 105,
+      "score": 92.66,
+      "change": 18,
+      "current_rank": 3,
       "new_entry": false,
-      "delta_views": 3310,
-      "delta_likes": 23,
-      "delta_comments": 6,
-      "rank_gain": 1,
+      "delta_views": 20852,
+      "delta_likes": 18,
+      "delta_comments": 93,
+      "rank_gain": 18,
       "rising_score": 100.0,
       "rising_rank": 1,
-      "window_minutes": 40
-    },
-    {
-      "source": "인벤",
-      "title": "마라톤 대회 얼마나 많길래",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2741157",
-      "category": "이슈",
-      "views": 1438,
-      "likes": 0,
-      "comments": 20,
-      "score": 57.24,
-      "change": 0,
-      "current_rank": 74,
-      "new_entry": false,
-      "delta_views": 679,
-      "delta_likes": 0,
-      "delta_comments": 5,
-      "rank_gain": 0,
-      "rising_score": 100.0,
-      "rising_rank": 2,
-      "window_minutes": 40
+      "window_minutes": 254
     },
     {
       "source": "디시인사이드",
-      "title": "전업주부 남편이 집안일 너무 쉽게 해서 짜증난다는 블라인",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470808&_dcbest=1&page=1",
-      "category": "생활",
-      "views": 5562,
-      "likes": 80,
-      "comments": 149,
-      "score": 75.38,
-      "change": 35,
-      "current_rank": 9,
-      "new_entry": false,
-      "delta_views": 5224,
-      "delta_likes": 70,
-      "delta_comments": 136,
-      "rank_gain": 35,
-      "rising_score": 98.11,
-      "rising_rank": 3,
-      "window_minutes": 40
-    },
-    {
-      "source": "디시인사이드",
-      "title": "압수수색 후 소아응급의사 3명 잇따라 사직서…의협 \"극악무도한 수사 사과",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470804&_dcbest=1&page=1",
+      "title": "[단독] 국립국어원 \"'좌아하게' 사전에 없는 말…근조화환은 바른 표현\"",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470818&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 4335,
-      "likes": 48,
-      "comments": 159,
-      "score": 69.35,
+      "views": 18850,
+      "likes": 233,
+      "comments": 466,
+      "score": 67.96,
       "change": 0,
-      "current_rank": 22,
-      "new_entry": false,
-      "delta_views": 2276,
-      "delta_likes": 23,
-      "delta_comments": 82,
-      "rank_gain": 0,
-      "rising_score": 90.06,
-      "rising_rank": 4,
-      "window_minutes": 40
-    },
-    {
-      "source": "더쿠",
-      "title": "실시간 뮤직뱅크 상황 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ.jpg",
-      "url": "https://theqoo.net/hot/4377607527",
-      "category": "유머",
-      "views": 30909,
-      "likes": 0,
-      "comments": 164,
-      "score": 68.68,
-      "change": 39,
       "current_rank": 24,
       "new_entry": false,
-      "delta_views": 23235,
-      "delta_likes": 0,
-      "delta_comments": 99,
-      "rank_gain": 39,
-      "rising_score": 85.93,
-      "rising_rank": 5,
-      "window_minutes": 40
-    },
-    {
-      "source": "클리앙",
-      "title": "리밸런싱 유예하더니…국민연금, 급락장서 대량 매도",
-      "url": "https://www.clien.net/service/board/park/19278558?od=T31&po=0&category=0&groupCd=",
-      "category": "이슈",
-      "views": 2331,
-      "likes": 5,
-      "comments": 21,
-      "score": 79.52,
-      "change": 7,
-      "current_rank": 5,
-      "new_entry": false,
-      "delta_views": 1630,
-      "delta_likes": 3,
-      "delta_comments": 13,
-      "rank_gain": 7,
-      "rising_score": 85.4,
-      "rising_rank": 6,
-      "window_minutes": 40
-    },
-    {
-      "source": "디시인사이드",
-      "title": "[오피셜] 대한민국 서비스 종료 확정 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470743&_dcbest=1&page=1",
-      "category": "유머",
-      "views": 53515,
-      "likes": 475,
-      "comments": 1164,
-      "score": 55.84,
-      "change": 0,
-      "current_rank": 82,
-      "new_entry": false,
-      "delta_views": 2182,
-      "delta_likes": 23,
-      "delta_comments": 22,
+      "delta_views": 14489,
+      "delta_likes": 169,
+      "delta_comments": 324,
       "rank_gain": 0,
-      "rising_score": 83.63,
-      "rising_rank": 7,
-      "window_minutes": 40
+      "rising_score": 90.0,
+      "rising_rank": 2,
+      "window_minutes": 254
     },
     {
       "source": "루리웹",
-      "title": "\"게임이 어렵다고 포기하는 사람이 있다고??\".twit",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77043862?m=humor",
-      "category": "게임",
-      "views": 34662,
-      "likes": 161,
-      "comments": 207,
-      "score": 96.61,
+      "title": "차량 관련 업계인이 설명해주는 테슬라 기술력.jpg",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77048480?m=humor",
+      "category": "이슈",
+      "views": 15252,
+      "likes": 114,
+      "comments": 85,
+      "score": 97.71,
+      "change": "NEW",
+      "current_rank": 1,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 83.04,
+      "rising_rank": 3,
+      "window_minutes": 254
+    },
+    {
+      "source": "루리웹",
+      "title": "테슬라 로드스터 공중제비를 본 현기차 직원 반응",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77050190?m=humor",
+      "category": "이슈",
+      "views": 11257,
+      "likes": 66,
+      "comments": 98,
+      "score": 93.27,
       "change": "NEW",
       "current_rank": 2,
       "new_entry": true,
@@ -375,49 +295,129 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.58,
-      "rising_rank": 8,
-      "window_minutes": 40
+      "rising_score": 81.17,
+      "rising_rank": 4,
+      "window_minutes": 254
     },
     {
       "source": "루리웹",
-      "title": "웹소설 출판사에서 새드엔딩을 싫어하는 이유.x",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77045853?m=humor",
+      "title": "10억엔 받는 버튼.jpg",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77048394?m=humor",
       "category": "이슈",
-      "views": 15315,
-      "likes": 153,
-      "comments": 137,
-      "score": 93.0,
+      "views": 10711,
+      "likes": 39,
+      "comments": 99,
+      "score": 88.42,
       "change": "NEW",
-      "current_rank": 3,
+      "current_rank": 4,
       "new_entry": true,
       "delta_views": 0,
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 81.06,
+      "rising_score": 79.14,
+      "rising_rank": 5,
+      "window_minutes": 254
+    },
+    {
+      "source": "더쿠",
+      "title": "아주대 응급실 의사들 사직한다길래 항의 표시인줄 알았는데 걍 진심이었구나.X",
+      "url": "https://theqoo.net/hot/4377760911",
+      "category": "이슈",
+      "views": 62221,
+      "likes": 0,
+      "comments": 744,
+      "score": 85.68,
+      "change": "NEW",
+      "current_rank": 5,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 77.99,
+      "rising_rank": 6,
+      "window_minutes": 254
+    },
+    {
+      "source": "루리웹",
+      "title": "[컴퓨존] 윈도우 11 Home FPP / 99,000원 선착순",
+      "url": "https://bbs.ruliweb.com/market/board/1020/read/108085",
+      "category": "이슈",
+      "views": 43755,
+      "likes": 15,
+      "comments": 96,
+      "score": 82.94,
+      "change": "NEW",
+      "current_rank": 6,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 76.83,
+      "rising_rank": 7,
+      "window_minutes": 254
+    },
+    {
+      "source": "더쿠",
+      "title": "수액이나 주사놓을때 찌르는 횟수가 2번이상이면 참지마시길",
+      "url": "https://theqoo.net/hot/4377741102",
+      "category": "이슈",
+      "views": 62887,
+      "likes": 0,
+      "comments": 681,
+      "score": 82.53,
+      "change": "NEW",
+      "current_rank": 7,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 76.66,
+      "rising_rank": 8,
+      "window_minutes": 254
+    },
+    {
+      "source": "더쿠",
+      "title": "공항에 3~4시간전에 가라는건 억지 헛소리라고 봅니다",
+      "url": "https://theqoo.net/hot/4377623530",
+      "category": "이슈",
+      "views": 87799,
+      "likes": 0,
+      "comments": 907,
+      "score": 64.26,
+      "change": 0,
+      "current_rank": 41,
+      "new_entry": false,
+      "delta_views": 58514,
+      "delta_likes": 0,
+      "delta_comments": 436,
+      "rank_gain": 0,
+      "rising_score": 75.0,
       "rising_rank": 9,
-      "window_minutes": 40
+      "window_minutes": 254
     },
     {
       "source": "디시인사이드",
-      "title": "성시경이 말하는 어릴때 경험이 중요한 이유.jpg",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470800&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 8774,
-      "likes": 32,
-      "comments": 233,
-      "score": 70.93,
-      "change": 0,
-      "current_rank": 19,
-      "new_entry": false,
-      "delta_views": 3389,
-      "delta_likes": 8,
-      "delta_comments": 68,
+      "title": "직장에서 잘려 소득이 없어도 양육비 감소는 불가하다는 법원.New",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470855&_dcbest=1&page=1",
+      "category": "생활",
+      "views": 7973,
+      "likes": 170,
+      "comments": 252,
+      "score": 78.44,
+      "change": "NEW",
+      "current_rank": 8,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 80.76,
+      "rising_score": 74.94,
       "rising_rank": 10,
-      "window_minutes": 40
+      "window_minutes": 254
     }
   ],
   "issues": [
@@ -685,7 +685,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 6,
-      "change": 2
+      "change": 0
     },
     {
       "id": "i62196098",
@@ -725,7 +725,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 7,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i436f636b",
@@ -763,7 +763,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 8,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i4f451ecc",
@@ -801,7 +801,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 9,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i039fd79c",
@@ -839,88 +839,88 @@
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 10,
-      "change": -1
+      "change": 0
     }
   ],
   "realtime_issues": [
     {
-      "id": "i4f451ecc",
-      "title": "‘앞으로’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "ib6bfa345",
+      "title": "‘소방관’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "앞으로"
+        "소방관"
       ],
       "source_count": 2,
-      "post_count": 2,
-      "score": 88.14,
-      "peak_score": 88.14,
+      "post_count": 4,
+      "score": 83.54,
+      "peak_score": 83.54,
       "appearances": 1,
       "sources": [
-        "더쿠",
-        "뽐뿌"
+        "인벤",
+        "클리앙"
       ],
       "posts": [
         {
-          "source": "뽐뿌",
-          "rank": 6,
-          "title": "앞으로 100년 동안 세일 안한다는 브랜드.jpg",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=pmarket&no=304162",
-          "score": 79.14
+          "source": "인벤",
+          "rank": 14,
+          "title": "추미애 오자 등 돌린 소방관‥'빨대' 발언에 \"모욕적\"",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2741288",
+          "score": 72.54
         },
         {
-          "source": "더쿠",
-          "rank": 89,
-          "title": "[kbo] 김도영, 다시 평화의 소녀상 앞으로…“오늘은 감사 인사 하고 싶다”",
-          "url": "https://theqoo.net/hot/4377576698",
-          "score": 54.37
+          "source": "클리앙",
+          "rank": 63,
+          "title": "李대통령, 전국체전서 부상 소방관 쾌유 기원…'천금도 아깝지 않아'(종합)",
+          "url": "https://www.clien.net/service/board/park/19278686?od=T31&po=0&category=0&groupCd=",
+          "score": 59.93
         }
       ],
       "rank": 1,
       "change": "NEW"
     },
     {
-      "id": "ida1c1518",
-      "title": "‘피해자’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "ib19f68fa",
+      "title": "‘추미애’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "피해자"
+        "추미애"
       ],
       "source_count": 2,
-      "post_count": 2,
-      "score": 80.05,
-      "peak_score": 80.05,
+      "post_count": 3,
+      "score": 82.54,
+      "peak_score": 82.54,
       "appearances": 1,
       "sources": [
-        "디시인사이드",
-        "루리웹"
+        "인벤",
+        "클리앙"
       ],
       "posts": [
         {
-          "source": "디시인사이드",
-          "rank": 17,
-          "title": "[단독] 성폭행 피해자 '맞신고'한 남학생들...'시간 끌기 전략'으로",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470773&_dcbest=1&page=1",
-          "score": 71.05
+          "source": "인벤",
+          "rank": 14,
+          "title": "추미애 오자 등 돌린 소방관‥'빨대' 발언에 \"모욕적\"",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2741288",
+          "score": 72.54
         },
         {
-          "source": "루리웹",
-          "rank": 59,
-          "title": "인천 흉기난동 19세 여성 피해자 여전히 의식불명…뇌사 가능성도",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77048180?m=humor_only&t=now",
-          "score": 59.6
+          "source": "클리앙",
+          "rank": 21,
+          "title": "추미애 아직도 사과 안했나요, 정당만 사과하고.",
+          "url": "https://www.clien.net/service/board/park/19278684?od=T31&po=0&category=0&groupCd=",
+          "score": 68.39
         }
       ],
       "rank": 2,
       "change": "NEW"
     },
     {
-      "id": "i4c8bdd1e",
-      "title": "‘대한민국’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i5ae392bf",
+      "title": "‘우크라’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "대한민국"
+        "우크라"
       ],
       "source_count": 2,
-      "post_count": 2,
-      "score": 76.32,
-      "peak_score": 76.32,
+      "post_count": 3,
+      "score": 79.17,
+      "peak_score": 79.17,
       "appearances": 1,
       "sources": [
         "디시인사이드",
@@ -929,135 +929,32 @@
       "posts": [
         {
           "source": "인벤",
-          "rank": 27,
-          "title": "위기의 대한민국 30대",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2741170",
-          "score": 67.32
+          "rank": 20,
+          "title": "러시아가 우크라 나토 반대를 외치는 이유",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2741285",
+          "score": 69.17
         },
         {
           "source": "디시인사이드",
-          "rank": 82,
-          "title": "[오피셜] 대한민국 서비스 종료 확정 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470743&_dcbest=1&page=1",
-          "score": 55.84
+          "rank": 68,
+          "title": "우크라 “韓 대북정책·국내정치 탓…北포로 갈등 부풀려져”",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470849&_dcbest=1&page=1",
+          "score": 58.9
         }
       ],
       "rank": 3,
       "change": "NEW"
     },
     {
-      "id": "id0eac52f",
-      "title": "‘재복무’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i2c099e33",
+      "title": "‘외국인’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "재복무",
-        "송민호"
+        "외국인"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 75.38,
-      "peak_score": 75.38,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 29,
-          "title": "‘102일간 근무지 무단 이탈’ 송민호 재복무 확정",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2741182",
-          "score": 66.38
-        },
-        {
-          "source": "더쿠",
-          "rank": 88,
-          "title": "[속보] '부실 복무' 송민호, 군대 다시 간다…재복무 확정",
-          "url": "https://theqoo.net/hot/4377532696",
-          "score": 54.74
-        }
-      ],
-      "rank": 4,
-      "change": "NEW"
-    },
-    {
-      "id": "if553a5cf",
-      "title": "‘트럼프’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "트럼프"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 73.61,
-      "peak_score": 73.61,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 34,
-          "title": "젤렌스키 \"트럼프, 독재자들과 초부유층에 본능적 친밀감 가져\" + 패트리엇 내놔",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470805&_dcbest=1&page=1",
-          "score": 64.61
-        },
-        {
-          "source": "인벤",
-          "rank": 51,
-          "title": "트럼프, 이란에게 '모든 폭탄의 어머니' 투하 고려 중",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2741185",
-          "score": 61.05
-        }
-      ],
-      "rank": 5,
-      "change": "NEW"
-    },
-    {
-      "id": "ib6978d90",
-      "title": "‘마라톤’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "마라톤"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 70.05,
-      "peak_score": 70.05,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 50,
-          "title": "기괴하다vs뭐 어때로 갈린다는 마라톤 추모.jpg",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470767&_dcbest=1&page=1",
-          "score": 61.05
-        },
-        {
-          "source": "인벤",
-          "rank": 74,
-          "title": "마라톤 대회 얼마나 많길래",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2741157",
-          "score": 57.24
-        }
-      ],
-      "rank": 6,
-      "change": -4
-    },
-    {
-      "id": "i8214f1d0",
-      "title": "‘흉기난동’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "흉기난동"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 69.58,
-      "peak_score": 69.58,
+      "score": 80.38,
+      "peak_score": 80.38,
       "appearances": 1,
       "sources": [
         "루리웹",
@@ -1066,165 +963,163 @@
       "posts": [
         {
           "source": "인벤",
-          "rank": 53,
-          "title": "[속보] \"죽을 죄 지어\" 인천 흉기난동 50대 구속…\"도주 우려\"",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2741174",
-          "score": 60.58
+          "rank": 16,
+          "title": "리밸런싱 못한 국민연금… “외국인 ATM 전락”",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2741289",
+          "score": 71.38
         },
         {
           "source": "루리웹",
-          "rank": 59,
-          "title": "인천 흉기난동 19세 여성 피해자 여전히 의식불명…뇌사 가능성도",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77048180?m=humor_only&t=now",
-          "score": 59.6
+          "rank": 93,
+          "title": "한국 구경 중에 갑자기 노부부가 돈 줘서 당황했던 외국인.",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77051343?m=humor_only&t=now",
+          "score": 53.09
         }
       ],
-      "rank": 7,
+      "rank": 4,
       "change": "NEW"
     },
     {
-      "id": "i76049555",
-      "title": "‘kbo’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "ia8f88e22",
+      "title": "‘유승민’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "kbo"
+        "유승민"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 67.98,
-      "peak_score": 67.98,
+      "score": 75.77,
+      "peak_score": 75.77,
       "appearances": 1,
       "sources": [
-        "더쿠",
-        "뽐뿌"
+        "디시인사이드",
+        "인벤"
       ],
       "posts": [
         {
-          "source": "뽐뿌",
-          "rank": 65,
-          "title": "[포인트 베팅] 2026 KBO 준플레이오프 1차전 LG vs KIA 승리팀 예측!",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=baseball&no=699750",
-          "score": 58.98
+          "source": "인벤",
+          "rank": 30,
+          "title": "‘딸 교수 임용 특혜 의혹’ 유승민 전 의원 송치…“정치수사” 반박",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2741290",
+          "score": 66.77
         },
         {
-          "source": "더쿠",
-          "rank": 89,
-          "title": "[kbo] 김도영, 다시 평화의 소녀상 앞으로…“오늘은 감사 인사 하고 싶다”",
-          "url": "https://theqoo.net/hot/4377576698",
-          "score": 54.37
+          "source": "디시인사이드",
+          "rank": 48,
+          "title": "유승민, 경찰 발표에 대한 입장문",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470835&_dcbest=1&page=1",
+          "score": 62.29
         }
       ],
-      "rank": 8,
+      "rank": 5,
       "change": "NEW"
     }
   ],
   "keywords": [
     {
       "keyword": "단독",
-      "score": 148.57,
-      "post_count": 7,
+      "score": 132.52,
+      "post_count": 4,
       "source_count": 3,
-      "best_rank": 7,
+      "best_rank": 12,
       "sources": [
         "더쿠",
         "디시인사이드",
-        "클리앙"
+        "인벤"
       ],
       "aliases": [],
       "rank": 1,
       "change": 0
     },
     {
-      "keyword": "인천",
-      "score": 117.17,
+      "keyword": "추미애",
+      "score": 104.17,
       "post_count": 3,
-      "source_count": 3,
-      "best_rank": 31,
+      "source_count": 2,
+      "best_rank": 14,
       "sources": [
-        "디시인사이드",
-        "루리웹",
-        "인벤"
+        "인벤",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 2,
       "change": "NEW"
     },
     {
-      "keyword": "확정",
-      "score": 111.84,
-      "post_count": 3,
-      "source_count": 3,
-      "best_rank": 29,
+      "keyword": "결혼",
+      "score": 103.63,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 3,
       "sources": [
         "더쿠",
-        "디시인사이드",
-        "인벤"
+        "뽐뿌"
       ],
       "aliases": [],
       "rank": 3,
-      "change": 9
+      "change": "NEW"
     },
     {
-      "keyword": "상황",
-      "score": 95.84,
-      "post_count": 2,
+      "keyword": "소방관",
+      "score": 101.37,
+      "post_count": 4,
       "source_count": 2,
-      "best_rank": 23,
+      "best_rank": 14,
       "sources": [
-        "더쿠",
-        "인벤"
+        "인벤",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 4,
       "change": "NEW"
     },
     {
-      "keyword": "앞으로",
-      "score": 94.43,
-      "post_count": 2,
+      "keyword": "한국",
+      "score": 101.36,
+      "post_count": 3,
       "source_count": 2,
-      "best_rank": 6,
+      "best_rank": 12,
       "sources": [
-        "더쿠",
-        "뽐뿌"
+        "디시인사이드",
+        "루리웹"
       ],
       "aliases": [],
       "rank": 5,
-      "change": "NEW"
+      "change": 14
     },
     {
-      "keyword": "표현",
-      "score": 94.4,
+      "keyword": "결국",
+      "score": 97.72,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 7,
+      "best_rank": 15,
       "sources": [
         "더쿠",
-        "디시인사이드"
+        "뽐뿌"
       ],
       "aliases": [],
       "rank": 6,
       "change": "NEW"
     },
     {
-      "keyword": "피해자",
-      "score": 92.46,
+      "keyword": "발언",
+      "score": 96.53,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 17,
+      "best_rank": 14,
       "sources": [
-        "디시인사이드",
-        "루리웹"
+        "인벤",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 7,
       "change": "NEW"
     },
     {
-      "keyword": "모든",
-      "score": 89.94,
+      "keyword": "남편",
+      "score": 96.29,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 32,
+      "best_rank": 10,
       "sources": [
         "디시인사이드",
         "인벤"
@@ -1234,11 +1129,11 @@
       "change": "NEW"
     },
     {
-      "keyword": "죽을",
-      "score": 89.86,
-      "post_count": 2,
+      "keyword": "우크라",
+      "score": 93.54,
+      "post_count": 3,
       "source_count": 2,
-      "best_rank": 31,
+      "best_rank": 20,
       "sources": [
         "디시인사이드",
         "인벤"
@@ -1248,11 +1143,11 @@
       "change": "NEW"
     },
     {
-      "keyword": "트럼프",
-      "score": 89.63,
+      "keyword": "의혹",
+      "score": 92.47,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 34,
+      "best_rank": 30,
       "sources": [
         "디시인사이드",
         "인벤"
@@ -1262,25 +1157,24 @@
       "change": "NEW"
     },
     {
-      "keyword": "일본",
-      "score": 89.57,
+      "keyword": "테슬라",
+      "score": 91.74,
       "post_count": 3,
-      "source_count": 2,
-      "best_rank": 39,
+      "source_count": 1,
+      "best_rank": 1,
       "sources": [
-        "디시인사이드",
         "루리웹"
       ],
       "aliases": [],
       "rank": 11,
-      "change": 0
+      "change": "NEW"
     },
     {
-      "keyword": "대한민국",
-      "score": 86.4,
+      "keyword": "유승민",
+      "score": 90.95,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 27,
+      "best_rank": 30,
       "sources": [
         "디시인사이드",
         "인벤"
@@ -1290,25 +1184,25 @@
       "change": "NEW"
     },
     {
-      "keyword": "vs",
-      "score": 86.13,
-      "post_count": 2,
+      "keyword": "충격",
+      "score": 90.55,
+      "post_count": 3,
       "source_count": 2,
-      "best_rank": 44,
+      "best_rank": 57,
       "sources": [
-        "뽐뿌",
-        "클리앙"
+        "디시인사이드",
+        "루리웹"
       ],
       "aliases": [],
       "rank": 13,
       "change": "NEW"
     },
     {
-      "keyword": "흉기난동",
-      "score": 85.63,
+      "keyword": "외국인",
+      "score": 87.99,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 53,
+      "best_rank": 16,
       "sources": [
         "루리웹",
         "인벤"
@@ -1318,13 +1212,13 @@
       "change": "NEW"
     },
     {
-      "keyword": "여성",
-      "score": 85.48,
+      "keyword": "특혜",
+      "score": 85.61,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 54,
+      "best_rank": 30,
       "sources": [
-        "루리웹",
+        "디시인사이드",
         "인벤"
       ],
       "aliases": [],
@@ -1335,51 +1229,51 @@
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "임신한 직원한테 퇴사하라고 소리침",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77044907?m=humor",
-      "score": 98.96,
-      "views": 35389,
-      "comments": 155
-    },
-    {
-      "source": "더쿠",
-      "title": "공항에 3~4시간전에 가라는건 억지 헛소리라고 봅니다",
-      "url": "https://theqoo.net/hot/4377623530",
-      "score": 87.0,
-      "views": 29285,
-      "comments": 471
-    },
-    {
-      "source": "클리앙",
-      "title": "리밸런싱 유예하더니…국민연금, 급락장서 대량 매도",
-      "url": "https://www.clien.net/service/board/park/19278558?od=T31&po=0&category=0&groupCd=",
-      "score": 79.52,
-      "views": 2331,
-      "comments": 21
+      "title": "차량 관련 업계인이 설명해주는 테슬라 기술력.jpg",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77048480?m=humor",
+      "score": 97.71,
+      "views": 15252,
+      "comments": 85
     },
     {
       "source": "뽐뿌",
-      "title": "앞으로 100년 동안 세일 안한다는 브랜드.jpg",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=pmarket&no=304162",
-      "score": 79.14,
-      "views": 5624,
-      "comments": 88
+      "title": "결혼 7년차 난임부부의 임밍아웃.",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10154263",
+      "score": 92.66,
+      "views": 23511,
+      "comments": 105
+    },
+    {
+      "source": "더쿠",
+      "title": "아주대 응급실 의사들 사직한다길래 항의 표시인줄 알았는데 걍 진심이었구나.X",
+      "url": "https://theqoo.net/hot/4377760911",
+      "score": 85.68,
+      "views": 62221,
+      "comments": 744
     },
     {
       "source": "디시인사이드",
-      "title": "[단독] 국립국어원 \"'좌아하게' 사전에 없는 말…근조화환은 바른 표현\"",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470818&_dcbest=1&page=1",
-      "score": 77.66,
-      "views": 4361,
-      "comments": 142
+      "title": "직장에서 잘려 소득이 없어도 양육비 감소는 불가하다는 법원.New",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470855&_dcbest=1&page=1",
+      "score": 78.44,
+      "views": 7973,
+      "comments": 252
     },
     {
       "source": "인벤",
-      "title": "추미애지사 지금 상황",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2741175",
-      "score": 68.77,
-      "views": 1039,
-      "comments": 20
+      "title": "남편 월 230만원 애가 둘인 아내",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2741287",
+      "score": 77.09,
+      "views": 1385,
+      "comments": 13
+    },
+    {
+      "source": "클리앙",
+      "title": "추미애 아직도 사과 안했나요, 정당만 사과하고.",
+      "url": "https://www.clien.net/service/board/park/19278684?od=T31&po=0&category=0&groupCd=",
+      "score": 68.39,
+      "views": 396,
+      "comments": 6
     }
   ]
 }
