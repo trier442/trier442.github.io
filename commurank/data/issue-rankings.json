@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-10-16T09:33:23.880914+09:00",
+  "collected_at": "2026-10-16T13:21:01.957759+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -11,154 +11,67 @@
   "rankings": {
     "realtime": [
       {
-        "id": "ia96e470d",
-        "title": "‘미쳤네요’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "ie5e6dce8",
+        "title": "테슬라 로드스터 공중제비 직촬 영상",
         "keywords": [
-          "미쳤네요"
+          "테슬라",
+          "로드스터",
+          "공중제비"
         ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 84.82,
-        "peak_score": 84.82,
+        "source_count": 4,
+        "post_count": 6,
+        "score": 104.8,
+        "peak_score": 104.8,
         "appearances": 1,
         "sources": [
+          "더쿠",
+          "디시인사이드",
           "뽐뿌",
-          "클리앙"
+          "인벤"
         ],
         "posts": [
           {
-            "source": "뽐뿌",
-            "rank": 7,
-            "title": "트럼프 미쳤네요",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10153635",
-            "score": 75.82
+            "source": "인벤",
+            "rank": 8,
+            "title": "테슬라 로드스터 공중제비 직촬 영상",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2740993",
+            "score": 80.8
           },
           {
-            "source": "클리앙",
-            "rank": 34,
-            "title": "AI 진짜 미쳤네요. 마소, 어도비 프로그램도 대체하네요.",
-            "url": "https://www.clien.net/service/board/park/19278258?od=T31&po=0&category=0&groupCd=",
-            "score": 64.9
+            "source": "디시인사이드",
+            "rank": 9,
+            "title": "테슬라 로드스터 시연장 근황.jpg",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470707&_dcbest=1&page=1",
+            "score": 80.46
+          },
+          {
+            "source": "더쿠",
+            "rank": 10,
+            "title": "실시간 난리난 테슬라 신형 로드스터 공식 시연 장면 + 직캠추가",
+            "url": "https://theqoo.net/hot/4377235601",
+            "score": 79.37
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 62,
+            "title": "테슬라 로드스터 공중제비 영상",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10153839",
+            "score": 60.11
           }
         ],
         "rank": 1,
         "change": "NEW"
       },
       {
-        "id": "if553a5cf",
-        "title": "‘트럼프’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i039fd79c",
+        "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "트럼프"
+          "이재명"
         ],
         "source_count": 2,
-        "post_count": 2,
-        "score": 84.82,
-        "peak_score": 84.82,
-        "appearances": 1,
-        "sources": [
-          "뽐뿌",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 7,
-            "title": "트럼프 미쳤네요",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10153635",
-            "score": 75.82
-          },
-          {
-            "source": "클리앙",
-            "rank": 83,
-            "title": "트럼프 새 대변인, 가짜 변호사..허위 경력..'발칵’",
-            "url": "https://www.clien.net/service/board/park/19278263?od=T31&po=0&category=0&groupCd=",
-            "score": 55.04
-          }
-        ],
-        "rank": 2,
-        "change": 0
-      },
-      {
-        "id": "i4d8589fc",
-        "title": "30대 전체 미혼율 50% 돌파",
-        "keywords": [
-          "미혼율",
-          "전체",
-          "30대",
-          "돌파"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 79.66,
-        "peak_score": 79.66,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 13,
-            "title": "30대 전체 미혼율 50% 돌파",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2740881",
-            "score": 71.66
-          },
-          {
-            "source": "더쿠",
-            "rank": 19,
-            "title": "30대 전체 미혼율 50% 돌파",
-            "url": "https://theqoo.net/hot/4377056350",
-            "score": 70.21
-          }
-        ],
-        "rank": 3,
-        "change": -2
-      },
-      {
-        "id": "ia0358651",
-        "title": "‘그대로’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "그대로"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 79.45,
-        "peak_score": 79.45,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 17,
-            "title": "결국 유시민이 말한 그대로 대로 됐네 거",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2740873",
-            "score": 70.45
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 32,
-            "title": "한국을 그대로 베낀 나라, 몽골이 한국을 따라하는 이유.jpg",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470657&_dcbest=1&page=1",
-            "score": 65.6
-          }
-        ],
-        "rank": 4,
-        "change": -1
-      },
-      {
-        "id": "if6b2d7b7",
-        "title": "‘10월’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "10월"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 70.48,
-        "peak_score": 70.48,
+        "post_count": 3,
+        "score": 86.73,
+        "peak_score": 86.73,
         "appearances": 1,
         "sources": [
           "인벤",
@@ -167,52 +80,155 @@
         "posts": [
           {
             "source": "인벤",
-            "rank": 52,
-            "title": "10월 16일 금요일 날씨 + 운세",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2740882",
-            "score": 61.48
+            "rank": 13,
+            "title": "이재명 x",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2740990",
+            "score": 76.73
           },
           {
             "source": "클리앙",
-            "rank": 60,
-            "title": "동네서점 기사 작년 10월 보도인데 낚이시네요",
-            "url": "https://www.clien.net/service/board/park/19278259?od=T31&po=0&category=0&groupCd=",
-            "score": 59.57
+            "rank": 31,
+            "title": "이재명 정부의 업적",
+            "url": "https://www.clien.net/service/board/park/19278387?od=T31&po=0&category=0&groupCd=",
+            "score": 67.33
+          }
+        ],
+        "rank": 2,
+        "change": "NEW"
+      },
+      {
+        "id": "i62196098",
+        "title": "‘김지용’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "김지용"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 84.11,
+        "peak_score": 84.11,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 15,
+            "title": "김지용 임명은 헤어질 결심한것, 이재명의 착각",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10153740",
+            "score": 75.11
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 100,
+            "title": "李대통령, 김지용 초대 중수청장 임명안 재가",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470716&_dcbest=1&page=1",
+            "score": 51.34
+          }
+        ],
+        "rank": 3,
+        "change": "NEW"
+      },
+      {
+        "id": "i1bf23001",
+        "title": "‘살해하고’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "살해하고"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 77.28,
+        "peak_score": 77.28,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 28,
+            "title": "[속보] 간병하던 아내 살해하고…70대 남성 숨진 채 발견",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2740996",
+            "score": 68.28
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 72,
+            "title": "20살 어린 만삭 아내 살해하고 보험금 95억원 타먹었는데 무죄인 남자.",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470686&_dcbest=1&page=1",
+            "score": 58.21
+          }
+        ],
+        "rank": 4,
+        "change": "NEW"
+      },
+      {
+        "id": "ibb35f05f",
+        "title": "‘어떻게’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "어떻게"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 77.0,
+        "peak_score": 77.0,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "더쿠",
+            "rank": 29,
+            "title": "유튜브에서 게이 부부의 자녀가 두 아빠를 daddy와 papa로 구분지어 호칭하는걸 봤다 한국에선 어떻게 적용할 수 있을지 고민하다가",
+            "url": "https://theqoo.net/hot/4377290920",
+            "score": 68.0
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 79,
+            "title": "(영상첨부) 고속도로에서 액체 테러를 당했어요. 누가 범인이고, 어떻게 해야 할까요?",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=979644",
+            "score": 56.04
           }
         ],
         "rank": 5,
         "change": "NEW"
       },
       {
-        "id": "ic01932ab",
-        "title": "'가스관 국가 지시로 공격'...재판 두고 궁지에 몰린 젤렌스키",
+        "id": "i1b672c00",
+        "title": "되팔이 업자들 멸망각 뜬 치이카와 팝콘통 예약구매 상황",
         "keywords": [
-          "궁지에",
-          "몰린"
+          "팝콘통",
+          "되팔이",
+          "치이카와"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 68.69,
-        "peak_score": 68.69,
+        "score": 76.53,
+        "peak_score": 76.53,
         "appearances": 1,
         "sources": [
-          "디시인사이드",
-          "클리앙"
+          "더쿠",
+          "루리웹"
         ],
         "posts": [
           {
-            "source": "클리앙",
-            "rank": 55,
-            "title": "'가스관 국가 지시로 공격'...재판 두고 궁지에 몰린 젤렌스키",
-            "url": "https://www.clien.net/service/board/park/19278267?od=T31&po=0&category=0&groupCd=",
-            "score": 60.69
+            "source": "더쿠",
+            "rank": 27,
+            "title": "되팔이 업자들 멸망각 뜬 치이카와 팝콘통 예약구매 상황",
+            "url": "https://theqoo.net/hot/4377244873",
+            "score": 68.53
           },
           {
-            "source": "디시인사이드",
-            "rank": 90,
-            "title": "싱글벙글 최근 우크라이나가 ㄹㅇ로 궁지에 몰린 이유",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470597&_dcbest=1&page=1",
-            "score": 51.98
+            "source": "루리웹",
+            "rank": 37,
+            "title": "되팔이 멸망 치이카와 팝콘통, 캐릭터 인기 순위 알수 있네",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77044447?m=humor_only&t=now",
+            "score": 65.62
           }
         ],
         "rank": 6,
@@ -220,6 +236,62 @@
       }
     ],
     "daily": [
+      {
+        "id": "ie5e6dce8",
+        "title": "테슬라 로드스터 공중제비 직촬 영상",
+        "keywords": [
+          "테슬라",
+          "로드스터",
+          "공중제비"
+        ],
+        "source_count": 4,
+        "post_count": 6,
+        "score": 126.27,
+        "peak_score": 104.8,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "디시인사이드",
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 8,
+            "title": "테슬라 로드스터 공중제비 직촬 영상",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2740993",
+            "score": 80.8
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 9,
+            "title": "테슬라 로드스터 시연장 근황.jpg",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470707&_dcbest=1&page=1",
+            "score": 80.46
+          },
+          {
+            "source": "더쿠",
+            "rank": 10,
+            "title": "실시간 난리난 테슬라 신형 로드스터 공식 시연 장면 + 직캠추가",
+            "url": "https://theqoo.net/hot/4377235601",
+            "score": 79.37
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 62,
+            "title": "테슬라 로드스터 공중제비 영상",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10153839",
+            "score": 60.11
+          }
+        ],
+        "first_seen": "2026-10-16T13:21:01.957759+09:00",
+        "last_seen": "2026-10-16T13:21:01.957759+09:00",
+        "latest_source_count": 4,
+        "latest_post_count": 6,
+        "rank": 1,
+        "change": "NEW"
+      },
       {
         "id": "i4aeaabb9",
         "title": "‘트위터에서’ 관련 글이 여러 커뮤니티에서 화제",
@@ -255,8 +327,8 @@
         "last_seen": "2026-10-16T03:23:23.766471+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 1,
-        "change": 0
+        "rank": 2,
+        "change": -1
       },
       {
         "id": "i4d8589fc",
@@ -296,8 +368,8 @@
         "last_seen": "2026-10-16T09:33:23.880914+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 2,
-        "change": 0
+        "rank": 3,
+        "change": -1
       },
       {
         "id": "if553a5cf",
@@ -334,8 +406,85 @@
         "last_seen": "2026-10-16T09:33:23.880914+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 3,
+        "rank": 4,
+        "change": -1
+      },
+      {
+        "id": "i62196098",
+        "title": "‘김지용’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "김지용"
+        ],
+        "source_count": 2,
+        "post_count": 3,
+        "score": 98.04,
+        "peak_score": 84.11,
+        "appearances": 3,
+        "sources": [
+          "디시인사이드",
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 15,
+            "title": "김지용 임명은 헤어질 결심한것, 이재명의 착각",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10153740",
+            "score": 75.11
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 100,
+            "title": "李대통령, 김지용 초대 중수청장 임명안 재가",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470716&_dcbest=1&page=1",
+            "score": 51.34
+          }
+        ],
+        "first_seen": "2026-10-01T15:08:17.635290+09:00",
+        "last_seen": "2026-10-16T13:21:01.957759+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 5,
         "change": 0
+      },
+      {
+        "id": "i039fd79c",
+        "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "이재명"
+        ],
+        "source_count": 2,
+        "post_count": 3,
+        "score": 97.2,
+        "peak_score": 86.73,
+        "appearances": 1,
+        "sources": [
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 13,
+            "title": "이재명 x",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2740990",
+            "score": 76.73
+          },
+          {
+            "source": "클리앙",
+            "rank": 31,
+            "title": "이재명 정부의 업적",
+            "url": "https://www.clien.net/service/board/park/19278387?od=T31&po=0&category=0&groupCd=",
+            "score": 67.33
+          }
+        ],
+        "first_seen": "2026-09-27T13:38:37.715424+09:00",
+        "last_seen": "2026-10-16T13:21:01.957759+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 3,
+        "rank": 6,
+        "change": "NEW"
       },
       {
         "id": "ia0358651",
@@ -372,46 +521,8 @@
         "last_seen": "2026-10-16T09:33:23.880914+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 4,
-        "change": 2
-      },
-      {
-        "id": "i62196098",
-        "title": "‘김지용’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "김지용"
-        ],
-        "source_count": 2,
-        "post_count": 3,
-        "score": 96.53,
-        "peak_score": 84.04,
-        "appearances": 2,
-        "sources": [
-          "뽐뿌",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 29,
-            "title": "김지용 임명은 사정정국의 신호탄",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10153098",
-            "score": 65.58
-          },
-          {
-            "source": "인벤",
-            "rank": 94,
-            "title": "여권 내 불만 남아있지만…이 대통령, 청문보고서 채택에 김지용 임명",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2740826",
-            "score": 51.17
-          }
-        ],
-        "first_seen": "2026-10-01T15:08:17.635290+09:00",
-        "last_seen": "2026-10-16T04:06:48.075227+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 3,
-        "rank": 5,
-        "change": -1
+        "rank": 7,
+        "change": -3
       },
       {
         "id": "id9dcafd6",
@@ -449,8 +560,8 @@
         "last_seen": "2026-10-16T04:06:48.075227+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 6,
-        "change": -1
+        "rank": 8,
+        "change": -2
       },
       {
         "id": "ia96e470d",
@@ -487,8 +598,8 @@
         "last_seen": "2026-10-16T09:33:23.880914+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 7,
-        "change": "NEW"
+        "rank": 9,
+        "change": -2
       },
       {
         "id": "i3bc10532",
@@ -527,8 +638,8 @@
         "last_seen": "2026-10-16T03:23:23.766471+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 8,
-        "change": -1
+        "rank": 10,
+        "change": -2
       },
       {
         "id": "ib4558ea4",
@@ -570,8 +681,8 @@
         "last_seen": "2026-10-16T08:55:19.637350+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 9,
-        "change": -1
+        "rank": 11,
+        "change": -2
       },
       {
         "id": "iad5a47fb",
@@ -613,8 +724,124 @@
         "last_seen": "2026-10-16T06:42:44.796786+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 10,
-        "change": -1
+        "rank": 12,
+        "change": -2
+      },
+      {
+        "id": "i1bf23001",
+        "title": "‘살해하고’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "살해하고"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 86.75,
+        "peak_score": 77.28,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 28,
+            "title": "[속보] 간병하던 아내 살해하고…70대 남성 숨진 채 발견",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2740996",
+            "score": 68.28
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 72,
+            "title": "20살 어린 만삭 아내 살해하고 보험금 95억원 타먹었는데 무죄인 남자.",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470686&_dcbest=1&page=1",
+            "score": 58.21
+          }
+        ],
+        "first_seen": "2026-10-11T22:09:31.879059+09:00",
+        "last_seen": "2026-10-16T13:21:01.957759+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 13,
+        "change": "NEW"
+      },
+      {
+        "id": "ibb35f05f",
+        "title": "‘어떻게’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "어떻게"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 86.47,
+        "peak_score": 77.0,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "더쿠",
+            "rank": 29,
+            "title": "유튜브에서 게이 부부의 자녀가 두 아빠를 daddy와 papa로 구분지어 호칭하는걸 봤다 한국에선 어떻게 적용할 수 있을지 고민하다가",
+            "url": "https://theqoo.net/hot/4377290920",
+            "score": 68.0
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 79,
+            "title": "(영상첨부) 고속도로에서 액체 테러를 당했어요. 누가 범인이고, 어떻게 해야 할까요?",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=979644",
+            "score": 56.04
+          }
+        ],
+        "first_seen": "2026-09-28T19:49:36.308484+09:00",
+        "last_seen": "2026-10-16T13:21:01.957759+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 14,
+        "change": "NEW"
+      },
+      {
+        "id": "i1b672c00",
+        "title": "되팔이 업자들 멸망각 뜬 치이카와 팝콘통 예약구매 상황",
+        "keywords": [
+          "팝콘통",
+          "되팔이",
+          "치이카와"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 86.0,
+        "peak_score": 76.53,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "루리웹"
+        ],
+        "posts": [
+          {
+            "source": "더쿠",
+            "rank": 27,
+            "title": "되팔이 업자들 멸망각 뜬 치이카와 팝콘통 예약구매 상황",
+            "url": "https://theqoo.net/hot/4377244873",
+            "score": 68.53
+          },
+          {
+            "source": "루리웹",
+            "rank": 37,
+            "title": "되팔이 멸망 치이카와 팝콘통, 캐릭터 인기 순위 알수 있네",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77044447?m=humor_only&t=now",
+            "score": 65.62
+          }
+        ],
+        "first_seen": "2026-10-08T12:01:09.196787+09:00",
+        "last_seen": "2026-10-16T13:21:01.957759+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 15,
+        "change": "NEW"
       },
       {
         "id": "i7fee3840",
@@ -651,8 +878,8 @@
         "last_seen": "2026-10-16T04:06:48.075227+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
-        "change": -1
+        "rank": 16,
+        "change": -5
       },
       {
         "id": "i35d153cf",
@@ -689,8 +916,8 @@
         "last_seen": "2026-10-16T00:00:23.287441+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 12,
-        "change": -1
+        "rank": 17,
+        "change": -5
       },
       {
         "id": "i2af08ac5",
@@ -727,8 +954,8 @@
         "last_seen": "2026-10-16T00:00:23.287441+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 13,
-        "change": -1
+        "rank": 18,
+        "change": -5
       },
       {
         "id": "i54cc5255",
@@ -765,8 +992,8 @@
         "last_seen": "2026-10-16T07:16:49.112787+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 14,
-        "change": -1
+        "rank": 19,
+        "change": -5
       },
       {
         "id": "i1a0292b7",
@@ -803,199 +1030,8 @@
         "last_seen": "2026-10-16T04:06:48.075227+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 15,
-        "change": -1
-      },
-      {
-        "id": "if6b2d7b7",
-        "title": "‘10월’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "10월"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 79.95,
-        "peak_score": 70.48,
-        "appearances": 1,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 52,
-            "title": "10월 16일 금요일 날씨 + 운세",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2740882",
-            "score": 61.48
-          },
-          {
-            "source": "클리앙",
-            "rank": 60,
-            "title": "동네서점 기사 작년 10월 보도인데 낚이시네요",
-            "url": "https://www.clien.net/service/board/park/19278259?od=T31&po=0&category=0&groupCd=",
-            "score": 59.57
-          }
-        ],
-        "first_seen": "2026-10-01T09:09:08.756943+09:00",
-        "last_seen": "2026-10-16T09:33:23.880914+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 16,
-        "change": "NEW"
-      },
-      {
-        "id": "ifd5a2cc3",
-        "title": "‘한국에서’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "한국에서"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 78.66,
-        "peak_score": 69.19,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "루리웹"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 55,
-            "title": "싱글벙글 일본 사스마타가 한국에서 필요없는 이유",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470581&_dcbest=1&page=1",
-            "score": 60.19
-          },
-          {
-            "source": "루리웹",
-            "rank": 60,
-            "title": "\"한국에서 중립을 지키기 어려운 이유\"",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77040531?m=humor_only&t=now",
-            "score": 58.94
-          }
-        ],
-        "first_seen": "2026-09-30T17:58:06.192419+09:00",
-        "last_seen": "2026-10-16T03:23:23.766471+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 17,
-        "change": -2
-      },
-      {
-        "id": "ic01932ab",
-        "title": "'가스관 국가 지시로 공격'...재판 두고 궁지에 몰린 젤렌스키",
-        "keywords": [
-          "궁지에",
-          "몰린"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 78.16,
-        "peak_score": 68.69,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 55,
-            "title": "'가스관 국가 지시로 공격'...재판 두고 궁지에 몰린 젤렌스키",
-            "url": "https://www.clien.net/service/board/park/19278267?od=T31&po=0&category=0&groupCd=",
-            "score": 60.69
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 90,
-            "title": "싱글벙글 최근 우크라이나가 ㄹㅇ로 궁지에 몰린 이유",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470597&_dcbest=1&page=1",
-            "score": 51.98
-          }
-        ],
-        "first_seen": "2026-10-16T09:33:23.880914+09:00",
-        "last_seen": "2026-10-16T09:33:23.880914+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 18,
-        "change": "NEW"
-      },
-      {
-        "id": "ie1741c16",
-        "title": "‘이렇게’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "이렇게"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 74.72,
-        "peak_score": 65.25,
-        "appearances": 1,
-        "sources": [
-          "루리웹",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 81,
-            "title": "어딘가에서 이렇게 웃고 있을 것 같은 휘성",
-            "url": "https://www.clien.net/service/board/park/19278173?od=T31&po=0&category=0&groupCd=",
-            "score": 56.25
-          },
-          {
-            "source": "루리웹",
-            "rank": 84,
-            "title": "짜장면에 탕수육 까지 걸고 내기 당구 했는데 친구가 이렇게 쳤다면?",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77039272?m=humor_only&t=now",
-            "score": 54.81
-          }
-        ],
-        "first_seen": "2026-10-06T07:11:34.783452+09:00",
-        "last_seen": "2026-10-16T00:00:23.287441+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 19,
-        "change": -3
-      },
-      {
-        "id": "icfa4554b",
-        "title": "‘나루토’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "나루토"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 72.72,
-        "peak_score": 63.25,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "디시인사이드"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 91,
-            "title": "싱글벙글 10년 전 오늘 방영한 나루토",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470554&_dcbest=1&page=1",
-            "score": 54.25
-          },
-          {
-            "source": "더쿠",
-            "rank": 96,
-            "title": "나루토 후속작 보루토의 놀라운 사실",
-            "url": "https://theqoo.net/hot/4376886889",
-            "score": 53.37
-          }
-        ],
-        "first_seen": "2026-10-15T23:15:05.377246+09:00",
-        "last_seen": "2026-10-16T00:00:23.287441+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 20,
-        "change": -3
+        "change": -5
       }
     ],
     "weekly": [
@@ -1100,6 +1136,62 @@
         "change": 0
       },
       {
+        "id": "ie5e6dce8",
+        "title": "테슬라 로드스터 공중제비 직촬 영상",
+        "keywords": [
+          "테슬라",
+          "로드스터",
+          "공중제비"
+        ],
+        "source_count": 4,
+        "post_count": 6,
+        "score": 126.27,
+        "peak_score": 104.8,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "디시인사이드",
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 8,
+            "title": "테슬라 로드스터 공중제비 직촬 영상",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2740993",
+            "score": 80.8
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 9,
+            "title": "테슬라 로드스터 시연장 근황.jpg",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470707&_dcbest=1&page=1",
+            "score": 80.46
+          },
+          {
+            "source": "더쿠",
+            "rank": 10,
+            "title": "실시간 난리난 테슬라 신형 로드스터 공식 시연 장면 + 직캠추가",
+            "url": "https://theqoo.net/hot/4377235601",
+            "score": 79.37
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 62,
+            "title": "테슬라 로드스터 공중제비 영상",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10153839",
+            "score": 60.11
+          }
+        ],
+        "first_seen": "2026-10-16T13:21:01.957759+09:00",
+        "last_seen": "2026-10-16T13:21:01.957759+09:00",
+        "latest_source_count": 4,
+        "latest_post_count": 6,
+        "rank": 3,
+        "change": "NEW"
+      },
+      {
         "id": "ibef4b4bc",
         "title": "‘무서운’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -1136,8 +1228,8 @@
         "last_seen": "2026-10-15T08:52:43.582251+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 3,
-        "change": 0
+        "rank": 4,
+        "change": -1
       },
       {
         "id": "i82773ad8",
@@ -1174,8 +1266,8 @@
         "last_seen": "2026-10-15T14:13:47.790939+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 4,
-        "change": 0
+        "rank": 5,
+        "change": -1
       },
       {
         "id": "ifd5a2cc3",
@@ -1212,8 +1304,8 @@
         "last_seen": "2026-10-16T03:23:23.766471+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 5,
-        "change": 0
+        "rank": 6,
+        "change": -1
       },
       {
         "id": "i9ff6bf96",
@@ -1251,8 +1343,8 @@
         "last_seen": "2026-10-15T05:56:35.250929+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 6,
-        "change": 0
+        "rank": 7,
+        "change": -1
       },
       {
         "id": "i4a0a5902",
@@ -1292,7 +1384,47 @@
         "last_seen": "2026-10-15T07:03:00.468396+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 7,
+        "rank": 8,
+        "change": -1
+      },
+      {
+        "id": "i039fd79c",
+        "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "이재명"
+        ],
+        "source_count": 3,
+        "post_count": 4,
+        "score": 117.16,
+        "peak_score": 93.65,
+        "appearances": 9,
+        "sources": [
+          "디시인사이드",
+          "뽐뿌",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 13,
+            "title": "이재명 x",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2740990",
+            "score": 76.73
+          },
+          {
+            "source": "클리앙",
+            "rank": 31,
+            "title": "이재명 정부의 업적",
+            "url": "https://www.clien.net/service/board/park/19278387?od=T31&po=0&category=0&groupCd=",
+            "score": 67.33
+          }
+        ],
+        "first_seen": "2026-09-27T13:38:37.715424+09:00",
+        "last_seen": "2026-10-16T13:21:01.957759+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 3,
+        "rank": 9,
         "change": 0
       },
       {
@@ -1332,48 +1464,8 @@
         "last_seen": "2026-10-15T09:31:07.025965+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 8,
-        "change": 0
-      },
-      {
-        "id": "i039fd79c",
-        "title": "‘이재명은’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "이재명은"
-        ],
-        "source_count": 3,
-        "post_count": 4,
-        "score": 116.64,
-        "peak_score": 93.65,
-        "appearances": 8,
-        "sources": [
-          "디시인사이드",
-          "뽐뿌",
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 13,
-            "title": "이재명은 최대 피해자 코스프레도 그만 해야죠.",
-            "url": "https://www.clien.net/service/board/park/19278161?od=T31&po=0&category=0&groupCd=",
-            "score": 75.47
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 31,
-            "title": "이재명은 아무리 욕먹어도 꾸역꾸역 욕심 다 챙긴다니깐요",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10153340",
-            "score": 68.45
-          }
-        ],
-        "first_seen": "2026-09-27T13:38:37.715424+09:00",
-        "last_seen": "2026-10-15T23:15:05.377246+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 9,
-        "change": 0
+        "rank": 10,
+        "change": -2
       },
       {
         "id": "i4aeaabb9",
@@ -1410,8 +1502,8 @@
         "last_seen": "2026-10-16T03:23:23.766471+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 10,
-        "change": 0
+        "rank": 11,
+        "change": -1
       },
       {
         "id": "ifc264642",
@@ -1448,8 +1540,8 @@
         "last_seen": "2026-10-14T15:47:19.348544+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
-        "change": 0
+        "rank": 12,
+        "change": -1
       },
       {
         "id": "i4d8589fc",
@@ -1489,8 +1581,8 @@
         "last_seen": "2026-10-16T09:33:23.880914+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 12,
-        "change": 1
+        "rank": 13,
+        "change": -1
       },
       {
         "id": "i570d4625",
@@ -1527,7 +1619,7 @@
         "last_seen": "2026-10-14T10:50:25.054561+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 13,
+        "rank": 14,
         "change": -1
       },
       {
@@ -1565,8 +1657,8 @@
         "last_seen": "2026-10-15T19:00:34.779872+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 14,
-        "change": 0
+        "rank": 15,
+        "change": -1
       },
       {
         "id": "if553a5cf",
@@ -1605,8 +1697,8 @@
         "last_seen": "2026-10-16T09:33:23.880914+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 15,
-        "change": 0
+        "rank": 16,
+        "change": -1
       },
       {
         "id": "i5d6688ff",
@@ -1643,8 +1735,8 @@
         "last_seen": "2026-10-15T08:52:43.582251+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 16,
-        "change": 0
+        "rank": 17,
+        "change": -1
       },
       {
         "id": "ia8451ee4",
@@ -1681,8 +1773,8 @@
         "last_seen": "2026-10-12T16:56:06.040466+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 17,
-        "change": 0
+        "rank": 18,
+        "change": -1
       },
       {
         "id": "i36ddd5fd",
@@ -1720,8 +1812,8 @@
         "last_seen": "2026-10-14T23:30:27.973805+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 18,
-        "change": 0
+        "rank": 19,
+        "change": -1
       },
       {
         "id": "i5b69a25a",
@@ -1760,46 +1852,8 @@
         "last_seen": "2026-10-15T13:26:10.299496+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 19,
-        "change": 0
-      },
-      {
-        "id": "i67f949c5",
-        "title": "‘시작한’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "시작한"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 105.97,
-        "peak_score": 96.5,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "뽐뿌"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 4,
-            "title": "맨 주먹에서 시작한 부부 돈 모으기 참 힘드네요.",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=problem&no=237182",
-            "score": 87.5
-          },
-          {
-            "source": "더쿠",
-            "rank": 63,
-            "title": "오늘 시작한 온에어 반응 호호호호호에 존잼 반응 많은 예능",
-            "url": "https://theqoo.net/hot/4372496155",
-            "score": 59.58
-          }
-        ],
-        "first_seen": "2026-10-02T08:05:57.140972+09:00",
-        "last_seen": "2026-10-12T07:07:36.695804+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 20,
-        "change": 0
+        "change": -1
       }
     ],
     "monthly": [
@@ -1847,15 +1901,15 @@
       },
       {
         "id": "i039fd79c",
-        "title": "‘이재명은’ 관련 글이 여러 커뮤니티에서 화제",
+        "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "이재명은"
+          "이재명"
         ],
         "source_count": 4,
         "post_count": 6,
-        "score": 140.87,
+        "score": 141.02,
         "peak_score": 105.39,
-        "appearances": 32,
+        "appearances": 33,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -1865,24 +1919,24 @@
         ],
         "posts": [
           {
-            "source": "클리앙",
+            "source": "인벤",
             "rank": 13,
-            "title": "이재명은 최대 피해자 코스프레도 그만 해야죠.",
-            "url": "https://www.clien.net/service/board/park/19278161?od=T31&po=0&category=0&groupCd=",
-            "score": 75.47
+            "title": "이재명 x",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2740990",
+            "score": 76.73
           },
           {
-            "source": "뽐뿌",
+            "source": "클리앙",
             "rank": 31,
-            "title": "이재명은 아무리 욕먹어도 꾸역꾸역 욕심 다 챙긴다니깐요",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10153340",
-            "score": 68.45
+            "title": "이재명 정부의 업적",
+            "url": "https://www.clien.net/service/board/park/19278387?od=T31&po=0&category=0&groupCd=",
+            "score": 67.33
           }
         ],
         "first_seen": "2026-09-27T13:38:37.715424+09:00",
-        "last_seen": "2026-10-15T23:15:05.377246+09:00",
+        "last_seen": "2026-10-16T13:21:01.957759+09:00",
         "latest_source_count": 2,
-        "latest_post_count": 2,
+        "latest_post_count": 3,
         "rank": 2,
         "change": 0
       },
@@ -2325,6 +2379,62 @@
         "change": 0
       },
       {
+        "id": "ie5e6dce8",
+        "title": "테슬라 로드스터 공중제비 직촬 영상",
+        "keywords": [
+          "테슬라",
+          "로드스터",
+          "공중제비"
+        ],
+        "source_count": 4,
+        "post_count": 6,
+        "score": 126.27,
+        "peak_score": 104.8,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "디시인사이드",
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 8,
+            "title": "테슬라 로드스터 공중제비 직촬 영상",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2740993",
+            "score": 80.8
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 9,
+            "title": "테슬라 로드스터 시연장 근황.jpg",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470707&_dcbest=1&page=1",
+            "score": 80.46
+          },
+          {
+            "source": "더쿠",
+            "rank": 10,
+            "title": "실시간 난리난 테슬라 신형 로드스터 공식 시연 장면 + 직캠추가",
+            "url": "https://theqoo.net/hot/4377235601",
+            "score": 79.37
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 62,
+            "title": "테슬라 로드스터 공중제비 영상",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10153839",
+            "score": 60.11
+          }
+        ],
+        "first_seen": "2026-10-16T13:21:01.957759+09:00",
+        "last_seen": "2026-10-16T13:21:01.957759+09:00",
+        "latest_source_count": 4,
+        "latest_post_count": 6,
+        "rank": 13,
+        "change": "NEW"
+      },
+      {
         "id": "i5ae392bf",
         "title": "‘우크라’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -2362,8 +2472,8 @@
         "last_seen": "2026-10-03T18:39:57.662536+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 13,
-        "change": 0
+        "rank": 14,
+        "change": -1
       },
       {
         "id": "ife021da2",
@@ -2403,8 +2513,8 @@
         "last_seen": "2026-10-15T09:31:07.025965+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 14,
-        "change": 0
+        "rank": 15,
+        "change": -1
       },
       {
         "id": "i413fcde4",
@@ -2443,8 +2553,8 @@
         "last_seen": "2026-10-10T22:58:06.962499+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 15,
-        "change": 0
+        "rank": 16,
+        "change": -1
       },
       {
         "id": "ifd5a2cc3",
@@ -2483,8 +2593,8 @@
         "last_seen": "2026-10-16T03:23:23.766471+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 16,
-        "change": 0
+        "rank": 17,
+        "change": -1
       },
       {
         "id": "i9f5e1ed4",
@@ -2524,8 +2634,8 @@
         "last_seen": "2026-10-07T15:10:25.459989+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 17,
-        "change": 0
+        "rank": 18,
+        "change": -1
       },
       {
         "id": "ia8451ee4",
@@ -2566,8 +2676,8 @@
         "last_seen": "2026-10-12T16:56:06.040466+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 18,
-        "change": 0
+        "rank": 19,
+        "change": -1
       },
       {
         "id": "ibef4b4bc",
@@ -2606,48 +2716,8 @@
         "last_seen": "2026-10-15T08:52:43.582251+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 19,
-        "change": 0
-      },
-      {
-        "id": "i7b918478",
-        "title": "‘일본에서’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "일본에서"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 119.41,
-        "peak_score": 105.36,
-        "appearances": 4,
-        "sources": [
-          "디시인사이드",
-          "루리웹",
-          "뽐뿌",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 1,
-            "title": "일본에서 난리난 가정필수교육",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/76911649?m=humor",
-            "score": 96.36
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 29,
-            "title": "2016년 일본에서 실종 된 실종자의 사라진 뒷계정과 게시글",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467975&_dcbest=1&page=1",
-            "score": 70.7
-          }
-        ],
-        "first_seen": "2026-10-03T04:55:10.124887+09:00",
-        "last_seen": "2026-10-05T06:40:10.175480+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 20,
-        "change": 0
+        "change": -1
       }
     ]
   }
