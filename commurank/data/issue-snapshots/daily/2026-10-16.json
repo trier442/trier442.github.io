@@ -3,7 +3,7 @@
   "period": "daily",
   "key": "2026-10-16",
   "label": "2026년 10월 16일",
-  "collected_at": "2026-10-16T08:55:19.637350+09:00",
+  "collected_at": "2026-10-16T09:33:23.880914+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -46,42 +46,44 @@
     },
     {
       "id": "i4d8589fc",
-      "title": "이제 30대 남성의 미혼율 62.5% 과반수 돌파",
+      "title": "30대 전체 미혼율 50% 돌파",
       "keywords": [
         "미혼율",
+        "전체",
         "돌파"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 114.7,
+      "score": 116.14,
       "peak_score": 103.21,
-      "appearances": 2,
+      "appearances": 3,
       "sources": [
         "더쿠",
-        "루리웹"
+        "루리웹",
+        "인벤"
       ],
       "posts": [
         {
-          "source": "루리웹",
-          "rank": 1,
-          "title": "이제 30대 남성의 미혼율 62.5% 과반수 돌파",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77040590?m=humor",
-          "score": 95.21
+          "source": "인벤",
+          "rank": 13,
+          "title": "30대 전체 미혼율 50% 돌파",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2740881",
+          "score": 71.66
         },
         {
           "source": "더쿠",
-          "rank": 17,
+          "rank": 19,
           "title": "30대 전체 미혼율 50% 돌파",
           "url": "https://theqoo.net/hot/4377056350",
-          "score": 72.37
+          "score": 70.21
         }
       ],
       "first_seen": "2026-10-16T04:06:48.075227+09:00",
-      "last_seen": "2026-10-16T08:55:19.637350+09:00",
+      "last_seen": "2026-10-16T09:33:23.880914+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 2,
-      "change": 3
+      "change": 0
     },
     {
       "id": "if553a5cf",
@@ -91,9 +93,9 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 107.58,
+      "score": 109.6,
       "peak_score": 98.11,
-      "appearances": 1,
+      "appearances": 2,
       "sources": [
         "뽐뿌",
         "클리앙"
@@ -101,25 +103,63 @@
       "posts": [
         {
           "source": "뽐뿌",
-          "rank": 3,
+          "rank": 7,
           "title": "트럼프 미쳤네요",
           "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10153635",
-          "score": 89.11
+          "score": 75.82
         },
         {
           "source": "클리앙",
-          "rank": 67,
-          "title": "트럼프 '총살형 생중계..여론 역풍에 취소",
-          "url": "https://www.clien.net/service/board/park/19278236?od=T31&po=0&category=0&groupCd=",
-          "score": 58.3
+          "rank": 83,
+          "title": "트럼프 새 대변인, 가짜 변호사..허위 경력..'발칵’",
+          "url": "https://www.clien.net/service/board/park/19278263?od=T31&po=0&category=0&groupCd=",
+          "score": 55.04
         }
       ],
       "first_seen": "2026-10-02T11:10:36.587418+09:00",
-      "last_seen": "2026-10-16T08:55:19.637350+09:00",
+      "last_seen": "2026-10-16T09:33:23.880914+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 3,
-      "change": "NEW"
+      "change": 0
+    },
+    {
+      "id": "ia0358651",
+      "title": "‘그대로’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "그대로"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 97.18,
+      "peak_score": 85.69,
+      "appearances": 2,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 17,
+          "title": "결국 유시민이 말한 그대로 대로 됐네 거",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2740873",
+          "score": 70.45
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 32,
+          "title": "한국을 그대로 베낀 나라, 몽골이 한국을 따라하는 이유.jpg",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470657&_dcbest=1&page=1",
+          "score": 65.6
+        }
+      ],
+      "first_seen": "2026-10-16T08:55:19.637350+09:00",
+      "last_seen": "2026-10-16T09:33:23.880914+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 4,
+      "change": 2
     },
     {
       "id": "i62196098",
@@ -156,8 +196,8 @@
       "last_seen": "2026-10-16T04:06:48.075227+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 4,
-      "change": -2
+      "rank": 5,
+      "change": -1
     },
     {
       "id": "id9dcafd6",
@@ -195,45 +235,45 @@
       "last_seen": "2026-10-16T04:06:48.075227+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
-      "change": -2
+      "rank": 6,
+      "change": -1
     },
     {
-      "id": "ia0358651",
-      "title": "‘그대로’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "ia96e470d",
+      "title": "‘미쳤네요’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "그대로"
+        "미쳤네요"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 95.16,
-      "peak_score": 85.69,
+      "score": 94.29,
+      "peak_score": 84.82,
       "appearances": 1,
       "sources": [
-        "디시인사이드",
-        "인벤"
+        "뽐뿌",
+        "클리앙"
       ],
       "posts": [
         {
-          "source": "인벤",
-          "rank": 9,
-          "title": "결국 유시민이 말한 그대로 대로 됐네 거",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2740873",
-          "score": 76.69
+          "source": "뽐뿌",
+          "rank": 7,
+          "title": "트럼프 미쳤네요",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10153635",
+          "score": 75.82
         },
         {
-          "source": "디시인사이드",
-          "rank": 39,
-          "title": "한국을 그대로 베낀 나라, 몽골이 한국을 따라하는 이유.jpg",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470657&_dcbest=1&page=1",
-          "score": 65.15
+          "source": "클리앙",
+          "rank": 34,
+          "title": "AI 진짜 미쳤네요. 마소, 어도비 프로그램도 대체하네요.",
+          "url": "https://www.clien.net/service/board/park/19278258?od=T31&po=0&category=0&groupCd=",
+          "score": 64.9
         }
       ],
-      "first_seen": "2026-10-16T08:55:19.637350+09:00",
-      "last_seen": "2026-10-16T08:55:19.637350+09:00",
+      "first_seen": "2026-10-16T09:33:23.880914+09:00",
+      "last_seen": "2026-10-16T09:33:23.880914+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
+      "rank": 7,
       "change": "NEW"
     },
     {
@@ -273,8 +313,8 @@
       "last_seen": "2026-10-16T03:23:23.766471+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": -3
+      "rank": 8,
+      "change": -1
     },
     {
       "id": "ib4558ea4",
@@ -316,8 +356,8 @@
       "last_seen": "2026-10-16T08:55:19.637350+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 8,
-      "change": "NEW"
+      "rank": 9,
+      "change": -1
     },
     {
       "id": "iad5a47fb",
@@ -359,8 +399,8 @@
       "last_seen": "2026-10-16T06:42:44.796786+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 9,
-      "change": -3
+      "rank": 10,
+      "change": -1
     },
     {
       "id": "i7fee3840",
@@ -397,8 +437,8 @@
       "last_seen": "2026-10-16T04:06:48.075227+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 10,
-      "change": -3
+      "rank": 11,
+      "change": -1
     },
     {
       "id": "i35d153cf",
@@ -435,8 +475,8 @@
       "last_seen": "2026-10-16T00:00:23.287441+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 11,
-      "change": -3
+      "rank": 12,
+      "change": -1
     },
     {
       "id": "i2af08ac5",
@@ -473,8 +513,8 @@
       "last_seen": "2026-10-16T00:00:23.287441+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 12,
-      "change": -3
+      "rank": 13,
+      "change": -1
     },
     {
       "id": "i54cc5255",
@@ -511,8 +551,8 @@
       "last_seen": "2026-10-16T07:16:49.112787+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 13,
-      "change": -3
+      "rank": 14,
+      "change": -1
     },
     {
       "id": "i1a0292b7",
@@ -549,8 +589,46 @@
       "last_seen": "2026-10-16T04:06:48.075227+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 14,
-      "change": -3
+      "rank": 15,
+      "change": -1
+    },
+    {
+      "id": "if6b2d7b7",
+      "title": "‘10월’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "10월"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 79.95,
+      "peak_score": 70.48,
+      "appearances": 1,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 52,
+          "title": "10월 16일 금요일 날씨 + 운세",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2740882",
+          "score": 61.48
+        },
+        {
+          "source": "클리앙",
+          "rank": 60,
+          "title": "동네서점 기사 작년 10월 보도인데 낚이시네요",
+          "url": "https://www.clien.net/service/board/park/19278259?od=T31&po=0&category=0&groupCd=",
+          "score": 59.57
+        }
+      ],
+      "first_seen": "2026-10-01T09:09:08.756943+09:00",
+      "last_seen": "2026-10-16T09:33:23.880914+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 16,
+      "change": "NEW"
     },
     {
       "id": "ifd5a2cc3",
@@ -587,8 +665,47 @@
       "last_seen": "2026-10-16T03:23:23.766471+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 15,
-      "change": -3
+      "rank": 17,
+      "change": -2
+    },
+    {
+      "id": "ic01932ab",
+      "title": "'가스관 국가 지시로 공격'...재판 두고 궁지에 몰린 젤렌스키",
+      "keywords": [
+        "궁지에",
+        "몰린"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 78.16,
+      "peak_score": 68.69,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 55,
+          "title": "'가스관 국가 지시로 공격'...재판 두고 궁지에 몰린 젤렌스키",
+          "url": "https://www.clien.net/service/board/park/19278267?od=T31&po=0&category=0&groupCd=",
+          "score": 60.69
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 90,
+          "title": "싱글벙글 최근 우크라이나가 ㄹㅇ로 궁지에 몰린 이유",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470597&_dcbest=1&page=1",
+          "score": 51.98
+        }
+      ],
+      "first_seen": "2026-10-16T09:33:23.880914+09:00",
+      "last_seen": "2026-10-16T09:33:23.880914+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 18,
+      "change": "NEW"
     },
     {
       "id": "ie1741c16",
@@ -625,7 +742,7 @@
       "last_seen": "2026-10-16T00:00:23.287441+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 16,
+      "rank": 19,
       "change": -3
     },
     {
@@ -663,7 +780,7 @@
       "last_seen": "2026-10-16T00:00:23.287441+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 17,
+      "rank": 20,
       "change": -3
     }
   ]
