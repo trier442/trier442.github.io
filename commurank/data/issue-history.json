@@ -1,6 +1,336 @@
 {
   "version": 1,
   "issues": {
+    "ib6978d90": {
+      "id": "ib6978d90",
+      "first_seen": "2026-10-06T11:19:29.813850+09:00",
+      "last_seen": "2026-10-16T18:08:06.483797+09:00",
+      "title": "‘마라톤’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "마라톤"
+      ],
+      "points": [
+        {
+          "at": "2026-10-06T11:19:29.813850+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 68.72,
+          "sources": [
+            "뽐뿌",
+            "인벤"
+          ],
+          "post_urls": [
+            "https://www.ppomppu.co.kr/zboard/view.php?id=sports&no=154965",
+            "https://www.inven.co.kr/board/webzine/2097/2736760"
+          ]
+        },
+        {
+          "at": "2026-10-14T08:04:55.181457+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 79.2,
+          "sources": [
+            "디시인사이드",
+            "뽐뿌"
+          ],
+          "post_urls": [
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=470096&_dcbest=1&page=1",
+            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10151217"
+          ]
+        },
+        {
+          "at": "2026-10-16T18:08:06.483797+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 88.05,
+          "sources": [
+            "디시인사이드",
+            "인벤"
+          ],
+          "post_urls": [
+            "https://www.inven.co.kr/board/webzine/2097/2741157",
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=470767&_dcbest=1&page=1"
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 5,
+          "title": "마라톤 대회 얼마나 많길래",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2741157",
+          "score": 79.05
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 30,
+          "title": "기괴하다vs뭐 어때로 갈린다는 마라톤 추모.jpg",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470767&_dcbest=1&page=1",
+          "score": 64.69
+        }
+      ]
+    },
+    "ic1ce5071": {
+      "id": "ic1ce5071",
+      "first_seen": "2026-10-16T18:08:06.483797+09:00",
+      "last_seen": "2026-10-16T18:08:06.483797+09:00",
+      "title": "5·18 '폭동' 표현 일베 글 항소심 무죄…\"허위사실 아닌 의견\"(종합2보)",
+      "keywords": [
+        "무죄",
+        "폭동",
+        "일베",
+        "항소심서",
+        "40대",
+        "18은"
+      ],
+      "points": [
+        {
+          "at": "2026-10-16T18:08:06.483797+09:00",
+          "source_count": 3,
+          "post_count": 3,
+          "score": 78.74,
+          "sources": [
+            "더쿠",
+            "인벤",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://theqoo.net/hot/4377509142",
+            "https://www.inven.co.kr/board/webzine/2097/2741141",
+            "https://www.clien.net/service/board/park/19278543?od=T31&po=0&category=0&groupCd="
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 33,
+          "title": "5·18 '폭동' 표현 일베 글 항소심 무죄…\"허위사실 아닌 의견\"(종합2보)",
+          "url": "https://theqoo.net/hot/4377509142",
+          "score": 63.74
+        },
+        {
+          "source": "인벤",
+          "rank": 52,
+          "title": "'5.18은 폭동' 일베 게시 40대 항소심서 무죄",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2741141",
+          "score": 60.26
+        },
+        {
+          "source": "클리앙",
+          "rank": 83,
+          "title": "'5.18은 폭동' 일베 게시 40대 항소심서 무죄",
+          "url": "https://www.clien.net/service/board/park/19278543?od=T31&po=0&category=0&groupCd=",
+          "score": 54.68
+        }
+      ]
+    },
+    "i2d3c9cf7": {
+      "id": "i2d3c9cf7",
+      "first_seen": "2026-10-16T18:08:06.483797+09:00",
+      "last_seen": "2026-10-16T18:08:06.483797+09:00",
+      "title": "‘성폭행’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "성폭행"
+      ],
+      "points": [
+        {
+          "at": "2026-10-16T18:08:06.483797+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 84.24,
+          "sources": [
+            "디시인사이드",
+            "인벤"
+          ],
+          "post_urls": [
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=470773&_dcbest=1&page=1",
+            "https://www.inven.co.kr/board/webzine/2097/2741146"
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 8,
+          "title": "[단독] 성폭행 피해자 '맞신고'한 남학생들...'시간 끌기 전략'으로",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470773&_dcbest=1&page=1",
+          "score": 75.24
+        },
+        {
+          "source": "인벤",
+          "rank": 27,
+          "title": "성폭행 영상까지 나왔지만 학폭처리 안하고 대학 보낸 국립전통예술고등학교",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2741146",
+          "score": 65.56
+        }
+      ]
+    },
+    "i773b05e6": {
+      "id": "i773b05e6",
+      "first_seen": "2026-10-16T18:08:06.483797+09:00",
+      "last_seen": "2026-10-16T18:08:06.483797+09:00",
+      "title": "‘27명’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "27명",
+        "사망한"
+      ],
+      "points": [
+        {
+          "at": "2026-10-16T18:08:06.483797+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 77.11,
+          "sources": [
+            "더쿠",
+            "인벤"
+          ],
+          "post_urls": [
+            "https://www.inven.co.kr/board/webzine/2097/2741147",
+            "https://theqoo.net/hot/4377562604"
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 19,
+          "title": "27명 사망한 초대형 경북산불 60대 집유.조심하라 일침",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2741147",
+          "score": 68.11
+        },
+        {
+          "source": "더쿠",
+          "rank": 85,
+          "title": "27명 사망한 '경북 산불' 실화자, 2심도 집행유예⋯法 \"앞으로 주의하라\"",
+          "url": "https://theqoo.net/hot/4377562604",
+          "score": 54.21
+        }
+      ]
+    },
+    "ia9561568": {
+      "id": "ia9561568",
+      "first_seen": "2026-10-16T18:08:06.483797+09:00",
+      "last_seen": "2026-10-16T18:08:06.483797+09:00",
+      "title": "‘초대형’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "초대형"
+      ],
+      "points": [
+        {
+          "at": "2026-10-16T18:08:06.483797+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 77.11,
+          "sources": [
+            "디시인사이드",
+            "인벤"
+          ],
+          "post_urls": [
+            "https://www.inven.co.kr/board/webzine/2097/2741147",
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=470761&_dcbest=1&page=1"
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 19,
+          "title": "27명 사망한 초대형 경북산불 60대 집유.조심하라 일침",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2741147",
+          "score": 68.11
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 57,
+          "title": "싱글벙글 기상청이 초대형 사고쳤다는 일본 근황",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470761&_dcbest=1&page=1",
+          "score": 59.3
+        }
+      ]
+    },
+    "ie1717034": {
+      "id": "ie1717034",
+      "first_seen": "2026-10-16T18:08:06.483797+09:00",
+      "last_seen": "2026-10-16T18:08:06.483797+09:00",
+      "title": "‘유행이라는’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "유행이라는"
+      ],
+      "points": [
+        {
+          "at": "2026-10-16T18:08:06.483797+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 75.0,
+          "sources": [
+            "더쿠",
+            "인벤"
+          ],
+          "post_urls": [
+            "https://theqoo.net/hot/4377608247",
+            "https://www.inven.co.kr/board/webzine/2097/2741144"
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 25,
+          "title": "요즘 유행이라는 라면 말려먹기",
+          "url": "https://theqoo.net/hot/4377608247",
+          "score": 66.0
+        },
+        {
+          "source": "인벤",
+          "rank": 39,
+          "title": "스레드 유행이라는 클겨 챌린지",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2741144",
+          "score": 62.55
+        }
+      ]
+    },
+    "i557269f7": {
+      "id": "i557269f7",
+      "first_seen": "2026-10-16T18:08:06.483797+09:00",
+      "last_seen": "2026-10-16T18:08:06.483797+09:00",
+      "title": "‘재복무’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "재복무"
+      ],
+      "points": [
+        {
+          "at": "2026-10-16T18:08:06.483797+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 68.89,
+          "sources": [
+            "더쿠",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://theqoo.net/hot/4377532696",
+            "https://www.clien.net/service/board/park/19278547?od=T31&po=0&category=0&groupCd="
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 54,
+          "title": "[속보] '부실 복무' 송민호, 군대 다시 간다…재복무 확정",
+          "url": "https://theqoo.net/hot/4377532696",
+          "score": 59.89
+        },
+        {
+          "source": "클리앙",
+          "rank": 94,
+          "title": "병무청 명령으로 군대 재복무 이게 가능하군요",
+          "url": "https://www.clien.net/service/board/park/19278547?od=T31&po=0&category=0&groupCd=",
+          "score": 52.52
+        }
+      ]
+    },
     "i62196098": {
       "id": "i62196098",
       "first_seen": "2026-10-01T15:08:17.635290+09:00",
@@ -7451,61 +7781,6 @@
           "title": "비보호 좌회전인데 왜 안 가냐는 논리왕 아줌마 ㄷㄷ",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470076&_dcbest=1&page=1",
           "score": 52.15
-        }
-      ]
-    },
-    "ib6978d90": {
-      "id": "ib6978d90",
-      "first_seen": "2026-10-06T11:19:29.813850+09:00",
-      "last_seen": "2026-10-14T08:04:55.181457+09:00",
-      "title": "‘마라톤’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "마라톤"
-      ],
-      "points": [
-        {
-          "at": "2026-10-06T11:19:29.813850+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 68.72,
-          "sources": [
-            "뽐뿌",
-            "인벤"
-          ],
-          "post_urls": [
-            "https://www.ppomppu.co.kr/zboard/view.php?id=sports&no=154965",
-            "https://www.inven.co.kr/board/webzine/2097/2736760"
-          ]
-        },
-        {
-          "at": "2026-10-14T08:04:55.181457+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 79.2,
-          "sources": [
-            "디시인사이드",
-            "뽐뿌"
-          ],
-          "post_urls": [
-            "https://gall.dcinside.com/board/view/?id=dcbest&no=470096&_dcbest=1&page=1",
-            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10151217"
-          ]
-        }
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 17,
-          "title": "황영조 선수가 생각한 마라톤 사망사고 원인",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470096&_dcbest=1&page=1",
-          "score": 70.2
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 25,
-          "title": "마라톤 대회 사망 왜 일어날까?",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10151217",
-          "score": 68.2
         }
       ]
     },
@@ -24827,5 +25102,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-16T14:00:56.977711+09:00"
+  "updated_at": "2026-10-16T18:08:06.483797+09:00"
 }
