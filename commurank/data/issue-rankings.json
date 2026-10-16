@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-10-17T05:57:55.544770+09:00",
+  "collected_at": "2026-10-17T06:29:45.159767+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -18,8 +18,8 @@
         ],
         "source_count": 3,
         "post_count": 3,
-        "score": 87.91,
-        "peak_score": 87.91,
+        "score": 87.06,
+        "peak_score": 87.06,
         "appearances": 1,
         "sources": [
           "디시인사이드",
@@ -28,105 +28,63 @@
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 19,
-            "title": "추미애에게 눈물흘리며 등돌린 소방관",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2741324",
-            "score": 70.91
-          },
-          {
             "source": "클리앙",
-            "rank": 22,
+            "rank": 23,
             "title": "이재명 “소방관 헌신에 천금 아깝겠나”",
             "url": "https://www.clien.net/service/board/park/19278736?od=T31&po=0&category=0&groupCd=",
-            "score": 69.63
+            "score": 70.06
+          },
+          {
+            "source": "인벤",
+            "rank": 35,
+            "title": "추미애에게 눈물흘리며 등돌린 소방관",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2741324",
+            "score": 65.69
           },
           {
             "source": "디시인사이드",
-            "rank": 78,
+            "rank": 80,
             "title": "JTBC) 부천 공장 화재에 소방관 2명 중상, 추미애 대신 민주당 사과",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470888&_dcbest=1&page=1",
-            "score": 53.65
+            "score": 53.92
           }
         ],
         "rank": 1,
         "change": 0
       },
       {
-        "id": "ib19f68fa",
-        "title": "‘추미애’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i1b672c00",
+        "title": "‘치이카와’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "추미애"
+          "치이카와"
         ],
-        "source_count": 3,
-        "post_count": 3,
-        "score": 82.48,
-        "peak_score": 82.48,
+        "source_count": 2,
+        "post_count": 2,
+        "score": 99.94,
+        "peak_score": 99.94,
         "appearances": 1,
         "sources": [
           "디시인사이드",
-          "인벤",
-          "클리앙"
+          "루리웹"
         ],
         "posts": [
           {
-            "source": "클리앙",
-            "rank": 36,
-            "title": "추미애 '소방은 재정 빨대' 발언에...소방노조 ' 사과 하라' 반발",
-            "url": "https://www.clien.net/service/board/park/19278738?od=T31&po=0&category=0&groupCd=",
-            "score": 65.48
-          },
-          {
-            "source": "인벤",
-            "rank": 62,
-            "title": "추미애 쉴드 치기 힘들죠?",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2741313",
-            "score": 57.24
-          },
-          {
             "source": "디시인사이드",
-            "rank": 78,
-            "title": "JTBC) 부천 공장 화재에 소방관 2명 중상, 추미애 대신 민주당 사과",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470888&_dcbest=1&page=1",
-            "score": 53.65
+            "rank": 4,
+            "title": "주둥이 치이카와 논란 결말",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470902&_dcbest=1&page=1",
+            "score": 90.94
+          },
+          {
+            "source": "루리웹",
+            "rank": 60,
+            "title": "치이카와) 치이카와가 울보에 민폐라고 하는 사람들특 .만화를 제대로 안봄",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77049794?m=humor_only&t=now",
+            "score": 59.34
           }
         ],
         "rank": 2,
-        "change": 3
-      },
-      {
-        "id": "i0cdcc665",
-        "title": "‘아이폰’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "아이폰"
-        ],
-        "source_count": 2,
-        "post_count": 3,
-        "score": 70.05,
-        "peak_score": 70.05,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 55,
-            "title": "아이폰 듀오, 나노텍스쳐 선동이 어이가 없는 이유",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470879&_dcbest=1&page=1",
-            "score": 60.05
-          },
-          {
-            "source": "클리앙",
-            "rank": 82,
-            "title": "아이폰 듀오때문에 잠도 안오네요 -_-;;",
-            "url": "https://www.clien.net/service/board/park/19278729?od=T31&po=0&category=0&groupCd=",
-            "score": 53.34
-          }
-        ],
-        "rank": 3,
-        "change": -1
+        "change": "NEW"
       },
       {
         "id": "ib4309374",
@@ -146,7 +104,7 @@
         "posts": [
           {
             "source": "디시인사이드",
-            "rank": 6,
+            "rank": 5,
             "title": "싱글벙글 요즘 여자들이 보는 남자 키",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470884&_dcbest=1&page=1",
             "score": 84.48
@@ -156,47 +114,117 @@
             "rank": 20,
             "title": "여성들에게만 하는 질문: 만약 내일 아침 눈을 뜨고 세상 모든 다른 여자들이 사라져서, 당신만 남고 남자들만 있는 걸 발견한다면, 당신은 뭐 하실 건가요?",
             "url": "https://theqoo.net/hot/4377989355",
-            "score": 70.84
+            "score": 71.84
           }
         ],
-        "rank": 4,
-        "change": -1
+        "rank": 3,
+        "change": 1
       },
       {
-        "id": "i39e4ffd1",
-        "title": "[속보] 인천 흉기난동 50대 신상공개...59세 최충락",
+        "id": "i039fd79c",
+        "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "인천",
-          "최충락",
-          "59세"
+          "이재명"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 90.14,
-        "peak_score": 90.14,
+        "score": 79.06,
+        "peak_score": 79.06,
         "appearances": 1,
         "sources": [
-          "디시인사이드",
-          "인벤"
+          "인벤",
+          "클리앙"
         ],
         "posts": [
           {
-            "source": "디시인사이드",
-            "rank": 8,
-            "title": "[속보] 인천 흉기난동 50대 신상공개...59세 최충락",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470883&_dcbest=1&page=1",
-            "score": 82.14
+            "source": "클리앙",
+            "rank": 23,
+            "title": "이재명 “소방관 헌신에 천금 아깝겠나”",
+            "url": "https://www.clien.net/service/board/park/19278736?od=T31&po=0&category=0&groupCd=",
+            "score": 70.06
           },
           {
             "source": "인벤",
-            "rank": 100,
-            "title": "인천 흉기 난동범 59세 최충락 경찰 신상 공개",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2741315",
-            "score": 48.79
+            "rank": 50,
+            "title": "이재명 대통령 “행정공개가 원칙”",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2741348",
+            "score": 61.68
+          }
+        ],
+        "rank": 4,
+        "change": "NEW"
+      },
+      {
+        "id": "i351af4be",
+        "title": "다음주에 개봉하는 국산 애니메이션",
+        "keywords": [
+          "개봉하는",
+          "애니메이션",
+          "국산",
+          "다음주에"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 74.72,
+        "peak_score": 74.72,
+        "appearances": 1,
+        "sources": [
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 32,
+            "title": "다음주에 개봉하는 국산 애니메이션",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2741347",
+            "score": 66.72
+          },
+          {
+            "source": "클리앙",
+            "rank": 48,
+            "title": "다음주에 개봉하는 국산 애니메이션",
+            "url": "https://www.clien.net/service/board/park/19278745?od=T31&po=0&category=0&groupCd=",
+            "score": 62.0
           }
         ],
         "rank": 5,
         "change": "NEW"
+      },
+      {
+        "id": "i799fc775",
+        "title": "‘대변인’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "대변인",
+          "백악관"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 74.09,
+        "peak_score": 74.09,
+        "appearances": 1,
+        "sources": [
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 36,
+            "title": "[속보/AP] 백악관 대변인 5일천하. 케이티 재커리아 해임.",
+            "url": "https://www.clien.net/service/board/park/19278741?od=T31&po=0&category=0&groupCd=",
+            "score": 65.09
+          },
+          {
+            "source": "인벤",
+            "rank": 55,
+            "title": "백악관 대변인 나흘 만에 경질…허위경력·자질 논란에 하차",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2741349",
+            "score": 60.4
+          }
+        ],
+        "rank": 6,
+        "change": 1
       },
       {
         "id": "i9c248c8d",
@@ -206,8 +234,8 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 81.92,
-        "peak_score": 81.92,
+        "score": 74.02,
+        "peak_score": 74.02,
         "appearances": 1,
         "sources": [
           "뽐뿌",
@@ -215,91 +243,56 @@
         ],
         "posts": [
           {
-            "source": "뽐뿌",
-            "rank": 17,
-            "title": "창신 메모리 흑자전환 기습발표후 미장 메모리 나락중 ㄷㄷ",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=443452",
-            "score": 72.92
-          },
-          {
             "source": "클리앙",
-            "rank": 50,
+            "rank": 37,
             "title": "간밤에 미국서 메모리 폭락했네요",
             "url": "https://www.clien.net/service/board/park/19278742?od=T31&po=0&category=0&groupCd=",
-            "score": 61.43
+            "score": 65.02
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 42,
+            "title": "창신 메모리 흑자전환 기습발표후 미장 메모리 나락중 ㄷㄷ",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=443452",
+            "score": 63.87
           }
         ],
-        "rank": 6,
-        "change": "NEW"
+        "rank": 7,
+        "change": -1
       },
       {
-        "id": "i799fc775",
-        "title": "‘백악관’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "ib19f68fa",
+        "title": "‘추미애’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "백악관",
-          "대변인"
+          "추미애"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 71.03,
-        "peak_score": 71.03,
+        "score": 73.28,
+        "peak_score": 73.28,
         "appearances": 1,
         "sources": [
-          "루리웹",
+          "디시인사이드",
           "클리앙"
         ],
         "posts": [
           {
             "source": "클리앙",
-            "rank": 47,
-            "title": "[속보/AP] 백악관 대변인 5일천하. 케이티 재커리아 해임.",
-            "url": "https://www.clien.net/service/board/park/19278741?od=T31&po=0&category=0&groupCd=",
-            "score": 62.03
+            "rank": 40,
+            "title": "추미애 '소방은 재정 빨대' 발언에...소방노조 ' 사과 하라' 반발",
+            "url": "https://www.clien.net/service/board/park/19278738?od=T31&po=0&category=0&groupCd=",
+            "score": 64.28
           },
-          {
-            "source": "루리웹",
-            "rank": 90,
-            "title": "백악관 대변인 취임 5일 만에 경질 ㅋㅋㅋ",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77053235?m=humor_only&t=now",
-            "score": 50.34
-          }
-        ],
-        "rank": 7,
-        "change": "NEW"
-      },
-      {
-        "id": "i36ddd5fd",
-        "title": "‘민주당’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "민주당"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 62.65,
-        "peak_score": 62.65,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "디시인사이드"
-        ],
-        "posts": [
           {
             "source": "디시인사이드",
-            "rank": 78,
+            "rank": 80,
             "title": "JTBC) 부천 공장 화재에 소방관 2명 중상, 추미애 대신 민주당 사과",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470888&_dcbest=1&page=1",
-            "score": 53.65
-          },
-          {
-            "source": "더쿠",
-            "rank": 89,
-            "title": "지역 축제 도중 인사한다고 가수 무대 끊어버린 김민석 민주당 당대표",
-            "url": "https://theqoo.net/hot/4377907618",
-            "score": 50.58
+            "score": 53.92
           }
         ],
         "rank": 8,
-        "change": -2
+        "change": -6
       }
     ],
     "daily": [
@@ -342,6 +335,44 @@
         "change": 0
       },
       {
+        "id": "i1b672c00",
+        "title": "‘치이카와’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "치이카와"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 109.41,
+        "peak_score": 99.94,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "루리웹"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 4,
+            "title": "주둥이 치이카와 논란 결말",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470902&_dcbest=1&page=1",
+            "score": 90.94
+          },
+          {
+            "source": "루리웹",
+            "rank": 60,
+            "title": "치이카와) 치이카와가 울보에 민폐라고 하는 사람들특 .만화를 제대로 안봄",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77049794?m=humor_only&t=now",
+            "score": 59.34
+          }
+        ],
+        "first_seen": "2026-10-08T12:01:09.196787+09:00",
+        "last_seen": "2026-10-17T06:29:45.159767+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 2,
+        "change": "NEW"
+      },
+      {
         "id": "ib4309374",
         "title": "‘여자들이’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -349,9 +380,9 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 106.41,
+        "score": 107.53,
         "peak_score": 93.48,
-        "appearances": 3,
+        "appearances": 4,
         "sources": [
           "더쿠",
           "디시인사이드"
@@ -359,7 +390,7 @@
         "posts": [
           {
             "source": "디시인사이드",
-            "rank": 6,
+            "rank": 5,
             "title": "싱글벙글 요즘 여자들이 보는 남자 키",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470884&_dcbest=1&page=1",
             "score": 84.48
@@ -369,15 +400,15 @@
             "rank": 20,
             "title": "여성들에게만 하는 질문: 만약 내일 아침 눈을 뜨고 세상 모든 다른 여자들이 사라져서, 당신만 남고 남자들만 있는 걸 발견한다면, 당신은 뭐 하실 건가요?",
             "url": "https://theqoo.net/hot/4377989355",
-            "score": 70.84
+            "score": 71.84
           }
         ],
         "first_seen": "2026-10-17T02:58:12.116264+09:00",
-        "last_seen": "2026-10-17T05:57:55.544770+09:00",
+        "last_seen": "2026-10-17T06:29:45.159767+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 2,
-        "change": 0
+        "rank": 3,
+        "change": -1
       },
       {
         "id": "ib6bfa345",
@@ -387,9 +418,9 @@
         ],
         "source_count": 3,
         "post_count": 3,
-        "score": 105.84,
+        "score": 106.96,
         "peak_score": 87.91,
-        "appearances": 3,
+        "appearances": 4,
         "sources": [
           "디시인사이드",
           "인벤",
@@ -397,33 +428,33 @@
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 19,
-            "title": "추미애에게 눈물흘리며 등돌린 소방관",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2741324",
-            "score": 70.91
-          },
-          {
             "source": "클리앙",
-            "rank": 22,
+            "rank": 23,
             "title": "이재명 “소방관 헌신에 천금 아깝겠나”",
             "url": "https://www.clien.net/service/board/park/19278736?od=T31&po=0&category=0&groupCd=",
-            "score": 69.63
+            "score": 70.06
+          },
+          {
+            "source": "인벤",
+            "rank": 35,
+            "title": "추미애에게 눈물흘리며 등돌린 소방관",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2741324",
+            "score": 65.69
           },
           {
             "source": "디시인사이드",
-            "rank": 78,
+            "rank": 80,
             "title": "JTBC) 부천 공장 화재에 소방관 2명 중상, 추미애 대신 민주당 사과",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470888&_dcbest=1&page=1",
-            "score": 53.65
+            "score": 53.92
           }
         ],
         "first_seen": "2026-10-16T23:02:28.015945+09:00",
-        "last_seen": "2026-10-17T05:57:55.544770+09:00",
+        "last_seen": "2026-10-17T06:29:45.159767+09:00",
         "latest_source_count": 3,
         "latest_post_count": 3,
-        "rank": 3,
-        "change": 0
+        "rank": 4,
+        "change": -1
       },
       {
         "id": "ib19f68fa",
@@ -433,9 +464,9 @@
         ],
         "source_count": 3,
         "post_count": 3,
-        "score": 100.41,
+        "score": 101.53,
         "peak_score": 82.48,
-        "appearances": 3,
+        "appearances": 4,
         "sources": [
           "디시인사이드",
           "인벤",
@@ -444,32 +475,25 @@
         "posts": [
           {
             "source": "클리앙",
-            "rank": 36,
+            "rank": 40,
             "title": "추미애 '소방은 재정 빨대' 발언에...소방노조 ' 사과 하라' 반발",
             "url": "https://www.clien.net/service/board/park/19278738?od=T31&po=0&category=0&groupCd=",
-            "score": 65.48
-          },
-          {
-            "source": "인벤",
-            "rank": 62,
-            "title": "추미애 쉴드 치기 힘들죠?",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2741313",
-            "score": 57.24
+            "score": 64.28
           },
           {
             "source": "디시인사이드",
-            "rank": 78,
+            "rank": 80,
             "title": "JTBC) 부천 공장 화재에 소방관 2명 중상, 추미애 대신 민주당 사과",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470888&_dcbest=1&page=1",
-            "score": 53.65
+            "score": 53.92
           }
         ],
         "first_seen": "2026-10-02T11:10:36.587418+09:00",
-        "last_seen": "2026-10-17T05:57:55.544770+09:00",
-        "latest_source_count": 3,
-        "latest_post_count": 3,
-        "rank": 4,
-        "change": 3
+        "last_seen": "2026-10-17T06:29:45.159767+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 5,
+        "change": -1
       },
       {
         "id": "i39e4ffd1",
@@ -508,8 +532,8 @@
         "last_seen": "2026-10-17T05:57:55.544770+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 5,
-        "change": "NEW"
+        "rank": 6,
+        "change": -1
       },
       {
         "id": "i9c248c8d",
@@ -519,35 +543,35 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 91.39,
+        "score": 93.41,
         "peak_score": 81.92,
-        "appearances": 1,
+        "appearances": 2,
         "sources": [
           "뽐뿌",
           "클리앙"
         ],
         "posts": [
           {
-            "source": "뽐뿌",
-            "rank": 17,
-            "title": "창신 메모리 흑자전환 기습발표후 미장 메모리 나락중 ㄷㄷ",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=443452",
-            "score": 72.92
-          },
-          {
             "source": "클리앙",
-            "rank": 50,
+            "rank": 37,
             "title": "간밤에 미국서 메모리 폭락했네요",
             "url": "https://www.clien.net/service/board/park/19278742?od=T31&po=0&category=0&groupCd=",
-            "score": 61.43
+            "score": 65.02
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 42,
+            "title": "창신 메모리 흑자전환 기습발표후 미장 메모리 나락중 ㄷㄷ",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=443452",
+            "score": 63.87
           }
         ],
         "first_seen": "2026-10-17T05:57:55.544770+09:00",
-        "last_seen": "2026-10-17T05:57:55.544770+09:00",
+        "last_seen": "2026-10-17T06:29:45.159767+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 6,
-        "change": "NEW"
+        "rank": 7,
+        "change": -1
       },
       {
         "id": "i0cdcc665",
@@ -584,8 +608,46 @@
         "last_seen": "2026-10-17T05:57:55.544770+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 7,
-        "change": -3
+        "rank": 8,
+        "change": -1
+      },
+      {
+        "id": "i039fd79c",
+        "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "이재명"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 88.53,
+        "peak_score": 79.06,
+        "appearances": 1,
+        "sources": [
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 23,
+            "title": "이재명 “소방관 헌신에 천금 아깝겠나”",
+            "url": "https://www.clien.net/service/board/park/19278736?od=T31&po=0&category=0&groupCd=",
+            "score": 70.06
+          },
+          {
+            "source": "인벤",
+            "rank": 50,
+            "title": "이재명 대통령 “행정공개가 원칙”",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2741348",
+            "score": 61.68
+          }
+        ],
+        "first_seen": "2026-09-27T13:38:37.715424+09:00",
+        "last_seen": "2026-10-17T06:29:45.159767+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 9,
+        "change": "NEW"
       },
       {
         "id": "i87351a46",
@@ -622,8 +684,8 @@
         "last_seen": "2026-10-17T02:58:12.116264+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 8,
-        "change": -3
+        "rank": 10,
+        "change": -2
       },
       {
         "id": "i47b692dc",
@@ -663,46 +725,88 @@
         "last_seen": "2026-10-17T03:22:08.555425+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 9,
-        "change": -3
+        "rank": 11,
+        "change": -2
       },
       {
         "id": "i799fc775",
-        "title": "‘백악관’ 관련 글이 여러 커뮤니티에서 화제",
+        "title": "‘대변인’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "백악관",
-          "대변인"
+          "대변인",
+          "백악관"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 80.5,
-        "peak_score": 71.03,
-        "appearances": 1,
+        "score": 85.58,
+        "peak_score": 74.09,
+        "appearances": 2,
         "sources": [
           "루리웹",
+          "인벤",
           "클리앙"
         ],
         "posts": [
           {
             "source": "클리앙",
-            "rank": 47,
+            "rank": 36,
             "title": "[속보/AP] 백악관 대변인 5일천하. 케이티 재커리아 해임.",
             "url": "https://www.clien.net/service/board/park/19278741?od=T31&po=0&category=0&groupCd=",
-            "score": 62.03
+            "score": 65.09
           },
           {
-            "source": "루리웹",
-            "rank": 90,
-            "title": "백악관 대변인 취임 5일 만에 경질 ㅋㅋㅋ",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77053235?m=humor_only&t=now",
-            "score": 50.34
+            "source": "인벤",
+            "rank": 55,
+            "title": "백악관 대변인 나흘 만에 경질…허위경력·자질 논란에 하차",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2741349",
+            "score": 60.4
           }
         ],
         "first_seen": "2026-10-17T05:57:55.544770+09:00",
-        "last_seen": "2026-10-17T05:57:55.544770+09:00",
+        "last_seen": "2026-10-17T06:29:45.159767+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 10,
+        "rank": 12,
+        "change": -2
+      },
+      {
+        "id": "i351af4be",
+        "title": "다음주에 개봉하는 국산 애니메이션",
+        "keywords": [
+          "개봉하는",
+          "애니메이션",
+          "국산",
+          "다음주에"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 84.19,
+        "peak_score": 74.72,
+        "appearances": 1,
+        "sources": [
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 32,
+            "title": "다음주에 개봉하는 국산 애니메이션",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2741347",
+            "score": 66.72
+          },
+          {
+            "source": "클리앙",
+            "rank": 48,
+            "title": "다음주에 개봉하는 국산 애니메이션",
+            "url": "https://www.clien.net/service/board/park/19278745?od=T31&po=0&category=0&groupCd=",
+            "score": 62.0
+          }
+        ],
+        "first_seen": "2026-10-17T06:29:45.159767+09:00",
+        "last_seen": "2026-10-17T06:29:45.159767+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 13,
         "change": "NEW"
       },
       {
@@ -740,7 +844,7 @@
         "last_seen": "2026-10-17T05:57:55.544770+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
+        "rank": 14,
         "change": -3
       }
     ],
@@ -1082,9 +1186,9 @@
         ],
         "source_count": 3,
         "post_count": 4,
-        "score": 117.64,
+        "score": 118.07,
         "peak_score": 93.65,
-        "appearances": 10,
+        "appearances": 11,
         "sources": [
           "디시인사이드",
           "뽐뿌",
@@ -1093,22 +1197,22 @@
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 41,
-            "title": "이재명 대통령은 지금 [구조적 다수] [특정 소수] 어느쪽 하고 있을까요?",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2741296",
-            "score": 63.75
+            "source": "클리앙",
+            "rank": 23,
+            "title": "이재명 “소방관 헌신에 천금 아깝겠나”",
+            "url": "https://www.clien.net/service/board/park/19278736?od=T31&po=0&category=0&groupCd=",
+            "score": 70.06
           },
           {
-            "source": "뽐뿌",
-            "rank": 89,
-            "title": "82쿡펌> 푸어 이재명",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10154627",
-            "score": 54.83
+            "source": "인벤",
+            "rank": 50,
+            "title": "이재명 대통령 “행정공개가 원칙”",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2741348",
+            "score": 61.68
           }
         ],
         "first_seen": "2026-09-27T13:38:37.715424+09:00",
-        "last_seen": "2026-10-16T23:31:22.776704+09:00",
+        "last_seen": "2026-10-17T06:29:45.159767+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 8,
@@ -1468,6 +1572,45 @@
         "change": 0
       },
       {
+        "id": "i1b672c00",
+        "title": "‘치이카와’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "치이카와"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 111.43,
+        "peak_score": 99.94,
+        "appearances": 2,
+        "sources": [
+          "더쿠",
+          "디시인사이드",
+          "루리웹"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 4,
+            "title": "주둥이 치이카와 논란 결말",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470902&_dcbest=1&page=1",
+            "score": 90.94
+          },
+          {
+            "source": "루리웹",
+            "rank": 60,
+            "title": "치이카와) 치이카와가 울보에 민폐라고 하는 사람들특 .만화를 제대로 안봄",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77049794?m=humor_only&t=now",
+            "score": 59.34
+          }
+        ],
+        "first_seen": "2026-10-08T12:01:09.196787+09:00",
+        "last_seen": "2026-10-17T06:29:45.159767+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 18,
+        "change": "NEW"
+      },
+      {
         "id": "ib6bfa345",
         "title": "‘소방관’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -1475,95 +1618,8 @@
         ],
         "source_count": 3,
         "post_count": 5,
-        "score": 109.87,
+        "score": 110.64,
         "peak_score": 87.91,
-        "appearances": 5,
-        "sources": [
-          "디시인사이드",
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 19,
-            "title": "추미애에게 눈물흘리며 등돌린 소방관",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2741324",
-            "score": 70.91
-          },
-          {
-            "source": "클리앙",
-            "rank": 22,
-            "title": "이재명 “소방관 헌신에 천금 아깝겠나”",
-            "url": "https://www.clien.net/service/board/park/19278736?od=T31&po=0&category=0&groupCd=",
-            "score": 69.63
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 78,
-            "title": "JTBC) 부천 공장 화재에 소방관 2명 중상, 추미애 대신 민주당 사과",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470888&_dcbest=1&page=1",
-            "score": 53.65
-          }
-        ],
-        "first_seen": "2026-10-16T23:02:28.015945+09:00",
-        "last_seen": "2026-10-17T05:57:55.544770+09:00",
-        "latest_source_count": 3,
-        "latest_post_count": 3,
-        "rank": 18,
-        "change": 2
-      },
-      {
-        "id": "i36ddd5fd",
-        "title": "‘민주당’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "민주당"
-        ],
-        "source_count": 2,
-        "post_count": 3,
-        "score": 109.72,
-        "peak_score": 91.21,
-        "appearances": 9,
-        "sources": [
-          "더쿠",
-          "디시인사이드",
-          "뽐뿌",
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 78,
-            "title": "JTBC) 부천 공장 화재에 소방관 2명 중상, 추미애 대신 민주당 사과",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470888&_dcbest=1&page=1",
-            "score": 53.65
-          },
-          {
-            "source": "더쿠",
-            "rank": 89,
-            "title": "지역 축제 도중 인사한다고 가수 무대 끊어버린 김민석 민주당 당대표",
-            "url": "https://theqoo.net/hot/4377907618",
-            "score": 50.58
-          }
-        ],
-        "first_seen": "2026-09-30T08:46:44.153676+09:00",
-        "last_seen": "2026-10-17T05:57:55.544770+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 19,
-        "change": 0
-      },
-      {
-        "id": "ib19f68fa",
-        "title": "‘추미애’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "추미애"
-        ],
-        "source_count": 3,
-        "post_count": 3,
-        "score": 109.6,
-        "peak_score": 88.87,
         "appearances": 6,
         "sources": [
           "디시인사이드",
@@ -1573,32 +1629,71 @@
         "posts": [
           {
             "source": "클리앙",
-            "rank": 36,
-            "title": "추미애 '소방은 재정 빨대' 발언에...소방노조 ' 사과 하라' 반발",
-            "url": "https://www.clien.net/service/board/park/19278738?od=T31&po=0&category=0&groupCd=",
-            "score": 65.48
+            "rank": 23,
+            "title": "이재명 “소방관 헌신에 천금 아깝겠나”",
+            "url": "https://www.clien.net/service/board/park/19278736?od=T31&po=0&category=0&groupCd=",
+            "score": 70.06
           },
           {
             "source": "인벤",
-            "rank": 62,
-            "title": "추미애 쉴드 치기 힘들죠?",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2741313",
-            "score": 57.24
+            "rank": 35,
+            "title": "추미애에게 눈물흘리며 등돌린 소방관",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2741324",
+            "score": 65.69
           },
           {
             "source": "디시인사이드",
-            "rank": 78,
+            "rank": 80,
             "title": "JTBC) 부천 공장 화재에 소방관 2명 중상, 추미애 대신 민주당 사과",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470888&_dcbest=1&page=1",
-            "score": 53.65
+            "score": 53.92
+          }
+        ],
+        "first_seen": "2026-10-16T23:02:28.015945+09:00",
+        "last_seen": "2026-10-17T06:29:45.159767+09:00",
+        "latest_source_count": 3,
+        "latest_post_count": 3,
+        "rank": 19,
+        "change": -1
+      },
+      {
+        "id": "ib19f68fa",
+        "title": "‘추미애’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "추미애"
+        ],
+        "source_count": 3,
+        "post_count": 3,
+        "score": 110.27,
+        "peak_score": 88.87,
+        "appearances": 7,
+        "sources": [
+          "디시인사이드",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 40,
+            "title": "추미애 '소방은 재정 빨대' 발언에...소방노조 ' 사과 하라' 반발",
+            "url": "https://www.clien.net/service/board/park/19278738?od=T31&po=0&category=0&groupCd=",
+            "score": 64.28
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 80,
+            "title": "JTBC) 부천 공장 화재에 소방관 2명 중상, 추미애 대신 민주당 사과",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470888&_dcbest=1&page=1",
+            "score": 53.92
           }
         ],
         "first_seen": "2026-10-02T11:10:36.587418+09:00",
-        "last_seen": "2026-10-17T05:57:55.544770+09:00",
-        "latest_source_count": 3,
-        "latest_post_count": 3,
+        "last_seen": "2026-10-17T06:29:45.159767+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
         "rank": 20,
-        "change": "NEW"
+        "change": 0
       }
     ],
     "monthly": [
@@ -1652,9 +1747,9 @@
         ],
         "source_count": 4,
         "post_count": 6,
-        "score": 141.17,
+        "score": 141.31,
         "peak_score": 105.39,
-        "appearances": 34,
+        "appearances": 35,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -1664,22 +1759,22 @@
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 41,
-            "title": "이재명 대통령은 지금 [구조적 다수] [특정 소수] 어느쪽 하고 있을까요?",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2741296",
-            "score": 63.75
+            "source": "클리앙",
+            "rank": 23,
+            "title": "이재명 “소방관 헌신에 천금 아깝겠나”",
+            "url": "https://www.clien.net/service/board/park/19278736?od=T31&po=0&category=0&groupCd=",
+            "score": 70.06
           },
           {
-            "source": "뽐뿌",
-            "rank": 89,
-            "title": "82쿡펌> 푸어 이재명",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10154627",
-            "score": 54.83
+            "source": "인벤",
+            "rank": 50,
+            "title": "이재명 대통령 “행정공개가 원칙”",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2741348",
+            "score": 61.68
           }
         ],
         "first_seen": "2026-09-27T13:38:37.715424+09:00",
-        "last_seen": "2026-10-16T23:31:22.776704+09:00",
+        "last_seen": "2026-10-17T06:29:45.159767+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 2,
