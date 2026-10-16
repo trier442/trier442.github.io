@@ -2,9 +2,9 @@
   "version": 1,
   "date": "2026-10-16",
   "label": "2026년 10월 16일",
-  "collected_at": "2026-10-16T13:21:01.957759+09:00",
+  "collected_at": "2026-10-16T14:00:56.977711+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘테슬라 로드스터 공중제비 직촬 영상’입니다. 실시간 키워드 상위: #테슬라. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘테슬라 로드스터 시연장 근황.jpg’입니다. 실시간 키워드 상위: #로드스터. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 6,
@@ -12,31 +12,49 @@
     "realtime_posts": 100,
     "daily_posts": 100,
     "daily_issues": 20,
-    "keywords": 13,
-    "top100_views": 907332,
-    "top100_comments": 9999
+    "keywords": 15,
+    "top100_views": 806874,
+    "top100_comments": 9661
   },
   "highlights": [
     {
       "type": "issue",
-      "title": "테슬라 로드스터 공중제비 직촬 영상",
-      "text": "4개 커뮤니티에서 6개 관련 인기글이 포착됐습니다.",
+      "title": "테슬라 로드스터 시연장 근황.jpg",
+      "text": "5개 커뮤니티에서 6개 관련 인기글이 포착됐습니다.",
       "issue_id": "ie5e6dce8"
     },
     {
       "type": "post",
-      "title": "논란 중인 주우재 발언 \"식탐도 지능이다\".jpg",
+      "title": "속보) 백악관 \"사형집행 생중계 취소\"",
       "text": "루리웹에서 현재 상위권에 오른 인기글입니다.",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77036901?m=humor"
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77042092?m=humor"
     },
     {
       "type": "keyword",
-      "title": "#테슬라",
-      "text": "4개 커뮤니티 · 9개 인기글에서 함께 등장했습니다.",
-      "keyword": "테슬라"
+      "title": "#로드스터",
+      "text": "5개 커뮤니티 · 9개 인기글에서 함께 등장했습니다.",
+      "keyword": "로드스터"
     }
   ],
   "top_posts": [
+    {
+      "title": "속보) 백악관 \"사형집행 생중계 취소\"",
+      "source": "루리웹",
+      "category": "생활",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77042092?m=humor",
+      "first_seen": "2026-10-16T13:21:01.957759+09:00",
+      "last_seen": "2026-10-16T14:00:56.977711+09:00",
+      "peak_score": 98.96,
+      "max_views": 23625,
+      "max_likes": 141,
+      "max_comments": 107,
+      "appearances": 2,
+      "score": 109.16,
+      "views": 23625,
+      "likes": 141,
+      "comments": 107,
+      "change": 7
+    },
     {
       "title": "논란 중인 주우재 발언 \"식탐도 지능이다\".jpg",
       "source": "루리웹",
@@ -49,11 +67,11 @@
       "max_likes": 216,
       "max_comments": 153,
       "appearances": 1,
-      "score": 107.64,
+      "score": 107.59,
       "views": 31180,
       "likes": 216,
       "comments": 153,
-      "change": 0
+      "change": -1
     },
     {
       "title": "왜 유비를 따랐는지 정확한 이유를 알 수 없는 삼국지 인물",
@@ -67,11 +85,29 @@
       "max_likes": 168,
       "max_comments": 132,
       "appearances": 2,
-      "score": 107.63,
+      "score": 107.57,
       "views": 28743,
       "likes": 168,
       "comments": 132,
-      "change": 0
+      "change": -1
+    },
+    {
+      "title": "코스어 관련 트위터 불타기 시작한 이유와 어제까지의 타임라인",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77043151?m=humor",
+      "first_seen": "2026-10-16T13:21:01.957759+09:00",
+      "last_seen": "2026-10-16T14:00:56.977711+09:00",
+      "peak_score": 97.29,
+      "max_views": 14426,
+      "max_likes": 171,
+      "max_comments": 94,
+      "appearances": 2,
+      "score": 107.49,
+      "views": 14426,
+      "likes": 171,
+      "comments": 94,
+      "change": 2
     },
     {
       "title": "트위터에서 '여초에선 왜 공략글이 없냐'에 대한 해명이 이어졌지만",
@@ -85,11 +121,11 @@
       "max_likes": 198,
       "max_comments": 76,
       "appearances": 2,
-      "score": 107.53,
+      "score": 107.47,
       "views": 13874,
       "likes": 198,
       "comments": 76,
-      "change": 0
+      "change": -2
     },
     {
       "title": "전설의 지스타 코스프레 사건",
@@ -103,11 +139,11 @@
       "max_likes": 113,
       "max_comments": 125,
       "appearances": 1,
-      "score": 107.37,
+      "score": 107.32,
       "views": 16688,
       "likes": 113,
       "comments": 125,
-      "change": 0
+      "change": -2
     },
     {
       "title": "파락호 코스어가 있는건알았는데",
@@ -121,29 +157,11 @@
       "max_likes": 73,
       "max_comments": 67,
       "appearances": 1,
-      "score": 106.78,
+      "score": 106.72,
       "views": 18665,
       "likes": 73,
       "comments": 67,
-      "change": 0
-    },
-    {
-      "title": "코스어 관련 트위터 불타기 시작한 이유와 어제까지의 타임라인",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77043151?m=humor",
-      "first_seen": "2026-10-16T13:21:01.957759+09:00",
-      "last_seen": "2026-10-16T13:21:01.957759+09:00",
-      "peak_score": 97.29,
-      "max_views": 14426,
-      "max_likes": 171,
-      "max_comments": 94,
-      "appearances": 1,
-      "score": 106.68,
-      "views": 14426,
-      "likes": 171,
-      "comments": 94,
-      "change": "NEW"
+      "change": -2
     },
     {
       "title": "욕먹고 사과문 올린 20대 여성",
@@ -157,29 +175,11 @@
       "max_likes": 148,
       "max_comments": 56,
       "appearances": 2,
-      "score": 106.49,
+      "score": 106.44,
       "views": 33678,
       "likes": 148,
       "comments": 56,
       "change": -1
-    },
-    {
-      "title": "속보) 백악관 \"사형집행 생중계 취소\"",
-      "source": "루리웹",
-      "category": "생활",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77042092?m=humor",
-      "first_seen": "2026-10-16T13:21:01.957759+09:00",
-      "last_seen": "2026-10-16T13:21:01.957759+09:00",
-      "peak_score": 96.61,
-      "max_views": 23625,
-      "max_likes": 141,
-      "max_comments": 107,
-      "appearances": 1,
-      "score": 106.0,
-      "views": 23625,
-      "likes": 141,
-      "comments": 107,
-      "change": "NEW"
     },
     {
       "title": "맘까페에 올라온 버튜버.jpg",
@@ -193,11 +193,11 @@
       "max_likes": 137,
       "max_comments": 78,
       "appearances": 1,
-      "score": 105.16,
+      "score": 105.1,
       "views": 17614,
       "likes": 137,
       "comments": 78,
-      "change": -2
+      "change": 0
     },
     {
       "title": "\"스토리도 안보고 현질도 안하는데 무슨 작품소비를 하고 있는거임?\"",
@@ -211,54 +211,14 @@
       "max_likes": 74,
       "max_comments": 65,
       "appearances": 1,
-      "score": 105.08,
+      "score": 105.02,
       "views": 12971,
       "likes": 74,
       "comments": 65,
-      "change": -2
+      "change": 0
     }
   ],
   "rising": [
-    {
-      "source": "더쿠",
-      "title": "[속보] 경의중앙선 열차서 흉기 든 10대 남학생 검거",
-      "url": "https://theqoo.net/hot/4377136898",
-      "category": "이슈",
-      "views": 60112,
-      "likes": 0,
-      "comments": 397,
-      "score": 57.42,
-      "change": 0,
-      "current_rank": 75,
-      "new_entry": false,
-      "delta_views": 41263,
-      "delta_likes": 0,
-      "delta_comments": 199,
-      "rank_gain": 0,
-      "rising_score": 100.0,
-      "rising_rank": 1,
-      "window_minutes": 228
-    },
-    {
-      "source": "루리웹",
-      "title": "코스어 관련 트위터 불타기 시작한 이유와 어제까지의 타임라인",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77043151?m=humor",
-      "category": "이슈",
-      "views": 14426,
-      "likes": 171,
-      "comments": 94,
-      "score": 97.29,
-      "change": "NEW",
-      "current_rank": 1,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 82.86,
-      "rising_rank": 2,
-      "window_minutes": 228
-    },
     {
       "source": "루리웹",
       "title": "속보) 백악관 \"사형집행 생중계 취소\"",
@@ -267,47 +227,167 @@
       "views": 23625,
       "likes": 141,
       "comments": 107,
-      "score": 96.61,
-      "change": "NEW",
-      "current_rank": 2,
-      "new_entry": true,
+      "score": 98.96,
+      "change": 1,
+      "current_rank": 1,
+      "new_entry": false,
       "delta_views": 0,
       "delta_likes": 0,
       "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 82.58,
-      "rising_rank": 3,
-      "window_minutes": 228
+      "rank_gain": 1,
+      "rising_score": 100.0,
+      "rising_rank": 1,
+      "window_minutes": 40
     },
     {
-      "source": "루리웹",
-      "title": "코스프레 논란시 성희롱 섹드립을 하게 만든 사건..",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77042767?m=humor",
-      "category": "유머",
-      "views": 19629,
-      "likes": 136,
-      "comments": 98,
-      "score": 93.42,
-      "change": "NEW",
-      "current_rank": 3,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
+      "source": "디시인사이드",
+      "title": "‘조작 논란’ 전현무 카자흐스탄 즉흥 여행...사전 대본 있었다",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470721&_dcbest=1&page=1",
+      "category": "생활",
+      "views": 13540,
+      "likes": 117,
+      "comments": 381,
+      "score": 79.18,
+      "change": 0,
+      "current_rank": 7,
+      "new_entry": false,
+      "delta_views": 3258,
+      "delta_likes": 16,
+      "delta_comments": 61,
       "rank_gain": 0,
-      "rising_score": 81.24,
+      "rising_score": 83.73,
+      "rising_rank": 2,
+      "window_minutes": 40
+    },
+    {
+      "source": "디시인사이드",
+      "title": "테슬라 로드스터 시연장 근황.jpg",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470707&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 24562,
+      "likes": 153,
+      "comments": 892,
+      "score": 75.46,
+      "change": 0,
+      "current_rank": 11,
+      "new_entry": false,
+      "delta_views": 2753,
+      "delta_likes": 18,
+      "delta_comments": 224,
+      "rank_gain": 0,
+      "rising_score": 83.51,
+      "rising_rank": 3,
+      "window_minutes": 40
+    },
+    {
+      "source": "디시인사이드",
+      "title": "싱글벙글 수십억 자산가여도 외국으로 이민가기 쉽지 않은 이유",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470728&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 9396,
+      "likes": 37,
+      "comments": 262,
+      "score": 74.92,
+      "change": 5,
+      "current_rank": 15,
+      "new_entry": false,
+      "delta_views": 3701,
+      "delta_likes": 13,
+      "delta_comments": 108,
+      "rank_gain": 5,
+      "rising_score": 83.48,
       "rising_rank": 4,
-      "window_minutes": 228
+      "window_minutes": 40
+    },
+    {
+      "source": "클리앙",
+      "title": "연금 월 적정금액은 얼마정도 생각합니까?",
+      "url": "https://www.clien.net/service/board/park/19278402?od=T31&po=0&category=0&groupCd=",
+      "category": "이슈",
+      "views": 1314,
+      "likes": 1,
+      "comments": 27,
+      "score": 52.85,
+      "change": 0,
+      "current_rank": 91,
+      "new_entry": false,
+      "delta_views": 1197,
+      "delta_likes": 0,
+      "delta_comments": 27,
+      "rank_gain": 0,
+      "rising_score": 82.69,
+      "rising_rank": 5,
+      "window_minutes": 40
+    },
+    {
+      "source": "인벤",
+      "title": "15년 만에 피시방 가서 긴장된다는 귀여운 고민",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2740995",
+      "category": "유머",
+      "views": 2191,
+      "likes": 5,
+      "comments": 24,
+      "score": 67.49,
+      "change": 0,
+      "current_rank": 26,
+      "new_entry": false,
+      "delta_views": 1360,
+      "delta_likes": 4,
+      "delta_comments": 9,
+      "rank_gain": 0,
+      "rising_score": 81.89,
+      "rising_rank": 6,
+      "window_minutes": 40
+    },
+    {
+      "source": "디시인사이드",
+      "title": "라스) 결혼할 예비신부와 아직 관계 전이라는 강균성.jpg",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470730&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 7015,
+      "likes": 16,
+      "comments": 134,
+      "score": 66.11,
+      "change": 16,
+      "current_rank": 33,
+      "new_entry": false,
+      "delta_views": 3870,
+      "delta_likes": 5,
+      "delta_comments": 73,
+      "rank_gain": 16,
+      "rising_score": 79.64,
+      "rising_rank": 7,
+      "window_minutes": 40
+    },
+    {
+      "source": "더쿠",
+      "title": "나솔에 나온 42살,46살 비주얼 상태",
+      "url": "https://theqoo.net/hot/4377255221",
+      "category": "이슈",
+      "views": 56098,
+      "likes": 0,
+      "comments": 267,
+      "score": 63.21,
+      "change": 0,
+      "current_rank": 44,
+      "new_entry": false,
+      "delta_views": 14052,
+      "delta_likes": 0,
+      "delta_comments": 50,
+      "rank_gain": 0,
+      "rising_score": 76.28,
+      "rising_rank": 8,
+      "window_minutes": 40
     },
     {
       "source": "뽐뿌",
-      "title": "산길 런닝대회 참가한 사람의 마인드.jpg",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10153725",
+      "title": "요즘 \"클로징멘트\" 안하는 MBC뉴스",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10153091",
       "category": "이슈",
-      "views": 21626,
-      "likes": 5,
-      "comments": 67,
-      "score": 83.33,
+      "views": 20698,
+      "likes": 34,
+      "comments": 60,
+      "score": 81.45,
       "change": "NEW",
       "current_rank": 4,
       "new_entry": true,
@@ -315,19 +395,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 77.0,
-      "rising_rank": 5,
-      "window_minutes": 228
+      "rising_score": 76.21,
+      "rising_rank": 9,
+      "window_minutes": 40
     },
     {
-      "source": "루리웹",
-      "title": "[컴퓨존] 윈도우 11 Home FPP / 99,000원 선착순",
-      "url": "https://bbs.ruliweb.com/market/board/1020/read/108085",
+      "source": "클리앙",
+      "title": "약 10년뒤 사고 뉴스.jpg",
+      "url": "https://www.clien.net/service/board/park/19278423?od=T31&po=0&category=0&groupCd=",
       "category": "이슈",
-      "views": 24843,
-      "likes": 11,
-      "comments": 75,
-      "score": 82.74,
+      "views": 1654,
+      "likes": 5,
+      "comments": 8,
+      "score": 80.14,
       "change": "NEW",
       "current_rank": 5,
       "new_entry": true,
@@ -335,147 +415,82 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 76.75,
-      "rising_rank": 6,
-      "window_minutes": 228
-    },
-    {
-      "source": "디시인사이드",
-      "title": "‘조작 논란’ 전현무 카자흐스탄 즉흥 여행...사전 대본 있었다",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470721&_dcbest=1&page=1",
-      "category": "생활",
-      "views": 10282,
-      "likes": 101,
-      "comments": 320,
-      "score": 81.05,
-      "change": "NEW",
-      "current_rank": 6,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 76.04,
-      "rising_rank": 7,
-      "window_minutes": 228
-    },
-    {
-      "source": "인벤",
-      "title": "국산 굴 근황.jpg",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2740992",
-      "category": "이슈",
-      "views": 1674,
-      "likes": 0,
-      "comments": 15,
-      "score": 80.98,
-      "change": "NEW",
-      "current_rank": 7,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 76.01,
-      "rising_rank": 8,
-      "window_minutes": 228
-    },
-    {
-      "source": "인벤",
-      "title": "테슬라 로드스터 공중제비 직촬 영상",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2740993",
-      "category": "유머",
-      "views": 1262,
-      "likes": 0,
-      "comments": 21,
-      "score": 80.8,
-      "change": "NEW",
-      "current_rank": 8,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 75.94,
-      "rising_rank": 9,
-      "window_minutes": 228
-    },
-    {
-      "source": "디시인사이드",
-      "title": "테슬라 로드스터 시연장 근황.jpg",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470707&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 21809,
-      "likes": 135,
-      "comments": 668,
-      "score": 80.46,
-      "change": "NEW",
-      "current_rank": 9,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 75.79,
+      "rising_score": 75.66,
       "rising_rank": 10,
-      "window_minutes": 228
+      "window_minutes": 40
     }
   ],
   "issues": [
     {
       "id": "ie5e6dce8",
-      "title": "테슬라 로드스터 공중제비 직촬 영상",
+      "title": "테슬라 로드스터 시연장 근황.jpg",
       "keywords": [
-        "테슬라",
         "로드스터",
+        "테슬라",
         "공중제비"
       ],
-      "source_count": 4,
+      "source_count": 5,
       "post_count": 6,
-      "score": 126.27,
-      "peak_score": 104.8,
-      "appearances": 1,
+      "score": 132.95,
+      "peak_score": 105.46,
+      "appearances": 2,
       "sources": [
         "더쿠",
         "디시인사이드",
         "뽐뿌",
-        "인벤"
+        "인벤",
+        "클리앙"
       ],
       "posts": [
         {
-          "source": "인벤",
-          "rank": 8,
-          "title": "테슬라 로드스터 공중제비 직촬 영상",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2740993",
-          "score": 80.8
-        },
-        {
           "source": "디시인사이드",
-          "rank": 9,
+          "rank": 11,
           "title": "테슬라 로드스터 시연장 근황.jpg",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470707&_dcbest=1&page=1",
-          "score": 80.46
+          "score": 75.46
+        },
+        {
+          "source": "인벤",
+          "rank": 17,
+          "title": "테슬라 로드스터 업계종사자 \"이거 그냥 말도 안되는 기술이다\"",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2741007",
+          "score": 73.82
         },
         {
           "source": "더쿠",
-          "rank": 10,
+          "rank": 19,
           "title": "실시간 난리난 테슬라 신형 로드스터 공식 시연 장면 + 직캠추가",
           "url": "https://theqoo.net/hot/4377235601",
-          "score": 79.37
+          "score": 72.89
+        },
+        {
+          "source": "클리앙",
+          "rank": 81,
+          "title": "테슬라 로드스터… 리프팅턴 이제 나오나요:.",
+          "url": "https://www.clien.net/service/board/park/19278414?od=T31&po=0&category=0&groupCd=",
+          "score": 55.6
         },
         {
           "source": "뽐뿌",
-          "rank": 62,
+          "rank": 95,
           "title": "테슬라 로드스터 공중제비 영상",
           "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10153839",
-          "score": 60.11
+          "score": 51.84
+        },
+        {
+          "source": "인벤",
+          "rank": 35,
+          "title": "테슬라 로드스터 공중제비 직촬 영상",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2740993",
+          "score": 65.81
         }
       ],
       "first_seen": "2026-10-16T13:21:01.957759+09:00",
-      "last_seen": "2026-10-16T13:21:01.957759+09:00",
-      "latest_source_count": 4,
+      "last_seen": "2026-10-16T14:00:56.977711+09:00",
+      "latest_source_count": 5,
       "latest_post_count": 6,
       "rank": 1,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i4aeaabb9",
@@ -513,7 +528,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 2,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i4d8589fc",
@@ -554,7 +569,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 3,
-      "change": -1
+      "change": 0
     },
     {
       "id": "if553a5cf",
@@ -592,7 +607,45 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 4,
-      "change": -1
+      "change": 0
+    },
+    {
+      "id": "ife3c822c",
+      "title": "‘안하는’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "안하는"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 99.92,
+      "peak_score": 90.45,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 4,
+          "title": "요즘 \"클로징멘트\" 안하는 MBC뉴스",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10153091",
+          "score": 81.45
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 66,
+          "title": "빠니보틀이 악플러 고소 안하는 이유",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470695&_dcbest=1&page=1",
+          "score": 58.05
+        }
+      ],
+      "first_seen": "2026-10-16T14:00:56.977711+09:00",
+      "last_seen": "2026-10-16T14:00:56.977711+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 5,
+      "change": "NEW"
     },
     {
       "id": "i62196098",
@@ -602,36 +655,75 @@
       ],
       "source_count": 2,
       "post_count": 3,
-      "score": 98.04,
+      "score": 99.16,
       "peak_score": 84.11,
-      "appearances": 3,
+      "appearances": 4,
       "sources": [
         "디시인사이드",
         "뽐뿌",
-        "인벤"
+        "인벤",
+        "클리앙"
       ],
       "posts": [
         {
           "source": "뽐뿌",
-          "rank": 15,
+          "rank": 49,
           "title": "김지용 임명은 헤어질 결심한것, 이재명의 착각",
           "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10153740",
-          "score": 75.11
+          "score": 62.28
         },
         {
-          "source": "디시인사이드",
-          "rank": 100,
-          "title": "李대통령, 김지용 초대 중수청장 임명안 재가",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470716&_dcbest=1&page=1",
-          "score": 51.34
+          "source": "클리앙",
+          "rank": 92,
+          "title": "김지용 보고서, 적격과 부적격 두개의 의견이 올라갔지만",
+          "url": "https://www.clien.net/service/board/park/19278412?od=T31&po=0&category=0&groupCd=",
+          "score": 52.34
         }
       ],
       "first_seen": "2026-10-01T15:08:17.635290+09:00",
-      "last_seen": "2026-10-16T13:21:01.957759+09:00",
+      "last_seen": "2026-10-16T14:00:56.977711+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
-      "change": 0
+      "rank": 6,
+      "change": -1
+    },
+    {
+      "id": "i436f636b",
+      "title": "‘전현무’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "전현무"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 97.65,
+      "peak_score": 88.18,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 7,
+          "title": "‘조작 논란’ 전현무 카자흐스탄 즉흥 여행...사전 대본 있었다",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470721&_dcbest=1&page=1",
+          "score": 79.18
+        },
+        {
+          "source": "루리웹",
+          "rank": 86,
+          "title": "“전현무 씨도 알지 못한 내용”…MBC, ‘나혼산’ 즉흥 여행 논란 추가 해명",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77044843?m=humor_only&t=now",
+          "score": 53.85
+        }
+      ],
+      "first_seen": "2026-10-16T14:00:56.977711+09:00",
+      "last_seen": "2026-10-16T14:00:56.977711+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 7,
+      "change": "NEW"
     },
     {
       "id": "i039fd79c",
@@ -668,8 +760,8 @@
       "last_seen": "2026-10-16T13:21:01.957759+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 6,
-      "change": "NEW"
+      "rank": 8,
+      "change": -2
     },
     {
       "id": "ia0358651",
@@ -706,212 +798,258 @@
       "last_seen": "2026-10-16T09:33:23.880914+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": -3
-    },
-    {
-      "id": "id9dcafd6",
-      "title": "검찰 폐지후 마약사건 1500건 ㄷㄷㄷ",
-      "keywords": [
-        "검찰",
-        "폐지후"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 95.7,
-      "peak_score": 82.77,
-      "appearances": 3,
-      "sources": [
-        "디시인사이드",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 30,
-          "title": "검찰 폐지후 마약사건 1500건 ㄷㄷㄷ",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470599&_dcbest=1&page=1",
-          "score": 65.56
-        },
-        {
-          "source": "클리앙",
-          "rank": 88,
-          "title": "검찰 폐지후 마약수사 상황이 이렇다네요",
-          "url": "https://www.clien.net/service/board/park/19278174?od=T31&po=0&category=0&groupCd=",
-          "score": 51.88
-        }
-      ],
-      "first_seen": "2026-10-16T00:00:23.287441+09:00",
-      "last_seen": "2026-10-16T04:06:48.075227+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 8,
-      "change": -2
-    },
-    {
-      "id": "ia96e470d",
-      "title": "‘미쳤네요’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "미쳤네요"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 94.29,
-      "peak_score": 84.82,
-      "appearances": 1,
-      "sources": [
-        "뽐뿌",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 7,
-          "title": "트럼프 미쳤네요",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10153635",
-          "score": 75.82
-        },
-        {
-          "source": "클리앙",
-          "rank": 34,
-          "title": "AI 진짜 미쳤네요. 마소, 어도비 프로그램도 대체하네요.",
-          "url": "https://www.clien.net/service/board/park/19278258?od=T31&po=0&category=0&groupCd=",
-          "score": 64.9
-        }
-      ],
-      "first_seen": "2026-10-16T09:33:23.880914+09:00",
-      "last_seen": "2026-10-16T09:33:23.880914+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 9,
       "change": -2
     },
     {
-      "id": "i3bc10532",
-      "title": "편의점에서 판다는 패딩과 바람막이",
+      "id": "i60771edb",
+      "title": "나솔에 나온 42살,46살 비주얼",
       "keywords": [
-        "바람막이",
-        "패딩과",
-        "편의점에서"
+        "나온",
+        "46살",
+        "42살",
+        "나솔에",
+        "비주얼"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 92.96,
-      "peak_score": 81.47,
-      "appearances": 2,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 69,
-          "title": "편의점에서 판다는 패딩과 바람막이",
-          "url": "https://www.clien.net/service/board/park/19278175?od=T31&po=0&category=0&groupCd=",
-          "score": 56.3
-        },
-        {
-          "source": "인벤",
-          "rank": 87,
-          "title": "편의점에서 판매한다는 패딩과 바람막이",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2740809",
-          "score": 52.85
-        }
-      ],
-      "first_seen": "2026-10-16T00:00:23.287441+09:00",
-      "last_seen": "2026-10-16T03:23:23.766471+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 10,
-      "change": -2
-    }
-  ],
-  "realtime_issues": [
-    {
-      "id": "ie5e6dce8",
-      "title": "테슬라 로드스터 공중제비 직촬 영상",
-      "keywords": [
-        "테슬라",
-        "로드스터",
-        "공중제비"
-      ],
-      "source_count": 4,
-      "post_count": 6,
-      "score": 104.8,
-      "peak_score": 104.8,
+      "score": 96.92,
+      "peak_score": 87.45,
       "appearances": 1,
       "sources": [
         "더쿠",
-        "디시인사이드",
-        "뽐뿌",
         "인벤"
       ],
       "posts": [
         {
           "source": "인벤",
-          "rank": 8,
-          "title": "테슬라 로드스터 공중제비 직촬 영상",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2740993",
-          "score": 80.8
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 9,
-          "title": "테슬라 로드스터 시연장 근황.jpg",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470707&_dcbest=1&page=1",
-          "score": 80.46
+          "rank": 6,
+          "title": "나솔에 나온 42살,46살 비주얼",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2741011",
+          "score": 79.45
         },
         {
           "source": "더쿠",
-          "rank": 10,
-          "title": "실시간 난리난 테슬라 신형 로드스터 공식 시연 장면 + 직캠추가",
-          "url": "https://theqoo.net/hot/4377235601",
-          "score": 79.37
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 62,
-          "title": "테슬라 로드스터 공중제비 영상",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10153839",
-          "score": 60.11
+          "rank": 44,
+          "title": "나솔에 나온 42살,46살 비주얼 상태",
+          "url": "https://theqoo.net/hot/4377255221",
+          "score": 63.21
         }
       ],
-      "rank": 1,
+      "first_seen": "2026-10-16T14:00:56.977711+09:00",
+      "last_seen": "2026-10-16T14:00:56.977711+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 10,
       "change": "NEW"
-    },
+    }
+  ],
+  "realtime_issues": [
     {
-      "id": "i039fd79c",
-      "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "ie5e6dce8",
+      "title": "테슬라 로드스터 시연장 근황.jpg",
       "keywords": [
-        "이재명"
+        "로드스터",
+        "테슬라",
+        "공중제비"
       ],
-      "source_count": 2,
-      "post_count": 3,
-      "score": 86.73,
-      "peak_score": 86.73,
+      "source_count": 5,
+      "post_count": 6,
+      "score": 105.46,
+      "peak_score": 105.46,
       "appearances": 1,
       "sources": [
+        "더쿠",
+        "디시인사이드",
+        "뽐뿌",
         "인벤",
         "클리앙"
       ],
       "posts": [
         {
+          "source": "디시인사이드",
+          "rank": 11,
+          "title": "테슬라 로드스터 시연장 근황.jpg",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470707&_dcbest=1&page=1",
+          "score": 75.46
+        },
+        {
           "source": "인벤",
-          "rank": 13,
-          "title": "이재명 x",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2740990",
-          "score": 76.73
+          "rank": 17,
+          "title": "테슬라 로드스터 업계종사자 \"이거 그냥 말도 안되는 기술이다\"",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2741007",
+          "score": 73.82
+        },
+        {
+          "source": "더쿠",
+          "rank": 19,
+          "title": "실시간 난리난 테슬라 신형 로드스터 공식 시연 장면 + 직캠추가",
+          "url": "https://theqoo.net/hot/4377235601",
+          "score": 72.89
         },
         {
           "source": "클리앙",
-          "rank": 31,
-          "title": "이재명 정부의 업적",
-          "url": "https://www.clien.net/service/board/park/19278387?od=T31&po=0&category=0&groupCd=",
-          "score": 67.33
+          "rank": 81,
+          "title": "테슬라 로드스터… 리프팅턴 이제 나오나요:.",
+          "url": "https://www.clien.net/service/board/park/19278414?od=T31&po=0&category=0&groupCd=",
+          "score": 55.6
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 95,
+          "title": "테슬라 로드스터 공중제비 영상",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10153839",
+          "score": 51.84
+        },
+        {
+          "source": "인벤",
+          "rank": 35,
+          "title": "테슬라 로드스터 공중제비 직촬 영상",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2740993",
+          "score": 65.81
+        }
+      ],
+      "rank": 1,
+      "change": 0
+    },
+    {
+      "id": "ife3c822c",
+      "title": "‘안하는’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "안하는"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 90.45,
+      "peak_score": 90.45,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 4,
+          "title": "요즘 \"클로징멘트\" 안하는 MBC뉴스",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10153091",
+          "score": 81.45
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 66,
+          "title": "빠니보틀이 악플러 고소 안하는 이유",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470695&_dcbest=1&page=1",
+          "score": 58.05
         }
       ],
       "rank": 2,
+      "change": "NEW"
+    },
+    {
+      "id": "i436f636b",
+      "title": "‘전현무’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "전현무"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 88.18,
+      "peak_score": 88.18,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 7,
+          "title": "‘조작 논란’ 전현무 카자흐스탄 즉흥 여행...사전 대본 있었다",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470721&_dcbest=1&page=1",
+          "score": 79.18
+        },
+        {
+          "source": "루리웹",
+          "rank": 86,
+          "title": "“전현무 씨도 알지 못한 내용”…MBC, ‘나혼산’ 즉흥 여행 논란 추가 해명",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77044843?m=humor_only&t=now",
+          "score": 53.85
+        }
+      ],
+      "rank": 3,
+      "change": "NEW"
+    },
+    {
+      "id": "i60771edb",
+      "title": "나솔에 나온 42살,46살 비주얼",
+      "keywords": [
+        "나온",
+        "46살",
+        "42살",
+        "나솔에",
+        "비주얼"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 87.45,
+      "peak_score": 87.45,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 6,
+          "title": "나솔에 나온 42살,46살 비주얼",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2741011",
+          "score": 79.45
+        },
+        {
+          "source": "더쿠",
+          "rank": 44,
+          "title": "나솔에 나온 42살,46살 비주얼 상태",
+          "url": "https://theqoo.net/hot/4377255221",
+          "score": 63.21
+        }
+      ],
+      "rank": 4,
+      "change": "NEW"
+    },
+    {
+      "id": "id5ba6684",
+      "title": "‘화제인’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "화제인"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 78.97,
+      "peak_score": 78.97,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 23,
+          "title": "관악산 지게꾼을 하는 22세 청년이 화제인 이유",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470724&_dcbest=1&page=1",
+          "score": 69.97
+        },
+        {
+          "source": "인벤",
+          "rank": 45,
+          "title": "미국에서 화제인 야구선수의 소신 발언",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2741014",
+          "score": 62.93
+        }
+      ],
+      "rank": 5,
       "change": "NEW"
     },
     {
@@ -922,31 +1060,31 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 84.11,
-      "peak_score": 84.11,
+      "score": 71.28,
+      "peak_score": 71.28,
       "appearances": 1,
       "sources": [
-        "디시인사이드",
-        "뽐뿌"
+        "뽐뿌",
+        "클리앙"
       ],
       "posts": [
         {
           "source": "뽐뿌",
-          "rank": 15,
+          "rank": 49,
           "title": "김지용 임명은 헤어질 결심한것, 이재명의 착각",
           "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10153740",
-          "score": 75.11
+          "score": 62.28
         },
         {
-          "source": "디시인사이드",
-          "rank": 100,
-          "title": "李대통령, 김지용 초대 중수청장 임명안 재가",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470716&_dcbest=1&page=1",
-          "score": 51.34
+          "source": "클리앙",
+          "rank": 92,
+          "title": "김지용 보고서, 적격과 부적격 두개의 의견이 올라갔지만",
+          "url": "https://www.clien.net/service/board/park/19278412?od=T31&po=0&category=0&groupCd=",
+          "score": 52.34
         }
       ],
-      "rank": 3,
-      "change": "NEW"
+      "rank": 6,
+      "change": -3
     },
     {
       "id": "i1bf23001",
@@ -956,8 +1094,8 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 77.28,
-      "peak_score": 77.28,
+      "score": 66.29,
+      "peak_score": 66.29,
       "appearances": 1,
       "sources": [
         "디시인사이드",
@@ -966,134 +1104,98 @@
       "posts": [
         {
           "source": "인벤",
-          "rank": 28,
+          "rank": 73,
           "title": "[속보] 간병하던 아내 살해하고…70대 남성 숨진 채 발견",
           "url": "https://www.inven.co.kr/board/webzine/2097/2740996",
-          "score": 68.28
+          "score": 57.29
         },
         {
           "source": "디시인사이드",
-          "rank": 72,
+          "rank": 84,
           "title": "20살 어린 만삭 아내 살해하고 보험금 95억원 타먹었는데 무죄인 남자.",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470686&_dcbest=1&page=1",
-          "score": 58.21
+          "score": 54.3
         }
       ],
-      "rank": 4,
-      "change": "NEW"
+      "rank": 7,
+      "change": -3
     },
     {
-      "id": "ibb35f05f",
-      "title": "‘어떻게’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "ie5a2c1ba",
+      "title": "‘아파트’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "어떻게"
+        "아파트"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 77.0,
-      "peak_score": 77.0,
+      "score": 63.87,
+      "peak_score": 63.87,
       "appearances": 1,
       "sources": [
-        "더쿠",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 29,
-          "title": "유튜브에서 게이 부부의 자녀가 두 아빠를 daddy와 papa로 구분지어 호칭하는걸 봤다 한국에선 어떻게 적용할 수 있을지 고민하다가",
-          "url": "https://theqoo.net/hot/4377290920",
-          "score": 68.0
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 79,
-          "title": "(영상첨부) 고속도로에서 액체 테러를 당했어요. 누가 범인이고, 어떻게 해야 할까요?",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=979644",
-          "score": 56.04
-        }
-      ],
-      "rank": 5,
-      "change": "NEW"
-    },
-    {
-      "id": "i1b672c00",
-      "title": "되팔이 업자들 멸망각 뜬 치이카와 팝콘통 예약구매 상황",
-      "keywords": [
-        "팝콘통",
-        "되팔이",
-        "치이카와"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 76.53,
-      "peak_score": 76.53,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
+        "디시인사이드",
         "루리웹"
       ],
       "posts": [
         {
-          "source": "더쿠",
-          "rank": 27,
-          "title": "되팔이 업자들 멸망각 뜬 치이카와 팝콘통 예약구매 상황",
-          "url": "https://theqoo.net/hot/4377244873",
-          "score": 68.53
+          "source": "루리웹",
+          "rank": 83,
+          "title": "아파트 개↗같은 새끼들 원탑.jpg",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77044827?m=humor_only&t=now",
+          "score": 54.87
         },
         {
-          "source": "루리웹",
-          "rank": 37,
-          "title": "되팔이 멸망 치이카와 팝콘통, 캐릭터 인기 순위 알수 있네",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77044447?m=humor_only&t=now",
-          "score": 65.62
+          "source": "디시인사이드",
+          "rank": 89,
+          "title": "싱글벙글 600만 원짜리 24평 아파트",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470692&_dcbest=1&page=1",
+          "score": 53.13
         }
       ],
-      "rank": 6,
+      "rank": 8,
       "change": "NEW"
     }
   ],
   "keywords": [
     {
-      "keyword": "테슬라",
-      "score": 189.44,
+      "keyword": "로드스터",
+      "score": 208.55,
       "post_count": 9,
-      "source_count": 4,
-      "best_rank": 8,
+      "source_count": 5,
+      "best_rank": 11,
       "sources": [
         "더쿠",
         "디시인사이드",
         "뽐뿌",
-        "인벤"
+        "인벤",
+        "클리앙"
       ],
-      "aliases": [],
+      "aliases": [
+        "테슬라"
+      ],
       "rank": 1,
-      "change": "NEW"
+      "change": 1
     },
     {
-      "keyword": "로드스터",
-      "score": 170.35,
-      "post_count": 6,
-      "source_count": 4,
-      "best_rank": 8,
+      "keyword": "취소",
+      "score": 110.4,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 1,
       "sources": [
         "더쿠",
-        "디시인사이드",
-        "뽐뿌",
-        "인벤"
+        "루리웹"
       ],
       "aliases": [],
       "rank": 2,
       "change": "NEW"
     },
     {
-      "keyword": "이재명",
-      "score": 134.42,
-      "post_count": 4,
-      "source_count": 3,
-      "best_rank": 13,
+      "keyword": "사고",
+      "score": 102.7,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 5,
       "sources": [
-        "뽐뿌",
         "인벤",
         "클리앙"
       ],
@@ -1102,44 +1204,46 @@
       "change": "NEW"
     },
     {
-      "keyword": "공중제비",
-      "score": 97.77,
+      "keyword": "42살",
+      "score": 101.11,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 8,
+      "best_rank": 6,
       "sources": [
-        "뽐뿌",
+        "더쿠",
         "인벤"
       ],
-      "aliases": [],
+      "aliases": [
+        "46살",
+        "나솔",
+        "나온",
+        "비주얼"
+      ],
       "rank": 4,
       "change": "NEW"
     },
     {
-      "keyword": "치이카",
-      "score": 93.34,
+      "keyword": "안하",
+      "score": 98.97,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 27,
+      "best_rank": 4,
       "sources": [
-        "더쿠",
-        "루리웹"
+        "디시인사이드",
+        "뽐뿌"
       ],
-      "aliases": [
-        "되팔",
-        "팝콘통"
-      ],
+      "aliases": [],
       "rank": 5,
       "change": "NEW"
     },
     {
-      "keyword": "외국",
-      "score": 93.23,
+      "keyword": "공식",
+      "score": 96.42,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 20,
+      "best_rank": 19,
       "sources": [
-        "디시인사이드",
+        "더쿠",
         "클리앙"
       ],
       "aliases": [],
@@ -1147,11 +1251,112 @@
       "change": "NEW"
     },
     {
-      "keyword": "아내",
-      "score": 87.95,
+      "keyword": "와서",
+      "score": 95.44,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 28,
+      "best_rank": 14,
+      "sources": [
+        "더쿠",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 7,
+      "change": "NEW"
+    },
+    {
+      "keyword": "김지용",
+      "score": 94.72,
+      "post_count": 3,
+      "source_count": 2,
+      "best_rank": 18,
+      "sources": [
+        "뽐뿌",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 8,
+      "change": 0
+    },
+    {
+      "keyword": "전현무",
+      "score": 94.25,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 7,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "aliases": [
+        "여행",
+        "즉흥"
+      ],
+      "rank": 9,
+      "change": "NEW"
+    },
+    {
+      "keyword": "같다",
+      "score": 93.27,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 18,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 10,
+      "change": "NEW"
+    },
+    {
+      "keyword": "화제인",
+      "score": 92.69,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 23,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 11,
+      "change": "NEW"
+    },
+    {
+      "keyword": "이재명",
+      "score": 85.16,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 49,
+      "sources": [
+        "뽐뿌",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 12,
+      "change": -9
+    },
+    {
+      "keyword": "공중제비",
+      "score": 83.11,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 35,
+      "sources": [
+        "뽐뿌",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 13,
+      "change": -9
+    },
+    {
+      "keyword": "아내",
+      "score": 79.02,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 73,
       "sources": [
         "디시인사이드",
         "인벤"
@@ -1159,142 +1364,72 @@
       "aliases": [
         "살해"
       ],
-      "rank": 7,
-      "change": "NEW"
+      "rank": 14,
+      "change": -7
     },
     {
-      "keyword": "김지용",
-      "score": 87.89,
+      "keyword": "아파트",
+      "score": 76.72,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 15,
-      "sources": [
-        "디시인사이드",
-        "뽐뿌"
-      ],
-      "aliases": [],
-      "rank": 8,
-      "change": "NEW"
-    },
-    {
-      "keyword": "인기",
-      "score": 87.36,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 37,
+      "best_rank": 83,
       "sources": [
         "디시인사이드",
         "루리웹"
       ],
       "aliases": [],
-      "rank": 9,
-      "change": "NEW"
-    },
-    {
-      "keyword": "어떻게",
-      "score": 86.65,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 29,
-      "sources": [
-        "더쿠",
-        "뽐뿌"
-      ],
-      "aliases": [],
-      "rank": 10,
-      "change": "NEW"
-    },
-    {
-      "keyword": "상태",
-      "score": 86.03,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 30,
-      "sources": [
-        "더쿠",
-        "뽐뿌"
-      ],
-      "aliases": [],
-      "rank": 11,
-      "change": "NEW"
-    },
-    {
-      "keyword": "어찌",
-      "score": 78.91,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 68,
-      "sources": [
-        "뽐뿌",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 12,
-      "change": "NEW"
-    },
-    {
-      "keyword": "흉기",
-      "score": 77.46,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 75,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "aliases": [],
-      "rank": 13,
+      "rank": 15,
       "change": "NEW"
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "코스어 관련 트위터 불타기 시작한 이유와 어제까지의 타임라인",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77043151?m=humor",
-      "score": 97.29,
-      "views": 14426,
-      "comments": 94
+      "title": "속보) 백악관 \"사형집행 생중계 취소\"",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77042092?m=humor",
+      "score": 98.96,
+      "views": 23625,
+      "comments": 107
     },
     {
       "source": "뽐뿌",
-      "title": "산길 런닝대회 참가한 사람의 마인드.jpg",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10153725",
-      "score": 83.33,
-      "views": 21626,
-      "comments": 67
+      "title": "요즘 \"클로징멘트\" 안하는 MBC뉴스",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10153091",
+      "score": 81.45,
+      "views": 20698,
+      "comments": 60
+    },
+    {
+      "source": "클리앙",
+      "title": "약 10년뒤 사고 뉴스.jpg",
+      "url": "https://www.clien.net/service/board/park/19278423?od=T31&po=0&category=0&groupCd=",
+      "score": 80.14,
+      "views": 1654,
+      "comments": 8
+    },
+    {
+      "source": "인벤",
+      "title": "나솔에 나온 42살,46살 비주얼",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2741011",
+      "score": 79.45,
+      "views": 1674,
+      "comments": 16
     },
     {
       "source": "디시인사이드",
       "title": "‘조작 논란’ 전현무 카자흐스탄 즉흥 여행...사전 대본 있었다",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470721&_dcbest=1&page=1",
-      "score": 81.05,
-      "views": 10282,
-      "comments": 320
-    },
-    {
-      "source": "인벤",
-      "title": "국산 굴 근황.jpg",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2740992",
-      "score": 80.98,
-      "views": 1674,
-      "comments": 15
+      "score": 79.18,
+      "views": 13540,
+      "comments": 381
     },
     {
       "source": "더쿠",
-      "title": "실시간 난리난 테슬라 신형 로드스터 공식 시연 장면 + 직캠추가",
-      "url": "https://theqoo.net/hot/4377235601",
-      "score": 79.37,
-      "views": 53864,
-      "comments": 716
-    },
-    {
-      "source": "클리앙",
-      "title": "이 정도면 상당히 오르는 듯하네요",
-      "url": "https://www.clien.net/service/board/park/19278394?od=T31&po=0&category=0&groupCd=",
-      "score": 70.17,
-      "views": 1413,
-      "comments": 7
+      "title": "엑스에서 알티타는 버블 두 달만에 와서 팬과 기싸움 하는 아이돌",
+      "url": "https://theqoo.net/hot/4377361402",
+      "score": 75.0,
+      "views": 17616,
+      "comments": 378
     }
   ]
 }
