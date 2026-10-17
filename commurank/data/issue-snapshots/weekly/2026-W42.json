@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W42",
   "label": "2026.10.12 ~ 10.18",
-  "collected_at": "2026-10-17T23:56:51.138413+09:00",
+  "collected_at": "2026-10-18T02:02:27.138898+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -388,6 +388,46 @@
       "change": 0
     },
     {
+      "id": "i9ff6bf96",
+      "title": "‘프랑스’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "프랑스"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 119.23,
+      "peak_score": 105.18,
+      "appearances": 4,
+      "sources": [
+        "디시인사이드",
+        "루리웹",
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 37,
+          "title": "프랑스 시위가 심각해 보입니다",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2741653",
+          "score": 63.86
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 49,
+          "title": "(속보) 프랑스 시위로 대통령 피신 및 무기상 약탈 ㄷ",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10155698",
+          "score": 60.28
+        }
+      ],
+      "first_seen": "2026-10-05T23:25:29.795675+09:00",
+      "last_seen": "2026-10-18T02:02:27.138898+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 9,
+      "change": 2
+    },
+    {
       "id": "i039fd79c",
       "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -424,8 +464,8 @@
       "last_seen": "2026-10-17T22:54:05.634506+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 9,
-      "change": 0
+      "rank": 10,
+      "change": -1
     },
     {
       "id": "ifd5a2cc3",
@@ -462,47 +502,8 @@
       "last_seen": "2026-10-16T03:23:23.766471+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 10,
-      "change": 0
-    },
-    {
-      "id": "i9ff6bf96",
-      "title": "‘프랑스’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "프랑스"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 118.11,
-      "peak_score": 105.18,
-      "appearances": 3,
-      "sources": [
-        "디시인사이드",
-        "루리웹",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 76,
-          "title": "프랑스 학생들이 시위하는 이유를 알려주는 프랑스 거주 유튜버",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470345&_dcbest=1&page=1",
-          "score": 57.01
-        },
-        {
-          "source": "루리웹",
-          "rank": 83,
-          "title": "게임 와치독스가 현실이 된 프랑스",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77028937?m=humor_only&t=now",
-          "score": 54.9
-        }
-      ],
-      "first_seen": "2026-10-05T23:25:29.795675+09:00",
-      "last_seen": "2026-10-15T05:56:35.250929+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 11,
-      "change": 0
+      "change": -1
     },
     {
       "id": "i7f48cc7a",
