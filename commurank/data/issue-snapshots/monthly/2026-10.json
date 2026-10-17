@@ -3,7 +3,7 @@
   "period": "monthly",
   "key": "2026-10",
   "label": "2026년 10월",
-  "collected_at": "2026-10-17T16:41:42.649384+09:00",
+  "collected_at": "2026-10-17T19:34:33.819752+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -178,35 +178,36 @@
       ],
       "source_count": 3,
       "post_count": 5,
-      "score": 133.89,
+      "score": 134.8,
       "peak_score": 112.84,
-      "appearances": 4,
+      "appearances": 5,
       "sources": [
         "더쿠",
         "디시인사이드",
         "루리웹",
-        "뽐뿌"
+        "뽐뿌",
+        "인벤"
       ],
       "posts": [
         {
-          "source": "더쿠",
-          "rank": 45,
-          "title": "위장을 밖으로 꺼내 장세척 하는 부캉이(와 글에 달린 댓글들)",
-          "url": "https://theqoo.net/hot/4369973629",
-          "score": 62.21
+          "source": "뽐뿌",
+          "rank": 40,
+          "title": "부캉이 열풍을 본 침착맨",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=23511",
+          "score": 61.84
         },
         {
-          "source": "디시인사이드",
-          "rank": 94,
-          "title": "국민 상어 부캉이, 새끼 낳았나",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469043&_dcbest=1&page=1",
-          "score": 52.13
+          "source": "인벤",
+          "rank": 99,
+          "title": "AI)부캉이 : 메갈로돈의 습격",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2741574",
+          "score": 50.76
         }
       ],
       "first_seen": "2026-10-03T12:47:13.694231+09:00",
-      "last_seen": "2026-10-09T18:34:09.825495+09:00",
+      "last_seen": "2026-10-17T19:34:33.819752+09:00",
       "latest_source_count": 2,
-      "latest_post_count": 2,
+      "latest_post_count": 3,
       "rank": 5,
       "change": 0
     },
@@ -892,7 +893,7 @@
       "latest_source_count": 3,
       "latest_post_count": 5,
       "rank": 20,
-      "change": "NEW"
+      "change": 0
     }
   ]
 }
