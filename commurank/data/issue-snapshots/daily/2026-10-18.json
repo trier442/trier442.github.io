@@ -3,7 +3,7 @@
   "period": "daily",
   "key": "2026-10-18",
   "label": "2026년 10월 18일",
-  "collected_at": "2026-10-18T04:16:19.899731+09:00",
+  "collected_at": "2026-10-18T05:06:27.226373+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -49,6 +49,44 @@
       "change": 0
     },
     {
+      "id": "i1a0292b7",
+      "title": "‘안되는’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "안되는"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 96.53,
+      "peak_score": 87.06,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 7,
+          "title": "의외로 법대로 하라고 하면 안되는 이유",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471121&_dcbest=1&page=1",
+          "score": 78.06
+        },
+        {
+          "source": "루리웹",
+          "rank": 91,
+          "title": "카페에서 오줌 싸면 안되는 이유",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77064174?m=humor_only&t=now",
+          "score": 53.0
+        }
+      ],
+      "first_seen": "2026-09-30T05:15:44.512747+09:00",
+      "last_seen": "2026-10-18T05:06:27.226373+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 2,
+      "change": "NEW"
+    },
+    {
       "id": "i9ff6bf96",
       "title": "프랑스 시위가 심각해 보입니다",
       "keywords": [
@@ -57,9 +95,9 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 89.36,
+      "score": 90.48,
       "peak_score": 76.43,
-      "appearances": 3,
+      "appearances": 4,
       "sources": [
         "뽐뿌",
         "인벤",
@@ -68,25 +106,25 @@
       "posts": [
         {
           "source": "인벤",
-          "rank": 39,
+          "rank": 45,
           "title": "프랑스 시위가 심각해 보입니다",
           "url": "https://www.inven.co.kr/board/webzine/2097/2741653",
-          "score": 63.84
+          "score": 63.19
         },
         {
           "source": "클리앙",
-          "rank": 59,
+          "rank": 53,
           "title": "프랑스 시위가 날로 격화되고 있네요.",
           "url": "https://www.clien.net/service/board/park/19279173?od=T31&po=0&category=0&groupCd=",
-          "score": 59.93
+          "score": 61.47
         }
       ],
       "first_seen": "2026-10-05T23:25:29.795675+09:00",
-      "last_seen": "2026-10-18T04:16:19.899731+09:00",
+      "last_seen": "2026-10-18T05:06:27.226373+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 2,
-      "change": 1
+      "rank": 3,
+      "change": -1
     },
     {
       "id": "i4c8bdd1e",
@@ -123,7 +161,7 @@
       "last_seen": "2026-10-18T02:02:27.138898+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 3,
+      "rank": 4,
       "change": -1
     }
   ]
