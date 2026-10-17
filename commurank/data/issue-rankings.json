@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-10-17T08:53:09.293597+09:00",
+  "collected_at": "2026-10-17T10:29:38.397115+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -11,73 +11,72 @@
   "rankings": {
     "realtime": [
       {
-        "id": "i55b3a015",
-        "title": "진짜 심각하다는 30대 근황",
+        "id": "i1b672c00",
+        "title": "‘치이카와’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "30대",
-          "심각하다는"
+          "치이카와"
         ],
         "source_count": 2,
-        "post_count": 2,
-        "score": 90.68,
-        "peak_score": 90.68,
+        "post_count": 3,
+        "score": 79.1,
+        "peak_score": 79.1,
         "appearances": 1,
         "sources": [
-          "뽐뿌",
-          "인벤"
+          "디시인사이드",
+          "루리웹"
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 5,
-            "title": "진짜 심각하다는 30대 근황",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2741356",
-            "score": 82.68
+            "source": "디시인사이드",
+            "rank": 19,
+            "title": "주둥이 치이카와 논란 결말",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470902&_dcbest=1&page=1",
+            "score": 69.1
           },
           {
-            "source": "뽐뿌",
-            "rank": 10,
-            "title": "요즘) 진짜 심각하다는 30대 근황 ㄷㄷ",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10154809",
-            "score": 78.65
+            "source": "루리웹",
+            "rank": 99,
+            "title": "치이카와)미쳤냐고!!!!!!",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77054407?m=humor_only&t=now",
+            "score": 51.26
           }
         ],
         "rank": 1,
-        "change": 3
+        "change": "NEW"
       },
       {
-        "id": "i82121c4f",
-        "title": "‘마세요’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i89c5681f",
+        "title": "‘테슬라’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "마세요"
+          "테슬라"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 82.83,
-        "peak_score": 82.83,
+        "score": 99.71,
+        "peak_score": 99.71,
         "appearances": 1,
         "sources": [
-          "뽐뿌",
-          "인벤"
+          "루리웹",
+          "클리앙"
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 16,
-            "title": "회사에서 \"아니 근데...\" 쓰지 마세요",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2741358",
-            "score": 73.83
+            "source": "루리웹",
+            "rank": 3,
+            "title": "테슬라 이게 진짜 중력가속도까지 운운해야 될걸로 보임?",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77054263?m=humor",
+            "score": 90.71
           },
           {
-            "source": "뽐뿌",
-            "rank": 73,
-            "title": "공포에 사로잡히지 마세요",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=443503",
-            "score": 57.54
+            "source": "클리앙",
+            "rank": 46,
+            "title": "어제 테슬라 보니 로켓 자세제어 기술을 여기에 써먹은구나 싶었네요.",
+            "url": "https://www.clien.net/service/board/park/19278816?od=T31&po=0&category=0&groupCd=",
+            "score": 60.54
           }
         ],
         "rank": 2,
-        "change": 5
+        "change": "NEW"
       },
       {
         "id": "ib4309374",
@@ -87,8 +86,8 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 80.28,
-        "peak_score": 80.28,
+        "score": 70.55,
+        "peak_score": 70.55,
         "appearances": 1,
         "sources": [
           "더쿠",
@@ -97,156 +96,54 @@
         "posts": [
           {
             "source": "디시인사이드",
-            "rank": 19,
+            "rank": 40,
             "title": "싱글벙글 요즘 여자들이 보는 남자 키",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470884&_dcbest=1&page=1",
-            "score": 71.28
+            "score": 61.55
           },
           {
             "source": "더쿠",
-            "rank": 28,
+            "rank": 64,
             "title": "여성들에게만 하는 질문: 만약 내일 아침 눈을 뜨고 세상 모든 다른 여자들이 사라져서, 당신만 남고 남자들만 있는 걸 발견한다면, 당신은 뭐 하실 건가요?",
             "url": "https://theqoo.net/hot/4377989355",
-            "score": 66.55
+            "score": 58.42
           }
         ],
         "rank": 3,
-        "change": 3
+        "change": 0
       },
       {
-        "id": "iea87c8f0",
-        "title": "‘한다네요’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i1a0292b7",
+        "title": "‘안되는’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "한다네요"
+          "안되는"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 73.07,
-        "peak_score": 73.07,
-        "appearances": 1,
-        "sources": [
-          "뽐뿌",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 40,
-            "title": "박선원이 최강욱 고소 한다네요",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10154739",
-            "score": 64.07
-          },
-          {
-            "source": "클리앙",
-            "rank": 68,
-            "title": "아이폰 듀오 공식케이스 접착제로 탈부착 고정 한다네요",
-            "url": "https://www.clien.net/service/board/park/19278749?od=T31&po=0&category=0&groupCd=",
-            "score": 58.78
-          }
-        ],
-        "rank": 4,
-        "change": 1
-      },
-      {
-        "id": "i5b318335",
-        "title": "‘gta’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "gta"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 70.65,
-        "peak_score": 70.65,
-        "appearances": 1,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 54,
-            "title": "GTA 인도버전",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2741362",
-            "score": 61.65
-          },
-          {
-            "source": "클리앙",
-            "rank": 100,
-            "title": "GTA 6를 심의 문제 삼으려하는 모 국회의원",
-            "url": "https://www.clien.net/service/board/park/19278757?od=T31&po=0&category=0&groupCd=",
-            "score": 50.31
-          }
-        ],
-        "rank": 5,
-        "change": "NEW"
-      },
-      {
-        "id": "i0cdcc665",
-        "title": "‘아이폰’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "아이폰"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 67.78,
-        "peak_score": 67.78,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 68,
-            "title": "아이폰 듀오 공식케이스 접착제로 탈부착 고정 한다네요",
-            "url": "https://www.clien.net/service/board/park/19278749?od=T31&po=0&category=0&groupCd=",
-            "score": 58.78
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 99,
-            "title": "아이폰 듀오, 나노텍스쳐 선동이 어이가 없는 이유",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470879&_dcbest=1&page=1",
-            "score": 50.79
-          }
-        ],
-        "rank": 6,
-        "change": 2
-      },
-      {
-        "id": "i90b016dc",
-        "title": "‘국회의원’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "국회의원"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 61.9,
-        "peak_score": 61.9,
+        "score": 63.51,
+        "peak_score": 63.51,
         "appearances": 1,
         "sources": [
           "루리웹",
-          "클리앙"
+          "인벤"
         ],
         "posts": [
           {
             "source": "루리웹",
-            "rank": 89,
-            "title": "미국 국회의원 게임 소유권 법 발의",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77053809?m=humor_only&t=now",
-            "score": 52.9
+            "rank": 83,
+            "title": "새 삼국시대 사극 문무 기대되면서 기대 안되는 이유",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77054406?m=humor_only&t=now",
+            "score": 54.51
           },
           {
-            "source": "클리앙",
-            "rank": 100,
-            "title": "GTA 6를 심의 문제 삼으려하는 모 국회의원",
-            "url": "https://www.clien.net/service/board/park/19278757?od=T31&po=0&category=0&groupCd=",
-            "score": 50.31
+            "source": "인벤",
+            "rank": 94,
+            "title": "(ㅇㅎ)아무리 살빼도 해결 안되는 것.jpg",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2741381",
+            "score": 52.28
           }
         ],
-        "rank": 7,
+        "rank": 4,
         "change": "NEW"
       }
     ],
@@ -259,33 +156,34 @@
         ],
         "source_count": 2,
         "post_count": 3,
-        "score": 116.86,
+        "score": 118.88,
         "peak_score": 106.39,
-        "appearances": 1,
+        "appearances": 2,
         "sources": [
           "루리웹",
-          "뽐뿌"
+          "뽐뿌",
+          "클리앙"
         ],
         "posts": [
           {
             "source": "루리웹",
-            "rank": 1,
-            "title": "테슬라 근황",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77053458?m=humor",
-            "score": 96.39
+            "rank": 3,
+            "title": "테슬라 이게 진짜 중력가속도까지 운운해야 될걸로 보임?",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77054263?m=humor",
+            "score": 90.71
           },
           {
-            "source": "뽐뿌",
-            "rank": 9,
-            "title": "테슬라 로드스터 공식 유튜브 영상",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=23467",
-            "score": 76.08
+            "source": "클리앙",
+            "rank": 46,
+            "title": "어제 테슬라 보니 로켓 자세제어 기술을 여기에 써먹은구나 싶었네요.",
+            "url": "https://www.clien.net/service/board/park/19278816?od=T31&po=0&category=0&groupCd=",
+            "score": 60.54
           }
         ],
         "first_seen": "2026-10-13T08:48:40.085192+09:00",
-        "last_seen": "2026-10-17T08:29:07.258754+09:00",
+        "last_seen": "2026-10-17T10:29:38.397115+09:00",
         "latest_source_count": 2,
-        "latest_post_count": 3,
+        "latest_post_count": 2,
         "rank": 1,
         "change": 0
       },
@@ -334,10 +232,10 @@
           "치이카와"
         ],
         "source_count": 2,
-        "post_count": 2,
-        "score": 109.41,
+        "post_count": 3,
+        "score": 112.43,
         "peak_score": 99.94,
-        "appearances": 1,
+        "appearances": 2,
         "sources": [
           "디시인사이드",
           "루리웹"
@@ -345,23 +243,23 @@
         "posts": [
           {
             "source": "디시인사이드",
-            "rank": 4,
+            "rank": 19,
             "title": "주둥이 치이카와 논란 결말",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470902&_dcbest=1&page=1",
-            "score": 90.94
+            "score": 69.1
           },
           {
             "source": "루리웹",
-            "rank": 60,
-            "title": "치이카와) 치이카와가 울보에 민폐라고 하는 사람들특 .만화를 제대로 안봄",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77049794?m=humor_only&t=now",
-            "score": 59.34
+            "rank": 99,
+            "title": "치이카와)미쳤냐고!!!!!!",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77054407?m=humor_only&t=now",
+            "score": 51.26
           }
         ],
         "first_seen": "2026-10-08T12:01:09.196787+09:00",
-        "last_seen": "2026-10-17T06:29:45.159767+09:00",
+        "last_seen": "2026-10-17T10:29:38.397115+09:00",
         "latest_source_count": 2,
-        "latest_post_count": 2,
+        "latest_post_count": 3,
         "rank": 3,
         "change": 0
       },
@@ -373,9 +271,9 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 109.21,
+        "score": 109.88,
         "peak_score": 93.48,
-        "appearances": 6,
+        "appearances": 7,
         "sources": [
           "더쿠",
           "디시인사이드"
@@ -383,21 +281,21 @@
         "posts": [
           {
             "source": "디시인사이드",
-            "rank": 19,
+            "rank": 40,
             "title": "싱글벙글 요즘 여자들이 보는 남자 키",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470884&_dcbest=1&page=1",
-            "score": 71.28
+            "score": 61.55
           },
           {
             "source": "더쿠",
-            "rank": 28,
+            "rank": 64,
             "title": "여성들에게만 하는 질문: 만약 내일 아침 눈을 뜨고 세상 모든 다른 여자들이 사라져서, 당신만 남고 남자들만 있는 걸 발견한다면, 당신은 뭐 하실 건가요?",
             "url": "https://theqoo.net/hot/4377989355",
-            "score": 66.55
+            "score": 58.42
           }
         ],
         "first_seen": "2026-10-17T02:58:12.116264+09:00",
-        "last_seen": "2026-10-17T08:53:09.293597+09:00",
+        "last_seen": "2026-10-17T10:29:38.397115+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 4,
@@ -525,7 +423,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 7,
-        "change": 2
+        "change": 0
       },
       {
         "id": "i01009091",
@@ -563,7 +461,7 @@
         "latest_source_count": 2,
         "latest_post_count": 3,
         "rank": 8,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i39e4ffd1",
@@ -603,7 +501,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 9,
-        "change": -1
+        "change": 0
       },
       {
         "id": "iea87c8f0",
@@ -679,7 +577,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 11,
-        "change": 3
+        "change": 0
       },
       {
         "id": "i9c248c8d",
@@ -717,7 +615,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 12,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i0cdcc665",
@@ -755,7 +653,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 13,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i039fd79c",
@@ -793,7 +691,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 14,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i87351a46",
@@ -991,7 +889,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 19,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "i36ddd5fd",
@@ -1029,7 +927,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 20,
-        "change": -1
+        "change": 0
       }
     ],
     "weekly": [
@@ -1208,6 +1106,45 @@
         "change": 0
       },
       {
+        "id": "i89c5681f",
+        "title": "‘테슬라’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "테슬라"
+        ],
+        "source_count": 2,
+        "post_count": 3,
+        "score": 120.32,
+        "peak_score": 106.39,
+        "appearances": 3,
+        "sources": [
+          "루리웹",
+          "뽐뿌",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 3,
+            "title": "테슬라 이게 진짜 중력가속도까지 운운해야 될걸로 보임?",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77054263?m=humor",
+            "score": 90.71
+          },
+          {
+            "source": "클리앙",
+            "rank": 46,
+            "title": "어제 테슬라 보니 로켓 자세제어 기술을 여기에 써먹은구나 싶었네요.",
+            "url": "https://www.clien.net/service/board/park/19278816?od=T31&po=0&category=0&groupCd=",
+            "score": 60.54
+          }
+        ],
+        "first_seen": "2026-10-13T08:48:40.085192+09:00",
+        "last_seen": "2026-10-17T10:29:38.397115+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 4,
+        "change": 2
+      },
+      {
         "id": "ibef4b4bc",
         "title": "‘무서운’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -1244,8 +1181,8 @@
         "last_seen": "2026-10-15T08:52:43.582251+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 4,
-        "change": 0
+        "rank": 5,
+        "change": -1
       },
       {
         "id": "i82773ad8",
@@ -1282,46 +1219,8 @@
         "last_seen": "2026-10-15T14:13:47.790939+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 5,
-        "change": 0
-      },
-      {
-        "id": "i89c5681f",
-        "title": "‘테슬라’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "테슬라"
-        ],
-        "source_count": 2,
-        "post_count": 3,
-        "score": 118.88,
-        "peak_score": 106.39,
-        "appearances": 2,
-        "sources": [
-          "루리웹",
-          "뽐뿌"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 1,
-            "title": "테슬라 근황",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77053458?m=humor",
-            "score": 96.39
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 9,
-            "title": "테슬라 로드스터 공식 유튜브 영상",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=23467",
-            "score": 76.08
-          }
-        ],
-        "first_seen": "2026-10-13T08:48:40.085192+09:00",
-        "last_seen": "2026-10-17T08:29:07.258754+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 3,
         "rank": 6,
-        "change": 0
+        "change": -1
       },
       {
         "id": "ifd5a2cc3",
@@ -1677,6 +1576,45 @@
         "change": 0
       },
       {
+        "id": "i1b672c00",
+        "title": "‘치이카와’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "치이카와"
+        ],
+        "source_count": 2,
+        "post_count": 3,
+        "score": 113.87,
+        "peak_score": 99.94,
+        "appearances": 3,
+        "sources": [
+          "더쿠",
+          "디시인사이드",
+          "루리웹"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 19,
+            "title": "주둥이 치이카와 논란 결말",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470902&_dcbest=1&page=1",
+            "score": 69.1
+          },
+          {
+            "source": "루리웹",
+            "rank": 99,
+            "title": "치이카와)미쳤냐고!!!!!!",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77054407?m=humor_only&t=now",
+            "score": 51.26
+          }
+        ],
+        "first_seen": "2026-10-08T12:01:09.196787+09:00",
+        "last_seen": "2026-10-17T10:29:38.397115+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 3,
+        "rank": 16,
+        "change": 3
+      },
+      {
         "id": "i015fefac",
         "title": "‘국민연금’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -1711,8 +1649,8 @@
         "last_seen": "2026-10-15T19:00:34.779872+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 16,
-        "change": 0
+        "rank": 17,
+        "change": -1
       },
       {
         "id": "i5b812d16",
@@ -1749,8 +1687,8 @@
         "last_seen": "2026-10-17T02:58:12.116264+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 17,
-        "change": 0
+        "rank": 18,
+        "change": -1
       },
       {
         "id": "if553a5cf",
@@ -1790,47 +1728,8 @@
         "last_seen": "2026-10-16T18:48:05.332522+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 18,
-        "change": 0
-      },
-      {
-        "id": "i1b672c00",
-        "title": "‘치이카와’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "치이카와"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 111.43,
-        "peak_score": 99.94,
-        "appearances": 2,
-        "sources": [
-          "더쿠",
-          "디시인사이드",
-          "루리웹"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 4,
-            "title": "주둥이 치이카와 논란 결말",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470902&_dcbest=1&page=1",
-            "score": 90.94
-          },
-          {
-            "source": "루리웹",
-            "rank": 60,
-            "title": "치이카와) 치이카와가 울보에 민폐라고 하는 사람들특 .만화를 제대로 안봄",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77049794?m=humor_only&t=now",
-            "score": 59.34
-          }
-        ],
-        "first_seen": "2026-10-08T12:01:09.196787+09:00",
-        "last_seen": "2026-10-17T06:29:45.159767+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 19,
-        "change": 0
+        "change": -1
       },
       {
         "id": "ib19f68fa",
@@ -2715,44 +2614,43 @@
         "change": 0
       },
       {
-        "id": "ibef4b4bc",
-        "title": "‘무서운’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i89c5681f",
+        "title": "‘테슬라’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "무서운"
+          "테슬라"
         ],
         "source_count": 2,
-        "post_count": 2,
-        "score": 120.05,
-        "peak_score": 107.12,
+        "post_count": 3,
+        "score": 120.32,
+        "peak_score": 106.39,
         "appearances": 3,
         "sources": [
-          "더쿠",
-          "디시인사이드",
           "루리웹",
-          "인벤"
+          "뽐뿌",
+          "클리앙"
         ],
         "posts": [
           {
-            "source": "디시인사이드",
-            "rank": 41,
-            "title": "박위가 무서운 사람인 이유(with 화장실로 해쳐모여!!)",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470405&_dcbest=1&page=1",
-            "score": 64.76
+            "source": "루리웹",
+            "rank": 3,
+            "title": "테슬라 이게 진짜 중력가속도까지 운운해야 될걸로 보임?",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77054263?m=humor",
+            "score": 90.71
           },
           {
-            "source": "루리웹",
-            "rank": 96,
-            "title": "무서운 아내",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77029641?m=humor_only&t=now",
-            "score": 53.02
+            "source": "클리앙",
+            "rank": 46,
+            "title": "어제 테슬라 보니 로켓 자세제어 기술을 여기에 써먹은구나 싶었네요.",
+            "url": "https://www.clien.net/service/board/park/19278816?od=T31&po=0&category=0&groupCd=",
+            "score": 60.54
           }
         ],
-        "first_seen": "2026-10-14T12:35:09.624615+09:00",
-        "last_seen": "2026-10-15T08:52:43.582251+09:00",
+        "first_seen": "2026-10-13T08:48:40.085192+09:00",
+        "last_seen": "2026-10-17T10:29:38.397115+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 20,
-        "change": 0
+        "change": "NEW"
       }
     ]
   }
