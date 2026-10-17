@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W42",
   "label": "2026.10.12 ~ 10.18",
-  "collected_at": "2026-10-17T20:46:03.861557+09:00",
+  "collected_at": "2026-10-17T22:54:05.634506+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -388,6 +388,46 @@
       "change": 0
     },
     {
+      "id": "i039fd79c",
+      "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "이재명"
+      ],
+      "source_count": 3,
+      "post_count": 4,
+      "score": 118.85,
+      "peak_score": 93.65,
+      "appearances": 13,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 56,
+          "title": "이재명 정부는 미국에 뭘 줄지가 기대도 걱정도 됩니다",
+          "url": "https://www.clien.net/service/board/park/19279128?od=T31&po=0&category=0&groupCd=",
+          "score": 60.67
+        },
+        {
+          "source": "인벤",
+          "rank": 82,
+          "title": "이재명 대통령 인스타 사진 업로드 근황",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2741593",
+          "score": 54.47
+        }
+      ],
+      "first_seen": "2026-09-27T13:38:37.715424+09:00",
+      "last_seen": "2026-10-17T22:54:05.634506+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 9,
+      "change": 1
+    },
+    {
       "id": "ifd5a2cc3",
       "title": "‘한국에서’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -422,48 +462,8 @@
       "last_seen": "2026-10-16T03:23:23.766471+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 9,
-      "change": 0
-    },
-    {
-      "id": "i039fd79c",
-      "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "이재명"
-      ],
-      "source_count": 3,
-      "post_count": 4,
-      "score": 118.47,
-      "peak_score": 93.65,
-      "appearances": 12,
-      "sources": [
-        "디시인사이드",
-        "뽐뿌",
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 16,
-          "title": "이재명 대통령 인스타 사진 업로드 근황",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2741593",
-          "score": 71.77
-        },
-        {
-          "source": "클리앙",
-          "rank": 53,
-          "title": "순직 소방관 빈소 방문한 이재명 대통령/유족들의 호소",
-          "url": "https://www.clien.net/service/board/park/19279081?od=T31&po=0&category=0&groupCd=",
-          "score": 59.79
-        }
-      ],
-      "first_seen": "2026-09-27T13:38:37.715424+09:00",
-      "last_seen": "2026-10-17T20:46:03.861557+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 10,
-      "change": 1
+      "change": -1
     },
     {
       "id": "i9ff6bf96",
@@ -502,7 +502,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 11,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i7f48cc7a",
@@ -621,7 +621,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 14,
-      "change": 5
+      "change": 0
     },
     {
       "id": "ife021da2",
@@ -661,7 +661,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 15,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i4aeaabb9",
@@ -699,7 +699,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 16,
-      "change": -1
+      "change": 0
     },
     {
       "id": "ifc264642",
@@ -737,7 +737,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 17,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i4d8589fc",
@@ -778,7 +778,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 18,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i570d4625",
@@ -816,7 +816,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 19,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i1b672c00",
