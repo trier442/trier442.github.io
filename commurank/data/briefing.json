@@ -2,26 +2,26 @@
   "version": 1,
   "date": "2026-10-18",
   "label": "2026년 10월 18일",
-  "collected_at": "2026-10-18T02:02:27.138898+09:00",
+  "collected_at": "2026-10-18T02:48:33.752043+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘‘대한민국’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #최근. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘한국에서 자취를 감춘 일본 가전기업.jpg’입니다. 실시간 키워드 상위: #일본. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 6,
     "cached_sources": 0,
     "realtime_posts": 100,
     "daily_posts": 100,
-    "daily_issues": 2,
+    "daily_issues": 3,
     "keywords": 13,
-    "top100_views": 907632,
-    "top100_comments": 11153
+    "top100_views": 901259,
+    "top100_comments": 11184
   },
   "highlights": [
     {
       "type": "issue",
-      "title": "‘대한민국’ 관련 글이 여러 커뮤니티에서 화제",
+      "title": "한국에서 자취를 감춘 일본 가전기업.jpg",
       "text": "2개 커뮤니티에서 2개 관련 인기글이 포착됐습니다.",
-      "issue_id": "i4c8bdd1e"
+      "issue_id": "i2c2766ed"
     },
     {
       "type": "post",
@@ -31,9 +31,9 @@
     },
     {
       "type": "keyword",
-      "title": "#최근",
-      "text": "2개 커뮤니티 · 2개 인기글에서 함께 등장했습니다.",
-      "keyword": "최근"
+      "title": "#일본",
+      "text": "3개 커뮤니티 · 3개 인기글에서 함께 등장했습니다.",
+      "keyword": "일본"
     }
   ],
   "top_posts": [
@@ -49,11 +49,47 @@
       "max_likes": 197,
       "max_comments": 83,
       "appearances": 2,
-      "score": 108.32,
+      "score": 108.25,
       "views": 14972,
       "likes": 197,
       "comments": 83,
-      "change": 22
+      "change": 0
+    },
+    {
+      "title": "이번 테슬라 라이브를 본 프랑스인의 한탄.jpg",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77060875?m=humor",
+      "first_seen": "2026-10-17T23:56:51.138413+09:00",
+      "last_seen": "2026-10-18T02:48:33.752043+09:00",
+      "peak_score": 96.61,
+      "max_views": 23168,
+      "max_likes": 109,
+      "max_comments": 107,
+      "appearances": 2,
+      "score": 106.81,
+      "views": 23168,
+      "likes": 109,
+      "comments": 107,
+      "change": "NEW"
+    },
+    {
+      "title": "한국에서 자취를 감춘 일본 가전기업.jpg",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77061861?m=humor",
+      "first_seen": "2026-10-18T02:48:33.752043+09:00",
+      "last_seen": "2026-10-18T02:48:33.752043+09:00",
+      "peak_score": 96.88,
+      "max_views": 19256,
+      "max_likes": 90,
+      "max_comments": 84,
+      "appearances": 1,
+      "score": 106.27,
+      "views": 19256,
+      "likes": 90,
+      "comments": 84,
+      "change": "NEW"
     },
     {
       "title": "최근 옵치 유튜버들 사이에서 북미 유저들 취급",
@@ -67,10 +103,28 @@
       "max_likes": 161,
       "max_comments": 104,
       "appearances": 1,
-      "score": 106.0,
+      "score": 105.93,
       "views": 17588,
       "likes": 161,
       "comments": 104,
+      "change": -2
+    },
+    {
+      "title": "속보) 美, 러시아산 에너지 제재 전격 중단.jpg",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77062755?m=humor",
+      "first_seen": "2026-10-18T02:48:33.752043+09:00",
+      "last_seen": "2026-10-18T02:48:33.752043+09:00",
+      "peak_score": 93.84,
+      "max_views": 14761,
+      "max_likes": 137,
+      "max_comments": 85,
+      "appearances": 1,
+      "score": 103.23,
+      "views": 14761,
+      "likes": 137,
+      "comments": 85,
       "change": "NEW"
     },
     {
@@ -85,11 +139,11 @@
       "max_likes": 81,
       "max_comments": 105,
       "appearances": 1,
-      "score": 102.81,
+      "score": 102.74,
       "views": 11579,
       "likes": 81,
       "comments": 105,
-      "change": "NEW"
+      "change": -3
     },
     {
       "title": "방금 아일릿 콘서트에서 선공개 한 발매 예정 타이틀곡 체포하겠어",
@@ -103,11 +157,11 @@
       "max_likes": 0,
       "max_comments": 1396,
       "appearances": 4,
-      "score": 97.06,
+      "score": 96.99,
       "views": 82385,
       "likes": 0,
       "comments": 1396,
-      "change": 42
+      "change": -3
     },
     {
       "title": "싱글벙글 싱붕이 이사왔는데 이거 맞냐?",
@@ -115,17 +169,17 @@
       "category": "이슈",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471078&_dcbest=1&page=1",
       "first_seen": "2026-10-17T20:46:03.861557+09:00",
-      "last_seen": "2026-10-18T02:02:27.138898+09:00",
+      "last_seen": "2026-10-18T02:48:33.752043+09:00",
       "peak_score": 85.07,
-      "max_views": 24467,
-      "max_likes": 167,
-      "max_comments": 897,
-      "appearances": 4,
-      "score": 96.29,
-      "views": 24467,
-      "likes": 167,
-      "comments": 897,
-      "change": 44
+      "max_views": 24982,
+      "max_likes": 170,
+      "max_comments": 900,
+      "appearances": 5,
+      "score": 96.65,
+      "views": 24982,
+      "likes": 170,
+      "comments": 900,
+      "change": -3
     },
     {
       "title": "고윤정 대학 때 예쁜 걸로 유명했다는거 과 주점 포스터 주인공이었다에서 찐이구나를 느낌........",
@@ -133,17 +187,17 @@
       "category": "이슈",
       "url": "https://theqoo.net/hot/4378672136",
       "first_seen": "2026-10-17T22:54:05.634506+09:00",
-      "last_seen": "2026-10-18T02:02:27.138898+09:00",
+      "last_seen": "2026-10-18T02:48:33.752043+09:00",
       "peak_score": 84.84,
-      "max_views": 87330,
+      "max_views": 89914,
       "max_likes": 0,
-      "max_comments": 751,
-      "appearances": 3,
-      "score": 95.61,
-      "views": 87330,
+      "max_comments": 759,
+      "appearances": 4,
+      "score": 96.06,
+      "views": 89914,
       "likes": 0,
-      "comments": 751,
-      "change": 45
+      "comments": 759,
+      "change": -3
     },
     {
       "title": "싱글벙글 친누나가 나를 엄청 좋아 했었다.jpg",
@@ -151,183 +205,129 @@
       "category": "이슈",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471107&_dcbest=1&page=1",
       "first_seen": "2026-10-17T22:54:05.634506+09:00",
-      "last_seen": "2026-10-18T02:02:27.138898+09:00",
+      "last_seen": "2026-10-18T02:48:33.752043+09:00",
       "peak_score": 82.13,
-      "max_views": 32735,
-      "max_likes": 125,
-      "max_comments": 259,
-      "appearances": 3,
-      "score": 92.9,
-      "views": 32735,
-      "likes": 125,
-      "comments": 259,
-      "change": 54
-    },
-    {
-      "title": "MBC) 큰거떴다...한강버스 리베이트 녹취록 뜸ㅋㅋㅋ",
-      "source": "디시인사이드",
-      "category": "유머",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471064&_dcbest=1&page=1",
-      "first_seen": "2026-10-17T19:34:33.819752+09:00",
-      "last_seen": "2026-10-18T02:02:27.138898+09:00",
-      "peak_score": 80.93,
-      "max_views": 20085,
-      "max_likes": 209,
-      "max_comments": 260,
-      "appearances": 5,
-      "score": 92.51,
-      "views": 20085,
-      "likes": 209,
-      "comments": 260,
-      "change": 54
-    },
-    {
-      "title": "AI 때문에 멘탈 나갔던 그림쟁이 근황",
-      "source": "디시인사이드",
-      "category": "이슈",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471072&_dcbest=1&page=1",
-      "first_seen": "2026-10-17T20:46:03.861557+09:00",
-      "last_seen": "2026-10-18T02:02:27.138898+09:00",
-      "peak_score": 80.07,
-      "max_views": 35060,
-      "max_likes": 189,
-      "max_comments": 348,
+      "max_views": 33906,
+      "max_likes": 130,
+      "max_comments": 263,
       "appearances": 4,
-      "score": 91.29,
-      "views": 35060,
-      "likes": 189,
-      "comments": 348,
-      "change": 60
-    },
-    {
-      "title": "해운대 포차에서 메뉴 4개에 20만원 나온 일본인 부부",
-      "source": "디시인사이드",
-      "category": "이슈",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471099&_dcbest=1&page=1",
-      "first_seen": "2026-10-17T22:54:05.634506+09:00",
-      "last_seen": "2026-10-18T02:02:27.138898+09:00",
-      "peak_score": 80.28,
-      "max_views": 18720,
-      "max_likes": 197,
-      "max_comments": 287,
-      "appearances": 3,
-      "score": 91.05,
-      "views": 18720,
-      "likes": 197,
-      "comments": 287,
-      "change": 61
+      "score": 93.35,
+      "views": 33906,
+      "likes": 130,
+      "comments": 263,
+      "change": -3
     }
   ],
   "rising": [
     {
-      "source": "루리웹",
-      "title": "[롯데온] 베키아에누보 치아바타 샌드위치 9개 (19,980원/무료)",
-      "url": "https://bbs.ruliweb.com/market/board/1020/read/108116",
-      "category": "이슈",
-      "views": 10881,
-      "likes": 13,
-      "comments": 5,
-      "score": 72.32,
-      "change": 21,
-      "current_rank": 12,
-      "new_entry": false,
-      "delta_views": 3944,
-      "delta_likes": 3,
-      "delta_comments": 3,
-      "rank_gain": 21,
-      "rising_score": 100.0,
-      "rising_rank": 1,
-      "window_minutes": 126
-    },
-    {
-      "source": "뽐뿌",
-      "title": "로드스터의 순기능",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=979870",
-      "category": "이슈",
-      "views": 11832,
-      "likes": 25,
-      "comments": 29,
-      "score": 52.57,
-      "change": 0,
-      "current_rank": 100,
-      "new_entry": false,
-      "delta_views": 7708,
-      "delta_likes": 17,
-      "delta_comments": 12,
-      "rank_gain": 0,
-      "rising_score": 100.0,
-      "rising_rank": 2,
-      "window_minutes": 126
-    },
-    {
       "source": "더쿠",
-      "title": "충격적인 싱가포르 1박에 7만원짜리 호텔 상태 ㄷㄷ",
-      "url": "https://theqoo.net/hot/4378795794",
-      "category": "이슈",
-      "views": 51649,
+      "title": "내향인들 플러팅 방법이래 ㅜㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+      "url": "https://theqoo.net/hot/4378867756",
+      "category": "유머",
+      "views": 16822,
       "likes": 0,
-      "comments": 254,
-      "score": 62.89,
-      "change": 0,
-      "current_rank": 41,
+      "comments": 223,
+      "score": 70.84,
+      "change": 10,
+      "current_rank": 20,
       "new_entry": false,
-      "delta_views": 37341,
+      "delta_views": 6494,
       "delta_likes": 0,
-      "delta_comments": 170,
+      "delta_comments": 79,
+      "rank_gain": 10,
+      "rising_score": 94.58,
+      "rising_rank": 1,
+      "window_minutes": 46
+    },
+    {
+      "source": "디시인사이드",
+      "title": "31살에 달리기 시작했는데 러닝계가 경악한 이유…JPG",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471143&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 7048,
+      "likes": 33,
+      "comments": 131,
+      "score": 70.56,
+      "change": 3,
+      "current_rank": 23,
+      "new_entry": false,
+      "delta_views": 3084,
+      "delta_likes": 11,
+      "delta_comments": 28,
+      "rank_gain": 3,
+      "rising_score": 91.75,
+      "rising_rank": 2,
+      "window_minutes": 46
+    },
+    {
+      "source": "클리앙",
+      "title": "정권을 내주고 싶어서 발버둥을 치는거 같네요.",
+      "url": "https://www.clien.net/service/board/park/19279161?od=T31&po=0&category=0&groupCd=",
+      "category": "이슈",
+      "views": 1872,
+      "likes": 0,
+      "comments": 17,
+      "score": 74.56,
+      "change": 0,
+      "current_rank": 10,
+      "new_entry": false,
+      "delta_views": 403,
+      "delta_likes": 0,
+      "delta_comments": 0,
       "rank_gain": 0,
       "rising_score": 87.5,
       "rising_rank": 3,
-      "window_minutes": 126
+      "window_minutes": 46
     },
     {
       "source": "디시인사이드",
-      "title": "최근 발표된 일본인들의 직계조상.jpg (충격주의)",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471117&_dcbest=1&page=1",
+      "title": "ㄱㄷ) 할머니가 밥주지 말라 엉엉 우는데도 원정다니는 캣맘",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471135&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 10806,
-      "likes": 115,
-      "comments": 414,
-      "score": 71.75,
+      "views": 5893,
+      "likes": 49,
+      "comments": 178,
+      "score": 67.74,
       "change": 0,
-      "current_rank": 13,
+      "current_rank": 29,
       "new_entry": false,
-      "delta_views": 5981,
-      "delta_likes": 54,
-      "delta_comments": 151,
+      "delta_views": 1196,
+      "delta_likes": 12,
+      "delta_comments": 19,
       "rank_gain": 0,
-      "rising_score": 86.45,
+      "rising_score": 83.5,
       "rising_rank": 4,
-      "window_minutes": 126
+      "window_minutes": 46
     },
     {
-      "source": "디시인사이드",
-      "title": "악플 많이 받은 최면어플 금수저 국제커플 결말",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471119&_dcbest=1&page=1",
+      "source": "뽐뿌",
+      "title": "한국에서 자취를 감춘 일본 가전기업.jpg",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10155689",
       "category": "이슈",
-      "views": 12795,
-      "likes": 87,
-      "comments": 185,
-      "score": 69.19,
-      "change": 8,
-      "current_rank": 18,
+      "views": 11877,
+      "likes": 1,
+      "comments": 42,
+      "score": 57.26,
+      "change": 6,
+      "current_rank": 73,
       "new_entry": false,
-      "delta_views": 7702,
-      "delta_likes": 43,
-      "delta_comments": 80,
-      "rank_gain": 8,
-      "rising_score": 85.41,
+      "delta_views": 3198,
+      "delta_likes": 0,
+      "delta_comments": 12,
+      "rank_gain": 6,
+      "rising_score": 82.97,
       "rising_rank": 5,
-      "window_minutes": 126
+      "window_minutes": 46
     },
     {
       "source": "루리웹",
-      "title": "베글에 올라온 주호민에게 고소당한 사람의 정체",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77061531?m=humor",
+      "title": "한국에서 자취를 감춘 일본 가전기업.jpg",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77061861?m=humor",
       "category": "이슈",
-      "views": 14972,
-      "likes": 197,
-      "comments": 83,
-      "score": 98.12,
+      "views": 19256,
+      "likes": 90,
+      "comments": 84,
+      "score": 96.88,
       "change": "NEW",
       "current_rank": 1,
       "new_entry": true,
@@ -335,18 +335,18 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 83.21,
+      "rising_score": 82.69,
       "rising_rank": 6,
-      "window_minutes": 126
+      "window_minutes": 46
     },
     {
       "source": "루리웹",
-      "title": "최근 옵치 유튜버들 사이에서 북미 유저들 취급",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77062511?m=humor",
+      "title": "이번 테슬라 라이브를 본 프랑스인의 한탄.jpg",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77060875?m=humor",
       "category": "이슈",
-      "views": 17588,
-      "likes": 161,
-      "comments": 104,
+      "views": 23168,
+      "likes": 109,
+      "comments": 107,
       "score": 96.61,
       "change": "NEW",
       "current_rank": 2,
@@ -357,17 +357,17 @@
       "rank_gain": 0,
       "rising_score": 82.58,
       "rising_rank": 7,
-      "window_minutes": 126
+      "window_minutes": 46
     },
     {
       "source": "루리웹",
-      "title": "헌터x헌터 헷갈리는 사람이 많은 설정 甲.JPG",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77062719?m=humor",
+      "title": "속보) 美, 러시아산 에너지 제재 전격 중단.jpg",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77062755?m=humor",
       "category": "이슈",
-      "views": 11579,
-      "likes": 81,
-      "comments": 105,
-      "score": 93.42,
+      "views": 14761,
+      "likes": 137,
+      "comments": 85,
+      "score": 93.84,
       "change": "NEW",
       "current_rank": 3,
       "new_entry": true,
@@ -375,52 +375,94 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 81.24,
+      "rising_score": 81.41,
       "rising_rank": 8,
-      "window_minutes": 126
-    },
-    {
-      "source": "디시인사이드",
-      "title": "의외로 법대로 하라고 하면 안되는 이유",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471121&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 19953,
-      "likes": 153,
-      "comments": 169,
-      "score": 75.88,
-      "change": 1,
-      "current_rank": 6,
-      "new_entry": false,
-      "delta_views": 6702,
-      "delta_likes": 68,
-      "delta_comments": 72,
-      "rank_gain": 1,
-      "rising_score": 80.1,
-      "rising_rank": 9,
-      "window_minutes": 126
+      "window_minutes": 46
     },
     {
       "source": "뽐뿌",
-      "title": "올해 선보인 현대 GV90 신기술",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=979817",
+      "title": "(속보) 프랑스 시위로 대통령 피신 및 무기상 약탈 ㄷ",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10155698",
       "category": "이슈",
-      "views": 19153,
-      "likes": 13,
-      "comments": 75,
-      "score": 80.7,
-      "change": "NEW",
-      "current_rank": 4,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 75.89,
+      "views": 7958,
+      "likes": 2,
+      "comments": 27,
+      "score": 64.84,
+      "change": 12,
+      "current_rank": 37,
+      "new_entry": false,
+      "delta_views": 3273,
+      "delta_likes": 2,
+      "delta_comments": 12,
+      "rank_gain": 12,
+      "rising_score": 80.82,
+      "rising_rank": 9,
+      "window_minutes": 46
+    },
+    {
+      "source": "뽐뿌",
+      "title": "추미애 도지사의 소방 발언 진실이랍니다.",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10155669",
+      "category": "이슈",
+      "views": 5103,
+      "likes": 26,
+      "comments": 51,
+      "score": 79.61,
+      "change": 3,
+      "current_rank": 6,
+      "new_entry": false,
+      "delta_views": 2673,
+      "delta_likes": 11,
+      "delta_comments": 25,
+      "rank_gain": 3,
+      "rising_score": 77.27,
       "rising_rank": 10,
-      "window_minutes": 126
+      "window_minutes": 46
     }
   ],
   "issues": [
+    {
+      "id": "i2c2766ed",
+      "title": "한국에서 자취를 감춘 일본 가전기업.jpg",
+      "keywords": [
+        "가전기업",
+        "한국에서",
+        "자취를",
+        "감춘",
+        "일본"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 114.35,
+      "peak_score": 104.88,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 1,
+          "title": "한국에서 자취를 감춘 일본 가전기업.jpg",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77061861?m=humor",
+          "score": 96.88
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 73,
+          "title": "한국에서 자취를 감춘 일본 가전기업.jpg",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10155689",
+          "score": 57.26
+        }
+      ],
+      "first_seen": "2026-10-18T02:48:33.752043+09:00",
+      "last_seen": "2026-10-18T02:48:33.752043+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 1,
+      "change": "NEW"
+    },
     {
       "id": "i4c8bdd1e",
       "title": "‘대한민국’ 관련 글이 여러 커뮤니티에서 화제",
@@ -456,8 +498,8 @@
       "last_seen": "2026-10-18T02:02:27.138898+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 1,
-      "change": "NEW"
+      "rank": 2,
+      "change": -1
     },
     {
       "id": "i9ff6bf96",
@@ -467,9 +509,9 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 82.33,
-      "peak_score": 72.86,
-      "appearances": 1,
+      "score": 87.92,
+      "peak_score": 76.43,
+      "appearances": 2,
       "sources": [
         "뽐뿌",
         "인벤"
@@ -477,57 +519,61 @@
       "posts": [
         {
           "source": "인벤",
-          "rank": 37,
+          "rank": 30,
           "title": "프랑스 시위가 심각해 보입니다",
           "url": "https://www.inven.co.kr/board/webzine/2097/2741653",
-          "score": 63.86
+          "score": 67.43
         },
         {
           "source": "뽐뿌",
-          "rank": 49,
+          "rank": 37,
           "title": "(속보) 프랑스 시위로 대통령 피신 및 무기상 약탈 ㄷ",
           "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10155698",
-          "score": 60.28
+          "score": 64.84
         }
       ],
       "first_seen": "2026-10-05T23:25:29.795675+09:00",
-      "last_seen": "2026-10-18T02:02:27.138898+09:00",
+      "last_seen": "2026-10-18T02:48:33.752043+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 2,
-      "change": "NEW"
+      "rank": 3,
+      "change": -1
     }
   ],
   "realtime_issues": [
     {
-      "id": "i4c8bdd1e",
-      "title": "‘대한민국’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i2c2766ed",
+      "title": "한국에서 자취를 감춘 일본 가전기업.jpg",
       "keywords": [
-        "대한민국"
+        "가전기업",
+        "한국에서",
+        "자취를",
+        "감춘",
+        "일본"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 79.13,
-      "peak_score": 79.13,
+      "score": 104.88,
+      "peak_score": 104.88,
       "appearances": 1,
       "sources": [
         "루리웹",
-        "인벤"
+        "뽐뿌"
       ],
       "posts": [
         {
-          "source": "인벤",
-          "rank": 16,
-          "title": "묵묵히 정의를 구현해나가는 대한민국 사법부",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2741654",
-          "score": 70.13
+          "source": "루리웹",
+          "rank": 1,
+          "title": "한국에서 자취를 감춘 일본 가전기업.jpg",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77061861?m=humor",
+          "score": 96.88
         },
         {
-          "source": "루리웹",
-          "rank": 51,
-          "title": "콜옵) 대한민국 이등병 전투력 수준",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77063655?m=humor_only&t=now",
-          "score": 60.17
+          "source": "뽐뿌",
+          "rank": 73,
+          "title": "한국에서 자취를 감춘 일본 가전기업.jpg",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10155689",
+          "score": 57.26
         }
       ],
       "rank": 1,
@@ -541,8 +587,8 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 72.86,
-      "peak_score": 72.86,
+      "score": 76.43,
+      "peak_score": 76.43,
       "appearances": 1,
       "sources": [
         "뽐뿌",
@@ -551,144 +597,149 @@
       "posts": [
         {
           "source": "인벤",
-          "rank": 37,
+          "rank": 30,
           "title": "프랑스 시위가 심각해 보입니다",
           "url": "https://www.inven.co.kr/board/webzine/2097/2741653",
-          "score": 63.86
+          "score": 67.43
         },
         {
           "source": "뽐뿌",
-          "rank": 49,
+          "rank": 37,
           "title": "(속보) 프랑스 시위로 대통령 피신 및 무기상 약탈 ㄷ",
           "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10155698",
-          "score": 60.28
+          "score": 64.84
         }
       ],
       "rank": 2,
-      "change": "NEW"
+      "change": 0
     }
   ],
   "keywords": [
     {
-      "keyword": "최근",
-      "score": 110.31,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 2,
+      "keyword": "일본",
+      "score": 130.16,
+      "post_count": 3,
+      "source_count": 3,
+      "best_rank": 1,
       "sources": [
         "디시인사이드",
-        "루리웹"
+        "루리웹",
+        "뽐뿌"
       ],
       "aliases": [],
       "rank": 1,
-      "change": "NEW"
+      "change": 9
     },
     {
-      "keyword": "올해",
-      "score": 102.9,
+      "keyword": "한국",
+      "score": 124.96,
+      "post_count": 3,
+      "source_count": 3,
+      "best_rank": 1,
+      "sources": [
+        "루리웹",
+        "뽐뿌",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 2,
+      "change": 9
+    },
+    {
+      "keyword": "쿠팡",
+      "score": 104.21,
       "post_count": 2,
       "source_count": 2,
       "best_rank": 4,
       "sources": [
-        "뽐뿌",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 2,
-      "change": "NEW"
-    },
-    {
-      "keyword": "결말",
-      "score": 99.57,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 15,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
+        "루리웹",
+        "뽐뿌"
       ],
       "aliases": [],
       "rank": 3,
       "change": "NEW"
     },
     {
-      "keyword": "대한민국",
-      "score": 93.84,
+      "keyword": "가전기업",
+      "score": 101.59,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 16,
+      "best_rank": 1,
       "sources": [
         "루리웹",
-        "인벤"
+        "뽐뿌"
       ],
-      "aliases": [],
+      "aliases": [
+        "감춘",
+        "자취"
+      ],
       "rank": 4,
       "change": "NEW"
     },
     {
-      "keyword": "싱가포르",
-      "score": 92.81,
+      "keyword": "올해",
+      "score": 100.01,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 23,
+      "best_rank": 5,
       "sources": [
-        "더쿠",
+        "뽐뿌",
         "클리앙"
       ],
       "aliases": [],
       "rank": 5,
-      "change": "NEW"
+      "change": -3
+    },
+    {
+      "keyword": "결말",
+      "score": 92.92,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 21,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "aliases": [],
+      "rank": 6,
+      "change": -3
     },
     {
       "keyword": "프랑스",
-      "score": 89.3,
+      "score": 92.72,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 37,
+      "best_rank": 30,
       "sources": [
         "뽐뿌",
         "인벤"
       ],
       "aliases": [],
-      "rank": 6,
-      "change": "NEW"
-    },
-    {
-      "keyword": "주식",
-      "score": 88.23,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 22,
-      "sources": [
-        "디시인사이드",
-        "뽐뿌"
-      ],
-      "aliases": [],
       "rank": 7,
-      "change": 6
+      "change": -1
     },
     {
-      "keyword": "느낌",
-      "score": 86.39,
+      "keyword": "싱가포르",
+      "score": 87.89,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 45,
+      "best_rank": 28,
       "sources": [
         "더쿠",
-        "루리웹"
+        "클리앙"
       ],
       "aliases": [],
       "rank": 8,
-      "change": "NEW"
+      "change": -3
     },
     {
-      "keyword": "국힘",
-      "score": 86.31,
+      "keyword": "최신",
+      "score": 87.53,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 34,
+      "best_rank": 41,
       "sources": [
-        "디시인사이드",
+        "루리웹",
         "클리앙"
       ],
       "aliases": [],
@@ -696,108 +747,108 @@
       "change": "NEW"
     },
     {
-      "keyword": "일본",
-      "score": 85.96,
+      "keyword": "주식",
+      "score": 87.34,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 32,
+      "best_rank": 27,
       "sources": [
         "디시인사이드",
         "뽐뿌"
       ],
       "aliases": [],
       "rank": 10,
-      "change": "NEW"
+      "change": -3
     },
     {
-      "keyword": "한국",
-      "score": 77.53,
+      "keyword": "국힘",
+      "score": 83.61,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 79,
+      "best_rank": 51,
       "sources": [
-        "뽐뿌",
-        "인벤"
+        "디시인사이드",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 11,
-      "change": "NEW"
+      "change": -2
     },
     {
       "keyword": "트리플에스",
-      "score": 67.94,
+      "score": 69.25,
       "post_count": 3,
       "source_count": 1,
-      "best_rank": 21,
+      "best_rank": 14,
       "sources": [
         "인벤"
       ],
       "aliases": [],
       "rank": 12,
-      "change": "NEW"
+      "change": 0
     },
     {
       "keyword": "르세라핌",
-      "score": 66.1,
+      "score": 67.04,
       "post_count": 3,
       "source_count": 1,
-      "best_rank": 57,
+      "best_rank": 48,
       "sources": [
         "인벤"
       ],
       "aliases": [],
       "rank": 13,
-      "change": "NEW"
+      "change": 0
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "베글에 올라온 주호민에게 고소당한 사람의 정체",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77061531?m=humor",
-      "score": 98.12,
-      "views": 14972,
-      "comments": 83
+      "title": "한국에서 자취를 감춘 일본 가전기업.jpg",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77061861?m=humor",
+      "score": 96.88,
+      "views": 19256,
+      "comments": 84
     },
     {
       "source": "뽐뿌",
       "title": "올해 선보인 현대 GV90 신기술",
       "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=979817",
-      "score": 80.7,
-      "views": 19153,
-      "comments": 75
+      "score": 80.89,
+      "views": 20975,
+      "comments": 77
     },
     {
       "source": "디시인사이드",
       "title": "의외로 법대로 하라고 하면 안되는 이유",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471121&_dcbest=1&page=1",
-      "score": 75.88,
-      "views": 19953,
-      "comments": 169
+      "score": 77.11,
+      "views": 21143,
+      "comments": 178
     },
     {
       "source": "클리앙",
       "title": "정권을 내주고 싶어서 발버둥을 치는거 같네요.",
       "url": "https://www.clien.net/service/board/park/19279161?od=T31&po=0&category=0&groupCd=",
-      "score": 75.29,
-      "views": 1469,
+      "score": 74.56,
+      "views": 1872,
       "comments": 17
     },
     {
       "source": "더쿠",
-      "title": "입원했던 사람만 알고있는 병원 새벽분위기.jpg",
-      "url": "https://theqoo.net/hot/4378833587",
-      "score": 74.68,
-      "views": 36088,
-      "comments": 219
+      "title": "진짜 정 떨어진다는 요즘 치킨 가격 근황…JPG",
+      "url": "https://theqoo.net/hot/4378838345",
+      "score": 73.53,
+      "views": 31342,
+      "comments": 269
     },
     {
       "source": "인벤",
-      "title": "묵묵히 정의를 구현해나가는 대한민국 사법부",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2741654",
-      "score": 70.13,
-      "views": 1114,
-      "comments": 7
+      "title": "교복 김채연 (트리플에스)",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2741667",
+      "score": 72.4,
+      "views": 791,
+      "comments": 0
     }
   ]
 }

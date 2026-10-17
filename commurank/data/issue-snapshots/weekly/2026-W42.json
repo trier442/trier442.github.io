@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W42",
   "label": "2026.10.12 ~ 10.18",
-  "collected_at": "2026-10-18T02:02:27.138898+09:00",
+  "collected_at": "2026-10-18T02:48:33.752043+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -310,6 +310,46 @@
       "change": 0
     },
     {
+      "id": "i9ff6bf96",
+      "title": "‘프랑스’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "프랑스"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 120.14,
+      "peak_score": 105.18,
+      "appearances": 5,
+      "sources": [
+        "디시인사이드",
+        "루리웹",
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 30,
+          "title": "프랑스 시위가 심각해 보입니다",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2741653",
+          "score": 67.43
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 37,
+          "title": "(속보) 프랑스 시위로 대통령 피신 및 무기상 약탈 ㄷ",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10155698",
+          "score": 64.84
+        }
+      ],
+      "first_seen": "2026-10-05T23:25:29.795675+09:00",
+      "last_seen": "2026-10-18T02:48:33.752043+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 7,
+      "change": 2
+    },
+    {
       "id": "ibef4b4bc",
       "title": "‘무서운’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -346,8 +386,8 @@
       "last_seen": "2026-10-15T08:52:43.582251+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": 0
+      "rank": 8,
+      "change": -1
     },
     {
       "id": "i82773ad8",
@@ -384,48 +424,8 @@
       "last_seen": "2026-10-15T14:13:47.790939+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 8,
-      "change": 0
-    },
-    {
-      "id": "i9ff6bf96",
-      "title": "‘프랑스’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "프랑스"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 119.23,
-      "peak_score": 105.18,
-      "appearances": 4,
-      "sources": [
-        "디시인사이드",
-        "루리웹",
-        "뽐뿌",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 37,
-          "title": "프랑스 시위가 심각해 보입니다",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2741653",
-          "score": 63.86
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 49,
-          "title": "(속보) 프랑스 시위로 대통령 피신 및 무기상 약탈 ㄷ",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10155698",
-          "score": 60.28
-        }
-      ],
-      "first_seen": "2026-10-05T23:25:29.795675+09:00",
-      "last_seen": "2026-10-18T02:02:27.138898+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 9,
-      "change": 2
+      "change": -1
     },
     {
       "id": "i039fd79c",
@@ -465,7 +465,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 10,
-      "change": -1
+      "change": 0
     },
     {
       "id": "ifd5a2cc3",
@@ -503,7 +503,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 11,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i7f48cc7a",
@@ -820,43 +820,46 @@
       "change": 0
     },
     {
-      "id": "i1b672c00",
-      "title": "‘치이카와’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i2c2766ed",
+      "title": "한국에서 자취를 감춘 일본 가전기업.jpg",
       "keywords": [
-        "치이카와"
+        "가전기업",
+        "한국에서",
+        "자취를",
+        "감춘",
+        "일본"
       ],
       "source_count": 2,
-      "post_count": 3,
-      "score": 113.87,
-      "peak_score": 99.94,
-      "appearances": 3,
+      "post_count": 2,
+      "score": 114.35,
+      "peak_score": 104.88,
+      "appearances": 1,
       "sources": [
-        "더쿠",
-        "디시인사이드",
-        "루리웹"
+        "루리웹",
+        "뽐뿌"
       ],
       "posts": [
         {
-          "source": "디시인사이드",
-          "rank": 19,
-          "title": "주둥이 치이카와 논란 결말",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470902&_dcbest=1&page=1",
-          "score": 69.1
+          "source": "루리웹",
+          "rank": 1,
+          "title": "한국에서 자취를 감춘 일본 가전기업.jpg",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77061861?m=humor",
+          "score": 96.88
         },
         {
-          "source": "루리웹",
-          "rank": 99,
-          "title": "치이카와)미쳤냐고!!!!!!",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77054407?m=humor_only&t=now",
-          "score": 51.26
+          "source": "뽐뿌",
+          "rank": 73,
+          "title": "한국에서 자취를 감춘 일본 가전기업.jpg",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10155689",
+          "score": 57.26
         }
       ],
-      "first_seen": "2026-10-08T12:01:09.196787+09:00",
-      "last_seen": "2026-10-17T10:29:38.397115+09:00",
+      "first_seen": "2026-10-18T02:48:33.752043+09:00",
+      "last_seen": "2026-10-18T02:48:33.752043+09:00",
       "latest_source_count": 2,
-      "latest_post_count": 3,
+      "latest_post_count": 2,
       "rank": 20,
-      "change": 0
+      "change": "NEW"
     }
   ]
 }
