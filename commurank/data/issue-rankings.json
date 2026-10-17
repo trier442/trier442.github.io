@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-10-18T07:17:34.921951+09:00",
+  "collected_at": "2026-10-18T08:21:29.404844+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -12,153 +12,101 @@
     "realtime": [
       {
         "id": "i9ff6bf96",
-        "title": "프랑스 시위 근황",
+        "title": "‘프랑스’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "프랑스",
-          "시위",
-          "시위가"
+          "프랑스"
         ],
         "source_count": 4,
-        "post_count": 6,
-        "score": 97.2,
-        "peak_score": 97.2,
+        "post_count": 5,
+        "score": 99.76,
+        "peak_score": 99.76,
         "appearances": 1,
         "sources": [
           "더쿠",
           "디시인사이드",
-          "인벤",
+          "뽐뿌",
           "클리앙"
         ],
         "posts": [
           {
             "source": "클리앙",
-            "rank": 27,
-            "title": "프랑스 시위 근황",
-            "url": "https://www.clien.net/service/board/park/19279178?od=T31&po=0&category=0&groupCd=",
-            "score": 71.2
+            "rank": 13,
+            "title": "프랑스 시위보고 복지 과잉때문이라는;;",
+            "url": "https://www.clien.net/service/board/park/19279192?od=T31&po=0&category=0&groupCd=",
+            "score": 73.76
           },
           {
             "source": "더쿠",
-            "rank": 45,
+            "rank": 16,
             "title": "다 털리고 있는 프랑스 상태",
             "url": "https://theqoo.net/hot/4378920733",
-            "score": 65.84
+            "score": 71.68
           },
           {
-            "source": "인벤",
-            "rank": 59,
-            "title": "프랑스 시위가 심각해 보입니다",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2741653",
-            "score": 62.43
+            "source": "뽐뿌",
+            "rank": 25,
+            "title": "(속보) 프랑스 시위로 대통령 피신 및 무기상 약탈 ㄷ",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10155698",
+            "score": 67.56
           },
           {
             "source": "디시인사이드",
-            "rank": 73,
+            "rank": 88,
             "title": "프랑스 마트 700곳 냉장설비 해킹…온도 50도",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471150&_dcbest=1&page=1",
-            "score": 59.16
-          },
-          {
-            "source": "인벤",
-            "rank": 93,
-            "title": "프랑스 주말 또 대규모 시위...'제2 노란 조끼'로 번지나 / YTN",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2741669",
-            "score": 52.13
-          },
-          {
-            "source": "클리앙",
-            "rank": 74,
-            "title": "프랑스 시위가 날로 격화되고 있네요.",
-            "url": "https://www.clien.net/service/board/park/19279173?od=T31&po=0&category=0&groupCd=",
-            "score": 58.82
+            "score": 53.4
           }
         ],
         "rank": 1,
         "change": 0
       },
       {
-        "id": "ib19f68fa",
-        "title": "‘추미애’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i1987cdff",
+        "title": "‘아일릿’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "추미애"
+          "아일릿"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 81.7,
-        "peak_score": 81.7,
+        "score": 86.84,
+        "peak_score": 86.84,
         "appearances": 1,
         "sources": [
-          "뽐뿌",
+          "더쿠",
           "인벤"
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 17,
-            "title": "추미애 소방 관련 집중 타겟. 누구짓일까?",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2741678",
-            "score": 72.7
+            "source": "더쿠",
+            "rank": 8,
+            "title": "아일릿 신곡 공개되고 불거진 논란",
+            "url": "https://theqoo.net/hot/4378927387",
+            "score": 77.84
           },
           {
-            "source": "뽐뿌",
-            "rank": 100,
-            "title": "추미애 도지사의 소방 발언 진실이랍니다.",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10155669",
-            "score": 50.57
+            "source": "인벤",
+            "rank": 76,
+            "title": "아일릿 원희",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2741684",
+            "score": 56.63
           }
         ],
         "rank": 2,
-        "change": 0
-      },
-      {
-        "id": "i54cc5255",
-        "title": "‘마지막’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "마지막"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 75.1,
-        "peak_score": 75.1,
-        "appearances": 1,
-        "sources": [
-          "뽐뿌",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 41,
-            "title": "어제 안원잘부 마지막 엔딩 장면",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2741658",
-            "score": 66.1
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 60,
-            "title": "KBO 구단별 마지막 우승 년도 ㄷㄷ.jpg",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=sports&no=155038",
-            "score": 62.31
-          }
-        ],
-        "rank": 3,
         "change": "NEW"
       }
     ],
     "daily": [
       {
         "id": "i9ff6bf96",
-        "title": "프랑스 시위 근황",
+        "title": "‘프랑스’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "프랑스",
-          "시위",
-          "시위가"
+          "프랑스"
         ],
         "source_count": 4,
         "post_count": 6,
-        "score": 124.93,
-        "peak_score": 97.2,
-        "appearances": 6,
+        "score": 128.16,
+        "peak_score": 99.76,
+        "appearances": 7,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -169,51 +117,37 @@
         "posts": [
           {
             "source": "클리앙",
-            "rank": 27,
-            "title": "프랑스 시위 근황",
-            "url": "https://www.clien.net/service/board/park/19279178?od=T31&po=0&category=0&groupCd=",
-            "score": 71.2
+            "rank": 13,
+            "title": "프랑스 시위보고 복지 과잉때문이라는;;",
+            "url": "https://www.clien.net/service/board/park/19279192?od=T31&po=0&category=0&groupCd=",
+            "score": 73.76
           },
           {
             "source": "더쿠",
-            "rank": 45,
+            "rank": 16,
             "title": "다 털리고 있는 프랑스 상태",
             "url": "https://theqoo.net/hot/4378920733",
-            "score": 65.84
+            "score": 71.68
           },
           {
-            "source": "인벤",
-            "rank": 59,
-            "title": "프랑스 시위가 심각해 보입니다",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2741653",
-            "score": 62.43
+            "source": "뽐뿌",
+            "rank": 25,
+            "title": "(속보) 프랑스 시위로 대통령 피신 및 무기상 약탈 ㄷ",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10155698",
+            "score": 67.56
           },
           {
             "source": "디시인사이드",
-            "rank": 73,
+            "rank": 88,
             "title": "프랑스 마트 700곳 냉장설비 해킹…온도 50도",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471150&_dcbest=1&page=1",
-            "score": 59.16
-          },
-          {
-            "source": "인벤",
-            "rank": 93,
-            "title": "프랑스 주말 또 대규모 시위...'제2 노란 조끼'로 번지나 / YTN",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2741669",
-            "score": 52.13
-          },
-          {
-            "source": "클리앙",
-            "rank": 74,
-            "title": "프랑스 시위가 날로 격화되고 있네요.",
-            "url": "https://www.clien.net/service/board/park/19279173?od=T31&po=0&category=0&groupCd=",
-            "score": 58.82
+            "score": 53.4
           }
         ],
         "first_seen": "2026-10-05T23:25:29.795675+09:00",
-        "last_seen": "2026-10-18T07:17:34.921951+09:00",
+        "last_seen": "2026-10-18T08:21:29.404844+09:00",
         "latest_source_count": 4,
-        "latest_post_count": 6,
+        "latest_post_count": 5,
         "rank": 1,
         "change": 0
       },
@@ -298,6 +232,44 @@
         "change": 0
       },
       {
+        "id": "i1987cdff",
+        "title": "‘아일릿’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "아일릿"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 96.31,
+        "peak_score": 86.84,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "더쿠",
+            "rank": 8,
+            "title": "아일릿 신곡 공개되고 불거진 논란",
+            "url": "https://theqoo.net/hot/4378927387",
+            "score": 77.84
+          },
+          {
+            "source": "인벤",
+            "rank": 76,
+            "title": "아일릿 원희",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2741684",
+            "score": 56.63
+          }
+        ],
+        "first_seen": "2026-10-18T08:21:29.404844+09:00",
+        "last_seen": "2026-10-18T08:21:29.404844+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 4,
+        "change": "NEW"
+      },
+      {
         "id": "ib19f68fa",
         "title": "‘추미애’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -332,8 +304,8 @@
         "last_seen": "2026-10-18T07:17:34.921951+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 4,
-        "change": 0
+        "rank": 5,
+        "change": -1
       },
       {
         "id": "i4c8bdd1e",
@@ -370,8 +342,8 @@
         "last_seen": "2026-10-18T02:02:27.138898+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 5,
-        "change": 0
+        "rank": 6,
+        "change": -1
       },
       {
         "id": "i54cc5255",
@@ -408,24 +380,22 @@
         "last_seen": "2026-10-18T07:17:34.921951+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 6,
-        "change": "NEW"
+        "rank": 7,
+        "change": -1
       }
     ],
     "weekly": [
       {
         "id": "i9ff6bf96",
-        "title": "프랑스 시위 근황",
+        "title": "‘프랑스’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "프랑스",
-          "시위",
-          "시위가"
+          "프랑스"
         ],
         "source_count": 4,
         "post_count": 6,
-        "score": 134.69,
+        "score": 135.17,
         "peak_score": 105.18,
-        "appearances": 9,
+        "appearances": 10,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -437,51 +407,37 @@
         "posts": [
           {
             "source": "클리앙",
-            "rank": 27,
-            "title": "프랑스 시위 근황",
-            "url": "https://www.clien.net/service/board/park/19279178?od=T31&po=0&category=0&groupCd=",
-            "score": 71.2
+            "rank": 13,
+            "title": "프랑스 시위보고 복지 과잉때문이라는;;",
+            "url": "https://www.clien.net/service/board/park/19279192?od=T31&po=0&category=0&groupCd=",
+            "score": 73.76
           },
           {
             "source": "더쿠",
-            "rank": 45,
+            "rank": 16,
             "title": "다 털리고 있는 프랑스 상태",
             "url": "https://theqoo.net/hot/4378920733",
-            "score": 65.84
+            "score": 71.68
           },
           {
-            "source": "인벤",
-            "rank": 59,
-            "title": "프랑스 시위가 심각해 보입니다",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2741653",
-            "score": 62.43
+            "source": "뽐뿌",
+            "rank": 25,
+            "title": "(속보) 프랑스 시위로 대통령 피신 및 무기상 약탈 ㄷ",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10155698",
+            "score": 67.56
           },
           {
             "source": "디시인사이드",
-            "rank": 73,
+            "rank": 88,
             "title": "프랑스 마트 700곳 냉장설비 해킹…온도 50도",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471150&_dcbest=1&page=1",
-            "score": 59.16
-          },
-          {
-            "source": "인벤",
-            "rank": 93,
-            "title": "프랑스 주말 또 대규모 시위...'제2 노란 조끼'로 번지나 / YTN",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2741669",
-            "score": 52.13
-          },
-          {
-            "source": "클리앙",
-            "rank": 74,
-            "title": "프랑스 시위가 날로 격화되고 있네요.",
-            "url": "https://www.clien.net/service/board/park/19279173?od=T31&po=0&category=0&groupCd=",
-            "score": 58.82
+            "score": 53.4
           }
         ],
         "first_seen": "2026-10-05T23:25:29.795675+09:00",
-        "last_seen": "2026-10-18T07:17:34.921951+09:00",
+        "last_seen": "2026-10-18T08:21:29.404844+09:00",
         "latest_source_count": 4,
-        "latest_post_count": 6,
+        "latest_post_count": 5,
         "rank": 1,
         "change": 0
       },
@@ -1304,17 +1260,15 @@
     "monthly": [
       {
         "id": "i9ff6bf96",
-        "title": "프랑스 시위 근황",
+        "title": "‘프랑스’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "프랑스",
-          "시위",
-          "시위가"
+          "프랑스"
         ],
         "source_count": 4,
         "post_count": 6,
-        "score": 147.11,
+        "score": 147.45,
         "peak_score": 115.91,
-        "appearances": 13,
+        "appearances": 14,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -1326,51 +1280,37 @@
         "posts": [
           {
             "source": "클리앙",
-            "rank": 27,
-            "title": "프랑스 시위 근황",
-            "url": "https://www.clien.net/service/board/park/19279178?od=T31&po=0&category=0&groupCd=",
-            "score": 71.2
+            "rank": 13,
+            "title": "프랑스 시위보고 복지 과잉때문이라는;;",
+            "url": "https://www.clien.net/service/board/park/19279192?od=T31&po=0&category=0&groupCd=",
+            "score": 73.76
           },
           {
             "source": "더쿠",
-            "rank": 45,
+            "rank": 16,
             "title": "다 털리고 있는 프랑스 상태",
             "url": "https://theqoo.net/hot/4378920733",
-            "score": 65.84
+            "score": 71.68
           },
           {
-            "source": "인벤",
-            "rank": 59,
-            "title": "프랑스 시위가 심각해 보입니다",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2741653",
-            "score": 62.43
+            "source": "뽐뿌",
+            "rank": 25,
+            "title": "(속보) 프랑스 시위로 대통령 피신 및 무기상 약탈 ㄷ",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10155698",
+            "score": 67.56
           },
           {
             "source": "디시인사이드",
-            "rank": 73,
+            "rank": 88,
             "title": "프랑스 마트 700곳 냉장설비 해킹…온도 50도",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471150&_dcbest=1&page=1",
-            "score": 59.16
-          },
-          {
-            "source": "인벤",
-            "rank": 93,
-            "title": "프랑스 주말 또 대규모 시위...'제2 노란 조끼'로 번지나 / YTN",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2741669",
-            "score": 52.13
-          },
-          {
-            "source": "클리앙",
-            "rank": 74,
-            "title": "프랑스 시위가 날로 격화되고 있네요.",
-            "url": "https://www.clien.net/service/board/park/19279173?od=T31&po=0&category=0&groupCd=",
-            "score": 58.82
+            "score": 53.4
           }
         ],
         "first_seen": "2026-10-05T23:25:29.795675+09:00",
-        "last_seen": "2026-10-18T07:17:34.921951+09:00",
+        "last_seen": "2026-10-18T08:21:29.404844+09:00",
         "latest_source_count": 4,
-        "latest_post_count": 6,
+        "latest_post_count": 5,
         "rank": 1,
         "change": 0
       },
