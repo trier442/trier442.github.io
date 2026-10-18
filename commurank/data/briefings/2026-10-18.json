@@ -2,7 +2,7 @@
   "version": 1,
   "date": "2026-10-18",
   "label": "2026년 10월 18일",
-  "collected_at": "2026-10-18T08:21:29.404844+09:00",
+  "collected_at": "2026-10-18T09:09:04.142556+09:00",
   "timezone": "Asia/Seoul",
   "overview": "오늘 가장 두드러진 이슈는 ‘‘프랑스’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #프랑스. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
@@ -12,9 +12,9 @@
     "realtime_posts": 100,
     "daily_posts": 100,
     "daily_issues": 7,
-    "keywords": 13,
-    "top100_views": 977517,
-    "top100_comments": 9522
+    "keywords": 12,
+    "top100_views": 1064428,
+    "top100_comments": 9429
   },
   "highlights": [
     {
@@ -25,9 +25,9 @@
     },
     {
       "type": "post",
-      "title": "베글에 올라온 주호민에게 고소당한 사람의 정체",
+      "title": "버미육인거 숨기고 방송하던 버튜버 스스로 공개",
       "text": "루리웹에서 현재 상위권에 오른 인기글입니다.",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77061531?m=humor"
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77063900?m=humor"
     },
     {
       "type": "keyword",
@@ -37,6 +37,24 @@
     }
   ],
   "top_posts": [
+    {
+      "title": "버미육인거 숨기고 방송하던 버튜버 스스로 공개",
+      "source": "루리웹",
+      "category": "연예",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77063900?m=humor",
+      "first_seen": "2026-10-18T07:17:34.921951+09:00",
+      "last_seen": "2026-10-18T09:09:04.142556+09:00",
+      "peak_score": 98.12,
+      "max_views": 17631,
+      "max_likes": 138,
+      "max_comments": 53,
+      "appearances": 2,
+      "score": 108.32,
+      "views": 17631,
+      "likes": 138,
+      "comments": 53,
+      "change": 9
+    },
     {
       "title": "베글에 올라온 주호민에게 고소당한 사람의 정체",
       "source": "루리웹",
@@ -49,11 +67,11 @@
       "max_likes": 197,
       "max_comments": 83,
       "appearances": 2,
-      "score": 107.79,
+      "score": 107.72,
       "views": 14972,
       "likes": 197,
       "comments": 83,
-      "change": 0
+      "change": -1
     },
     {
       "title": "가짜 겜덕과 정도 겜덕의 차이",
@@ -67,10 +85,46 @@
       "max_likes": 64,
       "max_comments": 68,
       "appearances": 2,
-      "score": 107.75,
+      "score": 107.69,
       "views": 9688,
       "likes": 64,
       "comments": 68,
+      "change": -1
+    },
+    {
+      "title": "자칭 셰프의 스테이크 굽기",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77063898?m=humor",
+      "first_seen": "2026-10-18T07:17:34.921951+09:00",
+      "last_seen": "2026-10-18T09:09:04.142556+09:00",
+      "peak_score": 97.29,
+      "max_views": 14510,
+      "max_likes": 69,
+      "max_comments": 46,
+      "appearances": 2,
+      "score": 107.49,
+      "views": 14510,
+      "likes": 69,
+      "comments": 46,
+      "change": 2
+    },
+    {
+      "title": "소돔과 고모라가 이런거구나",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77064105?m=humor",
+      "first_seen": "2026-10-18T08:21:29.404844+09:00",
+      "last_seen": "2026-10-18T09:09:04.142556+09:00",
+      "peak_score": 97.27,
+      "max_views": 9428,
+      "max_likes": 58,
+      "max_comments": 56,
+      "appearances": 2,
+      "score": 107.47,
+      "views": 9428,
+      "likes": 58,
+      "comments": 56,
       "change": 0
     },
     {
@@ -85,11 +139,11 @@
       "max_likes": 181,
       "max_comments": 112,
       "appearances": 2,
-      "score": 106.95,
+      "score": 106.88,
       "views": 22288,
       "likes": 181,
       "comments": 112,
-      "change": 0
+      "change": -3
     },
     {
       "title": "헌터x헌터 헷갈리는 사람이 많은 설정 甲.JPG",
@@ -103,47 +157,11 @@
       "max_likes": 83,
       "max_comments": 108,
       "appearances": 2,
-      "score": 106.81,
+      "score": 106.74,
       "views": 14088,
       "likes": 83,
       "comments": 108,
-      "change": 0
-    },
-    {
-      "title": "소돔과 고모라가 이런거구나",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77064105?m=humor",
-      "first_seen": "2026-10-18T08:21:29.404844+09:00",
-      "last_seen": "2026-10-18T08:21:29.404844+09:00",
-      "peak_score": 97.27,
-      "max_views": 9428,
-      "max_likes": 58,
-      "max_comments": 56,
-      "appearances": 1,
-      "score": 106.66,
-      "views": 9428,
-      "likes": 58,
-      "comments": 56,
-      "change": "NEW"
-    },
-    {
-      "title": "자칭 셰프의 스테이크 굽기",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77063898?m=humor",
-      "first_seen": "2026-10-18T07:17:34.921951+09:00",
-      "last_seen": "2026-10-18T07:17:34.921951+09:00",
-      "peak_score": 97.29,
-      "max_views": 12729,
-      "max_likes": 65,
-      "max_comments": 45,
-      "appearances": 1,
-      "score": 106.59,
-      "views": 12729,
-      "likes": 65,
-      "comments": 45,
-      "change": -1
+      "change": -3
     },
     {
       "title": "2300억원 투자받았다는 기업가치 1조 국산 AI 근황",
@@ -157,11 +175,11 @@
       "max_likes": 93,
       "max_comments": 61,
       "appearances": 1,
-      "score": 106.41,
+      "score": 106.34,
       "views": 18494,
       "likes": 93,
       "comments": 61,
-      "change": "NEW"
+      "change": -1
     },
     {
       "title": "이번 테슬라 라이브를 본 프랑스인의 한탄.jpg",
@@ -175,11 +193,11 @@
       "max_likes": 109,
       "max_comments": 107,
       "appearances": 2,
-      "score": 106.34,
+      "score": 106.28,
       "views": 23168,
       "likes": 109,
       "comments": 107,
-      "change": -2
+      "change": -1
     },
     {
       "title": "죠죠보고 호모만화라고 하는 놈들 특징;;;",
@@ -193,161 +211,163 @@
       "max_likes": 86,
       "max_comments": 60,
       "appearances": 1,
-      "score": 106.27,
+      "score": 106.2,
       "views": 12019,
       "likes": 86,
       "comments": 60,
-      "change": -2
-    },
-    {
-      "title": "버미육인거 숨기고 방송하던 버튜버 스스로 공개",
-      "source": "루리웹",
-      "category": "연예",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77063900?m=humor",
-      "first_seen": "2026-10-18T07:17:34.921951+09:00",
-      "last_seen": "2026-10-18T07:17:34.921951+09:00",
-      "peak_score": 96.61,
-      "max_views": 15312,
-      "max_likes": 129,
-      "max_comments": 53,
-      "appearances": 1,
-      "score": 105.91,
-      "views": 15312,
-      "likes": 129,
-      "comments": 53,
-      "change": -2
+      "change": -1
     }
   ],
   "rising": [
     {
-      "source": "뽐뿌",
-      "title": "이슬람 성지 메카에서 성관계한 커플, 즉시 사형 ㄷㄷ.jpg",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10155691",
+      "source": "디시인사이드",
+      "title": "한국인과 일본인의 숨막히는 대결.jpg",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471156&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 32387,
-      "likes": 13,
-      "comments": 85,
-      "score": 56.39,
+      "views": 6859,
+      "likes": 109,
+      "comments": 147,
+      "score": 69.92,
       "change": 0,
-      "current_rank": 80,
+      "current_rank": 24,
       "new_entry": false,
-      "delta_views": 7630,
-      "delta_likes": 4,
-      "delta_comments": 13,
+      "delta_views": 2671,
+      "delta_likes": 21,
+      "delta_comments": 72,
       "rank_gain": 0,
-      "rising_score": 100.0,
+      "rising_score": 96.55,
       "rising_rank": 1,
-      "window_minutes": 64
+      "window_minutes": 48
     },
     {
       "source": "디시인사이드",
-      "title": "의외의외 편식의 범주에 들어가는 것",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471152&_dcbest=1&page=1",
+      "title": "요즘 인기 많다는 진주시 마스코트",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471164&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 3433,
-      "likes": 24,
-      "comments": 77,
-      "score": 60.91,
-      "change": 10,
-      "current_rank": 54,
+      "views": 3299,
+      "likes": 29,
+      "comments": 76,
+      "score": 65.98,
+      "change": 24,
+      "current_rank": 29,
       "new_entry": false,
-      "delta_views": 2267,
-      "delta_likes": 17,
-      "delta_comments": 46,
-      "rank_gain": 10,
-      "rising_score": 95.63,
+      "delta_views": 2541,
+      "delta_likes": 24,
+      "delta_comments": 52,
+      "rank_gain": 24,
+      "rising_score": 92.95,
       "rising_rank": 2,
-      "window_minutes": 64
+      "window_minutes": 48
+    },
+    {
+      "source": "인벤",
+      "title": "7년 전 한 말을 아무도 안믿음",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2741688",
+      "category": "이슈",
+      "views": 3568,
+      "likes": 0,
+      "comments": 15,
+      "score": 82.84,
+      "change": 0,
+      "current_rank": 6,
+      "new_entry": false,
+      "delta_views": 1772,
+      "delta_likes": 0,
+      "delta_comments": 8,
+      "rank_gain": 0,
+      "rising_score": 91.69,
+      "rising_rank": 3,
+      "window_minutes": 48
+    },
+    {
+      "source": "더쿠",
+      "title": "새벽 조깅도 안전 나라? 여성들이 가장 많이 죽는 상황이 이겁니다.",
+      "url": "https://theqoo.net/hot/4378939155",
+      "category": "이슈",
+      "views": 24772,
+      "likes": 0,
+      "comments": 136,
+      "score": 71.0,
+      "change": 23,
+      "current_rank": 19,
+      "new_entry": false,
+      "delta_views": 17526,
+      "delta_likes": 0,
+      "delta_comments": 75,
+      "rank_gain": 23,
+      "rising_score": 88.31,
+      "rising_rank": 4,
+      "window_minutes": 48
     },
     {
       "source": "클리앙",
-      "title": "30대 후반이 느끼는 부동산과 자산 격차",
-      "url": "https://www.clien.net/service/board/park/19279181?od=T31&po=0&category=0&groupCd=",
+      "title": "국민연금 3분기 손실 182조, 이 중 삼하닉 72%",
+      "url": "https://www.clien.net/service/board/park/19279196?od=T31&po=0&category=0&groupCd=",
       "category": "이슈",
-      "views": 3392,
-      "likes": 5,
-      "comments": 20,
-      "score": 72.28,
-      "change": 0,
-      "current_rank": 15,
+      "views": 2023,
+      "likes": 8,
+      "comments": 17,
+      "score": 75.97,
+      "change": 43,
+      "current_rank": 12,
       "new_entry": false,
-      "delta_views": 2045,
-      "delta_likes": 3,
-      "delta_comments": 12,
-      "rank_gain": 0,
-      "rising_score": 89.76,
-      "rising_rank": 3,
-      "window_minutes": 64
-    },
-    {
-      "source": "디시인사이드",
-      "title": "31살에 달리기 시작했는데 러닝계가 경악한 이유…JPG",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471143&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 18988,
-      "likes": 68,
-      "comments": 226,
-      "score": 71.56,
-      "change": 0,
-      "current_rank": 17,
-      "new_entry": false,
-      "delta_views": 2471,
-      "delta_likes": 11,
-      "delta_comments": 11,
-      "rank_gain": 0,
-      "rising_score": 87.38,
-      "rising_rank": 4,
-      "window_minutes": 64
+      "delta_views": 2005,
+      "delta_likes": 8,
+      "delta_comments": 17,
+      "rank_gain": 43,
+      "rising_score": 85.14,
+      "rising_rank": 5,
+      "window_minutes": 48
     },
     {
       "source": "더쿠",
       "title": "아일릿 신곡 공개되고 불거진 논란",
       "url": "https://theqoo.net/hot/4378927387",
       "category": "이슈",
-      "views": 25775,
+      "views": 39297,
       "likes": 0,
-      "comments": 361,
-      "score": 77.84,
-      "change": 35,
-      "current_rank": 8,
+      "comments": 564,
+      "score": 84.84,
+      "change": 3,
+      "current_rank": 5,
       "new_entry": false,
-      "delta_views": 13473,
+      "delta_views": 13522,
       "delta_likes": 0,
-      "delta_comments": 198,
-      "rank_gain": 35,
-      "rising_score": 85.75,
-      "rising_rank": 5,
-      "window_minutes": 64
+      "delta_comments": 203,
+      "rank_gain": 3,
+      "rising_score": 84.71,
+      "rising_rank": 6,
+      "window_minutes": 48
     },
     {
-      "source": "인벤",
-      "title": "우리는 왜 게임에서도 정답을 찾으려고 할까?",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2741675",
-      "category": "게임",
-      "views": 2889,
-      "likes": 12,
-      "comments": 23,
-      "score": 75.64,
-      "change": 40,
-      "current_rank": 11,
+      "source": "디시인사이드",
+      "title": "31살에 달리기 시작했는데 러닝계가 경악한 이유…JPG",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471143&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 21056,
+      "likes": 79,
+      "comments": 242,
+      "score": 70.28,
+      "change": 0,
+      "current_rank": 22,
       "new_entry": false,
-      "delta_views": 1706,
+      "delta_views": 2068,
       "delta_likes": 11,
-      "delta_comments": 22,
-      "rank_gain": 40,
-      "rising_score": 85.71,
-      "rising_rank": 6,
-      "window_minutes": 64
+      "delta_comments": 16,
+      "rank_gain": 0,
+      "rising_score": 84.42,
+      "rising_rank": 7,
+      "window_minutes": 48
     },
     {
       "source": "루리웹",
-      "title": "소돔과 고모라가 이런거구나",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77064105?m=humor",
-      "category": "이슈",
-      "views": 9428,
-      "likes": 58,
-      "comments": 56,
-      "score": 97.27,
+      "title": "버미육인거 숨기고 방송하던 버튜버 스스로 공개",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77063900?m=humor",
+      "category": "연예",
+      "views": 17631,
+      "likes": 138,
+      "comments": 53,
+      "score": 98.12,
       "change": "NEW",
       "current_rank": 1,
       "new_entry": true,
@@ -355,69 +375,49 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.85,
-      "rising_rank": 7,
-      "window_minutes": 64
+      "rising_score": 83.21,
+      "rising_rank": 8,
+      "window_minutes": 48
     },
     {
       "source": "루리웹",
-      "title": "2300억원 투자받았다는 기업가치 1조 국산 AI 근황",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77064091?m=humor",
+      "title": "자칭 셰프의 스테이크 굽기",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77063898?m=humor",
       "category": "이슈",
-      "views": 18494,
-      "likes": 93,
-      "comments": 61,
-      "score": 97.02,
+      "views": 14510,
+      "likes": 69,
+      "comments": 46,
+      "score": 92.17,
       "change": "NEW",
-      "current_rank": 2,
+      "current_rank": 3,
       "new_entry": true,
       "delta_views": 0,
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.75,
-      "rising_rank": 8,
-      "window_minutes": 64
-    },
-    {
-      "source": "인벤",
-      "title": "수달과 해달 구분법",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2741677",
-      "category": "이슈",
-      "views": 2655,
-      "likes": 0,
-      "comments": 6,
-      "score": 69.27,
-      "change": 30,
-      "current_rank": 20,
-      "new_entry": false,
-      "delta_views": 1903,
-      "delta_likes": 0,
-      "delta_comments": 6,
-      "rank_gain": 30,
-      "rising_score": 82.59,
+      "rising_score": 80.71,
       "rising_rank": 9,
-      "window_minutes": 64
+      "window_minutes": 48
     },
     {
-      "source": "더쿠",
-      "title": "다 털리고 있는 프랑스 상태",
-      "url": "https://theqoo.net/hot/4378920733",
+      "source": "디시인사이드",
+      "title": "의외의외 편식의 범주에 들어가는 것",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471152&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 42304,
-      "likes": 0,
-      "comments": 180,
-      "score": 71.68,
-      "change": 29,
-      "current_rank": 16,
+      "views": 4772,
+      "likes": 35,
+      "comments": 101,
+      "score": 61.07,
+      "change": 1,
+      "current_rank": 53,
       "new_entry": false,
-      "delta_views": 17094,
-      "delta_likes": 0,
-      "delta_comments": 36,
-      "rank_gain": 29,
-      "rising_score": 80.58,
+      "delta_views": 1339,
+      "delta_likes": 11,
+      "delta_comments": 24,
+      "rank_gain": 1,
+      "rising_score": 76.96,
       "rising_rank": 10,
-      "window_minutes": 64
+      "window_minutes": 48
     }
   ],
   "issues": [
@@ -429,9 +429,9 @@
       ],
       "source_count": 4,
       "post_count": 6,
-      "score": 128.16,
-      "peak_score": 99.76,
-      "appearances": 7,
+      "score": 129.67,
+      "peak_score": 100.68,
+      "appearances": 8,
       "sources": [
         "더쿠",
         "디시인사이드",
@@ -441,38 +441,38 @@
       ],
       "posts": [
         {
-          "source": "클리앙",
-          "rank": 13,
-          "title": "프랑스 시위보고 복지 과잉때문이라는;;",
-          "url": "https://www.clien.net/service/board/park/19279192?od=T31&po=0&category=0&groupCd=",
-          "score": 73.76
-        },
-        {
           "source": "더쿠",
-          "rank": 16,
+          "rank": 13,
           "title": "다 털리고 있는 프랑스 상태",
           "url": "https://theqoo.net/hot/4378920733",
-          "score": 71.68
+          "score": 75.68
         },
         {
-          "source": "뽐뿌",
-          "rank": 25,
-          "title": "(속보) 프랑스 시위로 대통령 피신 및 무기상 약탈 ㄷ",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10155698",
-          "score": 67.56
+          "source": "인벤",
+          "rank": 35,
+          "title": "프랑스 시위로 143년된 문화재급 종탑 불에 탐.",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2741695",
+          "score": 64.03
+        },
+        {
+          "source": "클리앙",
+          "rank": 43,
+          "title": "프랑스 시위보고 복지 과잉때문이라는;;",
+          "url": "https://www.clien.net/service/board/park/19279192?od=T31&po=0&category=0&groupCd=",
+          "score": 63.05
         },
         {
           "source": "디시인사이드",
-          "rank": 88,
+          "rank": 100,
           "title": "프랑스 마트 700곳 냉장설비 해킹…온도 50도",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471150&_dcbest=1&page=1",
-          "score": 53.4
+          "score": 50.74
         }
       ],
       "first_seen": "2026-10-05T23:25:29.795675+09:00",
-      "last_seen": "2026-10-18T08:21:29.404844+09:00",
+      "last_seen": "2026-10-18T09:09:04.142556+09:00",
       "latest_source_count": 4,
-      "latest_post_count": 5,
+      "latest_post_count": 4,
       "rank": 1,
       "change": 0
     },
@@ -519,6 +519,44 @@
       "change": 0
     },
     {
+      "id": "i1987cdff",
+      "title": "‘아일릿’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "아일릿"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 105.33,
+      "peak_score": 93.84,
+      "appearances": 2,
+      "sources": [
+        "더쿠",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 5,
+          "title": "아일릿 신곡 공개되고 불거진 논란",
+          "url": "https://theqoo.net/hot/4378927387",
+          "score": 84.84
+        },
+        {
+          "source": "인벤",
+          "rank": 82,
+          "title": "아일릿 원희",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2741684",
+          "score": 55.31
+        }
+      ],
+      "first_seen": "2026-10-18T08:21:29.404844+09:00",
+      "last_seen": "2026-10-18T09:09:04.142556+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 3,
+      "change": 1
+    },
+    {
       "id": "i1a0292b7",
       "title": "‘안되는’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -553,46 +591,8 @@
       "last_seen": "2026-10-18T05:06:27.226373+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 3,
-      "change": 0
-    },
-    {
-      "id": "i1987cdff",
-      "title": "‘아일릿’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "아일릿"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 96.31,
-      "peak_score": 86.84,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 8,
-          "title": "아일릿 신곡 공개되고 불거진 논란",
-          "url": "https://theqoo.net/hot/4378927387",
-          "score": 77.84
-        },
-        {
-          "source": "인벤",
-          "rank": 76,
-          "title": "아일릿 원희",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2741684",
-          "score": 56.63
-        }
-      ],
-      "first_seen": "2026-10-18T08:21:29.404844+09:00",
-      "last_seen": "2026-10-18T08:21:29.404844+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 4,
-      "change": "NEW"
+      "change": -1
     },
     {
       "id": "ib19f68fa",
@@ -630,7 +630,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 5,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i4c8bdd1e",
@@ -668,7 +668,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 6,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i54cc5255",
@@ -706,7 +706,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 7,
-      "change": -1
+      "change": 0
     }
   ],
   "realtime_issues": [
@@ -717,44 +717,44 @@
         "프랑스"
       ],
       "source_count": 4,
-      "post_count": 5,
-      "score": 99.76,
-      "peak_score": 99.76,
+      "post_count": 4,
+      "score": 100.68,
+      "peak_score": 100.68,
       "appearances": 1,
       "sources": [
         "더쿠",
         "디시인사이드",
-        "뽐뿌",
+        "인벤",
         "클리앙"
       ],
       "posts": [
         {
-          "source": "클리앙",
-          "rank": 13,
-          "title": "프랑스 시위보고 복지 과잉때문이라는;;",
-          "url": "https://www.clien.net/service/board/park/19279192?od=T31&po=0&category=0&groupCd=",
-          "score": 73.76
-        },
-        {
           "source": "더쿠",
-          "rank": 16,
+          "rank": 13,
           "title": "다 털리고 있는 프랑스 상태",
           "url": "https://theqoo.net/hot/4378920733",
-          "score": 71.68
+          "score": 75.68
         },
         {
-          "source": "뽐뿌",
-          "rank": 25,
-          "title": "(속보) 프랑스 시위로 대통령 피신 및 무기상 약탈 ㄷ",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10155698",
-          "score": 67.56
+          "source": "인벤",
+          "rank": 35,
+          "title": "프랑스 시위로 143년된 문화재급 종탑 불에 탐.",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2741695",
+          "score": 64.03
+        },
+        {
+          "source": "클리앙",
+          "rank": 43,
+          "title": "프랑스 시위보고 복지 과잉때문이라는;;",
+          "url": "https://www.clien.net/service/board/park/19279192?od=T31&po=0&category=0&groupCd=",
+          "score": 63.05
         },
         {
           "source": "디시인사이드",
-          "rank": 88,
+          "rank": 100,
           "title": "프랑스 마트 700곳 냉장설비 해킹…온도 50도",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471150&_dcbest=1&page=1",
-          "score": 53.4
+          "score": 50.74
         }
       ],
       "rank": 1,
@@ -768,8 +768,8 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 86.84,
-      "peak_score": 86.84,
+      "score": 93.84,
+      "peak_score": 93.84,
       "appearances": 1,
       "sources": [
         "더쿠",
@@ -778,34 +778,34 @@
       "posts": [
         {
           "source": "더쿠",
-          "rank": 8,
+          "rank": 5,
           "title": "아일릿 신곡 공개되고 불거진 논란",
           "url": "https://theqoo.net/hot/4378927387",
-          "score": 77.84
+          "score": 84.84
         },
         {
           "source": "인벤",
-          "rank": 76,
+          "rank": 82,
           "title": "아일릿 원희",
           "url": "https://www.inven.co.kr/board/webzine/2097/2741684",
-          "score": 56.63
+          "score": 55.31
         }
       ],
       "rank": 2,
-      "change": "NEW"
+      "change": 0
     }
   ],
   "keywords": [
     {
       "keyword": "프랑스",
-      "score": 158.49,
+      "score": 161.05,
       "post_count": 5,
       "source_count": 4,
-      "best_rank": 13,
+      "best_rank": 7,
       "sources": [
         "더쿠",
         "디시인사이드",
-        "뽐뿌",
+        "인벤",
         "클리앙"
       ],
       "aliases": [],
@@ -813,55 +813,55 @@
       "change": 0
     },
     {
-      "keyword": "ai",
-      "score": 107.05,
+      "keyword": "로드스터",
+      "score": 101.16,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 2,
+      "best_rank": 8,
       "sources": [
-        "루리웹",
-        "인벤"
+        "인벤",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 2,
-      "change": "NEW"
+      "change": 3
     },
     {
-      "keyword": "무료",
-      "score": 102.29,
+      "keyword": "착각",
+      "score": 98.17,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 7,
+      "best_rank": 14,
       "sources": [
-        "루리웹",
-        "뽐뿌"
+        "뽐뿌",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 3,
       "change": "NEW"
     },
     {
-      "keyword": "상황",
-      "score": 102.28,
+      "keyword": "아일릿",
+      "score": 96.67,
       "post_count": 2,
       "source_count": 2,
       "best_rank": 5,
       "sources": [
         "더쿠",
-        "뽐뿌"
+        "인벤"
       ],
       "aliases": [],
       "rank": 4,
-      "change": "NEW"
+      "change": 2
     },
     {
-      "keyword": "로드스터",
-      "score": 98.58,
+      "keyword": "30대",
+      "score": 96.59,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 12,
+      "best_rank": 14,
       "sources": [
-        "인벤",
+        "뽐뿌",
         "클리앙"
       ],
       "aliases": [],
@@ -869,166 +869,152 @@
       "change": "NEW"
     },
     {
-      "keyword": "아일릿",
-      "score": 95.19,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 8,
-      "sources": [
-        "더쿠",
-        "인벤"
-      ],
-      "aliases": [],
-      "rank": 6,
-      "change": "NEW"
-    },
-    {
       "keyword": "많이",
-      "score": 89.44,
+      "score": 91.23,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 42,
+      "best_rank": 19,
       "sources": [
         "더쿠",
         "디시인사이드"
+      ],
+      "aliases": [],
+      "rank": 6,
+      "change": 1
+    },
+    {
+      "keyword": "조깅",
+      "score": 89.59,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 19,
+      "sources": [
+        "더쿠",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 7,
       "change": "NEW"
     },
     {
-      "keyword": "서울",
-      "score": 84.72,
+      "keyword": "상황",
+      "score": 86.05,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 41,
+      "best_rank": 19,
       "sources": [
-        "디시인사이드",
-        "클리앙"
+        "더쿠",
+        "뽐뿌"
       ],
       "aliases": [],
       "rank": 8,
-      "change": -6
+      "change": -4
     },
     {
-      "keyword": "인기",
-      "score": 83.69,
+      "keyword": "일본",
+      "score": 84.26,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 53,
+      "best_rank": 42,
       "sources": [
         "디시인사이드",
-        "루리웹"
+        "뽐뿌"
       ],
       "aliases": [],
       "rank": 9,
       "change": "NEW"
     },
     {
-      "keyword": "결말",
-      "score": 83.55,
+      "keyword": "마라톤",
+      "score": 84.08,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 46,
+      "best_rank": 37,
       "sources": [
-        "더쿠",
-        "디시인사이드"
+        "디시인사이드",
+        "뽐뿌"
       ],
       "aliases": [],
       "rank": 10,
-      "change": -2
+      "change": 1
     },
     {
-      "keyword": "마라톤",
-      "score": 80.82,
+      "keyword": "장르",
+      "score": 81.83,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 72,
+      "best_rank": 56,
       "sources": [
-        "디시인사이드",
-        "루리웹"
+        "더쿠",
+        "디시인사이드"
       ],
       "aliases": [],
       "rank": 11,
       "change": "NEW"
     },
     {
-      "keyword": "엔딩",
-      "score": 80.23,
+      "keyword": "결말",
+      "score": 80.99,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 59,
+      "best_rank": 62,
       "sources": [
-        "루리웹",
-        "인벤"
+        "더쿠",
+        "디시인사이드"
       ],
       "aliases": [],
       "rank": 12,
-      "change": "NEW"
-    },
-    {
-      "keyword": "대응",
-      "score": 77.9,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 68,
-      "sources": [
-        "디시인사이드",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 13,
-      "change": "NEW"
+      "change": -2
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "소돔과 고모라가 이런거구나",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77064105?m=humor",
-      "score": 97.27,
-      "views": 9428,
-      "comments": 56
+      "title": "버미육인거 숨기고 방송하던 버튜버 스스로 공개",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77063900?m=humor",
+      "score": 98.12,
+      "views": 17631,
+      "comments": 53
     },
     {
       "source": "더쿠",
       "title": "육아지원금이 적다고 분노하는 넉살 .jpg",
       "url": "https://theqoo.net/hot/4378890686",
-      "score": 84.53,
-      "views": 51119,
-      "comments": 559
-    },
-    {
-      "source": "뽐뿌",
-      "title": "심각해보이는 현대차 내부 상황 ㄷㄷ..jpg",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=979896",
-      "score": 81.95,
-      "views": 22678,
-      "comments": 94
+      "score": 85.53,
+      "views": 63294,
+      "comments": 660
     },
     {
       "source": "인벤",
       "title": "7년 전 한 말을 아무도 안믿음",
       "url": "https://www.inven.co.kr/board/webzine/2097/2741688",
-      "score": 81.24,
-      "views": 1796,
-      "comments": 7
+      "score": 82.84,
+      "views": 3568,
+      "comments": 15
     },
     {
       "source": "클리앙",
-      "title": "프랑스 시위보고 복지 과잉때문이라는;;",
-      "url": "https://www.clien.net/service/board/park/19279192?od=T31&po=0&category=0&groupCd=",
-      "score": 73.76,
-      "views": 652,
-      "comments": 21
+      "title": "프랑스는 복지과잉때문에 긴축재정하는겁니다",
+      "url": "https://www.clien.net/service/board/park/19279205?od=T31&po=0&category=0&groupCd=",
+      "score": 81.56,
+      "views": 1021,
+      "comments": 22
+    },
+    {
+      "source": "뽐뿌",
+      "title": "재직중 임신한 여자 교장",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10155733",
+      "score": 77.71,
+      "views": 28557,
+      "comments": 67
     },
     {
       "source": "디시인사이드",
       "title": "31살에 달리기 시작했는데 러닝계가 경악한 이유…JPG",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471143&_dcbest=1&page=1",
-      "score": 71.56,
-      "views": 18988,
-      "comments": 226
+      "score": 70.28,
+      "views": 21056,
+      "comments": 242
     }
   ]
 }
