@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W43",
   "label": "2026.10.19 ~ 10.25",
-  "collected_at": "2026-10-19T08:28:25.386813+09:00",
+  "collected_at": "2026-10-19T08:45:20.777869+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -133,9 +133,9 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 95.48,
+      "score": 97.5,
       "peak_score": 86.01,
-      "appearances": 1,
+      "appearances": 2,
       "sources": [
         "뽐뿌",
         "클리앙"
@@ -143,25 +143,25 @@
       "posts": [
         {
           "source": "클리앙",
-          "rank": 8,
+          "rank": 15,
           "title": "윤석열 비판했던거 죄다 이재명 본인이 하는중",
           "url": "https://www.clien.net/service/board/park/19279583?od=T31&po=0&category=0&groupCd=",
-          "score": 77.01
+          "score": 71.76
         },
         {
           "source": "뽐뿌",
-          "rank": 20,
+          "rank": 64,
           "title": "밤 12시 무렵의 이재명 X",
           "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10156724",
-          "score": 68.3
+          "score": 58.65
         }
       ],
       "first_seen": "2026-09-27T13:38:37.715424+09:00",
-      "last_seen": "2026-10-19T08:28:25.386813+09:00",
+      "last_seen": "2026-10-19T08:45:20.777869+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 4,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i2c5269d4",
@@ -207,6 +207,45 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 5,
+      "change": 0
+    },
+    {
+      "id": "ifeed66d7",
+      "title": "‘조희대’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "조희대",
+        "김건희"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 91.2,
+      "peak_score": 81.73,
+      "appearances": 1,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 14,
+          "title": "조국 \"무기력 민주당, 김건희 걸어 나오면 그 때 조희대 탄핵할 텐가.. 허송세월에 내부 싸움만\"",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2742025",
+          "score": 72.73
+        },
+        {
+          "source": "클리앙",
+          "rank": 53,
+          "title": "열흘 남은 김건희 구속 만료… 조희대.분수령",
+          "url": "https://www.clien.net/service/board/park/19279594?od=T31&po=0&category=0&groupCd=",
+          "score": 60.67
+        }
+      ],
+      "first_seen": "2026-10-06T11:19:29.813850+09:00",
+      "last_seen": "2026-10-19T08:45:20.777869+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 6,
       "change": "NEW"
     },
     {
@@ -252,8 +291,8 @@
       "last_seen": "2026-10-19T06:51:26.937377+09:00",
       "latest_source_count": 3,
       "latest_post_count": 3,
-      "rank": 6,
-      "change": -2
+      "rank": 7,
+      "change": -1
     },
     {
       "id": "icbac9b88",
@@ -293,8 +332,8 @@
       "last_seen": "2026-10-19T06:51:26.937377+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": -2
+      "rank": 8,
+      "change": -1
     },
     {
       "id": "i454f3d2e",
@@ -335,8 +374,46 @@
       "last_seen": "2026-10-19T06:23:13.564217+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 8,
-      "change": -2
+      "rank": 9,
+      "change": -1
+    },
+    {
+      "id": "ia1328567",
+      "title": "‘문제입니다’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "문제입니다"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 87.45,
+      "peak_score": 77.98,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 23,
+          "title": "고1 딸 아이 학교 왕따 문제입니다.",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=problem&no=237402",
+          "score": 68.98
+        },
+        {
+          "source": "클리앙",
+          "rank": 89,
+          "title": "서구권은 청년 극우화가 아니라 극좌화가 문제입니다",
+          "url": "https://www.clien.net/service/board/park/19279581?od=T31&po=0&category=0&groupCd=",
+          "score": 51.93
+        }
+      ],
+      "first_seen": "2026-10-19T08:45:20.777869+09:00",
+      "last_seen": "2026-10-19T08:45:20.777869+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 10,
+      "change": "NEW"
     },
     {
       "id": "i51a99cec",
@@ -373,7 +450,7 @@
       "last_seen": "2026-10-19T02:31:28.268191+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 9,
+      "rank": 11,
       "change": -2
     },
     {
@@ -411,7 +488,7 @@
       "last_seen": "2026-10-19T02:31:28.268191+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 10,
+      "rank": 12,
       "change": -2
     },
     {
@@ -449,8 +526,46 @@
       "last_seen": "2026-10-19T06:51:26.937377+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 11,
+      "rank": 13,
       "change": -2
+    },
+    {
+      "id": "i1b672c00",
+      "title": "‘치이카와’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "치이카와"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 80.26,
+      "peak_score": 68.77,
+      "appearances": 2,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 86,
+          "title": "오싹오싹 치이카와 인어섬 해석(스포주의)",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471357&_dcbest=1&page=1",
+          "score": 52.71
+        },
+        {
+          "source": "루리웹",
+          "rank": 93,
+          "title": "일본 ANA에서 새로 공개한 치이카와 항공기",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77075672?m=humor_only&t=now",
+          "score": 51.31
+        }
+      ],
+      "first_seen": "2026-10-08T12:01:09.196787+09:00",
+      "last_seen": "2026-10-19T08:45:20.777869+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 14,
+      "change": 0
     },
     {
       "id": "i4aeaabb9",
@@ -487,8 +602,8 @@
       "last_seen": "2026-10-19T01:41:31.828336+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 12,
-      "change": -2
+      "rank": 15,
+      "change": -3
     },
     {
       "id": "i3cbc3731",
@@ -531,46 +646,8 @@
       "last_seen": "2026-10-19T02:31:28.268191+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 13,
-      "change": -2
-    },
-    {
-      "id": "i1b672c00",
-      "title": "‘치이카와’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "치이카와"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 78.24,
-      "peak_score": 68.77,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "루리웹"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 52,
-          "title": "오싹오싹 치이카와 인어섬 해석(스포주의)",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471357&_dcbest=1&page=1",
-          "score": 59.77
-        },
-        {
-          "source": "루리웹",
-          "rank": 100,
-          "title": "치이카와)카니를 불쌍하게 생각 안해도 되는게",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77074439?m=humor_only&t=now",
-          "score": 50.28
-        }
-      ],
-      "first_seen": "2026-10-08T12:01:09.196787+09:00",
-      "last_seen": "2026-10-19T06:51:26.937377+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 14,
-      "change": -2
+      "rank": 16,
+      "change": -3
     },
     {
       "id": "i61894b11",
@@ -607,8 +684,46 @@
       "last_seen": "2026-10-19T02:31:28.268191+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 15,
+      "rank": 17,
       "change": -2
+    },
+    {
+      "id": "ibe185f25",
+      "title": "‘스토리’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "스토리"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 70.48,
+      "peak_score": 61.01,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 88,
+          "title": "길티크라운) 개쩌는 작화 성우 OST 다 소용없게 만든 스토리",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77075713?m=humor_only&t=now",
+          "score": 52.01
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 90,
+          "title": "소년 만화들의 스토리 최고점 시절.gif",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471331&_dcbest=1&page=1",
+          "score": 51.86
+        }
+      ],
+      "first_seen": "2026-10-19T08:45:20.777869+09:00",
+      "last_seen": "2026-10-19T08:45:20.777869+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 18,
+      "change": "NEW"
     },
     {
       "id": "i1e941339",
@@ -645,8 +760,8 @@
       "last_seen": "2026-10-19T06:23:13.564217+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 16,
-      "change": -2
+      "rank": 19,
+      "change": -3
     }
   ]
 }
