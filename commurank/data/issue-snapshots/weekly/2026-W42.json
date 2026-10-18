@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W42",
   "label": "2026.10.12 ~ 10.18",
-  "collected_at": "2026-10-18T18:05:56.491448+09:00",
+  "collected_at": "2026-10-18T19:55:50.282259+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -363,7 +363,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 7,
-      "change": 2
+      "change": 0
     },
     {
       "id": "i6c387ceb",
@@ -405,7 +405,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 8,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i89c5681f",
@@ -444,7 +444,47 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 9,
-      "change": -1
+      "change": 0
+    },
+    {
+      "id": "ife021da2",
+      "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "난리난"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 120.15,
+      "peak_score": 103.75,
+      "appearances": 7,
+      "sources": [
+        "더쿠",
+        "루리웹",
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 15,
+          "title": "현재 동대문구 학부모들 난리난 이유.jpg",
+          "url": "https://theqoo.net/hot/4379448374",
+          "score": 75.37
+        },
+        {
+          "source": "인벤",
+          "rank": 22,
+          "title": "난리난 김민석 대표의 무대 난입 사태 p.s즙민쫄의 정신승리 -황희두-",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2741873",
+          "score": 71.47
+        }
+      ],
+      "first_seen": "2026-09-29T11:40:38.000414+09:00",
+      "last_seen": "2026-10-18T19:55:50.282259+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 10,
+      "change": 1
     },
     {
       "id": "ibef4b4bc",
@@ -483,48 +523,8 @@
       "last_seen": "2026-10-15T08:52:43.582251+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 10,
-      "change": 0
-    },
-    {
-      "id": "ife021da2",
-      "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "난리난"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 119.48,
-      "peak_score": 103.75,
-      "appearances": 6,
-      "sources": [
-        "더쿠",
-        "루리웹",
-        "뽐뿌",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 18,
-          "title": "난리난 김민석 대표 SNS",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2741826",
-          "score": 70.85
-        },
-        {
-          "source": "더쿠",
-          "rank": 59,
-          "title": "현재 동대문구 학부모들 난리난 이유.jpg",
-          "url": "https://theqoo.net/hot/4379448374",
-          "score": 61.0
-        }
-      ],
-      "first_seen": "2026-09-29T11:40:38.000414+09:00",
-      "last_seen": "2026-10-18T18:05:56.491448+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 11,
-      "change": 1
+      "change": -1
     },
     {
       "id": "i82773ad8",
@@ -562,7 +562,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 12,
-      "change": -1
+      "change": 0
     },
     {
       "id": "ifd5a2cc3",
