@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-10-19T02:31:28.268191+09:00",
+  "collected_at": "2026-10-19T03:58:05.424412+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -17,190 +17,56 @@
           "프랑스",
           "상황"
         ],
-        "source_count": 3,
-        "post_count": 4,
-        "score": 101.1,
-        "peak_score": 101.1,
+        "source_count": 4,
+        "post_count": 5,
+        "score": 122.18,
+        "peak_score": 122.18,
         "appearances": 1,
         "sources": [
+          "루리웹",
           "뽐뿌",
           "인벤",
           "클리앙"
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 4,
-            "title": "현재 프랑스 상황",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2741957",
-            "score": 82.1
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 26,
-            "title": "프랑스 역대급 폭동이네요",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10156624",
-            "score": 67.62
+            "source": "루리웹",
+            "rank": 2,
+            "title": "프랑스 국민들이 연금개혁 결사 반대하는 이유",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77072584?m=humor",
+            "score": 96.18
           },
           {
             "source": "클리앙",
-            "rank": 27,
+            "rank": 25,
             "title": "프랑스 시위 충격적인 거는,,,",
             "url": "https://www.clien.net/service/board/park/19279525?od=T31&po=0&category=0&groupCd=",
-            "score": 67.5
+            "score": 65.36
           },
           {
             "source": "뽐뿌",
-            "rank": 76,
+            "rank": 34,
+            "title": "프랑스 역대급 폭동이네요",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10156624",
+            "score": 63.14
+          },
+          {
+            "source": "인벤",
+            "rank": 56,
+            "title": "현재 프랑스 상황",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2741957",
+            "score": 59.05
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 99,
             "title": "프랑스 백화점 명품 매장 털리는 상황 ㄷㄷ",
             "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=23606",
-            "score": 56.75
+            "score": 51.05
           }
         ],
         "rank": 1,
         "change": 0
-      },
-      {
-        "id": "i85e1a51f",
-        "title": "‘생기는’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "생기는"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 75.05,
-        "peak_score": 75.05,
-        "appearances": 1,
-        "sources": [
-          "루리웹",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 30,
-            "title": "매일 러닝하면 생기는 변화",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2741941",
-            "score": 66.05
-          },
-          {
-            "source": "루리웹",
-            "rank": 95,
-            "title": "포켓몬 알이 생기는 만화",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77074696?m=humor_only&t=now",
-            "score": 53.2
-          }
-        ],
-        "rank": 2,
-        "change": "NEW"
-      },
-      {
-        "id": "i51a99cec",
-        "title": "‘남자들’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "남자들"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 71.97,
-        "peak_score": 71.97,
-        "appearances": 1,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 40,
-            "title": "30대 남자들 소개팅때 왤케 사람을 재냐?",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2741943",
-            "score": 62.97
-          },
-          {
-            "source": "클리앙",
-            "rank": 86,
-            "title": "2030 남자들 반중활동 도대체 언제하는겁니까?",
-            "url": "https://www.clien.net/service/board/park/19279512?od=T31&po=0&category=0&groupCd=",
-            "score": 55.13
-          }
-        ],
-        "rank": 3,
-        "change": 0
-      },
-      {
-        "id": "i3cbc3731",
-        "title": "트럼프, 유럽에 ‘러시아산 가스 더 수입하라’…독일 강력 반발",
-        "keywords": [
-          "수입하라",
-          "강력",
-          "유럽에",
-          "가스",
-          "독일",
-          "러시아산",
-          "트럼프"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 69.78,
-        "peak_score": 69.78,
-        "appearances": 1,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 44,
-            "title": "트럼프, 유럽에 ‘러시아산 가스 더 수입하라’…독일 강력 반발",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2741962",
-            "score": 61.78
-          },
-          {
-            "source": "클리앙",
-            "rank": 48,
-            "title": "트럼프, 유럽에 ‘러시아산 가스 더 수입하라’…독일 강력 반발",
-            "url": "https://www.clien.net/service/board/park/19279547?od=T31&po=0&category=0&groupCd=",
-            "score": 61.14
-          }
-        ],
-        "rank": 4,
-        "change": "NEW"
-      },
-      {
-        "id": "i61894b11",
-        "title": "‘그리기’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "그리기"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 61.79,
-        "peak_score": 61.79,
-        "appearances": 1,
-        "sources": [
-          "루리웹",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 98,
-            "title": "그림을 그리기 위해 악마를 ㄸㅁ은 작가",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77074715?m=humor_only&t=now",
-            "score": 52.79
-          },
-          {
-            "source": "인벤",
-            "rank": 100,
-            "title": "마우스 쉽게 그리기",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2741946",
-            "score": 52.2
-          }
-        ],
-        "rank": 5,
-        "change": "NEW"
       }
     ],
     "daily": [
@@ -213,9 +79,9 @@
         ],
         "source_count": 4,
         "post_count": 8,
-        "score": 146.14,
-        "peak_score": 120.65,
-        "appearances": 2,
+        "score": 149.11,
+        "peak_score": 122.18,
+        "appearances": 3,
         "sources": [
           "루리웹",
           "뽐뿌",
@@ -224,38 +90,45 @@
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 4,
-            "title": "현재 프랑스 상황",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2741957",
-            "score": 82.1
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 26,
-            "title": "프랑스 역대급 폭동이네요",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10156624",
-            "score": 67.62
+            "source": "루리웹",
+            "rank": 2,
+            "title": "프랑스 국민들이 연금개혁 결사 반대하는 이유",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77072584?m=humor",
+            "score": 96.18
           },
           {
             "source": "클리앙",
-            "rank": 27,
+            "rank": 25,
             "title": "프랑스 시위 충격적인 거는,,,",
             "url": "https://www.clien.net/service/board/park/19279525?od=T31&po=0&category=0&groupCd=",
-            "score": 67.5
+            "score": 65.36
           },
           {
             "source": "뽐뿌",
-            "rank": 76,
+            "rank": 34,
+            "title": "프랑스 역대급 폭동이네요",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10156624",
+            "score": 63.14
+          },
+          {
+            "source": "인벤",
+            "rank": 56,
+            "title": "현재 프랑스 상황",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2741957",
+            "score": 59.05
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 99,
             "title": "프랑스 백화점 명품 매장 털리는 상황 ㄷㄷ",
             "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=23606",
-            "score": 56.75
+            "score": 51.05
           }
         ],
         "first_seen": "2026-10-05T23:25:29.795675+09:00",
-        "last_seen": "2026-10-19T02:31:28.268191+09:00",
-        "latest_source_count": 3,
-        "latest_post_count": 4,
+        "last_seen": "2026-10-19T03:58:05.424412+09:00",
+        "latest_source_count": 4,
+        "latest_post_count": 5,
         "rank": 1,
         "change": 0
       },
@@ -374,7 +247,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 4,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "i4aeaabb9",
@@ -412,7 +285,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 5,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i3cbc3731",
@@ -456,7 +329,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 6,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "i61894b11",
@@ -494,7 +367,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 7,
-        "change": "NEW"
+        "change": 0
       }
     ],
     "weekly": [
@@ -507,9 +380,9 @@
         ],
         "source_count": 4,
         "post_count": 8,
-        "score": 146.14,
-        "peak_score": 120.65,
-        "appearances": 2,
+        "score": 149.11,
+        "peak_score": 122.18,
+        "appearances": 3,
         "sources": [
           "루리웹",
           "뽐뿌",
@@ -518,38 +391,45 @@
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 4,
-            "title": "현재 프랑스 상황",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2741957",
-            "score": 82.1
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 26,
-            "title": "프랑스 역대급 폭동이네요",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10156624",
-            "score": 67.62
+            "source": "루리웹",
+            "rank": 2,
+            "title": "프랑스 국민들이 연금개혁 결사 반대하는 이유",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77072584?m=humor",
+            "score": 96.18
           },
           {
             "source": "클리앙",
-            "rank": 27,
+            "rank": 25,
             "title": "프랑스 시위 충격적인 거는,,,",
             "url": "https://www.clien.net/service/board/park/19279525?od=T31&po=0&category=0&groupCd=",
-            "score": 67.5
+            "score": 65.36
           },
           {
             "source": "뽐뿌",
-            "rank": 76,
+            "rank": 34,
+            "title": "프랑스 역대급 폭동이네요",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10156624",
+            "score": 63.14
+          },
+          {
+            "source": "인벤",
+            "rank": 56,
+            "title": "현재 프랑스 상황",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2741957",
+            "score": 59.05
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 99,
             "title": "프랑스 백화점 명품 매장 털리는 상황 ㄷㄷ",
             "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=23606",
-            "score": 56.75
+            "score": 51.05
           }
         ],
         "first_seen": "2026-10-05T23:25:29.795675+09:00",
-        "last_seen": "2026-10-19T02:31:28.268191+09:00",
-        "latest_source_count": 3,
-        "latest_post_count": 4,
+        "last_seen": "2026-10-19T03:58:05.424412+09:00",
+        "latest_source_count": 4,
+        "latest_post_count": 5,
         "rank": 1,
         "change": 0
       },
@@ -668,7 +548,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 4,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "i4aeaabb9",
@@ -706,7 +586,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 5,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i3cbc3731",
@@ -750,7 +630,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 6,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "i61894b11",
@@ -788,7 +668,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 7,
-        "change": "NEW"
+        "change": 0
       }
     ],
     "monthly": [
@@ -801,9 +681,9 @@
         ],
         "source_count": 5,
         "post_count": 8,
-        "score": 162.08,
+        "score": 162.28,
         "peak_score": 122.19,
-        "appearances": 23,
+        "appearances": 24,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -814,38 +694,45 @@
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 4,
-            "title": "현재 프랑스 상황",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2741957",
-            "score": 82.1
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 26,
-            "title": "프랑스 역대급 폭동이네요",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10156624",
-            "score": 67.62
+            "source": "루리웹",
+            "rank": 2,
+            "title": "프랑스 국민들이 연금개혁 결사 반대하는 이유",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77072584?m=humor",
+            "score": 96.18
           },
           {
             "source": "클리앙",
-            "rank": 27,
+            "rank": 25,
             "title": "프랑스 시위 충격적인 거는,,,",
             "url": "https://www.clien.net/service/board/park/19279525?od=T31&po=0&category=0&groupCd=",
-            "score": 67.5
+            "score": 65.36
           },
           {
             "source": "뽐뿌",
-            "rank": 76,
+            "rank": 34,
+            "title": "프랑스 역대급 폭동이네요",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10156624",
+            "score": 63.14
+          },
+          {
+            "source": "인벤",
+            "rank": 56,
+            "title": "현재 프랑스 상황",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2741957",
+            "score": 59.05
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 99,
             "title": "프랑스 백화점 명품 매장 털리는 상황 ㄷㄷ",
             "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=23606",
-            "score": 56.75
+            "score": 51.05
           }
         ],
         "first_seen": "2026-10-05T23:25:29.795675+09:00",
-        "last_seen": "2026-10-19T02:31:28.268191+09:00",
-        "latest_source_count": 3,
-        "latest_post_count": 4,
+        "last_seen": "2026-10-19T03:58:05.424412+09:00",
+        "latest_source_count": 4,
+        "latest_post_count": 5,
         "rank": 1,
         "change": 0
       },
