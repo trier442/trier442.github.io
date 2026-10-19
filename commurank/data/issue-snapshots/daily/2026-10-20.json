@@ -3,7 +3,7 @@
   "period": "daily",
   "key": "2026-10-20",
   "label": "2026년 10월 20일",
-  "collected_at": "2026-10-20T08:40:20.099761+09:00",
+  "collected_at": "2026-10-20T08:47:52.425514+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -54,9 +54,9 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 91.06,
+      "score": 93.08,
       "peak_score": 81.59,
-      "appearances": 1,
+      "appearances": 2,
       "sources": [
         "더쿠",
         "디시인사이드"
@@ -64,25 +64,25 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 17,
+          "rank": 20,
           "title": "닉네임을 신중하게 지어야 하는 이유.corona",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471679&_dcbest=1&page=1",
-          "score": 72.59
+          "score": 72.46
         },
         {
           "source": "더쿠",
-          "rank": 19,
+          "rank": 21,
           "title": "사우디에 교회를 지을 수 없다면, 유럽에 왜 모스크를 지어야 합니까?\"",
           "url": "https://theqoo.net/hot/4381035613",
           "score": 71.68
         }
       ],
       "first_seen": "2026-10-20T08:40:20.099761+09:00",
-      "last_seen": "2026-10-20T08:40:20.099761+09:00",
+      "last_seen": "2026-10-20T08:47:52.425514+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 2,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "iae6b0123",
@@ -120,7 +120,46 @@
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 3,
-      "change": -1
+      "change": 0
+    },
+    {
+      "id": "i6c2b933f",
+      "title": "프랑스 파리 길거리 상황",
+      "keywords": [
+        "길거리",
+        "프랑스"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 87.07,
+      "peak_score": 77.6,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 27,
+          "title": "프랑스 파리 길거리 상황",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10157816",
+          "score": 69.6
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 74,
+          "title": "프랑스 길거리 좌판 근황 ㅋㅋ",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471659&_dcbest=1&page=1",
+          "score": 58.32
+        }
+      ],
+      "first_seen": "2026-10-20T08:47:52.425514+09:00",
+      "last_seen": "2026-10-20T08:47:52.425514+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 4,
+      "change": "NEW"
     },
     {
       "id": "i4f7064f0",
@@ -157,8 +196,49 @@
       "last_seen": "2026-10-20T05:10:43.257154+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 4,
+      "rank": 5,
       "change": -1
+    },
+    {
+      "id": "i48bc7a3d",
+      "title": "싱글벙글 갓본 토요코 키즈 몰살 방법",
+      "keywords": [
+        "몰살",
+        "방법",
+        "키즈",
+        "토요코"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 78.42,
+      "peak_score": 66.93,
+      "appearances": 2,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 69,
+          "title": "싱글벙글 갓본 토요코 키즈 몰살 방법",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471654&_dcbest=1&page=1",
+          "score": 58.93
+        },
+        {
+          "source": "인벤",
+          "rank": 79,
+          "title": "토요코 키즈 몰살 방법",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2742461",
+          "score": 56.86
+        }
+      ],
+      "first_seen": "2026-10-20T08:40:20.099761+09:00",
+      "last_seen": "2026-10-20T08:47:52.425514+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 6,
+      "change": 0
     },
     {
       "id": "i925a0c4a",
@@ -195,49 +275,8 @@
       "last_seen": "2026-10-20T05:10:43.257154+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
-      "change": -1
-    },
-    {
-      "id": "i48bc7a3d",
-      "title": "싱글벙글 갓본 토요코 키즈 몰살 방법",
-      "keywords": [
-        "방법",
-        "몰살",
-        "키즈",
-        "토요코"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 76.13,
-      "peak_score": 66.66,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 69,
-          "title": "싱글벙글 갓본 토요코 키즈 몰살 방법",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471654&_dcbest=1&page=1",
-          "score": 58.66
-        },
-        {
-          "source": "인벤",
-          "rank": 81,
-          "title": "토요코 키즈 몰살 방법",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2742461",
-          "score": 56.66
-        }
-      ],
-      "first_seen": "2026-10-20T08:40:20.099761+09:00",
-      "last_seen": "2026-10-20T08:40:20.099761+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 6,
-      "change": "NEW"
+      "rank": 7,
+      "change": -2
     }
   ]
 }

@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W43",
   "label": "2026.10.19 ~ 10.25",
-  "collected_at": "2026-10-20T08:40:20.099761+09:00",
+  "collected_at": "2026-10-20T08:47:52.425514+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -418,6 +418,44 @@
       "change": 0
     },
     {
+      "id": "ibbdb8f43",
+      "title": "‘지어야’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "지어야"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 93.08,
+      "peak_score": 81.59,
+      "appearances": 2,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 20,
+          "title": "닉네임을 신중하게 지어야 하는 이유.corona",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471679&_dcbest=1&page=1",
+          "score": 72.46
+        },
+        {
+          "source": "더쿠",
+          "rank": 21,
+          "title": "사우디에 교회를 지을 수 없다면, 유럽에 왜 모스크를 지어야 합니까?\"",
+          "url": "https://theqoo.net/hot/4381035613",
+          "score": 71.68
+        }
+      ],
+      "first_seen": "2026-10-20T08:40:20.099761+09:00",
+      "last_seen": "2026-10-20T08:47:52.425514+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 11,
+      "change": 2
+    },
+    {
       "id": "id4af6b9b",
       "title": "5평 원룸에 사는 예비부부 근황.",
       "keywords": [
@@ -455,8 +493,8 @@
       "last_seen": "2026-10-19T23:19:41.988954+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 11,
-      "change": 0
+      "rank": 12,
+      "change": -1
     },
     {
       "id": "ifeed66d7",
@@ -494,46 +532,8 @@
       "last_seen": "2026-10-19T08:45:20.777869+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 12,
-      "change": 0
-    },
-    {
-      "id": "ibbdb8f43",
-      "title": "‘지어야’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "지어야"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 91.06,
-      "peak_score": 81.59,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 17,
-          "title": "닉네임을 신중하게 지어야 하는 이유.corona",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471679&_dcbest=1&page=1",
-          "score": 72.59
-        },
-        {
-          "source": "더쿠",
-          "rank": 19,
-          "title": "사우디에 교회를 지을 수 없다면, 유럽에 왜 모스크를 지어야 합니까?\"",
-          "url": "https://theqoo.net/hot/4381035613",
-          "score": 71.68
-        }
-      ],
-      "first_seen": "2026-10-20T08:40:20.099761+09:00",
-      "last_seen": "2026-10-20T08:40:20.099761+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 13,
-      "change": "NEW"
+      "change": -1
     },
     {
       "id": "if553a5cf",
@@ -579,7 +579,7 @@
       "latest_source_count": 3,
       "latest_post_count": 3,
       "rank": 14,
-      "change": -1
+      "change": 0
     },
     {
       "id": "icbac9b88",
@@ -620,7 +620,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 15,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i2c099e33",
@@ -658,7 +658,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 16,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i454f3d2e",
@@ -700,7 +700,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 17,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i52684347",
@@ -741,7 +741,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 18,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i4e02d9ce",
@@ -779,7 +779,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 19,
-      "change": -1
+      "change": 0
     },
     {
       "id": "ia1328567",
@@ -817,7 +817,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 20,
-      "change": -1
+      "change": 0
     }
   ]
 }
