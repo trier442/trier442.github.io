@@ -2,7 +2,7 @@
   "version": 1,
   "date": "2026-10-19",
   "label": "2026년 10월 19일",
-  "collected_at": "2026-10-19T23:19:41.988954+09:00",
+  "collected_at": "2026-10-19T23:36:26.091329+09:00",
   "timezone": "Asia/Seoul",
   "overview": "오늘 가장 두드러진 이슈는 ‘‘프랑스’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #프랑스. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
@@ -12,9 +12,9 @@
     "realtime_posts": 100,
     "daily_posts": 100,
     "daily_issues": 20,
-    "keywords": 20,
-    "top100_views": 1018542,
-    "top100_comments": 10524
+    "keywords": 17,
+    "top100_views": 997265,
+    "top100_comments": 10192
   },
   "highlights": [
     {
@@ -25,9 +25,9 @@
     },
     {
       "type": "post",
-      "title": "이젠 1000만원조차 아니라는 RTX 5090 근황 ㅋㅋㅋㅋㅋ",
+      "title": "중기사)스포) 최신화에서 묘사된 주인공 아버지의 실제 무력.jpg",
       "text": "루리웹에서 현재 상위권에 오른 인기글입니다.",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77081462?m=humor"
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77083496?m=humor"
     },
     {
       "type": "keyword",
@@ -37,6 +37,24 @@
     }
   ],
   "top_posts": [
+    {
+      "title": "중기사)스포) 최신화에서 묘사된 주인공 아버지의 실제 무력.jpg",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77083496?m=humor",
+      "first_seen": "2026-10-19T23:19:41.988954+09:00",
+      "last_seen": "2026-10-19T23:36:26.091329+09:00",
+      "peak_score": 97.29,
+      "max_views": 10316,
+      "max_likes": 121,
+      "max_comments": 95,
+      "appearances": 2,
+      "score": 107.49,
+      "views": 10316,
+      "likes": 121,
+      "comments": 95,
+      "change": 21
+    },
     {
       "title": "이젠 1000만원조차 아니라는 RTX 5090 근황 ㅋㅋㅋㅋㅋ",
       "source": "루리웹",
@@ -49,11 +67,11 @@
       "max_likes": 131,
       "max_comments": 98,
       "appearances": 1,
-      "score": 106.83,
+      "score": 106.8,
       "views": 27487,
       "likes": 131,
       "comments": 98,
-      "change": "NEW"
+      "change": -1
     },
     {
       "title": "대기업 다 줘패는 중소기업 고기소스",
@@ -67,7 +85,7 @@
       "max_likes": 115,
       "max_comments": 49,
       "appearances": 1,
-      "score": 106.72,
+      "score": 106.7,
       "views": 21383,
       "likes": 115,
       "comments": 49,
@@ -85,11 +103,29 @@
       "max_likes": 135,
       "max_comments": 83,
       "appearances": 1,
-      "score": 106.7,
+      "score": 106.67,
       "views": 27971,
       "likes": 135,
       "comments": 83,
       "change": -1
+    },
+    {
+      "title": "대부분 첫 취직하면 놀라는거.jpg",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77080694?m=humor",
+      "first_seen": "2026-10-19T23:36:26.091329+09:00",
+      "last_seen": "2026-10-19T23:36:26.091329+09:00",
+      "peak_score": 97.02,
+      "max_views": 42323,
+      "max_likes": 208,
+      "max_comments": 92,
+      "appearances": 1,
+      "score": 106.41,
+      "views": 42323,
+      "likes": 208,
+      "comments": 92,
+      "change": "NEW"
     },
     {
       "title": "JYP신사옥 문제도 골치아프구나",
@@ -103,11 +139,11 @@
       "max_likes": 162,
       "max_comments": 74,
       "appearances": 1,
-      "score": 106.24,
+      "score": 106.22,
       "views": 25769,
       "likes": 162,
       "comments": 74,
-      "change": -1
+      "change": -2
     },
     {
       "title": "장사 안돼는 8000원 뷔폐집",
@@ -121,11 +157,11 @@
       "max_likes": 121,
       "max_comments": 92,
       "appearances": 3,
-      "score": 106.18,
+      "score": 106.16,
       "views": 16399,
       "likes": 121,
       "comments": 92,
-      "change": -1
+      "change": -2
     },
     {
       "title": "야간조 환경미화원 월650만원 채용공고",
@@ -139,11 +175,11 @@
       "max_likes": 118,
       "max_comments": 89,
       "appearances": 1,
-      "score": 105.67,
+      "score": 105.65,
       "views": 28568,
       "likes": 118,
       "comments": 89,
-      "change": -1
+      "change": -2
     },
     {
       "title": "애있는 부모는 한쪽으로 쏠리는 선택지.jpg",
@@ -157,11 +193,11 @@
       "max_likes": 94,
       "max_comments": 99,
       "appearances": 1,
-      "score": 105.64,
+      "score": 105.62,
       "views": 15027,
       "likes": 94,
       "comments": 99,
-      "change": -1
+      "change": -2
     },
     {
       "title": "마에다 준이 퇴물소리 듣게 만들었던 3연작",
@@ -175,70 +211,14 @@
       "max_likes": 92,
       "max_comments": 101,
       "appearances": 2,
-      "score": 105.55,
+      "score": 105.53,
       "views": 18611,
       "likes": 92,
       "comments": 101,
-      "change": -1
-    },
-    {
-      "title": "리제로 사망회귀가 절망적인 점.JPG",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77075745?m=humor",
-      "first_seen": "2026-10-19T10:34:33.550976+09:00",
-      "last_seen": "2026-10-19T10:51:05.418224+09:00",
-      "peak_score": 96.19,
-      "max_views": 14227,
-      "max_likes": 120,
-      "max_comments": 71,
-      "appearances": 2,
-      "score": 105.35,
-      "views": 14227,
-      "likes": 120,
-      "comments": 71,
-      "change": -1
-    },
-    {
-      "title": "피자집 창업하고 싶다는 사람",
-      "source": "루리웹",
-      "category": "생활",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77076347?m=humor",
-      "first_seen": "2026-10-19T16:00:56.529568+09:00",
-      "last_seen": "2026-10-19T16:00:56.529568+09:00",
-      "peak_score": 96.4,
-      "max_views": 36185,
-      "max_likes": 114,
-      "max_comments": 83,
-      "appearances": 1,
-      "score": 105.18,
-      "views": 36185,
-      "likes": 114,
-      "comments": 83,
-      "change": -1
+      "change": -2
     }
   ],
   "rising": [
-    {
-      "source": "루리웹",
-      "title": "이젠 1000만원조차 아니라는 RTX 5090 근황 ㅋㅋㅋㅋㅋ",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77081462?m=humor",
-      "category": "유머",
-      "views": 27487,
-      "likes": 131,
-      "comments": 98,
-      "score": 97.44,
-      "change": "NEW",
-      "current_rank": 1,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 82.92,
-      "rising_rank": 1,
-      "window_minutes": 439
-    },
     {
       "source": "루리웹",
       "title": "중기사)스포) 최신화에서 묘사된 주인공 아버지의 실제 무력.jpg",
@@ -247,7 +227,107 @@
       "views": 10316,
       "likes": 121,
       "comments": 95,
-      "score": 93.84,
+      "score": 97.29,
+      "change": 1,
+      "current_rank": 1,
+      "new_entry": false,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 1,
+      "rising_score": 100.0,
+      "rising_rank": 1,
+      "window_minutes": 17
+    },
+    {
+      "source": "디시인사이드",
+      "title": "싱글벙글 애국보수 치이카와..jpg",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471590&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 3790,
+      "likes": 41,
+      "comments": 94,
+      "score": 66.84,
+      "change": 19,
+      "current_rank": 26,
+      "new_entry": false,
+      "delta_views": 2404,
+      "delta_likes": 25,
+      "delta_comments": 49,
+      "rank_gain": 19,
+      "rising_score": 95.9,
+      "rising_rank": 2,
+      "window_minutes": 17
+    },
+    {
+      "source": "더쿠",
+      "title": "김세의 때문에 벼랑 끝까지 몰렸던 장사의 신 은현장이 복수에 성공한 방법",
+      "url": "https://theqoo.net/hot/4380835674",
+      "category": "이슈",
+      "views": 15016,
+      "likes": 0,
+      "comments": 153,
+      "score": 65.0,
+      "change": 24,
+      "current_rank": 31,
+      "new_entry": false,
+      "delta_views": 8392,
+      "delta_likes": 0,
+      "delta_comments": 73,
+      "rank_gain": 24,
+      "rising_score": 94.33,
+      "rising_rank": 3,
+      "window_minutes": 17
+    },
+    {
+      "source": "디시인사이드",
+      "title": "339조 국부펀드 AI, 중국산 모델로 내부자료 처리",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471588&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 2039,
+      "likes": 21,
+      "comments": 79,
+      "score": 60.08,
+      "change": 3,
+      "current_rank": 59,
+      "new_entry": false,
+      "delta_views": 943,
+      "delta_likes": 8,
+      "delta_comments": 26,
+      "rank_gain": 3,
+      "rising_score": 86.48,
+      "rising_rank": 4,
+      "window_minutes": 17
+    },
+    {
+      "source": "더쿠",
+      "title": "마곡역 남성 추락사 관련... (블라인드)",
+      "url": "https://theqoo.net/hot/4380792181",
+      "category": "이슈",
+      "views": 60800,
+      "likes": 0,
+      "comments": 514,
+      "score": 88.84,
+      "change": 0,
+      "current_rank": 4,
+      "new_entry": false,
+      "delta_views": 8125,
+      "delta_likes": 0,
+      "delta_comments": 51,
+      "rank_gain": 0,
+      "rising_score": 85.0,
+      "rising_rank": 5,
+      "window_minutes": 17
+    },
+    {
+      "source": "루리웹",
+      "title": "대부분 첫 취직하면 놀라는거.jpg",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77080694?m=humor",
+      "category": "이슈",
+      "views": 42323,
+      "likes": 208,
+      "comments": 92,
+      "score": 97.02,
       "change": "NEW",
       "current_rank": 2,
       "new_entry": true,
@@ -255,19 +335,39 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 81.41,
-      "rising_rank": 2,
-      "window_minutes": 439
+      "rising_score": 82.75,
+      "rising_rank": 6,
+      "window_minutes": 17
+    },
+    {
+      "source": "인벤",
+      "title": "웹툰 호랑이 형님 근황",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2742405",
+      "category": "이슈",
+      "views": 2406,
+      "likes": 1,
+      "comments": 19,
+      "score": 58.58,
+      "change": 0,
+      "current_rank": 69,
+      "new_entry": false,
+      "delta_views": 482,
+      "delta_likes": 0,
+      "delta_comments": 5,
+      "rank_gain": 0,
+      "rising_score": 82.48,
+      "rising_rank": 7,
+      "window_minutes": 17
     },
     {
       "source": "루리웹",
-      "title": "전국 호빵 총선거",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77084368?m=humor",
+      "title": "콜옵)박현준 업적",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77080797?m=humor",
       "category": "이슈",
-      "views": 6163,
-      "likes": 30,
-      "comments": 83,
-      "score": 92.92,
+      "views": 17936,
+      "likes": 149,
+      "comments": 82,
+      "score": 93.42,
       "change": "NEW",
       "current_rank": 3,
       "new_entry": true,
@@ -275,149 +375,49 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 81.03,
-      "rising_rank": 3,
-      "window_minutes": 439
-    },
-    {
-      "source": "더쿠",
-      "title": "마곡역 남성 추락사 관련... (블라인드)",
-      "url": "https://theqoo.net/hot/4380792181",
-      "category": "이슈",
-      "views": 52675,
-      "likes": 0,
-      "comments": 463,
-      "score": 86.84,
-      "change": "NEW",
-      "current_rank": 4,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 78.47,
-      "rising_rank": 4,
-      "window_minutes": 439
-    },
-    {
-      "source": "뽐뿌",
-      "title": "공무원20년했는데 월급 400이안되네요",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=problem&no=237429",
-      "category": "이슈",
-      "views": 15063,
-      "likes": 2,
-      "comments": 133,
-      "score": 86.66,
-      "change": "NEW",
-      "current_rank": 5,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 78.4,
-      "rising_rank": 5,
-      "window_minutes": 439
-    },
-    {
-      "source": "디시인사이드",
-      "title": "싱글벙글 프랑스 시위를 목격한 일본인 반응...jpg",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471576&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 15428,
-      "likes": 128,
-      "comments": 258,
-      "score": 81.86,
-      "change": "NEW",
-      "current_rank": 6,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 76.38,
-      "rising_rank": 6,
-      "window_minutes": 439
-    },
-    {
-      "source": "루리웹",
-      "title": "[스팀] 맥스페인 3 / 6,840",
-      "url": "https://bbs.ruliweb.com/market/board/1020/read/108156",
-      "category": "게임",
-      "views": 14099,
-      "likes": 14,
-      "comments": 23,
-      "score": 80.44,
-      "change": "NEW",
-      "current_rank": 7,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 75.78,
-      "rising_rank": 7,
-      "window_minutes": 439
-    },
-    {
-      "source": "뽐뿌",
-      "title": "18살, 22살에게 현실을 알려주는 55살 아재",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10157361",
-      "category": "이슈",
-      "views": 23491,
-      "likes": 7,
-      "comments": 57,
-      "score": 78.88,
-      "change": "NEW",
-      "current_rank": 8,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 75.13,
+      "rising_score": 81.24,
       "rising_rank": 8,
-      "window_minutes": 439
+      "window_minutes": 17
+    },
+    {
+      "source": "클리앙",
+      "title": "역시나……돈이군요…",
+      "url": "https://www.clien.net/service/board/park/19279924?od=T31&po=0&category=0&groupCd=",
+      "category": "이슈",
+      "views": 2158,
+      "likes": 2,
+      "comments": 2,
+      "score": 61.99,
+      "change": 0,
+      "current_rank": 43,
+      "new_entry": false,
+      "delta_views": 581,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 80.77,
+      "rising_rank": 9,
+      "window_minutes": 17
     },
     {
       "source": "디시인사이드",
-      "title": "와들와들 \"AI로 그림쟁이 망해서 속이 뻥 뚫리네요\"",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471554&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 25484,
-      "likes": 202,
-      "comments": 503,
-      "score": 77.25,
-      "change": "NEW",
-      "current_rank": 9,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
+      "title": "몽골 대초원에 '화르륵', 불법 낚시하려다 불낸 일본인들",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471586&_dcbest=1&page=1",
+      "category": "스포츠",
+      "views": 2854,
+      "likes": 48,
+      "comments": 81,
+      "score": 63.53,
+      "change": 0,
+      "current_rank": 37,
+      "new_entry": false,
+      "delta_views": 828,
+      "delta_likes": 12,
+      "delta_comments": 7,
       "rank_gain": 0,
-      "rising_score": 74.44,
-      "rising_rank": 9,
-      "window_minutes": 439
-    },
-    {
-      "source": "뽐뿌",
-      "title": "[카카오뱅크] OX 퀴즈 10/19 정답",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=119776",
-      "category": "이슈",
-      "views": 2573,
-      "likes": 27,
-      "comments": 18,
-      "score": 76.12,
-      "change": "NEW",
-      "current_rank": 10,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 73.97,
+      "rising_score": 78.69,
       "rising_rank": 10,
-      "window_minutes": 439
+      "window_minutes": 17
     }
   ],
   "issues": [
@@ -429,9 +429,9 @@
       ],
       "source_count": 4,
       "post_count": 8,
-      "score": 154.17,
+      "score": 154.6,
       "peak_score": 122.18,
-      "appearances": 10,
+      "appearances": 11,
       "sources": [
         "더쿠",
         "디시인사이드",
@@ -443,30 +443,30 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 6,
+          "rank": 7,
           "title": "싱글벙글 프랑스 시위를 목격한 일본인 반응...jpg",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471576&_dcbest=1&page=1",
-          "score": 81.86
+          "score": 79.42
         },
         {
           "source": "인벤",
-          "rank": 56,
+          "rank": 44,
           "title": "전쟁터 방불케 한 프랑스 시위…유럽 곳곳서도 ‘생활고’ 폭발",
           "url": "https://www.inven.co.kr/board/webzine/2097/2742422",
-          "score": 60.68
+          "score": 61.93
         },
         {
           "source": "클리앙",
-          "rank": 64,
+          "rank": 70,
           "title": "프랑스 보면 우리나라 국민성이 새삼 대단하다고 느끼게 됩니다",
           "url": "https://www.clien.net/service/board/park/19279912?od=T31&po=0&category=0&groupCd=",
-          "score": 60.08
+          "score": 58.46
         }
       ],
       "first_seen": "2026-10-05T23:25:29.795675+09:00",
-      "last_seen": "2026-10-19T23:19:41.988954+09:00",
+      "last_seen": "2026-10-19T23:36:26.091329+09:00",
       "latest_source_count": 3,
-      "latest_post_count": 3,
+      "latest_post_count": 4,
       "rank": 1,
       "change": 0
     },
@@ -512,6 +512,45 @@
       "change": 0
     },
     {
+      "id": "i12697790",
+      "title": "콜옵)박현준 업적",
+      "keywords": [
+        "업적",
+        "박현준"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 110.89,
+      "peak_score": 101.42,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 3,
+          "title": "콜옵)박현준 업적",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77080797?m=humor",
+          "score": 93.42
+        },
+        {
+          "source": "인벤",
+          "rank": 94,
+          "title": "콜 오브 듀티 4) 박현준 업적",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2742401",
+          "score": 53.71
+        }
+      ],
+      "first_seen": "2026-10-19T23:36:26.091329+09:00",
+      "last_seen": "2026-10-19T23:36:26.091329+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 3,
+      "change": "NEW"
+    },
+    {
       "id": "i5d6688ff",
       "title": "‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -546,8 +585,8 @@
       "last_seen": "2026-10-19T06:51:26.937377+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 3,
-      "change": 0
+      "rank": 4,
+      "change": -1
     },
     {
       "id": "i15fd8a03",
@@ -587,8 +626,8 @@
       "last_seen": "2026-10-19T10:51:05.418224+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 4,
-      "change": 0
+      "rank": 5,
+      "change": -1
     },
     {
       "id": "i039fd79c",
@@ -633,8 +672,8 @@
       "last_seen": "2026-10-19T10:34:33.550976+09:00",
       "latest_source_count": 3,
       "latest_post_count": 3,
-      "rank": 5,
-      "change": 0
+      "rank": 6,
+      "change": -1
     },
     {
       "id": "i2c5269d4",
@@ -679,8 +718,8 @@
       "last_seen": "2026-10-19T10:51:05.418224+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
-      "change": 0
+      "rank": 7,
+      "change": -1
     },
     {
       "id": "i01009091",
@@ -717,8 +756,8 @@
       "last_seen": "2026-10-19T16:00:56.529568+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": 0
+      "rank": 8,
+      "change": -1
     },
     {
       "id": "i1d176686",
@@ -759,8 +798,8 @@
       "last_seen": "2026-10-19T10:34:33.550976+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 8,
-      "change": 0
+      "rank": 9,
+      "change": -1
     },
     {
       "id": "ie861fdd4",
@@ -797,49 +836,8 @@
       "last_seen": "2026-10-19T23:19:41.988954+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 9,
-      "change": "NEW"
-    },
-    {
-      "id": "id4af6b9b",
-      "title": "5평 원룸에 사는 예비부부 근황.",
-      "keywords": [
-        "5평",
-        "원룸에",
-        "예비부부",
-        "사는"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 92.29,
-      "peak_score": 82.82,
-      "appearances": 1,
-      "sources": [
-        "루리웹",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 13,
-          "title": "5평 원룸에 사는 예비부부 근황.",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2742419",
-          "score": 74.82
-        },
-        {
-          "source": "루리웹",
-          "rank": 37,
-          "title": "5평 원룸에 사는 예비부부 근황",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77084490?m=humor_only&t=now",
-          "score": 63.41
-        }
-      ],
-      "first_seen": "2026-10-19T23:19:41.988954+09:00",
-      "last_seen": "2026-10-19T23:19:41.988954+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 10,
-      "change": "NEW"
+      "change": -1
     }
   ],
   "realtime_issues": [
@@ -850,9 +848,9 @@
         "프랑스"
       ],
       "source_count": 3,
-      "post_count": 3,
-      "score": 98.86,
-      "peak_score": 98.86,
+      "post_count": 4,
+      "score": 97.42,
+      "peak_score": 97.42,
       "appearances": 1,
       "sources": [
         "디시인사이드",
@@ -862,39 +860,40 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 6,
+          "rank": 7,
           "title": "싱글벙글 프랑스 시위를 목격한 일본인 반응...jpg",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471576&_dcbest=1&page=1",
-          "score": 81.86
+          "score": 79.42
         },
         {
           "source": "인벤",
-          "rank": 56,
+          "rank": 44,
           "title": "전쟁터 방불케 한 프랑스 시위…유럽 곳곳서도 ‘생활고’ 폭발",
           "url": "https://www.inven.co.kr/board/webzine/2097/2742422",
-          "score": 60.68
+          "score": 61.93
         },
         {
           "source": "클리앙",
-          "rank": 64,
+          "rank": 70,
           "title": "프랑스 보면 우리나라 국민성이 새삼 대단하다고 느끼게 됩니다",
           "url": "https://www.clien.net/service/board/park/19279912?od=T31&po=0&category=0&groupCd=",
-          "score": 60.08
+          "score": 58.46
         }
       ],
       "rank": 1,
       "change": 0
     },
     {
-      "id": "ie861fdd4",
-      "title": "‘솔직히’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i12697790",
+      "title": "콜옵)박현준 업적",
       "keywords": [
-        "솔직히"
+        "업적",
+        "박현준"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 84.35,
-      "peak_score": 84.35,
+      "score": 101.42,
+      "peak_score": 101.42,
       "appearances": 1,
       "sources": [
         "루리웹",
@@ -902,58 +901,21 @@
       ],
       "posts": [
         {
-          "source": "인벤",
-          "rank": 11,
-          "title": "솔직히 여자들도 섹스 엄청 좋아해..",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2742421",
-          "score": 75.35
+          "source": "루리웹",
+          "rank": 3,
+          "title": "콜옵)박현준 업적",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77080797?m=humor",
+          "score": 93.42
         },
         {
-          "source": "루리웹",
-          "rank": 91,
-          "title": "명조) \"방랑자, 솔직히 당신이라 나오긴 했지만 영화픽 진짜 너무하잖아요\"",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77084460?m=humor_only&t=now",
-          "score": 52.97
+          "source": "인벤",
+          "rank": 94,
+          "title": "콜 오브 듀티 4) 박현준 업적",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2742401",
+          "score": 53.71
         }
       ],
       "rank": 2,
-      "change": "NEW"
-    },
-    {
-      "id": "id4af6b9b",
-      "title": "5평 원룸에 사는 예비부부 근황.",
-      "keywords": [
-        "5평",
-        "원룸에",
-        "예비부부",
-        "사는"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 82.82,
-      "peak_score": 82.82,
-      "appearances": 1,
-      "sources": [
-        "루리웹",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 13,
-          "title": "5평 원룸에 사는 예비부부 근황.",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2742419",
-          "score": 74.82
-        },
-        {
-          "source": "루리웹",
-          "rank": 37,
-          "title": "5평 원룸에 사는 예비부부 근황",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77084490?m=humor_only&t=now",
-          "score": 63.41
-        }
-      ],
-      "rank": 3,
       "change": "NEW"
     },
     {
@@ -964,8 +926,8 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 73.39,
-      "peak_score": 73.39,
+      "score": 73.37,
+      "peak_score": 73.37,
       "appearances": 1,
       "sources": [
         "디시인사이드",
@@ -973,22 +935,22 @@
       ],
       "posts": [
         {
-          "source": "디시인사이드",
-          "rank": 29,
-          "title": "李대통령 “부동산 ‘마지막 폭탄’ 누가 잡을 지 우려돼”",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471582&_dcbest=1&page=1",
-          "score": 64.39
-        },
-        {
           "source": "클리앙",
-          "rank": 33,
+          "rank": 34,
           "title": "대통령께서 부동산 세금이 싸다고 하니 아마도...",
           "url": "https://www.clien.net/service/board/park/19279923?od=T31&po=0&category=0&groupCd=",
-          "score": 63.94
+          "score": 64.37
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 35,
+          "title": "李대통령 “부동산 ‘마지막 폭탄’ 누가 잡을 지 우려돼”",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471582&_dcbest=1&page=1",
+          "score": 63.91
         }
       ],
-      "rank": 4,
-      "change": "NEW"
+      "rank": 3,
+      "change": 1
     },
     {
       "id": "i567efd17",
@@ -998,8 +960,8 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 71.48,
-      "peak_score": 71.48,
+      "score": 68.36,
+      "peak_score": 68.36,
       "appearances": 1,
       "sources": [
         "더쿠",
@@ -1008,135 +970,30 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 42,
+          "rank": 61,
           "title": "백제 금동대향로 등장 논란 생긴 중국 사극 드라마.jpg",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471546&_dcbest=1&page=1",
-          "score": 62.48
+          "score": 59.36
         },
         {
           "source": "더쿠",
-          "rank": 75,
+          "rank": 80,
           "title": "전개될수록 설정이 과하다는 반응 나오는 중인 드라마",
           "url": "https://theqoo.net/hot/4380578564",
-          "score": 57.26
+          "score": 56.11
         }
       ],
-      "rank": 5,
-      "change": "NEW"
-    },
-    {
-      "id": "i04bfb944",
-      "title": "‘성공한’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "성공한"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 70.0,
-      "peak_score": 70.0,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "루리웹"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 55,
-          "title": "김세의 때문에 벼랑 끝까지 몰렸던 장사의 신 은현장이 복수에 성공한 방법",
-          "url": "https://theqoo.net/hot/4380835674",
-          "score": 61.0
-        },
-        {
-          "source": "루리웹",
-          "rank": 81,
-          "title": "난민 설정 캐릭터 중에 가장 크게 성공한 사례.jpg",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77084540?m=humor_only&t=now",
-          "score": 55.59
-        }
-      ],
-      "rank": 6,
-      "change": "NEW"
-    },
-    {
-      "id": "ib60c9944",
-      "title": "‘김세의’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "김세의"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 70.0,
-      "peak_score": 70.0,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 55,
-          "title": "김세의 때문에 벼랑 끝까지 몰렸던 장사의 신 은현장이 복수에 성공한 방법",
-          "url": "https://theqoo.net/hot/4380835674",
-          "score": 61.0
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 94,
-          "title": "김세의 '독방이 내 정신건강 해쳐'",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10157301",
-          "score": 52.79
-        }
-      ],
-      "rank": 7,
-      "change": "NEW"
-    },
-    {
-      "id": "i5d41ce95",
-      "title": "세계에서 가장 큰 소나무 '슈거 파인'",
-      "keywords": [
-        "파인",
-        "소나무",
-        "슈거",
-        "세계에서"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 69.2,
-      "peak_score": 69.2,
-      "appearances": 1,
-      "sources": [
-        "루리웹",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 52,
-          "title": "세계에서 가장 큰 소나무 '슈거 파인'",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2742427",
-          "score": 61.2
-        },
-        {
-          "source": "루리웹",
-          "rank": 99,
-          "title": "세계에서 가장 큰 소나무 '슈거 파인'",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77084520?m=humor_only&t=now",
-          "score": 51.57
-        }
-      ],
-      "rank": 8,
-      "change": "NEW"
+      "rank": 4,
+      "change": 1
     }
   ],
   "keywords": [
     {
       "keyword": "프랑스",
-      "score": 127.66,
+      "score": 130.26,
       "post_count": 4,
       "source_count": 3,
-      "best_rank": 6,
+      "best_rank": 7,
       "sources": [
         "디시인사이드",
         "인벤",
@@ -1144,26 +1001,11 @@
       ],
       "aliases": [],
       "rank": 1,
-      "change": 8
-    },
-    {
-      "keyword": "일본",
-      "score": 111.74,
-      "post_count": 3,
-      "source_count": 3,
-      "best_rank": 30,
-      "sources": [
-        "더쿠",
-        "디시인사이드",
-        "인벤"
-      ],
-      "aliases": [],
-      "rank": 2,
-      "change": "NEW"
+      "change": 0
     },
     {
       "keyword": "남성",
-      "score": 104.37,
+      "score": 106.19,
       "post_count": 2,
       "source_count": 2,
       "best_rank": 4,
@@ -1172,230 +1014,242 @@
         "인벤"
       ],
       "aliases": [],
+      "rank": 2,
+      "change": 1
+    },
+    {
+      "keyword": "콜옵",
+      "score": 102.72,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 3,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "aliases": [],
       "rank": 3,
       "change": "NEW"
     },
     {
       "keyword": "동안",
-      "score": 101.14,
+      "score": 101.78,
       "post_count": 3,
       "source_count": 2,
-      "best_rank": 12,
+      "best_rank": 11,
       "sources": [
         "더쿠",
         "디시인사이드"
       ],
       "aliases": [],
       "rank": 4,
-      "change": "NEW"
+      "change": 0
     },
     {
       "keyword": "시위",
-      "score": 99.66,
+      "score": 100.46,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 6,
+      "best_rank": 7,
       "sources": [
         "디시인사이드",
         "인벤"
       ],
       "aliases": [],
       "rank": 5,
-      "change": -2
+      "change": 0
     },
     {
-      "keyword": "예비부부",
-      "score": 98.04,
+      "keyword": "박현준",
+      "score": 97.15,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 13,
+      "best_rank": 3,
       "sources": [
         "루리웹",
         "인벤"
       ],
       "aliases": [
-        "5평",
-        "사는",
-        "원룸"
+        "업적"
       ],
       "rank": 6,
       "change": "NEW"
     },
     {
       "keyword": "처분",
-      "score": 93.04,
+      "score": 93.22,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 27,
+      "best_rank": 25,
       "sources": [
         "디시인사이드",
         "인벤"
       ],
       "aliases": [],
       "rank": 7,
-      "change": "NEW"
-    },
-    {
-      "keyword": "k2",
-      "score": 92.95,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 17,
-      "sources": [
-        "디시인사이드",
-        "뽐뿌"
-      ],
-      "aliases": [],
-      "rank": 8,
-      "change": "NEW"
+      "change": 0
     },
     {
       "keyword": "부동산",
-      "score": 92.77,
+      "score": 91.92,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 29,
+      "best_rank": 34,
       "sources": [
         "디시인사이드",
         "클리앙"
       ],
       "aliases": [],
+      "rank": 8,
+      "change": 1
+    },
+    {
+      "keyword": "일본",
+      "score": 91.49,
+      "post_count": 3,
+      "source_count": 2,
+      "best_rank": 42,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "aliases": [],
       "rank": 9,
-      "change": "NEW"
+      "change": -7
     },
     {
       "keyword": "생긴",
-      "score": 92.09,
+      "score": 88.32,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 26,
+      "best_rank": 33,
       "sources": [
         "디시인사이드",
         "인벤"
       ],
       "aliases": [],
       "rank": 10,
-      "change": "NEW"
+      "change": 0
     },
     {
-      "keyword": "솔직히",
-      "score": 91.11,
+      "keyword": "ai",
+      "score": 86.29,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 11,
+      "best_rank": 49,
       "sources": [
-        "루리웹",
-        "인벤"
+        "디시인사이드",
+        "루리웹"
       ],
       "aliases": [],
       "rank": 11,
-      "change": "NEW"
+      "change": 7
     },
     {
       "keyword": "단독",
-      "score": 89.28,
+      "score": 85.17,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 38,
+      "best_rank": 54,
       "sources": [
         "더쿠",
         "디시인사이드"
       ],
       "aliases": [],
       "rank": 12,
-      "change": "NEW"
+      "change": 0
     },
     {
-      "keyword": "혐한",
-      "score": 87.65,
+      "keyword": "신곡",
+      "score": 83.75,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 15,
+      "best_rank": 39,
       "sources": [
         "더쿠",
-        "디시인사이드"
+        "인벤"
       ],
       "aliases": [],
       "rank": 13,
       "change": "NEW"
     },
     {
-      "keyword": "드라마",
-      "score": 84.96,
+      "keyword": "징역",
+      "score": 81.51,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 42,
+      "best_rank": 50,
       "sources": [
-        "더쿠",
-        "디시인사이드"
+        "루리웹",
+        "인벤"
       ],
       "aliases": [],
       "rank": 14,
       "change": "NEW"
     },
     {
-      "keyword": "징계",
-      "score": 84.62,
+      "keyword": "드라마",
+      "score": 81.49,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 26,
+      "best_rank": 61,
       "sources": [
-        "디시인사이드",
-        "인벤"
+        "더쿠",
+        "디시인사이드"
       ],
       "aliases": [],
       "rank": 15,
-      "change": "NEW"
+      "change": -1
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "이젠 1000만원조차 아니라는 RTX 5090 근황 ㅋㅋㅋㅋㅋ",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77081462?m=humor",
-      "score": 97.44,
-      "views": 27487,
-      "comments": 98
+      "title": "중기사)스포) 최신화에서 묘사된 주인공 아버지의 실제 무력.jpg",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77083496?m=humor",
+      "score": 97.29,
+      "views": 10316,
+      "comments": 95
     },
     {
       "source": "더쿠",
       "title": "마곡역 남성 추락사 관련... (블라인드)",
       "url": "https://theqoo.net/hot/4380792181",
-      "score": 86.84,
-      "views": 52675,
-      "comments": 463
+      "score": 88.84,
+      "views": 60800,
+      "comments": 514
     },
     {
       "source": "뽐뿌",
-      "title": "공무원20년했는데 월급 400이안되네요",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=problem&no=237429",
-      "score": 86.66,
-      "views": 15063,
-      "comments": 133
+      "title": "2호선 성지관련 실망스런 sk대응",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=phone&no=3936634",
+      "score": 79.57,
+      "views": 19777,
+      "comments": 38
     },
     {
       "source": "디시인사이드",
       "title": "싱글벙글 프랑스 시위를 목격한 일본인 반응...jpg",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471576&_dcbest=1&page=1",
-      "score": 81.86,
-      "views": 15428,
-      "comments": 258
+      "score": 79.42,
+      "views": 16401,
+      "comments": 263
     },
     {
       "source": "인벤",
-      "title": "솔직히 여자들도 섹스 엄청 좋아해..",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2742421",
-      "score": 75.35,
-      "views": 1328,
+      "title": "5평 원룸에 사는 예비부부 근황.",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2742419",
+      "score": 78.88,
+      "views": 1841,
       "comments": 12
     },
     {
       "source": "클리앙",
       "title": "경찰, ''李대통령이 국민 속여' 유시민, 명예훼손으로 수사 착수",
       "url": "https://www.clien.net/service/board/park/19279922?od=T31&po=0&category=0&groupCd=",
-      "score": 68.27,
-      "views": 1179,
-      "comments": 14
+      "score": 68.16,
+      "views": 1629,
+      "comments": 21
     }
   ]
 }
