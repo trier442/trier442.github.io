@@ -3,7 +3,7 @@
   "period": "daily",
   "key": "2026-10-21",
   "label": "2026년 10월 21일",
-  "collected_at": "2026-10-21T02:56:28.850708+09:00",
+  "collected_at": "2026-10-21T06:30:19.429092+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -42,7 +42,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 1,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i6c387ceb",
@@ -52,9 +52,9 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 97.73,
+      "score": 99.75,
       "peak_score": 88.26,
-      "appearances": 1,
+      "appearances": 2,
       "sources": [
         "뽐뿌",
         "클리앙"
@@ -62,25 +62,25 @@
       "posts": [
         {
           "source": "클리앙",
-          "rank": 5,
+          "rank": 15,
           "title": "딴지에서 시시타파 압수수색 당한다고 분노하는거 보면",
           "url": "https://www.clien.net/service/board/park/19280490?od=T31&po=0&category=0&groupCd=",
-          "score": 79.26
+          "score": 70.82
         },
         {
           "source": "뽐뿌",
-          "rank": 69,
-          "title": "시사타파 압수수색 소식을 접한 최강욱의 촉",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10159079",
-          "score": 57.45
+          "rank": 100,
+          "title": "이제 대통령 욕하면 국민들도 압수수색 당하는군요.",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10159123",
+          "score": 50.78
         }
       ],
       "first_seen": "2026-10-17T15:05:40.756251+09:00",
-      "last_seen": "2026-10-21T02:56:28.850708+09:00",
+      "last_seen": "2026-10-21T06:30:19.429092+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 2,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "ic71c3480",
@@ -118,7 +118,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 3,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i1b672c00",
@@ -156,7 +156,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 4,
-      "change": "NEW"
+      "change": 0
     }
   ]
 }
