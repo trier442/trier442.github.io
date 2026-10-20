@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-10-21T06:30:19.429092+09:00",
+  "collected_at": "2026-10-21T06:32:12.656813+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -11,38 +11,38 @@
   "rankings": {
     "realtime": [
       {
-        "id": "i6c387ceb",
-        "title": "‘압수수색’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i5d6688ff",
+        "title": "‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "압수수색"
+          "네이버페이"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 79.82,
-        "peak_score": 79.82,
+        "score": 98.91,
+        "peak_score": 98.91,
         "appearances": 1,
         "sources": [
-          "뽐뿌",
-          "클리앙"
+          "루리웹",
+          "뽐뿌"
         ],
         "posts": [
           {
-            "source": "클리앙",
-            "rank": 15,
-            "title": "딴지에서 시시타파 압수수색 당한다고 분노하는거 보면",
-            "url": "https://www.clien.net/service/board/park/19280490?od=T31&po=0&category=0&groupCd=",
-            "score": 70.82
+            "source": "루리웹",
+            "rank": 3,
+            "title": "[네이버페이] 일일적립, 클릭 23원, 라이브예고 12원",
+            "url": "https://bbs.ruliweb.com/market/board/1020/read/108196",
+            "score": 89.91
           },
           {
             "source": "뽐뿌",
-            "rank": 100,
-            "title": "이제 대통령 욕하면 국민들도 압수수색 당하는군요.",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10159123",
-            "score": 50.78
+            "rank": 90,
+            "title": "[란123] 네이버페이 68원 + 랜덤 포인트 받으세요 (+기타 388원)",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10159107",
+            "score": 52.37
           }
         ],
         "rank": 1,
-        "change": 1
+        "change": "NEW"
       }
     ],
     "daily": [
@@ -85,6 +85,44 @@
         "change": 0
       },
       {
+        "id": "i5d6688ff",
+        "title": "‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "네이버페이"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 108.38,
+        "peak_score": 98.91,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 3,
+            "title": "[네이버페이] 일일적립, 클릭 23원, 라이브예고 12원",
+            "url": "https://bbs.ruliweb.com/market/board/1020/read/108196",
+            "score": 89.91
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 90,
+            "title": "[란123] 네이버페이 68원 + 랜덤 포인트 받으세요 (+기타 388원)",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10159107",
+            "score": 52.37
+          }
+        ],
+        "first_seen": "2026-09-28T07:08:45.324597+09:00",
+        "last_seen": "2026-10-21T06:32:12.656813+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 2,
+        "change": "NEW"
+      },
+      {
         "id": "i6c387ceb",
         "title": "‘압수수색’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -119,8 +157,8 @@
         "last_seen": "2026-10-21T06:30:19.429092+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 2,
-        "change": 0
+        "rank": 3,
+        "change": -1
       },
       {
         "id": "ic71c3480",
@@ -157,8 +195,8 @@
         "last_seen": "2026-10-21T02:56:28.850708+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 3,
-        "change": 0
+        "rank": 4,
+        "change": -1
       },
       {
         "id": "i1b672c00",
@@ -195,8 +233,8 @@
         "last_seen": "2026-10-21T02:56:28.850708+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 4,
-        "change": 0
+        "rank": 5,
+        "change": -1
       }
     ],
     "weekly": [
@@ -392,6 +430,44 @@
         "change": 0
       },
       {
+        "id": "i5d6688ff",
+        "title": "‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "네이버페이"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 113.34,
+        "peak_score": 100.41,
+        "appearances": 3,
+        "sources": [
+          "루리웹",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 3,
+            "title": "[네이버페이] 일일적립, 클릭 23원, 라이브예고 12원",
+            "url": "https://bbs.ruliweb.com/market/board/1020/read/108196",
+            "score": 89.91
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 90,
+            "title": "[란123] 네이버페이 68원 + 랜덤 포인트 받으세요 (+기타 388원)",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10159107",
+            "score": 52.37
+          }
+        ],
+        "first_seen": "2026-09-28T07:08:45.324597+09:00",
+        "last_seen": "2026-10-21T06:32:12.656813+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 5,
+        "change": 1
+      },
+      {
         "id": "i66d5dc5e",
         "title": "‘넘어가면’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -426,46 +502,8 @@
         "last_seen": "2026-10-21T02:56:28.850708+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 5,
-        "change": 0
-      },
-      {
-        "id": "i5d6688ff",
-        "title": "‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "네이버페이"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 111.9,
-        "peak_score": 100.41,
-        "appearances": 2,
-        "sources": [
-          "루리웹",
-          "뽐뿌"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 24,
-            "title": "[네이버페이] 라방 랜덤 5원",
-            "url": "https://bbs.ruliweb.com/market/board/1020/read/108168",
-            "score": 69.19
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 77,
-            "title": "배스킨라빈스 X 네이버페이 결제 40%, 70%할인",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=money&no=548874",
-            "score": 55.38
-          }
-        ],
-        "first_seen": "2026-09-28T07:08:45.324597+09:00",
-        "last_seen": "2026-10-20T16:31:55.059688+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 6,
-        "change": 0
+        "change": -1
       },
       {
         "id": "i12697790",
@@ -739,7 +777,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 13,
-        "change": 2
+        "change": 0
       },
       {
         "id": "i51a99cec",
@@ -782,7 +820,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 14,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i01009091",
@@ -822,7 +860,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 15,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i2c5269d4",

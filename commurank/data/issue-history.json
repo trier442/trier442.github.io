@@ -1,6 +1,131 @@
 {
   "version": 1,
   "issues": {
+    "i5d6688ff": {
+      "id": "i5d6688ff",
+      "first_seen": "2026-09-28T07:08:45.324597+09:00",
+      "last_seen": "2026-10-21T06:32:12.656813+09:00",
+      "title": "‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "네이버페이"
+      ],
+      "points": [
+        {
+          "at": "2026-09-28T07:08:45.324597+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 82.57,
+          "sources": [
+            "루리웹",
+            "뽐뿌"
+          ],
+          "post_urls": [
+            "https://bbs.ruliweb.com/market/board/1020/read/107567",
+            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10133072"
+          ]
+        },
+        {
+          "at": "2026-10-06T06:36:15.476715+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 98.4,
+          "sources": [
+            "루리웹",
+            "뽐뿌"
+          ],
+          "post_urls": [
+            "https://bbs.ruliweb.com/market/board/1020/read/107785",
+            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10143171"
+          ]
+        },
+        {
+          "at": "2026-10-07T05:37:53.772123+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 99.92,
+          "sources": [
+            "루리웹",
+            "뽐뿌"
+          ],
+          "post_urls": [
+            "https://bbs.ruliweb.com/market/board/1020/read/107820",
+            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10144458"
+          ]
+        },
+        {
+          "at": "2026-10-15T08:52:43.582251+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 100.07,
+          "sources": [
+            "루리웹",
+            "뽐뿌"
+          ],
+          "post_urls": [
+            "https://bbs.ruliweb.com/market/board/1020/read/108048",
+            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10152328"
+          ]
+        },
+        {
+          "at": "2026-10-19T06:51:26.937377+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 100.41,
+          "sources": [
+            "루리웹",
+            "뽐뿌"
+          ],
+          "post_urls": [
+            "https://bbs.ruliweb.com/market/board/1020/read/108133",
+            "https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=119767"
+          ]
+        },
+        {
+          "at": "2026-10-20T16:31:55.059688+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 78.19,
+          "sources": [
+            "루리웹",
+            "뽐뿌"
+          ],
+          "post_urls": [
+            "https://bbs.ruliweb.com/market/board/1020/read/108168",
+            "https://www.ppomppu.co.kr/zboard/view.php?id=money&no=548874"
+          ]
+        },
+        {
+          "at": "2026-10-21T06:32:12.656813+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 98.91,
+          "sources": [
+            "루리웹",
+            "뽐뿌"
+          ],
+          "post_urls": [
+            "https://bbs.ruliweb.com/market/board/1020/read/108196",
+            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10159107"
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 3,
+          "title": "[네이버페이] 일일적립, 클릭 23원, 라이브예고 12원",
+          "url": "https://bbs.ruliweb.com/market/board/1020/read/108196",
+          "score": 89.91
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 90,
+          "title": "[란123] 네이버페이 68원 + 랜덤 포인트 받으세요 (+기타 388원)",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10159107",
+          "score": 52.37
+        }
+      ]
+    },
     "i6c387ceb": {
       "id": "i6c387ceb",
       "first_seen": "2026-10-17T15:05:40.756251+09:00",
@@ -2857,117 +2982,6 @@
           "title": "남자들이 많이 당하는 사기 유형.jpg",
           "url": "https://bbs.ruliweb.com/best/board/300143/read/77090668?m=humor_only&t=now",
           "score": 54.87
-        }
-      ]
-    },
-    "i5d6688ff": {
-      "id": "i5d6688ff",
-      "first_seen": "2026-09-28T07:08:45.324597+09:00",
-      "last_seen": "2026-10-20T16:31:55.059688+09:00",
-      "title": "‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "네이버페이"
-      ],
-      "points": [
-        {
-          "at": "2026-09-28T07:08:45.324597+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 82.57,
-          "sources": [
-            "루리웹",
-            "뽐뿌"
-          ],
-          "post_urls": [
-            "https://bbs.ruliweb.com/market/board/1020/read/107567",
-            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10133072"
-          ]
-        },
-        {
-          "at": "2026-10-06T06:36:15.476715+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 98.4,
-          "sources": [
-            "루리웹",
-            "뽐뿌"
-          ],
-          "post_urls": [
-            "https://bbs.ruliweb.com/market/board/1020/read/107785",
-            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10143171"
-          ]
-        },
-        {
-          "at": "2026-10-07T05:37:53.772123+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 99.92,
-          "sources": [
-            "루리웹",
-            "뽐뿌"
-          ],
-          "post_urls": [
-            "https://bbs.ruliweb.com/market/board/1020/read/107820",
-            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10144458"
-          ]
-        },
-        {
-          "at": "2026-10-15T08:52:43.582251+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 100.07,
-          "sources": [
-            "루리웹",
-            "뽐뿌"
-          ],
-          "post_urls": [
-            "https://bbs.ruliweb.com/market/board/1020/read/108048",
-            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10152328"
-          ]
-        },
-        {
-          "at": "2026-10-19T06:51:26.937377+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 100.41,
-          "sources": [
-            "루리웹",
-            "뽐뿌"
-          ],
-          "post_urls": [
-            "https://bbs.ruliweb.com/market/board/1020/read/108133",
-            "https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=119767"
-          ]
-        },
-        {
-          "at": "2026-10-20T16:31:55.059688+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 78.19,
-          "sources": [
-            "루리웹",
-            "뽐뿌"
-          ],
-          "post_urls": [
-            "https://bbs.ruliweb.com/market/board/1020/read/108168",
-            "https://www.ppomppu.co.kr/zboard/view.php?id=money&no=548874"
-          ]
-        }
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 24,
-          "title": "[네이버페이] 라방 랜덤 5원",
-          "url": "https://bbs.ruliweb.com/market/board/1020/read/108168",
-          "score": 69.19
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 77,
-          "title": "배스킨라빈스 X 네이버페이 결제 40%, 70%할인",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=money&no=548874",
-          "score": 55.38
         }
       ]
     },
@@ -31510,5 +31524,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-21T06:30:19.429092+09:00"
+  "updated_at": "2026-10-21T06:32:12.656813+09:00"
 }

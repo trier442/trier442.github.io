@@ -3,7 +3,7 @@
   "period": "daily",
   "key": "2026-10-21",
   "label": "2026년 10월 21일",
-  "collected_at": "2026-10-21T06:30:19.429092+09:00",
+  "collected_at": "2026-10-21T06:32:12.656813+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -45,6 +45,44 @@
       "change": 0
     },
     {
+      "id": "i5d6688ff",
+      "title": "‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "네이버페이"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 108.38,
+      "peak_score": 98.91,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 3,
+          "title": "[네이버페이] 일일적립, 클릭 23원, 라이브예고 12원",
+          "url": "https://bbs.ruliweb.com/market/board/1020/read/108196",
+          "score": 89.91
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 90,
+          "title": "[란123] 네이버페이 68원 + 랜덤 포인트 받으세요 (+기타 388원)",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10159107",
+          "score": 52.37
+        }
+      ],
+      "first_seen": "2026-09-28T07:08:45.324597+09:00",
+      "last_seen": "2026-10-21T06:32:12.656813+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 2,
+      "change": "NEW"
+    },
+    {
       "id": "i6c387ceb",
       "title": "‘압수수색’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -79,8 +117,8 @@
       "last_seen": "2026-10-21T06:30:19.429092+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 2,
-      "change": 0
+      "rank": 3,
+      "change": -1
     },
     {
       "id": "ic71c3480",
@@ -117,8 +155,8 @@
       "last_seen": "2026-10-21T02:56:28.850708+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 3,
-      "change": 0
+      "rank": 4,
+      "change": -1
     },
     {
       "id": "i1b672c00",
@@ -155,8 +193,8 @@
       "last_seen": "2026-10-21T02:56:28.850708+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 4,
-      "change": 0
+      "rank": 5,
+      "change": -1
     }
   ]
 }
