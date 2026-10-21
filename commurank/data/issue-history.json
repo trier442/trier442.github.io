@@ -1,6 +1,130 @@
 {
   "version": 1,
   "issues": {
+    "ie91a6665": {
+      "id": "ie91a6665",
+      "first_seen": "2026-10-14T10:50:25.054561+09:00",
+      "last_seen": "2026-10-21T13:36:49.211231+09:00",
+      "title": "‘인터뷰’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "인터뷰"
+      ],
+      "points": [
+        {
+          "at": "2026-10-14T10:50:25.054561+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 77.44,
+          "sources": [
+            "디시인사이드",
+            "뽐뿌"
+          ],
+          "post_urls": [
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=470154&_dcbest=1&page=1",
+            "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=23243"
+          ]
+        },
+        {
+          "at": "2026-10-20T11:06:26.396834+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 68.93,
+          "sources": [
+            "루리웹",
+            "인벤"
+          ],
+          "post_urls": [
+            "https://www.inven.co.kr/board/webzine/2097/2742539",
+            "https://bbs.ruliweb.com/best/board/300143/read/77087631?m=humor_only&t=now"
+          ]
+        },
+        {
+          "at": "2026-10-20T11:10:25.877036+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 66.85,
+          "sources": [
+            "루리웹",
+            "인벤"
+          ],
+          "post_urls": [
+            "https://www.inven.co.kr/board/webzine/2097/2742539",
+            "https://bbs.ruliweb.com/best/board/300143/read/77087631?m=humor_only&t=now"
+          ]
+        },
+        {
+          "at": "2026-10-21T13:36:49.211231+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 81.11,
+          "sources": [
+            "더쿠",
+            "인벤"
+          ],
+          "post_urls": [
+            "https://www.inven.co.kr/board/webzine/2097/2743105",
+            "https://theqoo.net/hot/4382242528"
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 18,
+          "title": "코인으로 600만원에서 3800억 번 워뇨띠 인터뷰 (스압주의)",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2743105",
+          "score": 72.11
+        },
+        {
+          "source": "더쿠",
+          "rank": 68,
+          "title": "'수출비’ 이선빈 “이광수 버블 구독? 저는 개인 구독자죠”[인터뷰]",
+          "url": "https://theqoo.net/hot/4382242528",
+          "score": 58.37
+        }
+      ]
+    },
+    "ifa68b8a4": {
+      "id": "ifa68b8a4",
+      "first_seen": "2026-10-21T13:36:49.211231+09:00",
+      "last_seen": "2026-10-21T13:36:49.211231+09:00",
+      "title": "‘합리적’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "합리적"
+      ],
+      "points": [
+        {
+          "at": "2026-10-21T13:36:49.211231+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 87.05,
+          "sources": [
+            "뽐뿌",
+            "인벤"
+          ],
+          "post_urls": [
+            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10159379",
+            "https://www.inven.co.kr/board/webzine/2097/2743095"
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 7,
+          "title": "정은경 사태 합리적 추론",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10159379",
+          "score": 78.05
+        },
+        {
+          "source": "인벤",
+          "rank": 72,
+          "title": "김민석 \"초광역특구법 최우선 입법…52시간제 합리적 대안 도출\"",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2743095",
+          "score": 57.87
+        }
+      ]
+    },
     "ic71c3480": {
       "id": "ic71c3480",
       "first_seen": "2026-10-21T02:56:28.850708+09:00",
@@ -4505,75 +4629,6 @@
           "title": "A2O 아이찡, 부모 임금 체불 논란에 추가 폭로…중국 여론 악화",
           "url": "https://theqoo.net/hot/4381131569",
           "score": 65.0
-        }
-      ]
-    },
-    "ie91a6665": {
-      "id": "ie91a6665",
-      "first_seen": "2026-10-14T10:50:25.054561+09:00",
-      "last_seen": "2026-10-20T11:10:25.877036+09:00",
-      "title": "‘인터뷰’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "인터뷰"
-      ],
-      "points": [
-        {
-          "at": "2026-10-14T10:50:25.054561+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 77.44,
-          "sources": [
-            "디시인사이드",
-            "뽐뿌"
-          ],
-          "post_urls": [
-            "https://gall.dcinside.com/board/view/?id=dcbest&no=470154&_dcbest=1&page=1",
-            "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=23243"
-          ]
-        },
-        {
-          "at": "2026-10-20T11:06:26.396834+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 68.93,
-          "sources": [
-            "루리웹",
-            "인벤"
-          ],
-          "post_urls": [
-            "https://www.inven.co.kr/board/webzine/2097/2742539",
-            "https://bbs.ruliweb.com/best/board/300143/read/77087631?m=humor_only&t=now"
-          ]
-        },
-        {
-          "at": "2026-10-20T11:10:25.877036+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 66.85,
-          "sources": [
-            "루리웹",
-            "인벤"
-          ],
-          "post_urls": [
-            "https://www.inven.co.kr/board/webzine/2097/2742539",
-            "https://bbs.ruliweb.com/best/board/300143/read/77087631?m=humor_only&t=now"
-          ]
-        }
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 67,
-          "title": "[인터뷰] 야차클럽 조용환 대표 \"야차 클럽이 없어졌으면 좋겠습니다\"",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2742539",
-          "score": 57.85
-        },
-        {
-          "source": "루리웹",
-          "rank": 72,
-          "title": "프랑스 시위 피해 게임샵 아저씨 인터뷰",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77087631?m=humor_only&t=now",
-          "score": 57.19
         }
       ]
     },
@@ -31424,105 +31479,7 @@
           "score": 56.24
         }
       ]
-    },
-    "i171ab594": {
-      "id": "i171ab594",
-      "first_seen": "2026-09-27T14:01:32.332928+09:00",
-      "last_seen": "2026-09-27T14:14:08.194313+09:00",
-      "title": "김동현 로우킥 맞고 싶다는 사장님",
-      "keywords": [
-        "김동현",
-        "로우킥"
-      ],
-      "points": [
-        {
-          "at": "2026-09-27T14:01:32.332928+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 70.79,
-          "sources": [
-            "뽐뿌",
-            "인벤"
-          ],
-          "post_urls": [
-            "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=21605",
-            "https://www.inven.co.kr/board/webzine/2097/2733129"
-          ]
-        },
-        {
-          "at": "2026-09-27T14:03:48.315032+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 70.92,
-          "sources": [
-            "뽐뿌",
-            "인벤"
-          ],
-          "post_urls": [
-            "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=21605",
-            "https://www.inven.co.kr/board/webzine/2097/2733129"
-          ]
-        },
-        {
-          "at": "2026-09-27T14:04:44.915653+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 72.57,
-          "sources": [
-            "뽐뿌",
-            "인벤"
-          ],
-          "post_urls": [
-            "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=21605",
-            "https://www.inven.co.kr/board/webzine/2097/2733129"
-          ]
-        },
-        {
-          "at": "2026-09-27T14:09:17.311285+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 72.31,
-          "sources": [
-            "뽐뿌",
-            "인벤"
-          ],
-          "post_urls": [
-            "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=21605",
-            "https://www.inven.co.kr/board/webzine/2097/2733129"
-          ]
-        },
-        {
-          "at": "2026-09-27T14:14:08.194313+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 67.78,
-          "sources": [
-            "뽐뿌",
-            "인벤"
-          ],
-          "post_urls": [
-            "https://www.inven.co.kr/board/webzine/2097/2733129",
-            "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=21605"
-          ]
-        }
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 55,
-          "title": "김동현 로우킥 맞고 싶다는 사장님",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2733129",
-          "score": 59.78
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 61,
-          "title": "김동현 로우킥 맞고 싶다는 사장님",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=21605",
-          "score": 58.74
-        }
-      ]
     }
   },
-  "updated_at": "2026-10-21T09:05:44.284523+09:00"
+  "updated_at": "2026-10-21T13:36:49.211231+09:00"
 }

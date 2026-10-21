@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W43",
   "label": "2026.10.19 ~ 10.25",
-  "collected_at": "2026-10-21T09:05:44.284523+09:00",
+  "collected_at": "2026-10-21T13:36:49.211231+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -724,6 +724,44 @@
       "change": 0
     },
     {
+      "id": "ifa68b8a4",
+      "title": "‘합리적’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "합리적"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 96.52,
+      "peak_score": 87.05,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 7,
+          "title": "정은경 사태 합리적 추론",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10159379",
+          "score": 78.05
+        },
+        {
+          "source": "인벤",
+          "rank": 72,
+          "title": "김민석 \"초광역특구법 최우선 입법…52시간제 합리적 대안 도출\"",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2743095",
+          "score": 57.87
+        }
+      ],
+      "first_seen": "2026-10-21T13:36:49.211231+09:00",
+      "last_seen": "2026-10-21T13:36:49.211231+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 18,
+      "change": "NEW"
+    },
+    {
       "id": "ic71c3480",
       "title": "‘정은경’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -759,8 +797,8 @@
       "last_seen": "2026-10-21T09:05:44.284523+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 18,
-      "change": "NEW"
+      "rank": 19,
+      "change": -1
     },
     {
       "id": "i6deb5617",
@@ -797,46 +835,8 @@
       "last_seen": "2026-10-21T09:05:44.284523+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 19,
-      "change": "NEW"
-    },
-    {
-      "id": "ibbdb8f43",
-      "title": "‘지어야’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "지어야"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 95.64,
-      "peak_score": 81.59,
-      "appearances": 4,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 84,
-          "title": "닉네임을 신중하게 지어야 하는 이유.corona",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471679&_dcbest=1&page=1",
-          "score": 54.74
-        },
-        {
-          "source": "더쿠",
-          "rank": 93,
-          "title": "사우디에 교회를 지을 수 없다면, 유럽에 왜 모스크를 지어야 합니까?\"",
-          "url": "https://theqoo.net/hot/4381035613",
-          "score": 51.95
-        }
-      ],
-      "first_seen": "2026-10-20T08:40:20.099761+09:00",
-      "last_seen": "2026-10-20T11:10:25.877036+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 20,
-      "change": -2
+      "change": -1
     }
   ]
 }

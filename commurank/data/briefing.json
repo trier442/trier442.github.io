@@ -2,19 +2,19 @@
   "version": 1,
   "date": "2026-10-21",
   "label": "2026년 10월 21일",
-  "collected_at": "2026-10-21T09:05:44.284523+09:00",
+  "collected_at": "2026-10-21T13:36:49.211231+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘‘넘어가면’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #사망. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘‘넘어가면’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #서울. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 6,
     "cached_sources": 0,
     "realtime_posts": 100,
     "daily_posts": 100,
-    "daily_issues": 9,
-    "keywords": 14,
-    "top100_views": 1029885,
-    "top100_comments": 7656
+    "daily_issues": 11,
+    "keywords": 9,
+    "top100_views": 929826,
+    "top100_comments": 10107
   },
   "highlights": [
     {
@@ -25,18 +25,36 @@
     },
     {
       "type": "post",
-      "title": "연봉 6000받는 어느 미국 노숙자.jpg",
+      "title": "공주고속도로 adas 사고",
       "text": "루리웹에서 현재 상위권에 오른 인기글입니다.",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77096269?m=humor"
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77099297?m=humor"
     },
     {
       "type": "keyword",
-      "title": "#사망",
+      "title": "#서울",
       "text": "3개 커뮤니티 · 3개 인기글에서 함께 등장했습니다.",
-      "keyword": "사망"
+      "keyword": "서울"
     }
   ],
   "top_posts": [
+    {
+      "title": "공주고속도로 adas 사고",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77099297?m=humor",
+      "first_seen": "2026-10-21T13:36:49.211231+09:00",
+      "last_seen": "2026-10-21T13:36:49.211231+09:00",
+      "peak_score": 98.54,
+      "max_views": 18611,
+      "max_likes": 104,
+      "max_comments": 137,
+      "appearances": 1,
+      "score": 107.93,
+      "views": 18611,
+      "likes": 104,
+      "comments": 137,
+      "change": "NEW"
+    },
     {
       "title": "연봉 6000받는 어느 미국 노숙자.jpg",
       "source": "루리웹",
@@ -49,11 +67,11 @@
       "max_likes": 94,
       "max_comments": 59,
       "appearances": 1,
-      "score": 106.19,
+      "score": 105.81,
       "views": 19042,
       "likes": 94,
       "comments": 59,
-      "change": 0
+      "change": -1
     },
     {
       "title": "극한직업 청주여자 교도소",
@@ -67,11 +85,11 @@
       "max_likes": 50,
       "max_comments": 41,
       "appearances": 1,
-      "score": 106.02,
+      "score": 105.65,
       "views": 12160,
       "likes": 50,
       "comments": 41,
-      "change": 0
+      "change": -1
     },
     {
       "title": "주한미군의 길고양이 해결법",
@@ -85,11 +103,47 @@
       "max_likes": 189,
       "max_comments": 94,
       "appearances": 1,
-      "score": 105.89,
+      "score": 105.52,
       "views": 18352,
       "likes": 189,
       "comments": 94,
-      "change": 0
+      "change": -1
+    },
+    {
+      "title": "마운자로 개발 후 가장 큰 피해보는 업종",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77099398?m=humor",
+      "first_seen": "2026-10-21T13:36:49.211231+09:00",
+      "last_seen": "2026-10-21T13:36:49.211231+09:00",
+      "peak_score": 95.36,
+      "max_views": 14175,
+      "max_likes": 94,
+      "max_comments": 87,
+      "appearances": 1,
+      "score": 104.75,
+      "views": 14175,
+      "likes": 94,
+      "comments": 87,
+      "change": "NEW"
+    },
+    {
+      "title": "한일 무역 분쟁 7년 후 근황",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77097531?m=humor",
+      "first_seen": "2026-10-21T13:36:49.211231+09:00",
+      "last_seen": "2026-10-21T13:36:49.211231+09:00",
+      "peak_score": 94.67,
+      "max_views": 32281,
+      "max_likes": 189,
+      "max_comments": 86,
+      "appearances": 1,
+      "score": 104.06,
+      "views": 32281,
+      "likes": 189,
+      "comments": 86,
+      "change": "NEW"
     },
     {
       "title": "??? : 왜 남자들 타짜 대사를 다 외우고 있는거여??!",
@@ -103,11 +157,11 @@
       "max_likes": 43,
       "max_comments": 64,
       "appearances": 1,
-      "score": 104.08,
+      "score": 103.71,
       "views": 12585,
       "likes": 43,
       "comments": 64,
-      "change": 0
+      "change": -3
     },
     {
       "title": "서른 중반을 넘어가면 오타쿠가 선택해야 하는것",
@@ -121,11 +175,11 @@
       "max_likes": 99,
       "max_comments": 91,
       "appearances": 1,
-      "score": 103.54,
+      "score": 103.17,
       "views": 22129,
       "likes": 99,
       "comments": 91,
-      "change": 0
+      "change": -3
     },
     {
       "title": "북괴 DMZ 지뢰 도발 오늘로 1개월 경과",
@@ -139,11 +193,11 @@
       "max_likes": 78,
       "max_comments": 44,
       "appearances": 1,
-      "score": 102.89,
+      "score": 102.51,
       "views": 5967,
       "likes": 78,
       "comments": 44,
-      "change": "NEW"
+      "change": -3
     },
     {
       "title": "개그맨이 진심으로 노래를 부르면",
@@ -157,157 +211,63 @@
       "max_likes": 47,
       "max_comments": 36,
       "appearances": 1,
-      "score": 100.73,
+      "score": 100.36,
       "views": 7841,
       "likes": 47,
       "comments": 36,
-      "change": -1
-    },
-    {
-      "title": "[네이버페이] 일일적립, 클릭 23원, 라이브예고 12원",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/market/board/1020/read/108196",
-      "first_seen": "2026-10-21T06:32:12.656813+09:00",
-      "last_seen": "2026-10-21T06:32:12.656813+09:00",
-      "peak_score": 89.91,
-      "max_views": 13969,
-      "max_likes": 105,
-      "max_comments": 15,
-      "appearances": 1,
-      "score": 99.08,
-      "views": 13969,
-      "likes": 105,
-      "comments": 15,
-      "change": -1
-    },
-    {
-      "title": "콜옵 신작겜... 주적에 대한 적대감 우려",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77097670?m=humor",
-      "first_seen": "2026-10-21T09:05:44.284523+09:00",
-      "last_seen": "2026-10-21T09:05:44.284523+09:00",
-      "peak_score": 88.05,
-      "max_views": 5371,
-      "max_likes": 59,
-      "max_comments": 47,
-      "appearances": 1,
-      "score": 97.44,
-      "views": 5371,
-      "likes": 59,
-      "comments": 47,
-      "change": "NEW"
-    },
-    {
-      "title": "이제 유게 활동도 자동화 가능하구나",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77096456?m=humor",
-      "first_seen": "2026-10-21T06:30:19.429092+09:00",
-      "last_seen": "2026-10-21T06:32:12.656813+09:00",
-      "peak_score": 87.24,
-      "max_views": 3997,
-      "max_likes": 35,
-      "max_comments": 37,
-      "appearances": 2,
-      "score": 97.22,
-      "views": 3997,
-      "likes": 35,
-      "comments": 37,
-      "change": -2
+      "change": -3
     }
   ],
   "rising": [
     {
-      "source": "뽐뿌",
-      "title": "이성윤 최고 페북 : 김민새는 신천지 근거 밝혀라",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10159055",
+      "source": "디시인사이드",
+      "title": "학교 교실의 창문은 항상 왼쪽인 이유... jpg",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471975&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 5026,
-      "likes": 76,
-      "comments": 5,
-      "score": 70.19,
-      "change": 17,
-      "current_rank": 21,
+      "views": 32510,
+      "likes": 139,
+      "comments": 227,
+      "score": 61.87,
+      "change": 0,
+      "current_rank": 48,
       "new_entry": false,
-      "delta_views": 2797,
-      "delta_likes": 44,
-      "delta_comments": 1,
-      "rank_gain": 17,
+      "delta_views": 13365,
+      "delta_likes": 78,
+      "delta_comments": 117,
+      "rank_gain": 0,
       "rising_score": 100.0,
       "rising_rank": 1,
-      "window_minutes": 154
+      "window_minutes": 271
     },
     {
-      "source": "더쿠",
-      "title": "76년생 딩크족의 현자타임",
-      "url": "https://theqoo.net/hot/4381946244",
+      "source": "뽐뿌",
+      "title": "서울 이쁜이수술 추천할만한곳 있을까요",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=problem&no=237467",
       "category": "이슈",
-      "views": 79963,
-      "likes": 0,
-      "comments": 669,
-      "score": 76.21,
-      "change": 0,
-      "current_rank": 9,
-      "new_entry": false,
-      "delta_views": 26920,
-      "delta_likes": 0,
-      "delta_comments": 209,
-      "rank_gain": 0,
-      "rising_score": 93.75,
-      "rising_rank": 2,
-      "window_minutes": 154
-    },
-    {
-      "source": "디시인사이드",
-      "title": "심각심각 요즘 MZ세대 근황…avi",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471946&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 23564,
-      "likes": 90,
-      "comments": 90,
-      "score": 69.8,
-      "change": 0,
-      "current_rank": 24,
-      "new_entry": false,
-      "delta_views": 9741,
-      "delta_likes": 27,
-      "delta_comments": 38,
-      "rank_gain": 0,
-      "rising_score": 91.67,
-      "rising_rank": 3,
-      "window_minutes": 154
-    },
-    {
-      "source": "디시인사이드",
-      "title": "싱글벙글 이탈리아인이 평가하는 한국 남자배우의 외모",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471953&_dcbest=1&page=1",
-      "category": "연예",
-      "views": 13111,
-      "likes": 45,
-      "comments": 125,
-      "score": 67.7,
+      "views": 16220,
+      "likes": 2,
+      "comments": 62,
+      "score": 67.14,
       "change": 0,
       "current_rank": 30,
       "new_entry": false,
-      "delta_views": 6582,
-      "delta_likes": 19,
-      "delta_comments": 49,
+      "delta_views": 15020,
+      "delta_likes": 2,
+      "delta_comments": 38,
       "rank_gain": 0,
-      "rising_score": 82.41,
-      "rising_rank": 4,
-      "window_minutes": 154
+      "rising_score": 100.0,
+      "rising_rank": 2,
+      "window_minutes": 271
     },
     {
       "source": "루리웹",
-      "title": "북괴 DMZ 지뢰 도발 오늘로 1개월 경과",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77097631?m=humor",
+      "title": "공주고속도로 adas 사고",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77099297?m=humor",
       "category": "이슈",
-      "views": 5967,
-      "likes": 78,
-      "comments": 44,
-      "score": 93.5,
+      "views": 18611,
+      "likes": 104,
+      "comments": 137,
+      "score": 98.54,
       "change": "NEW",
       "current_rank": 1,
       "new_entry": true,
@@ -315,19 +275,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 81.27,
-      "rising_rank": 5,
-      "window_minutes": 154
+      "rising_score": 83.39,
+      "rising_rank": 3,
+      "window_minutes": 271
     },
     {
       "source": "루리웹",
-      "title": "콜옵 신작겜... 주적에 대한 적대감 우려",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77097670?m=humor",
+      "title": "마운자로 개발 후 가장 큰 피해보는 업종",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77099398?m=humor",
       "category": "이슈",
-      "views": 5371,
-      "likes": 59,
-      "comments": 47,
-      "score": 88.05,
+      "views": 14175,
+      "likes": 94,
+      "comments": 87,
+      "score": 95.36,
       "change": "NEW",
       "current_rank": 2,
       "new_entry": true,
@@ -335,19 +295,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 78.98,
-      "rising_rank": 6,
-      "window_minutes": 154
+      "rising_score": 82.05,
+      "rising_rank": 4,
+      "window_minutes": 271
     },
     {
       "source": "루리웹",
-      "title": "AI 웹소설 딸깍충들이 욕먹는 진짜 이유",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77097552?m=humor",
+      "title": "한일 무역 분쟁 7년 후 근황",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77097531?m=humor",
       "category": "이슈",
-      "views": 7242,
-      "likes": 59,
-      "comments": 40,
-      "score": 86.87,
+      "views": 32281,
+      "likes": 189,
+      "comments": 86,
+      "score": 94.67,
       "change": "NEW",
       "current_rank": 3,
       "new_entry": true,
@@ -355,19 +315,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 78.49,
-      "rising_rank": 7,
-      "window_minutes": 154
+      "rising_score": 81.76,
+      "rising_rank": 5,
+      "window_minutes": 271
     },
     {
       "source": "디시인사이드",
-      "title": "학교 교실의 창문은 항상 왼쪽인 이유... jpg",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471975&_dcbest=1&page=1",
+      "title": "장동혁 욕설 녹취",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472010&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 19145,
-      "likes": 61,
-      "comments": 110,
-      "score": 84.69,
+      "views": 33718,
+      "likes": 597,
+      "comments": 1420,
+      "score": 84.32,
       "change": "NEW",
       "current_rank": 4,
       "new_entry": true,
@@ -375,39 +335,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 77.57,
-      "rising_rank": 8,
-      "window_minutes": 154
-    },
-    {
-      "source": "더쿠",
-      "title": "폴란드, 강간범들에게 화학적 거세 적용 이후 사건 건수가 약 50% 감소",
-      "url": "https://theqoo.net/hot/4382002140",
-      "category": "이슈",
-      "views": 41732,
-      "likes": 0,
-      "comments": 426,
-      "score": 71.68,
-      "change": 15,
-      "current_rank": 14,
-      "new_entry": false,
-      "delta_views": 20732,
-      "delta_likes": 0,
-      "delta_comments": 171,
-      "rank_gain": 15,
-      "rising_score": 76.25,
-      "rising_rank": 9,
-      "window_minutes": 154
+      "rising_score": 77.41,
+      "rising_rank": 6,
+      "window_minutes": 271
     },
     {
       "source": "인벤",
-      "title": "청주여자교도소 교도관의 현실",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2742976",
+      "title": "가구 하나 구매한 디씨인",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2743106",
       "category": "이슈",
-      "views": 2258,
-      "likes": 2,
-      "comments": 26,
-      "score": 79.32,
+      "views": 1599,
+      "likes": 0,
+      "comments": 15,
+      "score": 82.8,
       "change": "NEW",
       "current_rank": 5,
       "new_entry": true,
@@ -415,9 +355,69 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 75.31,
+      "rising_score": 76.78,
+      "rising_rank": 7,
+      "window_minutes": 271
+    },
+    {
+      "source": "디시인사이드",
+      "title": "갑자기 지나가는 차량 습격한 GTA 한녀.News",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472022&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 11576,
+      "likes": 151,
+      "comments": 214,
+      "score": 82.13,
+      "change": "NEW",
+      "current_rank": 6,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 76.49,
+      "rising_rank": 8,
+      "window_minutes": 271
+    },
+    {
+      "source": "뽐뿌",
+      "title": "정은경 사태 합리적 추론",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10159379",
+      "category": "이슈",
+      "views": 6255,
+      "likes": 49,
+      "comments": 18,
+      "score": 78.05,
+      "change": "NEW",
+      "current_rank": 7,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 74.78,
+      "rising_rank": 9,
+      "window_minutes": 271
+    },
+    {
+      "source": "뽐뿌",
+      "title": "대통령이 공식석상에서 하급자를 대하는 올바른 예 (feat.노무현)",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10159560",
+      "category": "이슈",
+      "views": 6105,
+      "likes": 55,
+      "comments": 42,
+      "score": 78.01,
+      "change": "NEW",
+      "current_rank": 8,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 74.76,
       "rising_rank": 10,
-      "window_minutes": 154
+      "window_minutes": 271
     }
   ],
   "issues": [
@@ -536,6 +536,44 @@
       "change": 0
     },
     {
+      "id": "ifa68b8a4",
+      "title": "‘합리적’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "합리적"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 96.52,
+      "peak_score": 87.05,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 7,
+          "title": "정은경 사태 합리적 추론",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10159379",
+          "score": 78.05
+        },
+        {
+          "source": "인벤",
+          "rank": 72,
+          "title": "김민석 \"초광역특구법 최우선 입법…52시간제 합리적 대안 도출\"",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2743095",
+          "score": 57.87
+        }
+      ],
+      "first_seen": "2026-10-21T13:36:49.211231+09:00",
+      "last_seen": "2026-10-21T13:36:49.211231+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 4,
+      "change": "NEW"
+    },
+    {
       "id": "ic71c3480",
       "title": "‘정은경’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -571,8 +609,8 @@
       "last_seen": "2026-10-21T09:05:44.284523+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 4,
-      "change": 0
+      "rank": 5,
+      "change": -1
     },
     {
       "id": "i6deb5617",
@@ -609,7 +647,45 @@
       "last_seen": "2026-10-21T09:05:44.284523+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
+      "rank": 6,
+      "change": -1
+    },
+    {
+      "id": "ie91a6665",
+      "title": "‘인터뷰’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "인터뷰"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 90.58,
+      "peak_score": 81.11,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 18,
+          "title": "코인으로 600만원에서 3800억 번 워뇨띠 인터뷰 (스압주의)",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2743105",
+          "score": 72.11
+        },
+        {
+          "source": "더쿠",
+          "rank": 68,
+          "title": "'수출비’ 이선빈 “이광수 버블 구독? 저는 개인 구독자죠”[인터뷰]",
+          "url": "https://theqoo.net/hot/4382242528",
+          "score": 58.37
+        }
+      ],
+      "first_seen": "2026-10-14T10:50:25.054561+09:00",
+      "last_seen": "2026-10-21T13:36:49.211231+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 7,
       "change": "NEW"
     },
     {
@@ -647,8 +723,8 @@
       "last_seen": "2026-10-21T09:05:44.284523+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
-      "change": "NEW"
+      "rank": 8,
+      "change": -2
     },
     {
       "id": "i1b672c00",
@@ -685,7 +761,7 @@
       "last_seen": "2026-10-21T02:56:28.850708+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
+      "rank": 9,
       "change": -2
     },
     {
@@ -723,93 +799,55 @@
       "last_seen": "2026-10-21T09:05:44.284523+09:00",
       "latest_source_count": 2,
       "latest_post_count": 5,
-      "rank": 8,
-      "change": "NEW"
-    },
-    {
-      "id": "if6b2d7b7",
-      "title": "‘10월’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "10월"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 78.69,
-      "peak_score": 69.22,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 64,
-          "title": "10월 21일 수요일 날씨 + 운세",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2742977",
-          "score": 60.22
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 67,
-          "title": "10월 넥스트페스트(넥페) 출전 한국 게임 목록",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471974&_dcbest=1&page=1",
-          "score": 59.22
-        }
-      ],
-      "first_seen": "2026-10-01T09:09:08.756943+09:00",
-      "last_seen": "2026-10-21T09:05:44.284523+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 9,
-      "change": "NEW"
+      "rank": 10,
+      "change": -2
     }
   ],
   "realtime_issues": [
     {
-      "id": "if553a5cf",
-      "title": "‘트럼프’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "ifa68b8a4",
+      "title": "‘합리적’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "트럼프"
+        "합리적"
       ],
       "source_count": 2,
-      "post_count": 5,
-      "score": 70.16,
-      "peak_score": 70.16,
+      "post_count": 2,
+      "score": 87.05,
+      "peak_score": 87.05,
       "appearances": 1,
       "sources": [
-        "루리웹",
-        "클리앙"
+        "뽐뿌",
+        "인벤"
       ],
       "posts": [
         {
-          "source": "클리앙",
-          "rank": 69,
-          "title": "트럼프 “젤렌스키 아닌 다른..” 우크라 정권교체 시사",
-          "url": "https://www.clien.net/service/board/park/19280541?od=T31&po=0&category=0&groupCd=",
-          "score": 58.16
+          "source": "뽐뿌",
+          "rank": 7,
+          "title": "정은경 사태 합리적 추론",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10159379",
+          "score": 78.05
         },
         {
-          "source": "루리웹",
-          "rank": 79,
-          "title": "트럼프: MAGA\"남성\"들을 위한 만남어플을 만들겠다",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77098028?m=humor_only&t=now",
-          "score": 54.92
+          "source": "인벤",
+          "rank": 72,
+          "title": "김민석 \"초광역특구법 최우선 입법…52시간제 합리적 대안 도출\"",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2743095",
+          "score": 57.87
         }
       ],
       "rank": 1,
       "change": "NEW"
     },
     {
-      "id": "i6deb5617",
-      "title": "‘일어난’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "ie91a6665",
+      "title": "‘인터뷰’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "일어난"
+        "인터뷰"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 86.59,
-      "peak_score": 86.59,
+      "score": 81.11,
+      "peak_score": 81.11,
       "appearances": 1,
       "sources": [
         "더쿠",
@@ -818,191 +856,89 @@
       "posts": [
         {
           "source": "인벤",
-          "rank": 7,
-          "title": "며칠 사이 일어난 일들",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2742974",
-          "score": 77.59
+          "rank": 18,
+          "title": "코인으로 600만원에서 3800억 번 워뇨띠 인터뷰 (스압주의)",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2743105",
+          "score": 72.11
         },
         {
           "source": "더쿠",
-          "rank": 98,
-          "title": "위고비, 마운자로 출시로 인해 일어난 나비효과들",
-          "url": "https://theqoo.net/hot/4381811361",
-          "score": 52.11
+          "rank": 68,
+          "title": "'수출비’ 이선빈 “이광수 버블 구독? 저는 개인 구독자죠”[인터뷰]",
+          "url": "https://theqoo.net/hot/4382242528",
+          "score": 58.37
         }
       ],
       "rank": 2,
-      "change": "NEW"
-    },
-    {
-      "id": "ic71c3480",
-      "title": "‘정은경’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "정은경"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 84.74,
-      "peak_score": 84.74,
-      "appearances": 1,
-      "sources": [
-        "뽐뿌",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 10,
-          "title": "이재명, 정은경 폭발 내용",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10159230",
-          "score": 75.74
-        },
-        {
-          "source": "클리앙",
-          "rank": 41,
-          "title": "이재명은 정은경 원래부터 싫어했죠.",
-          "url": "https://www.clien.net/service/board/park/19280528?od=T31&po=0&category=0&groupCd=",
-          "score": 65.46
-        }
-      ],
-      "rank": 3,
-      "change": "NEW"
-    },
-    {
-      "id": "iaf3fcbdb",
-      "title": "‘젤렌스키’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "젤렌스키"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 76.53,
-      "peak_score": 76.53,
-      "appearances": 1,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 32,
-          "title": "점점 궁지로 몰리는 우크라이나 젤렌스키 / 겸공 스샷",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2742979",
-          "score": 67.53
-        },
-        {
-          "source": "클리앙",
-          "rank": 69,
-          "title": "트럼프 “젤렌스키 아닌 다른..” 우크라 정권교체 시사",
-          "url": "https://www.clien.net/service/board/park/19280541?od=T31&po=0&category=0&groupCd=",
-          "score": 58.16
-        }
-      ],
-      "rank": 4,
-      "change": "NEW"
-    },
-    {
-      "id": "if6b2d7b7",
-      "title": "‘10월’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "10월"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 69.22,
-      "peak_score": 69.22,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 64,
-          "title": "10월 21일 수요일 날씨 + 운세",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2742977",
-          "score": 60.22
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 67,
-          "title": "10월 넥스트페스트(넥페) 출전 한국 게임 목록",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471974&_dcbest=1&page=1",
-          "score": 59.22
-        }
-      ],
-      "rank": 5,
       "change": "NEW"
     }
   ],
   "keywords": [
     {
-      "keyword": "사망",
-      "score": 118.27,
+      "keyword": "서울",
+      "score": 115.85,
       "post_count": 3,
       "source_count": 3,
-      "best_rank": 17,
+      "best_rank": 30,
       "sources": [
         "디시인사이드",
-        "루리웹",
+        "뽐뿌",
         "인벤"
       ],
       "aliases": [],
       "rank": 1,
-      "change": "NEW"
+      "change": 6
     },
     {
-      "keyword": "정은경",
-      "score": 116.97,
-      "post_count": 5,
+      "keyword": "사고",
+      "score": 103.49,
+      "post_count": 2,
       "source_count": 2,
-      "best_rank": 10,
+      "best_rank": 1,
       "sources": [
-        "뽐뿌",
-        "클리앙"
+        "루리웹",
+        "인벤"
       ],
       "aliases": [],
       "rank": 2,
       "change": "NEW"
     },
     {
-      "keyword": "이재명",
-      "score": 105.46,
-      "post_count": 3,
+      "keyword": "합리적",
+      "score": 96.34,
+      "post_count": 2,
       "source_count": 2,
-      "best_rank": 10,
+      "best_rank": 7,
       "sources": [
         "뽐뿌",
-        "클리앙"
+        "인벤"
       ],
       "aliases": [],
       "rank": 3,
       "change": "NEW"
     },
     {
-      "keyword": "콜옵",
-      "score": 101.88,
+      "keyword": "게임",
+      "score": 95.9,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 2,
+      "best_rank": 14,
       "sources": [
         "디시인사이드",
-        "루리웹"
+        "클리앙"
       ],
       "aliases": [],
       "rank": 4,
       "change": "NEW"
     },
     {
-      "keyword": "트럼프",
-      "score": 99.96,
-      "post_count": 5,
+      "keyword": "빨대",
+      "score": 93.01,
+      "post_count": 2,
       "source_count": 2,
-      "best_rank": 69,
+      "best_rank": 27,
       "sources": [
-        "루리웹",
+        "디시인사이드",
         "클리앙"
       ],
       "aliases": [],
@@ -1010,178 +946,109 @@
       "change": "NEW"
     },
     {
-      "keyword": "가격",
-      "score": 96.77,
+      "keyword": "인터뷰",
+      "score": 90.89,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 11,
+      "best_rank": 18,
       "sources": [
-        "인벤",
-        "클리앙"
+        "더쿠",
+        "인벤"
       ],
       "aliases": [],
       "rank": 6,
       "change": "NEW"
     },
     {
-      "keyword": "서울",
-      "score": 94.37,
+      "keyword": "웹툰",
+      "score": 86.17,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 20,
+      "best_rank": 49,
       "sources": [
-        "뽐뿌",
+        "루리웹",
         "인벤"
       ],
       "aliases": [],
       "rank": 7,
-      "change": 4
+      "change": "NEW"
     },
     {
-      "keyword": "일어난",
-      "score": 92.35,
+      "keyword": "프랑스",
+      "score": 85.04,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 7,
+      "best_rank": 35,
       "sources": [
-        "더쿠",
-        "인벤"
+        "디시인사이드",
+        "루리웹"
       ],
       "aliases": [],
       "rank": 8,
       "change": "NEW"
     },
     {
-      "keyword": "한국",
-      "score": 91.39,
+      "keyword": "이재명",
+      "score": 81.14,
       "post_count": 3,
-      "source_count": 2,
-      "best_rank": 30,
+      "source_count": 1,
+      "best_rank": 11,
       "sources": [
-        "디시인사이드",
-        "루리웹"
+        "클리앙"
       ],
       "aliases": [],
       "rank": 9,
-      "change": -5
-    },
-    {
-      "keyword": "역대",
-      "score": 88.94,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 39,
-      "sources": [
-        "루리웹",
-        "인벤"
-      ],
-      "aliases": [],
-      "rank": 10,
-      "change": "NEW"
-    },
-    {
-      "keyword": "젤렌스키",
-      "score": 87.72,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 32,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 11,
-      "change": "NEW"
-    },
-    {
-      "keyword": "10월",
-      "score": 83.24,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 64,
-      "sources": [
-        "디시인사이드",
-        "인벤"
-      ],
-      "aliases": [],
-      "rank": 12,
-      "change": "NEW"
-    },
-    {
-      "keyword": "말하",
-      "score": 68.81,
-      "post_count": 3,
-      "source_count": 1,
-      "best_rank": 49,
-      "sources": [
-        "디시인사이드"
-      ],
-      "aliases": [],
-      "rank": 13,
-      "change": -4
-    },
-    {
-      "keyword": "우크라",
-      "score": 66.46,
-      "post_count": 3,
-      "source_count": 1,
-      "best_rank": 63,
-      "sources": [
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 14,
-      "change": "NEW"
+      "change": -6
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "북괴 DMZ 지뢰 도발 오늘로 1개월 경과",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77097631?m=humor",
-      "score": 93.5,
-      "views": 5967,
-      "comments": 44
+      "title": "공주고속도로 adas 사고",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77099297?m=humor",
+      "score": 98.54,
+      "views": 18611,
+      "comments": 137
     },
     {
       "source": "디시인사이드",
-      "title": "학교 교실의 창문은 항상 왼쪽인 이유... jpg",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471975&_dcbest=1&page=1",
-      "score": 84.69,
-      "views": 19145,
-      "comments": 110
+      "title": "장동혁 욕설 녹취",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472010&_dcbest=1&page=1",
+      "score": 84.32,
+      "views": 33718,
+      "comments": 1420
     },
     {
       "source": "인벤",
-      "title": "청주여자교도소 교도관의 현실",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2742976",
-      "score": 79.32,
-      "views": 2258,
-      "comments": 26
-    },
-    {
-      "source": "더쿠",
-      "title": "76년생 딩크족의 현자타임",
-      "url": "https://theqoo.net/hot/4381946244",
-      "score": 76.21,
-      "views": 79963,
-      "comments": 669
+      "title": "가구 하나 구매한 디씨인",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2743106",
+      "score": 82.8,
+      "views": 1599,
+      "comments": 15
     },
     {
       "source": "뽐뿌",
-      "title": "이재명, 정은경 폭발 내용",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10159230",
-      "score": 75.74,
-      "views": 10748,
-      "comments": 53
+      "title": "정은경 사태 합리적 추론",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10159379",
+      "score": 78.05,
+      "views": 6255,
+      "comments": 18
+    },
+    {
+      "source": "더쿠",
+      "title": "한국인 관광객 구매심리를 간파한 이탈리아 기념품 가게.jpg",
+      "url": "https://theqoo.net/hot/4382239383",
+      "score": 76.71,
+      "views": 44225,
+      "comments": 365
     },
     {
       "source": "클리앙",
-      "title": "이재명은 정은경에게 왜 그럴까요?",
-      "url": "https://www.clien.net/service/board/park/19280543?od=T31&po=0&category=0&groupCd=",
-      "score": 67.13,
-      "views": 983,
-      "comments": 4
+      "title": "착각이 심한 이재명",
+      "url": "https://www.clien.net/service/board/park/19280643?od=T31&po=0&category=0&groupCd=",
+      "score": 74.62,
+      "views": 5141,
+      "comments": 46
     }
   ]
 }
