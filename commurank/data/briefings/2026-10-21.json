@@ -2,26 +2,26 @@
   "version": 1,
   "date": "2026-10-21",
   "label": "2026년 10월 21일",
-  "collected_at": "2026-10-21T13:36:49.211231+09:00",
+  "collected_at": "2026-10-21T18:37:21.676761+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘‘넘어가면’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #서울. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘[속보]상어 '부캉이' 3차 방류 유도 작업 성공…8시간 만’입니다. 실시간 키워드 상위: #부캉. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 6,
     "cached_sources": 0,
     "realtime_posts": 100,
     "daily_posts": 100,
-    "daily_issues": 11,
-    "keywords": 9,
-    "top100_views": 929826,
-    "top100_comments": 10107
+    "daily_issues": 19,
+    "keywords": 20,
+    "top100_views": 1142899,
+    "top100_comments": 14323
   },
   "highlights": [
     {
       "type": "issue",
-      "title": "‘넘어가면’ 관련 글이 여러 커뮤니티에서 화제",
-      "text": "2개 커뮤니티에서 2개 관련 인기글이 포착됐습니다.",
-      "issue_id": "i66d5dc5e"
+      "title": "[속보]상어 '부캉이' 3차 방류 유도 작업 성공…8시간 만",
+      "text": "5개 커뮤니티에서 6개 관련 인기글이 포착됐습니다.",
+      "issue_id": "i22143bd8"
     },
     {
       "type": "post",
@@ -31,9 +31,9 @@
     },
     {
       "type": "keyword",
-      "title": "#서울",
-      "text": "3개 커뮤니티 · 3개 인기글에서 함께 등장했습니다.",
-      "keyword": "서울"
+      "title": "#부캉",
+      "text": "5개 커뮤니티 · 9개 인기글에서 함께 등장했습니다.",
+      "keyword": "부캉"
     }
   ],
   "top_posts": [
@@ -49,10 +49,46 @@
       "max_likes": 104,
       "max_comments": 137,
       "appearances": 1,
-      "score": 107.93,
+      "score": 107.51,
       "views": 18611,
       "likes": 104,
       "comments": 137,
+      "change": 0
+    },
+    {
+      "title": "현재 병무청이 최후의 한명까지 징집하며 생기는 대참사",
+      "source": "루리웹",
+      "category": "생활",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77099787?m=humor",
+      "first_seen": "2026-10-21T18:37:21.676761+09:00",
+      "last_seen": "2026-10-21T18:37:21.676761+09:00",
+      "peak_score": 97.44,
+      "max_views": 48338,
+      "max_likes": 399,
+      "max_comments": 158,
+      "appearances": 1,
+      "score": 106.83,
+      "views": 48338,
+      "likes": 399,
+      "comments": 158,
+      "change": "NEW"
+    },
+    {
+      "title": "커피 블라인드 테스트.jpg",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77100623?m=humor",
+      "first_seen": "2026-10-21T18:37:21.676761+09:00",
+      "last_seen": "2026-10-21T18:37:21.676761+09:00",
+      "peak_score": 96.04,
+      "max_views": 14326,
+      "max_likes": 67,
+      "max_comments": 100,
+      "appearances": 1,
+      "score": 105.43,
+      "views": 14326,
+      "likes": 67,
+      "comments": 100,
       "change": "NEW"
     },
     {
@@ -67,11 +103,11 @@
       "max_likes": 94,
       "max_comments": 59,
       "appearances": 1,
-      "score": 105.81,
+      "score": 105.4,
       "views": 19042,
       "likes": 94,
       "comments": 59,
-      "change": -1
+      "change": -2
     },
     {
       "title": "극한직업 청주여자 교도소",
@@ -85,11 +121,11 @@
       "max_likes": 50,
       "max_comments": 41,
       "appearances": 1,
-      "score": 105.65,
+      "score": 105.23,
       "views": 12160,
       "likes": 50,
       "comments": 41,
-      "change": -1
+      "change": -2
     },
     {
       "title": "주한미군의 길고양이 해결법",
@@ -103,11 +139,11 @@
       "max_likes": 189,
       "max_comments": 94,
       "appearances": 1,
-      "score": 105.52,
+      "score": 105.1,
       "views": 18352,
       "likes": 189,
       "comments": 94,
-      "change": -1
+      "change": -2
     },
     {
       "title": "마운자로 개발 후 가장 큰 피해보는 업종",
@@ -121,11 +157,11 @@
       "max_likes": 94,
       "max_comments": 87,
       "appearances": 1,
-      "score": 104.75,
+      "score": 104.33,
       "views": 14175,
       "likes": 94,
       "comments": 87,
-      "change": "NEW"
+      "change": -2
     },
     {
       "title": "한일 무역 분쟁 7년 후 근황",
@@ -139,11 +175,11 @@
       "max_likes": 189,
       "max_comments": 86,
       "appearances": 1,
-      "score": 104.06,
+      "score": 103.64,
       "views": 32281,
       "likes": 189,
       "comments": 86,
-      "change": "NEW"
+      "change": -2
     },
     {
       "title": "??? : 왜 남자들 타짜 대사를 다 외우고 있는거여??!",
@@ -157,11 +193,11 @@
       "max_likes": 43,
       "max_comments": 64,
       "appearances": 1,
-      "score": 103.71,
+      "score": 103.29,
       "views": 12585,
       "likes": 43,
       "comments": 64,
-      "change": -3
+      "change": -2
     },
     {
       "title": "서른 중반을 넘어가면 오타쿠가 선택해야 하는것",
@@ -175,99 +211,23 @@
       "max_likes": 99,
       "max_comments": 91,
       "appearances": 1,
-      "score": 103.17,
+      "score": 102.75,
       "views": 22129,
       "likes": 99,
       "comments": 91,
-      "change": -3
-    },
-    {
-      "title": "북괴 DMZ 지뢰 도발 오늘로 1개월 경과",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77097631?m=humor",
-      "first_seen": "2026-10-21T09:05:44.284523+09:00",
-      "last_seen": "2026-10-21T09:05:44.284523+09:00",
-      "peak_score": 93.5,
-      "max_views": 5967,
-      "max_likes": 78,
-      "max_comments": 44,
-      "appearances": 1,
-      "score": 102.51,
-      "views": 5967,
-      "likes": 78,
-      "comments": 44,
-      "change": -3
-    },
-    {
-      "title": "개그맨이 진심으로 노래를 부르면",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77096242?m=humor",
-      "first_seen": "2026-10-21T06:32:12.656813+09:00",
-      "last_seen": "2026-10-21T06:32:12.656813+09:00",
-      "peak_score": 91.56,
-      "max_views": 7841,
-      "max_likes": 47,
-      "max_comments": 36,
-      "appearances": 1,
-      "score": 100.36,
-      "views": 7841,
-      "likes": 47,
-      "comments": 36,
-      "change": -3
+      "change": -2
     }
   ],
   "rising": [
     {
-      "source": "디시인사이드",
-      "title": "학교 교실의 창문은 항상 왼쪽인 이유... jpg",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471975&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 32510,
-      "likes": 139,
-      "comments": 227,
-      "score": 61.87,
-      "change": 0,
-      "current_rank": 48,
-      "new_entry": false,
-      "delta_views": 13365,
-      "delta_likes": 78,
-      "delta_comments": 117,
-      "rank_gain": 0,
-      "rising_score": 100.0,
-      "rising_rank": 1,
-      "window_minutes": 271
-    },
-    {
-      "source": "뽐뿌",
-      "title": "서울 이쁜이수술 추천할만한곳 있을까요",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=problem&no=237467",
-      "category": "이슈",
-      "views": 16220,
-      "likes": 2,
-      "comments": 62,
-      "score": 67.14,
-      "change": 0,
-      "current_rank": 30,
-      "new_entry": false,
-      "delta_views": 15020,
-      "delta_likes": 2,
-      "delta_comments": 38,
-      "rank_gain": 0,
-      "rising_score": 100.0,
-      "rising_rank": 2,
-      "window_minutes": 271
-    },
-    {
       "source": "루리웹",
-      "title": "공주고속도로 adas 사고",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77099297?m=humor",
-      "category": "이슈",
-      "views": 18611,
-      "likes": 104,
-      "comments": 137,
-      "score": 98.54,
+      "title": "현재 병무청이 최후의 한명까지 징집하며 생기는 대참사",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77099787?m=humor",
+      "category": "생활",
+      "views": 48338,
+      "likes": 399,
+      "comments": 158,
+      "score": 97.44,
       "change": "NEW",
       "current_rank": 1,
       "new_entry": true,
@@ -275,19 +235,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 83.39,
-      "rising_rank": 3,
-      "window_minutes": 271
+      "rising_score": 82.92,
+      "rising_rank": 1,
+      "window_minutes": 301
     },
     {
       "source": "루리웹",
-      "title": "마운자로 개발 후 가장 큰 피해보는 업종",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77099398?m=humor",
+      "title": "커피 블라인드 테스트.jpg",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77100623?m=humor",
       "category": "이슈",
-      "views": 14175,
-      "likes": 94,
-      "comments": 87,
-      "score": 95.36,
+      "views": 14326,
+      "likes": 67,
+      "comments": 100,
+      "score": 96.04,
       "change": "NEW",
       "current_rank": 2,
       "new_entry": true,
@@ -295,19 +255,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.05,
-      "rising_rank": 4,
-      "window_minutes": 271
+      "rising_score": 82.34,
+      "rising_rank": 2,
+      "window_minutes": 301
     },
     {
       "source": "루리웹",
-      "title": "한일 무역 분쟁 7년 후 근황",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77097531?m=humor",
+      "title": "웹소설 출판사들이 새드엔딩을 싫어하는 이유",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77101870?m=humor",
       "category": "이슈",
-      "views": 32281,
-      "likes": 189,
-      "comments": 86,
-      "score": 94.67,
+      "views": 12200,
+      "likes": 72,
+      "comments": 119,
+      "score": 92.59,
       "change": "NEW",
       "current_rank": 3,
       "new_entry": true,
@@ -315,19 +275,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 81.76,
-      "rising_rank": 5,
-      "window_minutes": 271
+      "rising_score": 80.89,
+      "rising_rank": 3,
+      "window_minutes": 301
     },
     {
       "source": "디시인사이드",
-      "title": "장동혁 욕설 녹취",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472010&_dcbest=1&page=1",
+      "title": "싱글벙글 유색인종 캐스팅에 분노한 백인.JPG",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472093&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 33718,
-      "likes": 597,
-      "comments": 1420,
-      "score": 84.32,
+      "views": 17454,
+      "likes": 145,
+      "comments": 200,
+      "score": 82.84,
       "change": "NEW",
       "current_rank": 4,
       "new_entry": true,
@@ -335,19 +295,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 77.41,
-      "rising_rank": 6,
-      "window_minutes": 271
+      "rising_score": 76.79,
+      "rising_rank": 4,
+      "window_minutes": 301
     },
     {
-      "source": "인벤",
-      "title": "가구 하나 구매한 디씨인",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2743106",
+      "source": "루리웹",
+      "title": "[카톡]대건명가 돼지국밥 630g 6팩 (돼지/순대/ 얼큰) (21960/무료)",
+      "url": "https://bbs.ruliweb.com/market/board/1020/read/108203",
       "category": "이슈",
-      "views": 1599,
-      "likes": 0,
-      "comments": 15,
-      "score": 82.8,
+      "views": 17993,
+      "likes": 11,
+      "comments": 32,
+      "score": 80.24,
       "change": "NEW",
       "current_rank": 5,
       "new_entry": true,
@@ -355,19 +315,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 76.78,
-      "rising_rank": 7,
-      "window_minutes": 271
+      "rising_score": 75.7,
+      "rising_rank": 5,
+      "window_minutes": 301
     },
     {
       "source": "디시인사이드",
-      "title": "갑자기 지나가는 차량 습격한 GTA 한녀.News",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472022&_dcbest=1&page=1",
+      "title": "조상 죄를 대신 속죄해야 되냐는 이혜성",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472079&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 11576,
-      "likes": 151,
-      "comments": 214,
-      "score": 82.13,
+      "views": 19913,
+      "likes": 76,
+      "comments": 914,
+      "score": 75.99,
       "change": "NEW",
       "current_rank": 6,
       "new_entry": true,
@@ -375,19 +335,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 76.49,
-      "rising_rank": 8,
-      "window_minutes": 271
+      "rising_score": 73.92,
+      "rising_rank": 6,
+      "window_minutes": 301
     },
     {
-      "source": "뽐뿌",
-      "title": "정은경 사태 합리적 추론",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10159379",
+      "source": "더쿠",
+      "title": "양가가 다 불만족스러워 한다는 결혼",
+      "url": "https://theqoo.net/hot/4382454311",
       "category": "이슈",
-      "views": 6255,
-      "likes": 49,
-      "comments": 18,
-      "score": 78.05,
+      "views": 63449,
+      "likes": 0,
+      "comments": 1287,
+      "score": 75.89,
       "change": "NEW",
       "current_rank": 7,
       "new_entry": true,
@@ -395,19 +355,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 74.78,
-      "rising_rank": 9,
-      "window_minutes": 271
+      "rising_score": 73.87,
+      "rising_rank": 7,
+      "window_minutes": 301
     },
     {
       "source": "뽐뿌",
-      "title": "대통령이 공식석상에서 하급자를 대하는 올바른 예 (feat.노무현)",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10159560",
-      "category": "이슈",
-      "views": 6105,
-      "likes": 55,
-      "comments": 42,
-      "score": 78.01,
+      "title": "헌혈의집 '허위예약' 의혹",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10159208",
+      "category": "생활",
+      "views": 21387,
+      "likes": 32,
+      "comments": 55,
+      "score": 75.33,
       "change": "NEW",
       "current_rank": 8,
       "new_entry": true,
@@ -415,12 +375,157 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 74.76,
+      "rising_score": 73.64,
+      "rising_rank": 8,
+      "window_minutes": 301
+    },
+    {
+      "source": "더쿠",
+      "title": "수능에서 ai안경을 현실적으로 막기 어렵다는 교육부",
+      "url": "https://theqoo.net/hot/4382488120",
+      "category": "이슈",
+      "views": 43960,
+      "likes": 0,
+      "comments": 689,
+      "score": 73.21,
+      "change": "NEW",
+      "current_rank": 9,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 72.75,
+      "rising_rank": 9,
+      "window_minutes": 301
+    },
+    {
+      "source": "인벤",
+      "title": "신사들의 토론 여자의 최대 매력은?",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2743244",
+      "category": "이슈",
+      "views": 896,
+      "likes": 0,
+      "comments": 19,
+      "score": 73.12,
+      "change": "NEW",
+      "current_rank": 10,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 72.71,
       "rising_rank": 10,
-      "window_minutes": 271
+      "window_minutes": 301
     }
   ],
   "issues": [
+    {
+      "id": "i22143bd8",
+      "title": "[속보]상어 '부캉이' 3차 방류 유도 작업 성공…8시간 만",
+      "keywords": [
+        "부캉이",
+        "상어",
+        "작업",
+        "3차",
+        "방류",
+        "8시간"
+      ],
+      "source_count": 5,
+      "post_count": 6,
+      "score": 128.47,
+      "peak_score": 103.0,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "루리웹",
+        "뽐뿌",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 11,
+          "title": "[속보]상어 '부캉이' 3차 방류 유도 작업 성공…8시간 만",
+          "url": "https://theqoo.net/hot/4382571390",
+          "score": 73.0
+        },
+        {
+          "source": "클리앙",
+          "rank": 15,
+          "title": "[속보]상어 '부캉이' 3차 방류 유도 작업 성공…8시간 만",
+          "url": "https://www.clien.net/service/board/park/19280821?od=T31&po=0&category=0&groupCd=",
+          "score": 71.28
+        },
+        {
+          "source": "인벤",
+          "rank": 16,
+          "title": "상어 '부캉이' 3차 방류 유도 작업 성공…8시간 만",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2743250",
+          "score": 70.74
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 33,
+          "title": "오늘자 부캉이 보내는 작업 사진",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10159512",
+          "score": 66.52
+        },
+        {
+          "source": "루리웹",
+          "rank": 83,
+          "title": "[속보] 수로 34일째 머문 흑상어 ‘부캉이’ 외해 나갔다…3차 유도작업 종료",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77103248?m=humor_only&t=now",
+          "score": 54.98
+        }
+      ],
+      "first_seen": "2026-10-21T18:37:21.676761+09:00",
+      "last_seen": "2026-10-21T18:37:21.676761+09:00",
+      "latest_source_count": 5,
+      "latest_post_count": 6,
+      "rank": 1,
+      "change": "NEW"
+    },
+    {
+      "id": "i225f7cc7",
+      "title": "‘블라인드’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "블라인드"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 114.51,
+      "peak_score": 105.04,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 2,
+          "title": "커피 블라인드 테스트.jpg",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77100623?m=humor",
+          "score": 96.04
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 18,
+          "title": "싱글벙글 블라인드 레전드 역대급 집주인 등장...jpg",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472067&_dcbest=1&page=1",
+          "score": 70.13
+        }
+      ],
+      "first_seen": "2026-10-21T18:37:21.676761+09:00",
+      "last_seen": "2026-10-21T18:37:21.676761+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 2,
+      "change": "NEW"
+    },
     {
       "id": "i66d5dc5e",
       "title": "‘넘어가면’ 관련 글이 여러 커뮤니티에서 화제",
@@ -456,8 +561,8 @@
       "last_seen": "2026-10-21T02:56:28.850708+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 1,
-      "change": 0
+      "rank": 3,
+      "change": -2
     },
     {
       "id": "i5d6688ff",
@@ -494,8 +599,8 @@
       "last_seen": "2026-10-21T06:32:12.656813+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 2,
-      "change": 0
+      "rank": 4,
+      "change": -2
     },
     {
       "id": "i6c387ceb",
@@ -532,8 +637,8 @@
       "last_seen": "2026-10-21T06:30:19.429092+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 3,
-      "change": 0
+      "rank": 5,
+      "change": -2
     },
     {
       "id": "ifa68b8a4",
@@ -570,8 +675,8 @@
       "last_seen": "2026-10-21T13:36:49.211231+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 4,
-      "change": "NEW"
+      "rank": 6,
+      "change": -2
     },
     {
       "id": "ic71c3480",
@@ -609,8 +714,8 @@
       "last_seen": "2026-10-21T09:05:44.284523+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
-      "change": -1
+      "rank": 7,
+      "change": -2
     },
     {
       "id": "i6deb5617",
@@ -647,8 +752,47 @@
       "last_seen": "2026-10-21T09:05:44.284523+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
-      "change": -1
+      "rank": 8,
+      "change": -2
+    },
+    {
+      "id": "id99cf9ee",
+      "title": "수능에서 ai안경을 현실적으로 막기 어렵다는 교육부",
+      "keywords": [
+        "교육부",
+        "현실적으로"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 90.68,
+      "peak_score": 81.21,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 9,
+          "title": "수능에서 ai안경을 현실적으로 막기 어렵다는 교육부",
+          "url": "https://theqoo.net/hot/4382488120",
+          "score": 73.21
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 35,
+          "title": "수능시험 ai 안경을 현실적으로 못 막는다는 교육부",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472098&_dcbest=1&page=1",
+          "score": 65.91
+        }
+      ],
+      "first_seen": "2026-10-21T18:37:21.676761+09:00",
+      "last_seen": "2026-10-21T18:37:21.676761+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 9,
+      "change": "NEW"
     },
     {
       "id": "ie91a6665",
@@ -685,57 +829,258 @@
       "last_seen": "2026-10-21T13:36:49.211231+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": "NEW"
-    },
+      "rank": 10,
+      "change": -3
+    }
+  ],
+  "realtime_issues": [
     {
-      "id": "iaf3fcbdb",
-      "title": "‘젤렌스키’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i22143bd8",
+      "title": "[속보]상어 '부캉이' 3차 방류 유도 작업 성공…8시간 만",
       "keywords": [
-        "젤렌스키"
+        "부캉이",
+        "상어",
+        "작업",
+        "3차",
+        "방류",
+        "8시간"
       ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 86.0,
-      "peak_score": 76.53,
+      "source_count": 5,
+      "post_count": 6,
+      "score": 103.0,
+      "peak_score": 103.0,
       "appearances": 1,
       "sources": [
+        "더쿠",
+        "루리웹",
+        "뽐뿌",
         "인벤",
         "클리앙"
       ],
       "posts": [
         {
-          "source": "인벤",
-          "rank": 32,
-          "title": "점점 궁지로 몰리는 우크라이나 젤렌스키 / 겸공 스샷",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2742979",
-          "score": 67.53
+          "source": "더쿠",
+          "rank": 11,
+          "title": "[속보]상어 '부캉이' 3차 방류 유도 작업 성공…8시간 만",
+          "url": "https://theqoo.net/hot/4382571390",
+          "score": 73.0
         },
         {
           "source": "클리앙",
-          "rank": 69,
-          "title": "트럼프 “젤렌스키 아닌 다른..” 우크라 정권교체 시사",
-          "url": "https://www.clien.net/service/board/park/19280541?od=T31&po=0&category=0&groupCd=",
-          "score": 58.16
+          "rank": 15,
+          "title": "[속보]상어 '부캉이' 3차 방류 유도 작업 성공…8시간 만",
+          "url": "https://www.clien.net/service/board/park/19280821?od=T31&po=0&category=0&groupCd=",
+          "score": 71.28
+        },
+        {
+          "source": "인벤",
+          "rank": 16,
+          "title": "상어 '부캉이' 3차 방류 유도 작업 성공…8시간 만",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2743250",
+          "score": 70.74
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 33,
+          "title": "오늘자 부캉이 보내는 작업 사진",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10159512",
+          "score": 66.52
+        },
+        {
+          "source": "루리웹",
+          "rank": 83,
+          "title": "[속보] 수로 34일째 머문 흑상어 ‘부캉이’ 외해 나갔다…3차 유도작업 종료",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77103248?m=humor_only&t=now",
+          "score": 54.98
         }
       ],
-      "first_seen": "2026-10-05T14:53:01.854717+09:00",
-      "last_seen": "2026-10-21T09:05:44.284523+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 8,
-      "change": -2
+      "rank": 1,
+      "change": "NEW"
     },
     {
-      "id": "i1b672c00",
-      "title": "‘치이카와’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i225f7cc7",
+      "title": "‘블라인드’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "치이카와"
+        "블라인드"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 83.75,
-      "peak_score": 74.28,
+      "score": 105.04,
+      "peak_score": 105.04,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 2,
+          "title": "커피 블라인드 테스트.jpg",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77100623?m=humor",
+          "score": 96.04
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 18,
+          "title": "싱글벙글 블라인드 레전드 역대급 집주인 등장...jpg",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472067&_dcbest=1&page=1",
+          "score": 70.13
+        }
+      ],
+      "rank": 2,
+      "change": "NEW"
+    },
+    {
+      "id": "id99cf9ee",
+      "title": "수능에서 ai안경을 현실적으로 막기 어렵다는 교육부",
+      "keywords": [
+        "교육부",
+        "현실적으로"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 81.21,
+      "peak_score": 81.21,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 9,
+          "title": "수능에서 ai안경을 현실적으로 막기 어렵다는 교육부",
+          "url": "https://theqoo.net/hot/4382488120",
+          "score": 73.21
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 35,
+          "title": "수능시험 ai 안경을 현실적으로 못 막는다는 교육부",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472098&_dcbest=1&page=1",
+          "score": 65.91
+        }
+      ],
+      "rank": 3,
+      "change": "NEW"
+    },
+    {
+      "id": "i40029efd",
+      "title": "‘선관위’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "선관위"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 78.94,
+      "peak_score": 78.94,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 20,
+          "title": "단독) 선관위 직원 숨진 채 발견",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10159814",
+          "score": 69.94
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 43,
+          "title": "속보) 특검조사 받던 선관위 직원 사망",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472048&_dcbest=1&page=1",
+          "score": 63.23
+        }
+      ],
+      "rank": 4,
+      "change": "NEW"
+    },
+    {
+      "id": "i470f0c85",
+      "title": "빨가벗고 성기결합 하는 게 뭐 그리 대단하다고ㅋㅋㅋ",
+      "keywords": [
+        "빨가벗고",
+        "대단하다고",
+        "그리",
+        "성기결합"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 78.12,
+      "peak_score": 78.12,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 19,
+          "title": "빨가벗고 성기결합 하는 게 뭐 그리 대단하다고ㅋㅋㅋ",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2743237",
+          "score": 70.12
+        },
+        {
+          "source": "더쿠",
+          "rank": 26,
+          "title": "빨가벗고 성기결합 하는 게 뭐 그리 대단하다고ㅋㅋㅋ",
+          "url": "https://theqoo.net/hot/4382426896",
+          "score": 68.58
+        }
+      ],
+      "rank": 5,
+      "change": "NEW"
+    },
+    {
+      "id": "i27245075",
+      "title": "‘있다는’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "있다는"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 76.53,
+      "peak_score": 76.53,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 31,
+          "title": "AI로 인해 SW개발자 멸망은 다소 과장된 면이 있다는 생각입니다",
+          "url": "https://www.clien.net/service/board/park/19280819?od=T31&po=0&category=0&groupCd=",
+          "score": 67.53
+        },
+        {
+          "source": "더쿠",
+          "rank": 95,
+          "title": "아날로그 끝판왕이라는 일본에서도 요새 일어나고 있다는 일들 ...",
+          "url": "https://theqoo.net/hot/4382427089",
+          "score": 53.74
+        }
+      ],
+      "rank": 6,
+      "change": "NEW"
+    },
+    {
+      "id": "i9ff6bf96",
+      "title": "‘프랑스’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "프랑스"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 74.46,
+      "peak_score": 74.46,
       "appearances": 1,
       "sources": [
         "디시인사이드",
@@ -744,187 +1089,116 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 32,
-          "title": "개박살났다던 치이카와 근황",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471940&_dcbest=1&page=1",
-          "score": 65.28
+          "rank": 37,
+          "title": "싱글벙글 훌쩍훌쩍 프랑스 시위대에 약탈당한 가게 주인 인터뷰",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472085&_dcbest=1&page=1",
+          "score": 65.46
         },
         {
           "source": "루리웹",
-          "rank": 98,
-          "title": "치이카와)있잖아, 가져가도 돼?",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77096791?m=humor_only&t=now",
-          "score": 49.56
+          "rank": 90,
+          "title": "뉴스) 프랑스 시위 근황",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77103343?m=humor_only&t=now",
+          "score": 53.94
         }
       ],
-      "first_seen": "2026-10-08T12:01:09.196787+09:00",
-      "last_seen": "2026-10-21T02:56:28.850708+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 9,
-      "change": -2
-    },
-    {
-      "id": "if553a5cf",
-      "title": "‘트럼프’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "트럼프"
-      ],
-      "source_count": 2,
-      "post_count": 5,
-      "score": 82.63,
-      "peak_score": 70.16,
-      "appearances": 1,
-      "sources": [
-        "루리웹",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 69,
-          "title": "트럼프 “젤렌스키 아닌 다른..” 우크라 정권교체 시사",
-          "url": "https://www.clien.net/service/board/park/19280541?od=T31&po=0&category=0&groupCd=",
-          "score": 58.16
-        },
-        {
-          "source": "루리웹",
-          "rank": 79,
-          "title": "트럼프: MAGA\"남성\"들을 위한 만남어플을 만들겠다",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77098028?m=humor_only&t=now",
-          "score": 54.92
-        }
-      ],
-      "first_seen": "2026-10-02T11:10:36.587418+09:00",
-      "last_seen": "2026-10-21T09:05:44.284523+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 5,
-      "rank": 10,
-      "change": -2
-    }
-  ],
-  "realtime_issues": [
-    {
-      "id": "ifa68b8a4",
-      "title": "‘합리적’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "합리적"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 87.05,
-      "peak_score": 87.05,
-      "appearances": 1,
-      "sources": [
-        "뽐뿌",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 7,
-          "title": "정은경 사태 합리적 추론",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10159379",
-          "score": 78.05
-        },
-        {
-          "source": "인벤",
-          "rank": 72,
-          "title": "김민석 \"초광역특구법 최우선 입법…52시간제 합리적 대안 도출\"",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2743095",
-          "score": 57.87
-        }
-      ],
-      "rank": 1,
+      "rank": 7,
       "change": "NEW"
     },
     {
-      "id": "ie91a6665",
-      "title": "‘인터뷰’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i7f12dd88",
+      "title": "‘유도작업’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "인터뷰"
+        "유도작업"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 81.11,
-      "peak_score": 81.11,
+      "score": 68.84,
+      "peak_score": 68.84,
       "appearances": 1,
       "sources": [
         "더쿠",
-        "인벤"
+        "루리웹"
       ],
       "posts": [
         {
-          "source": "인벤",
-          "rank": 18,
-          "title": "코인으로 600만원에서 3800억 번 워뇨띠 인터뷰 (스압주의)",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2743105",
-          "score": 72.11
+          "source": "더쿠",
+          "rank": 59,
+          "title": "[속보] 상어 '부캉이' 수로 밖으로 이동…유도작업 종료",
+          "url": "https://theqoo.net/hot/4382569460",
+          "score": 59.84
         },
         {
-          "source": "더쿠",
-          "rank": 68,
-          "title": "'수출비’ 이선빈 “이광수 버블 구독? 저는 개인 구독자죠”[인터뷰]",
-          "url": "https://theqoo.net/hot/4382242528",
-          "score": 58.37
+          "source": "루리웹",
+          "rank": 83,
+          "title": "[속보] 수로 34일째 머문 흑상어 ‘부캉이’ 외해 나갔다…3차 유도작업 종료",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77103248?m=humor_only&t=now",
+          "score": 54.98
         }
       ],
-      "rank": 2,
+      "rank": 8,
       "change": "NEW"
     }
   ],
   "keywords": [
     {
-      "keyword": "서울",
-      "score": 115.85,
-      "post_count": 3,
-      "source_count": 3,
-      "best_rank": 30,
+      "keyword": "부캉",
+      "score": 206.63,
+      "post_count": 9,
+      "source_count": 5,
+      "best_rank": 11,
       "sources": [
-        "디시인사이드",
+        "더쿠",
+        "루리웹",
         "뽐뿌",
-        "인벤"
+        "인벤",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 1,
-      "change": 6
+      "change": "NEW"
     },
     {
-      "keyword": "사고",
-      "score": 103.49,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 1,
+      "keyword": "작업",
+      "score": 158.6,
+      "post_count": 4,
+      "source_count": 4,
+      "best_rank": 11,
       "sources": [
-        "루리웹",
-        "인벤"
+        "더쿠",
+        "뽐뿌",
+        "인벤",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 2,
       "change": "NEW"
     },
     {
-      "keyword": "합리적",
-      "score": 96.34,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 7,
+      "keyword": "3차",
+      "score": 154.79,
+      "post_count": 4,
+      "source_count": 4,
+      "best_rank": 11,
       "sources": [
-        "뽐뿌",
-        "인벤"
+        "더쿠",
+        "루리웹",
+        "인벤",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 3,
       "change": "NEW"
     },
     {
-      "keyword": "게임",
-      "score": 95.9,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 14,
+      "keyword": "상어",
+      "score": 134.57,
+      "post_count": 4,
+      "source_count": 3,
+      "best_rank": 11,
       "sources": [
-        "디시인사이드",
+        "더쿠",
+        "인벤",
         "클리앙"
       ],
       "aliases": [],
@@ -932,123 +1206,221 @@
       "change": "NEW"
     },
     {
-      "keyword": "빨대",
-      "score": 93.01,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 27,
+      "keyword": "8시간",
+      "score": 131.1,
+      "post_count": 3,
+      "source_count": 3,
+      "best_rank": 11,
       "sources": [
-        "디시인사이드",
+        "더쿠",
+        "인벤",
         "클리앙"
       ],
-      "aliases": [],
+      "aliases": [
+        "방류",
+        "성공",
+        "유도"
+      ],
       "rank": 5,
       "change": "NEW"
     },
     {
-      "keyword": "인터뷰",
-      "score": 90.89,
+      "keyword": "블라인드",
+      "score": 109.4,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 18,
+      "best_rank": 2,
       "sources": [
-        "더쿠",
-        "인벤"
+        "디시인사이드",
+        "루리웹"
       ],
       "aliases": [],
       "rank": 6,
       "change": "NEW"
     },
     {
-      "keyword": "웹툰",
-      "score": 86.17,
+      "keyword": "현실적",
+      "score": 100.29,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 49,
+      "best_rank": 9,
       "sources": [
-        "루리웹",
-        "인벤"
+        "더쿠",
+        "디시인사이드"
       ],
-      "aliases": [],
+      "aliases": [
+        "교육부"
+      ],
       "rank": 7,
       "change": "NEW"
     },
     {
-      "keyword": "프랑스",
-      "score": 85.04,
+      "keyword": "무료",
+      "score": 98.64,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 35,
+      "best_rank": 5,
       "sources": [
-        "디시인사이드",
-        "루리웹"
+        "루리웹",
+        "뽐뿌"
       ],
       "aliases": [],
       "rank": 8,
       "change": "NEW"
     },
     {
-      "keyword": "이재명",
-      "score": 81.14,
-      "post_count": 3,
-      "source_count": 1,
-      "best_rank": 11,
+      "keyword": "대단하다고",
+      "score": 96.61,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 19,
       "sources": [
+        "더쿠",
+        "인벤"
+      ],
+      "aliases": [
+        "그리",
+        "빨가벗고",
+        "성기결합"
+      ],
+      "rank": 9,
+      "change": "NEW"
+    },
+    {
+      "keyword": "순대",
+      "score": 95.02,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 5,
+      "sources": [
+        "루리웹",
         "클리앙"
       ],
       "aliases": [],
-      "rank": 9,
-      "change": -6
+      "rank": 10,
+      "change": "NEW"
+    },
+    {
+      "keyword": "단독",
+      "score": 94.83,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 20,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌"
+      ],
+      "aliases": [],
+      "rank": 11,
+      "change": "NEW"
+    },
+    {
+      "keyword": "손흥민",
+      "score": 94.29,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 21,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌"
+      ],
+      "aliases": [],
+      "rank": 12,
+      "change": "NEW"
+    },
+    {
+      "keyword": "발견",
+      "score": 93.82,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 20,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌"
+      ],
+      "aliases": [],
+      "rank": 13,
+      "change": "NEW"
+    },
+    {
+      "keyword": "선관위",
+      "score": 93.32,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 20,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌"
+      ],
+      "aliases": [
+        "직원"
+      ],
+      "rank": 14,
+      "change": "NEW"
+    },
+    {
+      "keyword": "일본",
+      "score": 91.45,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 14,
+      "sources": [
+        "더쿠",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 15,
+      "change": "NEW"
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "공주고속도로 adas 사고",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77099297?m=humor",
-      "score": 98.54,
-      "views": 18611,
-      "comments": 137
+      "title": "현재 병무청이 최후의 한명까지 징집하며 생기는 대참사",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77099787?m=humor",
+      "score": 97.44,
+      "views": 48338,
+      "comments": 158
     },
     {
       "source": "디시인사이드",
-      "title": "장동혁 욕설 녹취",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472010&_dcbest=1&page=1",
-      "score": 84.32,
-      "views": 33718,
-      "comments": 1420
-    },
-    {
-      "source": "인벤",
-      "title": "가구 하나 구매한 디씨인",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2743106",
-      "score": 82.8,
-      "views": 1599,
-      "comments": 15
-    },
-    {
-      "source": "뽐뿌",
-      "title": "정은경 사태 합리적 추론",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10159379",
-      "score": 78.05,
-      "views": 6255,
-      "comments": 18
+      "title": "싱글벙글 유색인종 캐스팅에 분노한 백인.JPG",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472093&_dcbest=1&page=1",
+      "score": 82.84,
+      "views": 17454,
+      "comments": 200
     },
     {
       "source": "더쿠",
-      "title": "한국인 관광객 구매심리를 간파한 이탈리아 기념품 가게.jpg",
-      "url": "https://theqoo.net/hot/4382239383",
-      "score": 76.71,
-      "views": 44225,
-      "comments": 365
+      "title": "양가가 다 불만족스러워 한다는 결혼",
+      "url": "https://theqoo.net/hot/4382454311",
+      "score": 75.89,
+      "views": 63449,
+      "comments": 1287
+    },
+    {
+      "source": "뽐뿌",
+      "title": "헌혈의집 '허위예약' 의혹",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10159208",
+      "score": 75.33,
+      "views": 21387,
+      "comments": 55
+    },
+    {
+      "source": "인벤",
+      "title": "신사들의 토론 여자의 최대 매력은?",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2743244",
+      "score": 73.12,
+      "views": 896,
+      "comments": 19
     },
     {
       "source": "클리앙",
-      "title": "착각이 심한 이재명",
-      "url": "https://www.clien.net/service/board/park/19280643?od=T31&po=0&category=0&groupCd=",
-      "score": 74.62,
-      "views": 5141,
-      "comments": 46
+      "title": "[속보]상어 '부캉이' 3차 방류 유도 작업 성공…8시간 만",
+      "url": "https://www.clien.net/service/board/park/19280821?od=T31&po=0&category=0&groupCd=",
+      "score": 71.28,
+      "views": 1810,
+      "comments": 7
     }
   ]
 }
