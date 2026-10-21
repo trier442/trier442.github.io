@@ -1,6 +1,478 @@
 {
   "version": 1,
   "issues": {
+    "iee76efaa": {
+      "id": "iee76efaa",
+      "first_seen": "2026-10-22T03:59:17.289416+09:00",
+      "last_seen": "2026-10-22T07:16:30.938062+09:00",
+      "title": "‘아시아’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "아시아"
+      ],
+      "points": [
+        {
+          "at": "2026-10-22T03:59:17.289416+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 76.0,
+          "sources": [
+            "더쿠",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://theqoo.net/hot/4382915057",
+            "https://www.clien.net/service/board/park/19280968?od=T31&po=0&category=0&groupCd="
+          ]
+        },
+        {
+          "at": "2026-10-22T07:16:30.938062+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 84.0,
+          "sources": [
+            "더쿠",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://theqoo.net/hot/4382915057",
+            "https://www.clien.net/service/board/park/19280968?od=T31&po=0&category=0&groupCd="
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 14,
+          "title": "아시아 못 넘는 아이브, 스타쉽 해결책 있나 [엔터그알]",
+          "url": "https://theqoo.net/hot/4382915057",
+          "score": 75.0
+        },
+        {
+          "source": "클리앙",
+          "rank": 25,
+          "title": "그래미 시상식에 참여하려는 아시아 아티스트들",
+          "url": "https://www.clien.net/service/board/park/19280968?od=T31&po=0&category=0&groupCd=",
+          "score": 69.56
+        }
+      ]
+    },
+    "ief70793c": {
+      "id": "ief70793c",
+      "first_seen": "2026-10-22T03:59:17.289416+09:00",
+      "last_seen": "2026-10-22T07:16:30.938062+09:00",
+      "title": "‘아이브’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "아이브"
+      ],
+      "points": [
+        {
+          "at": "2026-10-22T03:59:17.289416+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 76.0,
+          "sources": [
+            "더쿠",
+            "인벤"
+          ],
+          "post_urls": [
+            "https://theqoo.net/hot/4382915057",
+            "https://www.inven.co.kr/board/webzine/2097/2743409"
+          ]
+        },
+        {
+          "at": "2026-10-22T07:16:30.938062+09:00",
+          "source_count": 2,
+          "post_count": 3,
+          "score": 85.0,
+          "sources": [
+            "더쿠",
+            "인벤"
+          ],
+          "post_urls": [
+            "https://theqoo.net/hot/4382915057",
+            "https://www.inven.co.kr/board/webzine/2097/2743409"
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 14,
+          "title": "아시아 못 넘는 아이브, 스타쉽 해결책 있나 [엔터그알]",
+          "url": "https://theqoo.net/hot/4382915057",
+          "score": 75.0
+        },
+        {
+          "source": "인벤",
+          "rank": 31,
+          "title": "BTS 스키즈, 亞 차별 논란 ‘그래미’ 보이콧 했는데…아이브 박효신 출품",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2743409",
+          "score": 67.14
+        }
+      ]
+    },
+    "ia3911d65": {
+      "id": "ia3911d65",
+      "first_seen": "2026-10-22T03:59:17.289416+09:00",
+      "last_seen": "2026-10-22T07:16:30.938062+09:00",
+      "title": "‘그래미’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "그래미"
+      ],
+      "points": [
+        {
+          "at": "2026-10-22T03:59:17.289416+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 72.94,
+          "sources": [
+            "인벤",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://www.inven.co.kr/board/webzine/2097/2743409",
+            "https://www.clien.net/service/board/park/19280968?od=T31&po=0&category=0&groupCd="
+          ]
+        },
+        {
+          "at": "2026-10-22T07:16:30.938062+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 78.56,
+          "sources": [
+            "인벤",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://www.clien.net/service/board/park/19280968?od=T31&po=0&category=0&groupCd=",
+            "https://www.inven.co.kr/board/webzine/2097/2743409"
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 25,
+          "title": "그래미 시상식에 참여하려는 아시아 아티스트들",
+          "url": "https://www.clien.net/service/board/park/19280968?od=T31&po=0&category=0&groupCd=",
+          "score": 69.56
+        },
+        {
+          "source": "인벤",
+          "rank": 31,
+          "title": "BTS 스키즈, 亞 차별 논란 ‘그래미’ 보이콧 했는데…아이브 박효신 출품",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2743409",
+          "score": 67.14
+        }
+      ]
+    },
+    "i36ddd5fd": {
+      "id": "i36ddd5fd",
+      "first_seen": "2026-09-30T08:46:44.153676+09:00",
+      "last_seen": "2026-10-22T07:16:30.938062+09:00",
+      "title": "‘민주당’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "민주당"
+      ],
+      "points": [
+        {
+          "at": "2026-09-30T08:46:44.153676+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 68.38,
+          "sources": [
+            "뽐뿌",
+            "인벤"
+          ],
+          "post_urls": [
+            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10135851",
+            "https://www.inven.co.kr/board/webzine/2097/2734187"
+          ]
+        },
+        {
+          "at": "2026-09-30T11:27:36.197372+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 81.29,
+          "sources": [
+            "디시인사이드",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=466849&_dcbest=1&page=1",
+            "https://www.clien.net/service/board/park/19271622?od=T31&po=0&category=0&groupCd="
+          ]
+        },
+        {
+          "at": "2026-10-06T07:11:34.783452+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 81.77,
+          "sources": [
+            "뽐뿌",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://www.clien.net/service/board/park/19273954?od=T31&po=0&category=0&groupCd=",
+            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10143172"
+          ]
+        },
+        {
+          "at": "2026-10-07T15:10:25.459989+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 84.78,
+          "sources": [
+            "인벤",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://www.clien.net/service/board/park/19274580?od=T31&po=0&category=0&groupCd=",
+            "https://www.inven.co.kr/board/webzine/2097/2737337"
+          ]
+        },
+        {
+          "at": "2026-10-12T10:24:43.062897+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 79.98,
+          "sources": [
+            "인벤",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://www.inven.co.kr/board/webzine/2097/2739139",
+            "https://www.clien.net/service/board/park/19276386?od=T31&po=0&category=0&groupCd="
+          ]
+        },
+        {
+          "at": "2026-10-13T12:57:57.192634+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 83.5,
+          "sources": [
+            "인벤",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://www.inven.co.kr/board/webzine/2097/2739664",
+            "https://www.clien.net/service/board/park/19276874?od=T31&po=0&category=0&groupCd="
+          ]
+        },
+        {
+          "at": "2026-10-14T08:04:55.181457+09:00",
+          "source_count": 2,
+          "post_count": 3,
+          "score": 91.21,
+          "sources": [
+            "인벤",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://www.clien.net/service/board/park/19277190?od=T31&po=0&category=0&groupCd=",
+            "https://www.inven.co.kr/board/webzine/2097/2739986"
+          ]
+        },
+        {
+          "at": "2026-10-14T08:54:24.839303+09:00",
+          "source_count": 2,
+          "post_count": 3,
+          "score": 70.98,
+          "sources": [
+            "인벤",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://www.inven.co.kr/board/webzine/2097/2739986",
+            "https://www.clien.net/service/board/park/19277190?od=T31&po=0&category=0&groupCd="
+          ]
+        },
+        {
+          "at": "2026-10-14T18:01:52.866638+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 75.61,
+          "sources": [
+            "뽐뿌",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://www.clien.net/service/board/park/19277487?od=T31&po=0&category=0&groupCd=",
+            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10151833"
+          ]
+        },
+        {
+          "at": "2026-10-14T23:30:27.973805+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 77.2,
+          "sources": [
+            "뽐뿌",
+            "인벤"
+          ],
+          "post_urls": [
+            "https://www.inven.co.kr/board/webzine/2097/2740350",
+            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10152211"
+          ]
+        },
+        {
+          "at": "2026-10-17T02:58:12.116264+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 63.89,
+          "sources": [
+            "더쿠",
+            "디시인사이드"
+          ],
+          "post_urls": [
+            "https://theqoo.net/hot/4377907618",
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=470888&_dcbest=1&page=1"
+          ]
+        },
+        {
+          "at": "2026-10-17T03:22:08.555425+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 63.33,
+          "sources": [
+            "더쿠",
+            "디시인사이드"
+          ],
+          "post_urls": [
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=470888&_dcbest=1&page=1",
+            "https://theqoo.net/hot/4377907618"
+          ]
+        },
+        {
+          "at": "2026-10-17T05:57:55.544770+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 62.65,
+          "sources": [
+            "더쿠",
+            "디시인사이드"
+          ],
+          "post_urls": [
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=470888&_dcbest=1&page=1",
+            "https://theqoo.net/hot/4377907618"
+          ]
+        },
+        {
+          "at": "2026-10-22T07:16:30.938062+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 70.37,
+          "sources": [
+            "뽐뿌",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10160365",
+            "https://www.clien.net/service/board/park/19280967?od=T31&po=0&category=0&groupCd="
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 62,
+          "title": "여론조사] 민주당 신천지 관련 모두 공개해야 80.5%",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10160365",
+          "score": 61.37
+        },
+        {
+          "source": "클리앙",
+          "rank": 85,
+          "title": "[속보/더힐] 부시 가문도 민주당 지지. 부시 딸과 동생, 민주당 탈라리코 지지선언.",
+          "url": "https://www.clien.net/service/board/park/19280967?od=T31&po=0&category=0&groupCd=",
+          "score": 55.05
+        }
+      ]
+    },
+    "if26c8c85": {
+      "id": "if26c8c85",
+      "first_seen": "2026-10-22T07:16:30.938062+09:00",
+      "last_seen": "2026-10-22T07:16:30.938062+09:00",
+      "title": "월 1억 버는 사람이 내는 세금",
+      "keywords": [
+        "내는",
+        "1억",
+        "버는"
+      ],
+      "points": [
+        {
+          "at": "2026-10-22T07:16:30.938062+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 96.21,
+          "sources": [
+            "루리웹",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://www.clien.net/service/board/park/19280973?od=T31&po=0&category=0&groupCd=",
+            "https://bbs.ruliweb.com/best/board/300143/read/77108433?m=humor_only&t=now"
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 3,
+          "title": "월 1억 버는 사람이 내는 세금",
+          "url": "https://www.clien.net/service/board/park/19280973?od=T31&po=0&category=0&groupCd=",
+          "score": 88.21
+        },
+        {
+          "source": "루리웹",
+          "rank": 23,
+          "title": "베글 월 1억 버는 사람이 내는 세금의진실",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77108433?m=humor_only&t=now",
+          "score": 70.32
+        }
+      ]
+    },
+    "i942f929f": {
+      "id": "i942f929f",
+      "first_seen": "2026-10-22T07:16:30.938062+09:00",
+      "last_seen": "2026-10-22T07:16:30.938062+09:00",
+      "title": "‘장기적출’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "장기적출"
+      ],
+      "points": [
+        {
+          "at": "2026-10-22T07:16:30.938062+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 67.46,
+          "sources": [
+            "인벤",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://www.inven.co.kr/board/webzine/2097/2743408",
+            "https://www.clien.net/service/board/park/19280962?od=T31&po=0&category=0&groupCd="
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 72,
+          "title": "중국의 장기적출 실태를 다룬 영화 국유장기",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2743408",
+          "score": 58.46
+        },
+        {
+          "source": "클리앙",
+          "rank": 79,
+          "title": "중국 장기적출 다큐 영화가 우리나라에서 상영 금지 됨.",
+          "url": "https://www.clien.net/service/board/park/19280962?od=T31&po=0&category=0&groupCd=",
+          "score": 56.55
+        }
+      ]
+    },
     "i6c9318cd": {
       "id": "i6c9318cd",
       "first_seen": "2026-10-17T19:34:33.819752+09:00",
@@ -209,88 +681,6 @@
         }
       ]
     },
-    "iee76efaa": {
-      "id": "iee76efaa",
-      "first_seen": "2026-10-22T03:59:17.289416+09:00",
-      "last_seen": "2026-10-22T03:59:17.289416+09:00",
-      "title": "‘아시아’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "아시아"
-      ],
-      "points": [
-        {
-          "at": "2026-10-22T03:59:17.289416+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 76.0,
-          "sources": [
-            "더쿠",
-            "클리앙"
-          ],
-          "post_urls": [
-            "https://theqoo.net/hot/4382915057",
-            "https://www.clien.net/service/board/park/19280968?od=T31&po=0&category=0&groupCd="
-          ]
-        }
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 24,
-          "title": "아시아 못 넘는 아이브, 스타쉽 해결책 있나 [엔터그알]",
-          "url": "https://theqoo.net/hot/4382915057",
-          "score": 67.0
-        },
-        {
-          "source": "클리앙",
-          "rank": 44,
-          "title": "그래미 시상식에 참여하려는 아시아 아티스트들",
-          "url": "https://www.clien.net/service/board/park/19280968?od=T31&po=0&category=0&groupCd=",
-          "score": 62.21
-        }
-      ]
-    },
-    "ief70793c": {
-      "id": "ief70793c",
-      "first_seen": "2026-10-22T03:59:17.289416+09:00",
-      "last_seen": "2026-10-22T03:59:17.289416+09:00",
-      "title": "‘아이브’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "아이브"
-      ],
-      "points": [
-        {
-          "at": "2026-10-22T03:59:17.289416+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 76.0,
-          "sources": [
-            "더쿠",
-            "인벤"
-          ],
-          "post_urls": [
-            "https://theqoo.net/hot/4382915057",
-            "https://www.inven.co.kr/board/webzine/2097/2743409"
-          ]
-        }
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 24,
-          "title": "아시아 못 넘는 아이브, 스타쉽 해결책 있나 [엔터그알]",
-          "url": "https://theqoo.net/hot/4382915057",
-          "score": 67.0
-        },
-        {
-          "source": "인벤",
-          "rank": 32,
-          "title": "BTS 스키즈, 亞 차별 논란 ‘그래미’ 보이콧 했는데…아이브 박효신 출품",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2743409",
-          "score": 63.94
-        }
-      ]
-    },
     "i9b30a286": {
       "id": "i9b30a286",
       "first_seen": "2026-10-22T03:59:17.289416+09:00",
@@ -372,47 +762,6 @@
           "title": "[단독] 반도체 산단 급한데.. 미군, 광주공항에 580억 시설공사",
           "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10160159",
           "score": 60.51
-        }
-      ]
-    },
-    "ia3911d65": {
-      "id": "ia3911d65",
-      "first_seen": "2026-10-22T03:59:17.289416+09:00",
-      "last_seen": "2026-10-22T03:59:17.289416+09:00",
-      "title": "‘그래미’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "그래미"
-      ],
-      "points": [
-        {
-          "at": "2026-10-22T03:59:17.289416+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 72.94,
-          "sources": [
-            "인벤",
-            "클리앙"
-          ],
-          "post_urls": [
-            "https://www.inven.co.kr/board/webzine/2097/2743409",
-            "https://www.clien.net/service/board/park/19280968?od=T31&po=0&category=0&groupCd="
-          ]
-        }
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 32,
-          "title": "BTS 스키즈, 亞 차별 논란 ‘그래미’ 보이콧 했는데…아이브 박효신 출품",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2743409",
-          "score": 63.94
-        },
-        {
-          "source": "클리앙",
-          "rank": 44,
-          "title": "그래미 시상식에 참여하려는 아시아 아티스트들",
-          "url": "https://www.clien.net/service/board/park/19280968?od=T31&po=0&category=0&groupCd=",
-          "score": 62.21
         }
       ]
     },
@@ -11579,215 +11928,6 @@
           "title": "다음주에 개봉하는 국산 애니메이션",
           "url": "https://www.clien.net/service/board/park/19278745?od=T31&po=0&category=0&groupCd=",
           "score": 62.0
-        }
-      ]
-    },
-    "i36ddd5fd": {
-      "id": "i36ddd5fd",
-      "first_seen": "2026-09-30T08:46:44.153676+09:00",
-      "last_seen": "2026-10-17T05:57:55.544770+09:00",
-      "title": "‘민주당’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "민주당"
-      ],
-      "points": [
-        {
-          "at": "2026-09-30T08:46:44.153676+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 68.38,
-          "sources": [
-            "뽐뿌",
-            "인벤"
-          ],
-          "post_urls": [
-            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10135851",
-            "https://www.inven.co.kr/board/webzine/2097/2734187"
-          ]
-        },
-        {
-          "at": "2026-09-30T11:27:36.197372+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 81.29,
-          "sources": [
-            "디시인사이드",
-            "클리앙"
-          ],
-          "post_urls": [
-            "https://gall.dcinside.com/board/view/?id=dcbest&no=466849&_dcbest=1&page=1",
-            "https://www.clien.net/service/board/park/19271622?od=T31&po=0&category=0&groupCd="
-          ]
-        },
-        {
-          "at": "2026-10-06T07:11:34.783452+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 81.77,
-          "sources": [
-            "뽐뿌",
-            "클리앙"
-          ],
-          "post_urls": [
-            "https://www.clien.net/service/board/park/19273954?od=T31&po=0&category=0&groupCd=",
-            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10143172"
-          ]
-        },
-        {
-          "at": "2026-10-07T15:10:25.459989+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 84.78,
-          "sources": [
-            "인벤",
-            "클리앙"
-          ],
-          "post_urls": [
-            "https://www.clien.net/service/board/park/19274580?od=T31&po=0&category=0&groupCd=",
-            "https://www.inven.co.kr/board/webzine/2097/2737337"
-          ]
-        },
-        {
-          "at": "2026-10-12T10:24:43.062897+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 79.98,
-          "sources": [
-            "인벤",
-            "클리앙"
-          ],
-          "post_urls": [
-            "https://www.inven.co.kr/board/webzine/2097/2739139",
-            "https://www.clien.net/service/board/park/19276386?od=T31&po=0&category=0&groupCd="
-          ]
-        },
-        {
-          "at": "2026-10-13T12:57:57.192634+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 83.5,
-          "sources": [
-            "인벤",
-            "클리앙"
-          ],
-          "post_urls": [
-            "https://www.inven.co.kr/board/webzine/2097/2739664",
-            "https://www.clien.net/service/board/park/19276874?od=T31&po=0&category=0&groupCd="
-          ]
-        },
-        {
-          "at": "2026-10-14T08:04:55.181457+09:00",
-          "source_count": 2,
-          "post_count": 3,
-          "score": 91.21,
-          "sources": [
-            "인벤",
-            "클리앙"
-          ],
-          "post_urls": [
-            "https://www.clien.net/service/board/park/19277190?od=T31&po=0&category=0&groupCd=",
-            "https://www.inven.co.kr/board/webzine/2097/2739986"
-          ]
-        },
-        {
-          "at": "2026-10-14T08:54:24.839303+09:00",
-          "source_count": 2,
-          "post_count": 3,
-          "score": 70.98,
-          "sources": [
-            "인벤",
-            "클리앙"
-          ],
-          "post_urls": [
-            "https://www.inven.co.kr/board/webzine/2097/2739986",
-            "https://www.clien.net/service/board/park/19277190?od=T31&po=0&category=0&groupCd="
-          ]
-        },
-        {
-          "at": "2026-10-14T18:01:52.866638+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 75.61,
-          "sources": [
-            "뽐뿌",
-            "클리앙"
-          ],
-          "post_urls": [
-            "https://www.clien.net/service/board/park/19277487?od=T31&po=0&category=0&groupCd=",
-            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10151833"
-          ]
-        },
-        {
-          "at": "2026-10-14T23:30:27.973805+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 77.2,
-          "sources": [
-            "뽐뿌",
-            "인벤"
-          ],
-          "post_urls": [
-            "https://www.inven.co.kr/board/webzine/2097/2740350",
-            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10152211"
-          ]
-        },
-        {
-          "at": "2026-10-17T02:58:12.116264+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 63.89,
-          "sources": [
-            "더쿠",
-            "디시인사이드"
-          ],
-          "post_urls": [
-            "https://theqoo.net/hot/4377907618",
-            "https://gall.dcinside.com/board/view/?id=dcbest&no=470888&_dcbest=1&page=1"
-          ]
-        },
-        {
-          "at": "2026-10-17T03:22:08.555425+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 63.33,
-          "sources": [
-            "더쿠",
-            "디시인사이드"
-          ],
-          "post_urls": [
-            "https://gall.dcinside.com/board/view/?id=dcbest&no=470888&_dcbest=1&page=1",
-            "https://theqoo.net/hot/4377907618"
-          ]
-        },
-        {
-          "at": "2026-10-17T05:57:55.544770+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 62.65,
-          "sources": [
-            "더쿠",
-            "디시인사이드"
-          ],
-          "post_urls": [
-            "https://gall.dcinside.com/board/view/?id=dcbest&no=470888&_dcbest=1&page=1",
-            "https://theqoo.net/hot/4377907618"
-          ]
-        }
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 78,
-          "title": "JTBC) 부천 공장 화재에 소방관 2명 중상, 추미애 대신 민주당 사과",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470888&_dcbest=1&page=1",
-          "score": 53.65
-        },
-        {
-          "source": "더쿠",
-          "rank": 89,
-          "title": "지역 축제 도중 인사한다고 가수 무대 끊어버린 김민석 민주당 당대표",
-          "url": "https://theqoo.net/hot/4377907618",
-          "score": 50.58
         }
       ]
     },
@@ -31358,92 +31498,7 @@
           "score": 53.07
         }
       ]
-    },
-    "i31e145e6": {
-      "id": "i31e145e6",
-      "first_seen": "2026-09-27T20:23:34.525151+09:00",
-      "last_seen": "2026-09-27T20:23:34.525151+09:00",
-      "title": "너네 한국 시민권 취득 시험 문제 풀어볼래?",
-      "keywords": [
-        "취득",
-        "시민권",
-        "시험",
-        "한국"
-      ],
-      "points": [
-        {
-          "at": "2026-09-27T20:23:34.525151+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 73.68,
-          "sources": [
-            "더쿠",
-            "루리웹"
-          ],
-          "post_urls": [
-            "https://theqoo.net/hot/4357839726",
-            "https://bbs.ruliweb.com/best/board/300143/read/76824812?m=humor_only&t=now"
-          ]
-        }
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 28,
-          "title": "너네 한국 시민권 취득 시험 문제 풀어볼래?",
-          "url": "https://theqoo.net/hot/4357839726",
-          "score": 65.68
-        },
-        {
-          "source": "루리웹",
-          "rank": 54,
-          "title": "한국 시민권 취득 시험 문제.jpg",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/76824812?m=humor_only&t=now",
-          "score": 59.75
-        }
-      ]
-    },
-    "i8aaa794c": {
-      "id": "i8aaa794c",
-      "first_seen": "2026-09-27T20:23:34.525151+09:00",
-      "last_seen": "2026-09-27T20:23:34.525151+09:00",
-      "title": "‘은메달’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "은메달"
-      ],
-      "points": [
-        {
-          "at": "2026-09-27T20:23:34.525151+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 69.43,
-          "sources": [
-            "디시인사이드",
-            "인벤"
-          ],
-          "post_urls": [
-            "https://www.inven.co.kr/board/webzine/2097/2733239",
-            "https://gall.dcinside.com/board/view/?id=dcbest&no=466252&_dcbest=1&page=1"
-          ]
-        }
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 48,
-          "title": "\"전국체전서도 이런 일 없어\", 은메달 땄는데 메달 못 받은 수영 김민섭 선수",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2733239",
-          "score": 60.43
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 90,
-          "title": "김수지·김나현, 다이빙 싱크로 값진 은메달",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466252&_dcbest=1&page=1",
-          "score": 53.72
-        }
-      ]
     }
   },
-  "updated_at": "2026-10-22T03:59:17.289416+09:00"
+  "updated_at": "2026-10-22T07:16:30.938062+09:00"
 }
