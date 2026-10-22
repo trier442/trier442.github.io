@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-10-22T19:35:08.482480+09:00",
+  "collected_at": "2026-10-22T20:09:16.565846+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -11,15 +11,49 @@
   "rankings": {
     "realtime": [
       {
+        "id": "i623c680f",
+        "title": "‘이슬람은’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "이슬람은"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 103.92,
+        "peak_score": 103.92,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "루리웹"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 2,
+            "title": "근데 또 이슬람은 교리부터 썩어서 안된다는거 보면 웃겨지는게",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77112476?m=humor",
+            "score": 94.92
+          },
+          {
+            "source": "더쿠",
+            "rank": 65,
+            "title": "이슬람은 종교가 아니에요 ㅜㅜ",
+            "url": "https://theqoo.net/hot/4383293945",
+            "score": 58.92
+          }
+        ],
+        "rank": 1,
+        "change": "NEW"
+      },
+      {
         "id": "i9ff6bf96",
         "title": "‘프랑스’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
           "프랑스"
         ],
         "source_count": 2,
-        "post_count": 3,
-        "score": 79.12,
-        "peak_score": 79.12,
+        "post_count": 2,
+        "score": 73.98,
+        "peak_score": 73.98,
         "appearances": 1,
         "sources": [
           "뽐뿌",
@@ -27,33 +61,143 @@
         ],
         "posts": [
           {
-            "source": "뽐뿌",
-            "rank": 20,
-            "title": "프랑스 폭동, 무슬림의 이중성",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=23919",
-            "score": 69.12
-          },
-          {
             "source": "인벤",
-            "rank": 21,
+            "rank": 29,
             "title": "프랑스 시위의 원인?",
             "url": "https://www.inven.co.kr/board/webzine/2097/2743802",
-            "score": 68.96
+            "score": 64.98
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 30,
+            "title": "프랑스 폭동, 무슬림의 이중성",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=23919",
+            "score": 64.51
           }
         ],
-        "rank": 1,
-        "change": "NEW"
+        "rank": 2,
+        "change": -1
       },
       {
-        "id": "iaf3fcbdb",
-        "title": "‘젤렌스키’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "id8c1116b",
+        "title": "‘징역형’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "젤렌스키"
+          "징역형"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 105.17,
-        "peak_score": 105.17,
+        "score": 70.95,
+        "peak_score": 70.95,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 44,
+            "title": "與법사위원장 서영교의 압박?... “오세훈에 징역형 선고해야”",
+            "url": "https://www.clien.net/service/board/park/19281241?od=T31&po=0&category=0&groupCd=",
+            "score": 61.95
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 74,
+            "title": "'탈북어민 강제북송' 정의용·서훈 2심서 징역형 집유 선고",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472339&_dcbest=1&page=1",
+            "score": 57.93
+          }
+        ],
+        "rank": 3,
+        "change": "NEW"
+      },
+      {
+        "id": "i48045a12",
+        "title": "북한 발파작업에 공포에 휩싸인 강화 주민들/외교부,유엔 안보리 서한 발송",
+        "keywords": [
+          "강화",
+          "서한",
+          "휩싸인",
+          "발송",
+          "안보리",
+          "발파작업에",
+          "주민들",
+          "공포에",
+          "외교부"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 68.39,
+        "peak_score": 68.39,
+        "appearances": 1,
+        "sources": [
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 52,
+            "title": "북한 발파작업에 공포에 휩싸인 강화 주민들/외교부,유엔 안보리 서한 발송",
+            "url": "https://www.clien.net/service/board/park/19281246?od=T31&po=0&category=0&groupCd=",
+            "score": 60.39
+          },
+          {
+            "source": "인벤",
+            "rank": 68,
+            "title": "북한 발파작업에 공포에 휩싸인 강화 주민들/외교부,유엔 안보리 서한 발송",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2743810",
+            "score": 58.35
+          }
+        ],
+        "rank": 4,
+        "change": "NEW"
+      },
+      {
+        "id": "if553a5cf",
+        "title": "‘트럼프’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "트럼프"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 67.39,
+        "peak_score": 67.39,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 66,
+            "title": "신내림 받은 트럼프",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2743796",
+            "score": 58.39
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 79,
+            "title": "JTBC) 트럼프, 우크라 젤렌스키 정권교체 직격",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472341&_dcbest=1&page=1",
+            "score": 56.46
+          }
+        ],
+        "rank": 5,
+        "change": 1
+      },
+      {
+        "id": "i5b44b8af",
+        "title": "‘php’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "php"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 67.36,
+        "peak_score": 67.36,
         "appearances": 1,
         "sources": [
           "디시인사이드",
@@ -62,20 +206,20 @@
         "posts": [
           {
             "source": "루리웹",
-            "rank": 2,
-            "title": "[속보] 젤렌스키 대통령, 지국 영토 75% 조건으로 종전 협의",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77111681?m=humor",
-            "score": 96.17
+            "rank": 67,
+            "title": "???: PHP 취약점 대응 그거 왜이렇게 오래 걸림?",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77115659?m=humor_only&t=now",
+            "score": 58.36
           },
           {
             "source": "디시인사이드",
-            "rank": 68,
-            "title": "JTBC) 트럼프, 우크라 젤렌스키 정권교체 직격",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472341&_dcbest=1&page=1",
-            "score": 58.15
+            "rank": 96,
+            "title": "php 보안취약 꽤 심각한가봄",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472305&_dcbest=1&page=1",
+            "score": 52.36
           }
         ],
-        "rank": 2,
+        "rank": 6,
         "change": "NEW"
       },
       {
@@ -87,8 +231,8 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 85.44,
-        "peak_score": 85.44,
+        "score": 66.65,
+        "peak_score": 66.65,
         "appearances": 1,
         "sources": [
           "뽐뿌",
@@ -97,194 +241,51 @@
         "posts": [
           {
             "source": "뽐뿌",
-            "rank": 7,
+            "rank": 75,
             "title": "리얼미터) 지지율 올린다던 김민석 당대표 직무수행 25.6% ㅋ",
             "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10161052",
-            "score": 76.44
+            "score": 57.65
           },
           {
             "source": "클리앙",
-            "rank": 34,
+            "rank": 84,
             "title": "김민석 지지율 25.6%...서울 24%, 경인 23%, 호남 39%.",
             "url": "https://www.clien.net/service/board/park/19281228?od=T31&po=0&category=0&groupCd=",
-            "score": 64.69
-          }
-        ],
-        "rank": 3,
-        "change": "NEW"
-      },
-      {
-        "id": "i039fd79c",
-        "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "이재명"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 79.22,
-        "peak_score": 79.22,
-        "appearances": 1,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 15,
-            "title": "이재명 대통령님 트위터 근황",
-            "url": "https://www.clien.net/service/board/park/19281220?od=T31&po=0&category=0&groupCd=",
-            "score": 70.22
-          },
-          {
-            "source": "인벤",
-            "rank": 64,
-            "title": "이재명 대통령 인스타 사진 업로드 근황",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2743781",
-            "score": 58.81
-          }
-        ],
-        "rank": 4,
-        "change": "NEW"
-      },
-      {
-        "id": "i481188fd",
-        "title": "‘올라가’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "올라가"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 79.15,
-        "peak_score": 79.15,
-        "appearances": 1,
-        "sources": [
-          "루리웹",
-          "뽐뿌"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 17,
-            "title": "무덤에 올라가 웨딩촬영한 커플 ㄷㄷ",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10161282",
-            "score": 70.15
-          },
-          {
-            "source": "루리웹",
-            "rank": 96,
-            "title": "차 위에 올라가 발로 앞 유리 깬 취객.jpg",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77115163?m=humor_only&t=now",
-            "score": 52.88
-          }
-        ],
-        "rank": 5,
-        "change": "NEW"
-      },
-      {
-        "id": "if553a5cf",
-        "title": "‘트럼프’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "트럼프"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 75.06,
-        "peak_score": 75.06,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 26,
-            "title": "신내림 받은 트럼프",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2743796",
-            "score": 66.06
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 68,
-            "title": "JTBC) 트럼프, 우크라 젤렌스키 정권교체 직격",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472341&_dcbest=1&page=1",
-            "score": 58.15
-          }
-        ],
-        "rank": 6,
-        "change": "NEW"
-      },
-      {
-        "id": "ide03e6bd",
-        "title": "G식백과)콜옾 북한 에피소드를 두고서 비판하는 이들에게 하고 싶은 말",
-        "keywords": [
-          "콜옾",
-          "g식백과",
-          "하고",
-          "두고서",
-          "이들에게",
-          "에피소드를",
-          "비판하는"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 74.01,
-        "peak_score": 74.01,
-        "appearances": 1,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 27,
-            "title": "G식백과)콜옾 북한 에피소드를 두고서 비판하는 이들에게 하고 싶은 말",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2743795",
-            "score": 66.01
-          },
-          {
-            "source": "클리앙",
-            "rank": 95,
-            "title": "G식백과)콜옾 북한 에피소드를 두고서 비판하는 이들에게 하고 싶은 말",
-            "url": "https://www.clien.net/service/board/park/19281230?od=T31&po=0&category=0&groupCd=",
-            "score": 53.69
+            "score": 55.38
           }
         ],
         "rank": 7,
-        "change": "NEW"
+        "change": -4
       },
       {
-        "id": "i655a6c9a",
-        "title": "투싼 하루에 15000대 계약 트림별 계약률 공개�碁六�.",
+        "id": "i4aeaabb9",
+        "title": "‘트위터’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "15000대",
-          "투싼"
+          "트위터"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 72.52,
-        "peak_score": 72.52,
+        "score": 64.68,
+        "peak_score": 64.68,
         "appearances": 1,
         "sources": [
-          "뽐뿌",
-          "인벤"
+          "더쿠",
+          "클리앙"
         ],
         "posts": [
           {
-            "source": "뽐뿌",
-            "rank": 35,
-            "title": "투싼 하루에 15000대 계약 트림별 계약률 공개�碁六�.",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=980374",
-            "score": 64.52
+            "source": "더쿠",
+            "rank": 82,
+            "title": "쓰리디 돌덕 vs 투디 오타쿠 트위터 인용으로 또 싸움남.........",
+            "url": "https://theqoo.net/hot/4383505608",
+            "score": 55.68
           },
           {
-            "source": "인벤",
-            "rank": 97,
-            "title": "신형 투싼 하루 만에 15000대 예약",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2743768",
-            "score": 52.55
+            "source": "클리앙",
+            "rank": 86,
+            "title": "이재명 대통령님 트위터 근황",
+            "url": "https://www.clien.net/service/board/park/19281220?od=T31&po=0&category=0&groupCd=",
+            "score": 54.9
           }
         ],
         "rank": 8,
@@ -292,6 +293,45 @@
       }
     ],
     "daily": [
+      {
+        "id": "i623c680f",
+        "title": "‘이슬람은’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "이슬람은"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 115.41,
+        "peak_score": 103.92,
+        "appearances": 2,
+        "sources": [
+          "더쿠",
+          "디시인사이드",
+          "루리웹"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 2,
+            "title": "근데 또 이슬람은 교리부터 썩어서 안된다는거 보면 웃겨지는게",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77112476?m=humor",
+            "score": 94.92
+          },
+          {
+            "source": "더쿠",
+            "rank": 65,
+            "title": "이슬람은 종교가 아니에요 ㅜㅜ",
+            "url": "https://theqoo.net/hot/4383293945",
+            "score": 58.92
+          }
+        ],
+        "first_seen": "2026-10-22T14:28:36.862003+09:00",
+        "last_seen": "2026-10-22T20:09:16.565846+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 1,
+        "change": 5
+      },
       {
         "id": "iaf3fcbdb",
         "title": "‘젤렌스키’ 관련 글이 여러 커뮤니티에서 화제",
@@ -327,8 +367,8 @@
         "last_seen": "2026-10-22T19:35:08.482480+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 1,
-        "change": "NEW"
+        "rank": 2,
+        "change": -1
       },
       {
         "id": "if26c8c85",
@@ -367,7 +407,7 @@
         "last_seen": "2026-10-22T07:16:30.938062+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 2,
+        "rank": 3,
         "change": -1
       },
       {
@@ -405,8 +445,47 @@
         "last_seen": "2026-10-22T07:16:30.938062+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 3,
+        "rank": 4,
         "change": -1
+      },
+      {
+        "id": "i01009091",
+        "title": "‘지지율’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "지지율",
+          "김민석"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 96.93,
+        "peak_score": 85.44,
+        "appearances": 2,
+        "sources": [
+          "뽐뿌",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 75,
+            "title": "리얼미터) 지지율 올린다던 김민석 당대표 직무수행 25.6% ㅋ",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10161052",
+            "score": 57.65
+          },
+          {
+            "source": "클리앙",
+            "rank": 84,
+            "title": "김민석 지지율 25.6%...서울 24%, 경인 23%, 호남 39%.",
+            "url": "https://www.clien.net/service/board/park/19281228?od=T31&po=0&category=0&groupCd=",
+            "score": 55.38
+          }
+        ],
+        "first_seen": "2026-10-07T09:11:43.132658+09:00",
+        "last_seen": "2026-10-22T20:09:16.565846+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 5,
+        "change": 0
       },
       {
         "id": "iee76efaa",
@@ -441,83 +520,6 @@
         ],
         "first_seen": "2026-10-22T03:59:17.289416+09:00",
         "last_seen": "2026-10-22T07:16:30.938062+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 4,
-        "change": -1
-      },
-      {
-        "id": "i01009091",
-        "title": "‘지지율’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "지지율",
-          "김민석"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 94.91,
-        "peak_score": 85.44,
-        "appearances": 1,
-        "sources": [
-          "뽐뿌",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 7,
-            "title": "리얼미터) 지지율 올린다던 김민석 당대표 직무수행 25.6% ㅋ",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10161052",
-            "score": 76.44
-          },
-          {
-            "source": "클리앙",
-            "rank": 34,
-            "title": "김민석 지지율 25.6%...서울 24%, 경인 23%, 호남 39%.",
-            "url": "https://www.clien.net/service/board/park/19281228?od=T31&po=0&category=0&groupCd=",
-            "score": 64.69
-          }
-        ],
-        "first_seen": "2026-10-07T09:11:43.132658+09:00",
-        "last_seen": "2026-10-22T19:35:08.482480+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 5,
-        "change": "NEW"
-      },
-      {
-        "id": "i623c680f",
-        "title": "‘이슬람’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "이슬람"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 93.49,
-        "peak_score": 84.02,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "디시인사이드"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 13,
-            "title": "싱글벙글 이슬람 성인들의 교육...islam",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472291&_dcbest=1&page=1",
-            "score": 75.02
-          },
-          {
-            "source": "더쿠",
-            "rank": 50,
-            "title": "대구‭‭ 대현동 주민들에게 편지 쓴 이슬람 중학생",
-            "url": "https://theqoo.net/hot/4383248758",
-            "score": 62.0
-          }
-        ],
-        "first_seen": "2026-10-22T14:28:36.862003+09:00",
-        "last_seen": "2026-10-22T14:28:36.862003+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 6,
@@ -559,7 +561,45 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 7,
-        "change": -2
+        "change": 0
+      },
+      {
+        "id": "i9ff6bf96",
+        "title": "‘프랑스’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "프랑스"
+        ],
+        "source_count": 2,
+        "post_count": 3,
+        "score": 91.61,
+        "peak_score": 79.12,
+        "appearances": 2,
+        "sources": [
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 29,
+            "title": "프랑스 시위의 원인?",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2743802",
+            "score": 64.98
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 30,
+            "title": "프랑스 폭동, 무슬림의 이중성",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=23919",
+            "score": 64.51
+          }
+        ],
+        "first_seen": "2026-10-05T23:25:29.795675+09:00",
+        "last_seen": "2026-10-22T20:09:16.565846+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 8,
+        "change": 3
       },
       {
         "id": "i2777897f",
@@ -596,8 +636,8 @@
         "last_seen": "2026-10-22T09:44:18.699058+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 8,
-        "change": -2
+        "rank": 9,
+        "change": -1
       },
       {
         "id": "ia3911d65",
@@ -634,8 +674,8 @@
         "last_seen": "2026-10-22T07:16:30.938062+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 9,
-        "change": -2
+        "rank": 10,
+        "change": -1
       },
       {
         "id": "ie8fb5037",
@@ -672,46 +712,8 @@
         "last_seen": "2026-10-22T09:44:18.699058+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 10,
-        "change": -2
-      },
-      {
-        "id": "i9ff6bf96",
-        "title": "‘프랑스’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "프랑스"
-        ],
-        "source_count": 2,
-        "post_count": 3,
-        "score": 89.59,
-        "peak_score": 79.12,
-        "appearances": 1,
-        "sources": [
-          "뽐뿌",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 20,
-            "title": "프랑스 폭동, 무슬림의 이중성",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=23919",
-            "score": 69.12
-          },
-          {
-            "source": "인벤",
-            "rank": 21,
-            "title": "프랑스 시위의 원인?",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2743802",
-            "score": 68.96
-          }
-        ],
-        "first_seen": "2026-10-05T23:25:29.795675+09:00",
-        "last_seen": "2026-10-22T19:35:08.482480+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 3,
         "rank": 11,
-        "change": "NEW"
+        "change": -1
       },
       {
         "id": "i039fd79c",
@@ -749,7 +751,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 12,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "i481188fd",
@@ -787,7 +789,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 13,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "i4ddd6a96",
@@ -825,7 +827,7 @@
         "latest_source_count": 2,
         "latest_post_count": 3,
         "rank": 14,
-        "change": -5
+        "change": 0
       },
       {
         "id": "i629906f4",
@@ -866,7 +868,45 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 15,
-        "change": -5
+        "change": 0
+      },
+      {
+        "id": "if553a5cf",
+        "title": "‘트럼프’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "트럼프"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 86.55,
+        "peak_score": 75.06,
+        "appearances": 2,
+        "sources": [
+          "디시인사이드",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 66,
+            "title": "신내림 받은 트럼프",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2743796",
+            "score": 58.39
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 79,
+            "title": "JTBC) 트럼프, 우크라 젤렌스키 정권교체 직격",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472341&_dcbest=1&page=1",
+            "score": 56.46
+          }
+        ],
+        "first_seen": "2026-10-02T11:10:36.587418+09:00",
+        "last_seen": "2026-10-22T20:09:16.565846+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 16,
+        "change": 2
       },
       {
         "id": "i5c6da920",
@@ -903,8 +943,8 @@
         "last_seen": "2026-10-22T03:59:17.289416+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 16,
-        "change": -5
+        "rank": 17,
+        "change": -1
       },
       {
         "id": "i6c9318cd",
@@ -942,46 +982,8 @@
         "last_seen": "2026-10-22T03:59:17.289416+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 17,
-        "change": -5
-      },
-      {
-        "id": "if553a5cf",
-        "title": "‘트럼프’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "트럼프"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 84.53,
-        "peak_score": 75.06,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 26,
-            "title": "신내림 받은 트럼프",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2743796",
-            "score": 66.06
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 68,
-            "title": "JTBC) 트럼프, 우크라 젤렌스키 정권교체 직격",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472341&_dcbest=1&page=1",
-            "score": 58.15
-          }
-        ],
-        "first_seen": "2026-10-02T11:10:36.587418+09:00",
-        "last_seen": "2026-10-22T19:35:08.482480+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 18,
-        "change": "NEW"
+        "change": -1
       },
       {
         "id": "i9b30a286",
@@ -1019,7 +1021,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 19,
-        "change": -6
+        "change": 0
       },
       {
         "id": "id59b04c5",
@@ -1059,7 +1061,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 20,
-        "change": -6
+        "change": 0
       }
     ],
     "weekly": [
@@ -1071,9 +1073,9 @@
         ],
         "source_count": 4,
         "post_count": 8,
-        "score": 157.4,
+        "score": 157.64,
         "peak_score": 122.18,
-        "appearances": 20,
+        "appearances": 21,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -1084,24 +1086,24 @@
         ],
         "posts": [
           {
-            "source": "뽐뿌",
-            "rank": 20,
-            "title": "프랑스 폭동, 무슬림의 이중성",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=23919",
-            "score": 69.12
-          },
-          {
             "source": "인벤",
-            "rank": 21,
+            "rank": 29,
             "title": "프랑스 시위의 원인?",
             "url": "https://www.inven.co.kr/board/webzine/2097/2743802",
-            "score": 68.96
+            "score": 64.98
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 30,
+            "title": "프랑스 폭동, 무슬림의 이중성",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=23919",
+            "score": 64.51
           }
         ],
         "first_seen": "2026-10-05T23:25:29.795675+09:00",
-        "last_seen": "2026-10-22T19:35:08.482480+09:00",
+        "last_seen": "2026-10-22T20:09:16.565846+09:00",
         "latest_source_count": 2,
-        "latest_post_count": 3,
+        "latest_post_count": 2,
         "rank": 1,
         "change": 0
       },
@@ -1357,7 +1359,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 6,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "i7f717bd5",
@@ -1411,7 +1413,46 @@
         "latest_source_count": 4,
         "latest_post_count": 4,
         "rank": 7,
-        "change": -1
+        "change": 0
+      },
+      {
+        "id": "i623c680f",
+        "title": "‘이슬람은’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "이슬람은"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 115.41,
+        "peak_score": 103.92,
+        "appearances": 2,
+        "sources": [
+          "더쿠",
+          "디시인사이드",
+          "루리웹"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 2,
+            "title": "근데 또 이슬람은 교리부터 썩어서 안된다는거 보면 웃겨지는게",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77112476?m=humor",
+            "score": 94.92
+          },
+          {
+            "source": "더쿠",
+            "rank": 65,
+            "title": "이슬람은 종교가 아니에요 ㅜㅜ",
+            "url": "https://theqoo.net/hot/4383293945",
+            "score": 58.92
+          }
+        ],
+        "first_seen": "2026-10-22T14:28:36.862003+09:00",
+        "last_seen": "2026-10-22T20:09:16.565846+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 8,
+        "change": "NEW"
       },
       {
         "id": "ia2a0f7e2",
@@ -1451,7 +1492,7 @@
         "last_seen": "2026-10-19T04:36:49.136546+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 8,
+        "rank": 9,
         "change": -1
       },
       {
@@ -1490,7 +1531,7 @@
         "last_seen": "2026-10-21T23:42:17.241840+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 9,
+        "rank": 10,
         "change": -1
       },
       {
@@ -1528,7 +1569,7 @@
         "last_seen": "2026-10-21T18:37:21.676761+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 10,
+        "rank": 11,
         "change": -1
       },
       {
@@ -1566,7 +1607,7 @@
         "last_seen": "2026-10-21T06:32:12.656813+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
+        "rank": 12,
         "change": -1
       },
       {
@@ -1604,7 +1645,7 @@
         "last_seen": "2026-10-21T02:56:28.850708+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 12,
+        "rank": 13,
         "change": -1
       },
       {
@@ -1643,7 +1684,7 @@
         "last_seen": "2026-10-19T23:36:26.091329+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 13,
+        "rank": 14,
         "change": -1
       },
       {
@@ -1682,8 +1723,8 @@
         "last_seen": "2026-10-22T19:35:08.482480+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 14,
-        "change": 0
+        "rank": 15,
+        "change": -1
       },
       {
         "id": "idb51f807",
@@ -1721,8 +1762,8 @@
         "last_seen": "2026-10-20T16:43:57.713986+09:00",
         "latest_source_count": 2,
         "latest_post_count": 4,
-        "rank": 15,
-        "change": -2
+        "rank": 16,
+        "change": -1
       },
       {
         "id": "i15fd8a03",
@@ -1762,7 +1803,7 @@
         "last_seen": "2026-10-19T10:51:05.418224+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 16,
+        "rank": 17,
         "change": -1
       },
       {
@@ -1802,7 +1843,7 @@
         "last_seen": "2026-10-22T07:16:30.938062+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 17,
+        "rank": 18,
         "change": -1
       },
       {
@@ -1842,7 +1883,7 @@
         "last_seen": "2026-10-20T16:43:57.713986+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 18,
+        "rank": 19,
         "change": -1
       },
       {
@@ -1880,49 +1921,8 @@
         "last_seen": "2026-10-20T16:31:55.059688+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 19,
-        "change": -1
-      },
-      {
-        "id": "i01009091",
-        "title": "‘지지율’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "지지율",
-          "김민석"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 100.4,
-        "peak_score": 85.44,
-        "appearances": 5,
-        "sources": [
-          "디시인사이드",
-          "뽐뿌",
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 7,
-            "title": "리얼미터) 지지율 올린다던 김민석 당대표 직무수행 25.6% ㅋ",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10161052",
-            "score": 76.44
-          },
-          {
-            "source": "클리앙",
-            "rank": 34,
-            "title": "김민석 지지율 25.6%...서울 24%, 경인 23%, 호남 39%.",
-            "url": "https://www.clien.net/service/board/park/19281228?od=T31&po=0&category=0&groupCd=",
-            "score": 64.69
-          }
-        ],
-        "first_seen": "2026-10-07T09:11:43.132658+09:00",
-        "last_seen": "2026-10-22T19:35:08.482480+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 20,
-        "change": "NEW"
+        "change": -1
       }
     ],
     "monthly": [
@@ -1936,7 +1936,7 @@
         "post_count": 8,
         "score": 164.19,
         "peak_score": 122.19,
-        "appearances": 41,
+        "appearances": 42,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -1947,24 +1947,24 @@
         ],
         "posts": [
           {
-            "source": "뽐뿌",
-            "rank": 20,
-            "title": "프랑스 폭동, 무슬림의 이중성",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=23919",
-            "score": 69.12
-          },
-          {
             "source": "인벤",
-            "rank": 21,
+            "rank": 29,
             "title": "프랑스 시위의 원인?",
             "url": "https://www.inven.co.kr/board/webzine/2097/2743802",
-            "score": 68.96
+            "score": 64.98
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 30,
+            "title": "프랑스 폭동, 무슬림의 이중성",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=23919",
+            "score": 64.51
           }
         ],
         "first_seen": "2026-10-05T23:25:29.795675+09:00",
-        "last_seen": "2026-10-22T19:35:08.482480+09:00",
+        "last_seen": "2026-10-22T20:09:16.565846+09:00",
         "latest_source_count": 2,
-        "latest_post_count": 3,
+        "latest_post_count": 2,
         "rank": 1,
         "change": 0
       },
@@ -2222,9 +2222,9 @@
         ],
         "source_count": 3,
         "post_count": 5,
-        "score": 134.27,
+        "score": 134.51,
         "peak_score": 106.29,
-        "appearances": 19,
+        "appearances": 20,
         "sources": [
           "디시인사이드",
           "루리웹",
@@ -2235,21 +2235,21 @@
         "posts": [
           {
             "source": "인벤",
-            "rank": 26,
+            "rank": 66,
             "title": "신내림 받은 트럼프",
             "url": "https://www.inven.co.kr/board/webzine/2097/2743796",
-            "score": 66.06
+            "score": 58.39
           },
           {
             "source": "디시인사이드",
-            "rank": 68,
+            "rank": 79,
             "title": "JTBC) 트럼프, 우크라 젤렌스키 정권교체 직격",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472341&_dcbest=1&page=1",
-            "score": 58.15
+            "score": 56.46
           }
         ],
         "first_seen": "2026-10-02T11:10:36.587418+09:00",
-        "last_seen": "2026-10-22T19:35:08.482480+09:00",
+        "last_seen": "2026-10-22T20:09:16.565846+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 7,
