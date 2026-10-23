@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-10-24T07:53:07.456605+09:00",
+  "collected_at": "2026-10-24T08:03:57.864258+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -18,8 +18,8 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 80.47,
-        "peak_score": 80.47,
+        "score": 79.77,
+        "peak_score": 79.77,
         "appearances": 1,
         "sources": [
           "더쿠",
@@ -28,55 +28,21 @@
         "posts": [
           {
             "source": "디시인사이드",
-            "rank": 22,
+            "rank": 24,
             "title": "ap 알케미 공식 입장문.jpg",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472690&_dcbest=1&page=1",
-            "score": 71.47
+            "score": 70.77
           },
           {
             "source": "더쿠",
-            "rank": 79,
+            "rank": 76,
             "title": "양홍원 소속 레이블 입장문",
             "url": "https://theqoo.net/hot/4384592259",
             "score": 55.11
           }
         ],
         "rank": 1,
-        "change": 2
-      },
-      {
-        "id": "i69b25e97",
-        "title": "‘오래된’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "오래된"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 70.97,
-        "peak_score": 70.97,
-        "appearances": 1,
-        "sources": [
-          "뽐뿌",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 39,
-            "title": "결혼한지 오래된 남성분들 중에 아내가 예쁘고 사랑스러워 보이는 분들 많이 계신가요?",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=wedding&no=27885",
-            "score": 61.97
-          },
-          {
-            "source": "클리앙",
-            "rank": 98,
-            "title": "오래된 중국산 태블릿에 본 계정 로긴 하시나요?",
-            "url": "https://www.clien.net/service/board/park/19281902?od=T31&po=0&category=0&groupCd=",
-            "score": 51.11
-          }
-        ],
-        "rank": 2,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "i623c680f",
@@ -86,8 +52,8 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 65.16,
-        "peak_score": 65.16,
+        "score": 73.04,
+        "peak_score": 73.04,
         "appearances": 1,
         "sources": [
           "디시인사이드",
@@ -96,21 +62,21 @@
         "posts": [
           {
             "source": "루리웹",
-            "rank": 69,
+            "rank": 38,
             "title": "이슬람 혐오에 진심인 국가",
             "url": "https://bbs.ruliweb.com/best/board/300143/read/77133864?m=humor_only&t=now",
-            "score": 56.16
+            "score": 64.04
           },
           {
             "source": "디시인사이드",
-            "rank": 71,
+            "rank": 73,
             "title": "싱글벙글 일본인들의 이슬람 피하기 챌린지...X",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472646&_dcbest=1&page=1",
-            "score": 55.99
+            "score": 55.29
           }
         ],
-        "rank": 3,
-        "change": "NEW"
+        "rank": 2,
+        "change": 1
       }
     ],
     "daily": [
@@ -199,9 +165,9 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 97.23,
+        "score": 98.35,
         "peak_score": 84.3,
-        "appearances": 3,
+        "appearances": 4,
         "sources": [
           "더쿠",
           "디시인사이드"
@@ -209,21 +175,21 @@
         "posts": [
           {
             "source": "디시인사이드",
-            "rank": 22,
+            "rank": 24,
             "title": "ap 알케미 공식 입장문.jpg",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472690&_dcbest=1&page=1",
-            "score": 71.47
+            "score": 70.77
           },
           {
             "source": "더쿠",
-            "rank": 79,
+            "rank": 76,
             "title": "양홍원 소속 레이블 입장문",
             "url": "https://theqoo.net/hot/4384592259",
             "score": 55.11
           }
         ],
         "first_seen": "2026-10-04T19:41:52.553170+09:00",
-        "last_seen": "2026-10-24T07:53:07.456605+09:00",
+        "last_seen": "2026-10-24T08:03:57.864258+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 3,
@@ -306,6 +272,45 @@
         "change": 0
       },
       {
+        "id": "i623c680f",
+        "title": "‘이슬람’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "이슬람"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 92.35,
+        "peak_score": 79.42,
+        "appearances": 3,
+        "sources": [
+          "디시인사이드",
+          "루리웹",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 38,
+            "title": "이슬람 혐오에 진심인 국가",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77133864?m=humor_only&t=now",
+            "score": 64.04
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 73,
+            "title": "싱글벙글 일본인들의 이슬람 피하기 챌린지...X",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472646&_dcbest=1&page=1",
+            "score": 55.29
+          }
+        ],
+        "first_seen": "2026-10-22T14:28:36.862003+09:00",
+        "last_seen": "2026-10-24T08:03:57.864258+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 6,
+        "change": 1
+      },
+      {
         "id": "i663c1a7c",
         "title": "‘티니핑’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -340,47 +345,8 @@
         "last_seen": "2026-10-24T04:55:25.477518+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 6,
-        "change": 0
-      },
-      {
-        "id": "i623c680f",
-        "title": "‘이슬람’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "이슬람"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 90.91,
-        "peak_score": 79.42,
-        "appearances": 2,
-        "sources": [
-          "디시인사이드",
-          "루리웹",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 69,
-            "title": "이슬람 혐오에 진심인 국가",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77133864?m=humor_only&t=now",
-            "score": 56.16
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 71,
-            "title": "싱글벙글 일본인들의 이슬람 피하기 챌린지...X",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472646&_dcbest=1&page=1",
-            "score": 55.99
-          }
-        ],
-        "first_seen": "2026-10-22T14:28:36.862003+09:00",
-        "last_seen": "2026-10-24T07:53:07.456605+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 7,
-        "change": 0
+        "change": -1
       },
       {
         "id": "i36ddd5fd",
@@ -456,7 +422,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 9,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "i32f8ef85",
@@ -495,7 +461,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 10,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i80cae878",
@@ -533,7 +499,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 11,
-        "change": -1
+        "change": 0
       }
     ],
     "weekly": [
@@ -844,9 +810,9 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 117.97,
+        "score": 118.88,
         "peak_score": 103.92,
-        "appearances": 4,
+        "appearances": 5,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -856,25 +822,25 @@
         "posts": [
           {
             "source": "루리웹",
-            "rank": 69,
+            "rank": 38,
             "title": "이슬람 혐오에 진심인 국가",
             "url": "https://bbs.ruliweb.com/best/board/300143/read/77133864?m=humor_only&t=now",
-            "score": 56.16
+            "score": 64.04
           },
           {
             "source": "디시인사이드",
-            "rank": 71,
+            "rank": 73,
             "title": "싱글벙글 일본인들의 이슬람 피하기 챌린지...X",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472646&_dcbest=1&page=1",
-            "score": 55.99
+            "score": 55.29
           }
         ],
         "first_seen": "2026-10-22T14:28:36.862003+09:00",
-        "last_seen": "2026-10-24T07:53:07.456605+09:00",
+        "last_seen": "2026-10-24T08:03:57.864258+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 7,
-        "change": 2
+        "change": 0
       },
       {
         "id": "i74895616",
@@ -915,7 +881,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 8,
-        "change": -1
+        "change": 0
       },
       {
         "id": "ie5a2c1ba",
@@ -954,7 +920,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 9,
-        "change": -1
+        "change": 0
       },
       {
         "id": "iaf3fcbdb",

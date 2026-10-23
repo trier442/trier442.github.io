@@ -2,7 +2,7 @@
   "version": 1,
   "date": "2026-10-24",
   "label": "2026년 10월 24일",
-  "collected_at": "2026-10-24T07:53:07.456605+09:00",
+  "collected_at": "2026-10-24T08:03:57.864258+09:00",
   "timezone": "Asia/Seoul",
   "overview": "오늘 가장 두드러진 이슈는 ‘‘보이는’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #아내. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
@@ -12,9 +12,9 @@
     "realtime_posts": 100,
     "daily_posts": 100,
     "daily_issues": 11,
-    "keywords": 10,
-    "top100_views": 1158962,
-    "top100_comments": 8108
+    "keywords": 9,
+    "top100_views": 1214832,
+    "top100_comments": 8339
   },
   "highlights": [
     {
@@ -49,7 +49,7 @@
       "max_likes": 132,
       "max_comments": 76,
       "appearances": 1,
-      "score": 107.68,
+      "score": 107.66,
       "views": 10148,
       "likes": 132,
       "comments": 76,
@@ -67,7 +67,7 @@
       "max_likes": 59,
       "max_comments": 62,
       "appearances": 1,
-      "score": 107.25,
+      "score": 107.24,
       "views": 8255,
       "likes": 59,
       "comments": 62,
@@ -85,11 +85,11 @@
       "max_likes": 118,
       "max_comments": 66,
       "appearances": 1,
-      "score": 106.41,
+      "score": 106.39,
       "views": 16912,
       "likes": 118,
       "comments": 66,
-      "change": "NEW"
+      "change": 0
     },
     {
       "title": "수천년동안 인류가 사람이 된 과정",
@@ -103,11 +103,29 @@
       "max_likes": 67,
       "max_comments": 59,
       "appearances": 1,
-      "score": 105.74,
+      "score": 105.73,
       "views": 8991,
       "likes": 67,
       "comments": 59,
-      "change": -1
+      "change": 0
+    },
+    {
+      "title": "대한민국 시민의식 근황.jpg",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77133544?m=humor",
+      "first_seen": "2026-10-24T07:53:07.456605+09:00",
+      "last_seen": "2026-10-24T08:03:57.864258+09:00",
+      "peak_score": 95.21,
+      "max_views": 9635,
+      "max_likes": 51,
+      "max_comments": 55,
+      "appearances": 2,
+      "score": 105.41,
+      "views": 9635,
+      "likes": 51,
+      "comments": 55,
+      "change": 2
     },
     {
       "title": "아까 글삭제됬다던 디코 단톡방",
@@ -121,7 +139,7 @@
       "max_likes": 169,
       "max_comments": 74,
       "appearances": 1,
-      "score": 105.41,
+      "score": 105.4,
       "views": 10162,
       "likes": 169,
       "comments": 74,
@@ -139,29 +157,11 @@
       "max_likes": 66,
       "max_comments": 96,
       "appearances": 1,
-      "score": 105.26,
+      "score": 105.25,
       "views": 4775,
       "likes": 66,
       "comments": 96,
       "change": -1
-    },
-    {
-      "title": "대한민국 시민의식 근황.jpg",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77133544?m=humor",
-      "first_seen": "2026-10-24T07:53:07.456605+09:00",
-      "last_seen": "2026-10-24T07:53:07.456605+09:00",
-      "peak_score": 95.21,
-      "max_views": 9635,
-      "max_likes": 51,
-      "max_comments": 55,
-      "appearances": 1,
-      "score": 104.6,
-      "views": 9635,
-      "likes": 51,
-      "comments": 55,
-      "change": "NEW"
     },
     {
       "title": "북유게 이야기가 과열되면서 무섭게 느껴지는 점",
@@ -175,11 +175,11 @@
       "max_likes": 117,
       "max_comments": 65,
       "appearances": 1,
-      "score": 104.5,
+      "score": 104.48,
       "views": 7761,
       "likes": 117,
       "comments": 65,
-      "change": -2
+      "change": 0
     },
     {
       "title": "아잇 ㅅㅂ 북유게 디코 잡입했다가 짤렸네 ㅋㅋㅋㅋ",
@@ -193,11 +193,11 @@
       "max_likes": 236,
       "max_comments": 72,
       "appearances": 1,
-      "score": 103.05,
+      "score": 103.04,
       "views": 8920,
       "likes": 236,
       "comments": 72,
-      "change": -2
+      "change": 0
     },
     {
       "title": "모던사를 언론이 까면서 언급되는 노 러시안 캠페인",
@@ -211,213 +211,213 @@
       "max_likes": 114,
       "max_comments": 57,
       "appearances": 1,
-      "score": 102.56,
+      "score": 102.54,
       "views": 10714,
       "likes": 114,
       "comments": 57,
-      "change": -2
+      "change": 0
     }
   ],
   "rising": [
     {
       "source": "클리앙",
-      "title": "왜 경기도에 국제공항 만들려는 이야기가 나오는 걸까요",
-      "url": "https://www.clien.net/service/board/park/19281910?od=T31&po=0&category=0&groupCd=",
-      "category": "스포츠",
-      "views": 2842,
+      "title": "ytn은 무슨의도로 김정은 사망설을 보도하는걸까요",
+      "url": "https://www.clien.net/service/board/park/19281926?od=T31&po=0&category=0&groupCd=",
+      "category": "이슈",
+      "views": 1125,
       "likes": 0,
-      "comments": 11,
-      "score": 75.74,
-      "change": 22,
-      "current_rank": 8,
+      "comments": 1,
+      "score": 61.71,
+      "change": 0,
+      "current_rank": 48,
       "new_entry": false,
-      "delta_views": 2229,
+      "delta_views": 456,
       "delta_likes": 0,
-      "delta_comments": 8,
-      "rank_gain": 22,
-      "rising_score": 91.01,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 96.15,
       "rising_rank": 1,
-      "window_minutes": 178
+      "window_minutes": 11
+    },
+    {
+      "source": "더쿠",
+      "title": "특정 아이돌그룹 연상된다고 말 나온 웹소설....",
+      "url": "https://theqoo.net/hot/4384784753",
+      "category": "연예",
+      "views": 17137,
+      "likes": 0,
+      "comments": 165,
+      "score": 73.0,
+      "change": 0,
+      "current_rank": 20,
+      "new_entry": false,
+      "delta_views": 4790,
+      "delta_likes": 0,
+      "delta_comments": 25,
+      "rank_gain": 0,
+      "rising_score": 94.83,
+      "rising_rank": 2,
+      "window_minutes": 11
+    },
+    {
+      "source": "뽐뿌",
+      "title": "아반떼에서 시작한게 그랜저까지갔네요..",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=980534",
+      "category": "이슈",
+      "views": 6065,
+      "likes": 0,
+      "comments": 50,
+      "score": 74.18,
+      "change": 0,
+      "current_rank": 15,
+      "new_entry": false,
+      "delta_views": 1334,
+      "delta_likes": 0,
+      "delta_comments": 6,
+      "rank_gain": 0,
+      "rising_score": 94.83,
+      "rising_rank": 3,
+      "window_minutes": 11
+    },
+    {
+      "source": "디시인사이드",
+      "title": "한국 대입법으로 보는 건담 악역들 사상.jpg",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472705&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 3267,
+      "likes": 20,
+      "comments": 47,
+      "score": 62.92,
+      "change": 0,
+      "current_rank": 41,
+      "new_entry": false,
+      "delta_views": 468,
+      "delta_likes": 4,
+      "delta_comments": 4,
+      "rank_gain": 0,
+      "rising_score": 90.8,
+      "rising_rank": 4,
+      "window_minutes": 11
     },
     {
       "source": "인벤",
       "title": "ㅇㅎ) 허리 얇은데 가슴-골반 큰 콜라병 육체",
       "url": "https://www.inven.co.kr/board/webzine/2097/2744383",
       "category": "스포츠",
-      "views": 7008,
+      "views": 7332,
       "likes": 1,
       "comments": 7,
-      "score": 51.98,
+      "score": 50.75,
       "change": 0,
-      "current_rank": 93,
+      "current_rank": 100,
       "new_entry": false,
-      "delta_views": 3447,
+      "delta_views": 324,
       "delta_likes": 0,
-      "delta_comments": 3,
+      "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 88.74,
-      "rising_rank": 2,
-      "window_minutes": 178
-    },
-    {
-      "source": "더쿠",
-      "title": "유튜버골든벨 촬영하고 적잖이 충격받은 우정잉.ytb",
-      "url": "https://theqoo.net/hot/4384671452",
-      "category": "스포츠",
-      "views": 66485,
-      "likes": 0,
-      "comments": 387,
-      "score": 74.37,
-      "change": 0,
-      "current_rank": 12,
-      "new_entry": false,
-      "delta_views": 19734,
-      "delta_likes": 0,
-      "delta_comments": 39,
-      "rank_gain": 0,
-      "rising_score": 86.06,
-      "rising_rank": 3,
-      "window_minutes": 178
-    },
-    {
-      "source": "인벤",
-      "title": "ㅇㅎ) 차례대로 몸매 어필하는 비키니 누나들",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2744382",
-      "category": "이슈",
-      "views": 5967,
-      "likes": 0,
-      "comments": 6,
-      "score": 57.1,
-      "change": 0,
-      "current_rank": 63,
-      "new_entry": false,
-      "delta_views": 2965,
-      "delta_likes": 0,
-      "delta_comments": 3,
-      "rank_gain": 0,
-      "rising_score": 85.44,
-      "rising_rank": 4,
-      "window_minutes": 178
-    },
-    {
-      "source": "인벤",
-      "title": "알고 보면 깜짝 놀랄 스타들의 군면제 사유",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2744400",
-      "category": "연예",
-      "views": 3468,
-      "likes": 2,
-      "comments": 6,
-      "score": 73.21,
-      "change": 15,
-      "current_rank": 16,
-      "new_entry": false,
-      "delta_views": 2520,
-      "delta_likes": 2,
-      "delta_comments": 5,
-      "rank_gain": 15,
-      "rising_score": 85.42,
+      "rising_score": 90.0,
       "rising_rank": 5,
-      "window_minutes": 178
+      "window_minutes": 11
     },
     {
       "source": "디시인사이드",
-      "title": "싱글벙글 수능 부정행위 레전드.jpg",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472692&_dcbest=1&page=1",
-      "category": "유머",
-      "views": 18288,
-      "likes": 39,
-      "comments": 255,
-      "score": 72.99,
+      "title": "클릭주의. 어깨빵도 피해가는 서인영 시부야 갸루 도전. 돈키에서 100만",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472709&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 1122,
+      "likes": 7,
+      "comments": 29,
+      "score": 60.25,
       "change": 0,
-      "current_rank": 18,
+      "current_rank": 55,
       "new_entry": false,
-      "delta_views": 6033,
-      "delta_likes": 13,
-      "delta_comments": 23,
+      "delta_views": 899,
+      "delta_likes": 2,
+      "delta_comments": 19,
       "rank_gain": 0,
-      "rising_score": 83.92,
+      "rising_score": 88.28,
       "rising_rank": 6,
-      "window_minutes": 178
+      "window_minutes": 11
     },
     {
       "source": "루리웹",
-      "title": "우크라 스타링크 접속 끊은 일론머스크 근황",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77132987?m=humor",
-      "category": "이슈",
-      "views": 16912,
-      "likes": 118,
-      "comments": 66,
-      "score": 97.02,
-      "change": "NEW",
-      "current_rank": 1,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 82.75,
+      "title": "직장인 이라면 알아야하는 냉혹한 현실.jpg",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77133871?m=humor_only&t=now",
+      "category": "생활",
+      "views": 4717,
+      "likes": 28,
+      "comments": 18,
+      "score": 60.77,
+      "change": 38,
+      "current_rank": 52,
+      "new_entry": false,
+      "delta_views": 4561,
+      "delta_likes": 21,
+      "delta_comments": 17,
+      "rank_gain": 38,
+      "rising_score": 83.75,
       "rising_rank": 7,
-      "window_minutes": 178
+      "window_minutes": 11
+    },
+    {
+      "source": "디시인사이드",
+      "title": "옛 남자친구 김용준 한번쯤 보고 싶다는 황정음..jpg",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472701&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 3175,
+      "likes": 5,
+      "comments": 34,
+      "score": 55.22,
+      "change": 0,
+      "current_rank": 75,
+      "new_entry": false,
+      "delta_views": 446,
+      "delta_likes": 0,
+      "delta_comments": 3,
+      "rank_gain": 0,
+      "rising_score": 82.82,
+      "rising_rank": 8,
+      "window_minutes": 11
     },
     {
       "source": "인벤",
-      "title": "고전) 여자들이 극혐하는 몸매",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2744385",
+      "title": "요즘 역대급이라는 요식업계 근황.",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2744406",
       "category": "이슈",
-      "views": 4813,
-      "likes": 0,
-      "comments": 9,
-      "score": 61.84,
-      "change": 0,
-      "current_rank": 42,
+      "views": 5916,
+      "likes": 3,
+      "comments": 48,
+      "score": 88.83,
+      "change": 2,
+      "current_rank": 2,
       "new_entry": false,
-      "delta_views": 1934,
+      "delta_views": 551,
       "delta_likes": 0,
-      "delta_comments": 4,
-      "rank_gain": 0,
-      "rising_score": 82.69,
-      "rising_rank": 8,
-      "window_minutes": 178
+      "delta_comments": 5,
+      "rank_gain": 2,
+      "rising_score": 82.51,
+      "rising_rank": 9,
+      "window_minutes": 11
     },
     {
       "source": "디시인사이드",
-      "title": "금고속에 40년 보관된 롤렉스 시계의 가치.",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472694&_dcbest=1&page=1",
+      "title": "ㅇㅎ)동탄미시 고장난 보일러 고쳐주는 초보경비 ㄷㄷ.",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472670&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 11477,
-      "likes": 93,
-      "comments": 102,
-      "score": 68.53,
-      "change": 2,
-      "current_rank": 24,
+      "views": 23327,
+      "likes": 38,
+      "comments": 91,
+      "score": 55.71,
+      "change": 0,
+      "current_rank": 71,
       "new_entry": false,
-      "delta_views": 4239,
-      "delta_likes": 27,
-      "delta_comments": 24,
-      "rank_gain": 2,
-      "rising_score": 82.57,
-      "rising_rank": 9,
-      "window_minutes": 178
-    },
-    {
-      "source": "루리웹",
-      "title": "대한민국 시민의식 근황.jpg",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77133544?m=humor",
-      "category": "이슈",
-      "views": 9635,
-      "likes": 51,
-      "comments": 55,
-      "score": 95.21,
-      "change": "NEW",
-      "current_rank": 2,
-      "new_entry": true,
-      "delta_views": 0,
+      "delta_views": 321,
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 81.99,
+      "rising_score": 82.0,
       "rising_rank": 10,
-      "window_minutes": 178
+      "window_minutes": 11
     }
   ],
   "issues": [
@@ -506,9 +506,9 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 97.23,
+      "score": 98.35,
       "peak_score": 84.3,
-      "appearances": 3,
+      "appearances": 4,
       "sources": [
         "더쿠",
         "디시인사이드"
@@ -516,21 +516,21 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 22,
+          "rank": 24,
           "title": "ap 알케미 공식 입장문.jpg",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472690&_dcbest=1&page=1",
-          "score": 71.47
+          "score": 70.77
         },
         {
           "source": "더쿠",
-          "rank": 79,
+          "rank": 76,
           "title": "양홍원 소속 레이블 입장문",
           "url": "https://theqoo.net/hot/4384592259",
           "score": 55.11
         }
       ],
       "first_seen": "2026-10-04T19:41:52.553170+09:00",
-      "last_seen": "2026-10-24T07:53:07.456605+09:00",
+      "last_seen": "2026-10-24T08:03:57.864258+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 3,
@@ -613,6 +613,45 @@
       "change": 0
     },
     {
+      "id": "i623c680f",
+      "title": "‘이슬람’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "이슬람"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 92.35,
+      "peak_score": 79.42,
+      "appearances": 3,
+      "sources": [
+        "디시인사이드",
+        "루리웹",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 38,
+          "title": "이슬람 혐오에 진심인 국가",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77133864?m=humor_only&t=now",
+          "score": 64.04
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 73,
+          "title": "싱글벙글 일본인들의 이슬람 피하기 챌린지...X",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472646&_dcbest=1&page=1",
+          "score": 55.29
+        }
+      ],
+      "first_seen": "2026-10-22T14:28:36.862003+09:00",
+      "last_seen": "2026-10-24T08:03:57.864258+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 6,
+      "change": 1
+    },
+    {
       "id": "i663c1a7c",
       "title": "‘티니핑’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -647,47 +686,8 @@
       "last_seen": "2026-10-24T04:55:25.477518+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
-      "change": 0
-    },
-    {
-      "id": "i623c680f",
-      "title": "‘이슬람’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "이슬람"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 90.91,
-      "peak_score": 79.42,
-      "appearances": 2,
-      "sources": [
-        "디시인사이드",
-        "루리웹",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 69,
-          "title": "이슬람 혐오에 진심인 국가",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77133864?m=humor_only&t=now",
-          "score": 56.16
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 71,
-          "title": "싱글벙글 일본인들의 이슬람 피하기 챌린지...X",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472646&_dcbest=1&page=1",
-          "score": 55.99
-        }
-      ],
-      "first_seen": "2026-10-22T14:28:36.862003+09:00",
-      "last_seen": "2026-10-24T07:53:07.456605+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 7,
-      "change": 0
+      "change": -1
     },
     {
       "id": "i36ddd5fd",
@@ -763,7 +763,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 9,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i32f8ef85",
@@ -802,7 +802,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 10,
-      "change": -1
+      "change": 0
     }
   ],
   "realtime_issues": [
@@ -814,8 +814,8 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 80.47,
-      "peak_score": 80.47,
+      "score": 79.77,
+      "peak_score": 79.77,
       "appearances": 1,
       "sources": [
         "더쿠",
@@ -824,55 +824,21 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 22,
+          "rank": 24,
           "title": "ap 알케미 공식 입장문.jpg",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472690&_dcbest=1&page=1",
-          "score": 71.47
+          "score": 70.77
         },
         {
           "source": "더쿠",
-          "rank": 79,
+          "rank": 76,
           "title": "양홍원 소속 레이블 입장문",
           "url": "https://theqoo.net/hot/4384592259",
           "score": 55.11
         }
       ],
       "rank": 1,
-      "change": 2
-    },
-    {
-      "id": "i69b25e97",
-      "title": "‘오래된’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "오래된"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 70.97,
-      "peak_score": 70.97,
-      "appearances": 1,
-      "sources": [
-        "뽐뿌",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 39,
-          "title": "결혼한지 오래된 남성분들 중에 아내가 예쁘고 사랑스러워 보이는 분들 많이 계신가요?",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=wedding&no=27885",
-          "score": 61.97
-        },
-        {
-          "source": "클리앙",
-          "rank": 98,
-          "title": "오래된 중국산 태블릿에 본 계정 로긴 하시나요?",
-          "url": "https://www.clien.net/service/board/park/19281902?od=T31&po=0&category=0&groupCd=",
-          "score": 51.11
-        }
-      ],
-      "rank": 2,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i623c680f",
@@ -882,8 +848,8 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 65.16,
-      "peak_score": 65.16,
+      "score": 73.04,
+      "peak_score": 73.04,
       "appearances": 1,
       "sources": [
         "디시인사이드",
@@ -892,30 +858,30 @@
       "posts": [
         {
           "source": "루리웹",
-          "rank": 69,
+          "rank": 38,
           "title": "이슬람 혐오에 진심인 국가",
           "url": "https://bbs.ruliweb.com/best/board/300143/read/77133864?m=humor_only&t=now",
-          "score": 56.16
+          "score": 64.04
         },
         {
           "source": "디시인사이드",
-          "rank": 71,
+          "rank": 73,
           "title": "싱글벙글 일본인들의 이슬람 피하기 챌린지...X",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472646&_dcbest=1&page=1",
-          "score": 55.99
+          "score": 55.29
         }
       ],
-      "rank": 3,
-      "change": "NEW"
+      "rank": 2,
+      "change": 1
     }
   ],
   "keywords": [
     {
       "keyword": "아내",
-      "score": 120.02,
+      "score": 117.32,
       "post_count": 3,
       "source_count": 3,
-      "best_rank": 31,
+      "best_rank": 34,
       "sources": [
         "더쿠",
         "디시인사이드",
@@ -923,182 +889,168 @@
       ],
       "aliases": [],
       "rank": 1,
-      "change": 4
-    },
-    {
-      "keyword": "일본",
-      "score": 108.29,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 3,
-      "sources": [
-        "더쿠",
-        "루리웹"
-      ],
-      "aliases": [],
-      "rank": 2,
       "change": 0
     },
     {
-      "keyword": "많은",
-      "score": 91.93,
+      "keyword": "나온",
+      "score": 98.41,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 11,
+      "best_rank": 19,
+      "sources": [
+        "더쿠",
+        "뽐뿌"
+      ],
+      "aliases": [],
+      "rank": 2,
+      "change": "NEW"
+    },
+    {
+      "keyword": "이슬람",
+      "score": 94.74,
+      "post_count": 3,
+      "source_count": 2,
+      "best_rank": 35,
       "sources": [
         "디시인사이드",
-        "인벤"
+        "루리웹"
       ],
       "aliases": [],
       "rank": 3,
-      "change": 3
+      "change": 5
     },
     {
       "keyword": "한국",
-      "score": 91.6,
+      "score": 90.15,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 34,
+      "best_rank": 40,
       "sources": [
         "디시인사이드",
         "뽐뿌"
       ],
       "aliases": [],
       "rank": 4,
-      "change": "NEW"
+      "change": 0
     },
     {
-      "keyword": "입장문",
-      "score": 87.84,
+      "keyword": "많은",
+      "score": 89.72,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 22,
+      "best_rank": 14,
       "sources": [
-        "더쿠",
-        "디시인사이드"
+        "디시인사이드",
+        "인벤"
       ],
       "aliases": [],
       "rank": 5,
       "change": -2
     },
     {
-      "keyword": "공식",
-      "score": 86.0,
+      "keyword": "입장문",
+      "score": 87.86,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 22,
+      "best_rank": 24,
       "sources": [
         "더쿠",
         "디시인사이드"
       ],
       "aliases": [],
       "rank": 6,
-      "change": -2
+      "change": -1
     },
     {
-      "keyword": "오래된",
-      "score": 81.63,
+      "keyword": "공식",
+      "score": 85.54,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 39,
+      "best_rank": 24,
       "sources": [
-        "뽐뿌",
-        "클리앙"
+        "더쿠",
+        "디시인사이드"
       ],
       "aliases": [],
       "rank": 7,
-      "change": "NEW"
-    },
-    {
-      "keyword": "이슬람",
-      "score": 81.14,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 69,
-      "sources": [
-        "디시인사이드",
-        "루리웹"
-      ],
-      "aliases": [],
-      "rank": 8,
-      "change": "NEW"
+      "change": -1
     },
     {
       "keyword": "국가",
-      "score": 79.89,
+      "score": 84.71,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 69,
+      "best_rank": 38,
       "sources": [
         "더쿠",
         "루리웹"
       ],
       "aliases": [],
-      "rank": 9,
-      "change": "NEW"
+      "rank": 8,
+      "change": 1
     },
     {
       "keyword": "양홍원",
-      "score": 67.29,
+      "score": 67.21,
       "post_count": 3,
       "source_count": 1,
-      "best_rank": 31,
+      "best_rank": 34,
       "sources": [
         "더쿠"
       ],
       "aliases": [],
-      "rank": 10,
-      "change": 0
+      "rank": 9,
+      "change": 1
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "우크라 스타링크 접속 끊은 일론머스크 근황",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77132987?m=humor",
-      "score": 97.02,
-      "views": 16912,
-      "comments": 66
+      "title": "대한민국 시민의식 근황.jpg",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77133544?m=humor",
+      "score": 92.38,
+      "views": 9635,
+      "comments": 55
     },
     {
       "source": "인벤",
       "title": "요즘 역대급이라는 요식업계 근황.",
       "url": "https://www.inven.co.kr/board/webzine/2097/2744406",
-      "score": 89.65,
-      "views": 5365,
-      "comments": 43
+      "score": 88.83,
+      "views": 5916,
+      "comments": 48
     },
     {
       "source": "클리앙",
       "title": "부동산 남탓",
       "url": "https://www.clien.net/service/board/park/19281920?od=T31&po=0&category=0&groupCd=",
-      "score": 83.87,
-      "views": 1914,
-      "comments": 13
+      "score": 85.43,
+      "views": 2219,
+      "comments": 19
     },
     {
       "source": "뽐뿌",
       "title": "테슬라, 국토부에 'FSD 승인' 신청서 제출..검증 일정 미정",
       "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=980536",
-      "score": 81.67,
-      "views": 5279,
-      "comments": 35
-    },
-    {
-      "source": "디시인사이드",
-      "title": "훌쩍..힘들다고하는 반응 많은 요식 업계 근황.jpg",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472684&_dcbest=1&page=1",
-      "score": 74.52,
-      "views": 14613,
-      "comments": 356
+      "score": 81.03,
+      "views": 6464,
+      "comments": 37
     },
     {
       "source": "더쿠",
       "title": "유튜버골든벨 촬영하고 적잖이 충격받은 우정잉.ytb",
       "url": "https://theqoo.net/hot/4384671452",
       "score": 74.37,
-      "views": 66485,
-      "comments": 387
+      "views": 68695,
+      "comments": 392
+    },
+    {
+      "source": "디시인사이드",
+      "title": "훌쩍..힘들다고하는 반응 많은 요식 업계 근황.jpg",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472684&_dcbest=1&page=1",
+      "score": 74.36,
+      "views": 14903,
+      "comments": 362
     }
   ]
 }

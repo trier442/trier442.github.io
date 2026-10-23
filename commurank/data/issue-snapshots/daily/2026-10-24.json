@@ -3,7 +3,7 @@
   "period": "daily",
   "key": "2026-10-24",
   "label": "2026년 10월 24일",
-  "collected_at": "2026-10-24T07:53:07.456605+09:00",
+  "collected_at": "2026-10-24T08:03:57.864258+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -91,9 +91,9 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 97.23,
+      "score": 98.35,
       "peak_score": 84.3,
-      "appearances": 3,
+      "appearances": 4,
       "sources": [
         "더쿠",
         "디시인사이드"
@@ -101,21 +101,21 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 22,
+          "rank": 24,
           "title": "ap 알케미 공식 입장문.jpg",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472690&_dcbest=1&page=1",
-          "score": 71.47
+          "score": 70.77
         },
         {
           "source": "더쿠",
-          "rank": 79,
+          "rank": 76,
           "title": "양홍원 소속 레이블 입장문",
           "url": "https://theqoo.net/hot/4384592259",
           "score": 55.11
         }
       ],
       "first_seen": "2026-10-04T19:41:52.553170+09:00",
-      "last_seen": "2026-10-24T07:53:07.456605+09:00",
+      "last_seen": "2026-10-24T08:03:57.864258+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 3,
@@ -198,6 +198,45 @@
       "change": 0
     },
     {
+      "id": "i623c680f",
+      "title": "‘이슬람’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "이슬람"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 92.35,
+      "peak_score": 79.42,
+      "appearances": 3,
+      "sources": [
+        "디시인사이드",
+        "루리웹",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 38,
+          "title": "이슬람 혐오에 진심인 국가",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77133864?m=humor_only&t=now",
+          "score": 64.04
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 73,
+          "title": "싱글벙글 일본인들의 이슬람 피하기 챌린지...X",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472646&_dcbest=1&page=1",
+          "score": 55.29
+        }
+      ],
+      "first_seen": "2026-10-22T14:28:36.862003+09:00",
+      "last_seen": "2026-10-24T08:03:57.864258+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 6,
+      "change": 1
+    },
+    {
       "id": "i663c1a7c",
       "title": "‘티니핑’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -232,47 +271,8 @@
       "last_seen": "2026-10-24T04:55:25.477518+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
-      "change": 0
-    },
-    {
-      "id": "i623c680f",
-      "title": "‘이슬람’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "이슬람"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 90.91,
-      "peak_score": 79.42,
-      "appearances": 2,
-      "sources": [
-        "디시인사이드",
-        "루리웹",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 69,
-          "title": "이슬람 혐오에 진심인 국가",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77133864?m=humor_only&t=now",
-          "score": 56.16
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 71,
-          "title": "싱글벙글 일본인들의 이슬람 피하기 챌린지...X",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472646&_dcbest=1&page=1",
-          "score": 55.99
-        }
-      ],
-      "first_seen": "2026-10-22T14:28:36.862003+09:00",
-      "last_seen": "2026-10-24T07:53:07.456605+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 7,
-      "change": 0
+      "change": -1
     },
     {
       "id": "i36ddd5fd",
@@ -348,7 +348,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 9,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i32f8ef85",
@@ -387,7 +387,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 10,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i80cae878",
@@ -425,7 +425,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 11,
-      "change": -1
+      "change": 0
     }
   ]
 }
