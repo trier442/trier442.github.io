@@ -1,6 +1,295 @@
 {
   "version": 1,
   "issues": {
+    "i74895616": {
+      "id": "i74895616",
+      "first_seen": "2026-10-23T20:29:39.621927+09:00",
+      "last_seen": "2026-10-24T04:49:10.336825+09:00",
+      "title": "‘키오스크’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "키오스크"
+      ],
+      "points": [
+        {
+          "at": "2026-10-23T20:29:39.621927+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 102.84,
+          "sources": [
+            "더쿠",
+            "루리웹"
+          ],
+          "post_urls": [
+            "https://bbs.ruliweb.com/best/board/300143/read/77126826?m=humor",
+            "https://theqoo.net/hot/4384286245"
+          ]
+        },
+        {
+          "at": "2026-10-24T00:53:25.223056+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 76.01,
+          "sources": [
+            "디시인사이드",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=472636&_dcbest=1&page=1",
+            "https://www.clien.net/service/board/park/19281862?od=T31&po=0&category=0&groupCd="
+          ]
+        },
+        {
+          "at": "2026-10-24T04:49:10.336825+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 88.87,
+          "sources": [
+            "디시인사이드",
+            "뽐뿌"
+          ],
+          "post_urls": [
+            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10163030",
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=472636&_dcbest=1&page=1"
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 4,
+          "title": "다들 키오스크 거지 조심하세요 ㄷㄷ.jpg",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10163030",
+          "score": 79.87
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 42,
+          "title": "인류애 파사삭이라는 요즘 키오스크 먹튀 수법",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472636&_dcbest=1&page=1",
+          "score": 61.33
+        }
+      ]
+    },
+    "i663c1a7c": {
+      "id": "i663c1a7c",
+      "first_seen": "2026-10-24T00:53:25.223056+09:00",
+      "last_seen": "2026-10-24T04:49:10.336825+09:00",
+      "title": "‘티니핑’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "티니핑"
+      ],
+      "points": [
+        {
+          "at": "2026-10-24T00:53:25.223056+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 79.08,
+          "sources": [
+            "더쿠",
+            "인벤"
+          ],
+          "post_urls": [
+            "https://www.inven.co.kr/board/webzine/2097/2744377",
+            "https://theqoo.net/hot/4384545057"
+          ]
+        },
+        {
+          "at": "2026-10-24T04:49:10.336825+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 66.24,
+          "sources": [
+            "더쿠",
+            "인벤"
+          ],
+          "post_urls": [
+            "https://www.inven.co.kr/board/webzine/2097/2744377",
+            "https://theqoo.net/hot/4384545057"
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 70,
+          "title": "티니핑 이 ㅅㄲ들.. 이 악랄한 놈들..",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2744377",
+          "score": 57.24
+        },
+        {
+          "source": "더쿠",
+          "rank": 97,
+          "title": "돈 버는 법을 잘 아는 파산ㅍ.. 아니 티니핑 근황",
+          "url": "https://theqoo.net/hot/4384545057",
+          "score": 53.26
+        }
+      ]
+    },
+    "iaf5a26c0": {
+      "id": "iaf5a26c0",
+      "first_seen": "2026-10-04T19:41:52.553170+09:00",
+      "last_seen": "2026-10-24T04:49:10.336825+09:00",
+      "title": "‘입장문’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "입장문"
+      ],
+      "points": [
+        {
+          "at": "2026-10-04T19:41:52.553170+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 75.04,
+          "sources": [
+            "더쿠",
+            "인벤"
+          ],
+          "post_urls": [
+            "https://www.inven.co.kr/board/webzine/2097/2736187",
+            "https://theqoo.net/hot/4364919968"
+          ]
+        },
+        {
+          "at": "2026-10-24T04:49:10.336825+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 84.3,
+          "sources": [
+            "더쿠",
+            "디시인사이드"
+          ],
+          "post_urls": [
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=472690&_dcbest=1&page=1",
+            "https://theqoo.net/hot/4384592259"
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 7,
+          "title": "ap 알케미 공식 입장문.jpg",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472690&_dcbest=1&page=1",
+          "score": 75.3
+        },
+        {
+          "source": "더쿠",
+          "rank": 39,
+          "title": "양홍원 소속 레이블 입장문",
+          "url": "https://theqoo.net/hot/4384592259",
+          "score": 62.42
+        }
+      ]
+    },
+    "i80cae878": {
+      "id": "i80cae878",
+      "first_seen": "2026-09-29T18:03:51.886668+09:00",
+      "last_seen": "2026-10-24T04:49:10.336825+09:00",
+      "title": "‘장원영’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "장원영"
+      ],
+      "points": [
+        {
+          "at": "2026-09-29T18:03:51.886668+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 86.66,
+          "sources": [
+            "뽐뿌",
+            "인벤"
+          ],
+          "post_urls": [
+            "https://www.inven.co.kr/board/webzine/2097/2734040",
+            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10135403"
+          ]
+        },
+        {
+          "at": "2026-09-29T18:06:58.844578+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 87.55,
+          "sources": [
+            "뽐뿌",
+            "인벤"
+          ],
+          "post_urls": [
+            "https://www.inven.co.kr/board/webzine/2097/2734040",
+            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10135403"
+          ]
+        },
+        {
+          "at": "2026-10-24T04:49:10.336825+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 66.48,
+          "sources": [
+            "더쿠",
+            "인벤"
+          ],
+          "post_urls": [
+            "https://www.inven.co.kr/board/webzine/2097/2744399",
+            "https://theqoo.net/hot/4384483447"
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 69,
+          "title": "아이브 장원영",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2744399",
+          "score": 57.48
+        },
+        {
+          "source": "더쿠",
+          "rank": 91,
+          "title": "장원영 : 제가 왜요?",
+          "url": "https://theqoo.net/hot/4384483447",
+          "score": 53.95
+        }
+      ]
+    },
+    "id0f722ca": {
+      "id": "id0f722ca",
+      "first_seen": "2026-10-24T04:49:10.336825+09:00",
+      "last_seen": "2026-10-24T04:49:10.336825+09:00",
+      "title": "‘보이는’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "보이는"
+      ],
+      "points": [
+        {
+          "at": "2026-10-24T04:49:10.336825+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 107.12,
+          "sources": [
+            "루리웹",
+            "인벤"
+          ],
+          "post_urls": [
+            "https://bbs.ruliweb.com/best/board/300143/read/77132639?m=humor",
+            "https://www.inven.co.kr/board/webzine/2097/2744390"
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 1,
+          "title": "요즘 서구권에 보이는 네오나치 보추들",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77132639?m=humor",
+          "score": 98.12
+        },
+        {
+          "source": "인벤",
+          "rank": 86,
+          "title": "끈만 보이는 뒤태 빌리 츠키",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2744390",
+          "score": 55.18
+        }
+      ]
+    },
     "ia4c9a0a3": {
       "id": "ia4c9a0a3",
       "first_seen": "2026-10-03T04:55:10.124887+09:00",
@@ -114,62 +403,6 @@
           "title": "오세훈 시장직 유지 확정인가요?",
           "url": "https://www.clien.net/service/board/park/19281874?od=T31&po=0&category=0&groupCd=",
           "score": 65.65
-        }
-      ]
-    },
-    "i74895616": {
-      "id": "i74895616",
-      "first_seen": "2026-10-23T20:29:39.621927+09:00",
-      "last_seen": "2026-10-24T00:53:25.223056+09:00",
-      "title": "인류애 파사삭이라는 요즘 키오스크 먹튀 수법",
-      "keywords": [
-        "먹튀",
-        "키오스크"
-      ],
-      "points": [
-        {
-          "at": "2026-10-23T20:29:39.621927+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 102.84,
-          "sources": [
-            "더쿠",
-            "루리웹"
-          ],
-          "post_urls": [
-            "https://bbs.ruliweb.com/best/board/300143/read/77126826?m=humor",
-            "https://theqoo.net/hot/4384286245"
-          ]
-        },
-        {
-          "at": "2026-10-24T00:53:25.223056+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 76.01,
-          "sources": [
-            "디시인사이드",
-            "클리앙"
-          ],
-          "post_urls": [
-            "https://gall.dcinside.com/board/view/?id=dcbest&no=472636&_dcbest=1&page=1",
-            "https://www.clien.net/service/board/park/19281862?od=T31&po=0&category=0&groupCd="
-          ]
-        }
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 23,
-          "title": "인류애 파사삭이라는 요즘 키오스크 먹튀 수법",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472636&_dcbest=1&page=1",
-          "score": 68.01
-        },
-        {
-          "source": "클리앙",
-          "rank": 91,
-          "title": "요즘 신종 키오스크 이용 먹튀 수법이라네요",
-          "url": "https://www.clien.net/service/board/park/19281862?od=T31&po=0&category=0&groupCd=",
-          "score": 52.26
         }
       ]
     },
@@ -517,47 +750,6 @@
           "title": "양홍원 바람 의혹 스토리 일단 다 올림",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472599&_dcbest=1&page=1",
           "score": 51.71
-        }
-      ]
-    },
-    "i663c1a7c": {
-      "id": "i663c1a7c",
-      "first_seen": "2026-10-24T00:53:25.223056+09:00",
-      "last_seen": "2026-10-24T00:53:25.223056+09:00",
-      "title": "‘티니핑’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "티니핑"
-      ],
-      "points": [
-        {
-          "at": "2026-10-24T00:53:25.223056+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 79.08,
-          "sources": [
-            "더쿠",
-            "인벤"
-          ],
-          "post_urls": [
-            "https://www.inven.co.kr/board/webzine/2097/2744377",
-            "https://theqoo.net/hot/4384545057"
-          ]
-        }
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 18,
-          "title": "티니핑 이 ㅅㄲ들.. 이 악랄한 놈들..",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2744377",
-          "score": 70.08
-        },
-        {
-          "source": "더쿠",
-          "rank": 64,
-          "title": "돈 버는 법을 잘 아는 파산ㅍ.. 아니 티니핑 근황",
-          "url": "https://theqoo.net/hot/4384545057",
-          "score": 58.74
         }
       ]
     },
@@ -26867,49 +27059,6 @@
         }
       ]
     },
-    "iaf5a26c0": {
-      "id": "iaf5a26c0",
-      "first_seen": "2026-10-04T19:41:52.553170+09:00",
-      "last_seen": "2026-10-04T19:41:52.553170+09:00",
-      "title": "계체 탈락 유도선수 정수진의 계체 논란 관련 해명 및 입장문",
-      "keywords": [
-        "입장문",
-        "계체",
-        "탈락"
-      ],
-      "points": [
-        {
-          "at": "2026-10-04T19:41:52.553170+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 75.04,
-          "sources": [
-            "더쿠",
-            "인벤"
-          ],
-          "post_urls": [
-            "https://www.inven.co.kr/board/webzine/2097/2736187",
-            "https://theqoo.net/hot/4364919968"
-          ]
-        }
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 30,
-          "title": "계체 탈락 유도선수 정수진의 계체 논란 관련 해명 및 입장문",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2736187",
-          "score": 67.04
-        },
-        {
-          "source": "더쿠",
-          "rank": 31,
-          "title": "아시안게임 계체 탈락 관련 정수진 선수 입장문",
-          "url": "https://theqoo.net/hot/4364919968",
-          "score": 66.89
-        }
-      ]
-    },
     "ib38c3213": {
       "id": "ib38c3213",
       "first_seen": "2026-10-03T12:47:13.694231+09:00",
@@ -31195,63 +31344,6 @@
         }
       ]
     },
-    "i80cae878": {
-      "id": "i80cae878",
-      "first_seen": "2026-09-29T18:03:51.886668+09:00",
-      "last_seen": "2026-09-29T18:06:58.844578+09:00",
-      "title": "장원영 힐끔 힐끔 쳐다보는 남자 선수",
-      "keywords": [
-        "장원영",
-        "쳐다보는",
-        "힐끔"
-      ],
-      "points": [
-        {
-          "at": "2026-09-29T18:03:51.886668+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 86.66,
-          "sources": [
-            "뽐뿌",
-            "인벤"
-          ],
-          "post_urls": [
-            "https://www.inven.co.kr/board/webzine/2097/2734040",
-            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10135403"
-          ]
-        },
-        {
-          "at": "2026-09-29T18:06:58.844578+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 87.55,
-          "sources": [
-            "뽐뿌",
-            "인벤"
-          ],
-          "post_urls": [
-            "https://www.inven.co.kr/board/webzine/2097/2734040",
-            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10135403"
-          ]
-        }
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 6,
-          "title": "장원영 힐끔 힐끔 쳐다보는 남자 선수",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2734040",
-          "score": 79.55
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 100,
-          "title": "장원영 힐끔 힐끔 쳐다보는 남자 선수 ㅋㅋ.mp4",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10135403",
-          "score": 50.9
-        }
-      ]
-    },
     "i81e4b6ca": {
       "id": "i81e4b6ca",
       "first_seen": "2026-09-29T18:06:58.844578+09:00",
@@ -31824,49 +31916,7 @@
           "score": 55.95
         }
       ]
-    },
-    "i09667a01": {
-      "id": "i09667a01",
-      "first_seen": "2026-09-29T03:16:54.567078+09:00",
-      "last_seen": "2026-09-29T03:16:54.567078+09:00",
-      "title": "‘시간문제’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "시간문제",
-        "우크라"
-      ],
-      "points": [
-        {
-          "at": "2026-09-29T03:16:54.567078+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 102.42,
-          "sources": [
-            "더쿠",
-            "루리웹"
-          ],
-          "post_urls": [
-            "https://bbs.ruliweb.com/best/board/300143/read/76839316?m=humor",
-            "https://theqoo.net/hot/4359317225"
-          ]
-        }
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 3,
-          "title": "우크라 \"남북한 무력충돌 시간문제\"… 北포로 공방 중 'DMZ 사고' 언급",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/76839316?m=humor",
-          "score": 93.42
-        },
-        {
-          "source": "더쿠",
-          "rank": 76,
-          "title": "우크라 \"남북한 무력충돌 시간문제\"",
-          "url": "https://theqoo.net/hot/4359317225",
-          "score": 55.95
-        }
-      ]
     }
   },
-  "updated_at": "2026-10-24T00:53:25.223056+09:00"
+  "updated_at": "2026-10-24T04:49:10.336825+09:00"
 }
