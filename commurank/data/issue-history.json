@@ -1,6 +1,213 @@
 {
   "version": 1,
   "issues": {
+    "iaf5a26c0": {
+      "id": "iaf5a26c0",
+      "first_seen": "2026-10-04T19:41:52.553170+09:00",
+      "last_seen": "2026-10-24T07:53:07.456605+09:00",
+      "title": "‘입장문’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "입장문"
+      ],
+      "points": [
+        {
+          "at": "2026-10-04T19:41:52.553170+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 75.04,
+          "sources": [
+            "더쿠",
+            "인벤"
+          ],
+          "post_urls": [
+            "https://www.inven.co.kr/board/webzine/2097/2736187",
+            "https://theqoo.net/hot/4364919968"
+          ]
+        },
+        {
+          "at": "2026-10-24T04:49:10.336825+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 84.3,
+          "sources": [
+            "더쿠",
+            "디시인사이드"
+          ],
+          "post_urls": [
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=472690&_dcbest=1&page=1",
+            "https://theqoo.net/hot/4384592259"
+          ]
+        },
+        {
+          "at": "2026-10-24T04:55:25.477518+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 84.3,
+          "sources": [
+            "더쿠",
+            "디시인사이드"
+          ],
+          "post_urls": [
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=472690&_dcbest=1&page=1",
+            "https://theqoo.net/hot/4384592259"
+          ]
+        },
+        {
+          "at": "2026-10-24T07:53:07.456605+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 80.47,
+          "sources": [
+            "더쿠",
+            "디시인사이드"
+          ],
+          "post_urls": [
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=472690&_dcbest=1&page=1",
+            "https://theqoo.net/hot/4384592259"
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 22,
+          "title": "ap 알케미 공식 입장문.jpg",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472690&_dcbest=1&page=1",
+          "score": 71.47
+        },
+        {
+          "source": "더쿠",
+          "rank": 79,
+          "title": "양홍원 소속 레이블 입장문",
+          "url": "https://theqoo.net/hot/4384592259",
+          "score": 55.11
+        }
+      ]
+    },
+    "i623c680f": {
+      "id": "i623c680f",
+      "first_seen": "2026-10-22T14:28:36.862003+09:00",
+      "last_seen": "2026-10-24T07:53:07.456605+09:00",
+      "title": "‘이슬람’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "이슬람"
+      ],
+      "points": [
+        {
+          "at": "2026-10-22T14:28:36.862003+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 84.02,
+          "sources": [
+            "더쿠",
+            "디시인사이드"
+          ],
+          "post_urls": [
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=472291&_dcbest=1&page=1",
+            "https://theqoo.net/hot/4383248758"
+          ]
+        },
+        {
+          "at": "2026-10-22T20:09:16.565846+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 103.92,
+          "sources": [
+            "더쿠",
+            "루리웹"
+          ],
+          "post_urls": [
+            "https://bbs.ruliweb.com/best/board/300143/read/77112476?m=humor",
+            "https://theqoo.net/hot/4383293945"
+          ]
+        },
+        {
+          "at": "2026-10-24T00:53:25.223056+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 79.42,
+          "sources": [
+            "디시인사이드",
+            "인벤"
+          ],
+          "post_urls": [
+            "https://www.inven.co.kr/board/webzine/2097/2744365",
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=472646&_dcbest=1&page=1"
+          ]
+        },
+        {
+          "at": "2026-10-24T07:53:07.456605+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 65.16,
+          "sources": [
+            "디시인사이드",
+            "루리웹"
+          ],
+          "post_urls": [
+            "https://bbs.ruliweb.com/best/board/300143/read/77133864?m=humor_only&t=now",
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=472646&_dcbest=1&page=1"
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 69,
+          "title": "이슬람 혐오에 진심인 국가",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77133864?m=humor_only&t=now",
+          "score": 56.16
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 71,
+          "title": "싱글벙글 일본인들의 이슬람 피하기 챌린지...X",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472646&_dcbest=1&page=1",
+          "score": 55.99
+        }
+      ]
+    },
+    "i69b25e97": {
+      "id": "i69b25e97",
+      "first_seen": "2026-10-24T07:53:07.456605+09:00",
+      "last_seen": "2026-10-24T07:53:07.456605+09:00",
+      "title": "‘오래된’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "오래된"
+      ],
+      "points": [
+        {
+          "at": "2026-10-24T07:53:07.456605+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 70.97,
+          "sources": [
+            "뽐뿌",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://www.ppomppu.co.kr/zboard/view.php?id=wedding&no=27885",
+            "https://www.clien.net/service/board/park/19281902?od=T31&po=0&category=0&groupCd="
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 39,
+          "title": "결혼한지 오래된 남성분들 중에 아내가 예쁘고 사랑스러워 보이는 분들 많이 계신가요?",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=wedding&no=27885",
+          "score": 61.97
+        },
+        {
+          "source": "클리앙",
+          "rank": 98,
+          "title": "오래된 중국산 태블릿에 본 계정 로긴 하시나요?",
+          "url": "https://www.clien.net/service/board/park/19281902?od=T31&po=0&category=0&groupCd=",
+          "score": 51.11
+        }
+      ]
+    },
     "i74895616": {
       "id": "i74895616",
       "first_seen": "2026-10-23T20:29:39.621927+09:00",
@@ -150,75 +357,6 @@
           "title": "돈 버는 법을 잘 아는 파산ㅍ.. 아니 티니핑 근황",
           "url": "https://theqoo.net/hot/4384545057",
           "score": 53.26
-        }
-      ]
-    },
-    "iaf5a26c0": {
-      "id": "iaf5a26c0",
-      "first_seen": "2026-10-04T19:41:52.553170+09:00",
-      "last_seen": "2026-10-24T04:55:25.477518+09:00",
-      "title": "‘입장문’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "입장문"
-      ],
-      "points": [
-        {
-          "at": "2026-10-04T19:41:52.553170+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 75.04,
-          "sources": [
-            "더쿠",
-            "인벤"
-          ],
-          "post_urls": [
-            "https://www.inven.co.kr/board/webzine/2097/2736187",
-            "https://theqoo.net/hot/4364919968"
-          ]
-        },
-        {
-          "at": "2026-10-24T04:49:10.336825+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 84.3,
-          "sources": [
-            "더쿠",
-            "디시인사이드"
-          ],
-          "post_urls": [
-            "https://gall.dcinside.com/board/view/?id=dcbest&no=472690&_dcbest=1&page=1",
-            "https://theqoo.net/hot/4384592259"
-          ]
-        },
-        {
-          "at": "2026-10-24T04:55:25.477518+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 84.3,
-          "sources": [
-            "더쿠",
-            "디시인사이드"
-          ],
-          "post_urls": [
-            "https://gall.dcinside.com/board/view/?id=dcbest&no=472690&_dcbest=1&page=1",
-            "https://theqoo.net/hot/4384592259"
-          ]
-        }
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 8,
-          "title": "ap 알케미 공식 입장문.jpg",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472690&_dcbest=1&page=1",
-          "score": 75.3
-        },
-        {
-          "source": "더쿠",
-          "rank": 38,
-          "title": "양홍원 소속 레이블 입장문",
-          "url": "https://theqoo.net/hot/4384592259",
-          "score": 62.42
         }
       ]
     },
@@ -984,75 +1122,6 @@
           "title": "오세훈 시장직 유지 확정인가요?",
           "url": "https://www.clien.net/service/board/park/19281874?od=T31&po=0&category=0&groupCd=",
           "score": 65.65
-        }
-      ]
-    },
-    "i623c680f": {
-      "id": "i623c680f",
-      "first_seen": "2026-10-22T14:28:36.862003+09:00",
-      "last_seen": "2026-10-24T00:53:25.223056+09:00",
-      "title": "‘이슬람’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "이슬람"
-      ],
-      "points": [
-        {
-          "at": "2026-10-22T14:28:36.862003+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 84.02,
-          "sources": [
-            "더쿠",
-            "디시인사이드"
-          ],
-          "post_urls": [
-            "https://gall.dcinside.com/board/view/?id=dcbest&no=472291&_dcbest=1&page=1",
-            "https://theqoo.net/hot/4383248758"
-          ]
-        },
-        {
-          "at": "2026-10-22T20:09:16.565846+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 103.92,
-          "sources": [
-            "더쿠",
-            "루리웹"
-          ],
-          "post_urls": [
-            "https://bbs.ruliweb.com/best/board/300143/read/77112476?m=humor",
-            "https://theqoo.net/hot/4383293945"
-          ]
-        },
-        {
-          "at": "2026-10-24T00:53:25.223056+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 79.42,
-          "sources": [
-            "디시인사이드",
-            "인벤"
-          ],
-          "post_urls": [
-            "https://www.inven.co.kr/board/webzine/2097/2744365",
-            "https://gall.dcinside.com/board/view/?id=dcbest&no=472646&_dcbest=1&page=1"
-          ]
-        }
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 17,
-          "title": "매우 의외로 이슬람 율법이 허용하는 것;",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2744365",
-          "score": 70.42
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 25,
-          "title": "싱글벙글 일본인들의 이슬람 피하기 챌린지...X",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472646&_dcbest=1&page=1",
-          "score": 67.19
         }
       ]
     },
@@ -31942,51 +32011,7 @@
           "score": 51.75
         }
       ]
-    },
-    "i0c93084d": {
-      "id": "i0c93084d",
-      "first_seen": "2026-09-29T03:16:54.567078+09:00",
-      "last_seen": "2026-09-29T03:16:54.567078+09:00",
-      "title": "우크라가 남북한 무력충돌 시간문제라고 말한거 팩트 체크",
-      "keywords": [
-        "무력충돌",
-        "남북한",
-        "시간문제",
-        "우크라"
-      ],
-      "points": [
-        {
-          "at": "2026-09-29T03:16:54.567078+09:00",
-          "source_count": 2,
-          "post_count": 3,
-          "score": 105.88,
-          "sources": [
-            "더쿠",
-            "루리웹"
-          ],
-          "post_urls": [
-            "https://bbs.ruliweb.com/best/board/300143/read/76840269?m=humor",
-            "https://theqoo.net/hot/4359317225"
-          ]
-        }
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 2,
-          "title": "우크라가 남북한 무력충돌 시간문제라고 말한거 팩트 체크",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/76840269?m=humor",
-          "score": 96.88
-        },
-        {
-          "source": "더쿠",
-          "rank": 76,
-          "title": "우크라 \"남북한 무력충돌 시간문제\"",
-          "url": "https://theqoo.net/hot/4359317225",
-          "score": 55.95
-        }
-      ]
     }
   },
-  "updated_at": "2026-10-24T04:55:25.477518+09:00"
+  "updated_at": "2026-10-24T07:53:07.456605+09:00"
 }
