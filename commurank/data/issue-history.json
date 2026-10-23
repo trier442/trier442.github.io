@@ -1,6 +1,61 @@
 {
   "version": 1,
   "issues": {
+    "i64aac33b": {
+      "id": "i64aac33b",
+      "first_seen": "2026-10-15T14:13:47.790939+09:00",
+      "last_seen": "2026-10-23T10:01:34.428468+09:00",
+      "title": "‘코스피’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "코스피"
+      ],
+      "points": [
+        {
+          "at": "2026-10-15T14:13:47.790939+09:00",
+          "source_count": 2,
+          "post_count": 3,
+          "score": 93.63,
+          "sources": [
+            "디시인사이드",
+            "인벤"
+          ],
+          "post_urls": [
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=470451&_dcbest=1&page=1",
+            "https://www.inven.co.kr/board/webzine/2097/2740591"
+          ]
+        },
+        {
+          "at": "2026-10-23T10:01:34.428468+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 72.15,
+          "sources": [
+            "뽐뿌",
+            "인벤"
+          ],
+          "post_urls": [
+            "https://www.inven.co.kr/board/webzine/2097/2743979",
+            "https://www.ppomppu.co.kr/zboard/view.php?id=news_economy&no=487789"
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 36,
+          "title": "코스피, AI 투자 불안에 3%대 급락, 삼전닉스 또 추락",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2743979",
+          "score": 63.15
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 78,
+          "title": "코스피, 하루 만에 또 3%대 급락…'롤코' 장세에 5600선도 내줘",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=news_economy&no=487789",
+          "score": 55.52
+        }
+      ]
+    },
     "ib3876eed": {
       "id": "ib3876eed",
       "first_seen": "2026-09-27T12:58:49.050910+09:00",
@@ -16200,47 +16255,6 @@
         }
       ]
     },
-    "i64aac33b": {
-      "id": "i64aac33b",
-      "first_seen": "2026-10-15T14:13:47.790939+09:00",
-      "last_seen": "2026-10-15T14:13:47.790939+09:00",
-      "title": "‘코스피’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "코스피"
-      ],
-      "points": [
-        {
-          "at": "2026-10-15T14:13:47.790939+09:00",
-          "source_count": 2,
-          "post_count": 3,
-          "score": 93.63,
-          "sources": [
-            "디시인사이드",
-            "인벤"
-          ],
-          "post_urls": [
-            "https://gall.dcinside.com/board/view/?id=dcbest&no=470451&_dcbest=1&page=1",
-            "https://www.inven.co.kr/board/webzine/2097/2740591"
-          ]
-        }
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 5,
-          "title": "싱글벙글 오늘자 코스피",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=470451&_dcbest=1&page=1",
-          "score": 83.63
-        },
-        {
-          "source": "인벤",
-          "rank": 57,
-          "title": "코스피 현재 상황 및 1주일 변화",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2740591",
-          "score": 59.55
-        }
-      ]
-    },
     "i0e90b422": {
       "id": "i0e90b422",
       "first_seen": "2026-10-15T14:13:47.790939+09:00",
@@ -31671,5 +31685,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-23T07:42:21.968163+09:00"
+  "updated_at": "2026-10-23T10:01:34.428468+09:00"
 }
