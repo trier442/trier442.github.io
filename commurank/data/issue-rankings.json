@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-10-23T10:01:34.428468+09:00",
+  "collected_at": "2026-10-23T14:57:47.683891+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -11,15 +11,76 @@
   "rankings": {
     "realtime": [
       {
-        "id": "i64aac33b",
-        "title": "‘코스피’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "ia4c9a0a3",
+        "title": "[속보] ‘여론조사비 대납’ 오세훈 2심 무죄…직 상실 위기 벗어나",
         "keywords": [
-          "코스피"
+          "무죄",
+          "오세훈",
+          "2심",
+          "오세훈이"
+        ],
+        "source_count": 4,
+        "post_count": 5,
+        "score": 95.84,
+        "peak_score": 95.84,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "디시인사이드",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "더쿠",
+            "rank": 10,
+            "title": "[속보] ‘여론조사비 대납’ 오세훈 2심 무죄…직 상실 위기 벗어나",
+            "url": "https://theqoo.net/hot/4384122183",
+            "score": 78.84
+          },
+          {
+            "source": "인벤",
+            "rank": 26,
+            "title": "오세훈 무죄",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2744126",
+            "score": 70.98
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 44,
+            "title": "[속보] 오세훈 2심 무죄",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472563&_dcbest=1&page=1",
+            "score": 65.03
+          },
+          {
+            "source": "클리앙",
+            "rank": 54,
+            "title": "솔직히 한동훈보단 오세훈이 낫잖아요",
+            "url": "https://www.clien.net/service/board/park/19281633?od=T31&po=0&category=0&groupCd=",
+            "score": 61.79
+          },
+          {
+            "source": "인벤",
+            "rank": 77,
+            "title": "구회근 판사 \"오세훈이 대납 요청한 사실 증명 안됨\"",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2744123",
+            "score": 56.92
+          }
+        ],
+        "rank": 1,
+        "change": "NEW"
+      },
+      {
+        "id": "i01009091",
+        "title": "‘신천지’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "신천지",
+          "김민석"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 72.15,
-        "peak_score": 72.15,
+        "score": 75.88,
+        "peak_score": 75.88,
         "appearances": 1,
         "sources": [
           "뽐뿌",
@@ -28,24 +89,156 @@
         "posts": [
           {
             "source": "인벤",
-            "rank": 36,
-            "title": "코스피, AI 투자 불안에 3%대 급락, 삼전닉스 또 추락",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2743979",
-            "score": 63.15
+            "rank": 35,
+            "title": "[오늘 이 뉴스] '신천지 다 깐다' 박선원 벌컥.. 김민석 한병도 '동공지진' (2026.10.23/MBC뉴스)",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2744142",
+            "score": 66.88
           },
           {
             "source": "뽐뿌",
-            "rank": 78,
-            "title": "코스피, 하루 만에 또 3%대 급락…'롤코' 장세에 5600선도 내줘",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=news_economy&no=487789",
-            "score": 55.52
+            "rank": 53,
+            "title": "신천지 조사 결과 공개 한다니까 김민석 표정 ㅋㅋ",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10161931",
+            "score": 61.81
           }
         ],
-        "rank": 1,
+        "rank": 2,
+        "change": "NEW"
+      },
+      {
+        "id": "i2343b47e",
+        "title": "‘명태균’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "명태균"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 74.37,
+        "peak_score": 74.37,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 41,
+            "title": "[속보] 2심 \"오세훈 정치자금법 사건서 명태균 진술 믿기 어려워\"",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10162164",
+            "score": 65.37
+          },
+          {
+            "source": "인벤",
+            "rank": 97,
+            "title": "구회근 판사 \"명태균 말 그대로 믿기 힘들다\"",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2744121",
+            "score": 51.26
+          }
+        ],
+        "rank": 3,
+        "change": "NEW"
+      },
+      {
+        "id": "i7f717bd5",
+        "title": "‘부캉이’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "부캉이"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 74.21,
+        "peak_score": 74.21,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "더쿠",
+            "rank": 42,
+            "title": "170만명 홀리고 바다 돌아갔나…상어 '부캉이' 4시간째 안 보여",
+            "url": "https://theqoo.net/hot/4384054575",
+            "score": 65.21
+          },
+          {
+            "source": "인벤",
+            "rank": 70,
+            "title": "결국 영국에 진출한 부캉이",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2744144",
+            "score": 58.28
+          }
+        ],
+        "rank": 4,
         "change": "NEW"
       }
     ],
     "daily": [
+      {
+        "id": "ia4c9a0a3",
+        "title": "[속보] ‘여론조사비 대납’ 오세훈 2심 무죄…직 상실 위기 벗어나",
+        "keywords": [
+          "무죄",
+          "오세훈",
+          "2심",
+          "오세훈이"
+        ],
+        "source_count": 4,
+        "post_count": 5,
+        "score": 116.31,
+        "peak_score": 95.84,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "디시인사이드",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "더쿠",
+            "rank": 10,
+            "title": "[속보] ‘여론조사비 대납’ 오세훈 2심 무죄…직 상실 위기 벗어나",
+            "url": "https://theqoo.net/hot/4384122183",
+            "score": 78.84
+          },
+          {
+            "source": "인벤",
+            "rank": 26,
+            "title": "오세훈 무죄",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2744126",
+            "score": 70.98
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 44,
+            "title": "[속보] 오세훈 2심 무죄",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472563&_dcbest=1&page=1",
+            "score": 65.03
+          },
+          {
+            "source": "클리앙",
+            "rank": 54,
+            "title": "솔직히 한동훈보단 오세훈이 낫잖아요",
+            "url": "https://www.clien.net/service/board/park/19281633?od=T31&po=0&category=0&groupCd=",
+            "score": 61.79
+          },
+          {
+            "source": "인벤",
+            "rank": 77,
+            "title": "구회근 판사 \"오세훈이 대납 요청한 사실 증명 안됨\"",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2744123",
+            "score": 56.92
+          }
+        ],
+        "first_seen": "2026-10-03T04:55:10.124887+09:00",
+        "last_seen": "2026-10-23T14:57:47.683891+09:00",
+        "latest_source_count": 4,
+        "latest_post_count": 5,
+        "rank": 1,
+        "change": "NEW"
+      },
       {
         "id": "i5fa6eb08",
         "title": "솔리다임 美상장 전격 철회",
@@ -92,8 +285,8 @@
         "last_seen": "2026-10-23T07:42:21.968163+09:00",
         "latest_source_count": 3,
         "latest_post_count": 3,
-        "rank": 1,
-        "change": 0
+        "rank": 2,
+        "change": -1
       },
       {
         "id": "ifeed66d7",
@@ -130,8 +323,8 @@
         "last_seen": "2026-10-23T04:28:46.214678+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 2,
-        "change": 0
+        "rank": 3,
+        "change": -1
       },
       {
         "id": "ib42d9061",
@@ -168,8 +361,8 @@
         "last_seen": "2026-10-23T04:28:46.214678+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 3,
-        "change": 0
+        "rank": 4,
+        "change": -1
       },
       {
         "id": "i7f717bd5",
@@ -179,35 +372,37 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 88.66,
+        "score": 90.68,
         "peak_score": 79.19,
-        "appearances": 1,
+        "appearances": 2,
         "sources": [
+          "더쿠",
           "디시인사이드",
-          "뽐뿌"
+          "뽐뿌",
+          "인벤"
         ],
         "posts": [
           {
-            "source": "뽐뿌",
-            "rank": 15,
-            "title": "돌아온 부캉이 오늘자 사진",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10160588",
-            "score": 70.19
+            "source": "더쿠",
+            "rank": 42,
+            "title": "170만명 홀리고 바다 돌아갔나…상어 '부캉이' 4시간째 안 보여",
+            "url": "https://theqoo.net/hot/4384054575",
+            "score": 65.21
           },
           {
-            "source": "디시인사이드",
-            "rank": 94,
-            "title": "행동 반경 넓어진 부캉이···당국 “스스로 나갈 때까지 지켜보겠다”",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472378&_dcbest=1&page=1",
-            "score": 52.19
+            "source": "인벤",
+            "rank": 70,
+            "title": "결국 영국에 진출한 부캉이",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2744144",
+            "score": 58.28
           }
         ],
         "first_seen": "2026-10-03T12:47:13.694231+09:00",
-        "last_seen": "2026-10-23T00:37:03.553244+09:00",
+        "last_seen": "2026-10-23T14:57:47.683891+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 4,
-        "change": 0
+        "rank": 5,
+        "change": -1
       },
       {
         "id": "iae6b0123",
@@ -244,8 +439,85 @@
         "last_seen": "2026-10-23T04:28:46.214678+09:00",
         "latest_source_count": 2,
         "latest_post_count": 4,
-        "rank": 5,
-        "change": 0
+        "rank": 6,
+        "change": -1
+      },
+      {
+        "id": "i01009091",
+        "title": "‘신천지’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "신천지",
+          "김민석"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 85.35,
+        "peak_score": 75.88,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 35,
+            "title": "[오늘 이 뉴스] '신천지 다 깐다' 박선원 벌컥.. 김민석 한병도 '동공지진' (2026.10.23/MBC뉴스)",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2744142",
+            "score": 66.88
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 53,
+            "title": "신천지 조사 결과 공개 한다니까 김민석 표정 ㅋㅋ",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10161931",
+            "score": 61.81
+          }
+        ],
+        "first_seen": "2026-10-07T09:11:43.132658+09:00",
+        "last_seen": "2026-10-23T14:57:47.683891+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 7,
+        "change": "NEW"
+      },
+      {
+        "id": "i2343b47e",
+        "title": "‘명태균’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "명태균"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 83.84,
+        "peak_score": 74.37,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 41,
+            "title": "[속보] 2심 \"오세훈 정치자금법 사건서 명태균 진술 믿기 어려워\"",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10162164",
+            "score": 65.37
+          },
+          {
+            "source": "인벤",
+            "rank": 97,
+            "title": "구회근 판사 \"명태균 말 그대로 믿기 힘들다\"",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2744121",
+            "score": 51.26
+          }
+        ],
+        "first_seen": "2026-10-07T15:10:25.459989+09:00",
+        "last_seen": "2026-10-23T14:57:47.683891+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 8,
+        "change": "NEW"
       },
       {
         "id": "i64aac33b",
@@ -282,8 +554,8 @@
         "last_seen": "2026-10-23T10:01:34.428468+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 6,
-        "change": "NEW"
+        "rank": 9,
+        "change": -3
       },
       {
         "id": "ie861fdd4",
@@ -320,8 +592,8 @@
         "last_seen": "2026-10-23T04:28:46.214678+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 7,
-        "change": -1
+        "rank": 10,
+        "change": -3
       },
       {
         "id": "i75cc7e14",
@@ -358,8 +630,8 @@
         "last_seen": "2026-10-23T04:28:46.214678+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 8,
-        "change": -1
+        "rank": 11,
+        "change": -3
       }
     ],
     "weekly": [
@@ -588,9 +860,9 @@
         ],
         "source_count": 4,
         "post_count": 4,
-        "score": 117.49,
+        "score": 118.93,
         "peak_score": 96.0,
-        "appearances": 2,
+        "appearances": 3,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -600,22 +872,22 @@
         ],
         "posts": [
           {
-            "source": "뽐뿌",
-            "rank": 15,
-            "title": "돌아온 부캉이 오늘자 사진",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10160588",
-            "score": 70.19
+            "source": "더쿠",
+            "rank": 42,
+            "title": "170만명 홀리고 바다 돌아갔나…상어 '부캉이' 4시간째 안 보여",
+            "url": "https://theqoo.net/hot/4384054575",
+            "score": 65.21
           },
           {
-            "source": "디시인사이드",
-            "rank": 94,
-            "title": "행동 반경 넓어진 부캉이···당국 “스스로 나갈 때까지 지켜보겠다”",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472378&_dcbest=1&page=1",
-            "score": 52.19
+            "source": "인벤",
+            "rank": 70,
+            "title": "결국 영국에 진출한 부캉이",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2744144",
+            "score": 58.28
           }
         ],
         "first_seen": "2026-10-03T12:47:13.694231+09:00",
-        "last_seen": "2026-10-23T00:37:03.553244+09:00",
+        "last_seen": "2026-10-23T14:57:47.683891+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 5,
@@ -701,6 +973,70 @@
         "change": 0
       },
       {
+        "id": "ia4c9a0a3",
+        "title": "[속보] ‘여론조사비 대납’ 오세훈 2심 무죄…직 상실 위기 벗어나",
+        "keywords": [
+          "무죄",
+          "오세훈",
+          "2심",
+          "오세훈이"
+        ],
+        "source_count": 4,
+        "post_count": 5,
+        "score": 116.31,
+        "peak_score": 95.84,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "디시인사이드",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "더쿠",
+            "rank": 10,
+            "title": "[속보] ‘여론조사비 대납’ 오세훈 2심 무죄…직 상실 위기 벗어나",
+            "url": "https://theqoo.net/hot/4384122183",
+            "score": 78.84
+          },
+          {
+            "source": "인벤",
+            "rank": 26,
+            "title": "오세훈 무죄",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2744126",
+            "score": 70.98
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 44,
+            "title": "[속보] 오세훈 2심 무죄",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472563&_dcbest=1&page=1",
+            "score": 65.03
+          },
+          {
+            "source": "클리앙",
+            "rank": 54,
+            "title": "솔직히 한동훈보단 오세훈이 낫잖아요",
+            "url": "https://www.clien.net/service/board/park/19281633?od=T31&po=0&category=0&groupCd=",
+            "score": 61.79
+          },
+          {
+            "source": "인벤",
+            "rank": 77,
+            "title": "구회근 판사 \"오세훈이 대납 요청한 사실 증명 안됨\"",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2744123",
+            "score": 56.92
+          }
+        ],
+        "first_seen": "2026-10-03T04:55:10.124887+09:00",
+        "last_seen": "2026-10-23T14:57:47.683891+09:00",
+        "latest_source_count": 4,
+        "latest_post_count": 5,
+        "rank": 8,
+        "change": "NEW"
+      },
+      {
         "id": "i623c680f",
         "title": "‘이슬람은’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -736,8 +1072,8 @@
         "last_seen": "2026-10-22T20:09:16.565846+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 8,
-        "change": 0
+        "rank": 9,
+        "change": -1
       },
       {
         "id": "ia2a0f7e2",
@@ -777,8 +1113,8 @@
         "last_seen": "2026-10-19T04:36:49.136546+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 9,
-        "change": 0
+        "rank": 10,
+        "change": -1
       },
       {
         "id": "i020e69ae",
@@ -816,8 +1152,8 @@
         "last_seen": "2026-10-21T23:42:17.241840+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 10,
-        "change": 0
+        "rank": 11,
+        "change": -1
       },
       {
         "id": "i225f7cc7",
@@ -854,8 +1190,8 @@
         "last_seen": "2026-10-21T18:37:21.676761+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
-        "change": 0
+        "rank": 12,
+        "change": -1
       },
       {
         "id": "i5d6688ff",
@@ -892,8 +1228,8 @@
         "last_seen": "2026-10-21T06:32:12.656813+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 12,
-        "change": 0
+        "rank": 13,
+        "change": -1
       },
       {
         "id": "i66d5dc5e",
@@ -930,8 +1266,8 @@
         "last_seen": "2026-10-21T02:56:28.850708+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 13,
-        "change": 0
+        "rank": 14,
+        "change": -1
       },
       {
         "id": "i12697790",
@@ -969,8 +1305,8 @@
         "last_seen": "2026-10-19T23:36:26.091329+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 14,
-        "change": 0
+        "rank": 15,
+        "change": -1
       },
       {
         "id": "i039fd79c",
@@ -1008,8 +1344,8 @@
         "last_seen": "2026-10-22T19:35:08.482480+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 15,
-        "change": 0
+        "rank": 16,
+        "change": -1
       },
       {
         "id": "idb51f807",
@@ -1047,8 +1383,8 @@
         "last_seen": "2026-10-20T16:43:57.713986+09:00",
         "latest_source_count": 2,
         "latest_post_count": 4,
-        "rank": 16,
-        "change": 0
+        "rank": 17,
+        "change": -1
       },
       {
         "id": "i5fa6eb08",
@@ -1096,8 +1432,8 @@
         "last_seen": "2026-10-23T07:42:21.968163+09:00",
         "latest_source_count": 3,
         "latest_post_count": 3,
-        "rank": 17,
-        "change": 0
+        "rank": 18,
+        "change": -1
       },
       {
         "id": "i15fd8a03",
@@ -1137,8 +1473,8 @@
         "last_seen": "2026-10-19T10:51:05.418224+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 18,
-        "change": 0
+        "rank": 19,
+        "change": -1
       },
       {
         "id": "if26c8c85",
@@ -1177,48 +1513,8 @@
         "last_seen": "2026-10-22T07:16:30.938062+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 19,
-        "change": 0
-      },
-      {
-        "id": "i1e941339",
-        "title": "‘중국인’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "중국인"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 102.71,
-        "peak_score": 89.78,
-        "appearances": 3,
-        "sources": [
-          "디시인사이드",
-          "루리웹",
-          "뽐뿌",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 7,
-            "title": "실시간 홍대 중국인 새치기 때문에 현피 터짐 ㅋㅋ",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471774&_dcbest=1&page=1",
-            "score": 79.53
-          },
-          {
-            "source": "인벤",
-            "rank": 69,
-            "title": "홍대 AK 백화점에서 일어난 중국인 VS 백인 몸싸움 사건",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2742697",
-            "score": 58.34
-          }
-        ],
-        "first_seen": "2026-10-08T12:01:09.196787+09:00",
-        "last_seen": "2026-10-20T16:43:57.713986+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 20,
-        "change": 0
+        "change": -1
       }
     ],
     "monthly": [
@@ -1422,9 +1718,9 @@
         ],
         "source_count": 4,
         "post_count": 5,
-        "score": 140.24,
+        "score": 140.83,
         "peak_score": 112.84,
-        "appearances": 7,
+        "appearances": 8,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -1435,22 +1731,22 @@
         ],
         "posts": [
           {
-            "source": "뽐뿌",
-            "rank": 15,
-            "title": "돌아온 부캉이 오늘자 사진",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10160588",
-            "score": 70.19
+            "source": "더쿠",
+            "rank": 42,
+            "title": "170만명 홀리고 바다 돌아갔나…상어 '부캉이' 4시간째 안 보여",
+            "url": "https://theqoo.net/hot/4384054575",
+            "score": 65.21
           },
           {
-            "source": "디시인사이드",
-            "rank": 94,
-            "title": "행동 반경 넓어진 부캉이···당국 “스스로 나갈 때까지 지켜보겠다”",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472378&_dcbest=1&page=1",
-            "score": 52.19
+            "source": "인벤",
+            "rank": 70,
+            "title": "결국 영국에 진출한 부캉이",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2744144",
+            "score": 58.28
           }
         ],
         "first_seen": "2026-10-03T12:47:13.694231+09:00",
-        "last_seen": "2026-10-23T00:37:03.553244+09:00",
+        "last_seen": "2026-10-23T14:57:47.683891+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 5,

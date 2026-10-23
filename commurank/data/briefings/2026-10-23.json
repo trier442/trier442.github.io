@@ -2,41 +2,59 @@
   "version": 1,
   "date": "2026-10-23",
   "label": "2026년 10월 23일",
-  "collected_at": "2026-10-23T10:01:34.428468+09:00",
+  "collected_at": "2026-10-23T14:57:47.683891+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘솔리다임 美상장 전격 철회’입니다. 실시간 키워드 상위: #한국. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘[속보] ‘여론조사비 대납’ 오세훈 2심 무죄…직 상실 위기 벗어나’입니다. 실시간 키워드 상위: #오세훈. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 6,
     "cached_sources": 0,
     "realtime_posts": 100,
     "daily_posts": 100,
-    "daily_issues": 8,
-    "keywords": 7,
-    "top100_views": 929701,
-    "top100_comments": 7207
+    "daily_issues": 11,
+    "keywords": 20,
+    "top100_views": 947580,
+    "top100_comments": 11064
   },
   "highlights": [
     {
       "type": "issue",
-      "title": "솔리다임 美상장 전격 철회",
-      "text": "3개 커뮤니티에서 3개 관련 인기글이 포착됐습니다.",
-      "issue_id": "i5fa6eb08"
+      "title": "[속보] ‘여론조사비 대납’ 오세훈 2심 무죄…직 상실 위기 벗어나",
+      "text": "4개 커뮤니티에서 5개 관련 인기글이 포착됐습니다.",
+      "issue_id": "ia4c9a0a3"
     },
     {
       "type": "post",
-      "title": "현대전에서 마오쩌둥이 손 꼽히는 군사 이론가인 이유",
+      "title": "파리에 사는 한국 재외동포분의, 현 시위 사태의 진실",
       "text": "루리웹에서 현재 상위권에 오른 인기글입니다.",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77117248?m=humor"
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77120173?m=humor"
     },
     {
       "type": "keyword",
-      "title": "#한국",
-      "text": "3개 커뮤니티 · 3개 인기글에서 함께 등장했습니다.",
-      "keyword": "한국"
+      "title": "#오세훈",
+      "text": "5개 커뮤니티 · 11개 인기글에서 함께 등장했습니다.",
+      "keyword": "오세훈"
     }
   ],
   "top_posts": [
+    {
+      "title": "파리에 사는 한국 재외동포분의, 현 시위 사태의 진실",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77120173?m=humor",
+      "first_seen": "2026-10-23T14:57:47.683891+09:00",
+      "last_seen": "2026-10-23T14:57:47.683891+09:00",
+      "peak_score": 98.96,
+      "max_views": 32768,
+      "max_likes": 161,
+      "max_comments": 124,
+      "appearances": 1,
+      "score": 108.35,
+      "views": 32768,
+      "likes": 161,
+      "comments": 124,
+      "change": "NEW"
+    },
     {
       "title": "현대전에서 마오쩌둥이 손 꼽히는 군사 이론가인 이유",
       "source": "루리웹",
@@ -49,11 +67,11 @@
       "max_likes": 140,
       "max_comments": 101,
       "appearances": 2,
-      "score": 108.25,
+      "score": 107.84,
       "views": 13830,
       "likes": 140,
       "comments": 101,
-      "change": 0
+      "change": -1
     },
     {
       "title": "와ㅋㅋ 씹 간만에 취기오르니 좋은데",
@@ -67,11 +85,11 @@
       "max_likes": 112,
       "max_comments": 80,
       "appearances": 2,
-      "score": 107.83,
+      "score": 107.42,
       "views": 11247,
       "likes": 112,
       "comments": 80,
-      "change": 0
+      "change": -1
     },
     {
       "title": "AI상담 화풀이는 결국 사람 몫",
@@ -85,10 +103,28 @@
       "max_likes": 101,
       "max_comments": 53,
       "appearances": 1,
-      "score": 106.22,
+      "score": 105.8,
       "views": 14427,
       "likes": 101,
       "comments": 53,
+      "change": -1
+    },
+    {
+      "title": "결국 참지 못하고 본색이 나옴",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77122639?m=humor",
+      "first_seen": "2026-10-23T14:57:47.683891+09:00",
+      "last_seen": "2026-10-23T14:57:47.683891+09:00",
+      "peak_score": 96.19,
+      "max_views": 13761,
+      "max_likes": 179,
+      "max_comments": 95,
+      "appearances": 1,
+      "score": 105.58,
+      "views": 13761,
+      "likes": 179,
+      "comments": 95,
       "change": "NEW"
     },
     {
@@ -103,11 +139,11 @@
       "max_likes": 114,
       "max_comments": 54,
       "appearances": 1,
-      "score": 104.96,
+      "score": 104.55,
       "views": 12686,
       "likes": 114,
       "comments": 54,
-      "change": -1
+      "change": -2
     },
     {
       "title": "\"테슬람들은 매뉴얼을 하도 안읽어서 헤드라이트 조사각 조절법도 모른다더라\"",
@@ -121,11 +157,11 @@
       "max_likes": 137,
       "max_comments": 61,
       "appearances": 1,
-      "score": 104.28,
+      "score": 103.87,
       "views": 12796,
       "likes": 137,
       "comments": 61,
-      "change": -1
+      "change": -2
     },
     {
       "title": "콜옵사 반응 근황",
@@ -139,11 +175,11 @@
       "max_likes": 174,
       "max_comments": 74,
       "appearances": 1,
-      "score": 103.62,
+      "score": 103.2,
       "views": 12549,
       "likes": 174,
       "comments": 74,
-      "change": "NEW"
+      "change": -2
     },
     {
       "title": "유치원, 초딩 급식 앞다리살에 뒷다리살 섞어 판 업자...",
@@ -157,11 +193,11 @@
       "max_likes": 85,
       "max_comments": 50,
       "appearances": 1,
-      "score": 102.6,
+      "score": 102.18,
       "views": 11719,
       "likes": 85,
       "comments": 50,
-      "change": "NEW"
+      "change": -2
     },
     {
       "title": "현재 판매 랭킹 1위라는 AV 배우",
@@ -175,99 +211,23 @@
       "max_likes": 59,
       "max_comments": 47,
       "appearances": 1,
-      "score": 102.31,
+      "score": 101.9,
       "views": 10494,
       "likes": 59,
       "comments": 47,
-      "change": -3
-    },
-    {
-      "title": "통관을 금지하는 합법적인 근거가 있는게 아닌 이유",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77118282?m=humor",
-      "first_seen": "2026-10-23T04:28:46.214678+09:00",
-      "last_seen": "2026-10-23T04:28:46.214678+09:00",
-      "peak_score": 92.97,
-      "max_views": 10664,
-      "max_likes": 90,
-      "max_comments": 56,
-      "appearances": 1,
-      "score": 101.89,
-      "views": 10664,
-      "likes": 90,
-      "comments": 56,
-      "change": -3
-    },
-    {
-      "title": "🚨한국은 조용한게 이해안되는 글로벌 비상사태.twt",
-      "source": "더쿠",
-      "category": "이슈",
-      "url": "https://theqoo.net/hot/4383827994",
-      "first_seen": "2026-10-23T10:01:34.428468+09:00",
-      "last_seen": "2026-10-23T10:01:34.428468+09:00",
-      "peak_score": 92.0,
-      "max_views": 65802,
-      "max_likes": 0,
-      "max_comments": 589,
-      "appearances": 1,
-      "score": 101.39,
-      "views": 65802,
-      "likes": 0,
-      "comments": 589,
-      "change": "NEW"
+      "change": -2
     }
   ],
   "rising": [
     {
-      "source": "뽐뿌",
-      "title": "오늘 국내 최초로 공개된 THE NEW BMW 7",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=980428",
-      "category": "이슈",
-      "views": 19739,
-      "likes": 2,
-      "comments": 43,
-      "score": 67.96,
-      "change": 12,
-      "current_rank": 26,
-      "new_entry": false,
-      "delta_views": 9687,
-      "delta_likes": 1,
-      "delta_comments": 15,
-      "rank_gain": 12,
-      "rising_score": 100.0,
-      "rising_rank": 1,
-      "window_minutes": 139
-    },
-    {
-      "source": "디시인사이드",
-      "title": "[단독] 오늘 하루만에 벌어진 두 살인 사건.jpg",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472474&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 19597,
-      "likes": 137,
-      "comments": 274,
-      "score": 74.42,
-      "change": 0,
-      "current_rank": 14,
-      "new_entry": false,
-      "delta_views": 6653,
-      "delta_likes": 52,
-      "delta_comments": 96,
-      "rank_gain": 0,
-      "rising_score": 82.87,
-      "rising_rank": 2,
-      "window_minutes": 139
-    },
-    {
       "source": "루리웹",
-      "title": "AI상담 화풀이는 결국 사람 몫",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77119632?m=humor",
+      "title": "파리에 사는 한국 재외동포분의, 현 시위 사태의 진실",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77120173?m=humor",
       "category": "이슈",
-      "views": 14427,
-      "likes": 101,
-      "comments": 53,
-      "score": 96.83,
+      "views": 32768,
+      "likes": 161,
+      "comments": 124,
+      "score": 98.96,
       "change": "NEW",
       "current_rank": 1,
       "new_entry": true,
@@ -275,19 +235,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.67,
-      "rising_rank": 3,
-      "window_minutes": 139
+      "rising_score": 83.56,
+      "rising_rank": 1,
+      "window_minutes": 296
     },
     {
       "source": "루리웹",
-      "title": "콜옵사 반응 근황",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77119894?m=humor",
+      "title": "결국 참지 못하고 본색이 나옴",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77122639?m=humor",
       "category": "이슈",
-      "views": 12549,
-      "likes": 174,
-      "comments": 74,
-      "score": 94.23,
+      "views": 13761,
+      "likes": 179,
+      "comments": 95,
+      "score": 96.19,
       "change": "NEW",
       "current_rank": 2,
       "new_entry": true,
@@ -295,19 +255,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 81.58,
-      "rising_rank": 4,
-      "window_minutes": 139
+      "rising_score": 82.4,
+      "rising_rank": 2,
+      "window_minutes": 296
     },
     {
-      "source": "루리웹",
-      "title": "유치원, 초딩 급식 앞다리살에 뒷다리살 섞어 판 업자...",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77119787?m=humor",
+      "source": "디시인사이드",
+      "title": "헌팅남이 음료에다 약물 탔어 ㅜ.......jpg",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472543&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 11719,
-      "likes": 85,
-      "comments": 50,
-      "score": 93.21,
+      "views": 35787,
+      "likes": 319,
+      "comments": 662,
+      "score": 88.07,
       "change": "NEW",
       "current_rank": 3,
       "new_entry": true,
@@ -315,19 +275,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 81.15,
-      "rising_rank": 5,
-      "window_minutes": 139
+      "rising_score": 78.99,
+      "rising_rank": 3,
+      "window_minutes": 296
     },
     {
-      "source": "더쿠",
-      "title": "🚨한국은 조용한게 이해안되는 글로벌 비상사태.twt",
-      "url": "https://theqoo.net/hot/4383827994",
+      "source": "루리웹",
+      "title": "콜옵)다른 사이트에서 구매제한국가라고 해서 확인해봄",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77122538?m=humor",
       "category": "이슈",
-      "views": 65802,
-      "likes": 0,
-      "comments": 589,
-      "score": 92.0,
+      "views": 8930,
+      "likes": 36,
+      "comments": 108,
+      "score": 87.38,
       "change": "NEW",
       "current_rank": 4,
       "new_entry": true,
@@ -335,19 +295,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 80.64,
-      "rising_rank": 6,
-      "window_minutes": 139
+      "rising_score": 78.7,
+      "rising_rank": 4,
+      "window_minutes": 296
     },
     {
       "source": "뽐뿌",
-      "title": "와.. 메가커피 알바생이 느끼는 요즘 커플 ㄷㄷ",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10161680",
+      "title": "요즘) 미쳤다는 초등 교육 현실 ㄷㄷ..jpg",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10161563",
       "category": "이슈",
-      "views": 17643,
-      "likes": 40,
-      "comments": 67,
-      "score": 91.28,
+      "views": 23858,
+      "likes": 9,
+      "comments": 93,
+      "score": 86.2,
       "change": "NEW",
       "current_rank": 5,
       "new_entry": true,
@@ -355,72 +315,176 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 80.34,
-      "rising_rank": 7,
-      "window_minutes": 139
-    },
-    {
-      "source": "더쿠",
-      "title": "A2O 아이찡 중국팬들이 모금 활동한다 함",
-      "url": "https://theqoo.net/hot/4383811772",
-      "category": "이슈",
-      "views": 51447,
-      "likes": 0,
-      "comments": 462,
-      "score": 78.84,
-      "change": 14,
-      "current_rank": 8,
-      "new_entry": false,
-      "delta_views": 28684,
-      "delta_likes": 0,
-      "delta_comments": 275,
-      "rank_gain": 14,
-      "rising_score": 79.44,
-      "rising_rank": 8,
-      "window_minutes": 139
+      "rising_score": 78.2,
+      "rising_rank": 5,
+      "window_minutes": 296
     },
     {
       "source": "디시인사이드",
-      "title": "채널a) '평양 주석궁에 미사일'...벌써 화제",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472478&_dcbest=1&page=1",
+      "title": "싱글벙글 학폭당해도 할말없는 사건",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472549&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 7907,
-      "likes": 134,
-      "comments": 213,
-      "score": 70.94,
-      "change": 11,
-      "current_rank": 20,
-      "new_entry": false,
-      "delta_views": 5961,
-      "delta_likes": 96,
-      "delta_comments": 165,
-      "rank_gain": 11,
-      "rising_score": 79.38,
+      "views": 22643,
+      "likes": 121,
+      "comments": 229,
+      "score": 83.66,
+      "change": "NEW",
+      "current_rank": 6,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 77.14,
+      "rising_rank": 6,
+      "window_minutes": 296
+    },
+    {
+      "source": "클리앙",
+      "title": "근데 오세훈 대권후보라고 하지만",
+      "url": "https://www.clien.net/service/board/park/19281632?od=T31&po=0&category=0&groupCd=",
+      "category": "이슈",
+      "views": 714,
+      "likes": 0,
+      "comments": 9,
+      "score": 82.22,
+      "change": "NEW",
+      "current_rank": 7,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 76.53,
+      "rising_rank": 7,
+      "window_minutes": 296
+    },
+    {
+      "source": "인벤",
+      "title": "이혼 후 혼자 키웠건만 배신한 아들",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2744137",
+      "category": "이슈",
+      "views": 1758,
+      "likes": 0,
+      "comments": 19,
+      "score": 80.42,
+      "change": "NEW",
+      "current_rank": 8,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 75.78,
+      "rising_rank": 8,
+      "window_minutes": 296
+    },
+    {
+      "source": "디시인사이드",
+      "title": "콜옵에 극대노한 공중파 뉴스 방송 ㄷ암살자랑 동급",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472541&_dcbest=1&page=1",
+      "category": "연예",
+      "views": 11283,
+      "likes": 175,
+      "comments": 462,
+      "score": 78.93,
+      "change": "NEW",
+      "current_rank": 9,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 75.15,
       "rising_rank": 9,
-      "window_minutes": 139
+      "window_minutes": 296
     },
     {
       "source": "더쿠",
-      "title": "수습 2개월째에 임신했다고 밝혔더니 수습종료됨",
-      "url": "https://theqoo.net/hot/4383791666",
+      "title": "[속보] ‘여론조사비 대납’ 오세훈 2심 무죄…직 상실 위기 벗어나",
+      "url": "https://theqoo.net/hot/4384122183",
       "category": "이슈",
-      "views": 84584,
+      "views": 13467,
       "likes": 0,
-      "comments": 412,
-      "score": 81.53,
-      "change": 10,
-      "current_rank": 6,
-      "new_entry": false,
-      "delta_views": 37988,
+      "comments": 568,
+      "score": 78.84,
+      "change": "NEW",
+      "current_rank": 10,
+      "new_entry": true,
+      "delta_views": 0,
       "delta_likes": 0,
-      "delta_comments": 222,
-      "rank_gain": 10,
-      "rising_score": 78.33,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 75.11,
       "rising_rank": 10,
-      "window_minutes": 139
+      "window_minutes": 296
     }
   ],
   "issues": [
+    {
+      "id": "ia4c9a0a3",
+      "title": "[속보] ‘여론조사비 대납’ 오세훈 2심 무죄…직 상실 위기 벗어나",
+      "keywords": [
+        "무죄",
+        "오세훈",
+        "2심",
+        "오세훈이"
+      ],
+      "source_count": 4,
+      "post_count": 5,
+      "score": 116.31,
+      "peak_score": 95.84,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 10,
+          "title": "[속보] ‘여론조사비 대납’ 오세훈 2심 무죄…직 상실 위기 벗어나",
+          "url": "https://theqoo.net/hot/4384122183",
+          "score": 78.84
+        },
+        {
+          "source": "인벤",
+          "rank": 26,
+          "title": "오세훈 무죄",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2744126",
+          "score": 70.98
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 44,
+          "title": "[속보] 오세훈 2심 무죄",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472563&_dcbest=1&page=1",
+          "score": 65.03
+        },
+        {
+          "source": "클리앙",
+          "rank": 54,
+          "title": "솔직히 한동훈보단 오세훈이 낫잖아요",
+          "url": "https://www.clien.net/service/board/park/19281633?od=T31&po=0&category=0&groupCd=",
+          "score": 61.79
+        },
+        {
+          "source": "인벤",
+          "rank": 77,
+          "title": "구회근 판사 \"오세훈이 대납 요청한 사실 증명 안됨\"",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2744123",
+          "score": 56.92
+        }
+      ],
+      "first_seen": "2026-10-03T04:55:10.124887+09:00",
+      "last_seen": "2026-10-23T14:57:47.683891+09:00",
+      "latest_source_count": 4,
+      "latest_post_count": 5,
+      "rank": 1,
+      "change": "NEW"
+    },
     {
       "id": "i5fa6eb08",
       "title": "솔리다임 美상장 전격 철회",
@@ -467,8 +531,8 @@
       "last_seen": "2026-10-23T07:42:21.968163+09:00",
       "latest_source_count": 3,
       "latest_post_count": 3,
-      "rank": 1,
-      "change": 0
+      "rank": 2,
+      "change": -1
     },
     {
       "id": "ifeed66d7",
@@ -505,8 +569,8 @@
       "last_seen": "2026-10-23T04:28:46.214678+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 2,
-      "change": 0
+      "rank": 3,
+      "change": -1
     },
     {
       "id": "ib42d9061",
@@ -543,8 +607,8 @@
       "last_seen": "2026-10-23T04:28:46.214678+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 3,
-      "change": 0
+      "rank": 4,
+      "change": -1
     },
     {
       "id": "i7f717bd5",
@@ -554,35 +618,37 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 88.66,
+      "score": 90.68,
       "peak_score": 79.19,
-      "appearances": 1,
+      "appearances": 2,
       "sources": [
+        "더쿠",
         "디시인사이드",
-        "뽐뿌"
+        "뽐뿌",
+        "인벤"
       ],
       "posts": [
         {
-          "source": "뽐뿌",
-          "rank": 15,
-          "title": "돌아온 부캉이 오늘자 사진",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10160588",
-          "score": 70.19
+          "source": "더쿠",
+          "rank": 42,
+          "title": "170만명 홀리고 바다 돌아갔나…상어 '부캉이' 4시간째 안 보여",
+          "url": "https://theqoo.net/hot/4384054575",
+          "score": 65.21
         },
         {
-          "source": "디시인사이드",
-          "rank": 94,
-          "title": "행동 반경 넓어진 부캉이···당국 “스스로 나갈 때까지 지켜보겠다”",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472378&_dcbest=1&page=1",
-          "score": 52.19
+          "source": "인벤",
+          "rank": 70,
+          "title": "결국 영국에 진출한 부캉이",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2744144",
+          "score": 58.28
         }
       ],
       "first_seen": "2026-10-03T12:47:13.694231+09:00",
-      "last_seen": "2026-10-23T00:37:03.553244+09:00",
+      "last_seen": "2026-10-23T14:57:47.683891+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 4,
-      "change": 0
+      "rank": 5,
+      "change": -1
     },
     {
       "id": "iae6b0123",
@@ -619,8 +685,85 @@
       "last_seen": "2026-10-23T04:28:46.214678+09:00",
       "latest_source_count": 2,
       "latest_post_count": 4,
-      "rank": 5,
-      "change": 0
+      "rank": 6,
+      "change": -1
+    },
+    {
+      "id": "i01009091",
+      "title": "‘신천지’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "신천지",
+        "김민석"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 85.35,
+      "peak_score": 75.88,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 35,
+          "title": "[오늘 이 뉴스] '신천지 다 깐다' 박선원 벌컥.. 김민석 한병도 '동공지진' (2026.10.23/MBC뉴스)",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2744142",
+          "score": 66.88
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 53,
+          "title": "신천지 조사 결과 공개 한다니까 김민석 표정 ㅋㅋ",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10161931",
+          "score": 61.81
+        }
+      ],
+      "first_seen": "2026-10-07T09:11:43.132658+09:00",
+      "last_seen": "2026-10-23T14:57:47.683891+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 7,
+      "change": "NEW"
+    },
+    {
+      "id": "i2343b47e",
+      "title": "‘명태균’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "명태균"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 83.84,
+      "peak_score": 74.37,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 41,
+          "title": "[속보] 2심 \"오세훈 정치자금법 사건서 명태균 진술 믿기 어려워\"",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10162164",
+          "score": 65.37
+        },
+        {
+          "source": "인벤",
+          "rank": 97,
+          "title": "구회근 판사 \"명태균 말 그대로 믿기 힘들다\"",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2744121",
+          "score": 51.26
+        }
+      ],
+      "first_seen": "2026-10-07T15:10:25.459989+09:00",
+      "last_seen": "2026-10-23T14:57:47.683891+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 8,
+      "change": "NEW"
     },
     {
       "id": "i64aac33b",
@@ -657,8 +800,8 @@
       "last_seen": "2026-10-23T10:01:34.428468+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
-      "change": "NEW"
+      "rank": 9,
+      "change": -3
     },
     {
       "id": "ie861fdd4",
@@ -695,59 +838,82 @@
       "last_seen": "2026-10-23T04:28:46.214678+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": -1
-    },
-    {
-      "id": "i75cc7e14",
-      "title": "‘넷플릭스’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "넷플릭스"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 70.35,
-      "peak_score": 60.88,
-      "appearances": 1,
-      "sources": [
-        "뽐뿌",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 88,
-          "title": "넷플릭스, 건담 (또는 애니), 그리고 일본 국내 시청",
-          "url": "https://www.clien.net/service/board/park/19281307?od=T31&po=0&category=0&groupCd=",
-          "score": 51.88
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 96,
-          "title": "송혜교 공유 800억 넷플릭스 ㄷㄷ..jpg",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10161492",
-          "score": 49.43
-        }
-      ],
-      "first_seen": "2026-10-18T13:31:38.306100+09:00",
-      "last_seen": "2026-10-23T04:28:46.214678+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 8,
-      "change": -1
+      "rank": 10,
+      "change": -3
     }
   ],
   "realtime_issues": [
     {
-      "id": "i64aac33b",
-      "title": "‘코스피’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "ia4c9a0a3",
+      "title": "[속보] ‘여론조사비 대납’ 오세훈 2심 무죄…직 상실 위기 벗어나",
       "keywords": [
-        "코스피"
+        "무죄",
+        "오세훈",
+        "2심",
+        "오세훈이"
+      ],
+      "source_count": 4,
+      "post_count": 5,
+      "score": 95.84,
+      "peak_score": 95.84,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 10,
+          "title": "[속보] ‘여론조사비 대납’ 오세훈 2심 무죄…직 상실 위기 벗어나",
+          "url": "https://theqoo.net/hot/4384122183",
+          "score": 78.84
+        },
+        {
+          "source": "인벤",
+          "rank": 26,
+          "title": "오세훈 무죄",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2744126",
+          "score": 70.98
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 44,
+          "title": "[속보] 오세훈 2심 무죄",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472563&_dcbest=1&page=1",
+          "score": 65.03
+        },
+        {
+          "source": "클리앙",
+          "rank": 54,
+          "title": "솔직히 한동훈보단 오세훈이 낫잖아요",
+          "url": "https://www.clien.net/service/board/park/19281633?od=T31&po=0&category=0&groupCd=",
+          "score": 61.79
+        },
+        {
+          "source": "인벤",
+          "rank": 77,
+          "title": "구회근 판사 \"오세훈이 대납 요청한 사실 증명 안됨\"",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2744123",
+          "score": 56.92
+        }
+      ],
+      "rank": 1,
+      "change": "NEW"
+    },
+    {
+      "id": "i01009091",
+      "title": "‘신천지’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "신천지",
+        "김민석"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 72.15,
-      "peak_score": 72.15,
+      "score": 75.88,
+      "peak_score": 75.88,
       "appearances": 1,
       "sources": [
         "뽐뿌",
@@ -756,172 +922,359 @@
       "posts": [
         {
           "source": "인벤",
-          "rank": 36,
-          "title": "코스피, AI 투자 불안에 3%대 급락, 삼전닉스 또 추락",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2743979",
-          "score": 63.15
+          "rank": 35,
+          "title": "[오늘 이 뉴스] '신천지 다 깐다' 박선원 벌컥.. 김민석 한병도 '동공지진' (2026.10.23/MBC뉴스)",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2744142",
+          "score": 66.88
         },
         {
           "source": "뽐뿌",
-          "rank": 78,
-          "title": "코스피, 하루 만에 또 3%대 급락…'롤코' 장세에 5600선도 내줘",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=news_economy&no=487789",
-          "score": 55.52
+          "rank": 53,
+          "title": "신천지 조사 결과 공개 한다니까 김민석 표정 ㅋㅋ",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10161931",
+          "score": 61.81
         }
       ],
-      "rank": 1,
+      "rank": 2,
+      "change": "NEW"
+    },
+    {
+      "id": "i2343b47e",
+      "title": "‘명태균’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "명태균"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 74.37,
+      "peak_score": 74.37,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 41,
+          "title": "[속보] 2심 \"오세훈 정치자금법 사건서 명태균 진술 믿기 어려워\"",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10162164",
+          "score": 65.37
+        },
+        {
+          "source": "인벤",
+          "rank": 97,
+          "title": "구회근 판사 \"명태균 말 그대로 믿기 힘들다\"",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2744121",
+          "score": 51.26
+        }
+      ],
+      "rank": 3,
+      "change": "NEW"
+    },
+    {
+      "id": "i7f717bd5",
+      "title": "‘부캉이’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "부캉이"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 74.21,
+      "peak_score": 74.21,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 42,
+          "title": "170만명 홀리고 바다 돌아갔나…상어 '부캉이' 4시간째 안 보여",
+          "url": "https://theqoo.net/hot/4384054575",
+          "score": 65.21
+        },
+        {
+          "source": "인벤",
+          "rank": 70,
+          "title": "결국 영국에 진출한 부캉이",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2744144",
+          "score": 58.28
+        }
+      ],
+      "rank": 4,
       "change": "NEW"
     }
   ],
   "keywords": [
     {
-      "keyword": "한국",
-      "score": 125.4,
-      "post_count": 3,
-      "source_count": 3,
-      "best_rank": 4,
+      "keyword": "오세훈",
+      "score": 222.92,
+      "post_count": 11,
+      "source_count": 5,
+      "best_rank": 7,
       "sources": [
         "더쿠",
         "디시인사이드",
-        "인벤"
+        "뽐뿌",
+        "인벤",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 1,
-      "change": 2
+      "change": "NEW"
     },
     {
-      "keyword": "되면",
-      "score": 102.86,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 12,
+      "keyword": "무죄",
+      "score": 175.25,
+      "post_count": 8,
+      "source_count": 4,
+      "best_rank": 10,
       "sources": [
         "더쿠",
-        "디시인사이드"
+        "디시인사이드",
+        "인벤",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 2,
       "change": "NEW"
     },
     {
-      "keyword": "주식",
-      "score": 91.68,
-      "post_count": 3,
-      "source_count": 2,
-      "best_rank": 40,
+      "keyword": "2심",
+      "score": 161.77,
+      "post_count": 5,
+      "source_count": 4,
+      "best_rank": 10,
       "sources": [
-        "인벤",
-        "클리앙"
+        "더쿠",
+        "디시인사이드",
+        "뽐뿌",
+        "인벤"
       ],
       "aliases": [],
       "rank": 3,
       "change": "NEW"
     },
     {
-      "keyword": "주석궁",
-      "score": 85.44,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 20,
+      "keyword": "김민석",
+      "score": 125.39,
+      "post_count": 3,
+      "source_count": 3,
+      "best_rank": 12,
       "sources": [
-        "디시인사이드",
-        "루리웹"
+        "뽐뿌",
+        "인벤",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 4,
       "change": "NEW"
     },
     {
-      "keyword": "코스피",
-      "score": 85.17,
+      "keyword": "콜옵",
+      "score": 109.56,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 36,
+      "best_rank": 4,
       "sources": [
-        "뽐뿌",
-        "인벤"
+        "디시인사이드",
+        "루리웹"
       ],
-      "aliases": [
-        "급락"
-      ],
+      "aliases": [],
       "rank": 5,
       "change": "NEW"
     },
     {
-      "keyword": "국장",
-      "score": 74.54,
-      "post_count": 3,
-      "source_count": 1,
-      "best_rank": 35,
+      "keyword": "파리",
+      "score": 108.57,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 1,
       "sources": [
-        "클리앙"
+        "루리웹",
+        "인벤"
       ],
       "aliases": [],
       "rank": 6,
       "change": "NEW"
     },
     {
-      "keyword": "채널a",
-      "score": 74.38,
-      "post_count": 3,
-      "source_count": 1,
-      "best_rank": 20,
+      "keyword": "한국",
+      "score": 101.93,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 1,
       "sources": [
-        "디시인사이드"
+        "디시인사이드",
+        "루리웹"
       ],
       "aliases": [],
       "rank": 7,
+      "change": -6
+    },
+    {
+      "keyword": "결국",
+      "score": 101.53,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 2,
+      "sources": [
+        "루리웹",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 8,
+      "change": "NEW"
+    },
+    {
+      "keyword": "뉴스",
+      "score": 101.22,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 9,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 9,
+      "change": "NEW"
+    },
+    {
+      "keyword": "북한",
+      "score": 94.61,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 22,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 10,
+      "change": "NEW"
+    },
+    {
+      "keyword": "대납",
+      "score": 94.31,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 10,
+      "sources": [
+        "더쿠",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 11,
+      "change": "NEW"
+    },
+    {
+      "keyword": "의원",
+      "score": 92.24,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 14,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 12,
+      "change": "NEW"
+    },
+    {
+      "keyword": "vs",
+      "score": 91.74,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 13,
+      "sources": [
+        "루리웹",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 13,
+      "change": "NEW"
+    },
+    {
+      "keyword": "단독",
+      "score": 91.1,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 28,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "aliases": [],
+      "rank": 14,
+      "change": "NEW"
+    },
+    {
+      "keyword": "신천지",
+      "score": 89.7,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 35,
+      "sources": [
+        "뽐뿌",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 15,
       "change": "NEW"
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "AI상담 화풀이는 결국 사람 몫",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77119632?m=humor",
-      "score": 96.83,
-      "views": 14427,
-      "comments": 53
-    },
-    {
-      "source": "더쿠",
-      "title": "🚨한국은 조용한게 이해안되는 글로벌 비상사태.twt",
-      "url": "https://theqoo.net/hot/4383827994",
-      "score": 92.0,
-      "views": 65802,
-      "comments": 589
-    },
-    {
-      "source": "뽐뿌",
-      "title": "와.. 메가커피 알바생이 느끼는 요즘 커플 ㄷㄷ",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10161680",
-      "score": 91.28,
-      "views": 17643,
-      "comments": 67
+      "title": "파리에 사는 한국 재외동포분의, 현 시위 사태의 진실",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77120173?m=humor",
+      "score": 98.96,
+      "views": 32768,
+      "comments": 124
     },
     {
       "source": "디시인사이드",
-      "title": "홀로 인도여행 갔다가 사라진 여자 유튜버",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472500&_dcbest=1&page=1",
-      "score": 77.5,
-      "views": 6022,
-      "comments": 133
+      "title": "헌팅남이 음료에다 약물 탔어 ㅜ.......jpg",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472543&_dcbest=1&page=1",
+      "score": 88.07,
+      "views": 35787,
+      "comments": 662
     },
     {
-      "source": "인벤",
-      "title": "한문철티비 1억5천만원짜리 술 한잔",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2743991",
-      "score": 77.04,
-      "views": 887,
-      "comments": 10
+      "source": "뽐뿌",
+      "title": "요즘) 미쳤다는 초등 교육 현실 ㄷㄷ..jpg",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10161563",
+      "score": 86.2,
+      "views": 23858,
+      "comments": 93
     },
     {
       "source": "클리앙",
-      "title": "반도체 대부흥에 이중고를 겪네요",
-      "url": "https://www.clien.net/service/board/park/19281389?od=T31&po=0&category=0&groupCd=",
-      "score": 64.12,
-      "views": 1164,
+      "title": "근데 오세훈 대권후보라고 하지만",
+      "url": "https://www.clien.net/service/board/park/19281632?od=T31&po=0&category=0&groupCd=",
+      "score": 82.22,
+      "views": 714,
       "comments": 9
+    },
+    {
+      "source": "인벤",
+      "title": "이혼 후 혼자 키웠건만 배신한 아들",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2744137",
+      "score": 80.42,
+      "views": 1758,
+      "comments": 19
+    },
+    {
+      "source": "더쿠",
+      "title": "[속보] ‘여론조사비 대납’ 오세훈 2심 무죄…직 상실 위기 벗어나",
+      "url": "https://theqoo.net/hot/4384122183",
+      "score": 78.84,
+      "views": 13467,
+      "comments": 568
     }
   ]
 }
