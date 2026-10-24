@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W43",
   "label": "2026.10.19 ~ 10.25",
-  "collected_at": "2026-10-24T23:31:45.304331+09:00",
+  "collected_at": "2026-10-24T23:49:52.771881+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -787,6 +787,44 @@
       "change": 0
     },
     {
+      "id": "i6733d4a7",
+      "title": "‘바이럴’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "바이럴"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 113.14,
+      "peak_score": 103.67,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 2,
+          "title": "역대급 짜장면이라고 바이럴 올렸다가 두들겨맞고 도망갔다는 영상",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77140212?m=humor",
+          "score": 94.67
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 23,
+          "title": "리센느 피디 바이럴 근황 ㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472908&_dcbest=1&page=1",
+          "score": 67.93
+        }
+      ],
+      "first_seen": "2026-10-24T23:49:52.771881+09:00",
+      "last_seen": "2026-10-24T23:49:52.771881+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 19,
+      "change": "NEW"
+    },
+    {
       "id": "i66d5dc5e",
       "title": "‘넘어가면’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -821,47 +859,8 @@
       "last_seen": "2026-10-21T02:56:28.850708+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 19,
-      "change": 0
-    },
-    {
-      "id": "i12697790",
-      "title": "콜옵)박현준 업적",
-      "keywords": [
-        "업적",
-        "박현준"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 110.89,
-      "peak_score": 101.42,
-      "appearances": 1,
-      "sources": [
-        "루리웹",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 3,
-          "title": "콜옵)박현준 업적",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77080797?m=humor",
-          "score": 93.42
-        },
-        {
-          "source": "인벤",
-          "rank": 94,
-          "title": "콜 오브 듀티 4) 박현준 업적",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2742401",
-          "score": 53.71
-        }
-      ],
-      "first_seen": "2026-10-19T23:36:26.091329+09:00",
-      "last_seen": "2026-10-19T23:36:26.091329+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 20,
-      "change": 0
+      "change": -1
     }
   ]
 }
