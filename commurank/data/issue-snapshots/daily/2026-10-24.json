@@ -3,21 +3,21 @@
   "period": "daily",
   "key": "2026-10-24",
   "label": "2026년 10월 24일",
-  "collected_at": "2026-10-24T15:11:43.399755+09:00",
+  "collected_at": "2026-10-24T15:24:14.524607+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
       "id": "i0cdcc665",
-      "title": "아이폰 듀오 크랙 문제는 가챠 운이 아닌 것 같은데..;",
+      "title": "아이폰 듀오 크랙은 심각하네요",
       "keywords": [
-        "아이폰",
-        "듀오"
+        "듀오",
+        "아이폰"
       ],
       "source_count": 3,
       "post_count": 5,
-      "score": 130.14,
+      "score": 132.16,
       "peak_score": 113.67,
-      "appearances": 1,
+      "appearances": 2,
       "sources": [
         "더쿠",
         "루리웹",
@@ -25,33 +25,26 @@
       ],
       "posts": [
         {
-          "source": "루리웹",
-          "rank": 1,
-          "title": "아이폰 듀오 크랙 문제는 가챠 운이 아닌 것 같은데..;",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77136596?m=humor",
-          "score": 96.67
-        },
-        {
           "source": "클리앙",
-          "rank": 34,
+          "rank": 22,
           "title": "아이폰 듀오 크랙은 심각하네요",
           "url": "https://www.clien.net/service/board/park/19282099?od=T31&po=0&category=0&groupCd=",
-          "score": 65.15
+          "score": 69.67
         },
         {
           "source": "더쿠",
-          "rank": 58,
+          "rank": 54,
           "title": "출시 하루만에 똑같은 위치에서 액정파손 일어나고 있는 아이폰 듀오",
           "url": "https://theqoo.net/hot/4384902696",
           "score": 60.58
         }
       ],
       "first_seen": "2026-10-17T02:58:12.116264+09:00",
-      "last_seen": "2026-10-24T15:11:43.399755+09:00",
-      "latest_source_count": 3,
-      "latest_post_count": 5,
+      "last_seen": "2026-10-24T15:24:14.524607+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 4,
       "rank": 1,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "id0f722ca",
@@ -89,7 +82,50 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 2,
-      "change": -1
+      "change": 0
+    },
+    {
+      "id": "i546ef42a",
+      "title": "애플 CEO : 옛날 폴더블은 싸구려같고 조잡했다.jpg",
+      "keywords": [
+        "옛날",
+        "애플",
+        "폴더블은",
+        "ceo",
+        "싸구려같고",
+        "조잡했다"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 116.43,
+      "peak_score": 106.96,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 1,
+          "title": "애플 CEO : 옛날 폴더블은 싸구려같고 조잡했다.jpg",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77136243?m=humor",
+          "score": 98.96
+        },
+        {
+          "source": "더쿠",
+          "rank": 66,
+          "title": "애플 CEO : 옛날 폴더블은 싸구려같고 조잡했다.jpg",
+          "url": "https://theqoo.net/hot/4384931041",
+          "score": 58.05
+        }
+      ],
+      "first_seen": "2026-10-24T15:24:14.524607+09:00",
+      "last_seen": "2026-10-24T15:24:14.524607+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 3,
+      "change": "NEW"
     },
     {
       "id": "i74895616",
@@ -127,7 +163,7 @@
       "last_seen": "2026-10-24T04:55:25.477518+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 3,
+      "rank": 4,
       "change": -1
     },
     {
@@ -166,8 +202,49 @@
       "last_seen": "2026-10-24T10:31:14.358396+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 4,
+      "rank": 5,
       "change": -1
+    },
+    {
+      "id": "i8b4085e0",
+      "title": "아시안게임 군면제 폐지 수순",
+      "keywords": [
+        "아시안게임",
+        "폐지",
+        "수순",
+        "군면제"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 99.46,
+      "peak_score": 87.97,
+      "appearances": 2,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 8,
+          "title": "아시안게임 군면제 폐지 수순",
+          "url": "https://www.clien.net/service/board/park/19282092?od=T31&po=0&category=0&groupCd=",
+          "score": 77.63
+        },
+        {
+          "source": "인벤",
+          "rank": 18,
+          "title": "아시안게임 군면제 폐지 수순",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2744523",
+          "score": 71.4
+        }
+      ],
+      "first_seen": "2026-09-27T20:01:41.851026+09:00",
+      "last_seen": "2026-10-24T15:24:14.524607+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 6,
+      "change": 0
     },
     {
       "id": "iaf5a26c0",
@@ -204,49 +281,8 @@
       "last_seen": "2026-10-24T08:03:57.864258+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
-      "change": -1
-    },
-    {
-      "id": "i8b4085e0",
-      "title": "아시안게임 군면제 폐지 수순",
-      "keywords": [
-        "군면제",
-        "폐지",
-        "아시안게임",
-        "수순"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 97.44,
-      "peak_score": 87.97,
-      "appearances": 1,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 6,
-          "title": "아시안게임 군면제 폐지 수순",
-          "url": "https://www.clien.net/service/board/park/19282092?od=T31&po=0&category=0&groupCd=",
-          "score": 79.97
-        },
-        {
-          "source": "인벤",
-          "rank": 9,
-          "title": "아시안게임 군면제 폐지 수순",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2744523",
-          "score": 76.76
-        }
-      ],
-      "first_seen": "2026-09-27T20:01:41.851026+09:00",
-      "last_seen": "2026-10-24T15:11:43.399755+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 6,
-      "change": "NEW"
+      "rank": 7,
+      "change": -2
     },
     {
       "id": "i623c680f",
@@ -284,8 +320,8 @@
       "last_seen": "2026-10-24T10:31:14.358396+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": -2
+      "rank": 8,
+      "change": -1
     },
     {
       "id": "ia4c9a0a3",
@@ -322,8 +358,8 @@
       "last_seen": "2026-10-24T00:53:25.223056+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 8,
-      "change": -2
+      "rank": 9,
+      "change": -1
     },
     {
       "id": "i663c1a7c",
@@ -360,8 +396,8 @@
       "last_seen": "2026-10-24T04:55:25.477518+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 9,
-      "change": -2
+      "rank": 10,
+      "change": -1
     },
     {
       "id": "i36ddd5fd",
@@ -398,8 +434,8 @@
       "last_seen": "2026-10-24T00:53:25.223056+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 10,
-      "change": -2
+      "rank": 11,
+      "change": -1
     },
     {
       "id": "i69b25e97",
@@ -436,8 +472,8 @@
       "last_seen": "2026-10-24T07:53:07.456605+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 11,
-      "change": -2
+      "rank": 12,
+      "change": -1
     },
     {
       "id": "i32f8ef85",
@@ -475,8 +511,46 @@
       "last_seen": "2026-10-24T00:53:25.223056+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 12,
-      "change": -2
+      "rank": 13,
+      "change": -1
+    },
+    {
+      "id": "i9a0fa5b7",
+      "title": "‘ai가’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "ai가"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 79.14,
+      "peak_score": 69.67,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 53,
+          "title": "AI가 썼는지 감정하는 거 순 엉터리네요.",
+          "url": "https://www.clien.net/service/board/park/19282107?od=T31&po=0&category=0&groupCd=",
+          "score": 60.67
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 65,
+          "title": "ai가 희귀병 진단해 줬다는 유튜버",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472744&_dcbest=1&page=1",
+          "score": 58.82
+        }
+      ],
+      "first_seen": "2026-10-24T15:24:14.524607+09:00",
+      "last_seen": "2026-10-24T15:24:14.524607+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 14,
+      "change": "NEW"
     },
     {
       "id": "i80cae878",
@@ -513,8 +587,50 @@
       "last_seen": "2026-10-24T04:55:25.477518+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 13,
+      "rank": 15,
       "change": -2
+    },
+    {
+      "id": "icab0d12d",
+      "title": "김정은 전격 방중…오늘 신압록대교 통해 단둥 도착",
+      "keywords": [
+        "신압록대교",
+        "김정은",
+        "통해",
+        "도착",
+        "방중"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 77.87,
+      "peak_score": 68.4,
+      "appearances": 1,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 56,
+          "title": "김정은 전격 방중…오늘 신압록대교 통해 단둥 도착",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2744538",
+          "score": 60.4
+        },
+        {
+          "source": "클리앙",
+          "rank": 58,
+          "title": "김정은 전격 방중…오늘 신압록대교 통해 단둥 도착",
+          "url": "https://www.clien.net/service/board/park/19282106?od=T31&po=0&category=0&groupCd=",
+          "score": 59.93
+        }
+      ],
+      "first_seen": "2026-10-24T15:24:14.524607+09:00",
+      "last_seen": "2026-10-24T15:24:14.524607+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 16,
+      "change": "NEW"
     }
   ]
 }
