@@ -3,7 +3,7 @@
   "period": "daily",
   "key": "2026-10-24",
   "label": "2026년 10월 24일",
-  "collected_at": "2026-10-24T08:03:57.864258+09:00",
+  "collected_at": "2026-10-24T10:21:18.518285+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -84,6 +84,44 @@
       "change": 0
     },
     {
+      "id": "iab21e976",
+      "title": "‘양홍원’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "양홍원"
+      ],
+      "source_count": 2,
+      "post_count": 4,
+      "score": 100.33,
+      "peak_score": 86.84,
+      "appearances": 2,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 6,
+          "title": "양홍원 폭로자 라방요약",
+          "url": "https://theqoo.net/hot/4384802681",
+          "score": 76.84
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 77,
+          "title": "양홍원..ap 알케미 공식 입장문.jpg",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472690&_dcbest=1&page=1",
+          "score": 56.15
+        }
+      ],
+      "first_seen": "2026-10-24T00:53:25.223056+09:00",
+      "last_seen": "2026-10-24T10:21:18.518285+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 3,
+      "rank": 3,
+      "change": 1
+    },
+    {
       "id": "iaf5a26c0",
       "title": "‘입장문’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -118,46 +156,8 @@
       "last_seen": "2026-10-24T08:03:57.864258+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 3,
-      "change": 0
-    },
-    {
-      "id": "iab21e976",
-      "title": "‘양홍원’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "양홍원"
-      ],
-      "source_count": 2,
-      "post_count": 4,
-      "score": 94.84,
-      "peak_score": 83.37,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 14,
-          "title": "양홍원 원현주(아내) 서로 언팔",
-          "url": "https://theqoo.net/hot/4384622960",
-          "score": 72.37
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 95,
-          "title": "양홍원 바람 의혹 스토리 일단 다 올림",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472599&_dcbest=1&page=1",
-          "score": 51.71
-        }
-      ],
-      "first_seen": "2026-10-24T00:53:25.223056+09:00",
-      "last_seen": "2026-10-24T00:53:25.223056+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 4,
       "rank": 4,
-      "change": 0
+      "change": -1
     },
     {
       "id": "ia4c9a0a3",
@@ -205,9 +205,9 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 92.35,
+      "score": 93.47,
       "peak_score": 79.42,
-      "appearances": 3,
+      "appearances": 4,
       "sources": [
         "디시인사이드",
         "루리웹",
@@ -215,26 +215,26 @@
       ],
       "posts": [
         {
-          "source": "루리웹",
+          "source": "디시인사이드",
           "rank": 38,
-          "title": "이슬람 혐오에 진심인 국가",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77133864?m=humor_only&t=now",
-          "score": 64.04
+          "title": "JTBC) \"약탈때 햄 안털려\"...SNS가 이슬람 배후설로???",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472732&_dcbest=1&page=1",
+          "score": 63.65
         },
         {
-          "source": "디시인사이드",
-          "rank": 73,
-          "title": "싱글벙글 일본인들의 이슬람 피하기 챌린지...X",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472646&_dcbest=1&page=1",
-          "score": 55.29
+          "source": "인벤",
+          "rank": 47,
+          "title": "이슬람 때리는 트위터 한 문장",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2744427",
+          "score": 61.63
         }
       ],
       "first_seen": "2026-10-22T14:28:36.862003+09:00",
-      "last_seen": "2026-10-24T08:03:57.864258+09:00",
+      "last_seen": "2026-10-24T10:21:18.518285+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 6,
-      "change": 1
+      "change": 0
     },
     {
       "id": "i663c1a7c",
@@ -272,7 +272,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 7,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i36ddd5fd",

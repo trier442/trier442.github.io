@@ -1,6 +1,172 @@
 {
   "version": 1,
   "issues": {
+    "i623c680f": {
+      "id": "i623c680f",
+      "first_seen": "2026-10-22T14:28:36.862003+09:00",
+      "last_seen": "2026-10-24T10:21:18.518285+09:00",
+      "title": "‘이슬람’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "이슬람"
+      ],
+      "points": [
+        {
+          "at": "2026-10-22T14:28:36.862003+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 84.02,
+          "sources": [
+            "더쿠",
+            "디시인사이드"
+          ],
+          "post_urls": [
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=472291&_dcbest=1&page=1",
+            "https://theqoo.net/hot/4383248758"
+          ]
+        },
+        {
+          "at": "2026-10-22T20:09:16.565846+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 103.92,
+          "sources": [
+            "더쿠",
+            "루리웹"
+          ],
+          "post_urls": [
+            "https://bbs.ruliweb.com/best/board/300143/read/77112476?m=humor",
+            "https://theqoo.net/hot/4383293945"
+          ]
+        },
+        {
+          "at": "2026-10-24T00:53:25.223056+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 79.42,
+          "sources": [
+            "디시인사이드",
+            "인벤"
+          ],
+          "post_urls": [
+            "https://www.inven.co.kr/board/webzine/2097/2744365",
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=472646&_dcbest=1&page=1"
+          ]
+        },
+        {
+          "at": "2026-10-24T07:53:07.456605+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 65.16,
+          "sources": [
+            "디시인사이드",
+            "루리웹"
+          ],
+          "post_urls": [
+            "https://bbs.ruliweb.com/best/board/300143/read/77133864?m=humor_only&t=now",
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=472646&_dcbest=1&page=1"
+          ]
+        },
+        {
+          "at": "2026-10-24T08:03:57.864258+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 73.04,
+          "sources": [
+            "디시인사이드",
+            "루리웹"
+          ],
+          "post_urls": [
+            "https://bbs.ruliweb.com/best/board/300143/read/77133864?m=humor_only&t=now",
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=472646&_dcbest=1&page=1"
+          ]
+        },
+        {
+          "at": "2026-10-24T10:21:18.518285+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 72.65,
+          "sources": [
+            "디시인사이드",
+            "인벤"
+          ],
+          "post_urls": [
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=472732&_dcbest=1&page=1",
+            "https://www.inven.co.kr/board/webzine/2097/2744427"
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 38,
+          "title": "JTBC) \"약탈때 햄 안털려\"...SNS가 이슬람 배후설로???",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472732&_dcbest=1&page=1",
+          "score": 63.65
+        },
+        {
+          "source": "인벤",
+          "rank": 47,
+          "title": "이슬람 때리는 트위터 한 문장",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2744427",
+          "score": 61.63
+        }
+      ]
+    },
+    "iab21e976": {
+      "id": "iab21e976",
+      "first_seen": "2026-10-24T00:53:25.223056+09:00",
+      "last_seen": "2026-10-24T10:21:18.518285+09:00",
+      "title": "‘양홍원’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "양홍원"
+      ],
+      "points": [
+        {
+          "at": "2026-10-24T00:53:25.223056+09:00",
+          "source_count": 2,
+          "post_count": 4,
+          "score": 83.37,
+          "sources": [
+            "더쿠",
+            "디시인사이드"
+          ],
+          "post_urls": [
+            "https://theqoo.net/hot/4384622960",
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=472599&_dcbest=1&page=1"
+          ]
+        },
+        {
+          "at": "2026-10-24T10:21:18.518285+09:00",
+          "source_count": 2,
+          "post_count": 3,
+          "score": 86.84,
+          "sources": [
+            "더쿠",
+            "디시인사이드"
+          ],
+          "post_urls": [
+            "https://theqoo.net/hot/4384802681",
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=472690&_dcbest=1&page=1"
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 6,
+          "title": "양홍원 폭로자 라방요약",
+          "url": "https://theqoo.net/hot/4384802681",
+          "score": 76.84
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 77,
+          "title": "양홍원..ap 알케미 공식 입장문.jpg",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472690&_dcbest=1&page=1",
+          "score": 56.15
+        }
+      ]
+    },
     "iaf5a26c0": {
       "id": "iaf5a26c0",
       "first_seen": "2026-10-04T19:41:52.553170+09:00",
@@ -95,103 +261,6 @@
           "title": "양홍원 소속 레이블 입장문",
           "url": "https://theqoo.net/hot/4384592259",
           "score": 55.11
-        }
-      ]
-    },
-    "i623c680f": {
-      "id": "i623c680f",
-      "first_seen": "2026-10-22T14:28:36.862003+09:00",
-      "last_seen": "2026-10-24T08:03:57.864258+09:00",
-      "title": "‘이슬람’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "이슬람"
-      ],
-      "points": [
-        {
-          "at": "2026-10-22T14:28:36.862003+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 84.02,
-          "sources": [
-            "더쿠",
-            "디시인사이드"
-          ],
-          "post_urls": [
-            "https://gall.dcinside.com/board/view/?id=dcbest&no=472291&_dcbest=1&page=1",
-            "https://theqoo.net/hot/4383248758"
-          ]
-        },
-        {
-          "at": "2026-10-22T20:09:16.565846+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 103.92,
-          "sources": [
-            "더쿠",
-            "루리웹"
-          ],
-          "post_urls": [
-            "https://bbs.ruliweb.com/best/board/300143/read/77112476?m=humor",
-            "https://theqoo.net/hot/4383293945"
-          ]
-        },
-        {
-          "at": "2026-10-24T00:53:25.223056+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 79.42,
-          "sources": [
-            "디시인사이드",
-            "인벤"
-          ],
-          "post_urls": [
-            "https://www.inven.co.kr/board/webzine/2097/2744365",
-            "https://gall.dcinside.com/board/view/?id=dcbest&no=472646&_dcbest=1&page=1"
-          ]
-        },
-        {
-          "at": "2026-10-24T07:53:07.456605+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 65.16,
-          "sources": [
-            "디시인사이드",
-            "루리웹"
-          ],
-          "post_urls": [
-            "https://bbs.ruliweb.com/best/board/300143/read/77133864?m=humor_only&t=now",
-            "https://gall.dcinside.com/board/view/?id=dcbest&no=472646&_dcbest=1&page=1"
-          ]
-        },
-        {
-          "at": "2026-10-24T08:03:57.864258+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 73.04,
-          "sources": [
-            "디시인사이드",
-            "루리웹"
-          ],
-          "post_urls": [
-            "https://bbs.ruliweb.com/best/board/300143/read/77133864?m=humor_only&t=now",
-            "https://gall.dcinside.com/board/view/?id=dcbest&no=472646&_dcbest=1&page=1"
-          ]
-        }
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 38,
-          "title": "이슬람 혐오에 진심인 국가",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77133864?m=humor_only&t=now",
-          "score": 64.04
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 73,
-          "title": "싱글벙글 일본인들의 이슬람 피하기 챌린지...X",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472646&_dcbest=1&page=1",
-          "score": 55.29
         }
       ]
     },
@@ -1387,47 +1456,6 @@
           "title": "“공개하라”·“공개할까?”…신천지 의혹 민주당 지도부 ‘파열음’",
           "url": "https://www.inven.co.kr/board/webzine/2097/2744350",
           "score": 52.86
-        }
-      ]
-    },
-    "iab21e976": {
-      "id": "iab21e976",
-      "first_seen": "2026-10-24T00:53:25.223056+09:00",
-      "last_seen": "2026-10-24T00:53:25.223056+09:00",
-      "title": "‘양홍원’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "양홍원"
-      ],
-      "points": [
-        {
-          "at": "2026-10-24T00:53:25.223056+09:00",
-          "source_count": 2,
-          "post_count": 4,
-          "score": 83.37,
-          "sources": [
-            "더쿠",
-            "디시인사이드"
-          ],
-          "post_urls": [
-            "https://theqoo.net/hot/4384622960",
-            "https://gall.dcinside.com/board/view/?id=dcbest&no=472599&_dcbest=1&page=1"
-          ]
-        }
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 14,
-          "title": "양홍원 원현주(아내) 서로 언팔",
-          "url": "https://theqoo.net/hot/4384622960",
-          "score": 72.37
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 95,
-          "title": "양홍원 바람 의혹 스토리 일단 다 올림",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472599&_dcbest=1&page=1",
-          "score": 51.71
         }
       ]
     },
@@ -32041,5 +32069,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-24T08:03:57.864258+09:00"
+  "updated_at": "2026-10-24T10:21:18.518285+09:00"
 }
