@@ -3,7 +3,7 @@
   "period": "daily",
   "key": "2026-10-24",
   "label": "2026년 10월 24일",
-  "collected_at": "2026-10-24T10:21:18.518285+09:00",
+  "collected_at": "2026-10-24T10:31:14.358396+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -85,41 +85,42 @@
     },
     {
       "id": "iab21e976",
-      "title": "‘양홍원’ 관련 글이 여러 커뮤니티에서 화제",
+      "title": "양홍원 불륜 모텔 폭로자 발언 모음",
       "keywords": [
-        "양홍원"
+        "양홍원",
+        "폭로자"
       ],
       "source_count": 2,
       "post_count": 4,
-      "score": 100.33,
+      "score": 101.77,
       "peak_score": 86.84,
-      "appearances": 2,
+      "appearances": 3,
       "sources": [
         "더쿠",
         "디시인사이드"
       ],
       "posts": [
         {
-          "source": "더쿠",
+          "source": "디시인사이드",
           "rank": 6,
+          "title": "양홍원 불륜 모텔 폭로자 발언 모음",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472737&_dcbest=1&page=1",
+          "score": 78.64
+        },
+        {
+          "source": "더쿠",
+          "rank": 8,
           "title": "양홍원 폭로자 라방요약",
           "url": "https://theqoo.net/hot/4384802681",
           "score": 76.84
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 77,
-          "title": "양홍원..ap 알케미 공식 입장문.jpg",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472690&_dcbest=1&page=1",
-          "score": 56.15
         }
       ],
       "first_seen": "2026-10-24T00:53:25.223056+09:00",
-      "last_seen": "2026-10-24T10:21:18.518285+09:00",
+      "last_seen": "2026-10-24T10:31:14.358396+09:00",
       "latest_source_count": 2,
-      "latest_post_count": 3,
+      "latest_post_count": 2,
       "rank": 3,
-      "change": 1
+      "change": 0
     },
     {
       "id": "iaf5a26c0",
@@ -157,7 +158,46 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 4,
-      "change": -1
+      "change": 0
+    },
+    {
+      "id": "i623c680f",
+      "title": "‘이슬람’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "이슬람"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 94.38,
+      "peak_score": 79.42,
+      "appearances": 5,
+      "sources": [
+        "디시인사이드",
+        "루리웹",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 34,
+          "title": "JTBC) \"약탈때 햄 안털려\"...SNS가 이슬람 배후설로???",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472732&_dcbest=1&page=1",
+          "score": 64.98
+        },
+        {
+          "source": "인벤",
+          "rank": 74,
+          "title": "이슬람 때리는 트위터 한 문장",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2744427",
+          "score": 56.43
+        }
+      ],
+      "first_seen": "2026-10-22T14:28:36.862003+09:00",
+      "last_seen": "2026-10-24T10:31:14.358396+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 5,
+      "change": 1
     },
     {
       "id": "ia4c9a0a3",
@@ -194,47 +234,8 @@
       "last_seen": "2026-10-24T00:53:25.223056+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
-      "change": 0
-    },
-    {
-      "id": "i623c680f",
-      "title": "‘이슬람’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "이슬람"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 93.47,
-      "peak_score": 79.42,
-      "appearances": 4,
-      "sources": [
-        "디시인사이드",
-        "루리웹",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 38,
-          "title": "JTBC) \"약탈때 햄 안털려\"...SNS가 이슬람 배후설로???",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472732&_dcbest=1&page=1",
-          "score": 63.65
-        },
-        {
-          "source": "인벤",
-          "rank": 47,
-          "title": "이슬람 때리는 트위터 한 문장",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2744427",
-          "score": 61.63
-        }
-      ],
-      "first_seen": "2026-10-22T14:28:36.862003+09:00",
-      "last_seen": "2026-10-24T10:21:18.518285+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 6,
-      "change": 0
+      "change": -1
     },
     {
       "id": "i663c1a7c",
