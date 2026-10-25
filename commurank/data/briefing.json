@@ -2,7 +2,7 @@
   "version": 1,
   "date": "2026-10-25",
   "label": "2026년 10월 25일",
-  "collected_at": "2026-10-25T07:02:46.064616+09:00",
+  "collected_at": "2026-10-25T09:15:42.432903+09:00",
   "timezone": "Asia/Seoul",
   "overview": "오늘 가장 두드러진 이슈는 ‘‘아이폰’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #한국. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
@@ -12,9 +12,9 @@
     "realtime_posts": 100,
     "daily_posts": 100,
     "daily_issues": 11,
-    "keywords": 15,
-    "top100_views": 1090437,
-    "top100_comments": 7445
+    "keywords": 10,
+    "top100_views": 1347200,
+    "top100_comments": 10622
   },
   "highlights": [
     {
@@ -49,7 +49,7 @@
       "max_likes": 117,
       "max_comments": 101,
       "appearances": 4,
-      "score": 109.58,
+      "score": 109.39,
       "views": 15131,
       "likes": 117,
       "comments": 101,
@@ -67,7 +67,7 @@
       "max_likes": 110,
       "max_comments": 72,
       "appearances": 1,
-      "score": 108.15,
+      "score": 107.97,
       "views": 22786,
       "likes": 110,
       "comments": 72,
@@ -85,7 +85,7 @@
       "max_likes": 130,
       "max_comments": 85,
       "appearances": 3,
-      "score": 107.65,
+      "score": 107.47,
       "views": 15993,
       "likes": 130,
       "comments": 85,
@@ -103,7 +103,7 @@
       "max_likes": 84,
       "max_comments": 71,
       "appearances": 2,
-      "score": 106.43,
+      "score": 106.25,
       "views": 11930,
       "likes": 84,
       "comments": 71,
@@ -121,7 +121,7 @@
       "max_likes": 113,
       "max_comments": 77,
       "appearances": 2,
-      "score": 106.18,
+      "score": 106.0,
       "views": 19507,
       "likes": 113,
       "comments": 77,
@@ -139,11 +139,11 @@
       "max_likes": 191,
       "max_comments": 62,
       "appearances": 1,
-      "score": 106.0,
+      "score": 105.81,
       "views": 20781,
       "likes": 191,
       "comments": 62,
-      "change": "NEW"
+      "change": 0
     },
     {
       "title": "게임 개발쪽에서는 지금 아이폰 듀오를 고깝게 볼 듯",
@@ -157,11 +157,11 @@
       "max_likes": 190,
       "max_comments": 73,
       "appearances": 1,
-      "score": 104.79,
+      "score": 104.6,
       "views": 22930,
       "likes": 190,
       "comments": 73,
-      "change": -1
+      "change": 0
     },
     {
       "title": "무슬림이 폭동,약탈의 배후라는 음모론은 진짜일까?",
@@ -175,11 +175,11 @@
       "max_likes": 119,
       "max_comments": 62,
       "appearances": 1,
-      "score": 104.52,
+      "score": 104.34,
       "views": 7432,
       "likes": 119,
       "comments": 62,
-      "change": -1
+      "change": 0
     },
     {
       "title": "1,691.78원짜리 일본식 할아버지 우동",
@@ -193,11 +193,11 @@
       "max_likes": 122,
       "max_comments": 86,
       "appearances": 1,
-      "score": 103.69,
+      "score": 103.5,
       "views": 27037,
       "likes": 122,
       "comments": 86,
-      "change": -1
+      "change": 0
     },
     {
       "title": "약혐) 바퀴 유닛 한마리 VS 저글링 유닛 다수",
@@ -211,123 +211,63 @@
       "max_likes": 47,
       "max_comments": 48,
       "appearances": 1,
-      "score": 102.1,
+      "score": 101.91,
       "views": 8435,
       "likes": 47,
       "comments": 48,
-      "change": "NEW"
+      "change": 0
     }
   ],
   "rising": [
+    {
+      "source": "인벤",
+      "title": "일본 어른 배우 데뷔예정 한국출신 윤수아",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2744704",
+      "category": "연예",
+      "views": 7431,
+      "likes": 1,
+      "comments": 21,
+      "score": 68.72,
+      "change": 0,
+      "current_rank": 31,
+      "new_entry": false,
+      "delta_views": 5328,
+      "delta_likes": 0,
+      "delta_comments": 10,
+      "rank_gain": 0,
+      "rising_score": 87.61,
+      "rising_rank": 1,
+      "window_minutes": 133
+    },
     {
       "source": "디시인사이드",
       "title": "이런 애들이 나라 지킬거라고 믿음이 감?",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472946&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 10793,
-      "likes": 37,
-      "comments": 344,
-      "score": 73.23,
-      "change": 23,
-      "current_rank": 12,
+      "views": 19463,
+      "likes": 71,
+      "comments": 522,
+      "score": 79.79,
+      "change": 4,
+      "current_rank": 8,
       "new_entry": false,
-      "delta_views": 9942,
-      "delta_likes": 32,
-      "delta_comments": 287,
-      "rank_gain": 23,
-      "rising_score": 97.75,
-      "rising_rank": 1,
-      "window_minutes": 131
-    },
-    {
-      "source": "더쿠",
-      "title": "반응 진짜 안 좋았던 중소 여돌 충격 근황...jpg (시간이 얼마 남지 않았다고 생각했던 내돌임... 한 번만 봐주면 고맙겠음...)",
-      "url": "https://theqoo.net/hot/4385514792",
-      "category": "이슈",
-      "views": 22750,
-      "likes": 0,
-      "comments": 113,
-      "score": 61.53,
-      "change": 0,
-      "current_rank": 56,
-      "new_entry": false,
-      "delta_views": 11784,
-      "delta_likes": 0,
-      "delta_comments": 33,
-      "rank_gain": 0,
-      "rising_score": 92.86,
+      "delta_views": 8670,
+      "delta_likes": 34,
+      "delta_comments": 178,
+      "rank_gain": 4,
+      "rising_score": 82.02,
       "rising_rank": 2,
-      "window_minutes": 131
-    },
-    {
-      "source": "디시인사이드",
-      "title": "와들와들 멘헤라녀 일상",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472943&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 27300,
-      "likes": 111,
-      "comments": 219,
-      "score": 80.64,
-      "change": 0,
-      "current_rank": 6,
-      "new_entry": false,
-      "delta_views": 4627,
-      "delta_likes": 17,
-      "delta_comments": 38,
-      "rank_gain": 0,
-      "rising_score": 87.22,
-      "rising_rank": 3,
-      "window_minutes": 131
-    },
-    {
-      "source": "클리앙",
-      "title": "최근에 중국에서 만든 자동차에 대한 응호가 많던데",
-      "url": "https://www.clien.net/service/board/park/19282279?od=T31&po=0&category=0&groupCd=",
-      "category": "이슈",
-      "views": 2357,
-      "likes": 2,
-      "comments": 5,
-      "score": 67.56,
-      "change": 0,
-      "current_rank": 26,
-      "new_entry": false,
-      "delta_views": 1345,
-      "delta_likes": 0,
-      "delta_comments": 2,
-      "rank_gain": 0,
-      "rising_score": 85.58,
-      "rising_rank": 4,
-      "window_minutes": 131
-    },
-    {
-      "source": "뽐뿌",
-      "title": "그알 폭행장면 미쳤네요ㄷㄷ",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10164208",
-      "category": "이슈",
-      "views": 29325,
-      "likes": 5,
-      "comments": 55,
-      "score": 77.54,
-      "change": 58,
-      "current_rank": 7,
-      "new_entry": false,
-      "delta_views": 9572,
-      "delta_likes": 0,
-      "delta_comments": 9,
-      "rank_gain": 58,
-      "rising_score": 82.92,
-      "rising_rank": 5,
-      "window_minutes": 131
+      "window_minutes": 133
     },
     {
       "source": "루리웹",
-      "title": "여자면 몸이라도 팔아서 돈 벌 수 있는거 아님?.manhwa",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77144759?m=humor",
+      "title": "80,90년대생들 퍼리 입문작",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77145890?m=humor",
       "category": "이슈",
-      "views": 20781,
-      "likes": 191,
-      "comments": 62,
-      "score": 96.61,
+      "views": 12572,
+      "likes": 41,
+      "comments": 47,
+      "score": 92.29,
       "change": "NEW",
       "current_rank": 1,
       "new_entry": true,
@@ -335,19 +275,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.58,
-      "rising_rank": 6,
-      "window_minutes": 131
+      "rising_score": 80.76,
+      "rising_rank": 3,
+      "window_minutes": 133
     },
     {
       "source": "루리웹",
-      "title": "아이폰 듀오 파손 수리 근황",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77145181?m=humor",
+      "title": "순대 사먹을 때 잔머리 굴리면 안됨",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77145494?m=humor",
       "category": "이슈",
-      "views": 15993,
-      "likes": 130,
-      "comments": 85,
-      "score": 94.25,
+      "views": 9475,
+      "likes": 54,
+      "comments": 37,
+      "score": 89.46,
       "change": "NEW",
       "current_rank": 2,
       "new_entry": true,
@@ -355,19 +295,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 81.59,
-      "rising_rank": 7,
-      "window_minutes": 131
+      "rising_score": 79.57,
+      "rising_rank": 4,
+      "window_minutes": 133
     },
     {
       "source": "루리웹",
-      "title": "약혐) 바퀴 유닛 한마리 VS 저글링 유닛 다수",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77144744?m=humor",
+      "title": "[네이버페이] 일일적립, 클릭 43원, 라이브예고 4원",
+      "url": "https://bbs.ruliweb.com/market/board/1020/read/108312",
       "category": "이슈",
-      "views": 8435,
-      "likes": 47,
-      "comments": 48,
-      "score": 92.71,
+      "views": 23615,
+      "likes": 124,
+      "comments": 16,
+      "score": 86.07,
       "change": "NEW",
       "current_rank": 3,
       "new_entry": true,
@@ -375,49 +315,109 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 80.94,
-      "rising_rank": 8,
-      "window_minutes": 131
+      "rising_score": 78.15,
+      "rising_rank": 5,
+      "window_minutes": 133
     },
     {
-      "source": "클리앙",
-      "title": "아이폰 듀오는 힌지에 이물질 들어가면 안되겠네요",
-      "url": "https://www.clien.net/service/board/park/19282278?od=T31&po=0&category=0&groupCd=",
-      "category": "이슈",
-      "views": 2448,
-      "likes": 1,
-      "comments": 4,
-      "score": 61.79,
-      "change": 0,
-      "current_rank": 53,
-      "new_entry": false,
-      "delta_views": 1337,
+      "source": "루리웹",
+      "title": "80년대 만화영화 갬성",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77146299?m=humor",
+      "category": "연예",
+      "views": 6736,
+      "likes": 37,
+      "comments": 38,
+      "score": 85.36,
+      "change": "NEW",
+      "current_rank": 4,
+      "new_entry": true,
+      "delta_views": 0,
       "delta_likes": 0,
-      "delta_comments": 2,
+      "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 79.81,
-      "rising_rank": 9,
-      "window_minutes": 131
+      "rising_score": 77.85,
+      "rising_rank": 6,
+      "window_minutes": 133
     },
     {
       "source": "더쿠",
-      "title": "아니 부산덬들아 부산 꿀떡 진짜 이렇게 생김????????",
-      "url": "https://theqoo.net/hot/4385536201",
-      "category": "유머",
-      "views": 31890,
+      "title": "반응 진짜 안 좋았던 중소 여돌 충격 근황...jpg (시간이 얼마 남지 않았다고 생각했던 내돌임... 한 번만 봐주면 고맙겠음...)",
+      "url": "https://theqoo.net/hot/4385514792",
+      "category": "이슈",
+      "views": 49831,
       "likes": 0,
-      "comments": 196,
-      "score": 69.68,
+      "comments": 167,
+      "score": 56.89,
       "change": 0,
-      "current_rank": 21,
+      "current_rank": 75,
       "new_entry": false,
-      "delta_views": 9051,
+      "delta_views": 27081,
       "delta_likes": 0,
-      "delta_comments": 28,
+      "delta_comments": 54,
       "rank_gain": 0,
-      "rising_score": 78.57,
+      "rising_score": 77.47,
+      "rising_rank": 7,
+      "window_minutes": 133
+    },
+    {
+      "source": "더쿠",
+      "title": "식당 촬영 거부당해서 리얼 인증한 전현무계획",
+      "url": "https://theqoo.net/hot/4385598317",
+      "category": "이슈",
+      "views": 27571,
+      "likes": 0,
+      "comments": 197,
+      "score": 80.0,
+      "change": "NEW",
+      "current_rank": 7,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 75.6,
+      "rising_rank": 8,
+      "window_minutes": 133
+    },
+    {
+      "source": "클리앙",
+      "title": "국힘 오세훈 2심 무죄를 다행이라는 뉴재명들ᆢ",
+      "url": "https://www.clien.net/service/board/park/19282308?od=T31&po=0&category=0&groupCd=",
+      "category": "이슈",
+      "views": 851,
+      "likes": 5,
+      "comments": 12,
+      "score": 79.2,
+      "change": "NEW",
+      "current_rank": 9,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 75.26,
+      "rising_rank": 9,
+      "window_minutes": 133
+    },
+    {
+      "source": "클리앙",
+      "title": "이수만씨가 왜 SM 상표?를 놔두고",
+      "url": "https://www.clien.net/service/board/park/19282291?od=T31&po=0&category=0&groupCd=",
+      "category": "이슈",
+      "views": 4117,
+      "likes": 0,
+      "comments": 13,
+      "score": 63.57,
+      "change": 0,
+      "current_rank": 48,
+      "new_entry": false,
+      "delta_views": 3632,
+      "delta_likes": 0,
+      "delta_comments": 10,
+      "rank_gain": 0,
+      "rising_score": 75.0,
       "rising_rank": 10,
-      "window_minutes": 131
+      "window_minutes": 133
     }
   ],
   "issues": [
@@ -429,33 +429,34 @@
       ],
       "source_count": 2,
       "post_count": 4,
-      "score": 124.84,
+      "score": 125.61,
       "peak_score": 107.88,
-      "appearances": 5,
+      "appearances": 6,
       "sources": [
         "루리웹",
+        "뽐뿌",
         "클리앙"
       ],
       "posts": [
         {
-          "source": "루리웹",
-          "rank": 2,
-          "title": "아이폰 듀오 파손 수리 근황",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77145181?m=humor",
-          "score": 94.25
+          "source": "뽐뿌",
+          "rank": 47,
+          "title": "'아이폰 듀오' 300여만 원 줬는데..펼치자마자 '쩍'?",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10164253",
+          "score": 64.35
         },
         {
           "source": "클리앙",
-          "rank": 53,
-          "title": "아이폰 듀오는 힌지에 이물질 들어가면 안되겠네요",
-          "url": "https://www.clien.net/service/board/park/19282278?od=T31&po=0&category=0&groupCd=",
-          "score": 61.79
+          "rank": 94,
+          "title": "어제 아이폰 듀오를 직접 만져본 결과.",
+          "url": "https://www.clien.net/service/board/park/19282298?od=T31&po=0&category=0&groupCd=",
+          "score": 52.32
         }
       ],
       "first_seen": "2026-10-17T02:58:12.116264+09:00",
-      "last_seen": "2026-10-25T07:02:46.064616+09:00",
+      "last_seen": "2026-10-25T09:15:42.432903+09:00",
       "latest_source_count": 2,
-      "latest_post_count": 4,
+      "latest_post_count": 2,
       "rank": 1,
       "change": 0
     },
@@ -533,7 +534,7 @@
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 3,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i5125324c",
@@ -572,7 +573,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 4,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "ife021da2",
@@ -610,7 +611,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 5,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i3eced5eb",
@@ -648,7 +649,7 @@
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 6,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i7cc16cb8",
@@ -688,7 +689,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 7,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i2f482bc8",
@@ -729,7 +730,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 8,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i9b30a286",
@@ -767,7 +768,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 9,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i71d2ce21",
@@ -805,7 +806,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 10,
-      "change": -2
+      "change": 0
     }
   ],
   "realtime_issues": [
@@ -816,281 +817,142 @@
         "아이폰"
       ],
       "source_count": 2,
-      "post_count": 4,
-      "score": 105.25,
-      "peak_score": 105.25,
-      "appearances": 1,
-      "sources": [
-        "루리웹",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 2,
-          "title": "아이폰 듀오 파손 수리 근황",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77145181?m=humor",
-          "score": 94.25
-        },
-        {
-          "source": "클리앙",
-          "rank": 53,
-          "title": "아이폰 듀오는 힌지에 이물질 들어가면 안되겠네요",
-          "url": "https://www.clien.net/service/board/park/19282278?od=T31&po=0&category=0&groupCd=",
-          "score": 61.79
-        }
-      ],
-      "rank": 1,
-      "change": 2
-    },
-    {
-      "id": "i2f0f43fb",
-      "title": "‘아이폰듀오’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "아이폰듀오"
-      ],
-      "source_count": 2,
-      "post_count": 3,
-      "score": 80.06,
-      "peak_score": 80.06,
-      "appearances": 1,
-      "sources": [
-        "루리웹",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 20,
-          "title": "아이폰듀오..1세대니까 그럴수있어..이러면 안됩니다.",
-          "url": "https://www.clien.net/service/board/park/19282271?od=T31&po=0&category=0&groupCd=",
-          "score": 70.06
-        },
-        {
-          "source": "루리웹",
-          "rank": 71,
-          "title": "아이폰듀오) 디플 박살 이슈가 힌지탓인 결정적 이유",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77145951?m=humor_only&t=now",
-          "score": 57.99
-        }
-      ],
-      "rank": 2,
-      "change": "NEW"
-    },
-    {
-      "id": "i5125324c",
-      "title": "요즘 연애프로 여자나이 근황",
-      "keywords": [
-        "여자나이",
-        "연애프로"
-      ],
-      "source_count": 2,
       "post_count": 2,
-      "score": 80.23,
-      "peak_score": 80.23,
+      "score": 73.35,
+      "peak_score": 73.35,
       "appearances": 1,
       "sources": [
         "뽐뿌",
-        "인벤"
+        "클리앙"
       ],
       "posts": [
-        {
-          "source": "인벤",
-          "rank": 13,
-          "title": "요즘 연애프로 여자나이 근황",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2744705",
-          "score": 72.23
-        },
         {
           "source": "뽐뿌",
-          "rank": 14,
-          "title": "요즘 연애프로 여자나이 근황",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10164138",
-          "score": 72.03
-        }
-      ],
-      "rank": 3,
-      "change": "NEW"
-    },
-    {
-      "id": "ife021da2",
-      "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "난리난"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 71.04,
-      "peak_score": 71.04,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 51,
-          "title": "난리난 닥터 X 게시판 상황 ㅋㅋㅋㅋㅋㅋㅋㅋ",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472927&_dcbest=1&page=1",
-          "score": 62.04
+          "rank": 47,
+          "title": "'아이폰 듀오' 300여만 원 줬는데..펼치자마자 '쩍'?",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10164253",
+          "score": 64.35
         },
         {
-          "source": "더쿠",
-          "rank": 63,
-          "title": "현재 난리난 지적장애의심 여성 학대 논란 유튜버 vs 구출하려는 변호사",
-          "url": "https://theqoo.net/hot/4385451478",
-          "score": 60.26
+          "source": "클리앙",
+          "rank": 94,
+          "title": "어제 아이폰 듀오를 직접 만져본 결과.",
+          "url": "https://www.clien.net/service/board/park/19282298?od=T31&po=0&category=0&groupCd=",
+          "score": 52.32
         }
       ],
-      "rank": 4,
-      "change": -2
-    },
-    {
-      "id": "i1b672c00",
-      "title": "‘치이카와’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "치이카와"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 66.49,
-      "peak_score": 66.49,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "루리웹"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 74,
-          "title": "치이카와)\"굉장해... 교미야!\"",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77146063?m=humor_only&t=now",
-          "score": 57.49
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 87,
-          "title": "쳐몰락했다던 치이카와 근황",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472920&_dcbest=1&page=1",
-          "score": 53.64
-        }
-      ],
-      "rank": 5,
-      "change": "NEW"
+      "rank": 1,
+      "change": 0
     }
   ],
   "keywords": [
     {
       "keyword": "한국",
-      "score": 119.33,
+      "score": 120.93,
       "post_count": 3,
       "source_count": 3,
-      "best_rank": 38,
+      "best_rank": 10,
       "sources": [
         "더쿠",
-        "뽐뿌",
-        "인벤"
+        "디시인사이드",
+        "뽐뿌"
       ],
       "aliases": [],
       "rank": 1,
-      "change": 3
+      "change": 0
     },
     {
-      "keyword": "듀오",
-      "score": 116.25,
-      "post_count": 5,
+      "keyword": "단독",
+      "score": 102.52,
+      "post_count": 4,
       "source_count": 2,
-      "best_rank": 2,
+      "best_rank": 28,
       "sources": [
-        "루리웹",
-        "클리앙"
+        "더쿠",
+        "인벤"
       ],
       "aliases": [],
       "rank": 2,
       "change": "NEW"
     },
     {
-      "keyword": "아이폰",
-      "score": 111.28,
-      "post_count": 4,
+      "keyword": "나라",
+      "score": 101.38,
+      "post_count": 2,
       "source_count": 2,
-      "best_rank": 2,
+      "best_rank": 8,
       "sources": [
-        "루리웹",
-        "클리앙"
+        "디시인사이드",
+        "루리웹"
       ],
       "aliases": [],
       "rank": 3,
-      "change": 2
+      "change": "NEW"
     },
     {
-      "keyword": "일본",
-      "score": 105.35,
+      "keyword": "이재명",
+      "score": 100.05,
       "post_count": 3,
       "source_count": 2,
-      "best_rank": 5,
+      "best_rank": 6,
       "sources": [
-        "디시인사이드",
-        "인벤"
+        "뽐뿌",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 4,
       "change": "NEW"
     },
     {
-      "keyword": "vs",
-      "score": 101.69,
-      "post_count": 2,
+      "keyword": "일본",
+      "score": 96.26,
+      "post_count": 3,
       "source_count": 2,
-      "best_rank": 3,
+      "best_rank": 26,
       "sources": [
-        "더쿠",
-        "루리웹"
+        "루리웹",
+        "인벤"
       ],
       "aliases": [],
       "rank": 5,
-      "change": "NEW"
-    },
-    {
-      "keyword": "연애프로",
-      "score": 101.65,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 13,
-      "sources": [
-        "뽐뿌",
-        "인벤"
-      ],
-      "aliases": [
-        "여자나"
-      ],
-      "rank": 6,
-      "change": "NEW"
+      "change": -1
     },
     {
       "keyword": "외국인들",
-      "score": 94.9,
+      "score": 93.75,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 17,
+      "best_rank": 10,
       "sources": [
         "더쿠",
         "뽐뿌"
+      ],
+      "aliases": [],
+      "rank": 6,
+      "change": 1
+    },
+    {
+      "keyword": "듀오",
+      "score": 91.74,
+      "post_count": 3,
+      "source_count": 2,
+      "best_rank": 41,
+      "sources": [
+        "뽐뿌",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 7,
       "change": -5
     },
     {
-      "keyword": "아이폰듀오",
-      "score": 92.24,
-      "post_count": 3,
+      "keyword": "작품",
+      "score": 88.2,
+      "post_count": 2,
       "source_count": 2,
-      "best_rank": 20,
+      "best_rank": 36,
       "sources": [
-        "루리웹",
+        "인벤",
         "클리앙"
       ],
       "aliases": [],
@@ -1098,151 +960,81 @@
       "change": "NEW"
     },
     {
-      "keyword": "생김",
-      "score": 86.97,
+      "keyword": "아이폰",
+      "score": 81.65,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 21,
+      "best_rank": 47,
       "sources": [
-        "더쿠",
-        "루리웹"
+        "뽐뿌",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 9,
-      "change": "NEW"
+      "change": -6
     },
     {
-      "keyword": "난리난",
-      "score": 85.68,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 51,
+      "keyword": "실시간",
+      "score": 81.37,
+      "post_count": 3,
+      "source_count": 1,
+      "best_rank": 14,
       "sources": [
-        "더쿠",
         "디시인사이드"
       ],
       "aliases": [],
       "rank": 10,
-      "change": -3
-    },
-    {
-      "keyword": "닥터",
-      "score": 85.07,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 51,
-      "sources": [
-        "디시인사이드",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 11,
-      "change": -10
-    },
-    {
-      "keyword": "중국",
-      "score": 84.56,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 26,
-      "sources": [
-        "루리웹",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 12,
-      "change": "NEW"
-    },
-    {
-      "keyword": "실시간",
-      "score": 83.02,
-      "post_count": 3,
-      "source_count": 1,
-      "best_rank": 10,
-      "sources": [
-        "디시인사이드"
-      ],
-      "aliases": [],
-      "rank": 13,
-      "change": -4
-    },
-    {
-      "keyword": "딸이",
-      "score": 78.63,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 67,
-      "sources": [
-        "루리웹",
-        "인벤"
-      ],
-      "aliases": [],
-      "rank": 14,
-      "change": "NEW"
-    },
-    {
-      "keyword": "치이카",
-      "score": 78.48,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 74,
-      "sources": [
-        "디시인사이드",
-        "루리웹"
-      ],
-      "aliases": [],
-      "rank": 15,
-      "change": "NEW"
+      "change": 3
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "여자면 몸이라도 팔아서 돈 벌 수 있는거 아님?.manhwa",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77144759?m=humor",
-      "score": 96.61,
-      "views": 20781,
-      "comments": 62
-    },
-    {
-      "source": "인벤",
-      "title": "일본 어른 배우 데뷔예정 한국출신 윤수아",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2744704",
-      "score": 80.82,
-      "views": 2103,
-      "comments": 11
+      "title": "80,90년대생들 퍼리 입문작",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77145890?m=humor",
+      "score": 92.29,
+      "views": 12572,
+      "comments": 47
     },
     {
       "source": "디시인사이드",
       "title": "와들와들 멘헤라녀 일상",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472943&_dcbest=1&page=1",
-      "score": 80.64,
-      "views": 27300,
-      "comments": 219
+      "score": 82.46,
+      "views": 35092,
+      "comments": 278
     },
     {
       "source": "뽐뿌",
-      "title": "그알 폭행장면 미쳤네요ㄷㄷ",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10164208",
-      "score": 77.54,
-      "views": 29325,
-      "comments": 55
+      "title": "저는 이재명이 조만간 오만함을 내려놓고..한없이 겸손한자세로 변할꺼라고 예상합니다.",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10164254",
+      "score": 81.68,
+      "views": 13945,
+      "comments": 49
     },
     {
       "source": "더쿠",
-      "title": "불닭볶음면 즐기는 외국인들의 플레이팅 샷",
-      "url": "https://theqoo.net/hot/4385463753",
-      "score": 70.74,
-      "views": 60084,
-      "comments": 299
+      "title": "식당 촬영 거부당해서 리얼 인증한 전현무계획",
+      "url": "https://theqoo.net/hot/4385598317",
+      "score": 80.0,
+      "views": 27571,
+      "comments": 197
     },
     {
       "source": "클리앙",
-      "title": "아이폰듀오..1세대니까 그럴수있어..이러면 안됩니다.",
-      "url": "https://www.clien.net/service/board/park/19282271?od=T31&po=0&category=0&groupCd=",
-      "score": 70.06,
-      "views": 3768,
-      "comments": 15
+      "title": "국힘 오세훈 2심 무죄를 다행이라는 뉴재명들ᆢ",
+      "url": "https://www.clien.net/service/board/park/19282308?od=T31&po=0&category=0&groupCd=",
+      "score": 79.2,
+      "views": 851,
+      "comments": 12
+    },
+    {
+      "source": "인벤",
+      "title": "여자 혼자 케냐에서 자전거 여행을 하면 생기는 일",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2744712",
+      "score": 76.7,
+      "views": 2762,
+      "comments": 9
     }
   ]
 }

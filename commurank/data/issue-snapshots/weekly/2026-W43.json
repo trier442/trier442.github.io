@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W43",
   "label": "2026.10.19 ~ 10.25",
-  "collected_at": "2026-10-25T07:02:46.064616+09:00",
+  "collected_at": "2026-10-25T09:15:42.432903+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -56,35 +56,36 @@
       ],
       "source_count": 3,
       "post_count": 5,
-      "score": 138.18,
+      "score": 138.66,
       "peak_score": 113.67,
-      "appearances": 9,
+      "appearances": 10,
       "sources": [
         "더쿠",
         "디시인사이드",
         "루리웹",
+        "뽐뿌",
         "클리앙"
       ],
       "posts": [
         {
-          "source": "루리웹",
-          "rank": 2,
-          "title": "아이폰 듀오 파손 수리 근황",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77145181?m=humor",
-          "score": 94.25
+          "source": "뽐뿌",
+          "rank": 47,
+          "title": "'아이폰 듀오' 300여만 원 줬는데..펼치자마자 '쩍'?",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10164253",
+          "score": 64.35
         },
         {
           "source": "클리앙",
-          "rank": 53,
-          "title": "아이폰 듀오는 힌지에 이물질 들어가면 안되겠네요",
-          "url": "https://www.clien.net/service/board/park/19282278?od=T31&po=0&category=0&groupCd=",
-          "score": 61.79
+          "rank": 94,
+          "title": "어제 아이폰 듀오를 직접 만져본 결과.",
+          "url": "https://www.clien.net/service/board/park/19282298?od=T31&po=0&category=0&groupCd=",
+          "score": 52.32
         }
       ],
       "first_seen": "2026-10-17T02:58:12.116264+09:00",
-      "last_seen": "2026-10-25T07:02:46.064616+09:00",
+      "last_seen": "2026-10-25T09:15:42.432903+09:00",
       "latest_source_count": 2,
-      "latest_post_count": 4,
+      "latest_post_count": 2,
       "rank": 2,
       "change": 0
     },
