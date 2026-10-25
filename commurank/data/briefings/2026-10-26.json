@@ -2,9 +2,9 @@
   "version": 1,
   "date": "2026-10-26",
   "label": "2026년 10월 26일",
-  "collected_at": "2026-10-26T07:25:10.303959+09:00",
+  "collected_at": "2026-10-26T07:29:05.127399+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘유툽. 신기하네요 ㅋ 아이폰 듀오’입니다. 실시간 키워드 상위: #인스타. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘유툽. 신기하네요 ㅋ 아이폰 듀오’입니다. 실시간 키워드 상위: #중국. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 6,
@@ -12,9 +12,9 @@
     "realtime_posts": 100,
     "daily_posts": 100,
     "daily_issues": 10,
-    "keywords": 10,
-    "top100_views": 1072353,
-    "top100_comments": 6167
+    "keywords": 11,
+    "top100_views": 1077913,
+    "top100_comments": 6217
   },
   "highlights": [
     {
@@ -31,9 +31,9 @@
     },
     {
       "type": "keyword",
-      "title": "#인스타",
-      "text": "2개 커뮤니티 · 4개 인기글에서 함께 등장했습니다.",
-      "keyword": "인스타"
+      "title": "#중국",
+      "text": "2개 커뮤니티 · 2개 인기글에서 함께 등장했습니다.",
+      "keyword": "중국"
     }
   ],
   "top_posts": [
@@ -49,7 +49,7 @@
       "max_likes": 79,
       "max_comments": 63,
       "appearances": 2,
-      "score": 109.36,
+      "score": 109.35,
       "views": 11818,
       "likes": 79,
       "comments": 63,
@@ -67,7 +67,7 @@
       "max_likes": 209,
       "max_comments": 65,
       "appearances": 1,
-      "score": 105.6,
+      "score": 105.59,
       "views": 28138,
       "likes": 209,
       "comments": 65,
@@ -85,11 +85,29 @@
       "max_likes": 96,
       "max_comments": 52,
       "appearances": 1,
-      "score": 104.48,
+      "score": 104.47,
       "views": 13823,
       "likes": 96,
       "comments": 52,
-      "change": "NEW"
+      "change": 0
+    },
+    {
+      "title": "한국-한국인이란 괴명칭에 대한 한국계 외신 기자의 반응",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77157915?m=humor",
+      "first_seen": "2026-10-26T04:55:56.119921+09:00",
+      "last_seen": "2026-10-26T07:29:05.127399+09:00",
+      "peak_score": 94.23,
+      "max_views": 20043,
+      "max_likes": 77,
+      "max_comments": 62,
+      "appearances": 2,
+      "score": 104.43,
+      "views": 20043,
+      "likes": 77,
+      "comments": 62,
+      "change": 1
     },
     {
       "title": "선대의 유언을 잘 들은 사마의와 씹어버린 제갈량",
@@ -103,28 +121,10 @@
       "max_likes": 50,
       "max_comments": 44,
       "appearances": 1,
-      "score": 103.67,
+      "score": 103.66,
       "views": 8275,
       "likes": 50,
       "comments": 44,
-      "change": -1
-    },
-    {
-      "title": "한국-한국인이란 괴명칭에 대한 한국계 외신 기자의 반응",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77157915?m=humor",
-      "first_seen": "2026-10-26T04:55:56.119921+09:00",
-      "last_seen": "2026-10-26T04:55:56.119921+09:00",
-      "peak_score": 94.23,
-      "max_views": 11470,
-      "max_likes": 67,
-      "max_comments": 57,
-      "appearances": 1,
-      "score": 103.41,
-      "views": 11470,
-      "likes": 67,
-      "comments": 57,
       "change": -1
     },
     {
@@ -139,10 +139,28 @@
       "max_likes": 62,
       "max_comments": 43,
       "appearances": 1,
-      "score": 102.93,
+      "score": 102.92,
       "views": 11453,
       "likes": 62,
       "comments": 43,
+      "change": 0
+    },
+    {
+      "title": "부산 욕좀 하자..",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77157869?m=humor",
+      "first_seen": "2026-10-26T07:29:05.127399+09:00",
+      "last_seen": "2026-10-26T07:29:05.127399+09:00",
+      "peak_score": 92.71,
+      "max_views": 10735,
+      "max_likes": 76,
+      "max_comments": 40,
+      "appearances": 1,
+      "score": 102.1,
+      "views": 10735,
+      "likes": 76,
+      "comments": 40,
       "change": "NEW"
     },
     {
@@ -151,17 +169,17 @@
       "category": "유머",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473168&_dcbest=1&page=1",
       "first_seen": "2026-10-26T02:36:24.332329+09:00",
-      "last_seen": "2026-10-26T07:25:10.303959+09:00",
+      "last_seen": "2026-10-26T07:29:05.127399+09:00",
       "peak_score": 90.83,
-      "max_views": 41358,
-      "max_likes": 1071,
+      "max_views": 41440,
+      "max_likes": 1072,
       "max_comments": 194,
-      "appearances": 3,
-      "score": 101.6,
-      "views": 41358,
-      "likes": 1071,
+      "appearances": 4,
+      "score": 102.05,
+      "views": 41440,
+      "likes": 1072,
       "comments": 194,
-      "change": -2
+      "change": -1
     },
     {
       "title": "이혼숙려 캠프 레전드",
@@ -175,11 +193,11 @@
       "max_likes": 57,
       "max_comments": 43,
       "appearances": 1,
-      "score": 100.58,
+      "score": 100.57,
       "views": 11634,
       "likes": 57,
       "comments": 43,
-      "change": "NEW"
+      "change": -1
     },
     {
       "title": "[네이버] 지도표 성경김 독도에디션 16봉 2개 9,900원(무료배송)",
@@ -193,121 +211,143 @@
       "max_likes": 78,
       "max_comments": 22,
       "appearances": 1,
-      "score": 100.48,
+      "score": 100.47,
       "views": 32119,
       "likes": 78,
       "comments": 22,
-      "change": -3
-    },
-    {
-      "title": "회사 점심시간에 머리자르고 오는거 폐급임?",
-      "source": "더쿠",
-      "category": "생활",
-      "url": "https://theqoo.net/hot/4386445214",
-      "first_seen": "2026-10-26T02:36:24.332329+09:00",
-      "last_seen": "2026-10-26T07:25:10.303959+09:00",
-      "peak_score": 89.0,
-      "max_views": 49212,
-      "max_likes": 0,
-      "max_comments": 593,
-      "appearances": 3,
-      "score": 99.77,
-      "views": 49212,
-      "likes": 0,
-      "comments": 593,
       "change": -1
     }
   ],
   "rising": [
     {
-      "source": "루리웹",
-      "title": "[네이버쇼핑] 메가커피 아메리카노 22%+멤버십 추가 할인 (10/26)",
-      "url": "https://bbs.ruliweb.com/market/board/1020/read/108329",
-      "category": "이슈",
-      "views": 10316,
-      "likes": 15,
-      "comments": 4,
-      "score": 67.32,
+      "source": "인벤",
+      "title": "회사후배랑 여동생 결혼식 가기",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2744981",
+      "category": "생활",
+      "views": 5968,
+      "likes": 1,
+      "comments": 10,
+      "score": 77.66,
       "change": 0,
-      "current_rank": 28,
+      "current_rank": 9,
       "new_entry": false,
-      "delta_views": 3249,
-      "delta_likes": 2,
+      "delta_views": 224,
+      "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 100.0,
+      "rising_score": 98.0,
       "rising_rank": 1,
-      "window_minutes": 149
+      "window_minutes": 4
     },
     {
       "source": "클리앙",
-      "title": "올 상반기 초중고생 자살 112명...",
-      "url": "https://www.clien.net/service/board/park/19282643?od=T31&po=0&category=0&groupCd=",
+      "title": "테슬라 로보택시 근황",
+      "url": "https://www.clien.net/service/board/park/19282647?od=T31&po=0&category=0&groupCd=",
       "category": "이슈",
-      "views": 3773,
-      "likes": 3,
-      "comments": 10,
-      "score": 82.12,
-      "change": 38,
-      "current_rank": 5,
+      "views": 2407,
+      "likes": 0,
+      "comments": 3,
+      "score": 70.34,
+      "change": 0,
+      "current_rank": 23,
       "new_entry": false,
-      "delta_views": 3464,
-      "delta_likes": 3,
-      "delta_comments": 9,
-      "rank_gain": 38,
-      "rising_score": 92.33,
+      "delta_views": 207,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 96.15,
       "rising_rank": 2,
-      "window_minutes": 149
+      "window_minutes": 4
     },
     {
-      "source": "더쿠",
-      "title": "회사 점심시간에 머리자르고 오는거 폐급임?",
-      "url": "https://theqoo.net/hot/4386445214",
-      "category": "생활",
-      "views": 49212,
+      "source": "클리앙",
+      "title": "하닉 특별배당 하나봐요.",
+      "url": "https://www.clien.net/service/board/park/19282644?od=T31&po=0&category=0&groupCd=",
+      "category": "이슈",
+      "views": 3935,
       "likes": 0,
-      "comments": 593,
-      "score": 89.0,
-      "change": 1,
-      "current_rank": 4,
+      "comments": 1,
+      "score": 71.56,
+      "change": 0,
+      "current_rank": 18,
       "new_entry": false,
-      "delta_views": 23922,
+      "delta_views": 157,
       "delta_likes": 0,
-      "delta_comments": 150,
-      "rank_gain": 1,
-      "rising_score": 84.56,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 88.46,
       "rising_rank": 3,
-      "window_minutes": 149
+      "window_minutes": 4
     },
     {
       "source": "디시인사이드",
-      "title": "안싱글벙글 심각한 결함터진 현기차근황",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473182&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 17460,
-      "likes": 104,
-      "comments": 154,
-      "score": 76.48,
-      "change": 0,
-      "current_rank": 11,
+      "title": "브라질 실시간선거 좆댔노 ㅋㅋㅋㅋㅋ",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473196&_dcbest=1&page=1",
+      "category": "유머",
+      "views": 8015,
+      "likes": 103,
+      "comments": 37,
+      "score": 71.79,
+      "change": 3,
+      "current_rank": 16,
       "new_entry": false,
-      "delta_views": 5267,
-      "delta_likes": 39,
-      "delta_comments": 47,
-      "rank_gain": 0,
-      "rising_score": 84.24,
+      "delta_views": 562,
+      "delta_likes": 4,
+      "delta_comments": 3,
+      "rank_gain": 3,
+      "rising_score": 87.78,
       "rising_rank": 4,
-      "window_minutes": 149
+      "window_minutes": 4
+    },
+    {
+      "source": "클리앙",
+      "title": "[CNN] Gen-Z 세대의 시선이 무례하다구요? 전혀 아닌데요.",
+      "url": "https://www.clien.net/service/board/park/19282646?od=T31&po=0&category=0&groupCd=",
+      "category": "이슈",
+      "views": 1902,
+      "likes": 0,
+      "comments": 3,
+      "score": 66.27,
+      "change": 3,
+      "current_rank": 37,
+      "new_entry": false,
+      "delta_views": 129,
+      "delta_likes": 0,
+      "delta_comments": 1,
+      "rank_gain": 3,
+      "rising_score": 83.85,
+      "rising_rank": 5,
+      "window_minutes": 4
+    },
+    {
+      "source": "더쿠",
+      "title": "겪으면 진짜 고통스럽다는 경추성 두통...jpg",
+      "url": "https://theqoo.net/hot/4386437716",
+      "category": "이슈",
+      "views": 36442,
+      "likes": 0,
+      "comments": 181,
+      "score": 68.84,
+      "change": 1,
+      "current_rank": 26,
+      "new_entry": false,
+      "delta_views": 1040,
+      "delta_likes": 0,
+      "delta_comments": 5,
+      "rank_gain": 1,
+      "rising_score": 83.67,
+      "rising_rank": 6,
+      "window_minutes": 4
     },
     {
       "source": "루리웹",
-      "title": "의외로 일본 유저들은 잘 모르긴 함",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77158242?m=humor",
+      "title": "한국-한국인이란 괴명칭에 대한 한국계 외신 기자의 반응",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77157915?m=humor",
       "category": "이슈",
-      "views": 13823,
-      "likes": 96,
-      "comments": 52,
-      "score": 95.09,
+      "views": 20043,
+      "likes": 77,
+      "comments": 62,
+      "score": 93.84,
       "change": "NEW",
       "current_rank": 1,
       "new_entry": true,
@@ -315,109 +355,69 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 81.94,
-      "rising_rank": 5,
-      "window_minutes": 149
-    },
-    {
-      "source": "루리웹",
-      "title": "안전안내문자 희망편",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77158378?m=humor",
-      "category": "이슈",
-      "views": 11453,
-      "likes": 62,
-      "comments": 43,
-      "score": 93.54,
-      "change": "NEW",
-      "current_rank": 2,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 81.29,
-      "rising_rank": 6,
-      "window_minutes": 149
-    },
-    {
-      "source": "인벤",
-      "title": "야간 고속도로운전은....",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2744971",
-      "category": "유머",
-      "views": 3513,
-      "likes": 1,
-      "comments": 13,
-      "score": 66.42,
-      "change": 0,
-      "current_rank": 35,
-      "new_entry": false,
-      "delta_views": 1739,
-      "delta_likes": 0,
-      "delta_comments": 4,
-      "rank_gain": 0,
-      "rising_score": 81.05,
+      "rising_score": 81.41,
       "rising_rank": 7,
-      "window_minutes": 149
-    },
-    {
-      "source": "루리웹",
-      "title": "이혼숙려 캠프 레전드",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77157644?m=humor",
-      "category": "유머",
-      "views": 11634,
-      "likes": 57,
-      "comments": 43,
-      "score": 91.19,
-      "change": "NEW",
-      "current_rank": 3,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 80.3,
-      "rising_rank": 8,
-      "window_minutes": 149
-    },
-    {
-      "source": "인벤",
-      "title": "빅마마 이영현 근황",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2744979",
-      "category": "연예",
-      "views": 4866,
-      "likes": 1,
-      "comments": 8,
-      "score": 74.77,
-      "change": 3,
-      "current_rank": 12,
-      "new_entry": false,
-      "delta_views": 3504,
-      "delta_likes": 0,
-      "delta_comments": 5,
-      "rank_gain": 3,
-      "rising_score": 80.13,
-      "rising_rank": 9,
-      "window_minutes": 149
+      "window_minutes": 4
     },
     {
       "source": "더쿠",
-      "title": "[스레드] 애를 낳고 비로소 아줌마가 됐다 드디어 자유롭다",
-      "url": "https://theqoo.net/hot/4386406654",
+      "title": "김지원 얼굴 믿고 셀카 못찍는ㅅㅌ일줄알앗는데...",
+      "url": "https://theqoo.net/hot/4386412020",
       "category": "이슈",
-      "views": 37589,
+      "views": 52607,
       "likes": 0,
-      "comments": 184,
-      "score": 64.53,
-      "change": 5,
-      "current_rank": 42,
+      "comments": 292,
+      "score": 76.68,
+      "change": 0,
+      "current_rank": 10,
       "new_entry": false,
-      "delta_views": 16739,
+      "delta_views": 971,
       "delta_likes": 0,
-      "delta_comments": 50,
-      "rank_gain": 5,
-      "rising_score": 78.78,
+      "delta_comments": 4,
+      "rank_gain": 0,
+      "rising_score": 81.07,
+      "rising_rank": 8,
+      "window_minutes": 4
+    },
+    {
+      "source": "더쿠",
+      "title": "회사 점심시간에 머리자르고 오는거 폐급임?",
+      "url": "https://theqoo.net/hot/4386445214",
+      "category": "생활",
+      "views": 50112,
+      "likes": 0,
+      "comments": 608,
+      "score": 89.0,
+      "change": 0,
+      "current_rank": 4,
+      "new_entry": false,
+      "delta_views": 900,
+      "delta_likes": 0,
+      "delta_comments": 15,
+      "rank_gain": 0,
+      "rising_score": 80.98,
+      "rising_rank": 9,
+      "window_minutes": 4
+    },
+    {
+      "source": "루리웹",
+      "title": "부캉이 임티 무료배포",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77158651?m=humor_only&t=now",
+      "category": "이슈",
+      "views": 2769,
+      "likes": 16,
+      "comments": 12,
+      "score": 59.85,
+      "change": 23,
+      "current_rank": 61,
+      "new_entry": false,
+      "delta_views": 1701,
+      "delta_likes": 6,
+      "delta_comments": 7,
+      "rank_gain": 23,
+      "rising_score": 80.97,
       "rising_rank": 10,
-      "window_minutes": 149
+      "window_minutes": 4
     }
   ],
   "issues": [
@@ -574,7 +574,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 4,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i9f5e1ed4",
@@ -612,7 +612,45 @@
       "latest_source_count": 2,
       "latest_post_count": 4,
       "rank": 5,
-      "change": "NEW"
+      "change": 0
+    },
+    {
+      "id": "i7f717bd5",
+      "title": "‘부캉이’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "부캉이"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 87.97,
+      "peak_score": 76.48,
+      "appearances": 2,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 28,
+          "title": "부캉이 근황",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473198&_dcbest=1&page=1",
+          "score": 67.48
+        },
+        {
+          "source": "루리웹",
+          "rank": 61,
+          "title": "부캉이 임티 무료배포",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77158651?m=humor_only&t=now",
+          "score": 59.85
+        }
+      ],
+      "first_seen": "2026-10-03T12:47:13.694231+09:00",
+      "last_seen": "2026-10-26T07:29:05.127399+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 6,
+      "change": 2
     },
     {
       "id": "i3eced5eb",
@@ -649,8 +687,8 @@
       "last_seen": "2026-10-26T04:55:56.119921+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
-      "change": -2
+      "rank": 7,
+      "change": -1
     },
     {
       "id": "ifc808af9",
@@ -687,46 +725,8 @@
       "last_seen": "2026-10-26T07:25:10.303959+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": "NEW"
-    },
-    {
-      "id": "i7f717bd5",
-      "title": "‘부캉이’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "부캉이"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 85.27,
-      "peak_score": 75.8,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "루리웹"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 30,
-          "title": "부캉이 근황",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473198&_dcbest=1&page=1",
-          "score": 66.8
-        },
-        {
-          "source": "루리웹",
-          "rank": 84,
-          "title": "부캉이 임티 무료배포",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77158651?m=humor_only&t=now",
-          "score": 54.91
-        }
-      ],
-      "first_seen": "2026-10-03T12:47:13.694231+09:00",
-      "last_seen": "2026-10-26T07:25:10.303959+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 8,
-      "change": "NEW"
+      "change": -1
     },
     {
       "id": "ife021da2",
@@ -764,7 +764,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 9,
-      "change": -4
+      "change": 0
     },
     {
       "id": "i541bb1e1",
@@ -806,112 +806,10 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 10,
-      "change": -4
+      "change": 0
     }
   ],
   "realtime_issues": [
-    {
-      "id": "i9f5e1ed4",
-      "title": "‘인스타’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "인스타"
-      ],
-      "source_count": 2,
-      "post_count": 4,
-      "score": 77.58,
-      "peak_score": 77.58,
-      "appearances": 1,
-      "sources": [
-        "뽐뿌",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 33,
-          "title": "몸매굿걸 ㅡ 갸니 인스타",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2744985",
-          "score": 66.58
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 94,
-          "title": "김지원 인스타 테러시작한 극우들.jpg",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10164959",
-          "score": 52.08
-        }
-      ],
-      "rank": 1,
-      "change": "NEW"
-    },
-    {
-      "id": "i6518b9ba",
-      "title": "‘김지원’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "김지원"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 85.68,
-      "peak_score": 85.68,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 10,
-          "title": "김지원 얼굴 믿고 셀카 못찍는ㅅㅌ일줄알앗는데...",
-          "url": "https://theqoo.net/hot/4386412020",
-          "score": 76.68
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 94,
-          "title": "김지원 인스타 테러시작한 극우들.jpg",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10164959",
-          "score": 52.08
-        }
-      ],
-      "rank": 2,
-      "change": "NEW"
-    },
-    {
-      "id": "ifc808af9",
-      "title": "‘메가커피’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "메가커피"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 76.32,
-      "peak_score": 76.32,
-      "appearances": 1,
-      "sources": [
-        "루리웹",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 28,
-          "title": "[네이버쇼핑] 메가커피 아메리카노 22%+멤버십 추가 할인 (10/26)",
-          "url": "https://bbs.ruliweb.com/market/board/1020/read/108329",
-          "score": 67.32
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 29,
-          "title": "[네이버](네멤) 메가커피 아아 1,410원, 뜨아 1,190원 (다양/무료)",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=742953",
-          "score": 66.82
-        }
-      ],
-      "rank": 3,
-      "change": "NEW"
-    },
     {
       "id": "i7f717bd5",
       "title": "‘부캉이’ 관련 글이 여러 커뮤니티에서 화제",
@@ -920,8 +818,8 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 75.8,
-      "peak_score": 75.8,
+      "score": 76.48,
+      "peak_score": 76.48,
       "appearances": 1,
       "sources": [
         "디시인사이드",
@@ -930,32 +828,32 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 30,
+          "rank": 28,
           "title": "부캉이 근황",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473198&_dcbest=1&page=1",
-          "score": 66.8
+          "score": 67.48
         },
         {
           "source": "루리웹",
-          "rank": 84,
+          "rank": 61,
           "title": "부캉이 임티 무료배포",
           "url": "https://bbs.ruliweb.com/best/board/300143/read/77158651?m=humor_only&t=now",
-          "score": 54.91
+          "score": 59.85
         }
       ],
-      "rank": 4,
-      "change": "NEW"
+      "rank": 1,
+      "change": 3
     }
   ],
   "keywords": [
     {
-      "keyword": "인스타",
-      "score": 100.39,
-      "post_count": 4,
+      "keyword": "중국",
+      "score": 102.55,
+      "post_count": 2,
       "source_count": 2,
-      "best_rank": 33,
+      "best_rank": 3,
       "sources": [
-        "뽐뿌",
+        "루리웹",
         "인벤"
       ],
       "aliases": [],
@@ -963,39 +861,39 @@
       "change": "NEW"
     },
     {
-      "keyword": "일본",
-      "score": 100.07,
+      "keyword": "지지율",
+      "score": 100.67,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 5,
+      "sources": [
+        "뽐뿌",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 2,
+      "change": 1
+    },
+    {
+      "keyword": "한국",
+      "score": 99.78,
       "post_count": 2,
       "source_count": 2,
       "best_rank": 1,
       "sources": [
-        "디시인사이드",
+        "더쿠",
         "루리웹"
-      ],
-      "aliases": [],
-      "rank": 2,
-      "change": 0
-    },
-    {
-      "keyword": "지지율",
-      "score": 99.87,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 6,
-      "sources": [
-        "뽐뿌",
-        "인벤"
       ],
       "aliases": [],
       "rank": 3,
       "change": "NEW"
     },
     {
-      "keyword": "메가커피",
-      "score": 94.18,
-      "post_count": 2,
+      "keyword": "무료",
+      "score": 93.48,
+      "post_count": 3,
       "source_count": 2,
-      "best_rank": 28,
+      "best_rank": 31,
       "sources": [
         "루리웹",
         "뽐뿌"
@@ -1005,138 +903,150 @@
       "change": "NEW"
     },
     {
-      "keyword": "김지원",
-      "score": 91.29,
+      "keyword": "후기",
+      "score": 89.67,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 10,
+      "best_rank": 13,
       "sources": [
-        "더쿠",
-        "뽐뿌"
+        "디시인사이드",
+        "인벤"
       ],
       "aliases": [],
       "rank": 5,
-      "change": "NEW"
+      "change": 3
     },
     {
-      "keyword": "듀오",
-      "score": 89.96,
+      "keyword": "부캉",
+      "score": 89.39,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 16,
+      "best_rank": 28,
       "sources": [
-        "루리웹",
-        "클리앙"
+        "디시인사이드",
+        "루리웹"
       ],
       "aliases": [],
       "rank": 6,
-      "change": -3
+      "change": 3
     },
     {
       "keyword": "ai",
-      "score": 89.71,
+      "score": 88.27,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 21,
+      "best_rank": 29,
       "sources": [
         "디시인사이드",
         "클리앙"
       ],
       "aliases": [],
       "rank": 7,
-      "change": -3
+      "change": 0
     },
     {
-      "keyword": "후기",
-      "score": 89.3,
+      "keyword": "듀오",
+      "score": 86.44,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 14,
+      "best_rank": 20,
       "sources": [
-        "디시인사이드",
-        "인벤"
+        "루리웹",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 8,
-      "change": "NEW"
+      "change": -2
     },
     {
-      "keyword": "부캉",
-      "score": 85.6,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 30,
+      "keyword": "인스타",
+      "score": 80.56,
+      "post_count": 3,
+      "source_count": 1,
+      "best_rank": 15,
       "sources": [
-        "디시인사이드",
-        "루리웹"
+        "인벤"
       ],
       "aliases": [],
       "rank": 9,
-      "change": "NEW"
+      "change": -8
     },
     {
       "keyword": "존나",
-      "score": 78.79,
+      "score": 76.65,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 70,
+      "best_rank": 75,
       "sources": [
         "디시인사이드",
         "루리웹"
       ],
       "aliases": [],
       "rank": 10,
+      "change": 0
+    },
+    {
+      "keyword": "애플",
+      "score": 64.65,
+      "post_count": 3,
+      "source_count": 1,
+      "best_rank": 58,
+      "sources": [
+        "루리웹"
+      ],
+      "aliases": [],
+      "rank": 11,
       "change": "NEW"
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "의외로 일본 유저들은 잘 모르긴 함",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77158242?m=humor",
-      "score": 95.09,
-      "views": 13823,
-      "comments": 52
+      "title": "한국-한국인이란 괴명칭에 대한 한국계 외신 기자의 반응",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77157915?m=humor",
+      "score": 93.84,
+      "views": 20043,
+      "comments": 62
     },
     {
       "source": "더쿠",
       "title": "회사 점심시간에 머리자르고 오는거 폐급임?",
       "url": "https://theqoo.net/hot/4386445214",
       "score": 89.0,
-      "views": 49212,
-      "comments": 593
-    },
-    {
-      "source": "클리앙",
-      "title": "올 상반기 초중고생 자살 112명...",
-      "url": "https://www.clien.net/service/board/park/19282643?od=T31&po=0&category=0&groupCd=",
-      "score": 82.12,
-      "views": 3773,
-      "comments": 10
+      "views": 50112,
+      "comments": 608
     },
     {
       "source": "뽐뿌",
       "title": "이재명 대통령의 지지율이 빠지니까 2찍이들이 아주 정신을 못차리네요",
       "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10164802",
-      "score": 81.75,
-      "views": 5326,
-      "comments": 34
+      "score": 81.29,
+      "views": 5727,
+      "comments": 38
     },
     {
       "source": "인벤",
       "title": "고민되는선택",
       "url": "https://www.inven.co.kr/board/webzine/2097/2744978",
       "score": 81.05,
-      "views": 2417,
+      "views": 2465,
       "comments": 18
+    },
+    {
+      "source": "클리앙",
+      "title": "올 상반기 초중고생 자살 112명...",
+      "url": "https://www.clien.net/service/board/park/19282643?od=T31&po=0&category=0&groupCd=",
+      "score": 80.94,
+      "views": 3916,
+      "comments": 10
     },
     {
       "source": "디시인사이드",
       "title": "안싱글벙글 심각한 결함터진 현기차근황",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473182&_dcbest=1&page=1",
       "score": 76.48,
-      "views": 17460,
-      "comments": 154
+      "views": 17634,
+      "comments": 155
     }
   ]
 }

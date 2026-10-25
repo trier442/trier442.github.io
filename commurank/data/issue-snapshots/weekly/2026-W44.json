@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W44",
   "label": "2026.10.26 ~ 11.01",
-  "collected_at": "2026-10-26T07:25:10.303959+09:00",
+  "collected_at": "2026-10-26T07:29:05.127399+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -159,7 +159,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 4,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i9f5e1ed4",
@@ -197,7 +197,45 @@
       "latest_source_count": 2,
       "latest_post_count": 4,
       "rank": 5,
-      "change": "NEW"
+      "change": 0
+    },
+    {
+      "id": "i7f717bd5",
+      "title": "‘부캉이’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "부캉이"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 87.97,
+      "peak_score": 76.48,
+      "appearances": 2,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 28,
+          "title": "부캉이 근황",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473198&_dcbest=1&page=1",
+          "score": 67.48
+        },
+        {
+          "source": "루리웹",
+          "rank": 61,
+          "title": "부캉이 임티 무료배포",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77158651?m=humor_only&t=now",
+          "score": 59.85
+        }
+      ],
+      "first_seen": "2026-10-03T12:47:13.694231+09:00",
+      "last_seen": "2026-10-26T07:29:05.127399+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 6,
+      "change": 2
     },
     {
       "id": "i3eced5eb",
@@ -234,8 +272,8 @@
       "last_seen": "2026-10-26T04:55:56.119921+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
-      "change": -2
+      "rank": 7,
+      "change": -1
     },
     {
       "id": "ifc808af9",
@@ -272,46 +310,8 @@
       "last_seen": "2026-10-26T07:25:10.303959+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": "NEW"
-    },
-    {
-      "id": "i7f717bd5",
-      "title": "‘부캉이’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "부캉이"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 85.27,
-      "peak_score": 75.8,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "루리웹"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 30,
-          "title": "부캉이 근황",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473198&_dcbest=1&page=1",
-          "score": 66.8
-        },
-        {
-          "source": "루리웹",
-          "rank": 84,
-          "title": "부캉이 임티 무료배포",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77158651?m=humor_only&t=now",
-          "score": 54.91
-        }
-      ],
-      "first_seen": "2026-10-03T12:47:13.694231+09:00",
-      "last_seen": "2026-10-26T07:25:10.303959+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 8,
-      "change": "NEW"
+      "change": -1
     },
     {
       "id": "ife021da2",
@@ -349,7 +349,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 9,
-      "change": -4
+      "change": 0
     },
     {
       "id": "i541bb1e1",
@@ -391,7 +391,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 10,
-      "change": -4
+      "change": 0
     }
   ]
 }

@@ -4,7 +4,7 @@
     "i7f717bd5": {
       "id": "i7f717bd5",
       "first_seen": "2026-10-03T12:47:13.694231+09:00",
-      "last_seen": "2026-10-26T07:25:10.303959+09:00",
+      "last_seen": "2026-10-26T07:29:05.127399+09:00",
       "title": "‘부캉이’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
         "부캉이"
@@ -141,22 +141,36 @@
             "https://gall.dcinside.com/board/view/?id=dcbest&no=473198&_dcbest=1&page=1",
             "https://bbs.ruliweb.com/best/board/300143/read/77158651?m=humor_only&t=now"
           ]
+        },
+        {
+          "at": "2026-10-26T07:29:05.127399+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 76.48,
+          "sources": [
+            "디시인사이드",
+            "루리웹"
+          ],
+          "post_urls": [
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=473198&_dcbest=1&page=1",
+            "https://bbs.ruliweb.com/best/board/300143/read/77158651?m=humor_only&t=now"
+          ]
         }
       ],
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 30,
+          "rank": 28,
           "title": "부캉이 근황",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473198&_dcbest=1&page=1",
-          "score": 66.8
+          "score": 67.48
         },
         {
           "source": "루리웹",
-          "rank": 84,
+          "rank": 61,
           "title": "부캉이 임티 무료배포",
           "url": "https://bbs.ruliweb.com/best/board/300143/read/77158651?m=humor_only&t=now",
-          "score": 54.91
+          "score": 59.85
         }
       ]
     },
@@ -32768,5 +32782,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-26T07:25:10.303959+09:00"
+  "updated_at": "2026-10-26T07:29:05.127399+09:00"
 }
