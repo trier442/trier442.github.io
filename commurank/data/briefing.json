@@ -2,19 +2,19 @@
   "version": 1,
   "date": "2026-10-27",
   "label": "2026년 10월 27일",
-  "collected_at": "2026-10-27T02:37:23.425395+09:00",
+  "collected_at": "2026-10-27T06:51:21.487617+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘‘좋아하는’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #한국. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘‘좋아하는’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #인스타. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 6,
     "cached_sources": 0,
     "realtime_posts": 100,
     "daily_posts": 100,
-    "daily_issues": 5,
-    "keywords": 13,
-    "top100_views": 852226,
-    "top100_comments": 8574
+    "daily_issues": 8,
+    "keywords": 15,
+    "top100_views": 988827,
+    "top100_comments": 9098
   },
   "highlights": [
     {
@@ -31,9 +31,9 @@
     },
     {
       "type": "keyword",
-      "title": "#한국",
-      "text": "3개 커뮤니티 · 4개 인기글에서 함께 등장했습니다.",
-      "keyword": "한국"
+      "title": "#인스타",
+      "text": "2개 커뮤니티 · 7개 인기글에서 함께 등장했습니다.",
+      "keyword": "인스타"
     }
   ],
   "top_posts": [
@@ -49,11 +49,11 @@
       "max_likes": 414,
       "max_comments": 107,
       "appearances": 1,
-      "score": 108.35,
+      "score": 107.99,
       "views": 14130,
       "likes": 414,
       "comments": 107,
-      "change": "NEW"
+      "change": 0
     },
     {
       "title": "레딧에서 핫했던 한국 교통사고",
@@ -67,11 +67,29 @@
       "max_likes": 78,
       "max_comments": 75,
       "appearances": 2,
-      "score": 108.32,
+      "score": 107.96,
       "views": 19433,
       "likes": 78,
       "comments": 75,
-      "change": -1
+      "change": 0
+    },
+    {
+      "title": "게시판끼리 분쟁 일으키지 마세요 ㅇㅇ",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77169409?m=humor",
+      "first_seen": "2026-10-27T06:51:21.487617+09:00",
+      "last_seen": "2026-10-27T06:51:21.487617+09:00",
+      "peak_score": 97.71,
+      "max_views": 9145,
+      "max_likes": 154,
+      "max_comments": 58,
+      "appearances": 1,
+      "score": 107.1,
+      "views": 9145,
+      "likes": 154,
+      "comments": 58,
+      "change": "NEW"
     },
     {
       "title": "성별을 선택해주세요",
@@ -85,11 +103,29 @@
       "max_likes": 62,
       "max_comments": 76,
       "appearances": 1,
-      "score": 103.9,
+      "score": 103.55,
       "views": 12380,
       "likes": 62,
       "comments": 76,
       "change": -1
+    },
+    {
+      "title": "음습하게 이런 거나 보내니까 빡치지",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77169893?m=humor",
+      "first_seen": "2026-10-27T06:51:21.487617+09:00",
+      "last_seen": "2026-10-27T06:51:21.487617+09:00",
+      "peak_score": 93.42,
+      "max_views": 8375,
+      "max_likes": 161,
+      "max_comments": 54,
+      "appearances": 1,
+      "score": 102.81,
+      "views": 8375,
+      "likes": 161,
+      "comments": 54,
+      "change": "NEW"
     },
     {
       "title": "중기사) 이 작품에서 마음에 드는게",
@@ -103,11 +139,29 @@
       "max_likes": 71,
       "max_comments": 68,
       "appearances": 1,
-      "score": 101.55,
+      "score": 101.2,
       "views": 7218,
       "likes": 71,
       "comments": 68,
-      "change": -1
+      "change": -2
+    },
+    {
+      "title": "필스너 우르켈,코젤 맥주 근황",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77170343?m=humor",
+      "first_seen": "2026-10-27T06:51:21.487617+09:00",
+      "last_seen": "2026-10-27T06:51:21.487617+09:00",
+      "peak_score": 91.19,
+      "max_views": 7458,
+      "max_likes": 51,
+      "max_comments": 53,
+      "appearances": 1,
+      "score": 100.58,
+      "views": 7458,
+      "likes": 51,
+      "comments": 53,
+      "change": "NEW"
     },
     {
       "title": "남자 취미 인식 지도",
@@ -121,11 +175,11 @@
       "max_likes": 49,
       "max_comments": 81,
       "appearances": 1,
-      "score": 99.06,
+      "score": 98.7,
       "views": 13711,
       "likes": 49,
       "comments": 81,
-      "change": "NEW"
+      "change": -3
     },
     {
       "title": "난리난 애플 근황 ㄷㄷ..jpg",
@@ -133,261 +187,147 @@
       "category": "이슈",
       "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10166459",
       "first_seen": "2026-10-27T02:31:17.691735+09:00",
-      "last_seen": "2026-10-27T02:37:23.425395+09:00",
+      "last_seen": "2026-10-27T06:51:21.487617+09:00",
       "peak_score": 86.55,
-      "max_views": 25530,
-      "max_likes": 4,
-      "max_comments": 75,
-      "appearances": 2,
-      "score": 96.75,
-      "views": 25530,
-      "likes": 4,
-      "comments": 75,
-      "change": -2
-    },
-    {
-      "title": "70대 사장 절규에도 식당 정보 노출한 전현무계획.jpg",
-      "source": "디시인사이드",
-      "category": "이슈",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473329&_dcbest=1&page=1",
-      "first_seen": "2026-10-26T20:22:14.887585+09:00",
-      "last_seen": "2026-10-27T02:37:23.425395+09:00",
-      "peak_score": 80.46,
-      "max_views": 38095,
-      "max_likes": 491,
-      "max_comments": 609,
-      "appearances": 4,
-      "score": 91.68,
-      "views": 38095,
-      "likes": 491,
-      "comments": 609,
-      "change": -2
-    },
-    {
-      "title": "[네이버페이] 르무통 15원 받으세요",
-      "source": "뽐뿌",
-      "category": "이슈",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=120039",
-      "first_seen": "2026-10-27T02:31:17.691735+09:00",
-      "last_seen": "2026-10-27T02:37:23.425395+09:00",
-      "peak_score": 80.71,
-      "max_views": 9325,
-      "max_likes": 56,
-      "max_comments": 11,
-      "appearances": 2,
-      "score": 90.91,
-      "views": 9325,
-      "likes": 56,
-      "comments": 11,
-      "change": -1
-    },
-    {
-      "title": "내가 진짜 궁금해서 그러는데 술 안좋아하는 사람들은",
-      "source": "더쿠",
-      "category": "유머",
-      "url": "https://theqoo.net/hot/4387195255",
-      "first_seen": "2026-10-26T20:22:14.887585+09:00",
-      "last_seen": "2026-10-27T02:37:23.425395+09:00",
-      "peak_score": 79.34,
-      "max_views": 75612,
-      "max_likes": 0,
-      "max_comments": 1532,
-      "appearances": 4,
-      "score": 90.56,
-      "views": 75612,
-      "likes": 0,
-      "comments": 1532,
+      "max_views": 40622,
+      "max_likes": 6,
+      "max_comments": 92,
+      "appearances": 3,
+      "score": 97.32,
+      "views": 40622,
+      "likes": 6,
+      "comments": 92,
       "change": -3
     },
     {
-      "title": "싱글벙글 요즘 싸움 터지는 트위터 근황",
-      "source": "디시인사이드",
+      "title": "룰라 당선 소감이 누구 들으라는 것 같네",
+      "source": "뽐뿌",
       "category": "이슈",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473354&_dcbest=1&page=1",
-      "first_seen": "2026-10-26T20:22:14.887585+09:00",
-      "last_seen": "2026-10-27T02:37:23.425395+09:00",
-      "peak_score": 78.81,
-      "max_views": 38164,
-      "max_likes": 268,
-      "max_comments": 181,
-      "appearances": 4,
-      "score": 90.03,
-      "views": 38164,
-      "likes": 268,
-      "comments": 181,
-      "change": -2
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10166597",
+      "first_seen": "2026-10-27T06:51:21.487617+09:00",
+      "last_seen": "2026-10-27T06:51:21.487617+09:00",
+      "peak_score": 83.43,
+      "max_views": 12070,
+      "max_likes": 92,
+      "max_comments": 27,
+      "appearances": 1,
+      "score": 92.82,
+      "views": 12070,
+      "likes": 92,
+      "comments": 27,
+      "change": "NEW"
     }
   ],
   "rising": [
     {
-      "source": "인벤",
-      "title": "잘생긴 남자랑 소개팅한 여자의 후기",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2745411",
-      "category": "유머",
-      "views": 2297,
-      "likes": 0,
-      "comments": 5,
-      "score": 63.99,
+      "source": "뽐뿌",
+      "title": "[네이버페이] 르무통 15원 받으세요",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=120039",
+      "category": "이슈",
+      "views": 10984,
+      "likes": 65,
+      "comments": 15,
+      "score": 52.44,
       "change": 0,
-      "current_rank": 37,
+      "current_rank": 92,
       "new_entry": false,
-      "delta_views": 64,
-      "delta_likes": 0,
-      "delta_comments": 0,
+      "delta_views": 1659,
+      "delta_likes": 9,
+      "delta_comments": 4,
       "rank_gain": 0,
-      "rising_score": 97.92,
+      "rising_score": 100.0,
       "rising_rank": 1,
-      "window_minutes": 6
-    },
-    {
-      "source": "클리앙",
-      "title": "주식반등하나요?",
-      "url": "https://www.clien.net/service/board/park/19283144?od=T31&po=0&category=0&groupCd=",
-      "category": "이슈",
-      "views": 95,
-      "likes": 0,
-      "comments": 0,
-      "score": 60.67,
-      "change": 0,
-      "current_rank": 58,
-      "new_entry": false,
-      "delta_views": 88,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 96.43,
-      "rising_rank": 2,
-      "window_minutes": 6
-    },
-    {
-      "source": "루리웹",
-      "title": "음습하게 이런 거나 보내니까 빡치지",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77169893?m=humor_only&t=now",
-      "category": "이슈",
-      "views": 2365,
-      "likes": 90,
-      "comments": 28,
-      "score": 74.16,
-      "change": 70,
-      "current_rank": 8,
-      "new_entry": false,
-      "delta_views": 2219,
-      "delta_likes": 70,
-      "delta_comments": 27,
-      "rank_gain": 70,
-      "rising_score": 94.5,
-      "rising_rank": 3,
-      "window_minutes": 6
-    },
-    {
-      "source": "클리앙",
-      "title": "상황이 점점 나빠지네요.",
-      "url": "https://www.clien.net/service/board/park/19283135?od=T31&po=0&category=0&groupCd=",
-      "category": "이슈",
-      "views": 1229,
-      "likes": 0,
-      "comments": 5,
-      "score": 68.23,
-      "change": 0,
-      "current_rank": 22,
-      "new_entry": false,
-      "delta_views": 73,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 89.29,
-      "rising_rank": 4,
-      "window_minutes": 6
-    },
-    {
-      "source": "디시인사이드",
-      "title": "싱글벙글 일본 황실 보물창고에 있는 바둑판...jpg",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473432&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 3284,
-      "likes": 19,
-      "comments": 57,
-      "score": 63.13,
-      "change": 0,
-      "current_rank": 41,
-      "new_entry": false,
-      "delta_views": 284,
-      "delta_likes": 3,
-      "delta_comments": 6,
-      "rank_gain": 0,
-      "rising_score": 88.57,
-      "rising_rank": 5,
-      "window_minutes": 6
-    },
-    {
-      "source": "인벤",
-      "title": "외국 북한식당 탈북 레전드",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2745410",
-      "category": "유머",
-      "views": 1682,
-      "likes": 0,
-      "comments": 3,
-      "score": 55.16,
-      "change": 3,
-      "current_rank": 80,
-      "new_entry": false,
-      "delta_views": 49,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 3,
-      "rising_score": 87.45,
-      "rising_rank": 6,
-      "window_minutes": 6
+      "window_minutes": 254
     },
     {
       "source": "인벤",
       "title": "길 잘못 들어서 고속도로에서 후진하던 김여사",
       "url": "https://www.inven.co.kr/board/webzine/2097/2745427",
       "category": "이슈",
-      "views": 967,
+      "views": 3385,
       "likes": 0,
       "comments": 2,
-      "score": 66.77,
+      "score": 55.9,
       "change": 0,
-      "current_rank": 25,
+      "current_rank": 78,
       "new_entry": false,
-      "delta_views": 45,
+      "delta_views": 2418,
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 85.42,
-      "rising_rank": 7,
-      "window_minutes": 6
+      "rising_score": 92.86,
+      "rising_rank": 2,
+      "window_minutes": 254
     },
     {
-      "source": "더쿠",
-      "title": "남편 성이 '계'씨라 아기 이름 짓기 빡센 상황",
-      "url": "https://theqoo.net/hot/4387573585",
+      "source": "디시인사이드",
+      "title": "ㅇㅎ)20달러에 얼굴에 크림파이 가능한가요???",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473430&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 4194,
-      "likes": 0,
-      "comments": 127,
-      "score": 66.0,
-      "change": 1,
-      "current_rank": 26,
+      "views": 15125,
+      "likes": 75,
+      "comments": 129,
+      "score": 76.3,
+      "change": 18,
+      "current_rank": 9,
       "new_entry": false,
-      "delta_views": 767,
-      "delta_likes": 0,
-      "delta_comments": 13,
-      "rank_gain": 1,
-      "rising_score": 85.0,
-      "rising_rank": 8,
-      "window_minutes": 6
+      "delta_views": 11060,
+      "delta_likes": 47,
+      "delta_comments": 64,
+      "rank_gain": 18,
+      "rising_score": 90.13,
+      "rising_rank": 3,
+      "window_minutes": 254
+    },
+    {
+      "source": "디시인사이드",
+      "title": "싱글벙글 일본 황실 보물창고에 있는 바둑판...jpg",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473432&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 11134,
+      "likes": 64,
+      "comments": 150,
+      "score": 75.78,
+      "change": 31,
+      "current_rank": 10,
+      "new_entry": false,
+      "delta_views": 7850,
+      "delta_likes": 45,
+      "delta_comments": 93,
+      "rank_gain": 31,
+      "rising_score": 89.08,
+      "rising_rank": 4,
+      "window_minutes": 254
+    },
+    {
+      "source": "디시인사이드",
+      "title": "일본에서의 문신충 취급",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473406&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 16018,
+      "likes": 260,
+      "comments": 296,
+      "score": 74.52,
+      "change": 0,
+      "current_rank": 11,
+      "new_entry": false,
+      "delta_views": 4641,
+      "delta_likes": 70,
+      "delta_comments": 45,
+      "rank_gain": 0,
+      "rising_score": 84.3,
+      "rising_rank": 5,
+      "window_minutes": 254
     },
     {
       "source": "루리웹",
-      "title": "조선 요괴 100가지를 그린 사람.jpg (스압주의)",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77167469?m=humor",
+      "title": "게시판끼리 분쟁 일으키지 마세요 ㅇㅇ",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77169409?m=humor",
       "category": "이슈",
-      "views": 14130,
-      "likes": 414,
-      "comments": 107,
-      "score": 98.96,
+      "views": 9145,
+      "likes": 154,
+      "comments": 58,
+      "score": 97.71,
       "change": "NEW",
       "current_rank": 1,
       "new_entry": true,
@@ -395,29 +335,89 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 83.56,
-      "rising_rank": 9,
-      "window_minutes": 6
+      "rising_score": 83.04,
+      "rising_rank": 6,
+      "window_minutes": 254
     },
     {
-      "source": "뽐뿌",
-      "title": "(혐)셀프제모 고민 후기",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=problem&no=237675",
+      "source": "디시인사이드",
+      "title": "싱글벙글 다시보는 사장님 패기",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473420&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 6506,
-      "likes": 4,
-      "comments": 44,
-      "score": 71.46,
-      "change": 0,
-      "current_rank": 11,
+      "views": 13232,
+      "likes": 120,
+      "comments": 150,
+      "score": 73.61,
+      "change": 5,
+      "current_rank": 12,
       "new_entry": false,
-      "delta_views": 182,
+      "delta_views": 5999,
+      "delta_likes": 51,
+      "delta_comments": 48,
+      "rank_gain": 5,
+      "rising_score": 81.94,
+      "rising_rank": 7,
+      "window_minutes": 254
+    },
+    {
+      "source": "루리웹",
+      "title": "음습하게 이런 거나 보내니까 빡치지",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77169893?m=humor",
+      "category": "이슈",
+      "views": 8375,
+      "likes": 161,
+      "comments": 54,
+      "score": 93.42,
+      "change": "NEW",
+      "current_rank": 2,
+      "new_entry": true,
+      "delta_views": 0,
       "delta_likes": 0,
-      "delta_comments": 2,
+      "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 83.33,
+      "rising_score": 81.24,
+      "rising_rank": 8,
+      "window_minutes": 254
+    },
+    {
+      "source": "루리웹",
+      "title": "필스너 우르켈,코젤 맥주 근황",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77170343?m=humor",
+      "category": "이슈",
+      "views": 7458,
+      "likes": 51,
+      "comments": 53,
+      "score": 91.19,
+      "change": "NEW",
+      "current_rank": 3,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 80.3,
+      "rising_rank": 9,
+      "window_minutes": 254
+    },
+    {
+      "source": "디시인사이드",
+      "title": "폐교)인터넷에 남은 한민대학교 사진들",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473429&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 8326,
+      "likes": 37,
+      "comments": 121,
+      "score": 66.89,
+      "change": 40,
+      "current_rank": 25,
+      "new_entry": false,
+      "delta_views": 5523,
+      "delta_likes": 27,
+      "delta_comments": 63,
+      "rank_gain": 40,
+      "rising_score": 79.37,
       "rising_rank": 10,
-      "window_minutes": 6
+      "window_minutes": 254
     }
   ],
   "issues": [
@@ -429,9 +429,9 @@
       ],
       "source_count": 3,
       "post_count": 3,
-      "score": 110.33,
+      "score": 111.77,
       "peak_score": 93.84,
-      "appearances": 2,
+      "appearances": 3,
       "sources": [
         "더쿠",
         "디시인사이드",
@@ -440,32 +440,103 @@
       "posts": [
         {
           "source": "더쿠",
-          "rank": 6,
+          "rank": 13,
           "title": "의외로 요즘 여자들이 좋아하는 남자스타일",
           "url": "https://theqoo.net/hot/4387553479",
-          "score": 76.84
+          "score": 72.21
         },
         {
           "source": "디시인사이드",
-          "rank": 45,
+          "rank": 58,
           "title": "블리치를 너무 좋아하는 학원 여자애 (1).manhwa",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473416&_dcbest=1&page=1",
-          "score": 62.0
-        },
-        {
-          "source": "인벤",
-          "rank": 84,
-          "title": "외국인들이 좋아하는 한국의 여유",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2745409",
-          "score": 53.81
+          "score": 60.64
         }
       ],
       "first_seen": "2026-10-13T08:48:40.085192+09:00",
-      "last_seen": "2026-10-27T02:37:23.425395+09:00",
-      "latest_source_count": 3,
-      "latest_post_count": 3,
+      "last_seen": "2026-10-27T06:51:21.487617+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
       "rank": 1,
       "change": 0
+    },
+    {
+      "id": "i9f5e1ed4",
+      "title": "‘인스타’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "인스타"
+      ],
+      "source_count": 2,
+      "post_count": 7,
+      "score": 97.01,
+      "peak_score": 82.54,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 21,
+          "title": "후방 ㅡ 맥심 슬이 인스타",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2745447",
+          "score": 70.54
+        },
+        {
+          "source": "루리웹",
+          "rank": 90,
+          "title": "인스타 댓글보다 터졌네ㅋㅋㅋ",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77170715?m=humor_only&t=now",
+          "score": 52.78
+        }
+      ],
+      "first_seen": "2026-09-29T08:23:09.958029+09:00",
+      "last_seen": "2026-10-27T06:51:21.487617+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 7,
+      "rank": 2,
+      "change": "NEW"
+    },
+    {
+      "id": "i3a4b3f22",
+      "title": "아이폰 듀오 75000번 접고.jpg",
+      "keywords": [
+        "아이폰",
+        "듀오",
+        "75000번"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 96.53,
+      "peak_score": 86.06,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 7,
+          "title": "아이폰 듀오 75000번 접고.jpg",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10166405",
+          "score": 77.06
+        },
+        {
+          "source": "인벤",
+          "rank": 69,
+          "title": "아이폰 듀오 75000번 에 크렉 발생",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2745444",
+          "score": 59.16
+        }
+      ],
+      "first_seen": "2026-10-27T06:51:21.487617+09:00",
+      "last_seen": "2026-10-27T06:51:21.487617+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 3,
+      "rank": 3,
+      "change": "NEW"
     },
     {
       "id": "i14d31b7b",
@@ -502,8 +573,8 @@
       "last_seen": "2026-10-27T02:31:17.691735+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 2,
-      "change": 0
+      "rank": 4,
+      "change": -2
     },
     {
       "id": "i8de84e80",
@@ -542,51 +613,89 @@
       "last_seen": "2026-10-27T02:37:23.425395+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 3,
-      "change": 0
+      "rank": 5,
+      "change": -2
     },
     {
       "id": "i88c0385c",
       "title": "전도연, 한국 첫 오스카 주연상 후보 물망…“파고드는 연기”",
       "keywords": [
-        "물망",
-        "주연상",
-        "전도연",
-        "연기",
         "오스카",
-        "파고드는"
+        "물망",
+        "전도연",
+        "한국",
+        "파고드는",
+        "주연상"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 86.27,
+      "score": 87.71,
       "peak_score": 74.78,
-      "appearances": 2,
+      "appearances": 3,
       "sources": [
         "인벤",
         "클리앙"
       ],
       "posts": [
         {
-          "source": "인벤",
-          "rank": 24,
-          "title": "전도연, 한국 첫 오스카 주연상 후보 물망…“파고드는 연기”",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2745428",
-          "score": 66.78
-        },
-        {
           "source": "클리앙",
-          "rank": 63,
+          "rank": 59,
           "title": "전도연, 한국 첫 오스카 주연상 후보 물망…“파고드는 연기”",
           "url": "https://www.clien.net/service/board/park/19283141?od=T31&po=0&category=0&groupCd=",
-          "score": 59.79
+          "score": 60.62
+        },
+        {
+          "source": "인벤",
+          "rank": 98,
+          "title": "전도연, 한국 첫 오스카 주연상 후보 물망…“파고드는 연기”",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2745428",
+          "score": 50.67
         }
       ],
       "first_seen": "2026-10-27T02:31:17.691735+09:00",
-      "last_seen": "2026-10-27T02:37:23.425395+09:00",
+      "last_seen": "2026-10-27T06:51:21.487617+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 4,
-      "change": 0
+      "rank": 6,
+      "change": -2
+    },
+    {
+      "id": "i5d6688ff",
+      "title": "‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "네이버페이"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 77.66,
+      "peak_score": 68.19,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 68,
+          "title": "[네이버페이] 라방 랜덤 5원",
+          "url": "https://bbs.ruliweb.com/market/board/1020/read/108382",
+          "score": 59.19
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 92,
+          "title": "[네이버페이] 르무통 15원 받으세요",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=120039",
+          "score": 52.44
+        }
+      ],
+      "first_seen": "2026-09-28T07:08:45.324597+09:00",
+      "last_seen": "2026-10-27T06:51:21.487617+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 7,
+      "change": "NEW"
     },
     {
       "id": "i0cdcc665",
@@ -623,104 +732,130 @@
       "last_seen": "2026-10-27T02:37:23.425395+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
-      "change": 0
+      "rank": 8,
+      "change": -3
     }
   ],
   "realtime_issues": [
+    {
+      "id": "i9f5e1ed4",
+      "title": "‘인스타’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "인스타"
+      ],
+      "source_count": 2,
+      "post_count": 7,
+      "score": 82.54,
+      "peak_score": 82.54,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 21,
+          "title": "후방 ㅡ 맥심 슬이 인스타",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2745447",
+          "score": 70.54
+        },
+        {
+          "source": "루리웹",
+          "rank": 90,
+          "title": "인스타 댓글보다 터졌네ㅋㅋㅋ",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77170715?m=humor_only&t=now",
+          "score": 52.78
+        }
+      ],
+      "rank": 1,
+      "change": "NEW"
+    },
+    {
+      "id": "i3a4b3f22",
+      "title": "아이폰 듀오 75000번 접고.jpg",
+      "keywords": [
+        "아이폰",
+        "듀오",
+        "75000번"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 86.06,
+      "peak_score": 86.06,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 7,
+          "title": "아이폰 듀오 75000번 접고.jpg",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10166405",
+          "score": 77.06
+        },
+        {
+          "source": "인벤",
+          "rank": 69,
+          "title": "아이폰 듀오 75000번 에 크렉 발생",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2745444",
+          "score": 59.16
+        }
+      ],
+      "rank": 2,
+      "change": "NEW"
+    },
     {
       "id": "ia4c7959d",
       "title": "‘좋아하는’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
         "좋아하는"
       ],
-      "source_count": 3,
-      "post_count": 3,
-      "score": 93.84,
-      "peak_score": 93.84,
+      "source_count": 2,
+      "post_count": 2,
+      "score": 81.21,
+      "peak_score": 81.21,
       "appearances": 1,
       "sources": [
         "더쿠",
-        "디시인사이드",
-        "인벤"
+        "디시인사이드"
       ],
       "posts": [
         {
           "source": "더쿠",
-          "rank": 6,
+          "rank": 13,
           "title": "의외로 요즘 여자들이 좋아하는 남자스타일",
           "url": "https://theqoo.net/hot/4387553479",
-          "score": 76.84
+          "score": 72.21
         },
         {
           "source": "디시인사이드",
-          "rank": 45,
+          "rank": 58,
           "title": "블리치를 너무 좋아하는 학원 여자애 (1).manhwa",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473416&_dcbest=1&page=1",
-          "score": 62.0
-        },
-        {
-          "source": "인벤",
-          "rank": 84,
-          "title": "외국인들이 좋아하는 한국의 여유",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2745409",
-          "score": 53.81
+          "score": 60.64
         }
       ],
-      "rank": 1,
-      "change": 0
-    },
-    {
-      "id": "i8de84e80",
-      "title": "며칠전에 운전하다가 죽을뻔했습니다....",
-      "keywords": [
-        "운전하다가",
-        "며칠전에",
-        "죽을뻔했습니다"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 76.57,
-      "peak_score": 76.57,
-      "appearances": 1,
-      "sources": [
-        "루리웹",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 20,
-          "title": "며칠전에 운전하다가 죽을뻔했습니다....",
-          "url": "https://www.clien.net/service/board/park/19283132?od=T31&po=0&category=0&groupCd=",
-          "score": 68.57
-        },
-        {
-          "source": "루리웹",
-          "rank": 35,
-          "title": "며칠전에 운전하다가 죽을뻔했습니다....",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77169835?m=humor_only&t=now",
-          "score": 64.25
-        }
-      ],
-      "rank": 2,
-      "change": 1
+      "rank": 3,
+      "change": -2
     },
     {
       "id": "i88c0385c",
       "title": "전도연, 한국 첫 오스카 주연상 후보 물망…“파고드는 연기”",
       "keywords": [
-        "물망",
-        "주연상",
-        "전도연",
-        "연기",
         "오스카",
-        "파고드는"
+        "물망",
+        "전도연",
+        "한국",
+        "파고드는",
+        "주연상"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 74.78,
-      "peak_score": 74.78,
+      "score": 68.62,
+      "peak_score": 68.62,
       "appearances": 1,
       "sources": [
         "인벤",
@@ -728,168 +863,249 @@
       ],
       "posts": [
         {
-          "source": "인벤",
-          "rank": 24,
-          "title": "전도연, 한국 첫 오스카 주연상 후보 물망…“파고드는 연기”",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2745428",
-          "score": 66.78
-        },
-        {
           "source": "클리앙",
-          "rank": 63,
+          "rank": 59,
           "title": "전도연, 한국 첫 오스카 주연상 후보 물망…“파고드는 연기”",
           "url": "https://www.clien.net/service/board/park/19283141?od=T31&po=0&category=0&groupCd=",
-          "score": 59.79
-        }
-      ],
-      "rank": 3,
-      "change": 1
-    },
-    {
-      "id": "i0cdcc665",
-      "title": "‘아이폰’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "아이폰"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 65.34,
-      "peak_score": 65.34,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 75,
-          "title": "아이폰 듀오 힌지 생산 업체 입장문",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2745395",
-          "score": 56.34
+          "score": 60.62
         },
         {
-          "source": "더쿠",
-          "rank": 78,
-          "title": "잇섭이 아이폰 듀오를 억쉴, 억빠한게 아닌 이유",
-          "url": "https://theqoo.net/hot/4387461341",
-          "score": 55.58
+          "source": "인벤",
+          "rank": 98,
+          "title": "전도연, 한국 첫 오스카 주연상 후보 물망…“파고드는 연기”",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2745428",
+          "score": 50.67
         }
       ],
       "rank": 4,
-      "change": 1
+      "change": -1
+    },
+    {
+      "id": "i5d6688ff",
+      "title": "‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "네이버페이"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 68.19,
+      "peak_score": 68.19,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 68,
+          "title": "[네이버페이] 라방 랜덤 5원",
+          "url": "https://bbs.ruliweb.com/market/board/1020/read/108382",
+          "score": 59.19
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 92,
+          "title": "[네이버페이] 르무통 15원 받으세요",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=120039",
+          "score": 52.44
+        }
+      ],
+      "rank": 5,
+      "change": "NEW"
     }
   ],
   "keywords": [
     {
-      "keyword": "한국",
-      "score": 133.43,
-      "post_count": 4,
-      "source_count": 3,
-      "best_rank": 2,
+      "keyword": "인스타",
+      "score": 117.06,
+      "post_count": 7,
+      "source_count": 2,
+      "best_rank": 21,
       "sources": [
         "루리웹",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 1,
+      "change": "NEW"
+    },
+    {
+      "keyword": "한국",
+      "score": 116.32,
+      "post_count": 3,
+      "source_count": 3,
+      "best_rank": 15,
+      "sources": [
+        "뽐뿌",
         "인벤",
         "클리앙"
       ],
       "aliases": [],
-      "rank": 1,
-      "change": 0
-    },
-    {
-      "keyword": "좋아하",
-      "score": 123.32,
-      "post_count": 3,
-      "source_count": 3,
-      "best_rank": 6,
-      "sources": [
-        "더쿠",
-        "디시인사이드",
-        "인벤"
-      ],
-      "aliases": [],
       "rank": 2,
-      "change": 0
+      "change": -1
     },
     {
-      "keyword": "후기",
-      "score": 107.42,
+      "keyword": "아이폰",
+      "score": 106.01,
       "post_count": 3,
       "source_count": 2,
+      "best_rank": 7,
+      "sources": [
+        "뽐뿌",
+        "인벤"
+      ],
+      "aliases": [
+        "듀오"
+      ],
+      "rank": 3,
+      "change": 9
+    },
+    {
+      "keyword": "이제",
+      "score": 105.7,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 6,
+      "sources": [
+        "뽐뿌",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 4,
+      "change": 5
+    },
+    {
+      "keyword": "일본",
+      "score": 103.41,
+      "post_count": 2,
+      "source_count": 2,
       "best_rank": 10,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌"
+      ],
+      "aliases": [],
+      "rank": 5,
+      "change": 6
+    },
+    {
+      "keyword": "75000번",
+      "score": 96.74,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 7,
       "sources": [
         "뽐뿌",
         "인벤"
       ],
       "aliases": [],
-      "rank": 3,
-      "change": 0
-    },
-    {
-      "keyword": "상황",
-      "score": 95.27,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 22,
-      "sources": [
-        "더쿠",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 4,
-      "change": 1
-    },
-    {
-      "keyword": "죽을뻔했습니다",
-      "score": 94.23,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 20,
-      "sources": [
-        "루리웹",
-        "클리앙"
-      ],
-      "aliases": [
-        "며칠전",
-        "운전하다"
-      ],
-      "rank": 5,
-      "change": -1
-    },
-    {
-      "keyword": "엄청",
-      "score": 90.47,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 32,
-      "sources": [
-        "디시인사이드",
-        "뽐뿌"
-      ],
-      "aliases": [],
       "rank": 6,
-      "change": 2
+      "change": "NEW"
     },
     {
-      "keyword": "무료",
-      "score": 89.96,
+      "keyword": "작가",
+      "score": 95.31,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 13,
+      "best_rank": 23,
       "sources": [
         "루리웹",
-        "뽐뿌"
+        "인벤"
       ],
       "aliases": [],
       "rank": 7,
       "change": "NEW"
     },
     {
-      "keyword": "전도연",
-      "score": 89.52,
+      "keyword": "좋아하",
+      "score": 94.77,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 24,
+      "best_rank": 13,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "aliases": [],
+      "rank": 8,
+      "change": -6
+    },
+    {
+      "keyword": "상황",
+      "score": 90.76,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 32,
+      "sources": [
+        "더쿠",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 9,
+      "change": -5
+    },
+    {
+      "keyword": "후방",
+      "score": 89.16,
+      "post_count": 6,
+      "source_count": 1,
+      "best_rank": 21,
+      "sources": [
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 10,
+      "change": "NEW"
+    },
+    {
+      "keyword": "만화",
+      "score": 86.18,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 23,
+      "sources": [
+        "루리웹",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 11,
+      "change": "NEW"
+    },
+    {
+      "keyword": "단독",
+      "score": 84.25,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 41,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 12,
+      "change": "NEW"
+    },
+    {
+      "keyword": "최강창민",
+      "score": 81.5,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 39,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "aliases": [],
+      "rank": 13,
+      "change": -3
+    },
+    {
+      "keyword": "전도연",
+      "score": 78.98,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 59,
       "sources": [
         "인벤",
         "클리앙"
@@ -901,128 +1117,71 @@
         "주연상",
         "파고드"
       ],
-      "rank": 8,
-      "change": -1
+      "rank": 14,
+      "change": -6
     },
     {
-      "keyword": "이제",
-      "score": 87.22,
+      "keyword": "네이버페",
+      "score": 78.67,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 16,
+      "best_rank": 68,
       "sources": [
         "루리웹",
-        "클리앙"
+        "뽐뿌"
       ],
       "aliases": [],
-      "rank": 9,
-      "change": 0
-    },
-    {
-      "keyword": "최강창민",
-      "score": 85.02,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 47,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "aliases": [],
-      "rank": 10,
-      "change": 1
-    },
-    {
-      "keyword": "일본",
-      "score": 82.91,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 41,
-      "sources": [
-        "디시인사이드",
-        "루리웹"
-      ],
-      "aliases": [],
-      "rank": 11,
-      "change": -1
-    },
-    {
-      "keyword": "아이폰",
-      "score": 79.55,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 75,
-      "sources": [
-        "더쿠",
-        "인벤"
-      ],
-      "aliases": [
-        "듀오"
-      ],
-      "rank": 12,
-      "change": 0
-    },
-    {
-      "keyword": "북유게",
-      "score": 75.98,
-      "post_count": 4,
-      "source_count": 1,
-      "best_rank": 18,
-      "sources": [
-        "루리웹"
-      ],
-      "aliases": [],
-      "rank": 13,
-      "change": 0
+      "rank": 15,
+      "change": "NEW"
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "조선 요괴 100가지를 그린 사람.jpg (스압주의)",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77167469?m=humor",
-      "score": 98.96,
-      "views": 14130,
-      "comments": 107
+      "title": "게시판끼리 분쟁 일으키지 마세요 ㅇㅇ",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77169409?m=humor",
+      "score": 97.71,
+      "views": 9145,
+      "comments": 58
     },
     {
       "source": "뽐뿌",
-      "title": "난리난 애플 근황 ㄷㄷ..jpg",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10166459",
-      "score": 86.55,
-      "views": 25530,
-      "comments": 75
+      "title": "룰라 당선 소감이 누구 들으라는 것 같네",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10166597",
+      "score": 83.43,
+      "views": 12070,
+      "comments": 27
     },
     {
       "source": "더쿠",
-      "title": "의외로 요즘 여자들이 좋아하는 남자스타일",
-      "url": "https://theqoo.net/hot/4387553479",
-      "score": 76.84,
-      "views": 23016,
-      "comments": 363
-    },
-    {
-      "source": "디시인사이드",
-      "title": "일본에서의 문신충 취급",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473406&_dcbest=1&page=1",
-      "score": 72.62,
-      "views": 11377,
-      "comments": 251
+      "title": "음식장사하면서AI쓰지말라고!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+      "url": "https://theqoo.net/hot/4387596795",
+      "score": 80.0,
+      "views": 22980,
+      "comments": 256
     },
     {
       "source": "클리앙",
       "title": "민주당은 이제 시대 흐름도 잘 못따라가는거 같습니다",
       "url": "https://www.clien.net/service/board/park/19283143?od=T31&po=0&category=0&groupCd=",
-      "score": 69.6,
-      "views": 236,
-      "comments": 7
+      "score": 78.7,
+      "views": 2673,
+      "comments": 25
+    },
+    {
+      "source": "디시인사이드",
+      "title": "ㅇㅎ)20달러에 얼굴에 크림파이 가능한가요???",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473430&_dcbest=1&page=1",
+      "score": 76.3,
+      "views": 15125,
+      "comments": 129
     },
     {
       "source": "인벤",
-      "title": "전도연, 한국 첫 오스카 주연상 후보 물망…“파고드는 연기”",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2745428",
-      "score": 66.78,
-      "views": 521,
+      "title": "후방 ㅡ 맥심 슬이 인스타",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2745447",
+      "score": 70.54,
+      "views": 275,
       "comments": 3
     }
   ]

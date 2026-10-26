@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W44",
   "label": "2026.10.26 ~ 11.01",
-  "collected_at": "2026-10-27T02:37:23.425395+09:00",
+  "collected_at": "2026-10-27T06:51:21.487617+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -87,6 +87,44 @@
       "change": 0
     },
     {
+      "id": "i5d6688ff",
+      "title": "‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "네이버페이"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 112.81,
+      "peak_score": 101.32,
+      "appearances": 2,
+      "sources": [
+        "루리웹",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 68,
+          "title": "[네이버페이] 라방 랜덤 5원",
+          "url": "https://bbs.ruliweb.com/market/board/1020/read/108382",
+          "score": 59.19
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 92,
+          "title": "[네이버페이] 르무통 15원 받으세요",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=120039",
+          "score": 52.44
+        }
+      ],
+      "first_seen": "2026-09-28T07:08:45.324597+09:00",
+      "last_seen": "2026-10-27T06:51:21.487617+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 3,
+      "change": 2
+    },
+    {
       "id": "icf8be3fe",
       "title": "[속보] 브라질 대선 결선투표서 룰라 재선 성공",
       "keywords": [
@@ -140,8 +178,8 @@
       "last_seen": "2026-10-26T09:40:04.280210+09:00",
       "latest_source_count": 3,
       "latest_post_count": 4,
-      "rank": 3,
-      "change": 0
+      "rank": 4,
+      "change": -1
     },
     {
       "id": "i14d31b7b",
@@ -178,46 +216,8 @@
       "last_seen": "2026-10-27T02:31:17.691735+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 4,
-      "change": 0
-    },
-    {
-      "id": "i5d6688ff",
-      "title": "‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "네이버페이"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 110.79,
-      "peak_score": 101.32,
-      "appearances": 1,
-      "sources": [
-        "루리웹",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 4,
-          "title": "[네이버페이] 일일적립, 클릭 569원, 퀴즈미션, 라이브예고 29원",
-          "url": "https://bbs.ruliweb.com/market/board/1020/read/108334",
-          "score": 92.32
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 20,
-          "title": "[네이버페이] 리스테린, 불스원, 닥터지 등 90원 받으세요",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=120002",
-          "score": 71.77
-        }
-      ],
-      "first_seen": "2026-09-28T07:08:45.324597+09:00",
-      "last_seen": "2026-10-26T09:40:04.280210+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 5,
-      "change": 0
+      "change": -1
     },
     {
       "id": "ia4c7959d",
@@ -227,9 +227,9 @@
       ],
       "source_count": 3,
       "post_count": 3,
-      "score": 110.33,
+      "score": 111.77,
       "peak_score": 93.84,
-      "appearances": 2,
+      "appearances": 3,
       "sources": [
         "더쿠",
         "디시인사이드",
@@ -238,30 +238,23 @@
       "posts": [
         {
           "source": "더쿠",
-          "rank": 6,
+          "rank": 13,
           "title": "의외로 요즘 여자들이 좋아하는 남자스타일",
           "url": "https://theqoo.net/hot/4387553479",
-          "score": 76.84
+          "score": 72.21
         },
         {
           "source": "디시인사이드",
-          "rank": 45,
+          "rank": 58,
           "title": "블리치를 너무 좋아하는 학원 여자애 (1).manhwa",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473416&_dcbest=1&page=1",
-          "score": 62.0
-        },
-        {
-          "source": "인벤",
-          "rank": 84,
-          "title": "외국인들이 좋아하는 한국의 여유",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2745409",
-          "score": 53.81
+          "score": 60.64
         }
       ],
       "first_seen": "2026-10-13T08:48:40.085192+09:00",
-      "last_seen": "2026-10-27T02:37:23.425395+09:00",
-      "latest_source_count": 3,
-      "latest_post_count": 3,
+      "last_seen": "2026-10-27T06:51:21.487617+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
       "rank": 6,
       "change": 0
     },
@@ -350,6 +343,45 @@
       "change": 0
     },
     {
+      "id": "i9f5e1ed4",
+      "title": "‘인스타’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "인스타"
+      ],
+      "source_count": 2,
+      "post_count": 7,
+      "score": 99.03,
+      "peak_score": 82.54,
+      "appearances": 2,
+      "sources": [
+        "루리웹",
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 21,
+          "title": "후방 ㅡ 맥심 슬이 인스타",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2745447",
+          "score": 70.54
+        },
+        {
+          "source": "루리웹",
+          "rank": 90,
+          "title": "인스타 댓글보다 터졌네ㅋㅋㅋ",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77170715?m=humor_only&t=now",
+          "score": 52.78
+        }
+      ],
+      "first_seen": "2026-09-29T08:23:09.958029+09:00",
+      "last_seen": "2026-10-27T06:51:21.487617+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 7,
+      "rank": 9,
+      "change": 7
+    },
+    {
       "id": "i6518b9ba",
       "title": "‘김지원’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -385,8 +417,48 @@
       "last_seen": "2026-10-26T09:40:04.280210+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 9,
-      "change": 0
+      "rank": 10,
+      "change": -1
+    },
+    {
+      "id": "i3a4b3f22",
+      "title": "아이폰 듀오 75000번 접고.jpg",
+      "keywords": [
+        "아이폰",
+        "듀오",
+        "75000번"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 96.53,
+      "peak_score": 86.06,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 7,
+          "title": "아이폰 듀오 75000번 접고.jpg",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10166405",
+          "score": 77.06
+        },
+        {
+          "source": "인벤",
+          "rank": 69,
+          "title": "아이폰 듀오 75000번 에 크렉 발생",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2745444",
+          "score": 59.16
+        }
+      ],
+      "first_seen": "2026-10-27T06:51:21.487617+09:00",
+      "last_seen": "2026-10-27T06:51:21.487617+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 3,
+      "rank": 11,
+      "change": "NEW"
     },
     {
       "id": "if8b91d71",
@@ -423,8 +495,8 @@
       "last_seen": "2026-10-26T20:29:29.442912+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 10,
-      "change": 0
+      "rank": 12,
+      "change": -2
     },
     {
       "id": "i738512e2",
@@ -461,8 +533,8 @@
       "last_seen": "2026-10-26T14:27:24.694829+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 11,
-      "change": 0
+      "rank": 13,
+      "change": -2
     },
     {
       "id": "i09d62de3",
@@ -504,8 +576,8 @@
       "last_seen": "2026-10-26T20:29:29.442912+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 12,
-      "change": 0
+      "rank": 14,
+      "change": -2
     },
     {
       "id": "ib3281701",
@@ -542,8 +614,8 @@
       "last_seen": "2026-10-26T09:40:04.280210+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 13,
-      "change": 0
+      "rank": 15,
+      "change": -2
     },
     {
       "id": "i2f0f43fb",
@@ -580,8 +652,8 @@
       "last_seen": "2026-10-26T20:29:29.442912+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 14,
-      "change": 0
+      "rank": 16,
+      "change": -2
     },
     {
       "id": "ia71db4dd",
@@ -621,46 +693,8 @@
       "last_seen": "2026-10-26T20:29:29.442912+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 15,
-      "change": 0
-    },
-    {
-      "id": "i9f5e1ed4",
-      "title": "‘인스타’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "인스타"
-      ],
-      "source_count": 2,
-      "post_count": 4,
-      "score": 89.05,
-      "peak_score": 77.58,
-      "appearances": 1,
-      "sources": [
-        "뽐뿌",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 33,
-          "title": "몸매굿걸 ㅡ 갸니 인스타",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2744985",
-          "score": 66.58
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 94,
-          "title": "김지원 인스타 테러시작한 극우들.jpg",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10164959",
-          "score": 52.08
-        }
-      ],
-      "first_seen": "2026-09-29T08:23:09.958029+09:00",
-      "last_seen": "2026-10-26T07:25:10.303959+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 4,
-      "rank": 16,
-      "change": 0
+      "rank": 17,
+      "change": -2
     },
     {
       "id": "i8de84e80",
@@ -699,8 +733,8 @@
       "last_seen": "2026-10-27T02:37:23.425395+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 17,
-      "change": "NEW"
+      "rank": 18,
+      "change": -1
     },
     {
       "id": "i7f717bd5",
@@ -737,84 +771,51 @@
       "last_seen": "2026-10-26T07:29:05.127399+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 18,
-      "change": -1
-    },
-    {
-      "id": "i3eced5eb",
-      "title": "‘닥터x’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "닥터x"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 87.7,
-      "peak_score": 76.21,
-      "appearances": 2,
-      "sources": [
-        "뽐뿌",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 35,
-          "title": "닥터X 원작 훼손인가",
-          "url": "https://www.clien.net/service/board/park/19282634?od=T31&po=0&category=0&groupCd=",
-          "score": 62.48
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 93,
-          "title": "극우들한테 난리난 닥터X 6화 에피소드",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=movie&no=92039",
-          "score": 51.74
-        }
-      ],
-      "first_seen": "2026-10-24T23:31:45.304331+09:00",
-      "last_seen": "2026-10-26T04:55:56.119921+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 19,
       "change": -1
     },
     {
-      "id": "id6ef1599",
-      "title": "‘심각한’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i88c0385c",
+      "title": "전도연, 한국 첫 오스카 주연상 후보 물망…“파고드는 연기”",
       "keywords": [
-        "심각한"
+        "오스카",
+        "물망",
+        "전도연",
+        "한국",
+        "파고드는",
+        "주연상"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 87.14,
-      "peak_score": 75.65,
-      "appearances": 2,
+      "score": 87.71,
+      "peak_score": 74.78,
+      "appearances": 3,
       "sources": [
-        "디시인사이드",
+        "인벤",
         "클리앙"
       ],
       "posts": [
         {
-          "source": "디시인사이드",
-          "rank": 37,
-          "title": "안싱글벙글 심각한 결함터진 현기차근황",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473182&_dcbest=1&page=1",
-          "score": 65.64
+          "source": "클리앙",
+          "rank": 59,
+          "title": "전도연, 한국 첫 오스카 주연상 후보 물망…“파고드는 연기”",
+          "url": "https://www.clien.net/service/board/park/19283141?od=T31&po=0&category=0&groupCd=",
+          "score": 60.62
         },
         {
-          "source": "클리앙",
-          "rank": 71,
-          "title": "OpenAI 티보는 휴브리스 증후군이 심각한 단계 같습니다",
-          "url": "https://www.clien.net/service/board/park/19282691?od=T31&po=0&category=0&groupCd=",
-          "score": 57.46
+          "source": "인벤",
+          "rank": 98,
+          "title": "전도연, 한국 첫 오스카 주연상 후보 물망…“파고드는 연기”",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2745428",
+          "score": 50.67
         }
       ],
-      "first_seen": "2026-10-26T09:33:54.689544+09:00",
-      "last_seen": "2026-10-26T09:40:04.280210+09:00",
+      "first_seen": "2026-10-27T02:31:17.691735+09:00",
+      "last_seen": "2026-10-27T06:51:21.487617+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 20,
-      "change": -1
+      "change": "NEW"
     }
   ]
 }
