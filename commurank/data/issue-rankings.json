@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-10-27T09:57:53.318174+09:00",
+  "collected_at": "2026-10-27T15:11:02.788061+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -11,37 +11,141 @@
   "rankings": {
     "realtime": [
       {
-        "id": "ife021da2",
-        "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i0cdcc665",
+        "title": "폰 고문으로 유명한 유튜버의 아이폰 듀오 결론",
         "keywords": [
-          "난리난"
+          "듀오",
+          "아이폰"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 107.12,
-        "peak_score": 107.12,
+        "score": 105.71,
+        "peak_score": 105.71,
         "appearances": 1,
         "sources": [
           "루리웹",
-          "인벤"
+          "뽐뿌"
         ],
         "posts": [
           {
             "source": "루리웹",
             "rank": 1,
-            "title": "여초서 반응 난리난 “의외로 요즘 여자들 이상형”.JPG",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77171573?m=humor",
-            "score": 98.12
+            "title": "폰 고문으로 유명한 유튜버의 아이폰 듀오 결론",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77172916?m=humor",
+            "score": 97.71
           },
           {
-            "source": "인벤",
-            "rank": 66,
-            "title": "드라마에 5.18 민주화운동 등장해서 난리난 커뮤니티.jpg",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2745488",
-            "score": 57.55
+            "source": "뽐뿌",
+            "rank": 83,
+            "title": "아이폰 듀오 박살 장면 ㄷㄷ",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=24288",
+            "score": 54.46
           }
         ],
         "rank": 1,
+        "change": 7
+      },
+      {
+        "id": "ifd0be149",
+        "title": "‘나왔다’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "나왔다"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 102.84,
+        "peak_score": 102.84,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "루리웹"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 3,
+            "title": "“대나무 푹 끓였더니 석유가 나왔다!”…이게 말이 된다고?",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77172541?m=humor",
+            "score": 93.84
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 9,
+            "title": "일본 능지 수준 레전드 하나 나왔다",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473507&_dcbest=1&page=1",
+            "score": 76.75
+          }
+        ],
+        "rank": 2,
+        "change": "NEW"
+      },
+      {
+        "id": "iab8c6b74",
+        "title": "현재) 중국 BYD 전기버스 근황 ㄷㄷ.jpg",
+        "keywords": [
+          "전기버스",
+          "byd"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 84.67,
+        "peak_score": 84.67,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 10,
+            "title": "현재) 중국 BYD 전기버스 근황 ㄷㄷ.jpg",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10166970",
+            "score": 76.67
+          },
+          {
+            "source": "인벤",
+            "rank": 46,
+            "title": "중국산 BYD 전기버스 근황",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2745657",
+            "score": 62.06
+          }
+        ],
+        "rank": 3,
+        "change": "NEW"
+      },
+      {
+        "id": "ib4309374",
+        "title": "‘여자들이’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "여자들이"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 72.77,
+        "peak_score": 72.77,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 40,
+            "title": "여자들이 싫어하는 세 가지.jpg",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2745648",
+            "score": 63.77
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 98,
+            "title": "요즘 여자들이 메컵 지우면 현타온다는 이유",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473453&_dcbest=1&page=1",
+            "score": 51.87
+          }
+        ],
+        "rank": 4,
         "change": "NEW"
       },
       {
@@ -52,178 +156,115 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 84.03,
-        "peak_score": 84.03,
+        "score": 70.22,
+        "peak_score": 70.22,
         "appearances": 1,
         "sources": [
-          "뽐뿌",
+          "디시인사이드",
           "인벤"
         ],
         "posts": [
           {
-            "source": "뽐뿌",
-            "rank": 8,
-            "title": "발롱도르) 해리 케인 수상 ㄷ.avi",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10166658",
-            "score": 75.03
+            "source": "디시인사이드",
+            "rank": 50,
+            "title": "[오피셜] 2026 발롱도르 수상자 해리 케인...gif",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473471&_dcbest=1&page=1",
+            "score": 61.22
           },
           {
             "source": "인벤",
-            "rank": 88,
-            "title": "2026 발롱도르 1~10위",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2745491",
-            "score": 53.84
+            "rank": 96,
+            "title": "케인이 수상한 이유는 단순히 늙어서\" 야말 삼촌, 조카 발롱도르 불발에 분노 폭발! \"축구를 좋아한다면 케인 아닌 야말 보러 간다\"",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2745640",
+            "score": 52.21
           }
         ],
-        "rank": 2,
-        "change": "NEW"
+        "rank": 5,
+        "change": -3
       },
       {
-        "id": "i1a0292b7",
-        "title": "‘안되는’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i348b5bff",
+        "title": "‘주진우’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "안되는"
+          "주진우"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 81.49,
-        "peak_score": 81.49,
+        "score": 69.48,
+        "peak_score": 69.48,
         "appearances": 1,
         "sources": [
-          "루리웹",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 13,
-            "title": "군인들은 귀 뚫으면 안되는 이유",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2745502",
-            "score": 72.49
-          },
-          {
-            "source": "루리웹",
-            "rank": 71,
-            "title": "현생드립 치는게 이해 안되는 점",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77172237?m=humor_only&t=now",
-            "score": 56.96
-          }
-        ],
-        "rank": 3,
-        "change": "NEW"
-      },
-      {
-        "id": "i9785fc48",
-        "title": "‘드디어’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "드디어"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 77.84,
-        "peak_score": 77.84,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
+          "디시인사이드",
           "클리앙"
         ],
         "posts": [
           {
-            "source": "더쿠",
-            "rank": 19,
-            "title": "[포토타임] 아기 판다 ‘슈바오’ 드디어 세상 밖으로…30일 첫 일반 공개",
-            "url": "https://theqoo.net/hot/4387692366",
-            "score": 68.84
+            "source": "디시인사이드",
+            "rank": 52,
+            "title": "법사위로 번진 '金여사 골프' 공방…靑 \"허위\", 與·주진우 고발전",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473511&_dcbest=1&page=1",
+            "score": 60.48
           },
           {
             "source": "클리앙",
-            "rank": 60,
-            "title": "드디어 처음으로 제 집을 갖게 되었습니다.",
-            "url": "https://www.clien.net/service/board/park/19283239?od=T31&po=0&category=0&groupCd=",
-            "score": 58.62
-          }
-        ],
-        "rank": 4,
-        "change": "NEW"
-      },
-      {
-        "id": "ie5a2c1ba",
-        "title": "‘아파트’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "아파트"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 74.27,
-        "peak_score": 74.27,
-        "appearances": 1,
-        "sources": [
-          "뽐뿌",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 30,
-            "title": "아파트 단톡방에서 소심하게 본인 의견 피력하는 스레드인",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2745487",
-            "score": 65.27
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 52,
-            "title": "강남 아파트 폭락 중이라네요",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=house&no=259624",
-            "score": 60.14
-          }
-        ],
-        "rank": 5,
-        "change": "NEW"
-      },
-      {
-        "id": "ibe185f25",
-        "title": "‘스토리’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "스토리"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 70.0,
-        "peak_score": 70.0,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "디시인사이드"
-        ],
-        "posts": [
-          {
-            "source": "더쿠",
-            "rank": 49,
-            "title": "손흥민 인스타 스토리",
-            "url": "https://theqoo.net/hot/4387708927",
-            "score": 61.0
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 85,
-            "title": "26년 중고차 갤러리 최고 호구 스토리",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473418&_dcbest=1&page=1",
-            "score": 54.68
+            "rank": 59,
+            "title": "잡담) 검찰 병... 제 버릇 못버린 국힘 주진우 의원",
+            "url": "https://www.clien.net/service/board/park/19283354?od=T31&po=0&category=0&groupCd=",
+            "score": 58.92
           }
         ],
         "rank": 6,
         "change": "NEW"
       },
       {
-        "id": "i22a107c4",
-        "title": "‘맞습니다’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i8538d7ea",
+        "title": "‘싸이월드’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "맞습니다"
+          "싸이월드",
+          "11월"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 68.83,
-        "peak_score": 68.83,
+        "score": 66.84,
+        "peak_score": 66.84,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "더쿠",
+            "rank": 68,
+            "title": "\"ㄱ나니?\" 내 흑역사 다시 열린다…싸이월드, 11월 부활 예고",
+            "url": "https://theqoo.net/hot/4387923086",
+            "score": 57.84
+          },
+          {
+            "source": "인벤",
+            "rank": 75,
+            "title": "싸이월드, 이르면 11월 말 돌아온다…사진첩 복원은 내년 정식 서비스 이후",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2745645",
+            "score": 56.33
+          }
+        ],
+        "rank": 7,
+        "change": "NEW"
+      },
+      {
+        "id": "i1f2e10f7",
+        "title": "임성근 징역 3년 확정…유족 \"원통\"·특검 \"아쉽지만 존중\"",
+        "keywords": [
+          "아쉽지만",
+          "임성근",
+          "원통",
+          "존중",
+          "유족"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 65.78,
+        "peak_score": 65.78,
         "appearances": 1,
         "sources": [
           "인벤",
@@ -232,52 +273,17 @@
         "posts": [
           {
             "source": "인벤",
-            "rank": 55,
-            "title": "한동훈 국회의원님 따님도 의혹이 있다면 동일하게 수사 받아야 맞습니다. / 국회 국감 겸공 스샷",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2745505",
-            "score": 59.83
+            "rank": 69,
+            "title": "임성근 징역 3년 확정…유족 \"원통\"·특검 \"아쉽지만 존중\"",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2745651",
+            "score": 57.78
           },
           {
             "source": "클리앙",
-            "rank": 78,
-            "title": "태릉골프장은 군사시설 맞습니다",
-            "url": "https://www.clien.net/service/board/park/19283206?od=T31&po=0&category=0&groupCd=",
-            "score": 56.06
-          }
-        ],
-        "rank": 7,
-        "change": "NEW"
-      },
-      {
-        "id": "i0cdcc665",
-        "title": "아이폰 듀오 실시간 ㅋㅋ",
-        "keywords": [
-          "듀오",
-          "아이폰"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 66.8,
-        "peak_score": 66.8,
-        "appearances": 1,
-        "sources": [
-          "뽐뿌",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 59,
-            "title": "아이폰 듀오 실시간 ㅋㅋ",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10166572",
-            "score": 58.8
-          },
-          {
-            "source": "클리앙",
-            "rank": 83,
-            "title": "아이폰 듀오 아쉬운점…",
-            "url": "https://www.clien.net/service/board/park/19283213?od=T31&po=0&category=0&groupCd=",
-            "score": 55.25
+            "rank": 99,
+            "title": "임성근 징역 3년 확정…유족 '원통'·특검 '아쉽지만 존중'",
+            "url": "https://www.clien.net/service/board/park/19283353?od=T31&po=0&category=0&groupCd=",
+            "score": 51.67
           }
         ],
         "rank": 8,
@@ -285,6 +291,48 @@
       }
     ],
     "daily": [
+      {
+        "id": "i0cdcc665",
+        "title": "폰 고문으로 유명한 유튜버의 아이폰 듀오 결론",
+        "keywords": [
+          "듀오",
+          "아이폰"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 119.76,
+        "peak_score": 105.71,
+        "appearances": 4,
+        "sources": [
+          "더쿠",
+          "루리웹",
+          "뽐뿌",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 1,
+            "title": "폰 고문으로 유명한 유튜버의 아이폰 듀오 결론",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77172916?m=humor",
+            "score": 97.71
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 83,
+            "title": "아이폰 듀오 박살 장면 ㄷㄷ",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=24288",
+            "score": 54.46
+          }
+        ],
+        "first_seen": "2026-10-17T02:58:12.116264+09:00",
+        "last_seen": "2026-10-27T15:11:02.788061+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 1,
+        "change": 11
+      },
       {
         "id": "ife021da2",
         "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
@@ -320,7 +368,45 @@
         "last_seen": "2026-10-27T09:57:53.318174+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 1,
+        "rank": 2,
+        "change": -1
+      },
+      {
+        "id": "ifd0be149",
+        "title": "‘나왔다’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "나왔다"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 112.31,
+        "peak_score": 102.84,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "루리웹"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 3,
+            "title": "“대나무 푹 끓였더니 석유가 나왔다!”…이게 말이 된다고?",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77172541?m=humor",
+            "score": 93.84
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 9,
+            "title": "일본 능지 수준 레전드 하나 나왔다",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473507&_dcbest=1&page=1",
+            "score": 76.75
+          }
+        ],
+        "first_seen": "2026-10-27T15:11:02.788061+09:00",
+        "last_seen": "2026-10-27T15:11:02.788061+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 3,
         "change": "NEW"
       },
       {
@@ -359,8 +445,8 @@
         "last_seen": "2026-10-27T06:51:21.487617+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 2,
-        "change": -1
+        "rank": 4,
+        "change": -2
       },
       {
         "id": "i9f5e1ed4",
@@ -397,8 +483,8 @@
         "last_seen": "2026-10-27T06:51:21.487617+09:00",
         "latest_source_count": 2,
         "latest_post_count": 7,
-        "rank": 3,
-        "change": -1
+        "rank": 5,
+        "change": -2
       },
       {
         "id": "i3a4b3f22",
@@ -437,8 +523,8 @@
         "last_seen": "2026-10-27T06:51:21.487617+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 4,
-        "change": -1
+        "rank": 6,
+        "change": -2
       },
       {
         "id": "i3cb51073",
@@ -448,8 +534,48 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 93.5,
+        "score": 95.52,
         "peak_score": 84.03,
+        "appearances": 2,
+        "sources": [
+          "디시인사이드",
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 50,
+            "title": "[오피셜] 2026 발롱도르 수상자 해리 케인...gif",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473471&_dcbest=1&page=1",
+            "score": 61.22
+          },
+          {
+            "source": "인벤",
+            "rank": 96,
+            "title": "케인이 수상한 이유는 단순히 늙어서\" 야말 삼촌, 조카 발롱도르 불발에 분노 폭발! \"축구를 좋아한다면 케인 아닌 야말 보러 간다\"",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2745640",
+            "score": 52.21
+          }
+        ],
+        "first_seen": "2026-10-27T09:57:53.318174+09:00",
+        "last_seen": "2026-10-27T15:11:02.788061+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 7,
+        "change": -2
+      },
+      {
+        "id": "iab8c6b74",
+        "title": "현재) 중국 BYD 전기버스 근황 ㄷㄷ.jpg",
+        "keywords": [
+          "전기버스",
+          "byd"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 94.14,
+        "peak_score": 84.67,
         "appearances": 1,
         "sources": [
           "뽐뿌",
@@ -458,24 +584,24 @@
         "posts": [
           {
             "source": "뽐뿌",
-            "rank": 8,
-            "title": "발롱도르) 해리 케인 수상 ㄷ.avi",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10166658",
-            "score": 75.03
+            "rank": 10,
+            "title": "현재) 중국 BYD 전기버스 근황 ㄷㄷ.jpg",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10166970",
+            "score": 76.67
           },
           {
             "source": "인벤",
-            "rank": 88,
-            "title": "2026 발롱도르 1~10위",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2745491",
-            "score": 53.84
+            "rank": 46,
+            "title": "중국산 BYD 전기버스 근황",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2745657",
+            "score": 62.06
           }
         ],
-        "first_seen": "2026-10-27T09:57:53.318174+09:00",
-        "last_seen": "2026-10-27T09:57:53.318174+09:00",
+        "first_seen": "2026-10-27T15:11:02.788061+09:00",
+        "last_seen": "2026-10-27T15:11:02.788061+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 5,
+        "rank": 8,
         "change": "NEW"
       },
       {
@@ -513,8 +639,8 @@
         "last_seen": "2026-10-27T02:31:17.691735+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 6,
-        "change": -2
+        "rank": 9,
+        "change": -3
       },
       {
         "id": "i1a0292b7",
@@ -551,8 +677,8 @@
         "last_seen": "2026-10-27T09:57:53.318174+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 7,
-        "change": "NEW"
+        "rank": 10,
+        "change": -3
       },
       {
         "id": "i8de84e80",
@@ -591,7 +717,7 @@
         "last_seen": "2026-10-27T02:37:23.425395+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 8,
+        "rank": 11,
         "change": -3
       },
       {
@@ -634,7 +760,7 @@
         "last_seen": "2026-10-27T06:51:21.487617+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 9,
+        "rank": 12,
         "change": -3
       },
       {
@@ -672,8 +798,8 @@
         "last_seen": "2026-10-27T09:57:53.318174+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 10,
-        "change": "NEW"
+        "rank": 13,
+        "change": -3
       },
       {
         "id": "ie5a2c1ba",
@@ -710,49 +836,46 @@
         "last_seen": "2026-10-27T09:57:53.318174+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
-        "change": "NEW"
+        "rank": 14,
+        "change": -3
       },
       {
-        "id": "i0cdcc665",
-        "title": "아이폰 듀오 실시간 ㅋㅋ",
+        "id": "ib4309374",
+        "title": "‘여자들이’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "듀오",
-          "아이폰"
+          "여자들이"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 79.73,
-        "peak_score": 66.8,
-        "appearances": 3,
+        "score": 82.24,
+        "peak_score": 72.77,
+        "appearances": 1,
         "sources": [
-          "더쿠",
-          "뽐뿌",
-          "인벤",
-          "클리앙"
+          "디시인사이드",
+          "인벤"
         ],
         "posts": [
           {
-            "source": "뽐뿌",
-            "rank": 59,
-            "title": "아이폰 듀오 실시간 ㅋㅋ",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10166572",
-            "score": 58.8
+            "source": "인벤",
+            "rank": 40,
+            "title": "여자들이 싫어하는 세 가지.jpg",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2745648",
+            "score": 63.77
           },
           {
-            "source": "클리앙",
-            "rank": 83,
-            "title": "아이폰 듀오 아쉬운점…",
-            "url": "https://www.clien.net/service/board/park/19283213?od=T31&po=0&category=0&groupCd=",
-            "score": 55.25
+            "source": "디시인사이드",
+            "rank": 98,
+            "title": "요즘 여자들이 메컵 지우면 현타온다는 이유",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473453&_dcbest=1&page=1",
+            "score": 51.87
           }
         ],
         "first_seen": "2026-10-17T02:58:12.116264+09:00",
-        "last_seen": "2026-10-27T09:57:53.318174+09:00",
+        "last_seen": "2026-10-27T15:11:02.788061+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 12,
-        "change": -4
+        "rank": 15,
+        "change": "NEW"
       },
       {
         "id": "ibe185f25",
@@ -789,7 +912,45 @@
         "last_seen": "2026-10-27T09:57:53.318174+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 13,
+        "rank": 16,
+        "change": -3
+      },
+      {
+        "id": "i348b5bff",
+        "title": "‘주진우’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "주진우"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 78.95,
+        "peak_score": 69.48,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 52,
+            "title": "법사위로 번진 '金여사 골프' 공방…靑 \"허위\", 與·주진우 고발전",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473511&_dcbest=1&page=1",
+            "score": 60.48
+          },
+          {
+            "source": "클리앙",
+            "rank": 59,
+            "title": "잡담) 검찰 병... 제 버릇 못버린 국힘 주진우 의원",
+            "url": "https://www.clien.net/service/board/park/19283354?od=T31&po=0&category=0&groupCd=",
+            "score": 58.92
+          }
+        ],
+        "first_seen": "2026-10-26T20:22:14.887585+09:00",
+        "last_seen": "2026-10-27T15:11:02.788061+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 17,
         "change": "NEW"
       },
       {
@@ -827,8 +988,8 @@
         "last_seen": "2026-10-27T09:57:53.318174+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 14,
-        "change": "NEW"
+        "rank": 18,
+        "change": -4
       },
       {
         "id": "i5d6688ff",
@@ -865,23 +1026,62 @@
         "last_seen": "2026-10-27T06:51:21.487617+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 15,
-        "change": -8
+        "rank": 19,
+        "change": -4
+      },
+      {
+        "id": "i8538d7ea",
+        "title": "‘싸이월드’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "싸이월드",
+          "11월"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 76.31,
+        "peak_score": 66.84,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "더쿠",
+            "rank": 68,
+            "title": "\"ㄱ나니?\" 내 흑역사 다시 열린다…싸이월드, 11월 부활 예고",
+            "url": "https://theqoo.net/hot/4387923086",
+            "score": 57.84
+          },
+          {
+            "source": "인벤",
+            "rank": 75,
+            "title": "싸이월드, 이르면 11월 말 돌아온다…사진첩 복원은 내년 정식 서비스 이후",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2745645",
+            "score": 56.33
+          }
+        ],
+        "first_seen": "2026-10-27T15:11:02.788061+09:00",
+        "last_seen": "2026-10-27T15:11:02.788061+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 20,
+        "change": "NEW"
       }
     ],
     "weekly": [
       {
         "id": "i0cdcc665",
-        "title": "아이폰 듀오 실시간 ㅋㅋ",
+        "title": "폰 고문으로 유명한 유튜버의 아이폰 듀오 결론",
         "keywords": [
           "듀오",
           "아이폰"
         ],
         "source_count": 3,
         "post_count": 6,
-        "score": 137.12,
+        "score": 137.6,
         "peak_score": 111.61,
-        "appearances": 9,
+        "appearances": 10,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -892,22 +1092,22 @@
         ],
         "posts": [
           {
-            "source": "뽐뿌",
-            "rank": 59,
-            "title": "아이폰 듀오 실시간 ㅋㅋ",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10166572",
-            "score": 58.8
+            "source": "루리웹",
+            "rank": 1,
+            "title": "폰 고문으로 유명한 유튜버의 아이폰 듀오 결론",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77172916?m=humor",
+            "score": 97.71
           },
           {
-            "source": "클리앙",
+            "source": "뽐뿌",
             "rank": 83,
-            "title": "아이폰 듀오 아쉬운점…",
-            "url": "https://www.clien.net/service/board/park/19283213?od=T31&po=0&category=0&groupCd=",
-            "score": 55.25
+            "title": "아이폰 듀오 박살 장면 ㄷㄷ",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=24288",
+            "score": 54.46
           }
         ],
         "first_seen": "2026-10-17T02:58:12.116264+09:00",
-        "last_seen": "2026-10-27T09:57:53.318174+09:00",
+        "last_seen": "2026-10-27T15:11:02.788061+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 1,
@@ -951,7 +1151,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 2,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "ifd5a2cc3",
@@ -989,7 +1189,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 3,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i5d6688ff",
@@ -1027,7 +1227,45 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 4,
-        "change": -1
+        "change": 0
+      },
+      {
+        "id": "ifd0be149",
+        "title": "‘나왔다’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "나왔다"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 112.31,
+        "peak_score": 102.84,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "루리웹"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 3,
+            "title": "“대나무 푹 끓였더니 석유가 나왔다!”…이게 말이 된다고?",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77172541?m=humor",
+            "score": 93.84
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 9,
+            "title": "일본 능지 수준 레전드 하나 나왔다",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473507&_dcbest=1&page=1",
+            "score": 76.75
+          }
+        ],
+        "first_seen": "2026-10-27T15:11:02.788061+09:00",
+        "last_seen": "2026-10-27T15:11:02.788061+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 5,
+        "change": "NEW"
       },
       {
         "id": "icf8be3fe",
@@ -1083,7 +1321,7 @@
         "last_seen": "2026-10-26T09:40:04.280210+09:00",
         "latest_source_count": 3,
         "latest_post_count": 4,
-        "rank": 5,
+        "rank": 6,
         "change": -1
       },
       {
@@ -1121,7 +1359,7 @@
         "last_seen": "2026-10-27T02:31:17.691735+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 6,
+        "rank": 7,
         "change": -1
       },
       {
@@ -1160,7 +1398,7 @@
         "last_seen": "2026-10-27T06:51:21.487617+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 7,
+        "rank": 8,
         "change": -1
       },
       {
@@ -1198,7 +1436,7 @@
         "last_seen": "2026-10-26T14:27:24.694829+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 8,
+        "rank": 9,
         "change": -1
       },
       {
@@ -1209,9 +1447,9 @@
         ],
         "source_count": 3,
         "post_count": 3,
-        "score": 102.35,
+        "score": 103.79,
         "peak_score": 85.86,
-        "appearances": 2,
+        "appearances": 3,
         "sources": [
           "디시인사이드",
           "인벤",
@@ -1219,32 +1457,25 @@
         ],
         "posts": [
           {
-            "source": "클리앙",
-            "rank": 25,
-            "title": "리디아 고 반박하자…주진우 ‘황제 레슨’ 주장 영상 편집",
-            "url": "https://www.clien.net/service/board/park/19283030?od=T31&po=0&category=0&groupCd=",
-            "score": 66.09
-          },
-          {
             "source": "디시인사이드",
-            "rank": 36,
-            "title": "청와대 \"주진우 일방 주장 보도 언론에 책임 물을 것\"",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473358&_dcbest=1&page=1",
-            "score": 63.19
+            "rank": 52,
+            "title": "법사위로 번진 '金여사 골프' 공방…靑 \"허위\", 與·주진우 고발전",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473511&_dcbest=1&page=1",
+            "score": 60.48
           },
           {
-            "source": "인벤",
-            "rank": 75,
-            "title": "서영교 법사위원장에게 낚여버린 국힘 주진우 의원 - 진짜 낚인 것 맞습니다. ㅋㅋㅋㅋ",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2745307",
-            "score": 55.64
+            "source": "클리앙",
+            "rank": 59,
+            "title": "잡담) 검찰 병... 제 버릇 못버린 국힘 주진우 의원",
+            "url": "https://www.clien.net/service/board/park/19283354?od=T31&po=0&category=0&groupCd=",
+            "score": 58.92
           }
         ],
         "first_seen": "2026-10-26T20:22:14.887585+09:00",
-        "last_seen": "2026-10-26T20:29:29.442912+09:00",
-        "latest_source_count": 3,
-        "latest_post_count": 3,
-        "rank": 9,
+        "last_seen": "2026-10-27T15:11:02.788061+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 10,
         "change": -1
       },
       {
@@ -1283,7 +1514,7 @@
         "last_seen": "2026-10-27T06:51:21.487617+09:00",
         "latest_source_count": 2,
         "latest_post_count": 7,
-        "rank": 10,
+        "rank": 11,
         "change": -1
       },
       {
@@ -1322,7 +1553,7 @@
         "last_seen": "2026-10-26T09:40:04.280210+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
+        "rank": 12,
         "change": -1
       },
       {
@@ -1362,7 +1593,7 @@
         "last_seen": "2026-10-27T06:51:21.487617+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 12,
+        "rank": 13,
         "change": -1
       },
       {
@@ -1400,7 +1631,7 @@
         "last_seen": "2026-10-26T20:29:29.442912+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 13,
+        "rank": 14,
         "change": -1
       },
       {
@@ -1438,8 +1669,86 @@
         "last_seen": "2026-10-26T14:27:24.694829+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 14,
+        "rank": 15,
         "change": -1
+      },
+      {
+        "id": "i3cb51073",
+        "title": "‘발롱도르’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "발롱도르"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 95.52,
+        "peak_score": 84.03,
+        "appearances": 2,
+        "sources": [
+          "디시인사이드",
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 50,
+            "title": "[오피셜] 2026 발롱도르 수상자 해리 케인...gif",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473471&_dcbest=1&page=1",
+            "score": 61.22
+          },
+          {
+            "source": "인벤",
+            "rank": 96,
+            "title": "케인이 수상한 이유는 단순히 늙어서\" 야말 삼촌, 조카 발롱도르 불발에 분노 폭발! \"축구를 좋아한다면 케인 아닌 야말 보러 간다\"",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2745640",
+            "score": 52.21
+          }
+        ],
+        "first_seen": "2026-10-27T09:57:53.318174+09:00",
+        "last_seen": "2026-10-27T15:11:02.788061+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 16,
+        "change": 1
+      },
+      {
+        "id": "iab8c6b74",
+        "title": "현재) 중국 BYD 전기버스 근황 ㄷㄷ.jpg",
+        "keywords": [
+          "전기버스",
+          "byd"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 94.14,
+        "peak_score": 84.67,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 10,
+            "title": "현재) 중국 BYD 전기버스 근황 ㄷㄷ.jpg",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10166970",
+            "score": 76.67
+          },
+          {
+            "source": "인벤",
+            "rank": 46,
+            "title": "중국산 BYD 전기버스 근황",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2745657",
+            "score": 62.06
+          }
+        ],
+        "first_seen": "2026-10-27T15:11:02.788061+09:00",
+        "last_seen": "2026-10-27T15:11:02.788061+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 17,
+        "change": "NEW"
       },
       {
         "id": "i09d62de3",
@@ -1481,8 +1790,8 @@
         "last_seen": "2026-10-26T20:29:29.442912+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 15,
-        "change": -1
+        "rank": 18,
+        "change": -3
       },
       {
         "id": "ib3281701",
@@ -1519,46 +1828,8 @@
         "last_seen": "2026-10-26T09:40:04.280210+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 16,
-        "change": -1
-      },
-      {
-        "id": "i3cb51073",
-        "title": "‘발롱도르’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "발롱도르"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 93.5,
-        "peak_score": 84.03,
-        "appearances": 1,
-        "sources": [
-          "뽐뿌",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 8,
-            "title": "발롱도르) 해리 케인 수상 ㄷ.avi",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10166658",
-            "score": 75.03
-          },
-          {
-            "source": "인벤",
-            "rank": 88,
-            "title": "2026 발롱도르 1~10위",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2745491",
-            "score": 53.84
-          }
-        ],
-        "first_seen": "2026-10-27T09:57:53.318174+09:00",
-        "last_seen": "2026-10-27T09:57:53.318174+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 17,
-        "change": "NEW"
+        "rank": 19,
+        "change": -3
       },
       {
         "id": "i1a0292b7",
@@ -1595,87 +1866,8 @@
         "last_seen": "2026-10-27T09:57:53.318174+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 18,
-        "change": "NEW"
-      },
-      {
-        "id": "i2f0f43fb",
-        "title": "‘아이폰듀오’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "아이폰듀오"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 89.38,
-        "peak_score": 77.89,
-        "appearances": 2,
-        "sources": [
-          "디시인사이드",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 38,
-            "title": "다른데와 다르게 고장안나서 난리나버린 잇섭 아이폰듀오 라이브 ,",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473348&_dcbest=1&page=1",
-            "score": 62.38
-          },
-          {
-            "source": "클리앙",
-            "rank": 46,
-            "title": "아이폰듀오 난리네요;; 오늘 명동갔는데 깨져서 온 고객만 실시간..",
-            "url": "https://www.clien.net/service/board/park/19283020?od=T31&po=0&category=0&groupCd=",
-            "score": 60.99
-          }
-        ],
-        "first_seen": "2026-10-25T07:02:46.064616+09:00",
-        "last_seen": "2026-10-26T20:29:29.442912+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 19,
-        "change": -3
-      },
-      {
-        "id": "ia71db4dd",
-        "title": "니키 미나즈 트럼프 지지선언..ㄷㄷ",
-        "keywords": [
-          "트럼프",
-          "미나즈",
-          "니키",
-          "지지선언"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 89.14,
-        "peak_score": 79.67,
-        "appearances": 1,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 13,
-            "title": "니키 미나즈 트럼프 지지선언..ㄷㄷ",
-            "url": "https://www.clien.net/service/board/park/19283031?od=T31&po=0&category=0&groupCd=",
-            "score": 71.67
-          },
-          {
-            "source": "인벤",
-            "rank": 42,
-            "title": "가수 니키 미나즈..트럼프 지지선언",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2745339",
-            "score": 61.78
-          }
-        ],
-        "first_seen": "2026-10-26T20:29:29.442912+09:00",
-        "last_seen": "2026-10-26T20:29:29.442912+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 20,
-        "change": -3
+        "change": -2
       }
     ],
     "monthly": [
@@ -1768,16 +1960,16 @@
       },
       {
         "id": "i0cdcc665",
-        "title": "아이폰 듀오 실시간 ㅋㅋ",
+        "title": "폰 고문으로 유명한 유튜버의 아이폰 듀오 결론",
         "keywords": [
           "듀오",
           "아이폰"
         ],
         "source_count": 3,
         "post_count": 6,
-        "score": 144.15,
+        "score": 144.33,
         "peak_score": 113.67,
-        "appearances": 26,
+        "appearances": 27,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -1788,22 +1980,22 @@
         ],
         "posts": [
           {
-            "source": "뽐뿌",
-            "rank": 59,
-            "title": "아이폰 듀오 실시간 ㅋㅋ",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10166572",
-            "score": 58.8
+            "source": "루리웹",
+            "rank": 1,
+            "title": "폰 고문으로 유명한 유튜버의 아이폰 듀오 결론",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77172916?m=humor",
+            "score": 97.71
           },
           {
-            "source": "클리앙",
+            "source": "뽐뿌",
             "rank": 83,
-            "title": "아이폰 듀오 아쉬운점…",
-            "url": "https://www.clien.net/service/board/park/19283213?od=T31&po=0&category=0&groupCd=",
-            "score": 55.25
+            "title": "아이폰 듀오 박살 장면 ㄷㄷ",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=24288",
+            "score": 54.46
           }
         ],
         "first_seen": "2026-10-17T02:58:12.116264+09:00",
-        "last_seen": "2026-10-27T09:57:53.318174+09:00",
+        "last_seen": "2026-10-27T15:11:02.788061+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 3,
