@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "period": "daily",
+  "key": "2026-10-29",
+  "label": "2026년 10월 29일",
+  "collected_at": "2026-10-29T04:44:17.231982+09:00",
+  "timezone": "Asia/Seoul",
+  "issues": [
+    {
+      "id": "ia0fd1514",
+      "title": "‘유시민’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "유시민"
+      ],
+      "source_count": 2,
+      "post_count": 4,
+      "score": 102.06,
+      "peak_score": 90.59,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 6,
+          "title": "유시민) 대통령 지지율 하락 이유.jpg",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10168997",
+          "score": 79.59
+        },
+        {
+          "source": "클리앙",
+          "rank": 52,
+          "title": "유시민 작가 박시영TV 출연했는데 실시간 시청자 수가 장난 아니네요",
+          "url": "https://www.clien.net/service/board/park/19284130?od=T31&po=0&category=0&groupCd=",
+          "score": 62.37
+        }
+      ],
+      "first_seen": "2026-10-28T23:25:48.055704+09:00",
+      "last_seen": "2026-10-29T04:44:17.231982+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 4,
+      "rank": 1,
+      "change": 7
+    }
+  ]
+}

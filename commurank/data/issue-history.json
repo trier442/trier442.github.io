@@ -1,6 +1,61 @@
 {
   "version": 1,
   "issues": {
+    "ia0fd1514": {
+      "id": "ia0fd1514",
+      "first_seen": "2026-10-28T23:25:48.055704+09:00",
+      "last_seen": "2026-10-29T04:44:17.231982+09:00",
+      "title": "‘유시민’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "유시민"
+      ],
+      "points": [
+        {
+          "at": "2026-10-28T23:25:48.055704+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 79.31,
+          "sources": [
+            "뽐뿌",
+            "인벤"
+          ],
+          "post_urls": [
+            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10168828",
+            "https://www.inven.co.kr/board/webzine/2097/2746287"
+          ]
+        },
+        {
+          "at": "2026-10-29T04:44:17.231982+09:00",
+          "source_count": 2,
+          "post_count": 4,
+          "score": 90.59,
+          "sources": [
+            "뽐뿌",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10168997",
+            "https://www.clien.net/service/board/park/19284130?od=T31&po=0&category=0&groupCd="
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 6,
+          "title": "유시민) 대통령 지지율 하락 이유.jpg",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10168997",
+          "score": 79.59
+        },
+        {
+          "source": "클리앙",
+          "rank": 52,
+          "title": "유시민 작가 박시영TV 출연했는데 실시간 시청자 수가 장난 아니네요",
+          "url": "https://www.clien.net/service/board/park/19284130?od=T31&po=0&category=0&groupCd=",
+          "score": 62.37
+        }
+      ]
+    },
     "i10990536": {
       "id": "i10990536",
       "first_seen": "2026-10-08T19:25:19.235438+09:00",
@@ -178,47 +233,6 @@
           "title": "2026 청룡영화상 후보..호프 최다 노미네이트,암살자(들)도 다수 포함",
           "url": "https://www.clien.net/service/board/park/19284110?od=T31&po=0&category=0&groupCd=",
           "score": 62.17
-        }
-      ]
-    },
-    "ia0fd1514": {
-      "id": "ia0fd1514",
-      "first_seen": "2026-10-28T23:25:48.055704+09:00",
-      "last_seen": "2026-10-28T23:25:48.055704+09:00",
-      "title": "‘유시민’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "유시민"
-      ],
-      "points": [
-        {
-          "at": "2026-10-28T23:25:48.055704+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 79.31,
-          "sources": [
-            "뽐뿌",
-            "인벤"
-          ],
-          "post_urls": [
-            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10168828",
-            "https://www.inven.co.kr/board/webzine/2097/2746287"
-          ]
-        }
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 16,
-          "title": "유시민 작가: 대통령이 진영을 해체시키고 있다",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10168828",
-          "score": 70.31
-        },
-        {
-          "source": "인벤",
-          "rank": 98,
-          "title": "주진우 펙트폭격 거하게 때리시는 유시민 전 장관 - 박시영 TV 라이브 중 / ㅋㅋㅋㅋ",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2746287",
-          "score": 49.88
         }
       ]
     },
@@ -33692,5 +33706,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-28T23:25:48.055704+09:00"
+  "updated_at": "2026-10-29T04:44:17.231982+09:00"
 }

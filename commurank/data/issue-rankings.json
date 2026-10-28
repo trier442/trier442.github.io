@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-10-28T23:25:48.055704+09:00",
+  "collected_at": "2026-10-29T04:44:17.231982+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -11,920 +11,78 @@
   "rankings": {
     "realtime": [
       {
-        "id": "i8bcd73b9",
-        "title": "‘라이브’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "라이브"
-        ],
-        "source_count": 2,
-        "post_count": 3,
-        "score": 76.04,
-        "peak_score": 76.04,
-        "appearances": 1,
-        "sources": [
-          "뽐뿌",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 30,
-            "title": "유시진 전 장관 - 멀리서 비판하는 사람도 이렇게 하는데 가까이서 누가 비판을 하겠어요? 전망이 굉장히 어둡죠. / 박시영TV 라이브",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2746300",
-            "score": 66.04
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 91,
-            "title": "[네이버페이] 호텔나루, 삼성전자 등 받으세요 (& 라이브, 운세, 보험, 랜덤, 마이펫)",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=120083",
-            "score": 51.1
-          }
-        ],
-        "rank": 1,
-        "change": 1
-      },
-      {
-        "id": "i01639b07",
-        "title": "청.룡.영.화.상. 후보 공개 암살자들 포함",
-        "keywords": [
-          "후보",
-          "포함"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 79.73,
-        "peak_score": 79.73,
-        "appearances": 1,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 13,
-            "title": "청.룡.영.화.상. 후보 공개 암살자들 포함",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2746314",
-            "score": 71.73
-          },
-          {
-            "source": "클리앙",
-            "rank": 43,
-            "title": "2026 청룡영화상 후보..호프 최다 노미네이트,암살자(들)도 다수 포함",
-            "url": "https://www.clien.net/service/board/park/19284110?od=T31&po=0&category=0&groupCd=",
-            "score": 62.17
-          }
-        ],
-        "rank": 2,
-        "change": "NEW"
-      },
-      {
         "id": "ia0fd1514",
         "title": "‘유시민’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
           "유시민"
         ],
         "source_count": 2,
-        "post_count": 2,
-        "score": 79.31,
-        "peak_score": 79.31,
+        "post_count": 4,
+        "score": 90.59,
+        "peak_score": 90.59,
         "appearances": 1,
         "sources": [
           "뽐뿌",
-          "인벤"
+          "클리앙"
         ],
         "posts": [
           {
             "source": "뽐뿌",
-            "rank": 16,
-            "title": "유시민 작가: 대통령이 진영을 해체시키고 있다",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10168828",
-            "score": 70.31
+            "rank": 6,
+            "title": "유시민) 대통령 지지율 하락 이유.jpg",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10168997",
+            "score": 79.59
           },
           {
-            "source": "인벤",
-            "rank": 98,
-            "title": "주진우 펙트폭격 거하게 때리시는 유시민 전 장관 - 박시영 TV 라이브 중 / ㅋㅋㅋㅋ",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2746287",
-            "score": 49.88
+            "source": "클리앙",
+            "rank": 52,
+            "title": "유시민 작가 박시영TV 출연했는데 실시간 시청자 수가 장난 아니네요",
+            "url": "https://www.clien.net/service/board/park/19284130?od=T31&po=0&category=0&groupCd=",
+            "score": 62.37
           }
         ],
-        "rank": 3,
-        "change": "NEW"
-      },
-      {
-        "id": "i10990536",
-        "title": "‘삼성전자’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "삼성전자"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 67.57,
-        "peak_score": 67.57,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "뽐뿌"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 60,
-            "title": "삼성전자, 성능 제한 숨기고 광고했다가 200억 과징금",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473878&_dcbest=1&page=1",
-            "score": 58.57
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 91,
-            "title": "[네이버페이] 호텔나루, 삼성전자 등 받으세요 (& 라이브, 운세, 보험, 랜덤, 마이펫)",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=120083",
-            "score": 51.1
-          }
-        ],
-        "rank": 4,
-        "change": -1
+        "rank": 1,
+        "change": 2
       }
     ],
     "daily": [
       {
-        "id": "i4c8bdd1e",
-        "title": "열일하는 대한민국 관세청 근황",
-        "keywords": [
-          "대한민국",
-          "관세청"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 118.37,
-        "peak_score": 105.44,
-        "appearances": 3,
-        "sources": [
-          "더쿠",
-          "디시인사이드",
-          "루리웹"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 2,
-            "title": "열일하는 대한민국 관세청 근황",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77185466?m=humor",
-            "score": 97.44
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 97,
-            "title": "대한민국 관세청 근황.....",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473712&_dcbest=1&page=1",
-            "score": 50.67
-          }
-        ],
-        "first_seen": "2026-10-08T13:29:25.370320+09:00",
-        "last_seen": "2026-10-28T16:26:06.848844+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 1,
-        "change": 0
-      },
-      {
-        "id": "ib522be5d",
-        "title": "‘고소당한’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "고소당한"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 113.99,
-        "peak_score": 102.5,
-        "appearances": 2,
-        "sources": [
-          "디시인사이드",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 4,
-            "title": "싱갤에 글썻다가 서울우유한테 고소당한 썰",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473782&_dcbest=1&page=1",
-            "score": 92.53
-          },
-          {
-            "source": "인벤",
-            "rank": 43,
-            "title": "고소당한 디시인",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2746151",
-            "score": 61.53
-          }
-        ],
-        "first_seen": "2026-10-28T16:26:06.848844+09:00",
-        "last_seen": "2026-10-28T16:31:27.703899+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 2,
-        "change": 0
-      },
-      {
-        "id": "id2d5aa4e",
-        "title": "‘fsd’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "fsd"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 105.4,
-        "peak_score": 93.91,
-        "appearances": 2,
-        "sources": [
-          "뽐뿌",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 4,
-            "title": "FSD 보행자사망 (미국)",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=980918",
-            "score": 84.91
-          },
-          {
-            "source": "인벤",
-            "rank": 95,
-            "title": "테슬라 FSD 탈옥열사 80명 근황",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2745957",
-            "score": 52.0
-          }
-        ],
-        "first_seen": "2026-10-28T10:35:53.153074+09:00",
-        "last_seen": "2026-10-28T10:38:27.702461+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 3,
-        "change": 0
-      },
-      {
-        "id": "i7b918478",
-        "title": "‘일본에서’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "일본에서"
-        ],
-        "source_count": 3,
-        "post_count": 3,
-        "score": 98.54,
-        "peak_score": 82.05,
-        "appearances": 2,
-        "sources": [
-          "더쿠",
-          "디시인사이드",
-          "루리웹"
-        ],
-        "posts": [
-          {
-            "source": "더쿠",
-            "rank": 24,
-            "title": "일본에서 놀란듯한 0명 채용공고",
-            "url": "https://theqoo.net/hot/4388467298",
-            "score": 69.05
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 54,
-            "title": "싱글벙글 일본에서 폐업하는 라면집들이 급격하게 늘어가고 있는중",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473626&_dcbest=1&page=1",
-            "score": 60.56
-          }
-        ],
-        "first_seen": "2026-10-03T04:55:10.124887+09:00",
-        "last_seen": "2026-10-28T07:23:59.107064+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 4,
-        "change": 0
-      },
-      {
-        "id": "i9e975ab1",
-        "title": "gta 6 용량 210GB",
-        "keywords": [
-          "용량",
-          "210gb"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 93.32,
-        "peak_score": 83.85,
-        "appearances": 1,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 12,
-            "title": "gta 6 용량 210GB",
-            "url": "https://www.clien.net/service/board/park/19283723?od=T31&po=0&category=0&groupCd=",
-            "score": 75.85
-          },
-          {
-            "source": "인벤",
-            "rank": 99,
-            "title": "Gta6 용량 210Gb",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2745964",
-            "score": 52.88
-          }
-        ],
-        "first_seen": "2026-10-28T10:35:53.153074+09:00",
-        "last_seen": "2026-10-28T10:35:53.153074+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 5,
-        "change": 0
-      },
-      {
-        "id": "i5781c296",
-        "title": "‘네이버’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "네이버"
-        ],
-        "source_count": 2,
-        "post_count": 3,
-        "score": 92.72,
-        "peak_score": 80.23,
-        "appearances": 2,
-        "sources": [
-          "루리웹",
-          "뽐뿌"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 12,
-            "title": "[네이버] CP컴퍼니 키즈 26FW 디디쉘 후드 패딩 CUS022 L3AB1 (799,000원/무료)",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=743781",
-            "score": 71.23
-          },
-          {
-            "source": "루리웹",
-            "rank": 32,
-            "title": "[네이버]컬쳐랜드 문화상품권 5만(46,500원/무료)",
-            "url": "https://bbs.ruliweb.com/market/board/1020/read/108446",
-            "score": 64.64
-          }
-        ],
-        "first_seen": "2026-09-27T20:23:34.525151+09:00",
-        "last_seen": "2026-10-28T23:20:07.286221+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 6,
-        "change": 0
-      },
-      {
-        "id": "i01639b07",
-        "title": "청.룡.영.화.상. 후보 공개 암살자들 포함",
-        "keywords": [
-          "후보",
-          "포함"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 89.2,
-        "peak_score": 79.73,
-        "appearances": 1,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 13,
-            "title": "청.룡.영.화.상. 후보 공개 암살자들 포함",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2746314",
-            "score": 71.73
-          },
-          {
-            "source": "클리앙",
-            "rank": 43,
-            "title": "2026 청룡영화상 후보..호프 최다 노미네이트,암살자(들)도 다수 포함",
-            "url": "https://www.clien.net/service/board/park/19284110?od=T31&po=0&category=0&groupCd=",
-            "score": 62.17
-          }
-        ],
-        "first_seen": "2026-10-28T23:25:48.055704+09:00",
-        "last_seen": "2026-10-28T23:25:48.055704+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 7,
-        "change": "NEW"
-      },
-      {
         "id": "ia0fd1514",
         "title": "‘유시민’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
           "유시민"
         ],
         "source_count": 2,
-        "post_count": 2,
-        "score": 88.78,
-        "peak_score": 79.31,
+        "post_count": 4,
+        "score": 102.06,
+        "peak_score": 90.59,
         "appearances": 1,
         "sources": [
           "뽐뿌",
-          "인벤"
+          "클리앙"
         ],
         "posts": [
           {
             "source": "뽐뿌",
-            "rank": 16,
-            "title": "유시민 작가: 대통령이 진영을 해체시키고 있다",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10168828",
-            "score": 70.31
+            "rank": 6,
+            "title": "유시민) 대통령 지지율 하락 이유.jpg",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10168997",
+            "score": 79.59
           },
           {
-            "source": "인벤",
-            "rank": 98,
-            "title": "주진우 펙트폭격 거하게 때리시는 유시민 전 장관 - 박시영 TV 라이브 중 / ㅋㅋㅋㅋ",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2746287",
-            "score": 49.88
+            "source": "클리앙",
+            "rank": 52,
+            "title": "유시민 작가 박시영TV 출연했는데 실시간 시청자 수가 장난 아니네요",
+            "url": "https://www.clien.net/service/board/park/19284130?od=T31&po=0&category=0&groupCd=",
+            "score": 62.37
           }
         ],
         "first_seen": "2026-10-28T23:25:48.055704+09:00",
-        "last_seen": "2026-10-28T23:25:48.055704+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 8,
-        "change": "NEW"
-      },
-      {
-        "id": "i8bcd73b9",
-        "title": "‘라이브’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "라이브"
-        ],
-        "source_count": 2,
-        "post_count": 3,
-        "score": 88.53,
-        "peak_score": 76.04,
-        "appearances": 2,
-        "sources": [
-          "뽐뿌",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 30,
-            "title": "유시진 전 장관 - 멀리서 비판하는 사람도 이렇게 하는데 가까이서 누가 비판을 하겠어요? 전망이 굉장히 어둡죠. / 박시영TV 라이브",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2746300",
-            "score": 66.04
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 91,
-            "title": "[네이버페이] 호텔나루, 삼성전자 등 받으세요 (& 라이브, 운세, 보험, 랜덤, 마이펫)",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=120083",
-            "score": 51.1
-          }
-        ],
-        "first_seen": "2026-10-28T23:20:07.286221+09:00",
-        "last_seen": "2026-10-28T23:25:48.055704+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 3,
-        "rank": 9,
-        "change": 2
-      },
-      {
-        "id": "i1a0292b7",
-        "title": "‘안되는’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "안되는"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 88.38,
-        "peak_score": 78.91,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "뽐뿌"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 21,
-            "title": "싱글벙글 한국어는 왜 계속 먹는지 이해가 안되는 외국인",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473646&_dcbest=1&page=1",
-            "score": 69.91
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 38,
-            "title": "여캠 얼굴을 믿으면 안되는 이유.mp4",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=humor&no=789403",
-            "score": 64.45
-          }
-        ],
-        "first_seen": "2026-09-30T05:15:44.512747+09:00",
-        "last_seen": "2026-10-28T07:23:59.107064+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 10,
-        "change": -3
-      },
-      {
-        "id": "i0cdcc665",
-        "title": "‘아이폰’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "아이폰"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 88.17,
-        "peak_score": 76.68,
-        "appearances": 2,
-        "sources": [
-          "디시인사이드",
-          "루리웹",
-          "뽐뿌"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 28,
-            "title": "한국 가난한사람도 아이폰 쓰는거보고 화난 인도네시아사람들",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473636&_dcbest=1&page=1",
-            "score": 67.08
-          },
-          {
-            "source": "루리웹",
-            "rank": 83,
-            "title": "내년 2월까지 예약 밀렸다는 아이폰 듀오근황",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77183999?m=humor_only&t=now",
-            "score": 54.13
-          }
-        ],
-        "first_seen": "2026-10-17T02:58:12.116264+09:00",
-        "last_seen": "2026-10-28T07:23:59.107064+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 11,
-        "change": -3
-      },
-      {
-        "id": "i5d6688ff",
-        "title": "‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "네이버페이"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 88.09,
-        "peak_score": 78.62,
-        "appearances": 1,
-        "sources": [
-          "루리웹",
-          "뽐뿌"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 20,
-            "title": "[네이버페이] 라방 랜덤 5원",
-            "url": "https://bbs.ruliweb.com/market/board/1020/read/108420",
-            "score": 69.62
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 40,
-            "title": "10/28일자 네이버페이 79원 + 랜덤포인트 모음",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=money&no=549043",
-            "score": 62.36
-          }
-        ],
-        "first_seen": "2026-09-28T07:08:45.324597+09:00",
-        "last_seen": "2026-10-28T10:38:27.702461+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 12,
-        "change": -3
-      },
-      {
-        "id": "i085eaf1e",
-        "title": "5·18민주화운동 명예 훼손 혐의 지만원 구속",
-        "keywords": [
-          "혐의",
-          "18민주화운동",
-          "명예",
-          "지만원",
-          "훼손"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 86.87,
-        "peak_score": 77.4,
-        "appearances": 1,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 16,
-            "title": "5·18민주화운동 명예 훼손 혐의 지만원 구속",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2745915",
-            "score": 69.4
-          },
-          {
-            "source": "클리앙",
-            "rank": 22,
-            "title": "5·18민주화운동 명예 훼손 혐의 지만원 구속",
-            "url": "https://www.clien.net/service/board/park/19283595?od=T31&po=0&category=0&groupCd=",
-            "score": 67.57
-          }
-        ],
-        "first_seen": "2026-10-28T03:13:14.470228+09:00",
-        "last_seen": "2026-10-28T03:13:14.470228+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 13,
-        "change": -3
-      },
-      {
-        "id": "i01009091",
-        "title": "‘김민석’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "김민석"
-        ],
-        "source_count": 2,
-        "post_count": 3,
-        "score": 83.26,
-        "peak_score": 70.77,
-        "appearances": 2,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 77,
-            "title": "오늘자 김민석 더불어민주당 대표 SNS....jpg",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2746149",
-            "score": 56.18
-          },
-          {
-            "source": "클리앙",
-            "rank": 94,
-            "title": "홍사훈쑈에서 김민석 패싱에 대해 다루는군요..",
-            "url": "https://www.clien.net/service/board/park/19283914?od=T31&po=0&category=0&groupCd=",
-            "score": 51.31
-          }
-        ],
-        "first_seen": "2026-10-07T09:11:43.132658+09:00",
-        "last_seen": "2026-10-28T16:31:27.703899+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 3,
-        "rank": 14,
-        "change": -2
-      },
-      {
-        "id": "i9fa3fbd3",
-        "title": "이스라엘 총선, 25석으로 리쿠드당 1위…'반네타냐후' 세결집엔 밀려",
-        "keywords": [
-          "반네타냐후",
-          "25석으로",
-          "밀려",
-          "리쿠드당",
-          "1위",
-          "세결집엔",
-          "이스라엘"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 82.85,
-        "peak_score": 73.38,
-        "appearances": 1,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 35,
-            "title": "이스라엘 총선, 25석으로 리쿠드당 1위…'반네타냐후' 세결집엔 밀려",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2745920",
-            "score": 65.38
-          },
-          {
-            "source": "클리앙",
-            "rank": 97,
-            "title": "이스라엘 총선, 25석으로 리쿠드당 1위…'반네타냐후' 세결집엔 밀려",
-            "url": "https://www.clien.net/service/board/park/19283615?od=T31&po=0&category=0&groupCd=",
-            "score": 50.65
-          }
-        ],
-        "first_seen": "2026-10-28T07:23:59.107064+09:00",
-        "last_seen": "2026-10-28T07:23:59.107064+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 15,
-        "change": -2
-      },
-      {
-        "id": "i039fd79c",
-        "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "이재명"
-        ],
-        "source_count": 2,
-        "post_count": 4,
-        "score": 82.72,
-        "peak_score": 71.25,
-        "appearances": 1,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 49,
-            "title": "이재명 SNS에 바로 기사 제목 수정한 한겨례",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2745965",
-            "score": 60.25
-          },
-          {
-            "source": "클리앙",
-            "rank": 100,
-            "title": "이재명 - 까대기식 보도가 국가발전을 가로막습니다",
-            "url": "https://www.clien.net/service/board/park/19283712?od=T31&po=0&category=0&groupCd=",
-            "score": 51.38
-          }
-        ],
-        "first_seen": "2026-09-27T13:38:37.715424+09:00",
-        "last_seen": "2026-10-28T10:38:27.702461+09:00",
+        "last_seen": "2026-10-29T04:44:17.231982+09:00",
         "latest_source_count": 2,
         "latest_post_count": 4,
-        "rank": 16,
-        "change": -2
-      },
-      {
-        "id": "ia0b3a33d",
-        "title": "‘kbo’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "kbo",
-          "플레이오프"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 82.5,
-        "peak_score": 71.01,
-        "appearances": 2,
-        "sources": [
-          "더쿠",
-          "뽐뿌"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 65,
-            "title": "[포인트 베팅] 2026 KBO 플레이오프 3차전 삼성 vs KIA 승리팀 예측!",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=baseball&no=700587",
-            "score": 59.32
-          },
-          {
-            "source": "더쿠",
-            "rank": 100,
-            "title": "[KBO] 플레이오프 4차전 중계 포기한 MBC",
-            "url": "https://theqoo.net/hot/4388933037",
-            "score": 50.05
-          }
-        ],
-        "first_seen": "2026-10-28T16:26:06.848844+09:00",
-        "last_seen": "2026-10-28T16:31:27.703899+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 17,
-        "change": -2
-      },
-      {
-        "id": "ibe544ecb",
-        "title": "‘보여주는’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "보여주는"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 82.21,
-        "peak_score": 72.74,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "더쿠",
-            "rank": 34,
-            "title": "[유퀴즈 최초공개] 제이블랙 NEON << 이걸 어떻게 참아… 도입부 안무 원조집에서 보여주는 차원이 다른 쫀-득 맛도리 니온앤비욘🤨",
-            "url": "https://theqoo.net/hot/4388907713",
-            "score": 63.74
-          },
-          {
-            "source": "인벤",
-            "rank": 55,
-            "title": "필리핀 무술 고수가 보여주는 힘의 원리",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2746158",
-            "score": 60.23
-          }
-        ],
-        "first_seen": "2026-10-28T16:31:27.703899+09:00",
-        "last_seen": "2026-10-28T16:31:27.703899+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 18,
-        "change": -2
-      },
-      {
-        "id": "i86377919",
-        "title": "‘전설의’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "전설의"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 82.0,
-        "peak_score": 72.53,
-        "appearances": 1,
-        "sources": [
-          "루리웹",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 35,
-            "title": "입사 35일 만에 퇴사 당한 전설의 신입사원 썰.jpg",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77188426?m=humor_only&t=now",
-            "score": 63.53
-          },
-          {
-            "source": "인벤",
-            "rank": 44,
-            "title": "전설의 10만원 빵 내기 레전드",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2746156",
-            "score": 61.51
-          }
-        ],
-        "first_seen": "2026-10-17T15:05:40.756251+09:00",
-        "last_seen": "2026-10-28T16:31:27.703899+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 19,
-        "change": -2
-      },
-      {
-        "id": "i01f4834a",
-        "title": "‘파트3’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "파트3"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 80.76,
-        "peak_score": 71.29,
-        "appearances": 1,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 43,
-            "title": "'듄: 파트3' 3차 예고편",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2745917",
-            "score": 62.29
-          },
-          {
-            "source": "클리앙",
-            "rank": 67,
-            "title": "듄 파트3 최종예고편",
-            "url": "https://www.clien.net/service/board/park/19283606?od=T31&po=0&category=0&groupCd=",
-            "score": 57.13
-          }
-        ],
-        "first_seen": "2026-10-28T03:13:14.470228+09:00",
-        "last_seen": "2026-10-28T03:13:14.470228+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 20,
-        "change": -2
+        "rank": 1,
+        "change": 7
       }
     ],
     "weekly": [
@@ -1413,6 +571,45 @@
         "change": 0
       },
       {
+        "id": "ia0fd1514",
+        "title": "‘유시민’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "유시민"
+        ],
+        "source_count": 2,
+        "post_count": 4,
+        "score": 104.08,
+        "peak_score": 90.59,
+        "appearances": 2,
+        "sources": [
+          "뽐뿌",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 6,
+            "title": "유시민) 대통령 지지율 하락 이유.jpg",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10168997",
+            "score": 79.59
+          },
+          {
+            "source": "클리앙",
+            "rank": 52,
+            "title": "유시민 작가 박시영TV 출연했는데 실시간 시청자 수가 장난 아니네요",
+            "url": "https://www.clien.net/service/board/park/19284130?od=T31&po=0&category=0&groupCd=",
+            "score": 62.37
+          }
+        ],
+        "first_seen": "2026-10-28T23:25:48.055704+09:00",
+        "last_seen": "2026-10-29T04:44:17.231982+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 4,
+        "rank": 13,
+        "change": "NEW"
+      },
+      {
         "id": "i348b5bff",
         "title": "‘주진우’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -1448,8 +645,8 @@
         "last_seen": "2026-10-27T15:11:02.788061+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 13,
-        "change": 0
+        "rank": 14,
+        "change": -1
       },
       {
         "id": "i9f5e1ed4",
@@ -1487,8 +684,8 @@
         "last_seen": "2026-10-27T06:51:21.487617+09:00",
         "latest_source_count": 2,
         "latest_post_count": 7,
-        "rank": 14,
-        "change": 0
+        "rank": 15,
+        "change": -1
       },
       {
         "id": "i6518b9ba",
@@ -1526,8 +723,8 @@
         "last_seen": "2026-10-26T09:40:04.280210+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 15,
-        "change": 0
+        "rank": 16,
+        "change": -1
       },
       {
         "id": "i7b918478",
@@ -1565,8 +762,8 @@
         "last_seen": "2026-10-28T07:23:59.107064+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 16,
-        "change": 0
+        "rank": 17,
+        "change": -1
       },
       {
         "id": "i73215f7c",
@@ -1603,8 +800,8 @@
         "last_seen": "2026-10-27T21:25:52.681622+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 17,
-        "change": 0
+        "rank": 18,
+        "change": -1
       },
       {
         "id": "i3e81b1a1",
@@ -1645,8 +842,8 @@
         "last_seen": "2026-10-27T21:25:52.681622+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 18,
-        "change": 0
+        "rank": 19,
+        "change": -1
       },
       {
         "id": "i3a4b3f22",
@@ -1685,46 +882,8 @@
         "last_seen": "2026-10-27T06:51:21.487617+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 19,
-        "change": 0
-      },
-      {
-        "id": "if8b91d71",
-        "title": "‘부동산’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "부동산"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 96.24,
-        "peak_score": 84.75,
-        "appearances": 2,
-        "sources": [
-          "디시인사이드",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 9,
-            "title": "이 대통령 '‥부동산 공화국 벗어나야'",
-            "url": "https://www.clien.net/service/board/park/19283024?od=T31&po=0&category=0&groupCd=",
-            "score": 72.72
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 43,
-            "title": "현재 주식,부동산 영끌이들이 증오하는 인물",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473296&_dcbest=1&page=1",
-            "score": 61.6
-          }
-        ],
-        "first_seen": "2026-10-14T12:35:09.624615+09:00",
-        "last_seen": "2026-10-26T20:29:29.442912+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 20,
-        "change": 0
+        "change": -1
       }
     ],
     "monthly": [
