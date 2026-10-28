@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W44",
   "label": "2026.10.26 ~ 11.01",
-  "collected_at": "2026-10-28T07:23:59.107064+09:00",
+  "collected_at": "2026-10-28T10:35:53.153074+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -414,6 +414,44 @@
       "change": 0
     },
     {
+      "id": "id2d5aa4e",
+      "title": "‘fsd’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "fsd"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 103.37,
+      "peak_score": 93.9,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 4,
+          "title": "FSD 보행자사망 (미국)",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=980918",
+          "score": 84.9
+        },
+        {
+          "source": "인벤",
+          "rank": 89,
+          "title": "테슬라 FSD 탈옥열사 80명 근황",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2745957",
+          "score": 54.63
+        }
+      ],
+      "first_seen": "2026-10-28T10:35:53.153074+09:00",
+      "last_seen": "2026-10-28T10:35:53.153074+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 11,
+      "change": "NEW"
+    },
+    {
       "id": "i9f5e1ed4",
       "title": "‘인스타’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -449,8 +487,8 @@
       "last_seen": "2026-10-27T06:51:21.487617+09:00",
       "latest_source_count": 2,
       "latest_post_count": 7,
-      "rank": 11,
-      "change": 0
+      "rank": 12,
+      "change": -1
     },
     {
       "id": "i6518b9ba",
@@ -488,8 +526,8 @@
       "last_seen": "2026-10-26T09:40:04.280210+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 12,
-      "change": 0
+      "rank": 13,
+      "change": -1
     },
     {
       "id": "i7b918478",
@@ -527,8 +565,8 @@
       "last_seen": "2026-10-28T07:23:59.107064+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 13,
-      "change": 3
+      "rank": 14,
+      "change": -1
     },
     {
       "id": "i73215f7c",
@@ -565,7 +603,7 @@
       "last_seen": "2026-10-27T21:25:52.681622+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 14,
+      "rank": 15,
       "change": -1
     },
     {
@@ -607,7 +645,7 @@
       "last_seen": "2026-10-27T21:25:52.681622+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 15,
+      "rank": 16,
       "change": -1
     },
     {
@@ -647,7 +685,7 @@
       "last_seen": "2026-10-27T06:51:21.487617+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 16,
+      "rank": 17,
       "change": -1
     },
     {
@@ -685,8 +723,8 @@
       "last_seen": "2026-10-26T20:29:29.442912+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 17,
-      "change": 0
+      "rank": 18,
+      "change": -1
     },
     {
       "id": "i738512e2",
@@ -723,8 +761,8 @@
       "last_seen": "2026-10-26T14:27:24.694829+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 18,
-      "change": 0
+      "rank": 19,
+      "change": -1
     },
     {
       "id": "i3cb51073",
@@ -762,47 +800,8 @@
       "last_seen": "2026-10-27T15:11:02.788061+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 19,
-      "change": 0
-    },
-    {
-      "id": "iab8c6b74",
-      "title": "현재) 중국 BYD 전기버스 근황 ㄷㄷ.jpg",
-      "keywords": [
-        "전기버스",
-        "byd"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 94.14,
-      "peak_score": 84.67,
-      "appearances": 1,
-      "sources": [
-        "뽐뿌",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 10,
-          "title": "현재) 중국 BYD 전기버스 근황 ㄷㄷ.jpg",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10166970",
-          "score": 76.67
-        },
-        {
-          "source": "인벤",
-          "rank": 46,
-          "title": "중국산 BYD 전기버스 근황",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2745657",
-          "score": 62.06
-        }
-      ],
-      "first_seen": "2026-10-27T15:11:02.788061+09:00",
-      "last_seen": "2026-10-27T15:11:02.788061+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 20,
-      "change": 0
+      "change": -1
     }
   ]
 }
