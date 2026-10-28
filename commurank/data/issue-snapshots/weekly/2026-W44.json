@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W44",
   "label": "2026.10.26 ~ 11.01",
-  "collected_at": "2026-10-28T10:35:53.153074+09:00",
+  "collected_at": "2026-10-28T10:38:27.702461+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -134,9 +134,9 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 112.81,
+      "score": 114.25,
       "peak_score": 101.32,
-      "appearances": 2,
+      "appearances": 3,
       "sources": [
         "루리웹",
         "뽐뿌"
@@ -144,21 +144,21 @@
       "posts": [
         {
           "source": "루리웹",
-          "rank": 68,
+          "rank": 20,
           "title": "[네이버페이] 라방 랜덤 5원",
-          "url": "https://bbs.ruliweb.com/market/board/1020/read/108382",
-          "score": 59.19
+          "url": "https://bbs.ruliweb.com/market/board/1020/read/108420",
+          "score": 69.62
         },
         {
           "source": "뽐뿌",
-          "rank": 92,
-          "title": "[네이버페이] 르무통 15원 받으세요",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=120039",
-          "score": 52.44
+          "rank": 40,
+          "title": "10/28일자 네이버페이 79원 + 랜덤포인트 모음",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=money&no=549043",
+          "score": 62.36
         }
       ],
       "first_seen": "2026-09-28T07:08:45.324597+09:00",
-      "last_seen": "2026-10-27T06:51:21.487617+09:00",
+      "last_seen": "2026-10-28T10:38:27.702461+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 4,
@@ -337,6 +337,44 @@
       "change": 0
     },
     {
+      "id": "id2d5aa4e",
+      "title": "‘fsd’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "fsd"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 105.4,
+      "peak_score": 93.91,
+      "appearances": 2,
+      "sources": [
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 4,
+          "title": "FSD 보행자사망 (미국)",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=980918",
+          "score": 84.91
+        },
+        {
+          "source": "인벤",
+          "rank": 95,
+          "title": "테슬라 FSD 탈옥열사 80명 근황",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2745957",
+          "score": 52.0
+        }
+      ],
+      "first_seen": "2026-10-28T10:35:53.153074+09:00",
+      "last_seen": "2026-10-28T10:38:27.702461+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 9,
+      "change": 2
+    },
+    {
       "id": "iefb8708f",
       "title": "‘이미지’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -371,8 +409,8 @@
       "last_seen": "2026-10-26T14:27:24.694829+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 9,
-      "change": 0
+      "rank": 10,
+      "change": -1
     },
     {
       "id": "i348b5bff",
@@ -410,46 +448,8 @@
       "last_seen": "2026-10-27T15:11:02.788061+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 10,
-      "change": 0
-    },
-    {
-      "id": "id2d5aa4e",
-      "title": "‘fsd’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "fsd"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 103.37,
-      "peak_score": 93.9,
-      "appearances": 1,
-      "sources": [
-        "뽐뿌",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 4,
-          "title": "FSD 보행자사망 (미국)",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=980918",
-          "score": 84.9
-        },
-        {
-          "source": "인벤",
-          "rank": 89,
-          "title": "테슬라 FSD 탈옥열사 80명 근황",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2745957",
-          "score": 54.63
-        }
-      ],
-      "first_seen": "2026-10-28T10:35:53.153074+09:00",
-      "last_seen": "2026-10-28T10:35:53.153074+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 11,
-      "change": "NEW"
+      "change": -1
     },
     {
       "id": "i9f5e1ed4",
@@ -488,7 +488,7 @@
       "latest_source_count": 2,
       "latest_post_count": 7,
       "rank": 12,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i6518b9ba",
@@ -527,7 +527,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 13,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i7b918478",
@@ -566,7 +566,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 14,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i73215f7c",
@@ -604,7 +604,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 15,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i3e81b1a1",
@@ -646,7 +646,45 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 16,
-      "change": -1
+      "change": 0
+    },
+    {
+      "id": "i4c8bdd1e",
+      "title": "‘대한민국’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "대한민국"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 97.45,
+      "peak_score": 85.96,
+      "appearances": 2,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 12,
+          "title": "대한민국 관세청 근황.....",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473712&_dcbest=1&page=1",
+          "score": 76.96
+        },
+        {
+          "source": "더쿠",
+          "rank": 46,
+          "title": "[관심부탁해 📣] 대한민국 세금 3500억원으로 만드는 베트남 마을",
+          "url": "https://theqoo.net/hot/4388576718",
+          "score": 60.58
+        }
+      ],
+      "first_seen": "2026-10-08T13:29:25.370320+09:00",
+      "last_seen": "2026-10-28T10:38:27.702461+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 17,
+      "change": "NEW"
     },
     {
       "id": "i3a4b3f22",
@@ -685,7 +723,7 @@
       "last_seen": "2026-10-27T06:51:21.487617+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 17,
+      "rank": 18,
       "change": -1
     },
     {
@@ -723,7 +761,7 @@
       "last_seen": "2026-10-26T20:29:29.442912+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 18,
+      "rank": 19,
       "change": -1
     },
     {
@@ -759,45 +797,6 @@
       ],
       "first_seen": "2026-10-26T14:18:55.535012+09:00",
       "last_seen": "2026-10-26T14:27:24.694829+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 19,
-      "change": -1
-    },
-    {
-      "id": "i3cb51073",
-      "title": "‘발롱도르’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "발롱도르"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 95.52,
-      "peak_score": 84.03,
-      "appearances": 2,
-      "sources": [
-        "디시인사이드",
-        "뽐뿌",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 50,
-          "title": "[오피셜] 2026 발롱도르 수상자 해리 케인...gif",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473471&_dcbest=1&page=1",
-          "score": 61.22
-        },
-        {
-          "source": "인벤",
-          "rank": 96,
-          "title": "케인이 수상한 이유는 단순히 늙어서\" 야말 삼촌, 조카 발롱도르 불발에 분노 폭발! \"축구를 좋아한다면 케인 아닌 야말 보러 간다\"",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2745640",
-          "score": 52.21
-        }
-      ],
-      "first_seen": "2026-10-27T09:57:53.318174+09:00",
-      "last_seen": "2026-10-27T15:11:02.788061+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 20,
