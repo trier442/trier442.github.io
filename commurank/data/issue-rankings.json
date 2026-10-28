@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-10-28T16:26:06.848844+09:00",
+  "collected_at": "2026-10-28T16:31:27.703899+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -18,8 +18,8 @@
         ],
         "source_count": 2,
         "post_count": 3,
-        "score": 70.77,
-        "peak_score": 70.77,
+        "score": 66.18,
+        "peak_score": 66.18,
         "appearances": 1,
         "sources": [
           "인벤",
@@ -28,56 +28,21 @@
         "posts": [
           {
             "source": "인벤",
-            "rank": 53,
+            "rank": 77,
             "title": "오늘자 김민석 더불어민주당 대표 SNS....jpg",
             "url": "https://www.inven.co.kr/board/webzine/2097/2746149",
-            "score": 60.77
+            "score": 56.18
           },
           {
             "source": "클리앙",
-            "rank": 70,
+            "rank": 94,
             "title": "홍사훈쑈에서 김민석 패싱에 대해 다루는군요..",
             "url": "https://www.clien.net/service/board/park/19283914?od=T31&po=0&category=0&groupCd=",
-            "score": 56.88
+            "score": 51.31
           }
         ],
         "rank": 1,
-        "change": "NEW"
-      },
-      {
-        "id": "i4c8bdd1e",
-        "title": "열일하는 대한민국 관세청 근황",
-        "keywords": [
-          "대한민국",
-          "관세청"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 105.44,
-        "peak_score": 105.44,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "루리웹"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 2,
-            "title": "열일하는 대한민국 관세청 근황",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77185466?m=humor",
-            "score": 97.44
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 97,
-            "title": "대한민국 관세청 근황.....",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473712&_dcbest=1&page=1",
-            "score": 50.67
-          }
-        ],
-        "rank": 2,
-        "change": 1
+        "change": 0
       },
       {
         "id": "ib522be5d",
@@ -87,8 +52,8 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 102.5,
-        "peak_score": 102.5,
+        "score": 101.53,
+        "peak_score": 101.53,
         "appearances": 1,
         "sources": [
           "디시인사이드",
@@ -97,20 +62,122 @@
         "posts": [
           {
             "source": "디시인사이드",
-            "rank": 3,
+            "rank": 4,
             "title": "싱갤에 글썻다가 서울우유한테 고소당한 썰",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473782&_dcbest=1&page=1",
-            "score": 93.5
+            "score": 92.53
           },
           {
             "source": "인벤",
-            "rank": 30,
+            "rank": 43,
             "title": "고소당한 디시인",
             "url": "https://www.inven.co.kr/board/webzine/2097/2746151",
-            "score": 65.47
+            "score": 61.53
+          }
+        ],
+        "rank": 2,
+        "change": 1
+      },
+      {
+        "id": "ibe544ecb",
+        "title": "‘보여주는’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "보여주는"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 72.74,
+        "peak_score": 72.74,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "더쿠",
+            "rank": 34,
+            "title": "[유퀴즈 최초공개] 제이블랙 NEON << 이걸 어떻게 참아… 도입부 안무 원조집에서 보여주는 차원이 다른 쫀-득 맛도리 니온앤비욘🤨",
+            "url": "https://theqoo.net/hot/4388907713",
+            "score": 63.74
+          },
+          {
+            "source": "인벤",
+            "rank": 55,
+            "title": "필리핀 무술 고수가 보여주는 힘의 원리",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2746158",
+            "score": 60.23
           }
         ],
         "rank": 3,
+        "change": "NEW"
+      },
+      {
+        "id": "i86377919",
+        "title": "‘전설의’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "전설의"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 72.53,
+        "peak_score": 72.53,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 35,
+            "title": "입사 35일 만에 퇴사 당한 전설의 신입사원 썰.jpg",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77188426?m=humor_only&t=now",
+            "score": 63.53
+          },
+          {
+            "source": "인벤",
+            "rank": 44,
+            "title": "전설의 10만원 빵 내기 레전드",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2746156",
+            "score": 61.51
+          }
+        ],
+        "rank": 4,
+        "change": "NEW"
+      },
+      {
+        "id": "id4a51cf7",
+        "title": "‘mbc’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "mbc"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 69.41,
+        "peak_score": 69.41,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "디시인사이드"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 52,
+            "title": "스타벅스, MBC 사옥서 철수…재계약 없이 영업 종료",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473794&_dcbest=1&page=1",
+            "score": 60.41
+          },
+          {
+            "source": "더쿠",
+            "rank": 100,
+            "title": "[KBO] 플레이오프 4차전 중계 포기한 MBC",
+            "url": "https://theqoo.net/hot/4388933037",
+            "score": 50.05
+          }
+        ],
+        "rank": 5,
         "change": "NEW"
       },
       {
@@ -122,8 +189,8 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 71.01,
-        "peak_score": 71.01,
+        "score": 68.32,
+        "peak_score": 68.32,
         "appearances": 1,
         "sources": [
           "더쿠",
@@ -132,88 +199,54 @@
         "posts": [
           {
             "source": "뽐뿌",
-            "rank": 47,
+            "rank": 65,
             "title": "[포인트 베팅] 2026 KBO 플레이오프 3차전 삼성 vs KIA 승리팀 예측!",
             "url": "https://www.ppomppu.co.kr/zboard/view.php?id=baseball&no=700587",
-            "score": 62.01
+            "score": 59.32
           },
           {
             "source": "더쿠",
-            "rank": 93,
+            "rank": 100,
             "title": "[KBO] 플레이오프 4차전 중계 포기한 MBC",
             "url": "https://theqoo.net/hot/4388933037",
-            "score": 51.21
+            "score": 50.05
           }
         ],
-        "rank": 4,
-        "change": "NEW"
+        "rank": 6,
+        "change": -2
       },
       {
-        "id": "ie0b569fe",
-        "title": "‘아주대’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "id8f65acc",
+        "title": "‘제대로’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "아주대"
+          "제대로"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 69.68,
-        "peak_score": 69.68,
+        "score": 65.53,
+        "peak_score": 65.53,
         "appearances": 1,
         "sources": [
-          "디시인사이드",
+          "인벤",
           "클리앙"
         ],
         "posts": [
           {
-            "source": "디시인사이드",
-            "rank": 54,
-            "title": "손 떨려 진료 못 한다”…아주대 소아응급 교수 7명 사직 결정",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473792&_dcbest=1&page=1",
-            "score": 60.68
-          },
-          {
             "source": "클리앙",
-            "rank": 73,
-            "title": "아주대 소아과 응급실 사건 당시 상황",
-            "url": "https://www.clien.net/service/board/park/19283907?od=T31&po=0&category=0&groupCd=",
-            "score": 56.29
-          }
-        ],
-        "rank": 5,
-        "change": "NEW"
-      },
-      {
-        "id": "ia3f61b49",
-        "title": "‘유저들’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "유저들"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 68.37,
-        "peak_score": 68.37,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "루리웹"
-        ],
-        "posts": [
-          {
-            "source": "더쿠",
-            "rank": 61,
-            "title": "아이폰 듀오 때문에 유탄 맞은 갤럭시 폴드 유저들 jpg",
-            "url": "https://theqoo.net/hot/4388951377",
-            "score": 59.37
+            "rank": 75,
+            "title": "다음 총선이 제대로 치뤄질 수 있을까요",
+            "url": "https://www.clien.net/service/board/park/19283935?od=T31&po=0&category=0&groupCd=",
+            "score": 56.53
           },
           {
-            "source": "루리웹",
-            "rank": 82,
-            "title": "진인환이 유저들 불편한거 잘 알지만 새벽에 점검 안 하는 이유.jpg",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77188396?m=humor_only&t=now",
-            "score": 54.07
+            "source": "인벤",
+            "rank": 79,
+            "title": "전 구글_팀장이 알려주는 Ai_제대로 쓰는법",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2746154",
+            "score": 55.73
           }
         ],
-        "rank": 6,
+        "rank": 7,
         "change": "NEW"
       }
     ],
@@ -256,7 +289,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 1,
-        "change": 2
+        "change": 0
       },
       {
         "id": "ib522be5d",
@@ -266,9 +299,9 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 111.97,
+        "score": 113.99,
         "peak_score": 102.5,
-        "appearances": 1,
+        "appearances": 2,
         "sources": [
           "디시인사이드",
           "인벤"
@@ -276,25 +309,25 @@
         "posts": [
           {
             "source": "디시인사이드",
-            "rank": 3,
+            "rank": 4,
             "title": "싱갤에 글썻다가 서울우유한테 고소당한 썰",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473782&_dcbest=1&page=1",
-            "score": 93.5
+            "score": 92.53
           },
           {
             "source": "인벤",
-            "rank": 30,
+            "rank": 43,
             "title": "고소당한 디시인",
             "url": "https://www.inven.co.kr/board/webzine/2097/2746151",
-            "score": 65.47
+            "score": 61.53
           }
         ],
         "first_seen": "2026-10-28T16:26:06.848844+09:00",
-        "last_seen": "2026-10-28T16:26:06.848844+09:00",
+        "last_seen": "2026-10-28T16:31:27.703899+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 2,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "id2d5aa4e",
@@ -332,7 +365,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 3,
-        "change": -2
+        "change": 0
       },
       {
         "id": "i7b918478",
@@ -371,7 +404,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 4,
-        "change": -2
+        "change": 0
       },
       {
         "id": "i9e975ab1",
@@ -410,7 +443,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 5,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i5781c296",
@@ -448,7 +481,7 @@
         "latest_source_count": 2,
         "latest_post_count": 3,
         "rank": 6,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i1a0292b7",
@@ -486,7 +519,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 7,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i0cdcc665",
@@ -525,7 +558,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 8,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i5d6688ff",
@@ -563,7 +596,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 9,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i085eaf1e",
@@ -605,7 +638,45 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 10,
-        "change": -1
+        "change": 0
+      },
+      {
+        "id": "i01009091",
+        "title": "‘김민석’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "김민석"
+        ],
+        "source_count": 2,
+        "post_count": 3,
+        "score": 83.26,
+        "peak_score": 70.77,
+        "appearances": 2,
+        "sources": [
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 77,
+            "title": "오늘자 김민석 더불어민주당 대표 SNS....jpg",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2746149",
+            "score": 56.18
+          },
+          {
+            "source": "클리앙",
+            "rank": 94,
+            "title": "홍사훈쑈에서 김민석 패싱에 대해 다루는군요..",
+            "url": "https://www.clien.net/service/board/park/19283914?od=T31&po=0&category=0&groupCd=",
+            "score": 51.31
+          }
+        ],
+        "first_seen": "2026-10-07T09:11:43.132658+09:00",
+        "last_seen": "2026-10-28T16:31:27.703899+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 3,
+        "rank": 11,
+        "change": 2
       },
       {
         "id": "i9fa3fbd3",
@@ -648,7 +719,7 @@
         "last_seen": "2026-10-28T07:23:59.107064+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
+        "rank": 12,
         "change": -1
       },
       {
@@ -686,45 +757,122 @@
         "last_seen": "2026-10-28T10:38:27.702461+09:00",
         "latest_source_count": 2,
         "latest_post_count": 4,
-        "rank": 12,
+        "rank": 13,
         "change": -1
       },
       {
-        "id": "i01009091",
-        "title": "‘김민석’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "ia0b3a33d",
+        "title": "‘kbo’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "김민석"
+          "kbo",
+          "플레이오프"
         ],
         "source_count": 2,
-        "post_count": 3,
-        "score": 81.24,
-        "peak_score": 70.77,
-        "appearances": 1,
+        "post_count": 2,
+        "score": 82.5,
+        "peak_score": 71.01,
+        "appearances": 2,
         "sources": [
-          "인벤",
-          "클리앙"
+          "더쿠",
+          "뽐뿌"
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 53,
-            "title": "오늘자 김민석 더불어민주당 대표 SNS....jpg",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2746149",
-            "score": 60.77
+            "source": "뽐뿌",
+            "rank": 65,
+            "title": "[포인트 베팅] 2026 KBO 플레이오프 3차전 삼성 vs KIA 승리팀 예측!",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=baseball&no=700587",
+            "score": 59.32
           },
           {
-            "source": "클리앙",
-            "rank": 70,
-            "title": "홍사훈쑈에서 김민석 패싱에 대해 다루는군요..",
-            "url": "https://www.clien.net/service/board/park/19283914?od=T31&po=0&category=0&groupCd=",
-            "score": 56.88
+            "source": "더쿠",
+            "rank": 100,
+            "title": "[KBO] 플레이오프 4차전 중계 포기한 MBC",
+            "url": "https://theqoo.net/hot/4388933037",
+            "score": 50.05
           }
         ],
-        "first_seen": "2026-10-07T09:11:43.132658+09:00",
-        "last_seen": "2026-10-28T16:26:06.848844+09:00",
+        "first_seen": "2026-10-28T16:26:06.848844+09:00",
+        "last_seen": "2026-10-28T16:31:27.703899+09:00",
         "latest_source_count": 2,
-        "latest_post_count": 3,
-        "rank": 13,
+        "latest_post_count": 2,
+        "rank": 14,
+        "change": 2
+      },
+      {
+        "id": "ibe544ecb",
+        "title": "‘보여주는’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "보여주는"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 82.21,
+        "peak_score": 72.74,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "더쿠",
+            "rank": 34,
+            "title": "[유퀴즈 최초공개] 제이블랙 NEON << 이걸 어떻게 참아… 도입부 안무 원조집에서 보여주는 차원이 다른 쫀-득 맛도리 니온앤비욘🤨",
+            "url": "https://theqoo.net/hot/4388907713",
+            "score": 63.74
+          },
+          {
+            "source": "인벤",
+            "rank": 55,
+            "title": "필리핀 무술 고수가 보여주는 힘의 원리",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2746158",
+            "score": 60.23
+          }
+        ],
+        "first_seen": "2026-10-28T16:31:27.703899+09:00",
+        "last_seen": "2026-10-28T16:31:27.703899+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 15,
+        "change": "NEW"
+      },
+      {
+        "id": "i86377919",
+        "title": "‘전설의’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "전설의"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 82.0,
+        "peak_score": 72.53,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 35,
+            "title": "입사 35일 만에 퇴사 당한 전설의 신입사원 썰.jpg",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77188426?m=humor_only&t=now",
+            "score": 63.53
+          },
+          {
+            "source": "인벤",
+            "rank": 44,
+            "title": "전설의 10만원 빵 내기 레전드",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2746156",
+            "score": 61.51
+          }
+        ],
+        "first_seen": "2026-10-17T15:05:40.756251+09:00",
+        "last_seen": "2026-10-28T16:31:27.703899+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 16,
         "change": "NEW"
       },
       {
@@ -762,8 +910,8 @@
         "last_seen": "2026-10-28T03:13:14.470228+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 14,
-        "change": -2
+        "rank": 17,
+        "change": -3
       },
       {
         "id": "ide99bf3a",
@@ -802,47 +950,8 @@
         "last_seen": "2026-10-28T10:38:27.702461+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 15,
-        "change": -2
-      },
-      {
-        "id": "ia0b3a33d",
-        "title": "‘kbo’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "kbo",
-          "플레이오프"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 80.48,
-        "peak_score": 71.01,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "뽐뿌"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 47,
-            "title": "[포인트 베팅] 2026 KBO 플레이오프 3차전 삼성 vs KIA 승리팀 예측!",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=baseball&no=700587",
-            "score": 62.01
-          },
-          {
-            "source": "더쿠",
-            "rank": 93,
-            "title": "[KBO] 플레이오프 4차전 중계 포기한 MBC",
-            "url": "https://theqoo.net/hot/4388933037",
-            "score": 51.21
-          }
-        ],
-        "first_seen": "2026-10-28T16:26:06.848844+09:00",
-        "last_seen": "2026-10-28T16:26:06.848844+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 16,
-        "change": "NEW"
+        "rank": 18,
+        "change": -3
       },
       {
         "id": "if553a5cf",
@@ -879,8 +988,8 @@
         "last_seen": "2026-10-28T07:23:59.107064+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 17,
-        "change": -3
+        "rank": 19,
+        "change": -2
       },
       {
         "id": "ie0b569fe",
@@ -917,84 +1026,8 @@
         "last_seen": "2026-10-28T16:26:06.848844+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 18,
-        "change": "NEW"
-      },
-      {
-        "id": "i9ff6bf96",
-        "title": "‘프랑스’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "프랑스"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 79.11,
-        "peak_score": 69.64,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "루리웹"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 53,
-            "title": "프랑스 시위 사진을 보는 중국인들",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77183868?m=humor_only&t=now",
-            "score": 60.64
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 68,
-            "title": "MBC) 불평등이....프랑스 청년들은 왜 폭동을 했나?",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473652&_dcbest=1&page=1",
-            "score": 57.33
-          }
-        ],
-        "first_seen": "2026-10-05T23:25:29.795675+09:00",
-        "last_seen": "2026-10-28T07:23:59.107064+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 19,
-        "change": -4
-      },
-      {
-        "id": "ia3f61b49",
-        "title": "‘유저들’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "유저들"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 77.84,
-        "peak_score": 68.37,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "루리웹"
-        ],
-        "posts": [
-          {
-            "source": "더쿠",
-            "rank": 61,
-            "title": "아이폰 듀오 때문에 유탄 맞은 갤럭시 폴드 유저들 jpg",
-            "url": "https://theqoo.net/hot/4388951377",
-            "score": 59.37
-          },
-          {
-            "source": "루리웹",
-            "rank": 82,
-            "title": "진인환이 유저들 불편한거 잘 알지만 새벽에 점검 안 하는 이유.jpg",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77188396?m=humor_only&t=now",
-            "score": 54.07
-          }
-        ],
-        "first_seen": "2026-10-28T16:26:06.848844+09:00",
-        "last_seen": "2026-10-28T16:26:06.848844+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 20,
-        "change": "NEW"
+        "change": -2
       }
     ],
     "weekly": [
@@ -1156,7 +1189,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 4,
-        "change": 13
+        "change": 0
       },
       {
         "id": "i5d6688ff",
@@ -1194,7 +1227,45 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 5,
-        "change": -1
+        "change": 0
+      },
+      {
+        "id": "ib522be5d",
+        "title": "‘고소당한’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "고소당한"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 113.99,
+        "peak_score": 102.5,
+        "appearances": 2,
+        "sources": [
+          "디시인사이드",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 4,
+            "title": "싱갤에 글썻다가 서울우유한테 고소당한 썰",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473782&_dcbest=1&page=1",
+            "score": 92.53
+          },
+          {
+            "source": "인벤",
+            "rank": 43,
+            "title": "고소당한 디시인",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2746151",
+            "score": 61.53
+          }
+        ],
+        "first_seen": "2026-10-28T16:26:06.848844+09:00",
+        "last_seen": "2026-10-28T16:31:27.703899+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 6,
+        "change": 3
       },
       {
         "id": "ifd0be149",
@@ -1231,7 +1302,7 @@
         "last_seen": "2026-10-27T15:11:02.788061+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 6,
+        "rank": 7,
         "change": -1
       },
       {
@@ -1288,7 +1359,7 @@
         "last_seen": "2026-10-26T09:40:04.280210+09:00",
         "latest_source_count": 3,
         "latest_post_count": 4,
-        "rank": 7,
+        "rank": 8,
         "change": -1
       },
       {
@@ -1326,46 +1397,8 @@
         "last_seen": "2026-10-27T02:31:17.691735+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 8,
-        "change": -1
-      },
-      {
-        "id": "ib522be5d",
-        "title": "‘고소당한’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "고소당한"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 111.97,
-        "peak_score": 102.5,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 3,
-            "title": "싱갤에 글썻다가 서울우유한테 고소당한 썰",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473782&_dcbest=1&page=1",
-            "score": 93.5
-          },
-          {
-            "source": "인벤",
-            "rank": 30,
-            "title": "고소당한 디시인",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2746151",
-            "score": 65.47
-          }
-        ],
-        "first_seen": "2026-10-28T16:26:06.848844+09:00",
-        "last_seen": "2026-10-28T16:26:06.848844+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 9,
-        "change": "NEW"
+        "change": -1
       },
       {
         "id": "ia4c7959d",
@@ -1404,7 +1437,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 10,
-        "change": -2
+        "change": 0
       },
       {
         "id": "id2d5aa4e",
@@ -1442,7 +1475,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 11,
-        "change": -2
+        "change": 0
       },
       {
         "id": "iefb8708f",
@@ -1480,7 +1513,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 12,
-        "change": -2
+        "change": 0
       },
       {
         "id": "i348b5bff",
@@ -1519,7 +1552,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 13,
-        "change": -2
+        "change": 0
       },
       {
         "id": "i9f5e1ed4",
@@ -1558,7 +1591,7 @@
         "latest_source_count": 2,
         "latest_post_count": 7,
         "rank": 14,
-        "change": -2
+        "change": 0
       },
       {
         "id": "i6518b9ba",
@@ -1597,7 +1630,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 15,
-        "change": -2
+        "change": 0
       },
       {
         "id": "i7b918478",
@@ -1636,7 +1669,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 16,
-        "change": -2
+        "change": 0
       },
       {
         "id": "i73215f7c",
@@ -1674,7 +1707,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 17,
-        "change": -2
+        "change": 0
       },
       {
         "id": "i3e81b1a1",
@@ -1716,7 +1749,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 18,
-        "change": -2
+        "change": 0
       },
       {
         "id": "i3a4b3f22",
@@ -1756,7 +1789,7 @@
         "latest_source_count": 2,
         "latest_post_count": 3,
         "rank": 19,
-        "change": -1
+        "change": 0
       },
       {
         "id": "if8b91d71",
@@ -1794,7 +1827,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 20,
-        "change": -1
+        "change": 0
       }
     ],
     "monthly": [
