@@ -4,7 +4,7 @@
     "i039fd79c": {
       "id": "i039fd79c",
       "first_seen": "2026-09-27T13:38:37.715424+09:00",
-      "last_seen": "2026-10-29T11:56:26.565424+09:00",
+      "last_seen": "2026-10-29T13:22:01.722216+09:00",
       "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
         "이재명"
@@ -811,22 +811,118 @@
             "https://www.clien.net/service/board/park/19284310?od=T31&po=0&category=0&groupCd=",
             "https://www.inven.co.kr/board/webzine/2097/2746459"
           ]
+        },
+        {
+          "at": "2026-10-29T13:22:01.722216+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 90.55,
+          "sources": [
+            "뽐뿌",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10168498",
+            "https://www.clien.net/service/board/park/19284361?od=T31&po=0&category=0&groupCd="
+          ]
         }
       ],
       "posts": [
         {
+          "source": "뽐뿌",
+          "rank": 5,
+          "title": "이제 하다하다 펨코링크까지 거는 이재명 X",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10168498",
+          "score": 81.55
+        },
+        {
           "source": "클리앙",
-          "rank": 14,
-          "title": "NBS) 이재명 대통령 국정지지도 46%",
-          "url": "https://www.clien.net/service/board/park/19284310?od=T31&po=0&category=0&groupCd=",
-          "score": 71.03
+          "rank": 41,
+          "title": "이재명 대통령이 생각하는 지지율이 떨어지는 이유",
+          "url": "https://www.clien.net/service/board/park/19284361?od=T31&po=0&category=0&groupCd=",
+          "score": 63.06
+        }
+      ]
+    },
+    "id774126b": {
+      "id": "id774126b",
+      "first_seen": "2026-10-29T13:22:01.722216+09:00",
+      "last_seen": "2026-10-29T13:22:01.722216+09:00",
+      "title": "‘원당역’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "원당역"
+      ],
+      "points": [
+        {
+          "at": "2026-10-29T13:22:01.722216+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 83.0,
+          "sources": [
+            "더쿠",
+            "디시인사이드"
+          ],
+          "post_urls": [
+            "https://theqoo.net/hot/4389694820",
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=473974&_dcbest=1&page=1"
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 15,
+          "title": "원당역 직장동료에게 칼부림 당한 역무원 남편 추가글",
+          "url": "https://theqoo.net/hot/4389694820",
+          "score": 74.0
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 79,
+          "title": "[단독] \"무섭다\" 호소 원당역 흉기 피해자…남편 \"수 차례 분리요청\"",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473974&_dcbest=1&page=1",
+          "score": 56.24
+        }
+      ]
+    },
+    "i86a9c9f9": {
+      "id": "i86a9c9f9",
+      "first_seen": "2026-10-29T13:22:01.722216+09:00",
+      "last_seen": "2026-10-29T13:22:01.722216+09:00",
+      "title": "‘이태원’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "이태원"
+      ],
+      "points": [
+        {
+          "at": "2026-10-29T13:22:01.722216+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 77.2,
+          "sources": [
+            "디시인사이드",
+            "인벤"
+          ],
+          "post_urls": [
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=473993&_dcbest=1&page=1",
+            "https://www.inven.co.kr/board/webzine/2097/2746505"
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 24,
+          "title": "李대통령, 이태원 참사 4주기에 “단 하나의 의문 남지 않게 진실 밝힐것",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473993&_dcbest=1&page=1",
+          "score": 68.2
         },
         {
           "source": "인벤",
-          "rank": 41,
-          "title": "이재명 대통령 '펨코' 공유하며 \"다문화 우대 폐지 검토…모든 국민 평등하게\"｜지금 이 뉴스",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2746459",
-          "score": 64.46
+          "rank": 46,
+          "title": "이태원 참사 장면을 게임에 사용해 논란중인 콜 오브 듀티",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2746505",
+          "score": 62.18
         }
       ]
     },
@@ -33741,89 +33837,7 @@
           "score": 52.26
         }
       ]
-    },
-    "i47cfdc73": {
-      "id": "i47cfdc73",
-      "first_seen": "2026-10-03T08:43:07.357089+09:00",
-      "last_seen": "2026-10-03T08:43:07.357089+09:00",
-      "title": "‘순자산’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "순자산"
-      ],
-      "points": [
-        {
-          "at": "2026-10-03T08:43:07.357089+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 70.92,
-          "sources": [
-            "루리웹",
-            "클리앙"
-          ],
-          "post_urls": [
-            "https://www.clien.net/service/board/park/19272928?od=T31&po=0&category=0&groupCd=",
-            "https://bbs.ruliweb.com/best/board/300143/read/76889353?m=humor_only&t=now"
-          ]
-        }
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 49,
-          "title": "중산층 기준은 순자산 얼마부터일까요",
-          "url": "https://www.clien.net/service/board/park/19272928?od=T31&po=0&category=0&groupCd=",
-          "score": 61.92
-        },
-        {
-          "source": "루리웹",
-          "rank": 58,
-          "title": "20대 평균 순자산 1억 796만원",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/76889353?m=humor_only&t=now",
-          "score": 60.85
-        }
-      ]
-    },
-    "i99f3ab15": {
-      "id": "i99f3ab15",
-      "first_seen": "2026-10-03T00:05:02.277306+09:00",
-      "last_seen": "2026-10-03T00:05:02.277306+09:00",
-      "title": "‘개빡친’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "개빡친"
-      ],
-      "points": [
-        {
-          "at": "2026-10-03T00:05:02.277306+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 75.33,
-          "sources": [
-            "루리웹",
-            "인벤"
-          ],
-          "post_urls": [
-            "https://www.inven.co.kr/board/webzine/2097/2735553",
-            "https://bbs.ruliweb.com/best/board/300143/read/76887302?m=humor_only&t=now"
-          ]
-        }
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 33,
-          "title": "개빡친 김민재",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2735553",
-          "score": 66.33
-        },
-        {
-          "source": "루리웹",
-          "rank": 71,
-          "title": "삼성) 개빡친 갤럭시 유저들",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/76887302?m=humor_only&t=now",
-          "score": 56.35
-        }
-      ]
     }
   },
-  "updated_at": "2026-10-29T11:56:26.565424+09:00"
+  "updated_at": "2026-10-29T13:22:01.722216+09:00"
 }
