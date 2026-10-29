@@ -3,7 +3,7 @@
   "period": "monthly",
   "key": "2026-10",
   "label": "2026년 10월",
-  "collected_at": "2026-10-29T13:22:01.722216+09:00",
+  "collected_at": "2026-10-29T18:48:34.177189+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -621,6 +621,47 @@
       "change": 0
     },
     {
+      "id": "ife021da2",
+      "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "난리난"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 130.37,
+      "peak_score": 107.91,
+      "appearances": 21,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "루리웹",
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 12,
+          "title": "(역겨움 주의) 성인 그라비아 배우랑 결혼한 남편의 만화랑 콜라보해서 난리난 치이카와",
+          "url": "https://theqoo.net/hot/4389909730",
+          "score": 76.84
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 15,
+          "title": "안싱글벙글 최근 난리난 충격적이고 기괴한 폭행사망사건",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474043&_dcbest=1&page=1",
+          "score": 75.64
+        }
+      ],
+      "first_seen": "2026-09-29T11:40:38.000414+09:00",
+      "last_seen": "2026-10-29T18:48:34.177189+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 14,
+      "change": 1
+    },
+    {
       "id": "i5ae392bf",
       "title": "‘우크라’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -658,20 +699,20 @@
       "last_seen": "2026-10-20T16:31:55.059688+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 14,
-      "change": 0
+      "rank": 15,
+      "change": -1
     },
     {
-      "id": "ife021da2",
-      "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "ifd5a2cc3",
+      "title": "‘한국에도’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "난리난"
+        "한국에도"
       ],
       "source_count": 2,
       "post_count": 3,
-      "score": 130.13,
-      "peak_score": 107.91,
-      "appearances": 20,
+      "score": 129.82,
+      "peak_score": 108.37,
+      "appearances": 17,
       "sources": [
         "더쿠",
         "디시인사이드",
@@ -681,64 +722,24 @@
       ],
       "posts": [
         {
-          "source": "루리웹",
-          "rank": 1,
-          "title": "여초서 반응 난리난 “의외로 요즘 여자들 이상형”.JPG",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77171573?m=humor",
-          "score": 98.12
-        },
-        {
           "source": "인벤",
-          "rank": 66,
-          "title": "드라마에 5.18 민주화운동 등장해서 난리난 커뮤니티.jpg",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2745488",
-          "score": 57.55
-        }
-      ],
-      "first_seen": "2026-09-29T11:40:38.000414+09:00",
-      "last_seen": "2026-10-27T09:57:53.318174+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 15,
-      "change": 0
-    },
-    {
-      "id": "ifd5a2cc3",
-      "title": "‘한국이’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "한국이"
-      ],
-      "source_count": 2,
-      "post_count": 3,
-      "score": 129.54,
-      "peak_score": 108.37,
-      "appearances": 16,
-      "sources": [
-        "더쿠",
-        "디시인사이드",
-        "루리웹",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 1,
-          "title": "한국이 미국,일본을 제치고 압도적 '1황'이라는 분야",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77157193?m=humor",
-          "score": 99.37
+          "rank": 36,
+          "title": "한국에도 ㅁㅁ있어???",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2746627",
+          "score": 66.47
         },
         {
-          "source": "더쿠",
-          "rank": 76,
-          "title": "한국 망할줄 알고 탈조했는데 한국이 부활해버림",
-          "url": "https://theqoo.net/hot/4386310749",
-          "score": 55.11
+          "source": "루리웹",
+          "rank": 41,
+          "title": "한국인이 고민하게 만든 일본인의 '한국에도 OO있어?' 질문",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77201486?m=humor_only&t=now",
+          "score": 64.87
         }
       ],
       "first_seen": "2026-09-30T17:58:06.192419+09:00",
-      "last_seen": "2026-10-26T04:55:56.119921+09:00",
+      "last_seen": "2026-10-29T18:48:34.177189+09:00",
       "latest_source_count": 2,
-      "latest_post_count": 2,
+      "latest_post_count": 3,
       "rank": 16,
       "change": 0
     },
