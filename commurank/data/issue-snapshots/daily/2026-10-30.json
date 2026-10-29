@@ -3,24 +3,24 @@
   "period": "daily",
   "key": "2026-10-30",
   "label": "2026년 10월 30일",
-  "collected_at": "2026-10-30T02:25:17.578533+09:00",
+  "collected_at": "2026-10-30T06:23:19.444561+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
       "id": "i9a01ecf1",
-      "title": "[1보] '영원한 수사반장'·'국민 아버지' 최불암 별세",
+      "title": "부고) '영원한 수사반장' 최불암 별세",
       "keywords": [
         "별세",
         "최불암",
-        "아버지",
         "수사반장",
-        "영원한"
+        "영원한",
+        "아버지"
       ],
       "source_count": 4,
       "post_count": 7,
-      "score": 137.49,
-      "peak_score": 113.0,
-      "appearances": 2,
+      "score": 146.54,
+      "peak_score": 120.61,
+      "appearances": 3,
       "sources": [
         "더쿠",
         "루리웹",
@@ -30,39 +30,116 @@
       ],
       "posts": [
         {
+          "source": "루리웹",
+          "rank": 2,
+          "title": "부고) '영원한 수사반장' 최불암 별세",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77205747?m=humor",
+          "score": 96.61
+        },
+        {
           "source": "더쿠",
           "rank": 4,
           "title": "[1보] '영원한 수사반장'·'국민 아버지' 최불암 별세",
           "url": "https://theqoo.net/hot/4390326783",
-          "score": 89.0
-        },
-        {
-          "source": "인벤",
-          "rank": 9,
-          "title": "[1보] '영원한 수사반장'·'국민 아버지' 최불암 별세",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2746705",
-          "score": 70.64
-        },
-        {
-          "source": "클리앙",
-          "rank": 34,
-          "title": "속보) '영원한 수사반장'·'국민 아버지' 최불암 별세",
-          "url": "https://www.clien.net/service/board/park/19284644?od=T31&po=0&category=0&groupCd=",
-          "score": 63.94
+          "score": 86.68
         },
         {
           "source": "뽐뿌",
-          "rank": 42,
-          "title": "[1보] '영원한 수사반장' '국민 아버지' 최불암 별세",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10170171",
-          "score": 62.29
+          "rank": 10,
+          "title": "[속보] \"파하~\" 웃음 남기고 떠났다..국민 아버지' 최불암 별세",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10170184",
+          "score": 74.49
+        },
+        {
+          "source": "인벤",
+          "rank": 13,
+          "title": "'영원한 수사반장' 최불암 별세‥향년 87세",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2746729",
+          "score": 72.42
         }
       ],
       "first_seen": "2026-10-30T01:26:47.279832+09:00",
-      "last_seen": "2026-10-30T02:25:17.578533+09:00",
+      "last_seen": "2026-10-30T06:23:19.444561+09:00",
       "latest_source_count": 4,
-      "latest_post_count": 6,
+      "latest_post_count": 7,
       "rank": 1,
+      "change": 0
+    },
+    {
+      "id": "i496737ff",
+      "title": "‘남기고’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "남기고"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 96.42,
+      "peak_score": 83.49,
+      "appearances": 3,
+      "sources": [
+        "뽐뿌",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 10,
+          "title": "[속보] \"파하~\" 웃음 남기고 떠났다..국민 아버지' 최불암 별세",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10170184",
+          "score": 74.49
+        },
+        {
+          "source": "인벤",
+          "rank": 49,
+          "title": "영원한 수사반장' 최불암 별세…'파하~' 웃음 남기고 떠난 '국민 아버지'",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2746710",
+          "score": 61.96
+        }
+      ],
+      "first_seen": "2026-10-30T01:26:47.279832+09:00",
+      "last_seen": "2026-10-30T06:23:19.444561+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 2,
+      "change": 4
+    },
+    {
+      "id": "i8794fc33",
+      "title": "‘도시락’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "도시락"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 93.51,
+      "peak_score": 82.02,
+      "appearances": 2,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 12,
+          "title": "원이 도시락 2종 출시!",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2746722",
+          "score": 73.02
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 81,
+          "title": "[단독] 통인시장 엽전 도시락 수수료 20% '논란'…5년간 6억 떼어가",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474137&_dcbest=1&page=1",
+          "score": 54.24
+        }
+      ],
+      "first_seen": "2026-10-30T02:25:17.578533+09:00",
+      "last_seen": "2026-10-30T06:23:19.444561+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 3,
       "change": 0
     },
     {
@@ -100,46 +177,8 @@
       "last_seen": "2026-10-30T02:25:17.578533+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 2,
-      "change": "NEW"
-    },
-    {
-      "id": "i8794fc33",
-      "title": "‘도시락’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "도시락"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 83.57,
-      "peak_score": 74.1,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 25,
-          "title": "원이 도시락 2종 출시!",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2746722",
-          "score": 65.1
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 82,
-          "title": "[단독] 통인시장 엽전 도시락 수수료 20% '논란'…5년간 6억 떼어가",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474137&_dcbest=1&page=1",
-          "score": 53.56
-        }
-      ],
-      "first_seen": "2026-10-30T02:25:17.578533+09:00",
-      "last_seen": "2026-10-30T02:25:17.578533+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 3,
-      "change": "NEW"
+      "rank": 4,
+      "change": -2
     },
     {
       "id": "i0cdcc665",
@@ -177,8 +216,8 @@
       "last_seen": "2026-10-30T01:26:47.279832+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 4,
-      "change": -2
+      "rank": 5,
+      "change": -1
     },
     {
       "id": "i5891db4f",
@@ -218,46 +257,47 @@
       "last_seen": "2026-10-30T02:25:17.578533+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
-      "change": "NEW"
+      "rank": 6,
+      "change": -1
     },
     {
-      "id": "i496737ff",
-      "title": "‘남기고’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i230edad9",
+      "title": "프로세서 X로 유명한 패트릭 스튜어트 경도 별세하셨네요",
       "keywords": [
-        "남기고"
+        "패트릭",
+        "스튜어트"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 80.89,
-      "peak_score": 69.4,
-      "appearances": 2,
+      "score": 79.83,
+      "peak_score": 70.36,
+      "appearances": 1,
       "sources": [
         "인벤",
         "클리앙"
       ],
       "posts": [
         {
-          "source": "인벤",
-          "rank": 61,
-          "title": "영원한 수사반장' 최불암 별세…'파하~' 웃음 남기고 떠난 '국민 아버지'",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2746710",
-          "score": 57.97
+          "source": "클리앙",
+          "rank": 46,
+          "title": "프로세서 X로 유명한 패트릭 스튜어트 경도 별세하셨네요",
+          "url": "https://www.clien.net/service/board/park/19284682?od=T31&po=0&category=0&groupCd=",
+          "score": 62.36
         },
         {
-          "source": "클리앙",
-          "rank": 79,
-          "title": "영원한 수사반장' 최불암 별세…'파하~' 웃음 남기고 떠난 '국민 아버지",
-          "url": "https://www.clien.net/service/board/park/19284655?od=T31&po=0&category=0&groupCd=",
-          "score": 54.36
+          "source": "인벤",
+          "rank": 55,
+          "title": "배우 패트릭 스튜어트, 별세..",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2746731",
+          "score": 60.78
         }
       ],
-      "first_seen": "2026-10-30T01:26:47.279832+09:00",
-      "last_seen": "2026-10-30T02:25:17.578533+09:00",
+      "first_seen": "2026-10-30T06:23:19.444561+09:00",
+      "last_seen": "2026-10-30T06:23:19.444561+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
-      "change": -3
+      "rank": 7,
+      "change": "NEW"
     },
     {
       "id": "i2ac13537",
@@ -294,8 +334,8 @@
       "last_seen": "2026-10-30T02:25:17.578533+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": "NEW"
+      "rank": 8,
+      "change": -1
     }
   ]
 }
