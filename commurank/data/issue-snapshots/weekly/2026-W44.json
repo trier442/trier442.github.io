@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W44",
   "label": "2026.10.26 ~ 11.01",
-  "collected_at": "2026-10-30T16:17:45.679248+09:00",
+  "collected_at": "2026-10-30T16:43:52.462751+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -683,16 +683,16 @@
       "title": "[단독] 이재명 '다문화' 게시물, 5·18 조롱 밈이었다",
       "keywords": [
         "게시물",
-        "조롱",
         "단독",
-        "밈이었다",
-        "다문화"
+        "조롱",
+        "다문화",
+        "밈이었다"
       ],
       "source_count": 3,
       "post_count": 3,
-      "score": 109.56,
+      "score": 111.58,
       "peak_score": 95.09,
-      "appearances": 1,
+      "appearances": 2,
       "sources": [
         "더쿠",
         "디시인사이드",
@@ -701,32 +701,32 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 6,
+          "rank": 5,
           "title": "[단독] 이재명 '다문화' 게시물, 5·18 조롱 밈이었다",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474243&_dcbest=1&page=1",
-          "score": 80.09
+          "score": 78.11
         },
         {
           "source": "인벤",
-          "rank": 27,
+          "rank": 60,
           "title": "[단독] 李 대통령 '다문화' 게시물, 5·18 조롱 밈이었다",
           "url": "https://www.inven.co.kr/board/webzine/2097/2746906",
-          "score": 69.26
+          "score": 59.6
         },
         {
           "source": "더쿠",
-          "rank": 68,
+          "rank": 80,
           "title": "[단독] 李 대통령 '다문화' 게시물, 5·18 조롱 밈이었다",
           "url": "https://theqoo.net/hot/4390688809",
-          "score": 61.21
+          "score": 56.89
         }
       ],
       "first_seen": "2026-10-30T16:17:45.679248+09:00",
-      "last_seen": "2026-10-30T16:17:45.679248+09:00",
+      "last_seen": "2026-10-30T16:43:52.462751+09:00",
       "latest_source_count": 3,
       "latest_post_count": 3,
       "rank": 17,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "ie5cc1138",
@@ -768,7 +768,47 @@
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 18,
-      "change": -1
+      "change": 0
+    },
+    {
+      "id": "ib1a32991",
+      "title": "'김건희에 명품' 김기현 무죄…아내가 줬지만 공모입증 안돼 (종합) / 연합뉴스",
+      "keywords": [
+        "김기현",
+        "무죄"
+      ],
+      "source_count": 3,
+      "post_count": 4,
+      "score": 108.33,
+      "peak_score": 90.84,
+      "appearances": 2,
+      "sources": [
+        "뽐뿌",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 37,
+          "title": "'김건희에 명품' 김기현 무죄…아내가 줬지만 공모입증 안돼 (종합) / 연합뉴스",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2746923",
+          "score": 63.78
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 73,
+          "title": "속보) 김기현 무죄ㅋㅋ",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10170773",
+          "score": 57.67
+        }
+      ],
+      "first_seen": "2026-10-30T16:17:45.679248+09:00",
+      "last_seen": "2026-10-30T16:43:52.462751+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 3,
+      "rank": 19,
+      "change": 1
     },
     {
       "id": "i039fd79c",
@@ -806,58 +846,8 @@
       "last_seen": "2026-10-30T10:40:41.816687+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 19,
-      "change": -1
-    },
-    {
-      "id": "ib1a32991",
-      "title": "속보) 김기현 무죄ㅋㅋ",
-      "keywords": [
-        "김기현",
-        "무죄",
-        "명품백",
-        "선물",
-        "벌금형"
-      ],
-      "source_count": 3,
-      "post_count": 4,
-      "score": 106.31,
-      "peak_score": 90.84,
-      "appearances": 1,
-      "sources": [
-        "뽐뿌",
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 12,
-          "title": "속보) 김기현 무죄ㅋㅋ",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10170773",
-          "score": 74.84
-        },
-        {
-          "source": "인벤",
-          "rank": 15,
-          "title": "'김건희에 명품' 김기현 무죄…아내가 줬지만 공모입증 안돼 (종합) / 연합뉴스",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2746923",
-          "score": 72.95
-        },
-        {
-          "source": "클리앙",
-          "rank": 87,
-          "title": "김건희 명품백 선물' 김기현, 1심 무죄...배우자는 벌금형",
-          "url": "https://www.clien.net/service/board/park/19284945?od=T31&po=0&category=0&groupCd=",
-          "score": 55.16
-        }
-      ],
-      "first_seen": "2026-10-30T16:17:45.679248+09:00",
-      "last_seen": "2026-10-30T16:17:45.679248+09:00",
-      "latest_source_count": 3,
-      "latest_post_count": 4,
       "rank": 20,
-      "change": "NEW"
+      "change": -1
     }
   ]
 }
