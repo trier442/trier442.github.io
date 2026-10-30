@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W44",
   "label": "2026.10.26 ~ 11.01",
-  "collected_at": "2026-10-30T06:55:54.170346+09:00",
+  "collected_at": "2026-10-30T10:19:06.010241+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -258,7 +258,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 6,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i6fb7ee77",
@@ -296,7 +296,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 7,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i5d6688ff",
@@ -334,7 +334,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 8,
-      "change": -1
+      "change": 0
     },
     {
       "id": "ib522be5d",
@@ -372,7 +372,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 9,
-      "change": -1
+      "change": 0
     },
     {
       "id": "id0f722ca",
@@ -410,7 +410,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 10,
-      "change": -1
+      "change": 0
     },
     {
       "id": "ifd0be149",
@@ -448,7 +448,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 11,
-      "change": -1
+      "change": 0
     },
     {
       "id": "icf8be3fe",
@@ -505,7 +505,7 @@
       "latest_source_count": 3,
       "latest_post_count": 4,
       "rank": 12,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i14d31b7b",
@@ -543,7 +543,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 13,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i230edad9",
@@ -591,7 +591,7 @@
       "latest_source_count": 3,
       "latest_post_count": 3,
       "rank": 14,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "ia4c7959d",
@@ -630,7 +630,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 15,
-      "change": -2
+      "change": 0
     },
     {
       "id": "ia0fd1514",
@@ -640,9 +640,9 @@
       ],
       "source_count": 2,
       "post_count": 4,
-      "score": 108.56,
+      "score": 109.47,
       "peak_score": 92.51,
-      "appearances": 4,
+      "appearances": 5,
       "sources": [
         "뽐뿌",
         "인벤",
@@ -650,26 +650,68 @@
       ],
       "posts": [
         {
-          "source": "인벤",
-          "rank": 11,
-          "title": "유시민 “이재명, 윤석열과 똑같다…극단적 경우 임기 못 채우기도” 또 작심 비판",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2746388",
-          "score": 72.31
+          "source": "뽐뿌",
+          "rank": 14,
+          "title": "유시민) 발언 핵심 요약",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10169534",
+          "score": 71.7
         },
         {
-          "source": "클리앙",
-          "rank": 41,
-          "title": "유시민 옹이 직접 정치를 하시지...",
-          "url": "https://www.clien.net/service/board/park/19284194?od=T31&po=0&category=0&groupCd=",
-          "score": 63.84
+          "source": "인벤",
+          "rank": 40,
+          "title": "유시민 “임기 못 채울 수도”…민주 “같은 내무반에 수류탄 던지냐”",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2746776",
+          "score": 65.1
         }
       ],
       "first_seen": "2026-10-28T23:25:48.055704+09:00",
-      "last_seen": "2026-10-29T08:39:09.906011+09:00",
+      "last_seen": "2026-10-30T10:19:06.010241+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 16,
-      "change": -2
+      "change": 0
+    },
+    {
+      "id": "ie5cc1138",
+      "title": "[속보] 최불암 별세...향년 87세 ㄹㅇ...jpg",
+      "keywords": [
+        "최불암",
+        "별세",
+        "향년",
+        "87세",
+        "국민"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 106.88,
+      "peak_score": 96.41,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 4,
+          "title": "[속보] 최불암 별세...향년 87세 ㄹㅇ...jpg",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474180&_dcbest=1&page=1",
+          "score": 87.41
+        },
+        {
+          "source": "더쿠",
+          "rank": 25,
+          "title": "‘국민 아버지’ 배우 최불암 별세…향년 87세",
+          "url": "https://theqoo.net/hot/4390411975",
+          "score": 69.05
+        }
+      ],
+      "first_seen": "2026-10-30T10:19:06.010241+09:00",
+      "last_seen": "2026-10-30T10:19:06.010241+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 3,
+      "rank": 17,
+      "change": "NEW"
     },
     {
       "id": "i348b5bff",
@@ -708,8 +750,8 @@
       "last_seen": "2026-10-29T20:00:33.636303+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 17,
-      "change": -2
+      "rank": 18,
+      "change": -1
     },
     {
       "id": "i039fd79c",
@@ -747,8 +789,8 @@
       "last_seen": "2026-10-29T13:22:01.722216+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 18,
-      "change": -2
+      "rank": 19,
+      "change": -1
     },
     {
       "id": "id2d5aa4e",
@@ -785,46 +827,8 @@
       "last_seen": "2026-10-28T10:38:27.702461+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 19,
-      "change": -2
-    },
-    {
-      "id": "iefb8708f",
-      "title": "‘이미지’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "이미지"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 105.27,
-      "peak_score": 95.8,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 4,
-          "title": "한국인이 일본여행가면 받는 이미지.jpg",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=tour&no=116162",
-          "score": 86.8
-        },
-        {
-          "source": "더쿠",
-          "rank": 95,
-          "title": "30대 중반이 느끼는 옷 쇼핑몰 브랜드 이미지",
-          "url": "https://theqoo.net/hot/4386767707",
-          "score": 52.53
-        }
-      ],
-      "first_seen": "2026-10-14T23:30:27.973805+09:00",
-      "last_seen": "2026-10-26T14:27:24.694829+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 20,
-      "change": -2
+      "change": -1
     }
   ]
 }
