@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-10-30T10:19:06.010241+09:00",
+  "collected_at": "2026-10-30T10:40:41.816687+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -11,19 +11,61 @@
   "rankings": {
     "realtime": [
       {
+        "id": "ia0fd1514",
+        "title": "‘유시민’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "유시민"
+        ],
+        "source_count": 3,
+        "post_count": 3,
+        "score": 77.67,
+        "peak_score": 77.67,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 55,
+            "title": "유시민 가설, 하루 만에 검증됐다…'지들끼리 싸워' 피험자가 보고서를 대신 썼다",
+            "url": "https://www.clien.net/service/board/park/19284787?od=T31&po=0&category=0&groupCd=",
+            "score": 60.67
+          },
+          {
+            "source": "인벤",
+            "rank": 78,
+            "title": "유시민 “임기 못 채울 수도”…민주 “같은 내무반에 수류탄 던지냐”",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2746776",
+            "score": 56.72
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 97,
+            "title": "유시민) 발언 핵심 요약",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10169534",
+            "score": 52.25
+          }
+        ],
+        "rank": 1,
+        "change": 1
+      },
+      {
         "id": "ie5cc1138",
         "title": "[속보] 최불암 별세...향년 87세 ㄹㅇ...jpg",
         "keywords": [
-          "최불암",
           "별세",
+          "최불암",
           "향년",
           "87세",
-          "국민"
+          "아버지"
         ],
         "source_count": 2,
         "post_count": 3,
-        "score": 96.41,
-        "peak_score": 96.41,
+        "score": 96.08,
+        "peak_score": 96.08,
         "appearances": 1,
         "sources": [
           "더쿠",
@@ -35,153 +77,85 @@
             "rank": 4,
             "title": "[속보] 최불암 별세...향년 87세 ㄹㅇ...jpg",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474180&_dcbest=1&page=1",
-            "score": 87.41
+            "score": 87.08
           },
           {
             "source": "더쿠",
-            "rank": 25,
+            "rank": 42,
             "title": "‘국민 아버지’ 배우 최불암 별세…향년 87세",
             "url": "https://theqoo.net/hot/4390411975",
-            "score": 69.05
-          }
-        ],
-        "rank": 1,
-        "change": "NEW"
-      },
-      {
-        "id": "ia0fd1514",
-        "title": "‘유시민’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "유시민"
-        ],
-        "source_count": 2,
-        "post_count": 3,
-        "score": 81.7,
-        "peak_score": 81.7,
-        "appearances": 1,
-        "sources": [
-          "뽐뿌",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 14,
-            "title": "유시민) 발언 핵심 요약",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10169534",
-            "score": 71.7
-          },
-          {
-            "source": "인벤",
-            "rank": 40,
-            "title": "유시민 “임기 못 채울 수도”…민주 “같은 내무반에 수류탄 던지냐”",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2746776",
-            "score": 65.1
+            "score": 63.74
           }
         ],
         "rank": 2,
-        "change": "NEW"
+        "change": -1
       },
       {
-        "id": "icb916b20",
-        "title": "‘의사가’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "ifb9b4bbc",
+        "title": "‘sns에’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "의사가"
+          "sns에"
         ],
         "source_count": 2,
-        "post_count": 3,
-        "score": 69.01,
-        "peak_score": 69.01,
+        "post_count": 2,
+        "score": 89.01,
+        "peak_score": 89.01,
         "appearances": 1,
         "sources": [
-          "더쿠",
-          "루리웹"
+          "뽐뿌",
+          "클리앙"
         ],
         "posts": [
           {
-            "source": "루리웹",
-            "rank": 64,
-            "title": "정신과 의사가 2030에게 전하는 진심 어린 한마디",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77208151?m=humor_only&t=now",
-            "score": 59.01
+            "source": "클리앙",
+            "rank": 6,
+            "title": "대통령이 SNS에 열광하니",
+            "url": "https://www.clien.net/service/board/park/19284786?od=T31&po=0&category=0&groupCd=",
+            "score": 80.01
           },
           {
-            "source": "더쿠",
-            "rank": 91,
-            "title": "지방의료를 위해 일하겠다던 의사가 다시 서울로 올라간다는 이유",
-            "url": "https://theqoo.net/hot/4390329020",
-            "score": 52.42
+            "source": "뽐뿌",
+            "rank": 57,
+            "title": "와.. SNS에 올라온 한국 기업의 구내식당 ㄷㄷ",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10169990",
+            "score": 60.49
           }
         ],
         "rank": 3,
         "change": "NEW"
       },
       {
-        "id": "ie0a95a69",
-        "title": "‘서울로’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i039fd79c",
+        "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "서울로"
+          "이재명"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 83.57,
-        "peak_score": 83.57,
+        "score": 80.78,
+        "peak_score": 80.78,
         "appearances": 1,
         "sources": [
-          "더쿠",
-          "디시인사이드"
+          "인벤",
+          "클리앙"
         ],
         "posts": [
           {
-            "source": "디시인사이드",
-            "rank": 9,
-            "title": "서울로 출퇴근하는 경기도민의 현실.blind",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474177&_dcbest=1&page=1",
-            "score": 74.57
+            "source": "클리앙",
+            "rank": 17,
+            "title": "문재인 vs 이재명 누가 더 서민킬러인가요? (부동산 한정)",
+            "url": "https://www.clien.net/service/board/park/19284769?od=T31&po=0&category=0&groupCd=",
+            "score": 71.78
           },
           {
-            "source": "더쿠",
-            "rank": 91,
-            "title": "지방의료를 위해 일하겠다던 의사가 다시 서울로 올라간다는 이유",
-            "url": "https://theqoo.net/hot/4390329020",
-            "score": 52.42
+            "source": "인벤",
+            "rank": 22,
+            "title": "이재명 \"전국의 여남 주부님들 감사합니다.\"",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2746798",
+            "score": 69.33
           }
         ],
         "rank": 4,
-        "change": "NEW"
-      },
-      {
-        "id": "ibb35f05f",
-        "title": "‘어떻게’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "어떻게"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 77.68,
-        "peak_score": 77.68,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "디시인사이드"
-        ],
-        "posts": [
-          {
-            "source": "더쿠",
-            "rank": 27,
-            "title": "이거 어떻게 세게 답장할지 같이 도와줘 ㅠㅠ",
-            "url": "https://theqoo.net/hot/4390460188",
-            "score": 68.68
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 49,
-            "title": "안내견은 목적지를 어떻게 아는 걸까?.jpg",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474167&_dcbest=1&page=1",
-            "score": 62.58
-          }
-        ],
-        "rank": 5,
         "change": "NEW"
       },
       {
@@ -192,8 +166,8 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 76.39,
-        "peak_score": 76.39,
+        "score": 79.05,
+        "peak_score": 79.05,
         "appearances": 1,
         "sources": [
           "디시인사이드",
@@ -202,93 +176,119 @@
         "posts": [
           {
             "source": "인벤",
-            "rank": 31,
+            "rank": 20,
             "title": "혐글주의) 실시간 x된 여직원 - 3년전 핫했던 게시물의 반전.",
             "url": "https://www.inven.co.kr/board/webzine/2097/2746793",
-            "score": 67.39
+            "score": 70.05
           },
           {
             "source": "디시인사이드",
-            "rank": 35,
+            "rank": 41,
             "title": "실시간 18년간 세금 20조 태웠는데 결과물 0인 프로젝트...jpg",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474170&_dcbest=1&page=1",
-            "score": 66.03
+            "score": 63.8
+          }
+        ],
+        "rank": 5,
+        "change": 1
+      },
+      {
+        "id": "ic6bd73cf",
+        "title": "‘미국에서’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "미국에서"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 76.02,
+        "peak_score": 76.02,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 32,
+            "title": "싱글벙글 미국에서 유일하게 옳게 된 도로",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474157&_dcbest=1&page=1",
+            "score": 67.02
+          },
+          {
+            "source": "인벤",
+            "rank": 69,
+            "title": "전부 미국에서 제작했다는 트럼프폰 근황",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2746804",
+            "score": 59.18
           }
         ],
         "rank": 6,
         "change": "NEW"
       },
       {
-        "id": "i6d9c010b",
-        "title": "[단독] 아주대병원장 \"경찰, 수차례 '죄송하다' 사과…사직서 제출 3명도 설득할 것”",
+        "id": "ibb35f05f",
+        "title": "‘어떻게’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "수차례",
-          "사과",
-          "죄송하다",
-          "경찰",
-          "사직서",
-          "설득할",
-          "3명도",
-          "아주대병원장"
+          "어떻게"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 66.58,
-        "peak_score": 66.58,
+        "score": 74.87,
+        "peak_score": 74.87,
         "appearances": 1,
         "sources": [
           "더쿠",
-          "클리앙"
+          "디시인사이드"
         ],
         "posts": [
           {
             "source": "더쿠",
-            "rank": 67,
-            "title": "[단독] 아주대병원장 \"경찰, 수차례 '죄송하다' 사과…사직서 제출 3명도 설득할 것”",
-            "url": "https://theqoo.net/hot/4390361727",
-            "score": 58.58
+            "rank": 36,
+            "title": "이거 어떻게 세게 답장할지 같이 도와줘 ㅠㅠ",
+            "url": "https://theqoo.net/hot/4390460188",
+            "score": 65.87
           },
           {
-            "source": "클리앙",
-            "rank": 87,
-            "title": "[단독] 아주대병원장 '경찰 수차례 '죄송하다' 사과…사직서 제출 3명도 설득할 것”",
-            "url": "https://www.clien.net/service/board/park/19284739?od=T31&po=0&category=0&groupCd=",
-            "score": 53.76
+            "source": "디시인사이드",
+            "rank": 52,
+            "title": "안내견은 목적지를 어떻게 아는 걸까?.jpg",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474167&_dcbest=1&page=1",
+            "score": 61.3
           }
         ],
         "rank": 7,
-        "change": "NEW"
+        "change": -2
       },
       {
-        "id": "if6b2d7b7",
-        "title": "‘30일’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i047e4f3a",
+        "title": "‘온라인’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "30일",
-          "10월"
+          "온라인"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 60.47,
-        "peak_score": 60.47,
+        "score": 69.49,
+        "peak_score": 69.49,
         "appearances": 1,
         "sources": [
-          "더쿠",
+          "루리웹",
           "인벤"
         ],
         "posts": [
           {
             "source": "인벤",
-            "rank": 93,
-            "title": "2026년 10월 30일 금요일, 신문을 통해 알게 된 것들",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2746778",
-            "score": 51.47
+            "rank": 58,
+            "title": "어떤 능력자분이 만드신 절 온라인",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2746801",
+            "score": 60.49
           },
           {
-            "source": "더쿠",
-            "rank": 95,
-            "title": "🍀10월 30일 별자리/띠별 운세🍀",
-            "url": "https://theqoo.net/hot/4390429063",
-            "score": 51.21
+            "source": "루리웹",
+            "rank": 68,
+            "title": "절 온라인이 유행하자 따라만든 교회 온라인 근황",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77208315?m=humor_only&t=now",
+            "score": 59.33
           }
         ],
         "rank": 8,
@@ -439,17 +439,17 @@
         "id": "ie5cc1138",
         "title": "[속보] 최불암 별세...향년 87세 ㄹㅇ...jpg",
         "keywords": [
-          "최불암",
           "별세",
+          "최불암",
           "향년",
           "87세",
-          "국민"
+          "아버지"
         ],
         "source_count": 2,
         "post_count": 3,
-        "score": 106.88,
+        "score": 108.9,
         "peak_score": 96.41,
-        "appearances": 1,
+        "appearances": 2,
         "sources": [
           "더쿠",
           "디시인사이드"
@@ -460,22 +460,106 @@
             "rank": 4,
             "title": "[속보] 최불암 별세...향년 87세 ㄹㅇ...jpg",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474180&_dcbest=1&page=1",
-            "score": 87.41
+            "score": 87.08
           },
           {
             "source": "더쿠",
-            "rank": 25,
+            "rank": 42,
             "title": "‘국민 아버지’ 배우 최불암 별세…향년 87세",
             "url": "https://theqoo.net/hot/4390411975",
-            "score": 69.05
+            "score": 63.74
           }
         ],
         "first_seen": "2026-10-30T10:19:06.010241+09:00",
-        "last_seen": "2026-10-30T10:19:06.010241+09:00",
+        "last_seen": "2026-10-30T10:40:41.816687+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
         "rank": 4,
+        "change": 0
+      },
+      {
+        "id": "ifb9b4bbc",
+        "title": "‘sns에’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "sns에"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 98.48,
+        "peak_score": 89.01,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 6,
+            "title": "대통령이 SNS에 열광하니",
+            "url": "https://www.clien.net/service/board/park/19284786?od=T31&po=0&category=0&groupCd=",
+            "score": 80.01
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 57,
+            "title": "와.. SNS에 올라온 한국 기업의 구내식당 ㄷㄷ",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10169990",
+            "score": 60.49
+          }
+        ],
+        "first_seen": "2026-10-30T10:40:41.816687+09:00",
+        "last_seen": "2026-10-30T10:40:41.816687+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 5,
         "change": "NEW"
+      },
+      {
+        "id": "ia0fd1514",
+        "title": "‘유시민’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "유시민"
+        ],
+        "source_count": 3,
+        "post_count": 3,
+        "score": 98.19,
+        "peak_score": 81.7,
+        "appearances": 2,
+        "sources": [
+          "뽐뿌",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 55,
+            "title": "유시민 가설, 하루 만에 검증됐다…'지들끼리 싸워' 피험자가 보고서를 대신 썼다",
+            "url": "https://www.clien.net/service/board/park/19284787?od=T31&po=0&category=0&groupCd=",
+            "score": 60.67
+          },
+          {
+            "source": "인벤",
+            "rank": 78,
+            "title": "유시민 “임기 못 채울 수도”…민주 “같은 내무반에 수류탄 던지냐”",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2746776",
+            "score": 56.72
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 97,
+            "title": "유시민) 발언 핵심 요약",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10169534",
+            "score": 52.25
+          }
+        ],
+        "first_seen": "2026-10-28T23:25:48.055704+09:00",
+        "last_seen": "2026-10-30T10:40:41.816687+09:00",
+        "latest_source_count": 3,
+        "latest_post_count": 3,
+        "rank": 6,
+        "change": 2
       },
       {
         "id": "i496737ff",
@@ -513,8 +597,8 @@
         "last_seen": "2026-10-30T06:55:54.170346+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 5,
-        "change": -1
+        "rank": 7,
+        "change": -2
       },
       {
         "id": "i8794fc33",
@@ -551,8 +635,8 @@
         "last_seen": "2026-10-30T06:55:54.170346+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 6,
-        "change": -1
+        "rank": 8,
+        "change": -2
       },
       {
         "id": "ie0a95a69",
@@ -589,46 +673,122 @@
         "last_seen": "2026-10-30T10:19:06.010241+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 7,
-        "change": "NEW"
+        "rank": 9,
+        "change": -2
       },
       {
-        "id": "ia0fd1514",
-        "title": "‘유시민’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "iae6b0123",
+        "title": "‘실시간’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "유시민"
+          "실시간"
         ],
         "source_count": 2,
-        "post_count": 3,
-        "score": 92.17,
-        "peak_score": 81.7,
-        "appearances": 1,
+        "post_count": 2,
+        "score": 90.54,
+        "peak_score": 79.05,
+        "appearances": 2,
         "sources": [
-          "뽐뿌",
+          "디시인사이드",
           "인벤"
         ],
         "posts": [
           {
-            "source": "뽐뿌",
-            "rank": 14,
-            "title": "유시민) 발언 핵심 요약",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10169534",
-            "score": 71.7
+            "source": "인벤",
+            "rank": 20,
+            "title": "혐글주의) 실시간 x된 여직원 - 3년전 핫했던 게시물의 반전.",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2746793",
+            "score": 70.05
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 41,
+            "title": "실시간 18년간 세금 20조 태웠는데 결과물 0인 프로젝트...jpg",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474170&_dcbest=1&page=1",
+            "score": 63.8
+          }
+        ],
+        "first_seen": "2026-10-06T11:19:29.813850+09:00",
+        "last_seen": "2026-10-30T10:40:41.816687+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 10,
+        "change": 1
+      },
+      {
+        "id": "i039fd79c",
+        "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "이재명"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 90.25,
+        "peak_score": 80.78,
+        "appearances": 1,
+        "sources": [
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 17,
+            "title": "문재인 vs 이재명 누가 더 서민킬러인가요? (부동산 한정)",
+            "url": "https://www.clien.net/service/board/park/19284769?od=T31&po=0&category=0&groupCd=",
+            "score": 71.78
           },
           {
             "source": "인벤",
-            "rank": 40,
-            "title": "유시민 “임기 못 채울 수도”…민주 “같은 내무반에 수류탄 던지냐”",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2746776",
-            "score": 65.1
+            "rank": 22,
+            "title": "이재명 \"전국의 여남 주부님들 감사합니다.\"",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2746798",
+            "score": 69.33
           }
         ],
-        "first_seen": "2026-10-28T23:25:48.055704+09:00",
-        "last_seen": "2026-10-30T10:19:06.010241+09:00",
+        "first_seen": "2026-09-27T13:38:37.715424+09:00",
+        "last_seen": "2026-10-30T10:40:41.816687+09:00",
         "latest_source_count": 2,
-        "latest_post_count": 3,
-        "rank": 8,
+        "latest_post_count": 2,
+        "rank": 11,
         "change": "NEW"
+      },
+      {
+        "id": "ibb35f05f",
+        "title": "‘어떻게’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "어떻게"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 89.17,
+        "peak_score": 77.68,
+        "appearances": 2,
+        "sources": [
+          "더쿠",
+          "디시인사이드"
+        ],
+        "posts": [
+          {
+            "source": "더쿠",
+            "rank": 36,
+            "title": "이거 어떻게 세게 답장할지 같이 도와줘 ㅠㅠ",
+            "url": "https://theqoo.net/hot/4390460188",
+            "score": 65.87
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 52,
+            "title": "안내견은 목적지를 어떻게 아는 걸까?.jpg",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474167&_dcbest=1&page=1",
+            "score": 61.3
+          }
+        ],
+        "first_seen": "2026-09-28T19:49:36.308484+09:00",
+        "last_seen": "2026-10-30T10:40:41.816687+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 12,
+        "change": -2
       },
       {
         "id": "i3ccc2d51",
@@ -665,57 +825,19 @@
         "last_seen": "2026-10-30T02:25:17.578533+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 9,
-        "change": -3
+        "rank": 13,
+        "change": -4
       },
       {
-        "id": "ibb35f05f",
-        "title": "‘어떻게’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "ic6bd73cf",
+        "title": "‘미국에서’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "어떻게"
+          "미국에서"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 87.15,
-        "peak_score": 77.68,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "디시인사이드"
-        ],
-        "posts": [
-          {
-            "source": "더쿠",
-            "rank": 27,
-            "title": "이거 어떻게 세게 답장할지 같이 도와줘 ㅠㅠ",
-            "url": "https://theqoo.net/hot/4390460188",
-            "score": 68.68
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 49,
-            "title": "안내견은 목적지를 어떻게 아는 걸까?.jpg",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474167&_dcbest=1&page=1",
-            "score": 62.58
-          }
-        ],
-        "first_seen": "2026-09-28T19:49:36.308484+09:00",
-        "last_seen": "2026-10-30T10:19:06.010241+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 10,
-        "change": "NEW"
-      },
-      {
-        "id": "iae6b0123",
-        "title": "‘실시간’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "실시간"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 85.86,
-        "peak_score": 76.39,
+        "score": 85.49,
+        "peak_score": 76.02,
         "appearances": 1,
         "sources": [
           "디시인사이드",
@@ -723,25 +845,25 @@
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 31,
-            "title": "혐글주의) 실시간 x된 여직원 - 3년전 핫했던 게시물의 반전.",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2746793",
-            "score": 67.39
+            "source": "디시인사이드",
+            "rank": 32,
+            "title": "싱글벙글 미국에서 유일하게 옳게 된 도로",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474157&_dcbest=1&page=1",
+            "score": 67.02
           },
           {
-            "source": "디시인사이드",
-            "rank": 35,
-            "title": "실시간 18년간 세금 20조 태웠는데 결과물 0인 프로젝트...jpg",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474170&_dcbest=1&page=1",
-            "score": 66.03
+            "source": "인벤",
+            "rank": 69,
+            "title": "전부 미국에서 제작했다는 트럼프폰 근황",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2746804",
+            "score": 59.18
           }
         ],
-        "first_seen": "2026-10-06T11:19:29.813850+09:00",
-        "last_seen": "2026-10-30T10:19:06.010241+09:00",
+        "first_seen": "2026-10-30T10:40:41.816687+09:00",
+        "last_seen": "2026-10-30T10:40:41.816687+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
+        "rank": 14,
         "change": "NEW"
       },
       {
@@ -779,8 +901,8 @@
         "last_seen": "2026-10-30T06:55:54.170346+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 12,
-        "change": -5
+        "rank": 15,
+        "change": -3
       },
       {
         "id": "i0cdcc665",
@@ -818,8 +940,8 @@
         "last_seen": "2026-10-30T01:26:47.279832+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 13,
-        "change": -5
+        "rank": 16,
+        "change": -3
       },
       {
         "id": "i5891db4f",
@@ -859,8 +981,8 @@
         "last_seen": "2026-10-30T02:25:17.578533+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 14,
-        "change": -5
+        "rank": 17,
+        "change": -3
       },
       {
         "id": "i54cc5255",
@@ -897,8 +1019,8 @@
         "last_seen": "2026-10-30T06:55:54.170346+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 15,
-        "change": -5
+        "rank": 18,
+        "change": -3
       },
       {
         "id": "icb916b20",
@@ -935,165 +1057,42 @@
         "last_seen": "2026-10-30T10:19:06.010241+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 16,
-        "change": "NEW"
+        "rank": 19,
+        "change": -3
       },
       {
-        "id": "i2ac13537",
-        "title": "‘알아보자’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i047e4f3a",
+        "title": "‘온라인’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "알아보자"
+          "온라인"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 77.84,
-        "peak_score": 68.37,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "루리웹"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 51,
-            "title": "싱글방글 고대 튀르크 신화 속 신들을 알아보자",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474121&_dcbest=1&page=1",
-            "score": 59.37
-          },
-          {
-            "source": "루리웹",
-            "rank": 71,
-            "title": "소전2에 등장하는 소전1 인형 근황을 알아보자",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77206187?m=humor_only&t=now",
-            "score": 56.12
-          }
-        ],
-        "first_seen": "2026-10-06T11:19:29.813850+09:00",
-        "last_seen": "2026-10-30T02:25:17.578533+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 17,
-        "change": -6
-      },
-      {
-        "id": "i6d9c010b",
-        "title": "[단독] 아주대병원장 \"경찰, 수차례 '죄송하다' 사과…사직서 제출 3명도 설득할 것”",
-        "keywords": [
-          "수차례",
-          "사과",
-          "죄송하다",
-          "경찰",
-          "사직서",
-          "설득할",
-          "3명도",
-          "아주대병원장"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 76.05,
-        "peak_score": 66.58,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "더쿠",
-            "rank": 67,
-            "title": "[단독] 아주대병원장 \"경찰, 수차례 '죄송하다' 사과…사직서 제출 3명도 설득할 것”",
-            "url": "https://theqoo.net/hot/4390361727",
-            "score": 58.58
-          },
-          {
-            "source": "클리앙",
-            "rank": 87,
-            "title": "[단독] 아주대병원장 '경찰 수차례 '죄송하다' 사과…사직서 제출 3명도 설득할 것”",
-            "url": "https://www.clien.net/service/board/park/19284739?od=T31&po=0&category=0&groupCd=",
-            "score": 53.76
-          }
-        ],
-        "first_seen": "2026-10-30T10:19:06.010241+09:00",
-        "last_seen": "2026-10-30T10:19:06.010241+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 18,
-        "change": "NEW"
-      },
-      {
-        "id": "i463bef82",
-        "title": "AI) 엥 GPT Pro 사용 한도 2배 ?",
-        "keywords": [
-          "pro",
-          "gpt"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 74.96,
-        "peak_score": 65.49,
+        "score": 78.96,
+        "peak_score": 69.49,
         "appearances": 1,
         "sources": [
           "루리웹",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 65,
-            "title": "AI) 엥 GPT Pro 사용 한도 2배 ?",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77206746?m=humor_only&t=now",
-            "score": 57.49
-          },
-          {
-            "source": "클리앙",
-            "rank": 73,
-            "title": "GPT pro 사용한도 유지 결정. pro 500은 x50 배",
-            "url": "https://www.clien.net/service/board/park/19284677?od=T31&po=0&category=0&groupCd=",
-            "score": 56.25
-          }
-        ],
-        "first_seen": "2026-10-30T06:55:54.170346+09:00",
-        "last_seen": "2026-10-30T06:55:54.170346+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 19,
-        "change": -7
-      },
-      {
-        "id": "if6b2d7b7",
-        "title": "‘30일’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "30일",
-          "10월"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 69.94,
-        "peak_score": 60.47,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
           "인벤"
         ],
         "posts": [
           {
             "source": "인벤",
-            "rank": 93,
-            "title": "2026년 10월 30일 금요일, 신문을 통해 알게 된 것들",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2746778",
-            "score": 51.47
+            "rank": 58,
+            "title": "어떤 능력자분이 만드신 절 온라인",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2746801",
+            "score": 60.49
           },
           {
-            "source": "더쿠",
-            "rank": 95,
-            "title": "🍀10월 30일 별자리/띠별 운세🍀",
-            "url": "https://theqoo.net/hot/4390429063",
-            "score": 51.21
+            "source": "루리웹",
+            "rank": 68,
+            "title": "절 온라인이 유행하자 따라만든 교회 온라인 근황",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77208315?m=humor_only&t=now",
+            "score": 59.33
           }
         ],
-        "first_seen": "2026-10-01T09:09:08.756943+09:00",
-        "last_seen": "2026-10-30T10:19:06.010241+09:00",
+        "first_seen": "2026-10-30T10:40:41.816687+09:00",
+        "last_seen": "2026-10-30T10:40:41.816687+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 20,
@@ -1432,6 +1431,52 @@
         "change": 0
       },
       {
+        "id": "ia0fd1514",
+        "title": "‘유시민’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "유시민"
+        ],
+        "source_count": 3,
+        "post_count": 4,
+        "score": 114.24,
+        "peak_score": 92.51,
+        "appearances": 6,
+        "sources": [
+          "뽐뿌",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 55,
+            "title": "유시민 가설, 하루 만에 검증됐다…'지들끼리 싸워' 피험자가 보고서를 대신 썼다",
+            "url": "https://www.clien.net/service/board/park/19284787?od=T31&po=0&category=0&groupCd=",
+            "score": 60.67
+          },
+          {
+            "source": "인벤",
+            "rank": 78,
+            "title": "유시민 “임기 못 채울 수도”…민주 “같은 내무반에 수류탄 던지냐”",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2746776",
+            "score": 56.72
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 97,
+            "title": "유시민) 발언 핵심 요약",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10169534",
+            "score": 52.25
+          }
+        ],
+        "first_seen": "2026-10-28T23:25:48.055704+09:00",
+        "last_seen": "2026-10-30T10:40:41.816687+09:00",
+        "latest_source_count": 3,
+        "latest_post_count": 3,
+        "rank": 9,
+        "change": 7
+      },
+      {
         "id": "ib522be5d",
         "title": "‘고소당한’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -1466,8 +1511,8 @@
         "last_seen": "2026-10-28T16:31:27.703899+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 9,
-        "change": 0
+        "rank": 10,
+        "change": -1
       },
       {
         "id": "id0f722ca",
@@ -1504,8 +1549,8 @@
         "last_seen": "2026-10-29T18:48:34.177189+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 10,
-        "change": 0
+        "rank": 11,
+        "change": -1
       },
       {
         "id": "ifd0be149",
@@ -1542,8 +1587,8 @@
         "last_seen": "2026-10-27T15:11:02.788061+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
-        "change": 0
+        "rank": 12,
+        "change": -1
       },
       {
         "id": "icf8be3fe",
@@ -1599,8 +1644,8 @@
         "last_seen": "2026-10-26T09:40:04.280210+09:00",
         "latest_source_count": 3,
         "latest_post_count": 4,
-        "rank": 12,
-        "change": 0
+        "rank": 13,
+        "change": -1
       },
       {
         "id": "i14d31b7b",
@@ -1637,8 +1682,8 @@
         "last_seen": "2026-10-27T02:31:17.691735+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 13,
-        "change": 0
+        "rank": 14,
+        "change": -1
       },
       {
         "id": "i230edad9",
@@ -1685,8 +1730,8 @@
         "last_seen": "2026-10-30T06:55:54.170346+09:00",
         "latest_source_count": 3,
         "latest_post_count": 3,
-        "rank": 14,
-        "change": 0
+        "rank": 15,
+        "change": -1
       },
       {
         "id": "ia4c7959d",
@@ -1724,63 +1769,24 @@
         "last_seen": "2026-10-27T06:51:21.487617+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 15,
-        "change": 0
-      },
-      {
-        "id": "ia0fd1514",
-        "title": "‘유시민’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "유시민"
-        ],
-        "source_count": 2,
-        "post_count": 4,
-        "score": 109.47,
-        "peak_score": 92.51,
-        "appearances": 5,
-        "sources": [
-          "뽐뿌",
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 14,
-            "title": "유시민) 발언 핵심 요약",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10169534",
-            "score": 71.7
-          },
-          {
-            "source": "인벤",
-            "rank": 40,
-            "title": "유시민 “임기 못 채울 수도”…민주 “같은 내무반에 수류탄 던지냐”",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2746776",
-            "score": 65.1
-          }
-        ],
-        "first_seen": "2026-10-28T23:25:48.055704+09:00",
-        "last_seen": "2026-10-30T10:19:06.010241+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 3,
         "rank": 16,
-        "change": 0
+        "change": -1
       },
       {
         "id": "ie5cc1138",
         "title": "[속보] 최불암 별세...향년 87세 ㄹㅇ...jpg",
         "keywords": [
-          "최불암",
           "별세",
+          "최불암",
           "향년",
           "87세",
-          "국민"
+          "아버지"
         ],
         "source_count": 2,
         "post_count": 3,
-        "score": 106.88,
+        "score": 108.9,
         "peak_score": 96.41,
-        "appearances": 1,
+        "appearances": 2,
         "sources": [
           "더쿠",
           "디시인사이드"
@@ -1791,22 +1797,61 @@
             "rank": 4,
             "title": "[속보] 최불암 별세...향년 87세 ㄹㅇ...jpg",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474180&_dcbest=1&page=1",
-            "score": 87.41
+            "score": 87.08
           },
           {
             "source": "더쿠",
-            "rank": 25,
+            "rank": 42,
             "title": "‘국민 아버지’ 배우 최불암 별세…향년 87세",
             "url": "https://theqoo.net/hot/4390411975",
-            "score": 69.05
+            "score": 63.74
           }
         ],
         "first_seen": "2026-10-30T10:19:06.010241+09:00",
-        "last_seen": "2026-10-30T10:19:06.010241+09:00",
+        "last_seen": "2026-10-30T10:40:41.816687+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
         "rank": 17,
-        "change": "NEW"
+        "change": 0
+      },
+      {
+        "id": "i039fd79c",
+        "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "이재명"
+        ],
+        "source_count": 2,
+        "post_count": 4,
+        "score": 106.6,
+        "peak_score": 90.55,
+        "appearances": 4,
+        "sources": [
+          "뽐뿌",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 17,
+            "title": "문재인 vs 이재명 누가 더 서민킬러인가요? (부동산 한정)",
+            "url": "https://www.clien.net/service/board/park/19284769?od=T31&po=0&category=0&groupCd=",
+            "score": 71.78
+          },
+          {
+            "source": "인벤",
+            "rank": 22,
+            "title": "이재명 \"전국의 여남 주부님들 감사합니다.\"",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2746798",
+            "score": 69.33
+          }
+        ],
+        "first_seen": "2026-09-27T13:38:37.715424+09:00",
+        "last_seen": "2026-10-30T10:40:41.816687+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 18,
+        "change": 1
       },
       {
         "id": "i348b5bff",
@@ -1843,45 +1888,6 @@
         ],
         "first_seen": "2026-10-26T20:22:14.887585+09:00",
         "last_seen": "2026-10-29T20:00:33.636303+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 18,
-        "change": -1
-      },
-      {
-        "id": "i039fd79c",
-        "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "이재명"
-        ],
-        "source_count": 2,
-        "post_count": 4,
-        "score": 105.48,
-        "peak_score": 90.55,
-        "appearances": 3,
-        "sources": [
-          "뽐뿌",
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 5,
-            "title": "이제 하다하다 펨코링크까지 거는 이재명 X",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10168498",
-            "score": 81.55
-          },
-          {
-            "source": "클리앙",
-            "rank": 41,
-            "title": "이재명 대통령이 생각하는 지지율이 떨어지는 이유",
-            "url": "https://www.clien.net/service/board/park/19284361?od=T31&po=0&category=0&groupCd=",
-            "score": 63.06
-          }
-        ],
-        "first_seen": "2026-09-27T13:38:37.715424+09:00",
-        "last_seen": "2026-10-29T13:22:01.722216+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 19,
@@ -1923,7 +1929,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 20,
-        "change": -1
+        "change": 0
       }
     ],
     "monthly": [
@@ -2162,7 +2168,7 @@
         "post_count": 6,
         "score": 141.39,
         "peak_score": 105.39,
-        "appearances": 49,
+        "appearances": 50,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -2172,22 +2178,22 @@
         ],
         "posts": [
           {
-            "source": "뽐뿌",
-            "rank": 5,
-            "title": "이제 하다하다 펨코링크까지 거는 이재명 X",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10168498",
-            "score": 81.55
+            "source": "클리앙",
+            "rank": 17,
+            "title": "문재인 vs 이재명 누가 더 서민킬러인가요? (부동산 한정)",
+            "url": "https://www.clien.net/service/board/park/19284769?od=T31&po=0&category=0&groupCd=",
+            "score": 71.78
           },
           {
-            "source": "클리앙",
-            "rank": 41,
-            "title": "이재명 대통령이 생각하는 지지율이 떨어지는 이유",
-            "url": "https://www.clien.net/service/board/park/19284361?od=T31&po=0&category=0&groupCd=",
-            "score": 63.06
+            "source": "인벤",
+            "rank": 22,
+            "title": "이재명 \"전국의 여남 주부님들 감사합니다.\"",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2746798",
+            "score": 69.33
           }
         ],
         "first_seen": "2026-09-27T13:38:37.715424+09:00",
-        "last_seen": "2026-10-29T13:22:01.722216+09:00",
+        "last_seen": "2026-10-30T10:40:41.816687+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 6,
