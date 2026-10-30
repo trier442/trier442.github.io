@@ -2,9 +2,9 @@
   "version": 1,
   "date": "2026-10-30",
   "label": "2026년 10월 30일",
-  "collected_at": "2026-10-30T10:40:41.816687+09:00",
+  "collected_at": "2026-10-30T16:17:45.679248+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘[1보] '영원한 수사반장'·'국민 아버지' 최불암 별세’입니다. 실시간 키워드 상위: #유시민. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘[1보] '영원한 수사반장'·'국민 아버지' 최불암 별세’입니다. 실시간 키워드 상위: #단독. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 6,
@@ -13,8 +13,8 @@
     "daily_posts": 100,
     "daily_issues": 20,
     "keywords": 20,
-    "top100_views": 960072,
-    "top100_comments": 10961
+    "top100_views": 1234609,
+    "top100_comments": 15210
   },
   "highlights": [
     {
@@ -25,18 +25,36 @@
     },
     {
       "type": "post",
-      "title": "중진국들이 한국을 성장모델로 시도할때 좌절하는 지점",
+      "title": "폭스바겐 \" 영업이익 98.7% 하락 \"망할듯",
       "text": "루리웹에서 현재 상위권에 오른 인기글입니다.",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77205484?m=humor"
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77208890?m=humor"
     },
     {
       "type": "keyword",
-      "title": "#유시민",
-      "text": "3개 커뮤니티 · 4개 인기글에서 함께 등장했습니다.",
-      "keyword": "유시민"
+      "title": "#단독",
+      "text": "3개 커뮤니티 · 6개 인기글에서 함께 등장했습니다.",
+      "keyword": "단독"
     }
   ],
   "top_posts": [
+    {
+      "title": "폭스바겐 \" 영업이익 98.7% 하락 \"망할듯",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77208890?m=humor",
+      "first_seen": "2026-10-30T16:17:45.679248+09:00",
+      "last_seen": "2026-10-30T16:17:45.679248+09:00",
+      "peak_score": 98.54,
+      "max_views": 22375,
+      "max_likes": 122,
+      "max_comments": 101,
+      "appearances": 1,
+      "score": 107.93,
+      "views": 22375,
+      "likes": 122,
+      "comments": 101,
+      "change": "NEW"
+    },
     {
       "title": "중진국들이 한국을 성장모델로 시도할때 좌절하는 지점",
       "source": "루리웹",
@@ -49,11 +67,11 @@
       "max_likes": 111,
       "max_comments": 97,
       "appearances": 2,
-      "score": 107.63,
+      "score": 107.16,
       "views": 15655,
       "likes": 111,
       "comments": 97,
-      "change": 0
+      "change": -1
     },
     {
       "title": "유명한 밈 \"토스트 샌드위치\"의 진실",
@@ -67,11 +85,11 @@
       "max_likes": 56,
       "max_comments": 40,
       "appearances": 1,
-      "score": 107.57,
+      "score": 107.11,
       "views": 12892,
       "likes": 56,
       "comments": 40,
-      "change": 0
+      "change": -1
     },
     {
       "title": "내가 서브컬쳐겜 하게된 계기",
@@ -85,11 +103,11 @@
       "max_likes": 55,
       "max_comments": 53,
       "appearances": 2,
-      "score": 107.18,
+      "score": 106.71,
       "views": 11008,
       "likes": 55,
       "comments": 53,
-      "change": 0
+      "change": -1
     },
     {
       "title": "\"다 돈가스 아니야, 잘봐...커틀릿 계열 요리인데 잘 보면 구분될거임\"",
@@ -103,11 +121,11 @@
       "max_likes": 87,
       "max_comments": 69,
       "appearances": 2,
-      "score": 106.87,
+      "score": 106.4,
       "views": 20933,
       "likes": 87,
       "comments": 69,
-      "change": 5
+      "change": -1
     },
     {
       "title": "뚜레쥬르 근황.jpg",
@@ -121,11 +139,11 @@
       "max_likes": 169,
       "max_comments": 69,
       "appearances": 1,
-      "score": 106.2,
+      "score": 105.73,
       "views": 24239,
       "likes": 169,
       "comments": 69,
-      "change": "NEW"
+      "change": -1
     },
     {
       "title": "부고) '영원한 수사반장' 최불암 별세",
@@ -139,11 +157,11 @@
       "max_likes": 139,
       "max_comments": 70,
       "appearances": 1,
-      "score": 105.64,
+      "score": 105.17,
       "views": 9093,
       "likes": 139,
       "comments": 70,
-      "change": -2
+      "change": -1
     },
     {
       "title": "안드로이드는 아이폰보다 램도 많은데 뭐함?",
@@ -157,11 +175,11 @@
       "max_likes": 152,
       "max_comments": 96,
       "appearances": 1,
-      "score": 105.55,
+      "score": 105.08,
       "views": 14401,
       "likes": 152,
       "comments": 96,
-      "change": -2
+      "change": -1
     },
     {
       "title": "애플은 샌디스크 CEO에게 \"무릎 꿇고 기어 다니라\"고 협박",
@@ -175,199 +193,61 @@
       "max_likes": 203,
       "max_comments": 71,
       "appearances": 1,
-      "score": 105.27,
+      "score": 104.8,
       "views": 18427,
       "likes": 203,
       "comments": 71,
-      "change": -2
+      "change": -1
     },
     {
-      "title": "ADHD약 먹기 전 후 차이 알랴쥼",
+      "title": "일본 희토류 곧 고갈 ㅋㅋㅋ",
       "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77203113?m=humor",
-      "first_seen": "2026-10-30T01:26:47.279832+09:00",
-      "last_seen": "2026-10-30T02:25:17.578533+09:00",
-      "peak_score": 95.32,
-      "max_views": 14596,
-      "max_likes": 122,
-      "max_comments": 84,
-      "appearances": 2,
-      "score": 104.83,
-      "views": 14596,
-      "likes": 122,
-      "comments": 84,
-      "change": -2
-    },
-    {
-      "title": "싱글벙글 유튜버 카광 근황.. 인방계 은퇴 선언",
-      "source": "디시인사이드",
-      "category": "이슈",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474061&_dcbest=1&page=1",
-      "first_seen": "2026-10-29T18:48:34.177189+09:00",
-      "last_seen": "2026-10-30T06:55:54.170346+09:00",
-      "peak_score": 93.12,
-      "max_views": 59178,
-      "max_likes": 536,
-      "max_comments": 1100,
-      "appearances": 6,
-      "score": 104.7,
-      "views": 59178,
-      "likes": 536,
-      "comments": 1100,
-      "change": -2
+      "category": "유머",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77208641?m=humor",
+      "first_seen": "2026-10-30T16:17:45.679248+09:00",
+      "last_seen": "2026-10-30T16:17:45.679248+09:00",
+      "peak_score": 95.09,
+      "max_views": 33457,
+      "max_likes": 154,
+      "max_comments": 91,
+      "appearances": 1,
+      "score": 104.48,
+      "views": 33457,
+      "likes": 154,
+      "comments": 91,
+      "change": "NEW"
     }
   ],
   "rising": [
-    {
-      "source": "루리웹",
-      "title": "\"다 돈가스 아니야, 잘봐...커틀릿 계열 요리인데 잘 보면 구분될거임\"",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77207080?m=humor",
-      "category": "이슈",
-      "views": 20933,
-      "likes": 87,
-      "comments": 69,
-      "score": 96.67,
-      "change": 0,
-      "current_rank": 2,
-      "new_entry": false,
-      "delta_views": 3294,
-      "delta_likes": 9,
-      "delta_comments": 1,
-      "rank_gain": 0,
-      "rising_score": 100.0,
-      "rising_rank": 1,
-      "window_minutes": 22
-    },
     {
       "source": "디시인사이드",
       "title": "[속보] 최불암 별세...향년 87세 ㄹㅇ...jpg",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474180&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 14699,
-      "likes": 144,
-      "comments": 367,
-      "score": 87.08,
+      "views": 26026,
+      "likes": 211,
+      "comments": 655,
+      "score": 52.03,
       "change": 0,
-      "current_rank": 4,
+      "current_rank": 100,
       "new_entry": false,
-      "delta_views": 2377,
-      "delta_likes": 18,
-      "delta_comments": 78,
+      "delta_views": 11327,
+      "delta_likes": 67,
+      "delta_comments": 288,
       "rank_gain": 0,
-      "rising_score": 97.64,
-      "rising_rank": 2,
-      "window_minutes": 22
-    },
-    {
-      "source": "더쿠",
-      "title": "업체가 돈벌기를 포기한 산모의 요청사항",
-      "url": "https://theqoo.net/hot/4390487383",
-      "category": "이슈",
-      "views": 23114,
-      "likes": 0,
-      "comments": 213,
-      "score": 70.18,
-      "change": 17,
-      "current_rank": 19,
-      "new_entry": false,
-      "delta_views": 12282,
-      "delta_likes": 0,
-      "delta_comments": 99,
-      "rank_gain": 17,
-      "rising_score": 93.0,
-      "rising_rank": 3,
-      "window_minutes": 22
-    },
-    {
-      "source": "디시인사이드",
-      "title": "호날두 오늘 자 해트트릭 골 모음...gif",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474185&_dcbest=1&page=1",
-      "category": "스포츠",
-      "views": 6348,
-      "likes": 119,
-      "comments": 119,
-      "score": 75.98,
-      "change": 0,
-      "current_rank": 11,
-      "new_entry": false,
-      "delta_views": 1330,
-      "delta_likes": 13,
-      "delta_comments": 21,
-      "rank_gain": 0,
-      "rising_score": 87.32,
-      "rising_rank": 4,
-      "window_minutes": 22
-    },
-    {
-      "source": "클리앙",
-      "title": "좌아하게, 쓸 때 부터 예상했지만 대통령의 SNS 사용이 너무나 천박합니다.",
-      "url": "https://www.clien.net/service/board/park/19284771?od=T31&po=0&category=0&groupCd=",
-      "category": "이슈",
-      "views": 917,
-      "likes": 4,
-      "comments": 9,
-      "score": 68.88,
-      "change": 34,
-      "current_rank": 23,
-      "new_entry": false,
-      "delta_views": 810,
-      "delta_likes": 4,
-      "delta_comments": 9,
-      "rank_gain": 34,
-      "rising_score": 87.0,
-      "rising_rank": 5,
-      "window_minutes": 22
-    },
-    {
-      "source": "디시인사이드",
-      "title": "나이 많으면 격공하게 되는 더치페이",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474174&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 10601,
-      "likes": 11,
-      "comments": 127,
-      "score": 63.72,
-      "change": 0,
-      "current_rank": 43,
-      "new_entry": false,
-      "delta_views": 1365,
-      "delta_likes": 0,
-      "delta_comments": 18,
-      "rank_gain": 0,
-      "rising_score": 85.54,
-      "rising_rank": 6,
-      "window_minutes": 22
-    },
-    {
-      "source": "인벤",
-      "title": "(ㅎㅂ) 비키니 46 vs 45 vs 44",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2746795",
-      "category": "이슈",
-      "views": 1958,
-      "likes": 0,
-      "comments": 19,
-      "score": 76.13,
-      "change": 2,
-      "current_rank": 10,
-      "new_entry": false,
-      "delta_views": 1229,
-      "delta_likes": 0,
-      "delta_comments": 11,
-      "rank_gain": 2,
-      "rising_score": 85.33,
-      "rising_rank": 7,
-      "window_minutes": 22
+      "rising_score": 100.0,
+      "rising_rank": 1,
+      "window_minutes": 337
     },
     {
       "source": "루리웹",
-      "title": "뚜레쥬르 근황.jpg",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77207422?m=humor",
+      "title": "폭스바겐 \" 영업이익 98.7% 하락 \"망할듯",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77208890?m=humor",
       "category": "이슈",
-      "views": 24239,
-      "likes": 169,
-      "comments": 69,
-      "score": 96.81,
+      "views": 22375,
+      "likes": 122,
+      "comments": 101,
+      "score": 98.54,
       "change": "NEW",
       "current_rank": 1,
       "new_entry": true,
@@ -375,19 +255,39 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.66,
-      "rising_rank": 8,
-      "window_minutes": 22
+      "rising_score": 83.39,
+      "rising_rank": 2,
+      "window_minutes": 337
     },
     {
       "source": "루리웹",
-      "title": "오늘 회식인데 직원들끼리 싸움남",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77207355?m=humor",
-      "category": "이슈",
-      "views": 15019,
-      "likes": 118,
-      "comments": 96,
-      "score": 93.84,
+      "title": "일본 희토류 곧 고갈 ㅋㅋㅋ",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77208641?m=humor",
+      "category": "유머",
+      "views": 33457,
+      "likes": 154,
+      "comments": 91,
+      "score": 95.09,
+      "change": "NEW",
+      "current_rank": 2,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 81.94,
+      "rising_rank": 3,
+      "window_minutes": 337
+    },
+    {
+      "source": "디시인사이드",
+      "title": "85년생 톱여배우 학폭논란 터짐",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474257&_dcbest=1&page=1",
+      "category": "연예",
+      "views": 15071,
+      "likes": 75,
+      "comments": 328,
+      "score": 82.13,
       "change": "NEW",
       "current_rank": 3,
       "new_entry": true,
@@ -395,29 +295,129 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 81.41,
-      "rising_rank": 9,
-      "window_minutes": 22
+      "rising_score": 76.49,
+      "rising_rank": 4,
+      "window_minutes": 337
+    },
+    {
+      "source": "디시인사이드",
+      "title": "싱글벙글 오늘자 한 건 하셨다는 더쿠 언냐들.jpg",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474231&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 34728,
+      "likes": 214,
+      "comments": 914,
+      "score": 81.03,
+      "change": "NEW",
+      "current_rank": 4,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 76.03,
+      "rising_rank": 5,
+      "window_minutes": 337
+    },
+    {
+      "source": "뽐뿌",
+      "title": "[SKT전문 차비지원] 유심이동 -55~-58만 & 키즈폰 -26만 & 폴드8 93만 / \"택배가능\" /믿을수 있는 ...",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=pmarket2&no=1556749",
+      "category": "이슈",
+      "views": 221,
+      "likes": 11,
+      "comments": 109,
+      "score": 80.54,
+      "change": "NEW",
+      "current_rank": 5,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 75.83,
+      "rising_rank": 6,
+      "window_minutes": 337
+    },
+    {
+      "source": "디시인사이드",
+      "title": "[단독] 이재명 '다문화' 게시물, 5·18 조롱 밈이었다",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474243&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 13996,
+      "likes": 214,
+      "comments": 315,
+      "score": 80.09,
+      "change": "NEW",
+      "current_rank": 6,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 75.64,
+      "rising_rank": 7,
+      "window_minutes": 337
+    },
+    {
+      "source": "루리웹",
+      "title": "애니메이션 제목은 빼고 세 단어로만 애니를 연상시켜보세요",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77210817?m=humor",
+      "category": "이슈",
+      "views": 5380,
+      "likes": 28,
+      "comments": 84,
+      "score": 79.52,
+      "change": "NEW",
+      "current_rank": 7,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 75.4,
+      "rising_rank": 8,
+      "window_minutes": 337
     },
     {
       "source": "더쿠",
-      "title": "참 신기하단 말이지 왜 다들 취하는 기분을 원하지 않게 된 거지.X",
-      "url": "https://theqoo.net/hot/4390472810",
-      "category": "이슈",
-      "views": 29919,
+      "title": "‘중계중 출신’ 85년생 여배우 학폭 의혹…“좋은 아내 이미지 고통스럽다”",
+      "url": "https://theqoo.net/hot/4390743250",
+      "category": "연예",
+      "views": 55148,
       "likes": 0,
-      "comments": 560,
-      "score": 79.53,
-      "change": 0,
+      "comments": 346,
+      "score": 76.68,
+      "change": "NEW",
       "current_rank": 8,
-      "new_entry": false,
-      "delta_views": 5539,
+      "new_entry": true,
+      "delta_views": 0,
       "delta_likes": 0,
-      "delta_comments": 123,
+      "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 81.15,
+      "rising_score": 74.21,
+      "rising_rank": 9,
+      "window_minutes": 337
+    },
+    {
+      "source": "디시인사이드",
+      "title": "또 삭제된 애플 집게손... 외국 반응",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474249&_dcbest=1&page=1",
+      "category": "생활",
+      "views": 9005,
+      "likes": 69,
+      "comments": 890,
+      "score": 75.93,
+      "change": "NEW",
+      "current_rank": 9,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 73.89,
       "rising_rank": 10,
-      "window_minutes": 22
+      "window_minutes": 337
     }
   ],
   "issues": [
@@ -561,6 +561,56 @@
       "change": 0
     },
     {
+      "id": "i06fb20ac",
+      "title": "[단독] 이재명 '다문화' 게시물, 5·18 조롱 밈이었다",
+      "keywords": [
+        "게시물",
+        "조롱",
+        "단독",
+        "밈이었다",
+        "다문화"
+      ],
+      "source_count": 3,
+      "post_count": 3,
+      "score": 109.56,
+      "peak_score": 95.09,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 6,
+          "title": "[단독] 이재명 '다문화' 게시물, 5·18 조롱 밈이었다",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474243&_dcbest=1&page=1",
+          "score": 80.09
+        },
+        {
+          "source": "인벤",
+          "rank": 27,
+          "title": "[단독] 李 대통령 '다문화' 게시물, 5·18 조롱 밈이었다",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2746906",
+          "score": 69.26
+        },
+        {
+          "source": "더쿠",
+          "rank": 68,
+          "title": "[단독] 李 대통령 '다문화' 게시물, 5·18 조롱 밈이었다",
+          "url": "https://theqoo.net/hot/4390688809",
+          "score": 61.21
+        }
+      ],
+      "first_seen": "2026-10-30T16:17:45.679248+09:00",
+      "last_seen": "2026-10-30T16:17:45.679248+09:00",
+      "latest_source_count": 3,
+      "latest_post_count": 3,
+      "rank": 4,
+      "change": "NEW"
+    },
+    {
       "id": "ie5cc1138",
       "title": "[속보] 최불암 별세...향년 87세 ㄹㅇ...jpg",
       "keywords": [
@@ -599,8 +649,58 @@
       "last_seen": "2026-10-30T10:40:41.816687+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 4,
-      "change": 0
+      "rank": 5,
+      "change": -1
+    },
+    {
+      "id": "ib1a32991",
+      "title": "속보) 김기현 무죄ㅋㅋ",
+      "keywords": [
+        "김기현",
+        "무죄",
+        "명품백",
+        "선물",
+        "벌금형"
+      ],
+      "source_count": 3,
+      "post_count": 4,
+      "score": 106.31,
+      "peak_score": 90.84,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 12,
+          "title": "속보) 김기현 무죄ㅋㅋ",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10170773",
+          "score": 74.84
+        },
+        {
+          "source": "인벤",
+          "rank": 15,
+          "title": "'김건희에 명품' 김기현 무죄…아내가 줬지만 공모입증 안돼 (종합) / 연합뉴스",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2746923",
+          "score": 72.95
+        },
+        {
+          "source": "클리앙",
+          "rank": 87,
+          "title": "김건희 명품백 선물' 김기현, 1심 무죄...배우자는 벌금형",
+          "url": "https://www.clien.net/service/board/park/19284945?od=T31&po=0&category=0&groupCd=",
+          "score": 55.16
+        }
+      ],
+      "first_seen": "2026-10-30T16:17:45.679248+09:00",
+      "last_seen": "2026-10-30T16:17:45.679248+09:00",
+      "latest_source_count": 3,
+      "latest_post_count": 4,
+      "rank": 6,
+      "change": "NEW"
     },
     {
       "id": "ifb9b4bbc",
@@ -637,8 +737,8 @@
       "last_seen": "2026-10-30T10:40:41.816687+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
-      "change": "NEW"
+      "rank": 7,
+      "change": -2
     },
     {
       "id": "ia0fd1514",
@@ -683,8 +783,8 @@
       "last_seen": "2026-10-30T10:40:41.816687+09:00",
       "latest_source_count": 3,
       "latest_post_count": 3,
-      "rank": 6,
-      "change": 2
+      "rank": 8,
+      "change": -2
     },
     {
       "id": "i496737ff",
@@ -722,7 +822,7 @@
       "last_seen": "2026-10-30T06:55:54.170346+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
+      "rank": 9,
       "change": -2
     },
     {
@@ -760,97 +860,25 @@
       "last_seen": "2026-10-30T06:55:54.170346+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 8,
-      "change": -2
-    },
-    {
-      "id": "ie0a95a69",
-      "title": "‘서울로’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "서울로"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 93.04,
-      "peak_score": 83.57,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 9,
-          "title": "서울로 출퇴근하는 경기도민의 현실.blind",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474177&_dcbest=1&page=1",
-          "score": 74.57
-        },
-        {
-          "source": "더쿠",
-          "rank": 91,
-          "title": "지방의료를 위해 일하겠다던 의사가 다시 서울로 올라간다는 이유",
-          "url": "https://theqoo.net/hot/4390329020",
-          "score": 52.42
-        }
-      ],
-      "first_seen": "2026-10-30T10:19:06.010241+09:00",
-      "last_seen": "2026-10-30T10:19:06.010241+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 9,
-      "change": -2
-    },
-    {
-      "id": "iae6b0123",
-      "title": "‘실시간’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "실시간"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 90.54,
-      "peak_score": 79.05,
-      "appearances": 2,
-      "sources": [
-        "디시인사이드",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 20,
-          "title": "혐글주의) 실시간 x된 여직원 - 3년전 핫했던 게시물의 반전.",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2746793",
-          "score": 70.05
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 41,
-          "title": "실시간 18년간 세금 20조 태웠는데 결과물 0인 프로젝트...jpg",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474170&_dcbest=1&page=1",
-          "score": 63.8
-        }
-      ],
-      "first_seen": "2026-10-06T11:19:29.813850+09:00",
-      "last_seen": "2026-10-30T10:40:41.816687+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 10,
-      "change": 1
+      "change": -2
     }
   ],
   "realtime_issues": [
     {
-      "id": "ia0fd1514",
-      "title": "‘유시민’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "ib1a32991",
+      "title": "속보) 김기현 무죄ㅋㅋ",
       "keywords": [
-        "유시민"
+        "김기현",
+        "무죄",
+        "명품백",
+        "선물",
+        "벌금형"
       ],
       "source_count": 3,
-      "post_count": 3,
-      "score": 77.67,
-      "peak_score": 77.67,
+      "post_count": 4,
+      "score": 90.84,
+      "peak_score": 90.84,
       "appearances": 1,
       "sources": [
         "뽐뿌",
@@ -859,180 +887,122 @@
       ],
       "posts": [
         {
-          "source": "클리앙",
-          "rank": 55,
-          "title": "유시민 가설, 하루 만에 검증됐다…'지들끼리 싸워' 피험자가 보고서를 대신 썼다",
-          "url": "https://www.clien.net/service/board/park/19284787?od=T31&po=0&category=0&groupCd=",
-          "score": 60.67
+          "source": "뽐뿌",
+          "rank": 12,
+          "title": "속보) 김기현 무죄ㅋㅋ",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10170773",
+          "score": 74.84
         },
         {
           "source": "인벤",
-          "rank": 78,
-          "title": "유시민 “임기 못 채울 수도”…민주 “같은 내무반에 수류탄 던지냐”",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2746776",
-          "score": 56.72
+          "rank": 15,
+          "title": "'김건희에 명품' 김기현 무죄…아내가 줬지만 공모입증 안돼 (종합) / 연합뉴스",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2746923",
+          "score": 72.95
         },
         {
-          "source": "뽐뿌",
-          "rank": 97,
-          "title": "유시민) 발언 핵심 요약",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10169534",
-          "score": 52.25
+          "source": "클리앙",
+          "rank": 87,
+          "title": "김건희 명품백 선물' 김기현, 1심 무죄...배우자는 벌금형",
+          "url": "https://www.clien.net/service/board/park/19284945?od=T31&po=0&category=0&groupCd=",
+          "score": 55.16
         }
       ],
       "rank": 1,
-      "change": 1
+      "change": "NEW"
     },
     {
-      "id": "ie5cc1138",
-      "title": "[속보] 최불암 별세...향년 87세 ㄹㅇ...jpg",
+      "id": "i06fb20ac",
+      "title": "[단독] 이재명 '다문화' 게시물, 5·18 조롱 밈이었다",
       "keywords": [
-        "별세",
-        "최불암",
-        "향년",
-        "87세",
-        "아버지"
+        "게시물",
+        "조롱",
+        "단독",
+        "밈이었다",
+        "다문화"
       ],
-      "source_count": 2,
+      "source_count": 3,
       "post_count": 3,
-      "score": 96.08,
-      "peak_score": 96.08,
+      "score": 95.09,
+      "peak_score": 95.09,
       "appearances": 1,
       "sources": [
         "더쿠",
-        "디시인사이드"
+        "디시인사이드",
+        "인벤"
       ],
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 4,
-          "title": "[속보] 최불암 별세...향년 87세 ㄹㅇ...jpg",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474180&_dcbest=1&page=1",
-          "score": 87.08
+          "rank": 6,
+          "title": "[단독] 이재명 '다문화' 게시물, 5·18 조롱 밈이었다",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474243&_dcbest=1&page=1",
+          "score": 80.09
+        },
+        {
+          "source": "인벤",
+          "rank": 27,
+          "title": "[단독] 李 대통령 '다문화' 게시물, 5·18 조롱 밈이었다",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2746906",
+          "score": 69.26
         },
         {
           "source": "더쿠",
-          "rank": 42,
-          "title": "‘국민 아버지’ 배우 최불암 별세…향년 87세",
-          "url": "https://theqoo.net/hot/4390411975",
-          "score": 63.74
+          "rank": 68,
+          "title": "[단독] 李 대통령 '다문화' 게시물, 5·18 조롱 밈이었다",
+          "url": "https://theqoo.net/hot/4390688809",
+          "score": 61.21
         }
       ],
       "rank": 2,
-      "change": -1
+      "change": "NEW"
     },
     {
-      "id": "ifb9b4bbc",
-      "title": "‘sns에’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "idfbedf2e",
+      "title": "‘중계중 출신’ 85년생 여배우 학폭 의혹…“좋은 아내 이미지 고통스럽다”",
       "keywords": [
-        "sns에"
+        "85년생",
+        "여배우",
+        "학폭"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 89.01,
-      "peak_score": 89.01,
+      "score": 84.68,
+      "peak_score": 84.68,
       "appearances": 1,
       "sources": [
-        "뽐뿌",
-        "클리앙"
+        "더쿠",
+        "뽐뿌"
       ],
       "posts": [
         {
-          "source": "클리앙",
-          "rank": 6,
-          "title": "대통령이 SNS에 열광하니",
-          "url": "https://www.clien.net/service/board/park/19284786?od=T31&po=0&category=0&groupCd=",
-          "score": 80.01
+          "source": "더쿠",
+          "rank": 8,
+          "title": "‘중계중 출신’ 85년생 여배우 학폭 의혹…“좋은 아내 이미지 고통스럽다”",
+          "url": "https://theqoo.net/hot/4390743250",
+          "score": 76.68
         },
         {
           "source": "뽐뿌",
-          "rank": 57,
-          "title": "와.. SNS에 올라온 한국 기업의 구내식당 ㄷㄷ",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10169990",
-          "score": 60.49
+          "rank": 14,
+          "title": "85년생 톱 여배우 학폭 논란",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10170714",
+          "score": 73.28
         }
       ],
       "rank": 3,
       "change": "NEW"
     },
     {
-      "id": "i039fd79c",
-      "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i4dea1b92",
+      "title": "‘엔비디아’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "이재명"
+        "엔비디아"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 80.78,
-      "peak_score": 80.78,
-      "appearances": 1,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 17,
-          "title": "문재인 vs 이재명 누가 더 서민킬러인가요? (부동산 한정)",
-          "url": "https://www.clien.net/service/board/park/19284769?od=T31&po=0&category=0&groupCd=",
-          "score": 71.78
-        },
-        {
-          "source": "인벤",
-          "rank": 22,
-          "title": "이재명 \"전국의 여남 주부님들 감사합니다.\"",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2746798",
-          "score": 69.33
-        }
-      ],
-      "rank": 4,
-      "change": "NEW"
-    },
-    {
-      "id": "iae6b0123",
-      "title": "‘실시간’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "실시간"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 79.05,
-      "peak_score": 79.05,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 20,
-          "title": "혐글주의) 실시간 x된 여직원 - 3년전 핫했던 게시물의 반전.",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2746793",
-          "score": 70.05
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 41,
-          "title": "실시간 18년간 세금 20조 태웠는데 결과물 0인 프로젝트...jpg",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474170&_dcbest=1&page=1",
-          "score": 63.8
-        }
-      ],
-      "rank": 5,
-      "change": 1
-    },
-    {
-      "id": "ic6bd73cf",
-      "title": "‘미국에서’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "미국에서"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 76.02,
-      "peak_score": 76.02,
+      "score": 76.85,
+      "peak_score": 76.85,
       "appearances": 1,
       "sources": [
         "디시인사이드",
@@ -1042,215 +1012,194 @@
         {
           "source": "디시인사이드",
           "rank": 32,
-          "title": "싱글벙글 미국에서 유일하게 옳게 된 도로",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474157&_dcbest=1&page=1",
-          "score": 67.02
+          "title": "엔비디아 젠슨 황 중국 스파이 연계 터짐",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474209&_dcbest=1&page=1",
+          "score": 67.85
         },
         {
           "source": "인벤",
-          "rank": 69,
-          "title": "전부 미국에서 제작했다는 트럼프폰 근황",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2746804",
-          "score": 59.18
+          "rank": 84,
+          "title": "엔비디아 RTX 5080 24GB 그래픽카드, 내년 1월 출시 전망",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2746902",
+          "score": 56.66
         }
       ],
-      "rank": 6,
+      "rank": 4,
       "change": "NEW"
     },
     {
-      "id": "ibb35f05f",
-      "title": "‘어떻게’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "ifeed66d7",
+      "title": "‘명품백’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "어떻게"
+        "명품백",
+        "벌금형",
+        "김건희",
+        "배우자는"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 74.87,
-      "peak_score": 74.87,
+      "score": 70.74,
+      "peak_score": 70.74,
       "appearances": 1,
       "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 36,
-          "title": "이거 어떻게 세게 답장할지 같이 도와줘 ㅠㅠ",
-          "url": "https://theqoo.net/hot/4390460188",
-          "score": 65.87
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 52,
-          "title": "안내견은 목적지를 어떻게 아는 걸까?.jpg",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474167&_dcbest=1&page=1",
-          "score": 61.3
-        }
-      ],
-      "rank": 7,
-      "change": -2
-    },
-    {
-      "id": "i047e4f3a",
-      "title": "‘온라인’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "온라인"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 69.49,
-      "peak_score": 69.49,
-      "appearances": 1,
-      "sources": [
-        "루리웹",
-        "인벤"
+        "인벤",
+        "클리앙"
       ],
       "posts": [
         {
           "source": "인벤",
-          "rank": 58,
-          "title": "어떤 능력자분이 만드신 절 온라인",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2746801",
-          "score": 60.49
+          "rank": 63,
+          "title": "[속보] '김건희 명품백 선물' 김기현, 1심 무죄...배우자는 벌금형",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2746901",
+          "score": 61.74
         },
         {
-          "source": "루리웹",
-          "rank": 68,
-          "title": "절 온라인이 유행하자 따라만든 교회 온라인 근황",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77208315?m=humor_only&t=now",
-          "score": 59.33
+          "source": "클리앙",
+          "rank": 87,
+          "title": "김건희 명품백 선물' 김기현, 1심 무죄...배우자는 벌금형",
+          "url": "https://www.clien.net/service/board/park/19284945?od=T31&po=0&category=0&groupCd=",
+          "score": 55.16
         }
       ],
-      "rank": 8,
+      "rank": 5,
       "change": "NEW"
     }
   ],
   "keywords": [
     {
-      "keyword": "유시민",
-      "score": 116.79,
-      "post_count": 4,
+      "keyword": "단독",
+      "score": 142.94,
+      "post_count": 6,
       "source_count": 3,
-      "best_rank": 55,
-      "sources": [
-        "뽐뿌",
-        "인벤",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 1,
-      "change": 3
-    },
-    {
-      "keyword": "서울",
-      "score": 114.75,
-      "post_count": 3,
-      "source_count": 3,
-      "best_rank": 30,
+      "best_rank": 6,
       "sources": [
         "더쿠",
-        "인벤",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 2,
-      "change": 0
-    },
-    {
-      "keyword": "별세",
-      "score": 111.68,
-      "post_count": 4,
-      "source_count": 2,
-      "best_rank": 4,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "aliases": [],
-      "rank": 3,
-      "change": 0
-    },
-    {
-      "keyword": "vs",
-      "score": 108.88,
-      "post_count": 3,
-      "source_count": 2,
-      "best_rank": 10,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 4,
-      "change": 1
-    },
-    {
-      "keyword": "최불암",
-      "score": 104.81,
-      "post_count": 3,
-      "source_count": 2,
-      "best_rank": 4,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "aliases": [],
-      "rank": 5,
-      "change": -4
-    },
-    {
-      "keyword": "87세",
-      "score": 103.43,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 4,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "aliases": [
-        "향년"
-      ],
-      "rank": 6,
-      "change": 0
-    },
-    {
-      "keyword": "평가",
-      "score": 100.72,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 7,
-      "sources": [
-        "뽐뿌",
+        "디시인사이드",
         "인벤"
       ],
       "aliases": [],
+      "rank": 1,
+      "change": 13
+    },
+    {
+      "keyword": "85년생",
+      "score": 136.85,
+      "post_count": 3,
+      "source_count": 3,
+      "best_rank": 3,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "뽐뿌"
+      ],
+      "aliases": [],
+      "rank": 2,
+      "change": "NEW"
+    },
+    {
+      "keyword": "김기현",
+      "score": 128.95,
+      "post_count": 4,
+      "source_count": 3,
+      "best_rank": 12,
+      "sources": [
+        "뽐뿌",
+        "인벤",
+        "클리앙"
+      ],
+      "aliases": [
+        "무죄"
+      ],
+      "rank": 3,
+      "change": "NEW"
+    },
+    {
+      "keyword": "밈이었다",
+      "score": 127.71,
+      "post_count": 3,
+      "source_count": 3,
+      "best_rank": 6,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "인벤"
+      ],
+      "aliases": [
+        "게시물",
+        "다문화",
+        "조롱"
+      ],
+      "rank": 4,
+      "change": "NEW"
+    },
+    {
+      "keyword": "선물",
+      "score": 114.35,
+      "post_count": 3,
+      "source_count": 3,
+      "best_rank": 28,
+      "sources": [
+        "디시인사이드",
+        "인벤",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 5,
+      "change": "NEW"
+    },
+    {
+      "keyword": "미국",
+      "score": 112.42,
+      "post_count": 3,
+      "source_count": 3,
+      "best_rank": 28,
+      "sources": [
+        "디시인사이드",
+        "루리웹",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 6,
+      "change": 9
+    },
+    {
+      "keyword": "여배우",
+      "score": 104.79,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 8,
+      "sources": [
+        "더쿠",
+        "뽐뿌"
+      ],
+      "aliases": [
+        "학폭"
+      ],
       "rank": 7,
       "change": "NEW"
     },
     {
-      "keyword": "sns에",
-      "score": 99.25,
+      "keyword": "아내",
+      "score": 104.63,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 6,
+      "best_rank": 8,
       "sources": [
-        "뽐뿌",
-        "클리앙"
+        "더쿠",
+        "인벤"
       ],
       "aliases": [],
       "rank": 8,
       "change": "NEW"
     },
     {
-      "keyword": "긍정",
-      "score": 98.4,
+      "keyword": "일본",
+      "score": 103.1,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 7,
+      "best_rank": 2,
       "sources": [
-        "인벤",
+        "루리웹",
         "클리앙"
       ],
       "aliases": [],
@@ -1258,81 +1207,81 @@
       "change": "NEW"
     },
     {
-      "keyword": "이재명",
-      "score": 98.37,
+      "keyword": "애플",
+      "score": 99.84,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 17,
+      "best_rank": 9,
       "sources": [
-        "인벤",
-        "클리앙"
+        "디시인사이드",
+        "뽐뿌"
       ],
       "aliases": [],
       "rank": 10,
       "change": "NEW"
     },
     {
-      "keyword": "실시간",
-      "score": 93.66,
+      "keyword": "많이",
+      "score": 98.17,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 20,
+      "best_rank": 17,
       "sources": [
-        "디시인사이드",
-        "인벤"
+        "더쿠",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 11,
-      "change": -3
+      "change": "NEW"
     },
     {
-      "keyword": "나이",
-      "score": 91.68,
-      "post_count": 2,
+      "keyword": "김건희",
+      "score": 95.51,
+      "post_count": 3,
       "source_count": 2,
-      "best_rank": 31,
+      "best_rank": 15,
       "sources": [
-        "디시인사이드",
-        "인벤"
+        "인벤",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 12,
       "change": "NEW"
     },
     {
-      "keyword": "어떻게",
-      "score": 89.48,
-      "post_count": 2,
+      "keyword": "친구",
+      "score": 90.01,
+      "post_count": 3,
       "source_count": 2,
-      "best_rank": 36,
+      "best_rank": 44,
       "sources": [
         "더쿠",
-        "디시인사이드"
+        "인벤"
       ],
       "aliases": [],
       "rank": 13,
-      "change": -3
+      "change": "NEW"
     },
     {
-      "keyword": "단독",
-      "score": 89.41,
-      "post_count": 3,
+      "keyword": "우리",
+      "score": 89.92,
+      "post_count": 2,
       "source_count": 2,
-      "best_rank": 53,
+      "best_rank": 23,
       "sources": [
-        "더쿠",
-        "클리앙"
+        "디시인사이드",
+        "인벤"
       ],
       "aliases": [],
       "rank": 14,
-      "change": -2
+      "change": "NEW"
     },
     {
-      "keyword": "미국",
-      "score": 87.79,
+      "keyword": "생가",
+      "score": 87.37,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 32,
+      "best_rank": 50,
       "sources": [
         "디시인사이드",
         "인벤"
@@ -1345,51 +1294,51 @@
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "뚜레쥬르 근황.jpg",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77207422?m=humor",
-      "score": 96.81,
-      "views": 24239,
-      "comments": 69
+      "title": "폭스바겐 \" 영업이익 98.7% 하락 \"망할듯",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77208890?m=humor",
+      "score": 98.54,
+      "views": 22375,
+      "comments": 101
     },
     {
       "source": "디시인사이드",
-      "title": "[속보] 최불암 별세...향년 87세 ㄹㅇ...jpg",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474180&_dcbest=1&page=1",
-      "score": 87.08,
-      "views": 14699,
-      "comments": 367
+      "title": "85년생 톱여배우 학폭논란 터짐",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474257&_dcbest=1&page=1",
+      "score": 82.13,
+      "views": 15071,
+      "comments": 328
     },
     {
       "source": "뽐뿌",
-      "title": "[광군제] 태블릿 공동구매 총정리 샤오신패드 Y700 외",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu8&no=103161",
-      "score": 83.5,
-      "views": 8044,
-      "comments": 77
-    },
-    {
-      "source": "클리앙",
-      "title": "대통령이 SNS에 열광하니",
-      "url": "https://www.clien.net/service/board/park/19284786?od=T31&po=0&category=0&groupCd=",
-      "score": 80.01,
-      "views": 381,
-      "comments": 10
-    },
-    {
-      "source": "인벤",
-      "title": "대통령 직무 수행 평가 긍정 39% 부정 49% 한국갤럽",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2746805",
-      "score": 80.0,
-      "views": 0,
-      "comments": 0
+      "title": "[SKT전문 차비지원] 유심이동 -55~-58만 & 키즈폰 -26만 & 폴드8 93만 / \"택배가능\" /믿을수 있는 ...",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=pmarket2&no=1556749",
+      "score": 80.54,
+      "views": 221,
+      "comments": 109
     },
     {
       "source": "더쿠",
-      "title": "참 신기하단 말이지 왜 다들 취하는 기분을 원하지 않게 된 거지.X",
-      "url": "https://theqoo.net/hot/4390472810",
-      "score": 79.53,
-      "views": 29919,
-      "comments": 560
+      "title": "‘중계중 출신’ 85년생 여배우 학폭 의혹…“좋은 아내 이미지 고통스럽다”",
+      "url": "https://theqoo.net/hot/4390743250",
+      "score": 76.68,
+      "views": 55148,
+      "comments": 346
+    },
+    {
+      "source": "클리앙",
+      "title": "저관여층 입장에서 내란은 끝났다 평가 받습니다.",
+      "url": "https://www.clien.net/service/board/park/19284963?od=T31&po=0&category=0&groupCd=",
+      "score": 75.52,
+      "views": 800,
+      "comments": 15
+    },
+    {
+      "source": "인벤",
+      "title": "가난 컨셉 컷하는 유재석",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2746921",
+      "score": 74.04,
+      "views": 1523,
+      "comments": 11
     }
   ]
 }
