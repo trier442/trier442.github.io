@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-10-30T16:43:52.462751+09:00",
+  "collected_at": "2026-10-30T23:19:36.961026+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -11,238 +11,198 @@
   "rankings": {
     "realtime": [
       {
-        "id": "i06fb20ac",
-        "title": "[단독] 이재명 '다문화' 게시물, 5·18 조롱 밈이었다",
+        "id": "i3eced5eb",
+        "title": "‘닥터x’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "게시물",
-          "단독",
-          "조롱",
-          "다문화",
-          "밈이었다"
+          "닥터x"
         ],
         "source_count": 3,
         "post_count": 3,
-        "score": 93.11,
-        "peak_score": 93.11,
+        "score": 94.35,
+        "peak_score": 94.35,
         "appearances": 1,
         "sources": [
           "더쿠",
-          "디시인사이드",
+          "뽐뿌",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 6,
+            "title": "와 닥터x 초반 대박이네요.",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10171277",
+            "score": 77.35
+          },
+          {
+            "source": "클리앙",
+            "rank": 21,
+            "title": "닥터X 대단하네요. 담 얘기는 의대증원이네요.",
+            "url": "https://www.clien.net/service/board/park/19285146?od=T31&po=0&category=0&groupCd=",
+            "score": 70.12
+          },
+          {
+            "source": "더쿠",
+            "rank": 54,
+            "title": "5.18 에피 끝나자마자 의대증원 의료파업 이슈 다루는 미친 기개의 SBS 닥터X",
+            "url": "https://theqoo.net/hot/4391247069",
+            "score": 62.5
+          }
+        ],
+        "rank": 1,
+        "change": "NEW"
+      },
+      {
+        "id": "i76049555",
+        "title": "‘kbo’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "kbo"
+        ],
+        "source_count": 2,
+        "post_count": 4,
+        "score": 75.53,
+        "peak_score": 75.53,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
           "인벤"
         ],
         "posts": [
           {
-            "source": "디시인사이드",
-            "rank": 5,
-            "title": "[단독] 이재명 '다문화' 게시물, 5·18 조롱 밈이었다",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474243&_dcbest=1&page=1",
-            "score": 78.11
+            "source": "더쿠",
+            "rank": 41,
+            "title": "[KBO] 오늘자 개쩌는 기아 응원",
+            "url": "https://theqoo.net/hot/4391172079",
+            "score": 64.53
           },
           {
             "source": "인벤",
-            "rank": 60,
-            "title": "[단독] 李 대통령 '다문화' 게시물, 5·18 조롱 밈이었다",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2746906",
-            "score": 59.6
-          },
-          {
-            "source": "더쿠",
-            "rank": 80,
-            "title": "[단독] 李 대통령 '다문화' 게시물, 5·18 조롱 밈이었다",
-            "url": "https://theqoo.net/hot/4390688809",
-            "score": 56.89
-          }
-        ],
-        "rank": 1,
-        "change": 1
-      },
-      {
-        "id": "i12455f1b",
-        "title": "‘광군제’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "광군제"
-        ],
-        "source_count": 2,
-        "post_count": 4,
-        "score": 87.28,
-        "peak_score": 87.28,
-        "appearances": 1,
-        "sources": [
-          "루리웹",
-          "뽐뿌"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 7,
-            "title": "[알리익스프레스] 11.11 광군제 (11월1일(일)~11월18일(수))",
-            "url": "https://bbs.ruliweb.com/market/board/1020/read/108508",
-            "score": 76.28
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 36,
-            "title": "[태블릿 공동구매 9종] 광군제 레노버 Y700 프로13 샤오신 패드 빅미 외 ($80~/무료)",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu8&no=103210",
-            "score": 63.88
+            "rank": 50,
+            "title": "KBO)플레이오프 4차전 결과",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2747033",
+            "score": 63.25
           }
         ],
         "rank": 2,
         "change": "NEW"
       },
       {
-        "id": "ib1a32991",
-        "title": "'김건희에 명품' 김기현 무죄…아내가 줬지만 공모입증 안돼 (종합) / 연합뉴스",
+        "id": "ife021da2",
+        "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "김기현",
-          "무죄"
+          "난리난"
         ],
         "source_count": 2,
-        "post_count": 3,
-        "score": 72.78,
-        "peak_score": 72.78,
+        "post_count": 2,
+        "score": 84.08,
+        "peak_score": 84.08,
         "appearances": 1,
         "sources": [
-          "뽐뿌",
+          "더쿠",
+          "디시인사이드"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 10,
+            "title": "현재 난리난 울릉도 생태계...",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474331&_dcbest=1&page=1",
+            "score": 75.08
+          },
+          {
+            "source": "더쿠",
+            "rank": 26,
+            "title": "게임방 난리난 독일 게임 한국인 캐릭터...jpg (댓글도 난리)",
+            "url": "https://theqoo.net/hot/4391048838",
+            "score": 68.89
+          }
+        ],
+        "rank": 3,
+        "change": "NEW"
+      },
+      {
+        "id": "i36a25170",
+        "title": "‘모르는’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "모르는"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 82.65,
+        "peak_score": 82.65,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
           "인벤"
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 37,
-            "title": "'김건희에 명품' 김기현 무죄…아내가 줬지만 공모입증 안돼 (종합) / 연합뉴스",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2746923",
-            "score": 63.78
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 73,
-            "title": "속보) 김기현 무죄ㅋㅋ",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10170773",
-            "score": 57.67
-          }
-        ],
-        "rank": 3,
-        "change": -2
-      },
-      {
-        "id": "idfbedf2e",
-        "title": "‘85년생’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "85년생"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 94.45,
-        "peak_score": 94.45,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "디시인사이드"
-        ],
-        "posts": [
-          {
             "source": "디시인사이드",
-            "rank": 4,
-            "title": "85년생 톱여배우 학폭논란 터짐",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474257&_dcbest=1&page=1",
-            "score": 85.45
+            "rank": 14,
+            "title": "여자들은 절대 모르는 게이사회 위계질서.jpg",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474327&_dcbest=1&page=1",
+            "score": 73.65
           },
           {
-            "source": "더쿠",
-            "rank": 9,
-            "title": "‘중계중 출신’ 85년생 여배우 학폭 의혹…“좋은 아내 이미지 고통스럽다”",
-            "url": "https://theqoo.net/hot/4390743250",
-            "score": 75.37
+            "source": "인벤",
+            "rank": 69,
+            "title": "소고기 맛을 모르는 신입",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2747027",
+            "score": 59.46
           }
         ],
         "rank": 4,
-        "change": -1
+        "change": "NEW"
       },
       {
-        "id": "i3bd1b213",
-        "title": "아주대 소아응급센터장 사표 제출",
+        "id": "ifd5a2cc3",
+        "title": "‘한국이’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "아주대",
-          "사표",
-          "소아응급센터장"
+          "한국이"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 76.95,
-        "peak_score": 76.95,
+        "score": 79.6,
+        "peak_score": 79.6,
         "appearances": 1,
         "sources": [
-          "더쿠",
-          "디시인사이드"
+          "디시인사이드",
+          "뽐뿌"
         ],
         "posts": [
           {
-            "source": "디시인사이드",
-            "rank": 17,
-            "title": "아주대 소아응급센터장 사표 제출",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474268&_dcbest=1&page=1",
-            "score": 68.95
+            "source": "뽐뿌",
+            "rank": 20,
+            "title": "케빈워시 한국이 선행지표 발언",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=448517",
+            "score": 70.6
           },
           {
-            "source": "더쿠",
-            "rank": 25,
-            "title": "[속보] 경찰 찾아와 사과했지만…아주대 소아응급센터장 결국 사표",
-            "url": "https://theqoo.net/hot/4390813567",
-            "score": 66.84
+            "source": "디시인사이드",
+            "rank": 46,
+            "title": "싱글벙글 10조원 루마니아 전차사업 한국이 딸 가능성 높다?",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474345&_dcbest=1&page=1",
+            "score": 63.67
           }
         ],
         "rank": 5,
         "change": "NEW"
       },
       {
-        "id": "ibccc78b0",
-        "title": "‘성추행’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i86eac2e7",
+        "title": "젠슨 황과 긴밀한 관계'‥중국 여성 사업가, 스파이였다",
         "keywords": [
-          "성추행"
+          "여성",
+          "긴밀한",
+          "관계",
+          "젠슨",
+          "스파이였다",
+          "사업가"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 74.8,
-        "peak_score": 74.8,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 27,
-            "title": "'보좌진 성추행 의혹' 장경태 의원 기소…사건 2년만",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474265&_dcbest=1&page=1",
-            "score": 65.8
-          },
-          {
-            "source": "클리앙",
-            "rank": 82,
-            "title": "'박원순 피해자 신상공개·후배 성추행' 정철승 2심서 법정구속",
-            "url": "https://www.clien.net/service/board/park/19284955?od=T31&po=0&category=0&groupCd=",
-            "score": 56.25
-          }
-        ],
-        "rank": 6,
-        "change": "NEW"
-      },
-      {
-        "id": "i675296b1",
-        "title": "李 “다문화가정 정책, 과잉 특혜-내국인 역차별 안돼”",
-        "keywords": [
-          "다문화가정",
-          "안돼",
-          "내국인",
-          "역차별",
-          "특혜"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 69.86,
-        "peak_score": 69.86,
+        "score": 70.0,
+        "peak_score": 70.0,
         "appearances": 1,
         "sources": [
           "인벤",
@@ -250,55 +210,21 @@
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 45,
-            "title": "李 “다문화가정 정책, 과잉 특혜-내국인 역차별 안돼”",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2746924",
-            "score": 61.86
-          },
-          {
             "source": "클리앙",
-            "rank": 50,
-            "title": "李 “다문화가정 정책, 과잉 특혜-내국인 역차별 안돼”",
-            "url": "https://www.clien.net/service/board/park/19284973?od=T31&po=0&category=0&groupCd=",
-            "score": 60.84
-          }
-        ],
-        "rank": 7,
-        "change": "NEW"
-      },
-      {
-        "id": "i1a0292b7",
-        "title": "‘안되는’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "안되는"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 66.55,
-        "peak_score": 66.55,
-        "appearances": 1,
-        "sources": [
-          "루리웹",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 77,
-            "title": "절대 주워서는 안되는 저주받은 비디오 테이프.jpg",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77211850?m=humor_only&t=now",
-            "score": 57.55
+            "rank": 55,
+            "title": "젠슨 황과 긴밀한 관계'‥중국 여성 사업가, 스파이였다",
+            "url": "https://www.clien.net/service/board/park/19285147?od=T31&po=0&category=0&groupCd=",
+            "score": 62.0
           },
           {
             "source": "인벤",
-            "rank": 87,
-            "title": "친구 집에서 잘때 방심하면 안되는 이유",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2746912",
-            "score": 56.02
+            "rank": 60,
+            "title": "젠슨 황과 긴밀한 관계\"‥중국 여성 사업가, 스파이였다",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2747048",
+            "score": 60.17
           }
         ],
-        "rank": 8,
+        "rank": 6,
         "change": "NEW"
       }
     ],
@@ -535,6 +461,52 @@
         "change": 0
       },
       {
+        "id": "i3eced5eb",
+        "title": "‘닥터x’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "닥터x"
+        ],
+        "source_count": 3,
+        "post_count": 3,
+        "score": 108.82,
+        "peak_score": 94.35,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "뽐뿌",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 6,
+            "title": "와 닥터x 초반 대박이네요.",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10171277",
+            "score": 77.35
+          },
+          {
+            "source": "클리앙",
+            "rank": 21,
+            "title": "닥터X 대단하네요. 담 얘기는 의대증원이네요.",
+            "url": "https://www.clien.net/service/board/park/19285146?od=T31&po=0&category=0&groupCd=",
+            "score": 70.12
+          },
+          {
+            "source": "더쿠",
+            "rank": 54,
+            "title": "5.18 에피 끝나자마자 의대증원 의료파업 이슈 다루는 미친 기개의 SBS 닥터X",
+            "url": "https://theqoo.net/hot/4391247069",
+            "score": 62.5
+          }
+        ],
+        "first_seen": "2026-10-24T23:31:45.304331+09:00",
+        "last_seen": "2026-10-30T23:19:36.961026+09:00",
+        "latest_source_count": 3,
+        "latest_post_count": 3,
+        "rank": 6,
+        "change": "NEW"
+      },
+      {
         "id": "ib1a32991",
         "title": "'김건희에 명품' 김기현 무죄…아내가 줬지만 공모입증 안돼 (종합) / 연합뉴스",
         "keywords": [
@@ -571,8 +543,8 @@
         "last_seen": "2026-10-30T16:43:52.462751+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 6,
-        "change": 0
+        "rank": 7,
+        "change": -1
       },
       {
         "id": "idfbedf2e",
@@ -610,8 +582,8 @@
         "last_seen": "2026-10-30T16:43:52.462751+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 7,
-        "change": 4
+        "rank": 8,
+        "change": -1
       },
       {
         "id": "i12455f1b",
@@ -648,8 +620,8 @@
         "last_seen": "2026-10-30T16:43:52.462751+09:00",
         "latest_source_count": 2,
         "latest_post_count": 4,
-        "rank": 8,
-        "change": "NEW"
+        "rank": 9,
+        "change": -1
       },
       {
         "id": "ifb9b4bbc",
@@ -686,8 +658,8 @@
         "last_seen": "2026-10-30T10:40:41.816687+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 9,
-        "change": -2
+        "rank": 10,
+        "change": -1
       },
       {
         "id": "ia0fd1514",
@@ -732,8 +704,8 @@
         "last_seen": "2026-10-30T10:40:41.816687+09:00",
         "latest_source_count": 3,
         "latest_post_count": 3,
-        "rank": 10,
-        "change": -2
+        "rank": 11,
+        "change": -1
       },
       {
         "id": "i496737ff",
@@ -771,8 +743,8 @@
         "last_seen": "2026-10-30T06:55:54.170346+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
-        "change": -2
+        "rank": 12,
+        "change": -1
       },
       {
         "id": "i8794fc33",
@@ -809,8 +781,46 @@
         "last_seen": "2026-10-30T06:55:54.170346+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 12,
-        "change": -2
+        "rank": 13,
+        "change": -1
+      },
+      {
+        "id": "ife021da2",
+        "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "난리난"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 93.55,
+        "peak_score": 84.08,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "디시인사이드"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 10,
+            "title": "현재 난리난 울릉도 생태계...",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474331&_dcbest=1&page=1",
+            "score": 75.08
+          },
+          {
+            "source": "더쿠",
+            "rank": 26,
+            "title": "게임방 난리난 독일 게임 한국인 캐릭터...jpg (댓글도 난리)",
+            "url": "https://theqoo.net/hot/4391048838",
+            "score": 68.89
+          }
+        ],
+        "first_seen": "2026-09-29T11:40:38.000414+09:00",
+        "last_seen": "2026-10-30T23:19:36.961026+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 14,
+        "change": "NEW"
       },
       {
         "id": "ie0a95a69",
@@ -847,8 +857,46 @@
         "last_seen": "2026-10-30T10:19:06.010241+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 13,
-        "change": -1
+        "rank": 15,
+        "change": -2
+      },
+      {
+        "id": "i36a25170",
+        "title": "‘모르는’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "모르는"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 92.12,
+        "peak_score": 82.65,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 14,
+            "title": "여자들은 절대 모르는 게이사회 위계질서.jpg",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474327&_dcbest=1&page=1",
+            "score": 73.65
+          },
+          {
+            "source": "인벤",
+            "rank": 69,
+            "title": "소고기 맛을 모르는 신입",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2747027",
+            "score": 59.46
+          }
+        ],
+        "first_seen": "2026-10-15T07:03:00.468396+09:00",
+        "last_seen": "2026-10-30T23:19:36.961026+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 16,
+        "change": "NEW"
       },
       {
         "id": "iae6b0123",
@@ -885,8 +933,8 @@
         "last_seen": "2026-10-30T10:40:41.816687+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 14,
-        "change": -1
+        "rank": 17,
+        "change": -3
       },
       {
         "id": "i039fd79c",
@@ -923,8 +971,8 @@
         "last_seen": "2026-10-30T10:40:41.816687+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 15,
-        "change": -1
+        "rank": 18,
+        "change": -3
       },
       {
         "id": "ibb35f05f",
@@ -961,162 +1009,46 @@
         "last_seen": "2026-10-30T10:40:41.816687+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 16,
-        "change": -1
-      },
-      {
-        "id": "i3ccc2d51",
-        "title": "‘일본인’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "일본인"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 89.0,
-        "peak_score": 79.53,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "루리웹"
-        ],
-        "posts": [
-          {
-            "source": "더쿠",
-            "rank": 10,
-            "title": "\"주식 손실로 미래 안 보여\"…천안 오피스텔서 일본인 여성 살해한 30대 체포",
-            "url": "https://theqoo.net/hot/4390281634",
-            "score": 70.53
-          },
-          {
-            "source": "루리웹",
-            "rank": 91,
-            "title": "트릭컬) 엘든링DLC 사려다 딴걸 사버린 일본인",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77204789?m=humor_only&t=now",
-            "score": 52.23
-          }
-        ],
-        "first_seen": "2026-10-01T22:31:06.521354+09:00",
-        "last_seen": "2026-10-30T02:25:17.578533+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 17,
-        "change": -1
-      },
-      {
-        "id": "i3bd1b213",
-        "title": "아주대 소아응급센터장 사표 제출",
-        "keywords": [
-          "아주대",
-          "사표",
-          "소아응급센터장"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 86.42,
-        "peak_score": 76.95,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "디시인사이드"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 17,
-            "title": "아주대 소아응급센터장 사표 제출",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474268&_dcbest=1&page=1",
-            "score": 68.95
-          },
-          {
-            "source": "더쿠",
-            "rank": 25,
-            "title": "[속보] 경찰 찾아와 사과했지만…아주대 소아응급센터장 결국 사표",
-            "url": "https://theqoo.net/hot/4390813567",
-            "score": 66.84
-          }
-        ],
-        "first_seen": "2026-10-30T16:43:52.462751+09:00",
-        "last_seen": "2026-10-30T16:43:52.462751+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 18,
-        "change": "NEW"
-      },
-      {
-        "id": "i4dea1b92",
-        "title": "‘엔비디아’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "엔비디아"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 86.32,
-        "peak_score": 76.85,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 32,
-            "title": "엔비디아 젠슨 황 중국 스파이 연계 터짐",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474209&_dcbest=1&page=1",
-            "score": 67.85
-          },
-          {
-            "source": "인벤",
-            "rank": 84,
-            "title": "엔비디아 RTX 5080 24GB 그래픽카드, 내년 1월 출시 전망",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2746902",
-            "score": 56.66
-          }
-        ],
-        "first_seen": "2026-10-30T16:17:45.679248+09:00",
-        "last_seen": "2026-10-30T16:17:45.679248+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 19,
-        "change": -2
+        "change": -3
       },
       {
-        "id": "ic6bd73cf",
-        "title": "‘미국에서’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "ifd5a2cc3",
+        "title": "‘한국이’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "미국에서"
+          "한국이"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 85.49,
-        "peak_score": 76.02,
+        "score": 89.07,
+        "peak_score": 79.6,
         "appearances": 1,
         "sources": [
           "디시인사이드",
-          "인벤"
+          "뽐뿌"
         ],
         "posts": [
           {
-            "source": "디시인사이드",
-            "rank": 32,
-            "title": "싱글벙글 미국에서 유일하게 옳게 된 도로",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474157&_dcbest=1&page=1",
-            "score": 67.02
+            "source": "뽐뿌",
+            "rank": 20,
+            "title": "케빈워시 한국이 선행지표 발언",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=448517",
+            "score": 70.6
           },
           {
-            "source": "인벤",
-            "rank": 69,
-            "title": "전부 미국에서 제작했다는 트럼프폰 근황",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2746804",
-            "score": 59.18
+            "source": "디시인사이드",
+            "rank": 46,
+            "title": "싱글벙글 10조원 루마니아 전차사업 한국이 딸 가능성 높다?",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474345&_dcbest=1&page=1",
+            "score": 63.67
           }
         ],
-        "first_seen": "2026-10-30T10:40:41.816687+09:00",
-        "last_seen": "2026-10-30T10:40:41.816687+09:00",
+        "first_seen": "2026-09-30T17:58:06.192419+09:00",
+        "last_seen": "2026-10-30T23:19:36.961026+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 20,
-        "change": -2
+        "change": "NEW"
       }
     ],
     "weekly": [
@@ -1218,40 +1150,42 @@
       },
       {
         "id": "ifd5a2cc3",
-        "title": "‘한국에도’ 관련 글이 여러 커뮤니티에서 화제",
+        "title": "‘한국이’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "한국에도"
+          "한국이"
         ],
         "source_count": 2,
         "post_count": 3,
-        "score": 122.3,
+        "score": 123.42,
         "peak_score": 108.37,
-        "appearances": 3,
+        "appearances": 4,
         "sources": [
           "더쿠",
+          "디시인사이드",
           "루리웹",
+          "뽐뿌",
           "인벤"
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 36,
-            "title": "한국에도 ㅁㅁ있어???",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2746627",
-            "score": 66.47
+            "source": "뽐뿌",
+            "rank": 20,
+            "title": "케빈워시 한국이 선행지표 발언",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=448517",
+            "score": 70.6
           },
           {
-            "source": "루리웹",
-            "rank": 41,
-            "title": "한국인이 고민하게 만든 일본인의 '한국에도 OO있어?' 질문",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77201486?m=humor_only&t=now",
-            "score": 64.87
+            "source": "디시인사이드",
+            "rank": 46,
+            "title": "싱글벙글 10조원 루마니아 전차사업 한국이 딸 가능성 높다?",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474345&_dcbest=1&page=1",
+            "score": 63.67
           }
         ],
         "first_seen": "2026-09-30T17:58:06.192419+09:00",
-        "last_seen": "2026-10-29T18:48:34.177189+09:00",
+        "last_seen": "2026-10-30T23:19:36.961026+09:00",
         "latest_source_count": 2,
-        "latest_post_count": 3,
+        "latest_post_count": 2,
         "rank": 3,
         "change": 0
       },
@@ -1263,9 +1197,9 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 122.08,
+        "score": 122.85,
         "peak_score": 107.12,
-        "appearances": 5,
+        "appearances": 6,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -1275,22 +1209,22 @@
         ],
         "posts": [
           {
-            "source": "더쿠",
-            "rank": 8,
-            "title": "(역겨움 주의) 성인 그라비아 배우랑 결혼한 남편의 만화랑 콜라보해서 난리난 치이카와",
-            "url": "https://theqoo.net/hot/4389909730",
-            "score": 76.84
+            "source": "디시인사이드",
+            "rank": 10,
+            "title": "현재 난리난 울릉도 생태계...",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474331&_dcbest=1&page=1",
+            "score": 75.08
           },
           {
-            "source": "디시인사이드",
-            "rank": 32,
-            "title": "안싱글벙글 최근 난리난 충격적이고 기괴한 폭행사망사건",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474043&_dcbest=1&page=1",
-            "score": 69.41
+            "source": "더쿠",
+            "rank": 26,
+            "title": "게임방 난리난 독일 게임 한국인 캐릭터...jpg (댓글도 난리)",
+            "url": "https://theqoo.net/hot/4391048838",
+            "score": 68.89
           }
         ],
         "first_seen": "2026-09-29T11:40:38.000414+09:00",
-        "last_seen": "2026-10-29T20:00:33.636303+09:00",
+        "last_seen": "2026-10-30T23:19:36.961026+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 4,
@@ -1611,6 +1545,52 @@
         "change": 0
       },
       {
+        "id": "i3eced5eb",
+        "title": "‘닥터x’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "닥터x"
+        ],
+        "source_count": 3,
+        "post_count": 3,
+        "score": 112.28,
+        "peak_score": 94.35,
+        "appearances": 3,
+        "sources": [
+          "더쿠",
+          "뽐뿌",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 6,
+            "title": "와 닥터x 초반 대박이네요.",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10171277",
+            "score": 77.35
+          },
+          {
+            "source": "클리앙",
+            "rank": 21,
+            "title": "닥터X 대단하네요. 담 얘기는 의대증원이네요.",
+            "url": "https://www.clien.net/service/board/park/19285146?od=T31&po=0&category=0&groupCd=",
+            "score": 70.12
+          },
+          {
+            "source": "더쿠",
+            "rank": 54,
+            "title": "5.18 에피 끝나자마자 의대증원 의료파업 이슈 다루는 미친 기개의 SBS 닥터X",
+            "url": "https://theqoo.net/hot/4391247069",
+            "score": 62.5
+          }
+        ],
+        "first_seen": "2026-10-24T23:31:45.304331+09:00",
+        "last_seen": "2026-10-30T23:19:36.961026+09:00",
+        "latest_source_count": 3,
+        "latest_post_count": 3,
+        "rank": 13,
+        "change": "NEW"
+      },
+      {
         "id": "icf8be3fe",
         "title": "[속보] 브라질 대선 결선투표서 룰라 재선 성공",
         "keywords": [
@@ -1664,8 +1644,8 @@
         "last_seen": "2026-10-26T09:40:04.280210+09:00",
         "latest_source_count": 3,
         "latest_post_count": 4,
-        "rank": 13,
-        "change": 0
+        "rank": 14,
+        "change": -1
       },
       {
         "id": "i14d31b7b",
@@ -1702,8 +1682,8 @@
         "last_seen": "2026-10-27T02:31:17.691735+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 14,
-        "change": 0
+        "rank": 15,
+        "change": -1
       },
       {
         "id": "i230edad9",
@@ -1750,8 +1730,8 @@
         "last_seen": "2026-10-30T06:55:54.170346+09:00",
         "latest_source_count": 3,
         "latest_post_count": 3,
-        "rank": 15,
-        "change": 0
+        "rank": 16,
+        "change": -1
       },
       {
         "id": "ia4c7959d",
@@ -1789,8 +1769,8 @@
         "last_seen": "2026-10-27T06:51:21.487617+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 16,
-        "change": 0
+        "rank": 17,
+        "change": -1
       },
       {
         "id": "i06fb20ac",
@@ -1839,8 +1819,8 @@
         "last_seen": "2026-10-30T16:43:52.462751+09:00",
         "latest_source_count": 3,
         "latest_post_count": 3,
-        "rank": 17,
-        "change": 0
+        "rank": 18,
+        "change": -1
       },
       {
         "id": "ie5cc1138",
@@ -1881,8 +1861,8 @@
         "last_seen": "2026-10-30T10:40:41.816687+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 18,
-        "change": 0
+        "rank": 19,
+        "change": -1
       },
       {
         "id": "ib1a32991",
@@ -1921,45 +1901,6 @@
         "last_seen": "2026-10-30T16:43:52.462751+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 19,
-        "change": 1
-      },
-      {
-        "id": "i039fd79c",
-        "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "이재명"
-        ],
-        "source_count": 2,
-        "post_count": 4,
-        "score": 106.6,
-        "peak_score": 90.55,
-        "appearances": 4,
-        "sources": [
-          "뽐뿌",
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 17,
-            "title": "문재인 vs 이재명 누가 더 서민킬러인가요? (부동산 한정)",
-            "url": "https://www.clien.net/service/board/park/19284769?od=T31&po=0&category=0&groupCd=",
-            "score": 71.78
-          },
-          {
-            "source": "인벤",
-            "rank": 22,
-            "title": "이재명 \"전국의 여남 주부님들 감사합니다.\"",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2746798",
-            "score": 69.33
-          }
-        ],
-        "first_seen": "2026-09-27T13:38:37.715424+09:00",
-        "last_seen": "2026-10-30T10:40:41.816687+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 20,
         "change": -1
       }
@@ -2641,9 +2582,9 @@
         ],
         "source_count": 2,
         "post_count": 3,
-        "score": 130.59,
+        "score": 130.8,
         "peak_score": 107.91,
-        "appearances": 22,
+        "appearances": 23,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -2653,22 +2594,22 @@
         ],
         "posts": [
           {
-            "source": "더쿠",
-            "rank": 8,
-            "title": "(역겨움 주의) 성인 그라비아 배우랑 결혼한 남편의 만화랑 콜라보해서 난리난 치이카와",
-            "url": "https://theqoo.net/hot/4389909730",
-            "score": 76.84
+            "source": "디시인사이드",
+            "rank": 10,
+            "title": "현재 난리난 울릉도 생태계...",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474331&_dcbest=1&page=1",
+            "score": 75.08
           },
           {
-            "source": "디시인사이드",
-            "rank": 32,
-            "title": "안싱글벙글 최근 난리난 충격적이고 기괴한 폭행사망사건",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474043&_dcbest=1&page=1",
-            "score": 69.41
+            "source": "더쿠",
+            "rank": 26,
+            "title": "게임방 난리난 독일 게임 한국인 캐릭터...jpg (댓글도 난리)",
+            "url": "https://theqoo.net/hot/4391048838",
+            "score": 68.89
           }
         ],
         "first_seen": "2026-09-29T11:40:38.000414+09:00",
-        "last_seen": "2026-10-29T20:00:33.636303+09:00",
+        "last_seen": "2026-10-30T23:19:36.961026+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 15,
@@ -2717,15 +2658,15 @@
       },
       {
         "id": "ifd5a2cc3",
-        "title": "‘한국에도’ 관련 글이 여러 커뮤니티에서 화제",
+        "title": "‘한국이’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "한국에도"
+          "한국이"
         ],
         "source_count": 2,
         "post_count": 3,
-        "score": 129.82,
+        "score": 130.09,
         "peak_score": 108.37,
-        "appearances": 17,
+        "appearances": 18,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -2735,24 +2676,24 @@
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 36,
-            "title": "한국에도 ㅁㅁ있어???",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2746627",
-            "score": 66.47
+            "source": "뽐뿌",
+            "rank": 20,
+            "title": "케빈워시 한국이 선행지표 발언",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=448517",
+            "score": 70.6
           },
           {
-            "source": "루리웹",
-            "rank": 41,
-            "title": "한국인이 고민하게 만든 일본인의 '한국에도 OO있어?' 질문",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77201486?m=humor_only&t=now",
-            "score": 64.87
+            "source": "디시인사이드",
+            "rank": 46,
+            "title": "싱글벙글 10조원 루마니아 전차사업 한국이 딸 가능성 높다?",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474345&_dcbest=1&page=1",
+            "score": 63.67
           }
         ],
         "first_seen": "2026-09-30T17:58:06.192419+09:00",
-        "last_seen": "2026-10-29T18:48:34.177189+09:00",
+        "last_seen": "2026-10-30T23:19:36.961026+09:00",
         "latest_source_count": 2,
-        "latest_post_count": 3,
+        "latest_post_count": 2,
         "rank": 17,
         "change": 0
       },
