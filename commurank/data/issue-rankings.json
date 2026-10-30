@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-10-31T04:30:22.085688+09:00",
+  "collected_at": "2026-10-31T08:09:53.258785+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -11,45 +11,173 @@
   "rankings": {
     "realtime": [
       {
-        "id": "i22c26e2c",
-        "title": "‘햄버거’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "ieb083272",
+        "title": "‘최불암’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "햄버거"
+          "최불암"
         ],
-        "source_count": 3,
+        "source_count": 2,
         "post_count": 3,
-        "score": 94.62,
-        "peak_score": 94.62,
+        "score": 70.22,
+        "peak_score": 70.22,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 59,
+            "title": "최불암 선생님 장례가 '초록우산 어린이재단장'으로 치러지는 이유",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474406&_dcbest=1&page=1",
+            "score": 60.22
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 70,
+            "title": "최불암 선생님과의 작은 인연",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10171385",
+            "score": 58.61
+          }
+        ],
+        "rank": 1,
+        "change": "NEW"
+      },
+      {
+        "id": "ifc808af9",
+        "title": "‘메가커피’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "메가커피"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 90.05,
+        "peak_score": 90.05,
         "appearances": 1,
         "sources": [
           "루리웹",
-          "뽐뿌",
-          "인벤"
+          "뽐뿌"
         ],
         "posts": [
           {
             "source": "뽐뿌",
-            "rank": 12,
-            "title": "[속보] '계엄 햄버거 회동' 전직 군인들에 무죄 선고",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10170515",
-            "score": 77.62
+            "rank": 8,
+            "title": "메가커피 사람 죽이는 음료 출시",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10171323",
+            "score": 81.05
           },
           {
             "source": "루리웹",
-            "rank": 72,
-            "title": "'무슨버거임?' '햄버거'",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77218443?m=humor_only&t=now",
-            "score": 56.22
+            "rank": 63,
+            "title": "[네이버쇼핑] 메가커피 메뉴 22%+멤버십 10% 추가 할인 1차 (10/31)",
+            "url": "https://bbs.ruliweb.com/market/board/1020/read/108527",
+            "score": 59.4
+          }
+        ],
+        "rank": 2,
+        "change": "NEW"
+      },
+      {
+        "id": "i7b918478",
+        "title": "‘일본에서’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "일본에서"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 84.33,
+        "peak_score": 84.33,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 13,
+            "title": "일본에서 논쟁중인 거 ㄷ JPG",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10171466",
+            "score": 75.33
+          },
+          {
+            "source": "더쿠",
+            "rank": 37,
+            "title": "일본에서 난리난 어깨통증 삭제법",
+            "url": "https://theqoo.net/hot/4391396802",
+            "score": 66.0
+          }
+        ],
+        "rank": 3,
+        "change": "NEW"
+      },
+      {
+        "id": "i5db928b2",
+        "title": "‘전세계’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "전세계"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 82.61,
+        "peak_score": 82.61,
+        "appearances": 1,
+        "sources": [
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 18,
+            "title": "전세계 몇 없는 한국 특징",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2747101",
+            "score": 73.61
+          },
+          {
+            "source": "클리앙",
+            "rank": 66,
+            "title": "올리브영에서 볼수 있는 전세계 남편들의 모습",
+            "url": "https://www.clien.net/service/board/park/19285204?od=T31&po=0&category=0&groupCd=",
+            "score": 59.04
+          }
+        ],
+        "rank": 4,
+        "change": "NEW"
+      },
+      {
+        "id": "i4f7064f0",
+        "title": "‘폴란드’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "폴란드"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 80.51,
+        "peak_score": 80.51,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 24,
+            "title": "속보) 폴란드 헌정위기 발생",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77218858?m=humor_only&t=now",
+            "score": 71.51
           },
           {
             "source": "인벤",
-            "rank": 78,
-            "title": "이석기 내란 선동이 징역 9년이었는데 햄버거 회동은...",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2747053",
-            "score": 55.45
+            "rank": 89,
+            "title": "폴란드 쿠데타?",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2747087",
+            "score": 54.5
           }
         ],
-        "rank": 1,
+        "rank": 5,
         "change": "NEW"
       },
       {
@@ -60,169 +188,98 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 70.05,
-        "peak_score": 70.05,
+        "score": 79.47,
+        "peak_score": 79.47,
         "appearances": 1,
         "sources": [
           "더쿠",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 25,
+            "title": "닥터X 명장면",
+            "url": "https://www.clien.net/service/board/park/19285215?od=T31&po=0&category=0&groupCd=",
+            "score": 70.47
+          },
+          {
+            "source": "더쿠",
+            "rank": 83,
+            "title": "5.18 에피 끝나자마자 의대증원 의료파업 이슈 다루는 미친 기개의 SBS 닥터X",
+            "url": "https://theqoo.net/hot/4391247069",
+            "score": 55.58
+          }
+        ],
+        "rank": 6,
+        "change": -4
+      },
+      {
+        "id": "ib9cf754d",
+        "title": "‘할로윈’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "할로윈"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 78.55,
+        "peak_score": 78.55,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
           "인벤"
         ],
         "posts": [
           {
-            "source": "더쿠",
-            "rank": 46,
-            "title": "5.18 에피 끝나자마자 의대증원 의료파업 이슈 다루는 미친 기개의 SBS 닥터X",
-            "url": "https://theqoo.net/hot/4391247069",
-            "score": 61.05
-          },
-          {
             "source": "인벤",
-            "rank": 71,
-            "title": "닥터X 하얀 마피아의 시대 8화 - 헬기 발포 장면",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2747058",
-            "score": 56.33
-          }
-        ],
-        "rank": 2,
-        "change": -1
-      },
-      {
-        "id": "ic2932d71",
-        "title": "올리브영에서 볼수 있는 전세계 남편들의 모습",
-        "keywords": [
-          "전세계",
-          "남편들의",
-          "볼수",
-          "모습"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 68.67,
-        "peak_score": 68.67,
-        "appearances": 1,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 48,
-            "title": "올리브영에서 볼수 있는 전세계 남편들의 모습",
-            "url": "https://www.clien.net/service/board/park/19285204?od=T31&po=0&category=0&groupCd=",
-            "score": 60.67
+            "rank": 26,
+            "title": "ㅇㅎ) 할로윈 코스프레 눈나들",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2747098",
+            "score": 69.55
           },
-          {
-            "source": "인벤",
-            "rank": 51,
-            "title": "올리브 영에서 볼수 있는 전세계 남편들의 모습",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2747085",
-            "score": 60.4
-          }
-        ],
-        "rank": 3,
-        "change": "NEW"
-      },
-      {
-        "id": "ib3876eed",
-        "title": "‘생각보다’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "생각보다"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 67.26,
-        "peak_score": 67.26,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "더쿠",
-            "rank": 60,
-            "title": "생각보다 흔하다는 30대 무면허",
-            "url": "https://theqoo.net/hot/4391164909",
-            "score": 58.26
-          },
-          {
-            "source": "클리앙",
-            "rank": 85,
-            "title": "발가락에 난 상처는 생각보다 잘 안 낫는군요",
-            "url": "https://www.clien.net/service/board/park/19285195?od=T31&po=0&category=0&groupCd=",
-            "score": 53.66
-          }
-        ],
-        "rank": 4,
-        "change": "NEW"
-      },
-      {
-        "id": "ife021da2",
-        "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "난리난"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 66.47,
-        "peak_score": 66.47,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "디시인사이드"
-        ],
-        "posts": [
           {
             "source": "디시인사이드",
-            "rank": 62,
-            "title": "현재 난리난 울릉도 생태계...",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474331&_dcbest=1&page=1",
-            "score": 57.47
-          },
-          {
-            "source": "더쿠",
-            "rank": 97,
-            "title": "게임방 난리난 독일 게임 한국인 캐릭터...jpg (댓글도 난리)",
-            "url": "https://theqoo.net/hot/4391048838",
-            "score": 50.79
+            "rank": 34,
+            "title": "내일 할로윈 데이를 위한 매우 간단한 코스튬 의상을 만들어봤어",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474391&_dcbest=1&page=1",
+            "score": 67.39
           }
         ],
-        "rank": 5,
-        "change": -2
+        "rank": 7,
+        "change": "NEW"
       },
       {
-        "id": "ibb35f05f",
-        "title": "‘어떻게’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i2272efa7",
+        "title": "‘리센느’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "어떻게"
+          "리센느"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 66.2,
-        "peak_score": 66.2,
+        "score": 73.14,
+        "peak_score": 73.14,
         "appearances": 1,
         "sources": [
-          "인벤",
-          "클리앙"
+          "루리웹",
+          "인벤"
         ],
         "posts": [
           {
-            "source": "클리앙",
-            "rank": 63,
-            "title": "행자부 장관이 게임을 어떻게 인식하고 있을지 큰 기대는 안 했지만 너무 구태의식에",
-            "url": "https://www.clien.net/service/board/park/19285185?od=T31&po=0&category=0&groupCd=",
-            "score": 57.2
+            "source": "인벤",
+            "rank": 43,
+            "title": "리센느 MMA 팬 투표 1위 하지만 수상 명단에는 無",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2747083",
+            "score": 64.14
           },
           {
-            "source": "인벤",
-            "rank": 80,
-            "title": "이걸 만들 생각은 어떻게 하는걸까",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2747061",
-            "score": 55.0
+            "source": "루리웹",
+            "rank": 93,
+            "title": "삼성 갤럭시 모델이 된 리센느 근황.gif",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77219008?m=humor_only&t=now",
+            "score": 53.51
           }
         ],
-        "rank": 6,
+        "rank": 8,
         "change": "NEW"
       }
     ],
@@ -271,6 +328,120 @@
         "latest_source_count": 3,
         "latest_post_count": 3,
         "rank": 1,
+        "change": 0
+      },
+      {
+        "id": "ifc808af9",
+        "title": "‘메가커피’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "메가커피"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 99.52,
+        "peak_score": 90.05,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 8,
+            "title": "메가커피 사람 죽이는 음료 출시",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10171323",
+            "score": 81.05
+          },
+          {
+            "source": "루리웹",
+            "rank": 63,
+            "title": "[네이버쇼핑] 메가커피 메뉴 22%+멤버십 10% 추가 할인 1차 (10/31)",
+            "url": "https://bbs.ruliweb.com/market/board/1020/read/108527",
+            "score": 59.4
+          }
+        ],
+        "first_seen": "2026-10-26T07:25:10.303959+09:00",
+        "last_seen": "2026-10-31T08:09:53.258785+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 2,
+        "change": "NEW"
+      },
+      {
+        "id": "i7b918478",
+        "title": "‘일본에서’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "일본에서"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 93.8,
+        "peak_score": 84.33,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 13,
+            "title": "일본에서 논쟁중인 거 ㄷ JPG",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10171466",
+            "score": 75.33
+          },
+          {
+            "source": "더쿠",
+            "rank": 37,
+            "title": "일본에서 난리난 어깨통증 삭제법",
+            "url": "https://theqoo.net/hot/4391396802",
+            "score": 66.0
+          }
+        ],
+        "first_seen": "2026-10-03T04:55:10.124887+09:00",
+        "last_seen": "2026-10-31T08:09:53.258785+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 3,
+        "change": "NEW"
+      },
+      {
+        "id": "i5db928b2",
+        "title": "‘전세계’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "전세계"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 92.08,
+        "peak_score": 82.61,
+        "appearances": 1,
+        "sources": [
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 18,
+            "title": "전세계 몇 없는 한국 특징",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2747101",
+            "score": 73.61
+          },
+          {
+            "source": "클리앙",
+            "rank": 66,
+            "title": "올리브영에서 볼수 있는 전세계 남편들의 모습",
+            "url": "https://www.clien.net/service/board/park/19285204?od=T31&po=0&category=0&groupCd=",
+            "score": 59.04
+          }
+        ],
+        "first_seen": "2026-10-05T03:20:14.855966+09:00",
+        "last_seen": "2026-10-31T08:09:53.258785+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 4,
         "change": "NEW"
       },
       {
@@ -281,35 +452,188 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 79.52,
-        "peak_score": 70.05,
-        "appearances": 1,
+        "score": 90.96,
+        "peak_score": 79.47,
+        "appearances": 2,
         "sources": [
           "더쿠",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 25,
+            "title": "닥터X 명장면",
+            "url": "https://www.clien.net/service/board/park/19285215?od=T31&po=0&category=0&groupCd=",
+            "score": 70.47
+          },
+          {
+            "source": "더쿠",
+            "rank": 83,
+            "title": "5.18 에피 끝나자마자 의대증원 의료파업 이슈 다루는 미친 기개의 SBS 닥터X",
+            "url": "https://theqoo.net/hot/4391247069",
+            "score": 55.58
+          }
+        ],
+        "first_seen": "2026-10-24T23:31:45.304331+09:00",
+        "last_seen": "2026-10-31T08:09:53.258785+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 5,
+        "change": -3
+      },
+      {
+        "id": "i4f7064f0",
+        "title": "‘폴란드’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "폴란드"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 89.98,
+        "peak_score": 80.51,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
           "인벤"
         ],
         "posts": [
           {
-            "source": "더쿠",
-            "rank": 46,
-            "title": "5.18 에피 끝나자마자 의대증원 의료파업 이슈 다루는 미친 기개의 SBS 닥터X",
-            "url": "https://theqoo.net/hot/4391247069",
-            "score": 61.05
+            "source": "루리웹",
+            "rank": 24,
+            "title": "속보) 폴란드 헌정위기 발생",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77218858?m=humor_only&t=now",
+            "score": 71.51
           },
           {
             "source": "인벤",
-            "rank": 71,
-            "title": "닥터X 하얀 마피아의 시대 8화 - 헬기 발포 장면",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2747058",
-            "score": 56.33
+            "rank": 89,
+            "title": "폴란드 쿠데타?",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2747087",
+            "score": 54.5
           }
         ],
-        "first_seen": "2026-10-24T23:31:45.304331+09:00",
-        "last_seen": "2026-10-31T04:30:22.085688+09:00",
+        "first_seen": "2026-10-20T05:04:17.831122+09:00",
+        "last_seen": "2026-10-31T08:09:53.258785+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 2,
-        "change": 4
+        "rank": 6,
+        "change": "NEW"
+      },
+      {
+        "id": "ib9cf754d",
+        "title": "‘할로윈’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "할로윈"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 88.02,
+        "peak_score": 78.55,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 26,
+            "title": "ㅇㅎ) 할로윈 코스프레 눈나들",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2747098",
+            "score": 69.55
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 34,
+            "title": "내일 할로윈 데이를 위한 매우 간단한 코스튬 의상을 만들어봤어",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474391&_dcbest=1&page=1",
+            "score": 67.39
+          }
+        ],
+        "first_seen": "2026-10-31T08:09:53.258785+09:00",
+        "last_seen": "2026-10-31T08:09:53.258785+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 7,
+        "change": "NEW"
+      },
+      {
+        "id": "i2272efa7",
+        "title": "‘리센느’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "리센느"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 82.61,
+        "peak_score": 73.14,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 43,
+            "title": "리센느 MMA 팬 투표 1위 하지만 수상 명단에는 無",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2747083",
+            "score": 64.14
+          },
+          {
+            "source": "루리웹",
+            "rank": 93,
+            "title": "삼성 갤럭시 모델이 된 리센느 근황.gif",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77219008?m=humor_only&t=now",
+            "score": 53.51
+          }
+        ],
+        "first_seen": "2026-09-27T12:58:49.050910+09:00",
+        "last_seen": "2026-10-31T08:09:53.258785+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 8,
+        "change": "NEW"
+      },
+      {
+        "id": "ieb083272",
+        "title": "‘최불암’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "최불암"
+        ],
+        "source_count": 2,
+        "post_count": 3,
+        "score": 80.69,
+        "peak_score": 70.22,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 59,
+            "title": "최불암 선생님 장례가 '초록우산 어린이재단장'으로 치러지는 이유",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474406&_dcbest=1&page=1",
+            "score": 60.22
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 70,
+            "title": "최불암 선생님과의 작은 인연",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10171385",
+            "score": 58.61
+          }
+        ],
+        "first_seen": "2026-10-31T08:09:53.258785+09:00",
+        "last_seen": "2026-10-31T08:09:53.258785+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 3,
+        "rank": 9,
+        "change": "NEW"
       },
       {
         "id": "ic2932d71",
@@ -349,8 +673,8 @@
         "last_seen": "2026-10-31T04:30:22.085688+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 3,
-        "change": "NEW"
+        "rank": 10,
+        "change": -7
       },
       {
         "id": "ife021da2",
@@ -387,8 +711,8 @@
         "last_seen": "2026-10-31T04:30:22.085688+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 4,
-        "change": 10
+        "rank": 11,
+        "change": -7
       },
       {
         "id": "ibb35f05f",
@@ -425,8 +749,8 @@
         "last_seen": "2026-10-31T04:30:22.085688+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 5,
-        "change": 14
+        "rank": 12,
+        "change": -7
       }
     ],
     "weekly": [
@@ -565,7 +889,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 3,
-        "change": 1
+        "change": 0
       },
       {
         "id": "ifd5a2cc3",
@@ -606,7 +930,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 4,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i4c8bdd1e",
@@ -725,6 +1049,46 @@
         "change": 0
       },
       {
+        "id": "i3eced5eb",
+        "title": "‘닥터x’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "닥터x"
+        ],
+        "source_count": 3,
+        "post_count": 3,
+        "score": 114.31,
+        "peak_score": 94.35,
+        "appearances": 5,
+        "sources": [
+          "더쿠",
+          "뽐뿌",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 25,
+            "title": "닥터X 명장면",
+            "url": "https://www.clien.net/service/board/park/19285215?od=T31&po=0&category=0&groupCd=",
+            "score": 70.47
+          },
+          {
+            "source": "더쿠",
+            "rank": 83,
+            "title": "5.18 에피 끝나자마자 의대증원 의료파업 이슈 다루는 미친 기개의 SBS 닥터X",
+            "url": "https://theqoo.net/hot/4391247069",
+            "score": 55.58
+          }
+        ],
+        "first_seen": "2026-10-24T23:31:45.304331+09:00",
+        "last_seen": "2026-10-31T08:09:53.258785+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 8,
+        "change": 3
+      },
+      {
         "id": "i5d6688ff",
         "title": "‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -759,8 +1123,8 @@
         "last_seen": "2026-10-28T10:38:27.702461+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 8,
-        "change": 0
+        "rank": 9,
+        "change": -1
       },
       {
         "id": "ia0fd1514",
@@ -805,8 +1169,8 @@
         "last_seen": "2026-10-30T10:40:41.816687+09:00",
         "latest_source_count": 3,
         "latest_post_count": 3,
-        "rank": 9,
-        "change": 0
+        "rank": 10,
+        "change": -1
       },
       {
         "id": "ib522be5d",
@@ -843,48 +1207,8 @@
         "last_seen": "2026-10-28T16:31:27.703899+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 10,
-        "change": 0
-      },
-      {
-        "id": "i3eced5eb",
-        "title": "‘닥터x’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "닥터x"
-        ],
-        "source_count": 3,
-        "post_count": 3,
-        "score": 113.4,
-        "peak_score": 94.35,
-        "appearances": 4,
-        "sources": [
-          "더쿠",
-          "뽐뿌",
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "더쿠",
-            "rank": 46,
-            "title": "5.18 에피 끝나자마자 의대증원 의료파업 이슈 다루는 미친 기개의 SBS 닥터X",
-            "url": "https://theqoo.net/hot/4391247069",
-            "score": 61.05
-          },
-          {
-            "source": "인벤",
-            "rank": 71,
-            "title": "닥터X 하얀 마피아의 시대 8화 - 헬기 발포 장면",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2747058",
-            "score": 56.33
-          }
-        ],
-        "first_seen": "2026-10-24T23:31:45.304331+09:00",
-        "last_seen": "2026-10-31T04:30:22.085688+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 11,
-        "change": 2
+        "change": -1
       },
       {
         "id": "id0f722ca",
@@ -922,7 +1246,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 12,
-        "change": -1
+        "change": 0
       },
       {
         "id": "ifd0be149",
@@ -960,7 +1284,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 13,
-        "change": -1
+        "change": 0
       },
       {
         "id": "icf8be3fe",
@@ -1238,7 +1562,7 @@
         "latest_source_count": 3,
         "latest_post_count": 3,
         "rank": 19,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "ie5cc1138",
@@ -1280,7 +1604,7 @@
         "latest_source_count": 2,
         "latest_post_count": 3,
         "rank": 20,
-        "change": -1
+        "change": 0
       }
     ],
     "monthly": [

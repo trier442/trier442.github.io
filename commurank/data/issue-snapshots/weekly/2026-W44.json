@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W44",
   "label": "2026.10.26 ~ 11.01",
-  "collected_at": "2026-10-31T04:30:22.085688+09:00",
+  "collected_at": "2026-10-31T08:09:53.258785+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -141,7 +141,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 3,
-      "change": 1
+      "change": 0
     },
     {
       "id": "ifd5a2cc3",
@@ -182,7 +182,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 4,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i4c8bdd1e",
@@ -301,6 +301,46 @@
       "change": 0
     },
     {
+      "id": "i3eced5eb",
+      "title": "‘닥터x’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "닥터x"
+      ],
+      "source_count": 3,
+      "post_count": 3,
+      "score": 114.31,
+      "peak_score": 94.35,
+      "appearances": 5,
+      "sources": [
+        "더쿠",
+        "뽐뿌",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 25,
+          "title": "닥터X 명장면",
+          "url": "https://www.clien.net/service/board/park/19285215?od=T31&po=0&category=0&groupCd=",
+          "score": 70.47
+        },
+        {
+          "source": "더쿠",
+          "rank": 83,
+          "title": "5.18 에피 끝나자마자 의대증원 의료파업 이슈 다루는 미친 기개의 SBS 닥터X",
+          "url": "https://theqoo.net/hot/4391247069",
+          "score": 55.58
+        }
+      ],
+      "first_seen": "2026-10-24T23:31:45.304331+09:00",
+      "last_seen": "2026-10-31T08:09:53.258785+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 8,
+      "change": 3
+    },
+    {
       "id": "i5d6688ff",
       "title": "‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -335,8 +375,8 @@
       "last_seen": "2026-10-28T10:38:27.702461+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 8,
-      "change": 0
+      "rank": 9,
+      "change": -1
     },
     {
       "id": "ia0fd1514",
@@ -381,8 +421,8 @@
       "last_seen": "2026-10-30T10:40:41.816687+09:00",
       "latest_source_count": 3,
       "latest_post_count": 3,
-      "rank": 9,
-      "change": 0
+      "rank": 10,
+      "change": -1
     },
     {
       "id": "ib522be5d",
@@ -419,48 +459,8 @@
       "last_seen": "2026-10-28T16:31:27.703899+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 10,
-      "change": 0
-    },
-    {
-      "id": "i3eced5eb",
-      "title": "‘닥터x’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "닥터x"
-      ],
-      "source_count": 3,
-      "post_count": 3,
-      "score": 113.4,
-      "peak_score": 94.35,
-      "appearances": 4,
-      "sources": [
-        "더쿠",
-        "뽐뿌",
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 46,
-          "title": "5.18 에피 끝나자마자 의대증원 의료파업 이슈 다루는 미친 기개의 SBS 닥터X",
-          "url": "https://theqoo.net/hot/4391247069",
-          "score": 61.05
-        },
-        {
-          "source": "인벤",
-          "rank": 71,
-          "title": "닥터X 하얀 마피아의 시대 8화 - 헬기 발포 장면",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2747058",
-          "score": 56.33
-        }
-      ],
-      "first_seen": "2026-10-24T23:31:45.304331+09:00",
-      "last_seen": "2026-10-31T04:30:22.085688+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 11,
-      "change": 2
+      "change": -1
     },
     {
       "id": "id0f722ca",
@@ -498,7 +498,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 12,
-      "change": -1
+      "change": 0
     },
     {
       "id": "ifd0be149",
@@ -536,7 +536,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 13,
-      "change": -1
+      "change": 0
     },
     {
       "id": "icf8be3fe",
@@ -814,7 +814,7 @@
       "latest_source_count": 3,
       "latest_post_count": 3,
       "rank": 19,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "ie5cc1138",
@@ -856,7 +856,7 @@
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 20,
-      "change": -1
+      "change": 0
     }
   ]
 }
