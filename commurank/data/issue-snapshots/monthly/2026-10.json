@@ -3,7 +3,7 @@
   "period": "monthly",
   "key": "2026-10",
   "label": "2026년 10월",
-  "collected_at": "2026-10-31T08:09:53.258785+09:00",
+  "collected_at": "2026-10-31T11:30:08.031633+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -342,9 +342,9 @@
       ],
       "source_count": 3,
       "post_count": 4,
-      "score": 137.46,
+      "score": 137.86,
       "peak_score": 113.04,
-      "appearances": 11,
+      "appearances": 12,
       "sources": [
         "루리웹",
         "뽐뿌",
@@ -353,22 +353,22 @@
       ],
       "posts": [
         {
-          "source": "인벤",
-          "rank": 15,
-          "title": "이재명 sns",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2740704",
-          "score": 71.18
+          "source": "루리웹",
+          "rank": 2,
+          "title": "또 이상한 거 유행 중인 SNS",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77219067?m=humor",
+          "score": 96.61
         },
         {
-          "source": "클리앙",
-          "rank": 56,
-          "title": "대통령은 SNS 그렇게 많이하면서 주식얘기는 안하시네요",
-          "url": "https://www.clien.net/service/board/park/19278081?od=T31&po=0&category=0&groupCd=",
-          "score": 60.67
+          "source": "인벤",
+          "rank": 38,
+          "title": "이재명 sns",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2747147",
+          "score": 63.94
         }
       ],
       "first_seen": "2026-09-29T18:03:51.886668+09:00",
-      "last_seen": "2026-10-15T19:00:34.779872+09:00",
+      "last_seen": "2026-10-31T11:30:08.031633+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 8,
@@ -634,6 +634,47 @@
       "change": 0
     },
     {
+      "id": "ife021da2",
+      "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "난리난"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 131.2,
+      "peak_score": 107.91,
+      "appearances": 25,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "루리웹",
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 10,
+          "title": "지금 폴란드가 난리난 이유...jpg",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474443&_dcbest=1&page=1",
+          "score": 73.01
+        },
+        {
+          "source": "더쿠",
+          "rank": 12,
+          "title": "일본에서 난리난 어깨통증 삭제법",
+          "url": "https://theqoo.net/hot/4391396802",
+          "score": 72.05
+        }
+      ],
+      "first_seen": "2026-09-29T11:40:38.000414+09:00",
+      "last_seen": "2026-10-31T11:30:08.031633+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 14,
+      "change": 1
+    },
+    {
       "id": "i78f6419e",
       "title": "‘암살자’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -671,49 +712,8 @@
       "last_seen": "2026-10-19T10:34:33.550976+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 14,
-      "change": 0
-    },
-    {
-      "id": "ife021da2",
-      "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "난리난"
-      ],
-      "source_count": 2,
-      "post_count": 3,
-      "score": 131.0,
-      "peak_score": 107.91,
-      "appearances": 24,
-      "sources": [
-        "더쿠",
-        "디시인사이드",
-        "루리웹",
-        "뽐뿌",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 62,
-          "title": "현재 난리난 울릉도 생태계...",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474331&_dcbest=1&page=1",
-          "score": 57.47
-        },
-        {
-          "source": "더쿠",
-          "rank": 97,
-          "title": "게임방 난리난 독일 게임 한국인 캐릭터...jpg (댓글도 난리)",
-          "url": "https://theqoo.net/hot/4391048838",
-          "score": 50.79
-        }
-      ],
-      "first_seen": "2026-09-29T11:40:38.000414+09:00",
-      "last_seen": "2026-10-31T04:30:22.085688+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 15,
-      "change": 0
+      "change": -1
     },
     {
       "id": "i5ae392bf",
