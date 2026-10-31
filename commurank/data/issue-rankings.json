@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-11-01T04:16:27.039598+09:00",
+  "collected_at": "2026-11-01T07:24:53.147489+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -11,75 +11,6 @@
   "rankings": {
     "realtime": [
       {
-        "id": "ifc264642",
-        "title": "‘아반떼’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "아반떼"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 88.89,
-        "peak_score": 88.89,
-        "appearances": 1,
-        "sources": [
-          "뽐뿌",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 8,
-            "title": "현대차 11월 할인혜택 공개 신형 아반떼 할인 무상 보증연장 jpg",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=981177",
-            "score": 79.89
-          },
-          {
-            "source": "인벤",
-            "rank": 63,
-            "title": "아반떼, 100만원 할인과 전면 계기판 무상 장착 행사",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2747363",
-            "score": 58.28
-          }
-        ],
-        "rank": 1,
-        "change": "NEW"
-      },
-      {
-        "id": "i5d6688ff",
-        "title": "[란123] 네이버페이 134원 + 랜덤 포인트 받으세요 (+기타 657원)",
-        "keywords": [
-          "네이버페이",
-          "랜덤"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 86.58,
-        "peak_score": 86.58,
-        "appearances": 1,
-        "sources": [
-          "루리웹",
-          "뽐뿌"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 11,
-            "title": "[란123] 네이버페이 134원 + 랜덤 포인트 받으세요 (+기타 657원)",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10172350",
-            "score": 78.58
-          },
-          {
-            "source": "루리웹",
-            "rank": 17,
-            "title": "[네이버페이] 라방 랜덤 5원",
-            "url": "https://bbs.ruliweb.com/market/board/1020/read/108534",
-            "score": 74.23
-          }
-        ],
-        "rank": 2,
-        "change": "NEW"
-      },
-      {
         "id": "ie3fc87c2",
         "title": "‘문제점은’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -87,8 +18,8 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 84.96,
-        "peak_score": 84.96,
+        "score": 93.64,
+        "peak_score": 93.64,
         "appearances": 1,
         "sources": [
           "루리웹",
@@ -96,39 +27,146 @@
         ],
         "posts": [
           {
+            "source": "루리웹",
+            "rank": 4,
+            "title": "해리) 지니 위즐리의 가장 큰 문제점은",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77229318?m=humor",
+            "score": 84.64
+          },
+          {
             "source": "클리앙",
-            "rank": 16,
+            "rank": 29,
             "title": "지금 부동산 정책의 문제점은 결국 보유세 같습니다.",
             "url": "https://www.clien.net/service/board/park/19285602?od=T31&po=0&category=0&groupCd=",
-            "score": 75.96
+            "score": 66.2
+          }
+        ],
+        "rank": 1,
+        "change": 2
+      },
+      {
+        "id": "ibf947c6c",
+        "title": "‘여기저기’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "여기저기"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 86.84,
+        "peak_score": 86.84,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 9,
+            "title": "잼통이 여기저기 찔러보네요. 애효 진짜 ..",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10172341",
+            "score": 77.84
+          },
+          {
+            "source": "클리앙",
+            "rank": 76,
+            "title": "최태원 회장이 요즘 여기저기 강연하면서 인플루언서 비슷하게 하던데요",
+            "url": "https://www.clien.net/service/board/park/19285596?od=T31&po=0&category=0&groupCd=",
+            "score": 57.02
+          }
+        ],
+        "rank": 2,
+        "change": "NEW"
+      },
+      {
+        "id": "icf31cb81",
+        "title": "소개받은 사람이 좀 오타쿠 같은데",
+        "keywords": [
+          "같은데",
+          "오타쿠",
+          "소개받은"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 83.53,
+        "peak_score": 83.53,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "루리웹"
+        ],
+        "posts": [
+          {
+            "source": "더쿠",
+            "rank": 12,
+            "title": "소개받은 사람이 좀 오타쿠 같은데",
+            "url": "https://theqoo.net/hot/4392158849",
+            "score": 75.53
           },
           {
             "source": "루리웹",
-            "rank": 70,
-            "title": "나히아) 엔딩 데쿠 행적의 문제점은",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77229667?m=humor_only&t=now",
-            "score": 55.98
+            "rank": 83,
+            "title": "소개받은 사람이 좀 오타쿠 같은데.jpg",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77230096?m=humor_only&t=now",
+            "score": 53.68
           }
         ],
         "rank": 3,
         "change": "NEW"
       },
       {
-        "id": "ib02d3a70",
-        "title": "핼러윈 주말, 이태원 2만·홍대 12만 인파 몰렸다...안전 관리 총력",
+        "id": "i6154676e",
+        "title": "요즘 고등학생들 역사 토론 수준",
         "keywords": [
-          "몰렸다",
-          "핼러윈",
-          "홍대",
-          "2만",
-          "인파",
-          "이태원",
-          "12만"
+          "토론",
+          "수준",
+          "고등학생들",
+          "역사"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 81.42,
-        "peak_score": 81.42,
+        "score": 82.2,
+        "peak_score": 82.2,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 18,
+            "title": "요즘 고등학생들 역사 토론 수준",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2747382",
+            "score": 74.2
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 97,
+            "title": "요즘 고등학생들 역사 토론 수준.jpg",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=humor&no=790318",
+            "score": 49.47
+          }
+        ],
+        "rank": 4,
+        "change": "NEW"
+      },
+      {
+        "id": "ib02d3a70",
+        "title": "핼러윈 주말, 이태원 2만·홍대 12만 인파 몰렸다...안전 관리 총력",
+        "keywords": [
+          "주말",
+          "홍대",
+          "핼러윈",
+          "인파",
+          "몰렸다",
+          "12만",
+          "이태원"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 71.16,
+        "peak_score": 71.16,
         "appearances": 1,
         "sources": [
           "인벤",
@@ -137,126 +175,62 @@
         "posts": [
           {
             "source": "인벤",
-            "rank": 18,
+            "rank": 42,
             "title": "핼러윈 주말, 이태원 2만·홍대 12만 인파 몰렸다...안전 관리 총력",
             "url": "https://www.inven.co.kr/board/webzine/2097/2747376",
-            "score": 73.42
+            "score": 63.16
           },
           {
             "source": "클리앙",
-            "rank": 36,
+            "rank": 52,
             "title": "핼러윈 주말, 이태원 2만·홍대 12만 인파 몰렸다...안전 관리 총력",
             "url": "https://www.clien.net/service/board/park/19285605?od=T31&po=0&category=0&groupCd=",
-            "score": 65.64
+            "score": 60.43
           }
         ],
-        "rank": 4,
-        "change": -3
-      },
+        "rank": 5,
+        "change": -1
+      }
+    ],
+    "daily": [
       {
-        "id": "i12455f1b",
-        "title": "‘광군제는’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "ie3fc87c2",
+        "title": "‘문제점은’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "광군제는"
+          "문제점은"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 80.88,
-        "peak_score": 80.88,
-        "appearances": 1,
+        "score": 105.13,
+        "peak_score": 93.64,
+        "appearances": 2,
         "sources": [
-          "뽐뿌",
+          "루리웹",
           "클리앙"
         ],
         "posts": [
           {
-            "source": "클리앙",
-            "rank": 20,
-            "title": "광군제는 행사 시작 3분안에 결판이 납니다",
-            "url": "https://www.clien.net/service/board/park/19285591?od=T31&po=0&category=0&groupCd=",
-            "score": 71.88
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 68,
-            "title": "알리 광군제는 완전 국산화가 됐네요",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10172359",
-            "score": 56.86
-          }
-        ],
-        "rank": 5,
-        "change": -3
-      },
-      {
-        "id": "i2ef7e856",
-        "title": "‘호감도’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "호감도"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 70.68,
-        "peak_score": 70.68,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 50,
-            "title": "2026년 대학생이 뽑은 호감도 1위",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2747356",
-            "score": 61.68
-          },
-          {
-            "source": "더쿠",
-            "rank": 84,
-            "title": "같은 말인데도 호감도 확 올려주는 말투.jpg",
-            "url": "https://theqoo.net/hot/4392039830",
-            "score": 53.79
-          }
-        ],
-        "rank": 6,
-        "change": -2
-      },
-      {
-        "id": "i0cdcc665",
-        "title": "‘아이폰’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "아이폰"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 69.18,
-        "peak_score": 69.18,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "루리웹"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 57,
-            "title": "아이폰 듀오 힌지 사태의 원인을 알 수 있는 IP6X 테스트 방법",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474599&_dcbest=1&page=1",
-            "score": 60.18
-          },
-          {
             "source": "루리웹",
-            "rank": 82,
-            "title": "아이폰 듀오 보면서 개인적으로 놀랐던점",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77229632?m=humor_only&t=now",
-            "score": 53.97
+            "rank": 4,
+            "title": "해리) 지니 위즐리의 가장 큰 문제점은",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77229318?m=humor",
+            "score": 84.64
+          },
+          {
+            "source": "클리앙",
+            "rank": 29,
+            "title": "지금 부동산 정책의 문제점은 결국 보유세 같습니다.",
+            "url": "https://www.clien.net/service/board/park/19285602?od=T31&po=0&category=0&groupCd=",
+            "score": 66.2
           }
         ],
-        "rank": 7,
-        "change": -4
-      }
-    ],
-    "daily": [
+        "first_seen": "2026-11-01T04:16:27.039598+09:00",
+        "last_seen": "2026-11-01T07:24:53.147489+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 1,
+        "change": 2
+      },
       {
         "id": "ifc264642",
         "title": "‘아반떼’ 관련 글이 여러 커뮤니티에서 화제",
@@ -292,7 +266,45 @@
         "last_seen": "2026-11-01T04:16:27.039598+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 1,
+        "rank": 2,
+        "change": -1
+      },
+      {
+        "id": "ibf947c6c",
+        "title": "‘여기저기’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "여기저기"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 96.31,
+        "peak_score": 86.84,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 9,
+            "title": "잼통이 여기저기 찔러보네요. 애효 진짜 ..",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10172341",
+            "score": 77.84
+          },
+          {
+            "source": "클리앙",
+            "rank": 76,
+            "title": "최태원 회장이 요즘 여기저기 강연하면서 인플루언서 비슷하게 하던데요",
+            "url": "https://www.clien.net/service/board/park/19285596?od=T31&po=0&category=0&groupCd=",
+            "score": 57.02
+          }
+        ],
+        "first_seen": "2026-11-01T07:24:53.147489+09:00",
+        "last_seen": "2026-11-01T07:24:53.147489+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 3,
         "change": "NEW"
       },
       {
@@ -331,64 +343,26 @@
         "last_seen": "2026-11-01T04:16:27.039598+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 2,
-        "change": "NEW"
-      },
-      {
-        "id": "ie3fc87c2",
-        "title": "‘문제점은’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "문제점은"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 94.43,
-        "peak_score": 84.96,
-        "appearances": 1,
-        "sources": [
-          "루리웹",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 16,
-            "title": "지금 부동산 정책의 문제점은 결국 보유세 같습니다.",
-            "url": "https://www.clien.net/service/board/park/19285602?od=T31&po=0&category=0&groupCd=",
-            "score": 75.96
-          },
-          {
-            "source": "루리웹",
-            "rank": 70,
-            "title": "나히아) 엔딩 데쿠 행적의 문제점은",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77229667?m=humor_only&t=now",
-            "score": 55.98
-          }
-        ],
-        "first_seen": "2026-11-01T04:16:27.039598+09:00",
-        "last_seen": "2026-11-01T04:16:27.039598+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 3,
-        "change": "NEW"
+        "rank": 4,
+        "change": -2
       },
       {
         "id": "ib02d3a70",
         "title": "핼러윈 주말, 이태원 2만·홍대 12만 인파 몰렸다...안전 관리 총력",
         "keywords": [
-          "몰렸다",
-          "핼러윈",
+          "주말",
           "홍대",
-          "2만",
+          "핼러윈",
           "인파",
-          "이태원",
-          "12만"
+          "몰렸다",
+          "12만",
+          "이태원"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 94.26,
+        "score": 95.7,
         "peak_score": 82.77,
-        "appearances": 2,
+        "appearances": 3,
         "sources": [
           "인벤",
           "클리앙"
@@ -396,25 +370,65 @@
         "posts": [
           {
             "source": "인벤",
-            "rank": 18,
+            "rank": 42,
             "title": "핼러윈 주말, 이태원 2만·홍대 12만 인파 몰렸다...안전 관리 총력",
             "url": "https://www.inven.co.kr/board/webzine/2097/2747376",
-            "score": 73.42
+            "score": 63.16
           },
           {
             "source": "클리앙",
-            "rank": 36,
+            "rank": 52,
             "title": "핼러윈 주말, 이태원 2만·홍대 12만 인파 몰렸다...안전 관리 총력",
             "url": "https://www.clien.net/service/board/park/19285605?od=T31&po=0&category=0&groupCd=",
-            "score": 65.64
+            "score": 60.43
           }
         ],
         "first_seen": "2026-11-01T03:52:42.954008+09:00",
-        "last_seen": "2026-11-01T04:16:27.039598+09:00",
+        "last_seen": "2026-11-01T07:24:53.147489+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 4,
-        "change": -3
+        "rank": 5,
+        "change": -1
+      },
+      {
+        "id": "icf31cb81",
+        "title": "소개받은 사람이 좀 오타쿠 같은데",
+        "keywords": [
+          "같은데",
+          "오타쿠",
+          "소개받은"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 93.0,
+        "peak_score": 83.53,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "루리웹"
+        ],
+        "posts": [
+          {
+            "source": "더쿠",
+            "rank": 12,
+            "title": "소개받은 사람이 좀 오타쿠 같은데",
+            "url": "https://theqoo.net/hot/4392158849",
+            "score": 75.53
+          },
+          {
+            "source": "루리웹",
+            "rank": 83,
+            "title": "소개받은 사람이 좀 오타쿠 같은데.jpg",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77230096?m=humor_only&t=now",
+            "score": 53.68
+          }
+        ],
+        "first_seen": "2026-11-01T07:24:53.147489+09:00",
+        "last_seen": "2026-11-01T07:24:53.147489+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 6,
+        "change": "NEW"
       },
       {
         "id": "i12455f1b",
@@ -451,8 +465,49 @@
         "last_seen": "2026-11-01T04:16:27.039598+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 5,
-        "change": -3
+        "rank": 7,
+        "change": -2
+      },
+      {
+        "id": "i6154676e",
+        "title": "요즘 고등학생들 역사 토론 수준",
+        "keywords": [
+          "토론",
+          "수준",
+          "고등학생들",
+          "역사"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 91.67,
+        "peak_score": 82.2,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 18,
+            "title": "요즘 고등학생들 역사 토론 수준",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2747382",
+            "score": 74.2
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 97,
+            "title": "요즘 고등학생들 역사 토론 수준.jpg",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=humor&no=790318",
+            "score": 49.47
+          }
+        ],
+        "first_seen": "2026-11-01T07:24:53.147489+09:00",
+        "last_seen": "2026-11-01T07:24:53.147489+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 8,
+        "change": "NEW"
       },
       {
         "id": "i0cdcc665",
@@ -489,7 +544,7 @@
         "last_seen": "2026-11-01T04:16:27.039598+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 6,
+        "rank": 9,
         "change": -3
       },
       {
@@ -527,7 +582,7 @@
         "last_seen": "2026-11-01T04:16:27.039598+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 7,
+        "rank": 10,
         "change": -3
       }
     ],
@@ -901,7 +956,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 9,
-        "change": 1
+        "change": 0
       },
       {
         "id": "i3eced5eb",
@@ -941,7 +996,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 10,
-        "change": -1
+        "change": 0
       },
       {
         "id": "ia0fd1514",
@@ -1367,6 +1422,44 @@
     ],
     "monthly": [
       {
+        "id": "ie3fc87c2",
+        "title": "‘문제점은’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "문제점은"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 105.13,
+        "peak_score": 93.64,
+        "appearances": 2,
+        "sources": [
+          "루리웹",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 4,
+            "title": "해리) 지니 위즐리의 가장 큰 문제점은",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77229318?m=humor",
+            "score": 84.64
+          },
+          {
+            "source": "클리앙",
+            "rank": 29,
+            "title": "지금 부동산 정책의 문제점은 결국 보유세 같습니다.",
+            "url": "https://www.clien.net/service/board/park/19285602?od=T31&po=0&category=0&groupCd=",
+            "score": 66.2
+          }
+        ],
+        "first_seen": "2026-11-01T04:16:27.039598+09:00",
+        "last_seen": "2026-11-01T07:24:53.147489+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 1,
+        "change": 2
+      },
+      {
         "id": "ifc264642",
         "title": "‘아반떼’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -1401,7 +1494,45 @@
         "last_seen": "2026-11-01T04:16:27.039598+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 1,
+        "rank": 2,
+        "change": -1
+      },
+      {
+        "id": "ibf947c6c",
+        "title": "‘여기저기’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "여기저기"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 96.31,
+        "peak_score": 86.84,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 9,
+            "title": "잼통이 여기저기 찔러보네요. 애효 진짜 ..",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10172341",
+            "score": 77.84
+          },
+          {
+            "source": "클리앙",
+            "rank": 76,
+            "title": "최태원 회장이 요즘 여기저기 강연하면서 인플루언서 비슷하게 하던데요",
+            "url": "https://www.clien.net/service/board/park/19285596?od=T31&po=0&category=0&groupCd=",
+            "score": 57.02
+          }
+        ],
+        "first_seen": "2026-11-01T07:24:53.147489+09:00",
+        "last_seen": "2026-11-01T07:24:53.147489+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 3,
         "change": "NEW"
       },
       {
@@ -1440,64 +1571,26 @@
         "last_seen": "2026-11-01T04:16:27.039598+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 2,
-        "change": "NEW"
-      },
-      {
-        "id": "ie3fc87c2",
-        "title": "‘문제점은’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "문제점은"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 94.43,
-        "peak_score": 84.96,
-        "appearances": 1,
-        "sources": [
-          "루리웹",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 16,
-            "title": "지금 부동산 정책의 문제점은 결국 보유세 같습니다.",
-            "url": "https://www.clien.net/service/board/park/19285602?od=T31&po=0&category=0&groupCd=",
-            "score": 75.96
-          },
-          {
-            "source": "루리웹",
-            "rank": 70,
-            "title": "나히아) 엔딩 데쿠 행적의 문제점은",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77229667?m=humor_only&t=now",
-            "score": 55.98
-          }
-        ],
-        "first_seen": "2026-11-01T04:16:27.039598+09:00",
-        "last_seen": "2026-11-01T04:16:27.039598+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 3,
-        "change": "NEW"
+        "rank": 4,
+        "change": -2
       },
       {
         "id": "ib02d3a70",
         "title": "핼러윈 주말, 이태원 2만·홍대 12만 인파 몰렸다...안전 관리 총력",
         "keywords": [
-          "몰렸다",
-          "핼러윈",
+          "주말",
           "홍대",
-          "2만",
+          "핼러윈",
           "인파",
-          "이태원",
-          "12만"
+          "몰렸다",
+          "12만",
+          "이태원"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 94.26,
+        "score": 95.7,
         "peak_score": 82.77,
-        "appearances": 2,
+        "appearances": 3,
         "sources": [
           "인벤",
           "클리앙"
@@ -1505,25 +1598,65 @@
         "posts": [
           {
             "source": "인벤",
-            "rank": 18,
+            "rank": 42,
             "title": "핼러윈 주말, 이태원 2만·홍대 12만 인파 몰렸다...안전 관리 총력",
             "url": "https://www.inven.co.kr/board/webzine/2097/2747376",
-            "score": 73.42
+            "score": 63.16
           },
           {
             "source": "클리앙",
-            "rank": 36,
+            "rank": 52,
             "title": "핼러윈 주말, 이태원 2만·홍대 12만 인파 몰렸다...안전 관리 총력",
             "url": "https://www.clien.net/service/board/park/19285605?od=T31&po=0&category=0&groupCd=",
-            "score": 65.64
+            "score": 60.43
           }
         ],
         "first_seen": "2026-11-01T03:52:42.954008+09:00",
-        "last_seen": "2026-11-01T04:16:27.039598+09:00",
+        "last_seen": "2026-11-01T07:24:53.147489+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 4,
-        "change": -3
+        "rank": 5,
+        "change": -1
+      },
+      {
+        "id": "icf31cb81",
+        "title": "소개받은 사람이 좀 오타쿠 같은데",
+        "keywords": [
+          "같은데",
+          "오타쿠",
+          "소개받은"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 93.0,
+        "peak_score": 83.53,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "루리웹"
+        ],
+        "posts": [
+          {
+            "source": "더쿠",
+            "rank": 12,
+            "title": "소개받은 사람이 좀 오타쿠 같은데",
+            "url": "https://theqoo.net/hot/4392158849",
+            "score": 75.53
+          },
+          {
+            "source": "루리웹",
+            "rank": 83,
+            "title": "소개받은 사람이 좀 오타쿠 같은데.jpg",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77230096?m=humor_only&t=now",
+            "score": 53.68
+          }
+        ],
+        "first_seen": "2026-11-01T07:24:53.147489+09:00",
+        "last_seen": "2026-11-01T07:24:53.147489+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 6,
+        "change": "NEW"
       },
       {
         "id": "i12455f1b",
@@ -1560,8 +1693,49 @@
         "last_seen": "2026-11-01T04:16:27.039598+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 5,
-        "change": -3
+        "rank": 7,
+        "change": -2
+      },
+      {
+        "id": "i6154676e",
+        "title": "요즘 고등학생들 역사 토론 수준",
+        "keywords": [
+          "토론",
+          "수준",
+          "고등학생들",
+          "역사"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 91.67,
+        "peak_score": 82.2,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 18,
+            "title": "요즘 고등학생들 역사 토론 수준",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2747382",
+            "score": 74.2
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 97,
+            "title": "요즘 고등학생들 역사 토론 수준.jpg",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=humor&no=790318",
+            "score": 49.47
+          }
+        ],
+        "first_seen": "2026-11-01T07:24:53.147489+09:00",
+        "last_seen": "2026-11-01T07:24:53.147489+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 8,
+        "change": "NEW"
       },
       {
         "id": "i0cdcc665",
@@ -1598,7 +1772,7 @@
         "last_seen": "2026-11-01T04:16:27.039598+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 6,
+        "rank": 9,
         "change": -3
       },
       {
@@ -1636,7 +1810,7 @@
         "last_seen": "2026-11-01T04:16:27.039598+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 7,
+        "rank": 10,
         "change": -3
       }
     ]
