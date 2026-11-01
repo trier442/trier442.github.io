@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-11-01T10:25:13.327785+09:00",
+  "collected_at": "2026-11-01T17:02:11.943256+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -11,117 +11,277 @@
   "rankings": {
     "realtime": [
       {
-        "id": "ife021da2",
-        "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i4a23876e",
+        "title": "‘11월’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "난리난"
+          "11월"
         ],
-        "source_count": 2,
+        "source_count": 3,
         "post_count": 3,
-        "score": 100.09,
-        "peak_score": 100.09,
+        "score": 79.73,
+        "peak_score": 79.73,
         "appearances": 1,
         "sources": [
-          "디시인사이드",
-          "루리웹"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 3,
-            "title": "난리난 현지 독일 상황",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77231303?m=humor",
-            "score": 90.09
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 40,
-            "title": "홍대 사탕 나눠줘서 난리난 인형탈남 근황 ㄷ",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474653&_dcbest=1&page=1",
-            "score": 63.78
-          }
-        ],
-        "rank": 1,
-        "change": "NEW"
-      },
-      {
-        "id": "i4e73ee85",
-        "title": "‘롤드컵’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "롤드컵"
-        ],
-        "source_count": 2,
-        "post_count": 3,
-        "score": 68.78,
-        "peak_score": 68.78,
-        "appearances": 1,
-        "sources": [
-          "인벤",
+          "더쿠",
+          "뽐뿌",
           "클리앙"
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 72,
-            "title": "롤드컵 스위스 마지막 경기 결과",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2747407",
-            "score": 58.78
+            "source": "뽐뿌",
+            "rank": 46,
+            "title": "11월 출석체크",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=event2&no=108006",
+            "score": 62.73
           },
           {
             "source": "클리앙",
-            "rank": 97,
-            "title": "롤드컵 한화가 떨어졌네요",
-            "url": "https://www.clien.net/service/board/park/19285661?od=T31&po=0&category=0&groupCd=",
-            "score": 51.81
+            "rank": 58,
+            "title": "일본, 11월 1일부터 면세 할인 구입 시스템 변경",
+            "url": "https://www.clien.net/service/board/park/19285766?od=T31&po=0&category=0&groupCd=",
+            "score": 59.37
+          },
+          {
+            "source": "더쿠",
+            "rank": 63,
+            "title": "W코리아 11월 별자리운세 🌟",
+            "url": "https://theqoo.net/hot/4392207185",
+            "score": 58.89
+          }
+        ],
+        "rank": 1,
+        "change": 2
+      },
+      {
+        "id": "ieb083272",
+        "title": "‘최불암’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "최불암"
+        ],
+        "source_count": 3,
+        "post_count": 3,
+        "score": 72.97,
+        "peak_score": 72.97,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "루리웹",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 78,
+            "title": "배우 최불암 별세소식에 중국에서도 우울함이 나옴",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77235672?m=humor_only&t=now",
+            "score": 55.97
+          },
+          {
+            "source": "인벤",
+            "rank": 84,
+            "title": "김용건 \"최불암 빈소 못 찾아 마음 힘들어…곁에 있어야 하는데\"",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2747512",
+            "score": 54.05
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 100,
+            "title": "국민아버지 고(故) 최불암 빈소찾는 스타들 근황...jpg",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474685&_dcbest=1&page=1",
+            "score": 49.89
           }
         ],
         "rank": 2,
         "change": "NEW"
       },
       {
-        "id": "i4a23876e",
-        "title": "‘11월’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i9ff6bf96",
+        "title": "‘프랑스’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "11월"
+          "프랑스"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 78.4,
-        "peak_score": 78.4,
+        "score": 107.12,
+        "peak_score": 107.12,
         "appearances": 1,
         "sources": [
-          "더쿠",
+          "디시인사이드",
           "루리웹"
         ],
         "posts": [
           {
             "source": "루리웹",
-            "rank": 25,
-            "title": "[GS25] 11월 갓세일&주요 할인 행사 정리 (11/1~30)",
-            "url": "https://bbs.ruliweb.com/market/board/1020/read/108554",
-            "score": 69.4
+            "rank": 1,
+            "title": "프랑스, 인터넷 데이터 사용량에 세금 부과 추진",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77231693?m=humor",
+            "score": 98.12
           },
           {
-            "source": "더쿠",
-            "rank": 69,
-            "title": "W코리아 11월 별자리운세 🌟",
-            "url": "https://theqoo.net/hot/4392207185",
-            "score": 58.89
+            "source": "디시인사이드",
+            "rank": 89,
+            "title": "프랑스 진짜 멸망 직전",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474655&_dcbest=1&page=1",
+            "score": 53.34
           }
         ],
         "rank": 3,
         "change": "NEW"
       },
       {
-        "id": "ife3c822c",
-        "title": "‘안하는’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "ic24684b3",
+        "title": "‘지원금’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "안하는"
+          "지원금"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 72.38,
-        "peak_score": 72.38,
+        "score": 88.56,
+        "peak_score": 88.56,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 7,
+            "title": "[속보] 청년 지원금 확정 ㄷㄷ..jpg",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10172761",
+            "score": 79.56
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 15,
+            "title": "19~34세 모든 청년에 수도권 10만, 비수도권 15만원 매년 지원금",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474723&_dcbest=1&page=1",
+            "score": 70.48
+          }
+        ],
+        "rank": 4,
+        "change": "NEW"
+      },
+      {
+        "id": "ie8b793b3",
+        "title": "‘같습니다’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "같습니다"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 79.21,
+        "peak_score": 79.21,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 16,
+            "title": "이제 슬슬 연임 이야기 꺼낼 때가 된 것 같습니다",
+            "url": "https://www.clien.net/service/board/park/19285785?od=T31&po=0&category=0&groupCd=",
+            "score": 70.21
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 38,
+            "title": "가짜반등에 모두가 속은거 같습니다.",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=448837",
+            "score": 64.03
+          }
+        ],
+        "rank": 5,
+        "change": "NEW"
+      },
+      {
+        "id": "i5364c4a3",
+        "title": "‘소개팅’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "소개팅"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 75.77,
+        "peak_score": 75.77,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 26,
+            "title": "소개팅 첫 만남에 몸매 드러내는 복장이 맞을까요",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=problem&no=237823",
+            "score": 66.77
+          },
+          {
+            "source": "인벤",
+            "rank": 39,
+            "title": "소개팅 밥값 6만원 나온 여자",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2747511",
+            "score": 63.94
+          }
+        ],
+        "rank": 6,
+        "change": "NEW"
+      },
+      {
+        "id": "i4c8bdd1e",
+        "title": "李대통령, 사상 첫 수출 9천억 달러 돌파에 “위대한 대한민국 만세”",
+        "keywords": [
+          "위대한",
+          "만세",
+          "대한민국",
+          "사상",
+          "수출",
+          "9천억",
+          "돌파에"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 72.77,
+        "peak_score": 72.77,
+        "appearances": 1,
+        "sources": [
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 35,
+            "title": "李대통령, 사상 첫 수출 9천억 달러 돌파에 “위대한 대한민국 만세”",
+            "url": "https://www.clien.net/service/board/park/19285781?od=T31&po=0&category=0&groupCd=",
+            "score": 64.77
+          },
+          {
+            "source": "인벤",
+            "rank": 76,
+            "title": "李대통령, 사상 첫 수출 9천억 달러 돌파에 “위대한 대한민국 만세”",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2747519",
+            "score": 56.54
+          }
+        ],
+        "rank": 7,
+        "change": "NEW"
+      },
+      {
+        "id": "i304a5af2",
+        "title": "걸그룹 언차일드 비맞으며 플래시몹.tw",
+        "keywords": [
+          "플래시몹",
+          "걸그룹",
+          "언차일드"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 71.8,
+        "peak_score": 71.8,
         "appearances": 1,
         "sources": [
           "인벤",
@@ -130,58 +290,62 @@
         "posts": [
           {
             "source": "인벤",
-            "rank": 43,
-            "title": "생각보다 많은 결혼식 안하는 부부",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2747398",
-            "score": 63.38
+            "rank": 42,
+            "title": "걸그룹 언차일드 비맞으며 플래시몹.tw",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2747530",
+            "score": 63.8
           },
           {
             "source": "클리앙",
-            "rank": 48,
-            "title": "가만보면 출근 안하는 시람들도 꽤많네요",
-            "url": "https://www.clien.net/service/board/park/19285669?od=T31&po=0&category=0&groupCd=",
-            "score": 62.61
+            "rank": 99,
+            "title": "돈없다고 익명공격받던 걸그룹 언차일드 오늘 플래시몹",
+            "url": "https://www.clien.net/service/board/park/19285774?od=T31&po=0&category=0&groupCd=",
+            "score": 50.07
           }
         ],
-        "rank": 4,
-        "change": "NEW"
-      },
-      {
-        "id": "id966b3b3",
-        "title": "‘스위스’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "스위스"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 67.78,
-        "peak_score": 67.78,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 72,
-            "title": "롤드컵 스위스 마지막 경기 결과",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2747407",
-            "score": 58.78
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 82,
-            "title": "싱글벙글 스위스 치즈...jpg",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474601&_dcbest=1&page=1",
-            "score": 57.41
-          }
-        ],
-        "rank": 5,
+        "rank": 8,
         "change": "NEW"
       }
     ],
     "daily": [
+      {
+        "id": "i9ff6bf96",
+        "title": "‘프랑스’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "프랑스"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 116.59,
+        "peak_score": 107.12,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "루리웹"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 1,
+            "title": "프랑스, 인터넷 데이터 사용량에 세금 부과 추진",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77231693?m=humor",
+            "score": 98.12
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 89,
+            "title": "프랑스 진짜 멸망 직전",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474655&_dcbest=1&page=1",
+            "score": 53.34
+          }
+        ],
+        "first_seen": "2026-10-05T23:25:29.795675+09:00",
+        "last_seen": "2026-11-01T17:02:11.943256+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 1,
+        "change": "NEW"
+      },
       {
         "id": "ife021da2",
         "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
@@ -217,8 +381,8 @@
         "last_seen": "2026-11-01T10:25:13.327785+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 1,
-        "change": "NEW"
+        "rank": 2,
+        "change": -1
       },
       {
         "id": "ie3fc87c2",
@@ -255,7 +419,7 @@
         "last_seen": "2026-11-01T07:24:53.147489+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 2,
+        "rank": 3,
         "change": -1
       },
       {
@@ -293,8 +457,46 @@
         "last_seen": "2026-11-01T04:16:27.039598+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 3,
+        "rank": 4,
         "change": -1
+      },
+      {
+        "id": "ic24684b3",
+        "title": "‘지원금’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "지원금"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 98.03,
+        "peak_score": 88.56,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 7,
+            "title": "[속보] 청년 지원금 확정 ㄷㄷ..jpg",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10172761",
+            "score": 79.56
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 15,
+            "title": "19~34세 모든 청년에 수도권 10만, 비수도권 15만원 매년 지원금",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474723&_dcbest=1&page=1",
+            "score": 70.48
+          }
+        ],
+        "first_seen": "2026-11-01T17:02:11.943256+09:00",
+        "last_seen": "2026-11-01T17:02:11.943256+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 5,
+        "change": "NEW"
       },
       {
         "id": "ibf947c6c",
@@ -331,8 +533,55 @@
         "last_seen": "2026-11-01T07:24:53.147489+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 4,
-        "change": -1
+        "rank": 6,
+        "change": -2
+      },
+      {
+        "id": "i4a23876e",
+        "title": "‘11월’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "11월"
+        ],
+        "source_count": 3,
+        "post_count": 3,
+        "score": 96.22,
+        "peak_score": 79.73,
+        "appearances": 2,
+        "sources": [
+          "더쿠",
+          "루리웹",
+          "뽐뿌",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 46,
+            "title": "11월 출석체크",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=event2&no=108006",
+            "score": 62.73
+          },
+          {
+            "source": "클리앙",
+            "rank": 58,
+            "title": "일본, 11월 1일부터 면세 할인 구입 시스템 변경",
+            "url": "https://www.clien.net/service/board/park/19285766?od=T31&po=0&category=0&groupCd=",
+            "score": 59.37
+          },
+          {
+            "source": "더쿠",
+            "rank": 63,
+            "title": "W코리아 11월 별자리운세 🌟",
+            "url": "https://theqoo.net/hot/4392207185",
+            "score": 58.89
+          }
+        ],
+        "first_seen": "2026-11-01T10:25:13.327785+09:00",
+        "last_seen": "2026-11-01T17:02:11.943256+09:00",
+        "latest_source_count": 3,
+        "latest_post_count": 3,
+        "rank": 7,
+        "change": 3
       },
       {
         "id": "i5d6688ff",
@@ -370,8 +619,8 @@
         "last_seen": "2026-11-01T04:16:27.039598+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 5,
-        "change": -1
+        "rank": 8,
+        "change": -3
       },
       {
         "id": "ib02d3a70",
@@ -414,8 +663,8 @@
         "last_seen": "2026-11-01T07:24:53.147489+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 6,
-        "change": -1
+        "rank": 9,
+        "change": -3
       },
       {
         "id": "icf31cb81",
@@ -454,8 +703,8 @@
         "last_seen": "2026-11-01T07:24:53.147489+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 7,
-        "change": -1
+        "rank": 10,
+        "change": -3
       },
       {
         "id": "i12455f1b",
@@ -492,8 +741,8 @@
         "last_seen": "2026-11-01T04:16:27.039598+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 8,
-        "change": -1
+        "rank": 11,
+        "change": -3
       },
       {
         "id": "i6154676e",
@@ -533,45 +782,129 @@
         "last_seen": "2026-11-01T07:24:53.147489+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 9,
-        "change": -1
+        "rank": 12,
+        "change": -3
       },
       {
-        "id": "i4a23876e",
-        "title": "‘11월’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "ie8b793b3",
+        "title": "‘같습니다’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "11월"
+          "같습니다"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 87.87,
-        "peak_score": 78.4,
+        "score": 88.68,
+        "peak_score": 79.21,
         "appearances": 1,
         "sources": [
-          "더쿠",
-          "루리웹"
+          "뽐뿌",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 16,
+            "title": "이제 슬슬 연임 이야기 꺼낼 때가 된 것 같습니다",
+            "url": "https://www.clien.net/service/board/park/19285785?od=T31&po=0&category=0&groupCd=",
+            "score": 70.21
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 38,
+            "title": "가짜반등에 모두가 속은거 같습니다.",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=448837",
+            "score": 64.03
+          }
+        ],
+        "first_seen": "2026-11-01T17:02:11.943256+09:00",
+        "last_seen": "2026-11-01T17:02:11.943256+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 13,
+        "change": "NEW"
+      },
+      {
+        "id": "ieb083272",
+        "title": "‘최불암’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "최불암"
+        ],
+        "source_count": 3,
+        "post_count": 3,
+        "score": 87.44,
+        "peak_score": 72.97,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "루리웹",
+          "인벤"
         ],
         "posts": [
           {
             "source": "루리웹",
-            "rank": 25,
-            "title": "[GS25] 11월 갓세일&주요 할인 행사 정리 (11/1~30)",
-            "url": "https://bbs.ruliweb.com/market/board/1020/read/108554",
-            "score": 69.4
+            "rank": 78,
+            "title": "배우 최불암 별세소식에 중국에서도 우울함이 나옴",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77235672?m=humor_only&t=now",
+            "score": 55.97
           },
           {
-            "source": "더쿠",
-            "rank": 69,
-            "title": "W코리아 11월 별자리운세 🌟",
-            "url": "https://theqoo.net/hot/4392207185",
-            "score": 58.89
+            "source": "인벤",
+            "rank": 84,
+            "title": "김용건 \"최불암 빈소 못 찾아 마음 힘들어…곁에 있어야 하는데\"",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2747512",
+            "score": 54.05
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 100,
+            "title": "국민아버지 고(故) 최불암 빈소찾는 스타들 근황...jpg",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474685&_dcbest=1&page=1",
+            "score": 49.89
           }
         ],
-        "first_seen": "2026-11-01T10:25:13.327785+09:00",
-        "last_seen": "2026-11-01T10:25:13.327785+09:00",
+        "first_seen": "2026-10-31T08:09:53.258785+09:00",
+        "last_seen": "2026-11-01T17:02:11.943256+09:00",
+        "latest_source_count": 3,
+        "latest_post_count": 3,
+        "rank": 14,
+        "change": "NEW"
+      },
+      {
+        "id": "i5364c4a3",
+        "title": "‘소개팅’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "소개팅"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 85.24,
+        "peak_score": 75.77,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 26,
+            "title": "소개팅 첫 만남에 몸매 드러내는 복장이 맞을까요",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=problem&no=237823",
+            "score": 66.77
+          },
+          {
+            "source": "인벤",
+            "rank": 39,
+            "title": "소개팅 밥값 6만원 나온 여자",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2747511",
+            "score": 63.94
+          }
+        ],
+        "first_seen": "2026-11-01T17:02:11.943256+09:00",
+        "last_seen": "2026-11-01T17:02:11.943256+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 10,
+        "rank": 15,
         "change": "NEW"
       },
       {
@@ -609,8 +942,8 @@
         "last_seen": "2026-11-01T04:16:27.039598+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
-        "change": -2
+        "rank": 16,
+        "change": -5
       },
       {
         "id": "i2ef7e856",
@@ -647,8 +980,52 @@
         "last_seen": "2026-11-01T04:16:27.039598+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 12,
-        "change": -2
+        "rank": 17,
+        "change": -5
+      },
+      {
+        "id": "i4c8bdd1e",
+        "title": "李대통령, 사상 첫 수출 9천억 달러 돌파에 “위대한 대한민국 만세”",
+        "keywords": [
+          "위대한",
+          "만세",
+          "대한민국",
+          "사상",
+          "수출",
+          "9천억",
+          "돌파에"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 82.24,
+        "peak_score": 72.77,
+        "appearances": 1,
+        "sources": [
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 35,
+            "title": "李대통령, 사상 첫 수출 9천억 달러 돌파에 “위대한 대한민국 만세”",
+            "url": "https://www.clien.net/service/board/park/19285781?od=T31&po=0&category=0&groupCd=",
+            "score": 64.77
+          },
+          {
+            "source": "인벤",
+            "rank": 76,
+            "title": "李대통령, 사상 첫 수출 9천억 달러 돌파에 “위대한 대한민국 만세”",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2747519",
+            "score": 56.54
+          }
+        ],
+        "first_seen": "2026-10-08T13:29:25.370320+09:00",
+        "last_seen": "2026-11-01T17:02:11.943256+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 18,
+        "change": "NEW"
       },
       {
         "id": "ife3c822c",
@@ -685,19 +1062,21 @@
         "last_seen": "2026-11-01T10:25:13.327785+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 13,
-        "change": "NEW"
+        "rank": 19,
+        "change": -6
       },
       {
-        "id": "i4e73ee85",
-        "title": "‘롤드컵’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i304a5af2",
+        "title": "걸그룹 언차일드 비맞으며 플래시몹.tw",
         "keywords": [
-          "롤드컵"
+          "플래시몹",
+          "걸그룹",
+          "언차일드"
         ],
         "source_count": 2,
-        "post_count": 3,
-        "score": 79.25,
-        "peak_score": 68.78,
+        "post_count": 2,
+        "score": 81.27,
+        "peak_score": 71.8,
         "appearances": 1,
         "sources": [
           "인벤",
@@ -706,62 +1085,24 @@
         "posts": [
           {
             "source": "인벤",
-            "rank": 72,
-            "title": "롤드컵 스위스 마지막 경기 결과",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2747407",
-            "score": 58.78
+            "rank": 42,
+            "title": "걸그룹 언차일드 비맞으며 플래시몹.tw",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2747530",
+            "score": 63.8
           },
           {
             "source": "클리앙",
-            "rank": 97,
-            "title": "롤드컵 한화가 떨어졌네요",
-            "url": "https://www.clien.net/service/board/park/19285661?od=T31&po=0&category=0&groupCd=",
-            "score": 51.81
+            "rank": 99,
+            "title": "돈없다고 익명공격받던 걸그룹 언차일드 오늘 플래시몹",
+            "url": "https://www.clien.net/service/board/park/19285774?od=T31&po=0&category=0&groupCd=",
+            "score": 50.07
           }
         ],
-        "first_seen": "2026-11-01T10:25:13.327785+09:00",
-        "last_seen": "2026-11-01T10:25:13.327785+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 3,
-        "rank": 14,
-        "change": "NEW"
-      },
-      {
-        "id": "id966b3b3",
-        "title": "‘스위스’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "스위스"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 77.25,
-        "peak_score": 67.78,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 72,
-            "title": "롤드컵 스위스 마지막 경기 결과",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2747407",
-            "score": 58.78
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 82,
-            "title": "싱글벙글 스위스 치즈...jpg",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474601&_dcbest=1&page=1",
-            "score": 57.41
-          }
-        ],
-        "first_seen": "2026-11-01T10:25:13.327785+09:00",
-        "last_seen": "2026-11-01T10:25:13.327785+09:00",
+        "first_seen": "2026-11-01T17:02:11.943256+09:00",
+        "last_seen": "2026-11-01T17:02:11.943256+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 15,
+        "rank": 20,
         "change": "NEW"
       }
     ],
@@ -945,43 +1286,88 @@
       },
       {
         "id": "i4c8bdd1e",
-        "title": "열일하는 대한민국 관세청 근황",
+        "title": "李대통령, 사상 첫 수출 9천억 달러 돌파에 “위대한 대한민국 만세”",
         "keywords": [
+          "위대한",
+          "만세",
           "대한민국",
-          "관세청"
+          "사상",
+          "수출",
+          "9천억",
+          "돌파에"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 118.37,
+        "score": 119.49,
         "peak_score": 105.44,
-        "appearances": 3,
+        "appearances": 4,
         "sources": [
           "더쿠",
+          "디시인사이드",
+          "루리웹",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 35,
+            "title": "李대통령, 사상 첫 수출 9천억 달러 돌파에 “위대한 대한민국 만세”",
+            "url": "https://www.clien.net/service/board/park/19285781?od=T31&po=0&category=0&groupCd=",
+            "score": 64.77
+          },
+          {
+            "source": "인벤",
+            "rank": 76,
+            "title": "李대통령, 사상 첫 수출 9천억 달러 돌파에 “위대한 대한민국 만세”",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2747519",
+            "score": 56.54
+          }
+        ],
+        "first_seen": "2026-10-08T13:29:25.370320+09:00",
+        "last_seen": "2026-11-01T17:02:11.943256+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 5,
+        "change": 0
+      },
+      {
+        "id": "i9ff6bf96",
+        "title": "‘프랑스’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "프랑스"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 118.61,
+        "peak_score": 107.12,
+        "appearances": 2,
+        "sources": [
           "디시인사이드",
           "루리웹"
         ],
         "posts": [
           {
             "source": "루리웹",
-            "rank": 2,
-            "title": "열일하는 대한민국 관세청 근황",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77185466?m=humor",
-            "score": 97.44
+            "rank": 1,
+            "title": "프랑스, 인터넷 데이터 사용량에 세금 부과 추진",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77231693?m=humor",
+            "score": 98.12
           },
           {
             "source": "디시인사이드",
-            "rank": 97,
-            "title": "대한민국 관세청 근황.....",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=473712&_dcbest=1&page=1",
-            "score": 50.67
+            "rank": 89,
+            "title": "프랑스 진짜 멸망 직전",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474655&_dcbest=1&page=1",
+            "score": 53.34
           }
         ],
-        "first_seen": "2026-10-08T13:29:25.370320+09:00",
-        "last_seen": "2026-10-28T16:26:06.848844+09:00",
+        "first_seen": "2026-10-05T23:25:29.795675+09:00",
+        "last_seen": "2026-11-01T17:02:11.943256+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 5,
-        "change": 0
+        "rank": 6,
+        "change": "NEW"
       },
       {
         "id": "icb33dad5",
@@ -1019,8 +1405,8 @@
         "last_seen": "2026-10-31T23:50:52.976309+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 6,
-        "change": 0
+        "rank": 7,
+        "change": -1
       },
       {
         "id": "i5063d441",
@@ -1057,8 +1443,8 @@
         "last_seen": "2026-10-30T06:55:54.170346+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 7,
-        "change": 0
+        "rank": 8,
+        "change": -1
       },
       {
         "id": "i6fb7ee77",
@@ -1095,8 +1481,8 @@
         "last_seen": "2026-10-29T18:48:34.177189+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 8,
-        "change": 0
+        "rank": 9,
+        "change": -1
       },
       {
         "id": "i5d6688ff",
@@ -1134,8 +1520,8 @@
         "last_seen": "2026-11-01T04:16:27.039598+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 9,
-        "change": 0
+        "rank": 10,
+        "change": -1
       },
       {
         "id": "i3eced5eb",
@@ -1174,8 +1560,8 @@
         "last_seen": "2026-10-31T08:09:53.258785+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 10,
-        "change": 0
+        "rank": 11,
+        "change": -1
       },
       {
         "id": "ia0fd1514",
@@ -1220,8 +1606,8 @@
         "last_seen": "2026-10-30T10:40:41.816687+09:00",
         "latest_source_count": 3,
         "latest_post_count": 3,
-        "rank": 11,
-        "change": 0
+        "rank": 12,
+        "change": -1
       },
       {
         "id": "ib522be5d",
@@ -1258,8 +1644,8 @@
         "last_seen": "2026-10-28T16:31:27.703899+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 12,
-        "change": 0
+        "rank": 13,
+        "change": -1
       },
       {
         "id": "i2c099e33",
@@ -1296,8 +1682,8 @@
         "last_seen": "2026-10-31T17:48:41.577615+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 13,
-        "change": 0
+        "rank": 14,
+        "change": -1
       },
       {
         "id": "id0f722ca",
@@ -1334,8 +1720,8 @@
         "last_seen": "2026-10-29T18:48:34.177189+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 14,
-        "change": 0
+        "rank": 15,
+        "change": -1
       },
       {
         "id": "ifd0be149",
@@ -1372,8 +1758,8 @@
         "last_seen": "2026-10-27T15:11:02.788061+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 15,
-        "change": 0
+        "rank": 16,
+        "change": -1
       },
       {
         "id": "icf8be3fe",
@@ -1429,8 +1815,8 @@
         "last_seen": "2026-10-26T09:40:04.280210+09:00",
         "latest_source_count": 3,
         "latest_post_count": 4,
-        "rank": 16,
-        "change": 0
+        "rank": 17,
+        "change": -1
       },
       {
         "id": "i14d31b7b",
@@ -1467,8 +1853,8 @@
         "last_seen": "2026-10-27T02:31:17.691735+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 17,
-        "change": 0
+        "rank": 18,
+        "change": -1
       },
       {
         "id": "i230edad9",
@@ -1515,8 +1901,8 @@
         "last_seen": "2026-10-30T06:55:54.170346+09:00",
         "latest_source_count": 3,
         "latest_post_count": 3,
-        "rank": 18,
-        "change": 0
+        "rank": 19,
+        "change": -1
       },
       {
         "id": "ia4c7959d",
@@ -1554,52 +1940,49 @@
         "last_seen": "2026-10-27T06:51:21.487617+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 19,
-        "change": 0
-      },
+        "rank": 20,
+        "change": -1
+      }
+    ],
+    "monthly": [
       {
-        "id": "i6828fd2c",
-        "title": "남자들 5cm 키울수 있는데 뭐 고름?.jpg",
+        "id": "i9ff6bf96",
+        "title": "‘프랑스’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "5cm",
-          "키울수",
-          "있는데",
-          "고름"
+          "프랑스"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 111.72,
-        "peak_score": 102.25,
+        "score": 116.59,
+        "peak_score": 107.12,
         "appearances": 1,
         "sources": [
-          "루리웹",
-          "인벤"
+          "디시인사이드",
+          "루리웹"
         ],
         "posts": [
           {
             "source": "루리웹",
-            "rank": 3,
-            "title": "남자들 5cm 키울수 있는데 뭐 고름?.jpg",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77221756?m=humor",
-            "score": 94.25
+            "rank": 1,
+            "title": "프랑스, 인터넷 데이터 사용량에 세금 부과 추진",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77231693?m=humor",
+            "score": 98.12
           },
           {
-            "source": "인벤",
-            "rank": 40,
-            "title": "5cm 키울수 있는데 뭐 고름?",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2747246",
-            "score": 63.76
+            "source": "디시인사이드",
+            "rank": 89,
+            "title": "프랑스 진짜 멸망 직전",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474655&_dcbest=1&page=1",
+            "score": 53.34
           }
         ],
-        "first_seen": "2026-10-31T17:48:41.577615+09:00",
-        "last_seen": "2026-10-31T17:48:41.577615+09:00",
+        "first_seen": "2026-10-05T23:25:29.795675+09:00",
+        "last_seen": "2026-11-01T17:02:11.943256+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 20,
-        "change": 0
-      }
-    ],
-    "monthly": [
+        "rank": 1,
+        "change": "NEW"
+      },
       {
         "id": "ife021da2",
         "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
@@ -1635,8 +2018,8 @@
         "last_seen": "2026-11-01T10:25:13.327785+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 1,
-        "change": "NEW"
+        "rank": 2,
+        "change": -1
       },
       {
         "id": "ie3fc87c2",
@@ -1673,7 +2056,7 @@
         "last_seen": "2026-11-01T07:24:53.147489+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 2,
+        "rank": 3,
         "change": -1
       },
       {
@@ -1711,8 +2094,46 @@
         "last_seen": "2026-11-01T04:16:27.039598+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 3,
+        "rank": 4,
         "change": -1
+      },
+      {
+        "id": "ic24684b3",
+        "title": "‘지원금’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "지원금"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 98.03,
+        "peak_score": 88.56,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 7,
+            "title": "[속보] 청년 지원금 확정 ㄷㄷ..jpg",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10172761",
+            "score": 79.56
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 15,
+            "title": "19~34세 모든 청년에 수도권 10만, 비수도권 15만원 매년 지원금",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474723&_dcbest=1&page=1",
+            "score": 70.48
+          }
+        ],
+        "first_seen": "2026-11-01T17:02:11.943256+09:00",
+        "last_seen": "2026-11-01T17:02:11.943256+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 5,
+        "change": "NEW"
       },
       {
         "id": "ibf947c6c",
@@ -1749,8 +2170,55 @@
         "last_seen": "2026-11-01T07:24:53.147489+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 4,
-        "change": -1
+        "rank": 6,
+        "change": -2
+      },
+      {
+        "id": "i4a23876e",
+        "title": "‘11월’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "11월"
+        ],
+        "source_count": 3,
+        "post_count": 3,
+        "score": 96.22,
+        "peak_score": 79.73,
+        "appearances": 2,
+        "sources": [
+          "더쿠",
+          "루리웹",
+          "뽐뿌",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 46,
+            "title": "11월 출석체크",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=event2&no=108006",
+            "score": 62.73
+          },
+          {
+            "source": "클리앙",
+            "rank": 58,
+            "title": "일본, 11월 1일부터 면세 할인 구입 시스템 변경",
+            "url": "https://www.clien.net/service/board/park/19285766?od=T31&po=0&category=0&groupCd=",
+            "score": 59.37
+          },
+          {
+            "source": "더쿠",
+            "rank": 63,
+            "title": "W코리아 11월 별자리운세 🌟",
+            "url": "https://theqoo.net/hot/4392207185",
+            "score": 58.89
+          }
+        ],
+        "first_seen": "2026-11-01T10:25:13.327785+09:00",
+        "last_seen": "2026-11-01T17:02:11.943256+09:00",
+        "latest_source_count": 3,
+        "latest_post_count": 3,
+        "rank": 7,
+        "change": 3
       },
       {
         "id": "i5d6688ff",
@@ -1788,8 +2256,8 @@
         "last_seen": "2026-11-01T04:16:27.039598+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 5,
-        "change": -1
+        "rank": 8,
+        "change": -3
       },
       {
         "id": "ib02d3a70",
@@ -1832,8 +2300,8 @@
         "last_seen": "2026-11-01T07:24:53.147489+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 6,
-        "change": -1
+        "rank": 9,
+        "change": -3
       },
       {
         "id": "icf31cb81",
@@ -1872,8 +2340,8 @@
         "last_seen": "2026-11-01T07:24:53.147489+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 7,
-        "change": -1
+        "rank": 10,
+        "change": -3
       },
       {
         "id": "i12455f1b",
@@ -1910,8 +2378,8 @@
         "last_seen": "2026-11-01T04:16:27.039598+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 8,
-        "change": -1
+        "rank": 11,
+        "change": -3
       },
       {
         "id": "i6154676e",
@@ -1951,45 +2419,129 @@
         "last_seen": "2026-11-01T07:24:53.147489+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 9,
-        "change": -1
+        "rank": 12,
+        "change": -3
       },
       {
-        "id": "i4a23876e",
-        "title": "‘11월’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "ie8b793b3",
+        "title": "‘같습니다’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "11월"
+          "같습니다"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 87.87,
-        "peak_score": 78.4,
+        "score": 88.68,
+        "peak_score": 79.21,
         "appearances": 1,
         "sources": [
-          "더쿠",
-          "루리웹"
+          "뽐뿌",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 16,
+            "title": "이제 슬슬 연임 이야기 꺼낼 때가 된 것 같습니다",
+            "url": "https://www.clien.net/service/board/park/19285785?od=T31&po=0&category=0&groupCd=",
+            "score": 70.21
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 38,
+            "title": "가짜반등에 모두가 속은거 같습니다.",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=448837",
+            "score": 64.03
+          }
+        ],
+        "first_seen": "2026-11-01T17:02:11.943256+09:00",
+        "last_seen": "2026-11-01T17:02:11.943256+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 13,
+        "change": "NEW"
+      },
+      {
+        "id": "ieb083272",
+        "title": "‘최불암’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "최불암"
+        ],
+        "source_count": 3,
+        "post_count": 3,
+        "score": 87.44,
+        "peak_score": 72.97,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "루리웹",
+          "인벤"
         ],
         "posts": [
           {
             "source": "루리웹",
-            "rank": 25,
-            "title": "[GS25] 11월 갓세일&주요 할인 행사 정리 (11/1~30)",
-            "url": "https://bbs.ruliweb.com/market/board/1020/read/108554",
-            "score": 69.4
+            "rank": 78,
+            "title": "배우 최불암 별세소식에 중국에서도 우울함이 나옴",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77235672?m=humor_only&t=now",
+            "score": 55.97
           },
           {
-            "source": "더쿠",
-            "rank": 69,
-            "title": "W코리아 11월 별자리운세 🌟",
-            "url": "https://theqoo.net/hot/4392207185",
-            "score": 58.89
+            "source": "인벤",
+            "rank": 84,
+            "title": "김용건 \"최불암 빈소 못 찾아 마음 힘들어…곁에 있어야 하는데\"",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2747512",
+            "score": 54.05
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 100,
+            "title": "국민아버지 고(故) 최불암 빈소찾는 스타들 근황...jpg",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474685&_dcbest=1&page=1",
+            "score": 49.89
           }
         ],
-        "first_seen": "2026-11-01T10:25:13.327785+09:00",
-        "last_seen": "2026-11-01T10:25:13.327785+09:00",
+        "first_seen": "2026-10-31T08:09:53.258785+09:00",
+        "last_seen": "2026-11-01T17:02:11.943256+09:00",
+        "latest_source_count": 3,
+        "latest_post_count": 3,
+        "rank": 14,
+        "change": "NEW"
+      },
+      {
+        "id": "i5364c4a3",
+        "title": "‘소개팅’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "소개팅"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 85.24,
+        "peak_score": 75.77,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 26,
+            "title": "소개팅 첫 만남에 몸매 드러내는 복장이 맞을까요",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=problem&no=237823",
+            "score": 66.77
+          },
+          {
+            "source": "인벤",
+            "rank": 39,
+            "title": "소개팅 밥값 6만원 나온 여자",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2747511",
+            "score": 63.94
+          }
+        ],
+        "first_seen": "2026-11-01T17:02:11.943256+09:00",
+        "last_seen": "2026-11-01T17:02:11.943256+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 10,
+        "rank": 15,
         "change": "NEW"
       },
       {
@@ -2027,8 +2579,8 @@
         "last_seen": "2026-11-01T04:16:27.039598+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
-        "change": -2
+        "rank": 16,
+        "change": -5
       },
       {
         "id": "i2ef7e856",
@@ -2065,8 +2617,52 @@
         "last_seen": "2026-11-01T04:16:27.039598+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 12,
-        "change": -2
+        "rank": 17,
+        "change": -5
+      },
+      {
+        "id": "i4c8bdd1e",
+        "title": "李대통령, 사상 첫 수출 9천억 달러 돌파에 “위대한 대한민국 만세”",
+        "keywords": [
+          "위대한",
+          "만세",
+          "대한민국",
+          "사상",
+          "수출",
+          "9천억",
+          "돌파에"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 82.24,
+        "peak_score": 72.77,
+        "appearances": 1,
+        "sources": [
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 35,
+            "title": "李대통령, 사상 첫 수출 9천억 달러 돌파에 “위대한 대한민국 만세”",
+            "url": "https://www.clien.net/service/board/park/19285781?od=T31&po=0&category=0&groupCd=",
+            "score": 64.77
+          },
+          {
+            "source": "인벤",
+            "rank": 76,
+            "title": "李대통령, 사상 첫 수출 9천억 달러 돌파에 “위대한 대한민국 만세”",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2747519",
+            "score": 56.54
+          }
+        ],
+        "first_seen": "2026-10-08T13:29:25.370320+09:00",
+        "last_seen": "2026-11-01T17:02:11.943256+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 18,
+        "change": "NEW"
       },
       {
         "id": "ife3c822c",
@@ -2103,19 +2699,21 @@
         "last_seen": "2026-11-01T10:25:13.327785+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 13,
-        "change": "NEW"
+        "rank": 19,
+        "change": -6
       },
       {
-        "id": "i4e73ee85",
-        "title": "‘롤드컵’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i304a5af2",
+        "title": "걸그룹 언차일드 비맞으며 플래시몹.tw",
         "keywords": [
-          "롤드컵"
+          "플래시몹",
+          "걸그룹",
+          "언차일드"
         ],
         "source_count": 2,
-        "post_count": 3,
-        "score": 79.25,
-        "peak_score": 68.78,
+        "post_count": 2,
+        "score": 81.27,
+        "peak_score": 71.8,
         "appearances": 1,
         "sources": [
           "인벤",
@@ -2124,62 +2722,24 @@
         "posts": [
           {
             "source": "인벤",
-            "rank": 72,
-            "title": "롤드컵 스위스 마지막 경기 결과",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2747407",
-            "score": 58.78
+            "rank": 42,
+            "title": "걸그룹 언차일드 비맞으며 플래시몹.tw",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2747530",
+            "score": 63.8
           },
           {
             "source": "클리앙",
-            "rank": 97,
-            "title": "롤드컵 한화가 떨어졌네요",
-            "url": "https://www.clien.net/service/board/park/19285661?od=T31&po=0&category=0&groupCd=",
-            "score": 51.81
+            "rank": 99,
+            "title": "돈없다고 익명공격받던 걸그룹 언차일드 오늘 플래시몹",
+            "url": "https://www.clien.net/service/board/park/19285774?od=T31&po=0&category=0&groupCd=",
+            "score": 50.07
           }
         ],
-        "first_seen": "2026-11-01T10:25:13.327785+09:00",
-        "last_seen": "2026-11-01T10:25:13.327785+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 3,
-        "rank": 14,
-        "change": "NEW"
-      },
-      {
-        "id": "id966b3b3",
-        "title": "‘스위스’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "스위스"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 77.25,
-        "peak_score": 67.78,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 72,
-            "title": "롤드컵 스위스 마지막 경기 결과",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2747407",
-            "score": 58.78
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 82,
-            "title": "싱글벙글 스위스 치즈...jpg",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474601&_dcbest=1&page=1",
-            "score": 57.41
-          }
-        ],
-        "first_seen": "2026-11-01T10:25:13.327785+09:00",
-        "last_seen": "2026-11-01T10:25:13.327785+09:00",
+        "first_seen": "2026-11-01T17:02:11.943256+09:00",
+        "last_seen": "2026-11-01T17:02:11.943256+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 15,
+        "rank": 20,
         "change": "NEW"
       }
     ]
