@@ -2,19 +2,19 @@
   "version": 1,
   "date": "2026-11-02",
   "label": "2026년 11월 02일",
-  "collected_at": "2026-11-02T04:32:33.610838+09:00",
+  "collected_at": "2026-11-02T08:00:19.376986+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘‘넷플릭스’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #남성. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘‘넷플릭스’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #피자. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 5,
     "ok_sources": 5,
     "cached_sources": 0,
     "realtime_posts": 100,
     "daily_posts": 100,
-    "daily_issues": 2,
-    "keywords": 12,
-    "top100_views": 1260627,
-    "top100_comments": 12776
+    "daily_issues": 3,
+    "keywords": 11,
+    "top100_views": 1296651,
+    "top100_comments": 10609
   },
   "highlights": [
     {
@@ -25,18 +25,36 @@
     },
     {
       "type": "post",
-      "title": "아직 한번도 경험해 보지 못한거 = 경기가 좋음",
+      "title": "시험장에서 AI안경 걸러내는 법?",
       "text": "루리웹에서 현재 상위권에 오른 인기글입니다.",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77240074?m=humor"
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77241050?m=humor"
     },
     {
       "type": "keyword",
-      "title": "#남성",
-      "text": "3개 커뮤니티 · 3개 인기글에서 함께 등장했습니다.",
-      "keyword": "남성"
+      "title": "#피자",
+      "text": "2개 커뮤니티 · 2개 인기글에서 함께 등장했습니다.",
+      "keyword": "피자"
     }
   ],
   "top_posts": [
+    {
+      "title": "시험장에서 AI안경 걸러내는 법?",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77241050?m=humor",
+      "first_seen": "2026-11-02T08:00:19.376986+09:00",
+      "last_seen": "2026-11-02T08:00:19.376986+09:00",
+      "peak_score": 98.95,
+      "max_views": 18863,
+      "max_likes": 87,
+      "max_comments": 68,
+      "appearances": 1,
+      "score": 108.34,
+      "views": 18863,
+      "likes": 87,
+      "comments": 68,
+      "change": "NEW"
+    },
     {
       "title": "아직 한번도 경험해 보지 못한거 = 경기가 좋음",
       "source": "루리웹",
@@ -49,10 +67,28 @@
       "max_likes": 96,
       "max_comments": 49,
       "appearances": 1,
-      "score": 106.89,
+      "score": 106.6,
       "views": 9796,
       "likes": 96,
       "comments": 49,
+      "change": -1
+    },
+    {
+      "title": "오늘 60만원 가까이 증발예정",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77241322?m=humor",
+      "first_seen": "2026-11-02T08:00:19.376986+09:00",
+      "last_seen": "2026-11-02T08:00:19.376986+09:00",
+      "peak_score": 95.75,
+      "max_views": 17103,
+      "max_likes": 83,
+      "max_comments": 58,
+      "appearances": 1,
+      "score": 105.14,
+      "views": 17103,
+      "likes": 83,
+      "comments": 58,
       "change": "NEW"
     },
     {
@@ -67,11 +103,11 @@
       "max_likes": 67,
       "max_comments": 49,
       "appearances": 1,
-      "score": 102.45,
+      "score": 102.16,
       "views": 8571,
       "likes": 67,
       "comments": 49,
-      "change": "NEW"
+      "change": -2
     },
     {
       "title": "어마금) 신약 안본 사람은 못믿는 스포일러",
@@ -85,10 +121,28 @@
       "max_likes": 69,
       "max_comments": 53,
       "appearances": 1,
-      "score": 101.98,
+      "score": 101.69,
       "views": 9146,
       "likes": 69,
       "comments": 53,
+      "change": -2
+    },
+    {
+      "title": "올드카 살 때 철칙",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77241035?m=humor",
+      "first_seen": "2026-11-02T08:00:19.376986+09:00",
+      "last_seen": "2026-11-02T08:00:19.376986+09:00",
+      "peak_score": 90.04,
+      "max_views": 9931,
+      "max_likes": 69,
+      "max_comments": 48,
+      "appearances": 1,
+      "score": 99.43,
+      "views": 9931,
+      "likes": 69,
+      "comments": 48,
       "change": "NEW"
     },
     {
@@ -97,17 +151,53 @@
       "category": "이슈",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474818&_dcbest=1&page=1",
       "first_seen": "2026-11-02T04:32:33.610838+09:00",
-      "last_seen": "2026-11-02T04:32:33.610838+09:00",
+      "last_seen": "2026-11-02T08:00:19.376986+09:00",
       "peak_score": 85.67,
-      "max_views": 30300,
-      "max_likes": 128,
-      "max_comments": 1156,
-      "appearances": 1,
-      "score": 95.06,
-      "views": 30300,
-      "likes": 128,
-      "comments": 1156,
-      "change": "NEW"
+      "max_views": 34770,
+      "max_likes": 150,
+      "max_comments": 1202,
+      "appearances": 2,
+      "score": 95.87,
+      "views": 34770,
+      "likes": 150,
+      "comments": 1202,
+      "change": -3
+    },
+    {
+      "title": "요즘 20대 여자들이 원하는 남자조건",
+      "source": "디시인사이드",
+      "category": "이슈",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474834&_dcbest=1&page=1",
+      "first_seen": "2026-11-02T04:32:33.610838+09:00",
+      "last_seen": "2026-11-02T08:00:19.376986+09:00",
+      "peak_score": 85.29,
+      "max_views": 24739,
+      "max_likes": 208,
+      "max_comments": 418,
+      "appearances": 2,
+      "score": 95.49,
+      "views": 24739,
+      "likes": 208,
+      "comments": 418,
+      "change": 1
+    },
+    {
+      "title": "여친이랑 여행가서 110만원쓰고 헤어진 남자",
+      "source": "디시인사이드",
+      "category": "생활",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474830&_dcbest=1&page=1",
+      "first_seen": "2026-11-02T04:32:33.610838+09:00",
+      "last_seen": "2026-11-02T08:00:19.376986+09:00",
+      "peak_score": 81.43,
+      "max_views": 21577,
+      "max_likes": 192,
+      "max_comments": 427,
+      "appearances": 2,
+      "score": 91.63,
+      "views": 21577,
+      "likes": 192,
+      "comments": 427,
+      "change": -3
     },
     {
       "title": "[네이버쇼핑] 넾다세일 낮12시 20% 선착순 할인 쿠폰 (10/31)",
@@ -121,193 +211,123 @@
       "max_likes": 14,
       "max_comments": 32,
       "appearances": 1,
-      "score": 91.5,
+      "score": 91.21,
       "views": 35612,
       "likes": 14,
       "comments": 32,
-      "change": "NEW"
-    },
-    {
-      "title": "여친이랑 여행가서 110만원쓰고 헤어진 남자",
-      "source": "디시인사이드",
-      "category": "생활",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474830&_dcbest=1&page=1",
-      "first_seen": "2026-11-02T04:32:33.610838+09:00",
-      "last_seen": "2026-11-02T04:32:33.610838+09:00",
-      "peak_score": 81.31,
-      "max_views": 11908,
-      "max_likes": 120,
-      "max_comments": 250,
-      "appearances": 1,
-      "score": 90.7,
-      "views": 11908,
-      "likes": 120,
-      "comments": 250,
-      "change": "NEW"
-    },
-    {
-      "title": "뇌에 철수세미 박아 넣는다는 미치광이 수술",
-      "source": "디시인사이드",
-      "category": "이슈",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474826&_dcbest=1&page=1",
-      "first_seen": "2026-11-02T04:32:33.610838+09:00",
-      "last_seen": "2026-11-02T04:32:33.610838+09:00",
-      "peak_score": 80.71,
-      "max_views": 20151,
-      "max_likes": 153,
-      "max_comments": 141,
-      "appearances": 1,
-      "score": 90.1,
-      "views": 20151,
-      "likes": 153,
-      "comments": 141,
-      "change": "NEW"
-    },
-    {
-      "title": "싱글벙글 개좆백수참피충의 폭행상해범 인실좆完",
-      "source": "디시인사이드",
-      "category": "이슈",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474798&_dcbest=1&page=1",
-      "first_seen": "2026-11-01T23:59:50.576263+09:00",
-      "last_seen": "2026-11-02T04:32:33.610838+09:00",
-      "peak_score": 78.65,
-      "max_views": 18055,
-      "max_likes": 213,
-      "max_comments": 333,
-      "appearances": 2,
-      "score": 88.85,
-      "views": 18055,
-      "likes": 213,
-      "comments": 333,
-      "change": 37
-    },
-    {
-      "title": "요즘 20대 여자들이 원하는 남자조건",
-      "source": "디시인사이드",
-      "category": "이슈",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474834&_dcbest=1&page=1",
-      "first_seen": "2026-11-02T04:32:33.610838+09:00",
-      "last_seen": "2026-11-02T04:32:33.610838+09:00",
-      "peak_score": 79.18,
-      "max_views": 11302,
-      "max_likes": 105,
-      "max_comments": 160,
-      "appearances": 1,
-      "score": 88.57,
-      "views": 11302,
-      "likes": 105,
-      "comments": 160,
-      "change": "NEW"
-    },
-    {
-      "title": "싱글벙글 가로세로연구소 근황...jpg",
-      "source": "디시인사이드",
-      "category": "이슈",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474790&_dcbest=1&page=1",
-      "first_seen": "2026-11-01T23:59:50.576263+09:00",
-      "last_seen": "2026-11-02T04:32:33.610838+09:00",
-      "peak_score": 78.0,
-      "max_views": 29839,
-      "max_likes": 208,
-      "max_comments": 264,
-      "appearances": 2,
-      "score": 88.2,
-      "views": 29839,
-      "likes": 208,
-      "comments": 264,
-      "change": 41
+      "change": -5
     }
   ],
   "rising": [
     {
       "source": "디시인사이드",
-      "title": "와들와들 2026 대한민국 평균 ㄷㄷ",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474808&_dcbest=1&page=1",
+      "title": "요즘 20대 여자들이 원하는 남자조건",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474834&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 28700,
-      "likes": 106,
-      "comments": 264,
-      "score": 73.03,
-      "change": 0,
-      "current_rank": 13,
+      "views": 24739,
+      "likes": 208,
+      "comments": 418,
+      "score": 85.29,
+      "change": 4,
+      "current_rank": 4,
       "new_entry": false,
-      "delta_views": 13267,
-      "delta_likes": 60,
-      "delta_comments": 174,
-      "rank_gain": 0,
-      "rising_score": 96.62,
+      "delta_views": 13437,
+      "delta_likes": 103,
+      "delta_comments": 258,
+      "rank_gain": 4,
+      "rising_score": 95.14,
       "rising_rank": 1,
-      "window_minutes": 273
+      "window_minutes": 208
     },
     {
       "source": "더쿠",
-      "title": "탈덕하면 조용히 사라짐 vs 꼭 마지막 인사라도 하기에 대한 한 아이돌 답변",
-      "url": "https://theqoo.net/hot/4393104096",
-      "category": "연예",
-      "views": 52694,
+      "title": "???: AI 너무 징그러워요... 이걸 컨펌 시키냐고...",
+      "url": "https://theqoo.net/hot/4393231717",
+      "category": "이슈",
+      "views": 43685,
       "likes": 0,
-      "comments": 433,
-      "score": 69.89,
-      "change": 24,
-      "current_rank": 21,
+      "comments": 163,
+      "score": 67.68,
+      "change": 12,
+      "current_rank": 22,
       "new_entry": false,
-      "delta_views": 34729,
+      "delta_views": 37902,
       "delta_likes": 0,
-      "delta_comments": 244,
-      "rank_gain": 24,
-      "rising_score": 91.33,
+      "delta_comments": 87,
+      "rank_gain": 12,
+      "rising_score": 92.96,
       "rising_rank": 2,
-      "window_minutes": 273
+      "window_minutes": 208
     },
     {
-      "source": "디시인사이드",
-      "title": "또 일본인기 원작 표절한 최근 넷플릭스 신작 근황..jpg",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474772&_dcbest=1&page=1",
+      "source": "클리앙",
+      "title": "AI 는 쓰나미가 아닙니다.",
+      "url": "https://www.clien.net/service/board/park/19285973?od=T31&po=0&category=0&groupCd=",
       "category": "이슈",
-      "views": 20449,
-      "likes": 377,
-      "comments": 400,
-      "score": 60.24,
+      "views": 3792,
+      "likes": 0,
+      "comments": 17,
+      "score": 58.23,
       "change": 0,
-      "current_rank": 47,
+      "current_rank": 45,
       "new_entry": false,
-      "delta_views": 4431,
-      "delta_likes": 64,
-      "delta_comments": 67,
+      "delta_views": 3643,
+      "delta_likes": 0,
+      "delta_comments": 14,
       "rank_gain": 0,
-      "rising_score": 84.06,
+      "rising_score": 88.46,
       "rising_rank": 3,
-      "window_minutes": 273
+      "window_minutes": 208
     },
     {
       "source": "디시인사이드",
-      "title": "싱글벙글 가로세로연구소 근황...jpg",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474790&_dcbest=1&page=1",
+      "title": "뇌에 철수세미 박아 넣는다는 미치광이 수술",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474826&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 29839,
-      "likes": 208,
-      "comments": 264,
-      "score": 67.11,
+      "views": 26158,
+      "likes": 199,
+      "comments": 188,
+      "score": 75.66,
       "change": 0,
-      "current_rank": 27,
+      "current_rank": 10,
       "new_entry": false,
-      "delta_views": 6150,
-      "delta_likes": 48,
-      "delta_comments": 42,
+      "delta_views": 6007,
+      "delta_likes": 46,
+      "delta_comments": 47,
       "rank_gain": 0,
-      "rising_score": 83.09,
+      "rising_score": 87.69,
       "rising_rank": 4,
-      "window_minutes": 273
+      "window_minutes": 208
+    },
+    {
+      "source": "디시인사이드",
+      "title": "여친이랑 여행가서 110만원쓰고 헤어진 남자",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474830&_dcbest=1&page=1",
+      "category": "생활",
+      "views": 21577,
+      "likes": 192,
+      "comments": 427,
+      "score": 81.43,
+      "change": 1,
+      "current_rank": 5,
+      "new_entry": false,
+      "delta_views": 9669,
+      "delta_likes": 72,
+      "delta_comments": 177,
+      "rank_gain": 1,
+      "rising_score": 85.43,
+      "rising_rank": 5,
+      "window_minutes": 208
     },
     {
       "source": "루리웹",
-      "title": "아직 한번도 경험해 보지 못한거 = 경기가 좋음",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77240074?m=humor",
-      "category": "스포츠",
-      "views": 9796,
-      "likes": 96,
-      "comments": 49,
-      "score": 97.5,
+      "title": "시험장에서 AI안경 걸러내는 법?",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77241050?m=humor",
+      "category": "이슈",
+      "views": 18863,
+      "likes": 87,
+      "comments": 68,
+      "score": 98.95,
       "change": "NEW",
       "current_rank": 1,
       "new_entry": true,
@@ -315,19 +335,39 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.95,
-      "rising_rank": 5,
-      "window_minutes": 273
+      "rising_score": 83.56,
+      "rising_rank": 6,
+      "window_minutes": 208
+    },
+    {
+      "source": "디시인사이드",
+      "title": "일본 며느리의 얼굴을 몰라보는 시아버지",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474828&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 17005,
+      "likes": 59,
+      "comments": 97,
+      "score": 68.61,
+      "change": 7,
+      "current_rank": 19,
+      "new_entry": false,
+      "delta_views": 7965,
+      "delta_likes": 23,
+      "delta_comments": 35,
+      "rank_gain": 7,
+      "rising_score": 82.51,
+      "rising_rank": 7,
+      "window_minutes": 208
     },
     {
       "source": "루리웹",
-      "title": "어마금) 사실 이제 별로 신기하지도 않은 이야기하나 해주면",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77240537?m=humor",
+      "title": "오늘 60만원 가까이 증발예정",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77241322?m=humor",
       "category": "이슈",
-      "views": 8571,
-      "likes": 67,
-      "comments": 49,
-      "score": 93.06,
+      "views": 17103,
+      "likes": 83,
+      "comments": 58,
+      "score": 95.75,
       "change": "NEW",
       "current_rank": 2,
       "new_entry": true,
@@ -335,39 +375,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 81.09,
-      "rising_rank": 6,
-      "window_minutes": 273
-    },
-    {
-      "source": "디시인사이드",
-      "title": "프랑스 시위녀의 원룸 생활 ㄷㄷ",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474788&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 23350,
-      "likes": 107,
-      "comments": 373,
-      "score": 63.27,
-      "change": 0,
-      "current_rank": 37,
-      "new_entry": false,
-      "delta_views": 7547,
-      "delta_likes": 26,
-      "delta_comments": 59,
-      "rank_gain": 0,
-      "rising_score": 80.92,
-      "rising_rank": 7,
-      "window_minutes": 273
+      "rising_score": 82.22,
+      "rising_rank": 8,
+      "window_minutes": 208
     },
     {
       "source": "루리웹",
-      "title": "어마금) 신약 안본 사람은 못믿는 스포일러",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77240410?m=humor",
+      "title": "올드카 살 때 철칙",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77241035?m=humor",
       "category": "이슈",
-      "views": 9146,
+      "views": 9931,
       "likes": 69,
-      "comments": 53,
-      "score": 92.59,
+      "comments": 48,
+      "score": 90.04,
       "change": "NEW",
       "current_rank": 3,
       "new_entry": true,
@@ -375,49 +395,29 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 80.89,
-      "rising_rank": 8,
-      "window_minutes": 273
-    },
-    {
-      "source": "디시인사이드",
-      "title": "싱글벙글 의외로 좋아지고있는 나라 지표들 모음",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474818&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 30300,
-      "likes": 128,
-      "comments": 1156,
-      "score": 85.67,
-      "change": "NEW",
-      "current_rank": 4,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 77.98,
+      "rising_score": 79.82,
       "rising_rank": 9,
-      "window_minutes": 273
+      "window_minutes": 208
     },
     {
-      "source": "루리웹",
-      "title": "[네이버쇼핑] 넾다세일 낮12시 20% 선착순 할인 쿠폰 (10/31)",
-      "url": "https://bbs.ruliweb.com/market/board/1020/read/108538",
+      "source": "더쿠",
+      "title": "요즘 사람들 사이에서 논란중인 문제",
+      "url": "https://theqoo.net/hot/4393213230",
       "category": "이슈",
-      "views": 35612,
-      "likes": 14,
-      "comments": 32,
-      "score": 82.11,
-      "change": "NEW",
-      "current_rank": 5,
-      "new_entry": true,
-      "delta_views": 0,
+      "views": 46633,
+      "likes": 0,
+      "comments": 220,
+      "score": 69.53,
+      "change": 5,
+      "current_rank": 17,
+      "new_entry": false,
+      "delta_views": 29984,
       "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 76.49,
+      "delta_comments": 74,
+      "rank_gain": 5,
+      "rising_score": 78.89,
       "rising_rank": 10,
-      "window_minutes": 273
+      "window_minutes": 208
     }
   ],
   "issues": [
@@ -429,9 +429,9 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 88.68,
+      "score": 90.7,
       "peak_score": 79.21,
-      "appearances": 1,
+      "appearances": 2,
       "sources": [
         "더쿠",
         "디시인사이드"
@@ -439,25 +439,25 @@
       "posts": [
         {
           "source": "더쿠",
-          "rank": 19,
+          "rank": 21,
           "title": "오늘자 넷플릭스 전세계 2위 찍은 한국드라마.jpg",
           "url": "https://theqoo.net/hot/4393147092",
-          "score": 70.21
+          "score": 67.89
         },
         {
           "source": "디시인사이드",
-          "rank": 47,
+          "rank": 70,
           "title": "또 일본인기 원작 표절한 최근 넷플릭스 신작 근황..jpg",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474772&_dcbest=1&page=1",
-          "score": 60.24
+          "score": 52.19
         }
       ],
       "first_seen": "2026-10-18T13:31:38.306100+09:00",
-      "last_seen": "2026-11-02T04:32:33.610838+09:00",
+      "last_seen": "2026-11-02T08:00:19.376986+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 1,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i1dfadc28",
@@ -495,6 +495,44 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 2,
+      "change": 0
+    },
+    {
+      "id": "i5c6da920",
+      "title": "‘중국에서’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "중국에서"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 83.75,
+      "peak_score": 74.28,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 25,
+          "title": "중국에서 욕먹는 일본드라마 근황",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77241566?m=humor_only&t=now",
+          "score": 65.28
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 35,
+          "title": "중국에서 천마라 불린다는 리빙레전드 페이커 ㄷ",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474820&_dcbest=1&page=1",
+          "score": 62.14
+        }
+      ],
+      "first_seen": "2026-10-05T09:57:10.444467+09:00",
+      "last_seen": "2026-11-02T08:00:19.376986+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 3,
       "change": "NEW"
     }
   ],
@@ -507,8 +545,8 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 79.21,
-      "peak_score": 79.21,
+      "score": 76.89,
+      "peak_score": 76.89,
       "appearances": 1,
       "sources": [
         "더쿠",
@@ -517,51 +555,51 @@
       "posts": [
         {
           "source": "더쿠",
-          "rank": 19,
+          "rank": 21,
           "title": "오늘자 넷플릭스 전세계 2위 찍은 한국드라마.jpg",
           "url": "https://theqoo.net/hot/4393147092",
-          "score": 70.21
+          "score": 67.89
         },
         {
           "source": "디시인사이드",
-          "rank": 47,
+          "rank": 70,
           "title": "또 일본인기 원작 표절한 최근 넷플릭스 신작 근황..jpg",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474772&_dcbest=1&page=1",
-          "score": 60.24
+          "score": 52.19
         }
       ],
       "rank": 1,
-      "change": "NEW"
+      "change": 0
     },
     {
-      "id": "i1dfadc28",
-      "title": "‘얼굴을’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i5c6da920",
+      "title": "‘중국에서’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "얼굴을"
+        "중국에서"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 76.13,
-      "peak_score": 76.13,
+      "score": 74.28,
+      "peak_score": 74.28,
       "appearances": 1,
       "sources": [
         "디시인사이드",
-        "클리앙"
+        "루리웹"
       ],
       "posts": [
         {
-          "source": "디시인사이드",
-          "rank": 26,
-          "title": "일본 며느리의 얼굴을 몰라보는 시아버지",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474828&_dcbest=1&page=1",
-          "score": 67.13
+          "source": "루리웹",
+          "rank": 25,
+          "title": "중국에서 욕먹는 일본드라마 근황",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77241566?m=humor_only&t=now",
+          "score": 65.28
         },
         {
-          "source": "클리앙",
-          "rank": 68,
-          "title": "[오늘의 우주이야기] 고양이 얼굴을 한 성운",
-          "url": "https://www.clien.net/service/board/park/19285946?od=T31&po=0&category=0&groupCd=",
-          "score": 52.69
+          "source": "디시인사이드",
+          "rank": 35,
+          "title": "중국에서 천마라 불린다는 리빙레전드 페이커 ㄷ",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474820&_dcbest=1&page=1",
+          "score": 62.14
         }
       ],
       "rank": 2,
@@ -570,54 +608,53 @@
   ],
   "keywords": [
     {
-      "keyword": "남성",
-      "score": 102.6,
-      "post_count": 3,
-      "source_count": 3,
-      "best_rank": 81,
-      "sources": [
-        "디시인사이드",
-        "뽐뿌",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 1,
-      "change": 6
-    },
-    {
-      "keyword": "중국",
-      "score": 99.23,
-      "post_count": 3,
+      "keyword": "피자",
+      "score": 102.5,
+      "post_count": 2,
       "source_count": 2,
-      "best_rank": 25,
+      "best_rank": 6,
       "sources": [
         "디시인사이드",
         "뽐뿌"
       ],
       "aliases": [],
-      "rank": 2,
-      "change": 4
-    },
-    {
-      "keyword": "넷플릭스",
-      "score": 92.93,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 19,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "aliases": [],
-      "rank": 3,
+      "rank": 1,
       "change": "NEW"
     },
     {
+      "keyword": "중국",
+      "score": 96.38,
+      "post_count": 3,
+      "source_count": 2,
+      "best_rank": 25,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "aliases": [],
+      "rank": 2,
+      "change": 0
+    },
+    {
       "keyword": "ai",
-      "score": 91.72,
+      "score": 93.92,
+      "post_count": 3,
+      "source_count": 2,
+      "best_rank": 22,
+      "sources": [
+        "더쿠",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 3,
+      "change": 1
+    },
+    {
+      "keyword": "사이",
+      "score": 89.06,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 34,
+      "best_rank": 17,
       "sources": [
         "더쿠",
         "클리앙"
@@ -627,69 +664,69 @@
       "change": "NEW"
     },
     {
-      "keyword": "찍은",
-      "score": 90.04,
+      "keyword": "vs",
+      "score": 88.87,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 19,
+      "best_rank": 31,
       "sources": [
         "더쿠",
-        "디시인사이드"
+        "뽐뿌"
       ],
       "aliases": [],
       "rank": 5,
       "change": "NEW"
     },
     {
-      "keyword": "드라마",
-      "score": 88.34,
+      "keyword": "넷플릭스",
+      "score": 88.13,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 30,
+      "best_rank": 21,
       "sources": [
         "더쿠",
-        "클리앙"
+        "디시인사이드"
       ],
       "aliases": [],
       "rank": 6,
-      "change": "NEW"
+      "change": -3
     },
     {
-      "keyword": "얼굴",
-      "score": 87.73,
+      "keyword": "찍은",
+      "score": 85.67,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 26,
+      "best_rank": 21,
       "sources": [
-        "디시인사이드",
-        "클리앙"
+        "더쿠",
+        "디시인사이드"
       ],
       "aliases": [],
       "rank": 7,
-      "change": "NEW"
+      "change": -2
     },
     {
-      "keyword": "프로",
-      "score": 87.06,
+      "keyword": "일본",
+      "score": 83.86,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 28,
+      "best_rank": 19,
       "sources": [
-        "뽐뿌",
-        "클리앙"
+        "디시인사이드",
+        "루리웹"
       ],
       "aliases": [],
       "rank": 8,
       "change": "NEW"
     },
     {
-      "keyword": "장점",
-      "score": 84.59,
+      "keyword": "최근",
+      "score": 79.91,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 50,
+      "best_rank": 70,
       "sources": [
-        "더쿠",
+        "디시인사이드",
         "루리웹"
       ],
       "aliases": [],
@@ -697,86 +734,73 @@
       "change": "NEW"
     },
     {
-      "keyword": "나이",
-      "score": 83.91,
+      "keyword": "알리",
+      "score": 76.89,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 31,
+      "best_rank": 61,
       "sources": [
-        "더쿠",
-        "클리앙"
+        "루리웹",
+        "뽐뿌"
       ],
       "aliases": [],
       "rank": 10,
       "change": "NEW"
     },
     {
-      "keyword": "pro",
-      "score": 71.36,
+      "keyword": "샤오신",
+      "score": 66.55,
       "post_count": 3,
       "source_count": 1,
-      "best_rank": 35,
+      "best_rank": 42,
       "sources": [
         "뽐뿌"
       ],
       "aliases": [],
       "rank": 11,
       "change": "NEW"
-    },
-    {
-      "keyword": "무료",
-      "score": 68.98,
-      "post_count": 3,
-      "source_count": 1,
-      "best_rank": 35,
-      "sources": [
-        "뽐뿌"
-      ],
-      "aliases": [],
-      "rank": 12,
-      "change": "NEW"
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "아직 한번도 경험해 보지 못한거 = 경기가 좋음",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77240074?m=humor",
-      "score": 97.5,
-      "views": 9796,
-      "comments": 49
+      "title": "시험장에서 AI안경 걸러내는 법?",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77241050?m=humor",
+      "score": 98.95,
+      "views": 18863,
+      "comments": 68
     },
     {
       "source": "디시인사이드",
-      "title": "싱글벙글 의외로 좋아지고있는 나라 지표들 모음",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474818&_dcbest=1&page=1",
-      "score": 85.67,
-      "views": 30300,
-      "comments": 1156
+      "title": "요즘 20대 여자들이 원하는 남자조건",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474834&_dcbest=1&page=1",
+      "score": 85.29,
+      "views": 24739,
+      "comments": 418
     },
     {
-      "source": "클리앙",
-      "title": "이미 2030은 보수화가 끝났습니다.",
-      "url": "https://www.clien.net/service/board/park/19285964?od=T31&po=0&category=0&groupCd=",
-      "score": 77.9,
-      "views": 2643,
-      "comments": 30
+      "source": "뽐뿌",
+      "title": "[네이버] 네이버멤버십_ 청정원 스파게티소스, 파스타소스, 더미식 당찬진미밥, 매일두유 고단백, 노엣지 피자, ...",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744832",
+      "score": 79.88,
+      "views": 8732,
+      "comments": 14
     },
     {
       "source": "더쿠",
       "title": "못생겼다고 난리난 남돌 스페셜 앨범",
       "url": "https://theqoo.net/hot/4393151473",
-      "score": 75.68,
-      "views": 47742,
-      "comments": 277
+      "score": 76.37,
+      "views": 70578,
+      "comments": 329
     },
     {
-      "source": "뽐뿌",
-      "title": "[란123] 네이버페이 171원 + 랜덤 포인트 받으세요 (+기타 532원)",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10173227",
-      "score": 72.23,
-      "views": 1807,
-      "comments": 5
+      "source": "클리앙",
+      "title": "요즘 1020들 내란당 지지하는 꼴 보니 진짜 가르침이 절실한 세대네요",
+      "url": "https://www.clien.net/service/board/park/19285985?od=T31&po=0&category=0&groupCd=",
+      "score": 69.72,
+      "views": 1033,
+      "comments": 20
     }
   ]
 }

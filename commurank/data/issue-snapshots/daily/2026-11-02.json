@@ -3,7 +3,7 @@
   "period": "daily",
   "key": "2026-11-02",
   "label": "2026년 11월 02일",
-  "collected_at": "2026-11-02T04:32:33.610838+09:00",
+  "collected_at": "2026-11-02T08:00:19.376986+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -14,9 +14,9 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 88.68,
+      "score": 90.7,
       "peak_score": 79.21,
-      "appearances": 1,
+      "appearances": 2,
       "sources": [
         "더쿠",
         "디시인사이드"
@@ -24,25 +24,25 @@
       "posts": [
         {
           "source": "더쿠",
-          "rank": 19,
+          "rank": 21,
           "title": "오늘자 넷플릭스 전세계 2위 찍은 한국드라마.jpg",
           "url": "https://theqoo.net/hot/4393147092",
-          "score": 70.21
+          "score": 67.89
         },
         {
           "source": "디시인사이드",
-          "rank": 47,
+          "rank": 70,
           "title": "또 일본인기 원작 표절한 최근 넷플릭스 신작 근황..jpg",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474772&_dcbest=1&page=1",
-          "score": 60.24
+          "score": 52.19
         }
       ],
       "first_seen": "2026-10-18T13:31:38.306100+09:00",
-      "last_seen": "2026-11-02T04:32:33.610838+09:00",
+      "last_seen": "2026-11-02T08:00:19.376986+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 1,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i1dfadc28",
@@ -80,6 +80,44 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 2,
+      "change": 0
+    },
+    {
+      "id": "i5c6da920",
+      "title": "‘중국에서’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "중국에서"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 83.75,
+      "peak_score": 74.28,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 25,
+          "title": "중국에서 욕먹는 일본드라마 근황",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77241566?m=humor_only&t=now",
+          "score": 65.28
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 35,
+          "title": "중국에서 천마라 불린다는 리빙레전드 페이커 ㄷ",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474820&_dcbest=1&page=1",
+          "score": 62.14
+        }
+      ],
+      "first_seen": "2026-10-05T09:57:10.444467+09:00",
+      "last_seen": "2026-11-02T08:00:19.376986+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 3,
       "change": "NEW"
     }
   ]
