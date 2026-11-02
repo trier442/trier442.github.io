@@ -3,7 +3,7 @@
   "period": "monthly",
   "key": "2026-11",
   "label": "2026년 11월",
-  "collected_at": "2026-11-02T08:00:19.376986+09:00",
+  "collected_at": "2026-11-02T11:22:26.246686+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -84,39 +84,40 @@
     },
     {
       "id": "i5d6688ff",
-      "title": "‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제",
+      "title": "[네이버페이] 라방 랜덤 5원",
       "keywords": [
-        "네이버페이"
+        "네이버페이",
+        "랜덤"
       ],
       "source_count": 2,
       "post_count": 4,
-      "score": 107.9,
+      "score": 109.34,
       "peak_score": 94.41,
-      "appearances": 2,
+      "appearances": 3,
       "sources": [
         "루리웹",
         "뽐뿌"
       ],
       "posts": [
         {
-          "source": "뽐뿌",
-          "rank": 5,
-          "title": "[네이버페이] 네이버 AI탭 15원 받으세요",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=120236",
-          "score": 83.41
+          "source": "루리웹",
+          "rank": 22,
+          "title": "[네이버페이] 라방 랜덤 5원",
+          "url": "https://bbs.ruliweb.com/market/board/1020/read/108590",
+          "score": 67.74
         },
         {
-          "source": "루리웹",
-          "rank": 10,
-          "title": "[VIPS] 네이버페이 10만원 결제시 5만 포인트 페이백 (11/2~22)",
-          "url": "https://bbs.ruliweb.com/market/board/1020/read/108575",
-          "score": 76.69
+          "source": "뽐뿌",
+          "rank": 49,
+          "title": "[란123] 네이버페이 171원 + 랜덤 포인트 받으세요 (+기타 532원)",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10173227",
+          "score": 58.24
         }
       ],
       "first_seen": "2026-09-28T07:08:45.324597+09:00",
-      "last_seen": "2026-11-01T23:59:50.576263+09:00",
+      "last_seen": "2026-11-02T11:22:26.246686+09:00",
       "latest_source_count": 2,
-      "latest_post_count": 4,
+      "latest_post_count": 2,
       "rank": 3,
       "change": 0
     },
@@ -159,6 +160,44 @@
       "change": 0
     },
     {
+      "id": "i53a2e4b6",
+      "title": "‘논란중인’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "논란중인"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 99.47,
+      "peak_score": 90.0,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 5,
+          "title": "현재) 논란중인 군산 짬뽕 축제 ㄷㄷ.jpg",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=tour&no=116202",
+          "score": 81.0
+        },
+        {
+          "source": "더쿠",
+          "rank": 95,
+          "title": "요즘 사람들 사이에서 논란중인 문제",
+          "url": "https://theqoo.net/hot/4393213230",
+          "score": 45.79
+        }
+      ],
+      "first_seen": "2026-10-07T15:10:25.459989+09:00",
+      "last_seen": "2026-11-02T11:22:26.246686+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 5,
+      "change": "NEW"
+    },
+    {
       "id": "ifc264642",
       "title": "‘아반떼’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -193,8 +232,8 @@
       "last_seen": "2026-11-01T04:16:27.039598+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
-      "change": 0
+      "rank": 6,
+      "change": -1
     },
     {
       "id": "ic24684b3",
@@ -231,8 +270,8 @@
       "last_seen": "2026-11-01T17:02:11.943256+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
-      "change": 0
+      "rank": 7,
+      "change": -1
     },
     {
       "id": "i4c8bdd1e",
@@ -270,8 +309,8 @@
       "last_seen": "2026-11-01T23:59:50.576263+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": 0
+      "rank": 8,
+      "change": -1
     },
     {
       "id": "i4a23876e",
@@ -310,8 +349,8 @@
       "last_seen": "2026-11-01T17:03:55.445317+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 8,
-      "change": 0
+      "rank": 9,
+      "change": -1
     },
     {
       "id": "ibf947c6c",
@@ -348,8 +387,8 @@
       "last_seen": "2026-11-01T07:24:53.147489+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 9,
-      "change": 0
+      "rank": 10,
+      "change": -1
     },
     {
       "id": "ib02d3a70",
@@ -392,8 +431,8 @@
       "last_seen": "2026-11-01T07:24:53.147489+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 10,
-      "change": 0
+      "rank": 11,
+      "change": -1
     },
     {
       "id": "i8a71818d",
@@ -430,8 +469,8 @@
       "last_seen": "2026-11-01T23:59:50.576263+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 11,
-      "change": 0
+      "rank": 12,
+      "change": -1
     },
     {
       "id": "icf31cb81",
@@ -470,8 +509,8 @@
       "last_seen": "2026-11-01T07:24:53.147489+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 12,
-      "change": 0
+      "rank": 13,
+      "change": -1
     },
     {
       "id": "i12455f1b",
@@ -508,8 +547,8 @@
       "last_seen": "2026-11-01T04:16:27.039598+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 13,
-      "change": 0
+      "rank": 14,
+      "change": -1
     },
     {
       "id": "i6154676e",
@@ -549,8 +588,8 @@
       "last_seen": "2026-11-01T07:24:53.147489+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 14,
-      "change": 0
+      "rank": 15,
+      "change": -1
     },
     {
       "id": "i75cc7e14",
@@ -587,8 +626,8 @@
       "last_seen": "2026-11-02T08:00:19.376986+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 15,
-      "change": 1
+      "rank": 16,
+      "change": -1
     },
     {
       "id": "ie8b793b3",
@@ -625,8 +664,46 @@
       "last_seen": "2026-11-01T17:03:55.445317+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 16,
+      "rank": 17,
       "change": -1
+    },
+    {
+      "id": "i2c099e33",
+      "title": "‘외국인’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "외국인"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 89.21,
+      "peak_score": 79.74,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 14,
+          "title": "국가별 외국인 식당 분위기",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474858&_dcbest=1&page=1",
+          "score": 70.74
+        },
+        {
+          "source": "더쿠",
+          "rank": 52,
+          "title": "“간호사·광부 독일 보냈던 나라인데… 외국인 노동자가 경제에 크게 도움 안 된다니”",
+          "url": "https://theqoo.net/hot/4393364885",
+          "score": 57.84
+        }
+      ],
+      "first_seen": "2026-10-02T04:00:21.148239+09:00",
+      "last_seen": "2026-11-02T11:22:26.246686+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 18,
+      "change": "NEW"
     },
     {
       "id": "i1a97685e",
@@ -669,8 +746,8 @@
       "last_seen": "2026-11-01T17:03:55.445317+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 17,
-      "change": 0
+      "rank": 19,
+      "change": -2
     },
     {
       "id": "ieb083272",
@@ -715,84 +792,8 @@
       "last_seen": "2026-11-01T17:02:11.943256+09:00",
       "latest_source_count": 3,
       "latest_post_count": 3,
-      "rank": 18,
-      "change": 0
-    },
-    {
-      "id": "ifd5a2cc3",
-      "title": "‘한국에서’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "한국에서"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 87.44,
-      "peak_score": 77.97,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 17,
-          "title": "싱글벙글 한국에서 FSD가 안 되는 이유+이모저모",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474711&_dcbest=1&page=1",
-          "score": 68.97
-        },
-        {
-          "source": "더쿠",
-          "rank": 63,
-          "title": "한국에서 열리는 한국 가수 콘서트인데 중국어 안내를 먼저 함.twt",
-          "url": "https://theqoo.net/hot/4392527915",
-          "score": 58.74
-        }
-      ],
-      "first_seen": "2026-09-30T17:58:06.192419+09:00",
-      "last_seen": "2026-11-01T17:03:55.445317+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 19,
-      "change": 0
-    },
-    {
-      "id": "i5364c4a3",
-      "title": "‘소개팅’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "소개팅"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 87.26,
-      "peak_score": 75.77,
-      "appearances": 2,
-      "sources": [
-        "뽐뿌",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 25,
-          "title": "소개팅 첫 만남에 몸매 드러내는 복장이 맞을까요",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=problem&no=237823",
-          "score": 66.77
-        },
-        {
-          "source": "인벤",
-          "rank": 73,
-          "title": "소개팅 밥값 6만원 나온 여자",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2747511",
-          "score": 56.11
-        }
-      ],
-      "first_seen": "2026-11-01T17:02:11.943256+09:00",
-      "last_seen": "2026-11-01T17:03:55.445317+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 20,
-      "change": 0
+      "change": -2
     }
   ]
 }

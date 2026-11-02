@@ -2,26 +2,26 @@
   "version": 1,
   "date": "2026-11-02",
   "label": "2026년 11월 02일",
-  "collected_at": "2026-11-02T08:00:19.376986+09:00",
+  "collected_at": "2026-11-02T11:22:26.246686+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘‘넷플릭스’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #피자. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘‘논란중인’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #단독. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 5,
     "ok_sources": 5,
     "cached_sources": 0,
     "realtime_posts": 100,
     "daily_posts": 100,
-    "daily_issues": 3,
-    "keywords": 11,
-    "top100_views": 1296651,
-    "top100_comments": 10609
+    "daily_issues": 8,
+    "keywords": 14,
+    "top100_views": 1370609,
+    "top100_comments": 12283
   },
   "highlights": [
     {
       "type": "issue",
-      "title": "‘넷플릭스’ 관련 글이 여러 커뮤니티에서 화제",
+      "title": "‘논란중인’ 관련 글이 여러 커뮤니티에서 화제",
       "text": "2개 커뮤니티에서 2개 관련 인기글이 포착됐습니다.",
-      "issue_id": "i75cc7e14"
+      "issue_id": "i53a2e4b6"
     },
     {
       "type": "post",
@@ -31,9 +31,9 @@
     },
     {
       "type": "keyword",
-      "title": "#피자",
-      "text": "2개 커뮤니티 · 2개 인기글에서 함께 등장했습니다.",
-      "keyword": "피자"
+      "title": "#단독",
+      "text": "2개 커뮤니티 · 5개 인기글에서 함께 등장했습니다.",
+      "keyword": "단독"
     }
   ],
   "top_posts": [
@@ -49,10 +49,28 @@
       "max_likes": 87,
       "max_comments": 68,
       "appearances": 1,
-      "score": 108.34,
+      "score": 108.06,
       "views": 18863,
       "likes": 87,
       "comments": 68,
+      "change": 0
+    },
+    {
+      "title": "샘 울트먼: \"애초에 개인이 램을 살수 있다는게 이상하다\"",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77241836?m=humor",
+      "first_seen": "2026-11-02T11:22:26.246686+09:00",
+      "last_seen": "2026-11-02T11:22:26.246686+09:00",
+      "peak_score": 98.12,
+      "max_views": 15337,
+      "max_likes": 127,
+      "max_comments": 75,
+      "appearances": 1,
+      "score": 107.51,
+      "views": 15337,
+      "likes": 127,
+      "comments": 75,
       "change": "NEW"
     },
     {
@@ -67,7 +85,7 @@
       "max_likes": 96,
       "max_comments": 49,
       "appearances": 1,
-      "score": 106.6,
+      "score": 106.32,
       "views": 9796,
       "likes": 96,
       "comments": 49,
@@ -79,17 +97,17 @@
       "category": "이슈",
       "url": "https://bbs.ruliweb.com/best/board/300143/read/77241322?m=humor",
       "first_seen": "2026-11-02T08:00:19.376986+09:00",
-      "last_seen": "2026-11-02T08:00:19.376986+09:00",
+      "last_seen": "2026-11-02T11:22:26.246686+09:00",
       "peak_score": 95.75,
-      "max_views": 17103,
-      "max_likes": 83,
-      "max_comments": 58,
-      "appearances": 1,
-      "score": 105.14,
-      "views": 17103,
-      "likes": 83,
-      "comments": 58,
-      "change": "NEW"
+      "max_views": 47242,
+      "max_likes": 117,
+      "max_comments": 88,
+      "appearances": 2,
+      "score": 105.95,
+      "views": 47242,
+      "likes": 117,
+      "comments": 88,
+      "change": -1
     },
     {
       "title": "어마금) 사실 이제 별로 신기하지도 않은 이야기하나 해주면",
@@ -103,11 +121,11 @@
       "max_likes": 67,
       "max_comments": 49,
       "appearances": 1,
-      "score": 102.16,
+      "score": 101.88,
       "views": 8571,
       "likes": 67,
       "comments": 49,
-      "change": -2
+      "change": -1
     },
     {
       "title": "어마금) 신약 안본 사람은 못믿는 스포일러",
@@ -121,11 +139,11 @@
       "max_likes": 69,
       "max_comments": 53,
       "appearances": 1,
-      "score": 101.69,
+      "score": 101.41,
       "views": 9146,
       "likes": 69,
       "comments": 53,
-      "change": -2
+      "change": -1
     },
     {
       "title": "올드카 살 때 철칙",
@@ -139,10 +157,28 @@
       "max_likes": 69,
       "max_comments": 48,
       "appearances": 1,
-      "score": 99.43,
+      "score": 99.15,
       "views": 9931,
       "likes": 69,
       "comments": 48,
+      "change": -1
+    },
+    {
+      "title": "플로리다 N722BD 추락사고 원인 추정..",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77241917?m=humor",
+      "first_seen": "2026-11-02T11:22:26.246686+09:00",
+      "last_seen": "2026-11-02T11:22:26.246686+09:00",
+      "peak_score": 89.73,
+      "max_views": 15054,
+      "max_likes": 47,
+      "max_comments": 62,
+      "appearances": 1,
+      "score": 99.12,
+      "views": 15054,
+      "likes": 47,
+      "comments": 62,
       "change": "NEW"
     },
     {
@@ -151,17 +187,17 @@
       "category": "이슈",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474818&_dcbest=1&page=1",
       "first_seen": "2026-11-02T04:32:33.610838+09:00",
-      "last_seen": "2026-11-02T08:00:19.376986+09:00",
+      "last_seen": "2026-11-02T11:22:26.246686+09:00",
       "peak_score": 85.67,
-      "max_views": 34770,
-      "max_likes": 150,
-      "max_comments": 1202,
-      "appearances": 2,
-      "score": 95.87,
-      "views": 34770,
-      "likes": 150,
-      "comments": 1202,
-      "change": -3
+      "max_views": 39623,
+      "max_likes": 179,
+      "max_comments": 1320,
+      "appearances": 3,
+      "score": 96.44,
+      "views": 39623,
+      "likes": 179,
+      "comments": 1320,
+      "change": -2
     },
     {
       "title": "요즘 20대 여자들이 원하는 남자조건",
@@ -169,53 +205,17 @@
       "category": "이슈",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474834&_dcbest=1&page=1",
       "first_seen": "2026-11-02T04:32:33.610838+09:00",
-      "last_seen": "2026-11-02T08:00:19.376986+09:00",
+      "last_seen": "2026-11-02T11:22:26.246686+09:00",
       "peak_score": 85.29,
-      "max_views": 24739,
-      "max_likes": 208,
-      "max_comments": 418,
-      "appearances": 2,
-      "score": 95.49,
-      "views": 24739,
-      "likes": 208,
-      "comments": 418,
-      "change": 1
-    },
-    {
-      "title": "여친이랑 여행가서 110만원쓰고 헤어진 남자",
-      "source": "디시인사이드",
-      "category": "생활",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474830&_dcbest=1&page=1",
-      "first_seen": "2026-11-02T04:32:33.610838+09:00",
-      "last_seen": "2026-11-02T08:00:19.376986+09:00",
-      "peak_score": 81.43,
-      "max_views": 21577,
-      "max_likes": 192,
-      "max_comments": 427,
-      "appearances": 2,
-      "score": 91.63,
-      "views": 21577,
-      "likes": 192,
-      "comments": 427,
-      "change": -3
-    },
-    {
-      "title": "[네이버쇼핑] 넾다세일 낮12시 20% 선착순 할인 쿠폰 (10/31)",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/market/board/1020/read/108538",
-      "first_seen": "2026-11-02T04:32:33.610838+09:00",
-      "last_seen": "2026-11-02T04:32:33.610838+09:00",
-      "peak_score": 82.11,
-      "max_views": 35612,
-      "max_likes": 14,
-      "max_comments": 32,
-      "appearances": 1,
-      "score": 91.21,
-      "views": 35612,
-      "likes": 14,
-      "comments": 32,
-      "change": -5
+      "max_views": 37209,
+      "max_likes": 287,
+      "max_comments": 531,
+      "appearances": 3,
+      "score": 96.06,
+      "views": 37209,
+      "likes": 287,
+      "comments": 531,
+      "change": -2
     }
   ],
   "rising": [
@@ -224,110 +224,70 @@
       "title": "요즘 20대 여자들이 원하는 남자조건",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474834&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 24739,
-      "likes": 208,
-      "comments": 418,
-      "score": 85.29,
-      "change": 4,
-      "current_rank": 4,
+      "views": 37209,
+      "likes": 287,
+      "comments": 531,
+      "score": 68.5,
+      "change": 0,
+      "current_rank": 18,
       "new_entry": false,
-      "delta_views": 13437,
-      "delta_likes": 103,
-      "delta_comments": 258,
-      "rank_gain": 4,
-      "rising_score": 95.14,
+      "delta_views": 12470,
+      "delta_likes": 79,
+      "delta_comments": 113,
+      "rank_gain": 0,
+      "rising_score": 93.25,
       "rising_rank": 1,
-      "window_minutes": 208
-    },
-    {
-      "source": "더쿠",
-      "title": "???: AI 너무 징그러워요... 이걸 컨펌 시키냐고...",
-      "url": "https://theqoo.net/hot/4393231717",
-      "category": "이슈",
-      "views": 43685,
-      "likes": 0,
-      "comments": 163,
-      "score": 67.68,
-      "change": 12,
-      "current_rank": 22,
-      "new_entry": false,
-      "delta_views": 37902,
-      "delta_likes": 0,
-      "delta_comments": 87,
-      "rank_gain": 12,
-      "rising_score": 92.96,
-      "rising_rank": 2,
-      "window_minutes": 208
-    },
-    {
-      "source": "클리앙",
-      "title": "AI 는 쓰나미가 아닙니다.",
-      "url": "https://www.clien.net/service/board/park/19285973?od=T31&po=0&category=0&groupCd=",
-      "category": "이슈",
-      "views": 3792,
-      "likes": 0,
-      "comments": 17,
-      "score": 58.23,
-      "change": 0,
-      "current_rank": 45,
-      "new_entry": false,
-      "delta_views": 3643,
-      "delta_likes": 0,
-      "delta_comments": 14,
-      "rank_gain": 0,
-      "rising_score": 88.46,
-      "rising_rank": 3,
-      "window_minutes": 208
-    },
-    {
-      "source": "디시인사이드",
-      "title": "뇌에 철수세미 박아 넣는다는 미치광이 수술",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474826&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 26158,
-      "likes": 199,
-      "comments": 188,
-      "score": 75.66,
-      "change": 0,
-      "current_rank": 10,
-      "new_entry": false,
-      "delta_views": 6007,
-      "delta_likes": 46,
-      "delta_comments": 47,
-      "rank_gain": 0,
-      "rising_score": 87.69,
-      "rising_rank": 4,
-      "window_minutes": 208
+      "window_minutes": 202
     },
     {
       "source": "디시인사이드",
       "title": "여친이랑 여행가서 110만원쓰고 헤어진 남자",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474830&_dcbest=1&page=1",
       "category": "생활",
-      "views": 21577,
-      "likes": 192,
-      "comments": 427,
-      "score": 81.43,
-      "change": 1,
-      "current_rank": 5,
+      "views": 31237,
+      "likes": 265,
+      "comments": 575,
+      "score": 64.64,
+      "change": 0,
+      "current_rank": 29,
       "new_entry": false,
-      "delta_views": 9669,
-      "delta_likes": 72,
-      "delta_comments": 177,
-      "rank_gain": 1,
-      "rising_score": 85.43,
-      "rising_rank": 5,
-      "window_minutes": 208
+      "delta_views": 9660,
+      "delta_likes": 73,
+      "delta_comments": 148,
+      "rank_gain": 0,
+      "rising_score": 90.87,
+      "rising_rank": 2,
+      "window_minutes": 202
+    },
+    {
+      "source": "더쿠",
+      "title": "혹시 저랑 애낳으셨나요?",
+      "url": "https://theqoo.net/hot/4393252900",
+      "category": "이슈",
+      "views": 73610,
+      "likes": 0,
+      "comments": 486,
+      "score": 60.26,
+      "change": 0,
+      "current_rank": 37,
+      "new_entry": false,
+      "delta_views": 51624,
+      "delta_likes": 0,
+      "delta_comments": 356,
+      "rank_gain": 0,
+      "rising_score": 90.0,
+      "rising_rank": 3,
+      "window_minutes": 202
     },
     {
       "source": "루리웹",
-      "title": "시험장에서 AI안경 걸러내는 법?",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77241050?m=humor",
+      "title": "샘 울트먼: \"애초에 개인이 램을 살수 있다는게 이상하다\"",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77241836?m=humor",
       "category": "이슈",
-      "views": 18863,
-      "likes": 87,
-      "comments": 68,
-      "score": 98.95,
+      "views": 15337,
+      "likes": 127,
+      "comments": 75,
+      "score": 98.12,
       "change": "NEW",
       "current_rank": 1,
       "new_entry": true,
@@ -335,59 +295,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 83.56,
-      "rising_rank": 6,
-      "window_minutes": 208
-    },
-    {
-      "source": "디시인사이드",
-      "title": "일본 며느리의 얼굴을 몰라보는 시아버지",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474828&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 17005,
-      "likes": 59,
-      "comments": 97,
-      "score": 68.61,
-      "change": 7,
-      "current_rank": 19,
-      "new_entry": false,
-      "delta_views": 7965,
-      "delta_likes": 23,
-      "delta_comments": 35,
-      "rank_gain": 7,
-      "rising_score": 82.51,
-      "rising_rank": 7,
-      "window_minutes": 208
+      "rising_score": 83.21,
+      "rising_rank": 4,
+      "window_minutes": 202
     },
     {
       "source": "루리웹",
-      "title": "오늘 60만원 가까이 증발예정",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77241322?m=humor",
+      "title": "플로리다 N722BD 추락사고 원인 추정..",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77241917?m=humor",
       "category": "이슈",
-      "views": 17103,
-      "likes": 83,
-      "comments": 58,
-      "score": 95.75,
-      "change": "NEW",
-      "current_rank": 2,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 82.22,
-      "rising_rank": 8,
-      "window_minutes": 208
-    },
-    {
-      "source": "루리웹",
-      "title": "올드카 살 때 철칙",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77241035?m=humor",
-      "category": "이슈",
-      "views": 9931,
-      "likes": 69,
-      "comments": 48,
-      "score": 90.04,
+      "views": 15054,
+      "likes": 47,
+      "comments": 62,
+      "score": 89.73,
       "change": "NEW",
       "current_rank": 3,
       "new_entry": true,
@@ -395,32 +315,150 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 79.82,
-      "rising_rank": 9,
-      "window_minutes": 208
+      "rising_score": 79.69,
+      "rising_rank": 5,
+      "window_minutes": 202
     },
     {
-      "source": "더쿠",
-      "title": "요즘 사람들 사이에서 논란중인 문제",
-      "url": "https://theqoo.net/hot/4393213230",
+      "source": "디시인사이드",
+      "title": "싱글벙글 할로윈 듀오링고 무고신고한 트짹이 고아 근황...",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474876&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 46633,
-      "likes": 0,
-      "comments": 220,
-      "score": 69.53,
-      "change": 5,
-      "current_rank": 17,
-      "new_entry": false,
-      "delta_views": 29984,
+      "views": 16006,
+      "likes": 183,
+      "comments": 168,
+      "score": 86.21,
+      "change": "NEW",
+      "current_rank": 4,
+      "new_entry": true,
+      "delta_views": 0,
       "delta_likes": 0,
-      "delta_comments": 74,
-      "rank_gain": 5,
-      "rising_score": 78.89,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 78.21,
+      "rising_rank": 6,
+      "window_minutes": 202
+    },
+    {
+      "source": "뽐뿌",
+      "title": "현재) 논란중인 군산 짬뽕 축제 ㄷㄷ.jpg",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=tour&no=116202",
+      "category": "생활",
+      "views": 21920,
+      "likes": 5,
+      "comments": 69,
+      "score": 81.0,
+      "change": "NEW",
+      "current_rank": 5,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 76.02,
+      "rising_rank": 7,
+      "window_minutes": 202
+    },
+    {
+      "source": "루리웹",
+      "title": "오늘 60만원 가까이 증발예정",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77241322?m=humor",
+      "category": "이슈",
+      "views": 47242,
+      "likes": 117,
+      "comments": 88,
+      "score": 94.67,
+      "change": 0,
+      "current_rank": 2,
+      "new_entry": false,
+      "delta_views": 30139,
+      "delta_likes": 34,
+      "delta_comments": 30,
+      "rank_gain": 0,
+      "rising_score": 75.0,
+      "rising_rank": 8,
+      "window_minutes": 202
+    },
+    {
+      "source": "뽐뿌",
+      "title": "처참하게 배달왔는데도 별5점 준 이유.jpg",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=humor&no=790531",
+      "category": "유머",
+      "views": 19498,
+      "likes": 18,
+      "comments": 31,
+      "score": 78.28,
+      "change": "NEW",
+      "current_rank": 6,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 74.88,
+      "rising_rank": 9,
+      "window_minutes": 202
+    },
+    {
+      "source": "디시인사이드",
+      "title": "李대통령 \"'정치적올바름'에 반발하는 이유는 내로남불 때문\"",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474874&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 4553,
+      "likes": 120,
+      "comments": 224,
+      "score": 78.15,
+      "change": "NEW",
+      "current_rank": 7,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 74.82,
       "rising_rank": 10,
-      "window_minutes": 208
+      "window_minutes": 202
     }
   ],
   "issues": [
+    {
+      "id": "i53a2e4b6",
+      "title": "‘논란중인’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "논란중인"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 99.47,
+      "peak_score": 90.0,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 5,
+          "title": "현재) 논란중인 군산 짬뽕 축제 ㄷㄷ.jpg",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=tour&no=116202",
+          "score": 81.0
+        },
+        {
+          "source": "더쿠",
+          "rank": 95,
+          "title": "요즘 사람들 사이에서 논란중인 문제",
+          "url": "https://theqoo.net/hot/4393213230",
+          "score": 45.79
+        }
+      ],
+      "first_seen": "2026-10-07T15:10:25.459989+09:00",
+      "last_seen": "2026-11-02T11:22:26.246686+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 1,
+      "change": "NEW"
+    },
     {
       "id": "i75cc7e14",
       "title": "‘넷플릭스’ 관련 글이 여러 커뮤니티에서 화제",
@@ -456,8 +494,46 @@
       "last_seen": "2026-11-02T08:00:19.376986+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 1,
-      "change": 0
+      "rank": 2,
+      "change": -1
+    },
+    {
+      "id": "i2c099e33",
+      "title": "‘외국인’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "외국인"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 89.21,
+      "peak_score": 79.74,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 14,
+          "title": "국가별 외국인 식당 분위기",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474858&_dcbest=1&page=1",
+          "score": 70.74
+        },
+        {
+          "source": "더쿠",
+          "rank": 52,
+          "title": "“간호사·광부 독일 보냈던 나라인데… 외국인 노동자가 경제에 크게 도움 안 된다니”",
+          "url": "https://theqoo.net/hot/4393364885",
+          "score": 57.84
+        }
+      ],
+      "first_seen": "2026-10-02T04:00:21.148239+09:00",
+      "last_seen": "2026-11-02T11:22:26.246686+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 3,
+      "change": "NEW"
     },
     {
       "id": "i1dfadc28",
@@ -494,8 +570,85 @@
       "last_seen": "2026-11-02T04:32:33.610838+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 2,
-      "change": 0
+      "rank": 4,
+      "change": -2
+    },
+    {
+      "id": "i5d6688ff",
+      "title": "[네이버페이] 라방 랜덤 5원",
+      "keywords": [
+        "네이버페이",
+        "랜덤"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 85.21,
+      "peak_score": 75.74,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 22,
+          "title": "[네이버페이] 라방 랜덤 5원",
+          "url": "https://bbs.ruliweb.com/market/board/1020/read/108590",
+          "score": 67.74
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 49,
+          "title": "[란123] 네이버페이 171원 + 랜덤 포인트 받으세요 (+기타 532원)",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10173227",
+          "score": 58.24
+        }
+      ],
+      "first_seen": "2026-09-28T07:08:45.324597+09:00",
+      "last_seen": "2026-11-02T11:22:26.246686+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 5,
+      "change": "NEW"
+    },
+    {
+      "id": "i879d3e36",
+      "title": "‘박정희’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "박정희"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 84.15,
+      "peak_score": 74.68,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 25,
+          "title": "박정희 찬양영화 프레지던트 박정희 관객수",
+          "url": "https://theqoo.net/hot/4393345486",
+          "score": 65.68
+        },
+        {
+          "source": "클리앙",
+          "rank": 58,
+          "title": "금요일에 개봉한 박정희 영화.흥행상황",
+          "url": "https://www.clien.net/service/board/park/19286079?od=T31&po=0&category=0&groupCd=",
+          "score": 55.69
+        }
+      ],
+      "first_seen": "2026-11-02T11:22:26.246686+09:00",
+      "last_seen": "2026-11-02T11:22:26.246686+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 6,
+      "change": "NEW"
     },
     {
       "id": "i5c6da920",
@@ -532,21 +685,97 @@
       "last_seen": "2026-11-02T08:00:19.376986+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 3,
+      "rank": 7,
+      "change": -4
+    },
+    {
+      "id": "i4ae5766d",
+      "title": "뇌에 철수세미 박아 넣는다는 미치광이 수술",
+      "keywords": [
+        "철수세미",
+        "미치광이",
+        "박아",
+        "넣는다는",
+        "수술"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 76.89,
+      "peak_score": 67.42,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 44,
+          "title": "뇌에 철수세미 박아 넣는다는 미치광이 수술",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474826&_dcbest=1&page=1",
+          "score": 59.42
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 86,
+          "title": "뇌에 철수세미 박아 넣는다는 미치광이 수술",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10173162",
+          "score": 47.96
+        }
+      ],
+      "first_seen": "2026-11-02T11:22:26.246686+09:00",
+      "last_seen": "2026-11-02T11:22:26.246686+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 8,
       "change": "NEW"
     }
   ],
   "realtime_issues": [
     {
-      "id": "i75cc7e14",
-      "title": "‘넷플릭스’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i53a2e4b6",
+      "title": "‘논란중인’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "넷플릭스"
+        "논란중인"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 76.89,
-      "peak_score": 76.89,
+      "score": 90.0,
+      "peak_score": 90.0,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 5,
+          "title": "현재) 논란중인 군산 짬뽕 축제 ㄷㄷ.jpg",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=tour&no=116202",
+          "score": 81.0
+        },
+        {
+          "source": "더쿠",
+          "rank": 95,
+          "title": "요즘 사람들 사이에서 논란중인 문제",
+          "url": "https://theqoo.net/hot/4393213230",
+          "score": 45.79
+        }
+      ],
+      "rank": 1,
+      "change": "NEW"
+    },
+    {
+      "id": "i2c099e33",
+      "title": "‘외국인’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "외국인"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 79.74,
+      "peak_score": 79.74,
       "appearances": 1,
       "sources": [
         "더쿠",
@@ -554,121 +783,194 @@
       ],
       "posts": [
         {
-          "source": "더쿠",
-          "rank": 21,
-          "title": "오늘자 넷플릭스 전세계 2위 찍은 한국드라마.jpg",
-          "url": "https://theqoo.net/hot/4393147092",
-          "score": 67.89
+          "source": "디시인사이드",
+          "rank": 14,
+          "title": "국가별 외국인 식당 분위기",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474858&_dcbest=1&page=1",
+          "score": 70.74
         },
         {
-          "source": "디시인사이드",
-          "rank": 70,
-          "title": "또 일본인기 원작 표절한 최근 넷플릭스 신작 근황..jpg",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474772&_dcbest=1&page=1",
-          "score": 52.19
+          "source": "더쿠",
+          "rank": 52,
+          "title": "“간호사·광부 독일 보냈던 나라인데… 외국인 노동자가 경제에 크게 도움 안 된다니”",
+          "url": "https://theqoo.net/hot/4393364885",
+          "score": 57.84
         }
       ],
-      "rank": 1,
-      "change": 0
+      "rank": 2,
+      "change": "NEW"
     },
     {
-      "id": "i5c6da920",
-      "title": "‘중국에서’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i5d6688ff",
+      "title": "[네이버페이] 라방 랜덤 5원",
       "keywords": [
-        "중국에서"
+        "네이버페이",
+        "랜덤"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 74.28,
-      "peak_score": 74.28,
+      "score": 75.74,
+      "peak_score": 75.74,
       "appearances": 1,
       "sources": [
-        "디시인사이드",
-        "루리웹"
+        "루리웹",
+        "뽐뿌"
       ],
       "posts": [
         {
           "source": "루리웹",
-          "rank": 25,
-          "title": "중국에서 욕먹는 일본드라마 근황",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77241566?m=humor_only&t=now",
-          "score": 65.28
+          "rank": 22,
+          "title": "[네이버페이] 라방 랜덤 5원",
+          "url": "https://bbs.ruliweb.com/market/board/1020/read/108590",
+          "score": 67.74
         },
         {
-          "source": "디시인사이드",
-          "rank": 35,
-          "title": "중국에서 천마라 불린다는 리빙레전드 페이커 ㄷ",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474820&_dcbest=1&page=1",
-          "score": 62.14
+          "source": "뽐뿌",
+          "rank": 49,
+          "title": "[란123] 네이버페이 171원 + 랜덤 포인트 받으세요 (+기타 532원)",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10173227",
+          "score": 58.24
         }
       ],
-      "rank": 2,
+      "rank": 3,
+      "change": "NEW"
+    },
+    {
+      "id": "i879d3e36",
+      "title": "‘박정희’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "박정희"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 74.68,
+      "peak_score": 74.68,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 25,
+          "title": "박정희 찬양영화 프레지던트 박정희 관객수",
+          "url": "https://theqoo.net/hot/4393345486",
+          "score": 65.68
+        },
+        {
+          "source": "클리앙",
+          "rank": 58,
+          "title": "금요일에 개봉한 박정희 영화.흥행상황",
+          "url": "https://www.clien.net/service/board/park/19286079?od=T31&po=0&category=0&groupCd=",
+          "score": 55.69
+        }
+      ],
+      "rank": 4,
+      "change": "NEW"
+    },
+    {
+      "id": "i4ae5766d",
+      "title": "뇌에 철수세미 박아 넣는다는 미치광이 수술",
+      "keywords": [
+        "철수세미",
+        "미치광이",
+        "박아",
+        "넣는다는",
+        "수술"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 67.42,
+      "peak_score": 67.42,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 44,
+          "title": "뇌에 철수세미 박아 넣는다는 미치광이 수술",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474826&_dcbest=1&page=1",
+          "score": 59.42
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 86,
+          "title": "뇌에 철수세미 박아 넣는다는 미치광이 수술",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10173162",
+          "score": 47.96
+        }
+      ],
+      "rank": 5,
       "change": "NEW"
     }
   ],
   "keywords": [
     {
-      "keyword": "피자",
-      "score": 102.5,
-      "post_count": 2,
+      "keyword": "단독",
+      "score": 111.8,
+      "post_count": 5,
       "source_count": 2,
-      "best_rank": 6,
+      "best_rank": 12,
       "sources": [
-        "디시인사이드",
-        "뽐뿌"
+        "더쿠",
+        "디시인사이드"
       ],
       "aliases": [],
       "rank": 1,
       "change": "NEW"
     },
     {
-      "keyword": "중국",
-      "score": 96.38,
-      "post_count": 3,
-      "source_count": 2,
-      "best_rank": 25,
-      "sources": [
-        "디시인사이드",
-        "루리웹"
-      ],
-      "aliases": [],
-      "rank": 2,
-      "change": 0
-    },
-    {
-      "keyword": "ai",
-      "score": 93.92,
+      "keyword": "네이버페",
+      "score": 94.68,
       "post_count": 3,
       "source_count": 2,
       "best_rank": 22,
       "sources": [
+        "루리웹",
+        "뽐뿌"
+      ],
+      "aliases": [],
+      "rank": 2,
+      "change": "NEW"
+    },
+    {
+      "keyword": "외국인",
+      "score": 94.42,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 14,
+      "sources": [
         "더쿠",
-        "클리앙"
+        "디시인사이드"
       ],
       "aliases": [],
       "rank": 3,
-      "change": 1
+      "change": "NEW"
     },
     {
-      "keyword": "사이",
-      "score": 89.06,
+      "keyword": "공군",
+      "score": 93.37,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 17,
+      "best_rank": 12,
       "sources": [
-        "더쿠",
-        "클리앙"
+        "디시인사이드",
+        "루리웹"
       ],
       "aliases": [],
       "rank": 4,
       "change": "NEW"
     },
     {
-      "keyword": "vs",
-      "score": 88.87,
+      "keyword": "논란중인",
+      "score": 93.24,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 31,
+      "best_rank": 5,
       "sources": [
         "더쿠",
         "뽐뿌"
@@ -678,129 +980,178 @@
       "change": "NEW"
     },
     {
-      "keyword": "넷플릭스",
-      "score": 88.13,
+      "keyword": "최근",
+      "score": 92.29,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 21,
+      "best_rank": 9,
       "sources": [
-        "더쿠",
-        "디시인사이드"
+        "디시인사이드",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 6,
-      "change": -3
+      "change": 3
     },
     {
-      "keyword": "찍은",
-      "score": 85.67,
+      "keyword": "랜덤",
+      "score": 91.36,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 21,
+      "best_rank": 22,
       "sources": [
-        "더쿠",
-        "디시인사이드"
+        "루리웹",
+        "뽐뿌"
       ],
       "aliases": [],
       "rank": 7,
-      "change": -2
+      "change": "NEW"
     },
     {
-      "keyword": "일본",
-      "score": 83.86,
+      "keyword": "박정희",
+      "score": 89.27,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 19,
+      "best_rank": 25,
       "sources": [
-        "디시인사이드",
-        "루리웹"
+        "더쿠",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 8,
       "change": "NEW"
     },
     {
-      "keyword": "최근",
-      "score": 79.91,
+      "keyword": "ai",
+      "score": 85.61,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 70,
+      "best_rank": 32,
       "sources": [
-        "디시인사이드",
-        "루리웹"
+        "더쿠",
+        "디시인사이드"
       ],
       "aliases": [],
       "rank": 9,
-      "change": "NEW"
+      "change": -6
     },
     {
-      "keyword": "알리",
-      "score": 76.89,
+      "keyword": "영화",
+      "score": 83.58,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 61,
+      "best_rank": 58,
       "sources": [
         "루리웹",
-        "뽐뿌"
+        "클리앙"
       ],
       "aliases": [],
       "rank": 10,
       "change": "NEW"
     },
     {
-      "keyword": "샤오신",
-      "score": 66.55,
-      "post_count": 3,
-      "source_count": 1,
-      "best_rank": 42,
+      "keyword": "올해",
+      "score": 82.35,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 47,
       "sources": [
-        "뽐뿌"
+        "더쿠",
+        "디시인사이드"
       ],
       "aliases": [],
       "rank": 11,
+      "change": "NEW"
+    },
+    {
+      "keyword": "정치",
+      "score": 82.27,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 36,
+      "sources": [
+        "디시인사이드",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 12,
+      "change": "NEW"
+    },
+    {
+      "keyword": "철수세미",
+      "score": 81.67,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 44,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌"
+      ],
+      "aliases": [
+        "넣는다",
+        "뇌에",
+        "미치광",
+        "박아",
+        "수술"
+      ],
+      "rank": 13,
+      "change": "NEW"
+    },
+    {
+      "keyword": "아주",
+      "score": 76.76,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 66,
+      "sources": [
+        "더쿠",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 14,
       "change": "NEW"
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "시험장에서 AI안경 걸러내는 법?",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77241050?m=humor",
-      "score": 98.95,
-      "views": 18863,
-      "comments": 68
+      "title": "샘 울트먼: \"애초에 개인이 램을 살수 있다는게 이상하다\"",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77241836?m=humor",
+      "score": 98.12,
+      "views": 15337,
+      "comments": 75
     },
     {
       "source": "디시인사이드",
-      "title": "요즘 20대 여자들이 원하는 남자조건",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474834&_dcbest=1&page=1",
-      "score": 85.29,
-      "views": 24739,
-      "comments": 418
+      "title": "싱글벙글 할로윈 듀오링고 무고신고한 트짹이 고아 근황...",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474876&_dcbest=1&page=1",
+      "score": 86.21,
+      "views": 16006,
+      "comments": 168
     },
     {
       "source": "뽐뿌",
-      "title": "[네이버] 네이버멤버십_ 청정원 스파게티소스, 파스타소스, 더미식 당찬진미밥, 매일두유 고단백, 노엣지 피자, ...",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=744832",
-      "score": 79.88,
-      "views": 8732,
-      "comments": 14
+      "title": "현재) 논란중인 군산 짬뽕 축제 ㄷㄷ.jpg",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=tour&no=116202",
+      "score": 81.0,
+      "views": 21920,
+      "comments": 69
     },
     {
       "source": "더쿠",
-      "title": "못생겼다고 난리난 남돌 스페셜 앨범",
-      "url": "https://theqoo.net/hot/4393151473",
-      "score": 76.37,
-      "views": 70578,
-      "comments": 329
+      "title": "도서관 책 실수로 찢었을때 테이프 붙여오면 안되는 이유.jpg",
+      "url": "https://theqoo.net/hot/4393316345",
+      "score": 73.53,
+      "views": 42438,
+      "comments": 229
     },
     {
       "source": "클리앙",
-      "title": "요즘 1020들 내란당 지지하는 꼴 보니 진짜 가르침이 절실한 세대네요",
-      "url": "https://www.clien.net/service/board/park/19285985?od=T31&po=0&category=0&groupCd=",
-      "score": 69.72,
-      "views": 1033,
-      "comments": 20
+      "title": "[주의] 시놀로지 NAS 쓰시는 분들 랜섬웨어 조심하세요! (비밀번호, 2FA 무력화)",
+      "url": "https://www.clien.net/service/board/park/19286086?od=T31&po=0&category=0&groupCd=",
+      "score": 70.02,
+      "views": 738,
+      "comments": 12
     }
   ]
 }

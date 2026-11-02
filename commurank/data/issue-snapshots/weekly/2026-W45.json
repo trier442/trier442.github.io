@@ -3,9 +3,47 @@
   "period": "weekly",
   "key": "2026-W45",
   "label": "2026.11.02 ~ 11.08",
-  "collected_at": "2026-11-02T08:00:19.376986+09:00",
+  "collected_at": "2026-11-02T11:22:26.246686+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
+    {
+      "id": "i53a2e4b6",
+      "title": "‘논란중인’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "논란중인"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 99.47,
+      "peak_score": 90.0,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 5,
+          "title": "현재) 논란중인 군산 짬뽕 축제 ㄷㄷ.jpg",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=tour&no=116202",
+          "score": 81.0
+        },
+        {
+          "source": "더쿠",
+          "rank": 95,
+          "title": "요즘 사람들 사이에서 논란중인 문제",
+          "url": "https://theqoo.net/hot/4393213230",
+          "score": 45.79
+        }
+      ],
+      "first_seen": "2026-10-07T15:10:25.459989+09:00",
+      "last_seen": "2026-11-02T11:22:26.246686+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 1,
+      "change": "NEW"
+    },
     {
       "id": "i75cc7e14",
       "title": "‘넷플릭스’ 관련 글이 여러 커뮤니티에서 화제",
@@ -41,8 +79,46 @@
       "last_seen": "2026-11-02T08:00:19.376986+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 1,
-      "change": 0
+      "rank": 2,
+      "change": -1
+    },
+    {
+      "id": "i2c099e33",
+      "title": "‘외국인’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "외국인"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 89.21,
+      "peak_score": 79.74,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 14,
+          "title": "국가별 외국인 식당 분위기",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474858&_dcbest=1&page=1",
+          "score": 70.74
+        },
+        {
+          "source": "더쿠",
+          "rank": 52,
+          "title": "“간호사·광부 독일 보냈던 나라인데… 외국인 노동자가 경제에 크게 도움 안 된다니”",
+          "url": "https://theqoo.net/hot/4393364885",
+          "score": 57.84
+        }
+      ],
+      "first_seen": "2026-10-02T04:00:21.148239+09:00",
+      "last_seen": "2026-11-02T11:22:26.246686+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 3,
+      "change": "NEW"
     },
     {
       "id": "i1dfadc28",
@@ -79,8 +155,85 @@
       "last_seen": "2026-11-02T04:32:33.610838+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 2,
-      "change": 0
+      "rank": 4,
+      "change": -2
+    },
+    {
+      "id": "i5d6688ff",
+      "title": "[네이버페이] 라방 랜덤 5원",
+      "keywords": [
+        "네이버페이",
+        "랜덤"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 85.21,
+      "peak_score": 75.74,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 22,
+          "title": "[네이버페이] 라방 랜덤 5원",
+          "url": "https://bbs.ruliweb.com/market/board/1020/read/108590",
+          "score": 67.74
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 49,
+          "title": "[란123] 네이버페이 171원 + 랜덤 포인트 받으세요 (+기타 532원)",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10173227",
+          "score": 58.24
+        }
+      ],
+      "first_seen": "2026-09-28T07:08:45.324597+09:00",
+      "last_seen": "2026-11-02T11:22:26.246686+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 5,
+      "change": "NEW"
+    },
+    {
+      "id": "i879d3e36",
+      "title": "‘박정희’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "박정희"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 84.15,
+      "peak_score": 74.68,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 25,
+          "title": "박정희 찬양영화 프레지던트 박정희 관객수",
+          "url": "https://theqoo.net/hot/4393345486",
+          "score": 65.68
+        },
+        {
+          "source": "클리앙",
+          "rank": 58,
+          "title": "금요일에 개봉한 박정희 영화.흥행상황",
+          "url": "https://www.clien.net/service/board/park/19286079?od=T31&po=0&category=0&groupCd=",
+          "score": 55.69
+        }
+      ],
+      "first_seen": "2026-11-02T11:22:26.246686+09:00",
+      "last_seen": "2026-11-02T11:22:26.246686+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 6,
+      "change": "NEW"
     },
     {
       "id": "i5c6da920",
@@ -117,7 +270,49 @@
       "last_seen": "2026-11-02T08:00:19.376986+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 3,
+      "rank": 7,
+      "change": -4
+    },
+    {
+      "id": "i4ae5766d",
+      "title": "뇌에 철수세미 박아 넣는다는 미치광이 수술",
+      "keywords": [
+        "철수세미",
+        "미치광이",
+        "박아",
+        "넣는다는",
+        "수술"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 76.89,
+      "peak_score": 67.42,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 44,
+          "title": "뇌에 철수세미 박아 넣는다는 미치광이 수술",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474826&_dcbest=1&page=1",
+          "score": 59.42
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 86,
+          "title": "뇌에 철수세미 박아 넣는다는 미치광이 수술",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10173162",
+          "score": 47.96
+        }
+      ],
+      "first_seen": "2026-11-02T11:22:26.246686+09:00",
+      "last_seen": "2026-11-02T11:22:26.246686+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 8,
       "change": "NEW"
     }
   ]
