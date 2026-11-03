@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-11-03T11:22:11.041530+09:00",
+  "collected_at": "2026-11-03T11:26:23.691028+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -18,8 +18,8 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 79.32,
-        "peak_score": 79.32,
+        "score": 80.62,
+        "peak_score": 80.62,
         "appearances": 1,
         "sources": [
           "뽐뿌",
@@ -31,18 +31,89 @@
             "rank": 18,
             "title": "신한플레이 쏠야구 퀴즈 11월 3일 정답",
             "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10174218",
-            "score": 70.32
+            "score": 71.62
           },
           {
             "source": "인벤",
-            "rank": 46,
+            "rank": 56,
             "title": "11월 3일, 화요일 신문을 통해 알게 된 것들",
             "url": "https://www.inven.co.kr/board/webzine/2097/2748105",
-            "score": 61.4
+            "score": 60.75
           }
         ],
         "rank": 1,
-        "change": "NEW"
+        "change": 0
+      },
+      {
+        "id": "i2e2124c6",
+        "title": "李대통령 '주요지역 아파트 실거래가 하락…통계 제대로 알려야'",
+        "keywords": [
+          "아파트",
+          "하락",
+          "실거래가",
+          "알려야"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 79.09,
+        "peak_score": 79.09,
+        "appearances": 1,
+        "sources": [
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 20,
+            "title": "李대통령 '주요지역 아파트 실거래가 하락…통계 제대로 알려야'",
+            "url": "https://www.clien.net/service/board/park/19286548?od=T31&po=0&category=0&groupCd=",
+            "score": 71.09
+          },
+          {
+            "source": "인벤",
+            "rank": 50,
+            "title": "李대통령 \"아파트 실거래가 놀라울 정도로 하락…정확히 알려야\"",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2748114",
+            "score": 62.03
+          }
+        ],
+        "rank": 2,
+        "change": 1
+      },
+      {
+        "id": "i13881cac",
+        "title": "‘역삼동’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "역삼동"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 78.47,
+        "peak_score": 78.47,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "디시인사이드"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 22,
+            "title": "역삼동 연쇄방화 피의자는 77세 이명수…경찰, 신상 공개",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475103&_dcbest=1&page=1",
+            "score": 69.47
+          },
+          {
+            "source": "더쿠",
+            "rank": 64,
+            "title": "오늘 신상공개된 역삼동 연쇄 방화범이 불을 지른 이유.jpg",
+            "url": "https://theqoo.net/hot/4394251980",
+            "score": 58.21
+          }
+        ],
+        "rank": 3,
+        "change": 1
       },
       {
         "id": "iae0f7912",
@@ -53,8 +124,8 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 78.15,
-        "peak_score": 78.15,
+        "score": 78.04,
+        "peak_score": 78.04,
         "appearances": 1,
         "sources": [
           "인벤",
@@ -63,92 +134,21 @@
         "posts": [
           {
             "source": "클리앙",
-            "rank": 24,
+            "rank": 25,
             "title": "[속보] 李 '집값 놀라울 정도로 떨어져..정확한 데이터 알려야'",
             "url": "https://www.clien.net/service/board/park/19286538?od=T31&po=0&category=0&groupCd=",
-            "score": 69.15
+            "score": 69.04
           },
           {
             "source": "인벤",
             "rank": 50,
             "title": "李대통령 \"아파트 실거래가 놀라울 정도로 하락…정확히 알려야\"",
             "url": "https://www.inven.co.kr/board/webzine/2097/2748114",
-            "score": 60.4
-          }
-        ],
-        "rank": 2,
-        "change": "NEW"
-      },
-      {
-        "id": "i2e2124c6",
-        "title": "李대통령 '주요지역 아파트 실거래가 하락…통계 제대로 알려야'",
-        "keywords": [
-          "알려야",
-          "실거래가",
-          "아파트",
-          "하락"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 78.13,
-        "peak_score": 78.13,
-        "appearances": 1,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 19,
-            "title": "李대통령 '주요지역 아파트 실거래가 하락…통계 제대로 알려야'",
-            "url": "https://www.clien.net/service/board/park/19286548?od=T31&po=0&category=0&groupCd=",
-            "score": 70.13
-          },
-          {
-            "source": "인벤",
-            "rank": 50,
-            "title": "李대통령 \"아파트 실거래가 놀라울 정도로 하락…정확히 알려야\"",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2748114",
-            "score": 60.4
-          }
-        ],
-        "rank": 3,
-        "change": "NEW"
-      },
-      {
-        "id": "i13881cac",
-        "title": "‘역삼동’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "역삼동"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 77.79,
-        "peak_score": 77.79,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "디시인사이드"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 25,
-            "title": "역삼동 연쇄방화 피의자는 77세 이명수…경찰, 신상 공개",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475103&_dcbest=1&page=1",
-            "score": 68.79
-          },
-          {
-            "source": "더쿠",
-            "rank": 61,
-            "title": "오늘 신상공개된 역삼동 연쇄 방화범이 불을 지른 이유.jpg",
-            "url": "https://theqoo.net/hot/4394251980",
-            "score": 58.21
+            "score": 62.03
           }
         ],
         "rank": 4,
-        "change": "NEW"
+        "change": -2
       },
       {
         "id": "ie828469a",
@@ -159,8 +159,8 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 76.79,
-        "peak_score": 76.79,
+        "score": 77.47,
+        "peak_score": 77.47,
         "appearances": 1,
         "sources": [
           "디시인사이드",
@@ -169,51 +169,54 @@
         "posts": [
           {
             "source": "디시인사이드",
-            "rank": 25,
+            "rank": 22,
             "title": "역삼동 연쇄방화 피의자는 77세 이명수…경찰, 신상 공개",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475103&_dcbest=1&page=1",
-            "score": 68.79
+            "score": 69.47
           },
           {
             "source": "인벤",
-            "rank": 41,
+            "rank": 46,
             "title": "'역삼 방화' 피의자 신상 공개‥77살 이명수",
             "url": "https://www.inven.co.kr/board/webzine/2097/2748111",
             "score": 63.24
           }
         ],
         "rank": 5,
-        "change": "NEW"
+        "change": 0
       },
       {
-        "id": "ieb083272",
-        "title": "‘최불암’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i2e16248e",
+        "title": "\"상주는 신경도 안쓸텐데\"...김지영, 故최불암 조문 난데없는 복장 논란",
         "keywords": [
-          "최불암"
+          "김지영",
+          "조문",
+          "최불암",
+          "복장"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 75.84,
-        "peak_score": 75.84,
+        "score": 74.84,
+        "peak_score": 74.84,
         "appearances": 1,
         "sources": [
           "더쿠",
-          "디시인사이드"
+          "뽐뿌"
         ],
         "posts": [
           {
             "source": "더쿠",
-            "rank": 28,
+            "rank": 34,
             "title": "\"상주는 신경도 안쓸텐데\"...김지영, 故최불암 조문 난데없는 복장 논란",
             "url": "https://theqoo.net/hot/4394335989",
             "score": 66.84
           },
           {
-            "source": "디시인사이드",
-            "rank": 54,
-            "title": "JTBC) 최불암 배우, 장지로...영면에 들어",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475105&_dcbest=1&page=1",
-            "score": 59.29
+            "source": "뽐뿌",
+            "rank": 39,
+            "title": "김지영, 故 최불암 빈소 조문 복장 갑론을박",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=news_broadcast&no=439269",
+            "score": 66.04
           }
         ],
         "rank": 6,
@@ -223,12 +226,14 @@
         "id": "i64e3e25d",
         "title": "[단독]국민의힘 정점식 원내대표, 내달 비상계엄 대국민 사과한다",
         "keywords": [
-          "정점식",
           "사과한다",
+          "내달",
+          "단독",
+          "비상계엄",
           "대국민",
-          "원내대표",
+          "정점식",
           "국민의힘",
-          "비상계엄"
+          "원내대표"
         ],
         "source_count": 2,
         "post_count": 2,
@@ -242,21 +247,21 @@
         "posts": [
           {
             "source": "더쿠",
-            "rank": 45,
+            "rank": 54,
             "title": "[단독]국민의힘 정점식 원내대표, 내달 비상계엄 대국민 사과한다",
             "url": "https://theqoo.net/hot/4394304745",
             "score": 61.53
           },
           {
             "source": "클리앙",
-            "rank": 92,
+            "rank": 88,
             "title": "[단독]국민의힘 정점식 원내대표, 내달 비상계엄 대국민 사과한다",
             "url": "https://www.clien.net/service/board/park/19286530?od=T31&po=0&category=0&groupCd=",
-            "score": 52.09
+            "score": 52.99
           }
         ],
         "rank": 7,
-        "change": "NEW"
+        "change": 0
       }
     ],
     "daily": [
@@ -344,9 +349,9 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 88.79,
-        "peak_score": 79.32,
-        "appearances": 1,
+        "score": 92.11,
+        "peak_score": 80.62,
+        "appearances": 2,
         "sources": [
           "뽐뿌",
           "인벤"
@@ -357,22 +362,179 @@
             "rank": 18,
             "title": "신한플레이 쏠야구 퀴즈 11월 3일 정답",
             "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10174218",
-            "score": 70.32
+            "score": 71.62
+          },
+          {
+            "source": "인벤",
+            "rank": 56,
+            "title": "11월 3일, 화요일 신문을 통해 알게 된 것들",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2748105",
+            "score": 60.75
+          }
+        ],
+        "first_seen": "2026-11-01T10:25:13.327785+09:00",
+        "last_seen": "2026-11-03T11:26:23.691028+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 3,
+        "change": 0
+      },
+      {
+        "id": "i2e2124c6",
+        "title": "李대통령 '주요지역 아파트 실거래가 하락…통계 제대로 알려야'",
+        "keywords": [
+          "아파트",
+          "하락",
+          "실거래가",
+          "알려야"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 90.58,
+        "peak_score": 79.09,
+        "appearances": 2,
+        "sources": [
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 20,
+            "title": "李대통령 '주요지역 아파트 실거래가 하락…통계 제대로 알려야'",
+            "url": "https://www.clien.net/service/board/park/19286548?od=T31&po=0&category=0&groupCd=",
+            "score": 71.09
+          },
+          {
+            "source": "인벤",
+            "rank": 50,
+            "title": "李대통령 \"아파트 실거래가 놀라울 정도로 하락…정확히 알려야\"",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2748114",
+            "score": 62.03
+          }
+        ],
+        "first_seen": "2026-11-03T11:22:11.041530+09:00",
+        "last_seen": "2026-11-03T11:26:23.691028+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 4,
+        "change": 2
+      },
+      {
+        "id": "i13881cac",
+        "title": "‘역삼동’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "역삼동"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 89.96,
+        "peak_score": 78.47,
+        "appearances": 2,
+        "sources": [
+          "더쿠",
+          "디시인사이드"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 22,
+            "title": "역삼동 연쇄방화 피의자는 77세 이명수…경찰, 신상 공개",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475103&_dcbest=1&page=1",
+            "score": 69.47
+          },
+          {
+            "source": "더쿠",
+            "rank": 64,
+            "title": "오늘 신상공개된 역삼동 연쇄 방화범이 불을 지른 이유.jpg",
+            "url": "https://theqoo.net/hot/4394251980",
+            "score": 58.21
+          }
+        ],
+        "first_seen": "2026-10-20T16:31:55.059688+09:00",
+        "last_seen": "2026-11-03T11:26:23.691028+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 5,
+        "change": 2
+      },
+      {
+        "id": "iae0f7912",
+        "title": "‘놀라울’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "놀라울",
+          "정도로"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 89.64,
+        "peak_score": 78.15,
+        "appearances": 2,
+        "sources": [
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 25,
+            "title": "[속보] 李 '집값 놀라울 정도로 떨어져..정확한 데이터 알려야'",
+            "url": "https://www.clien.net/service/board/park/19286538?od=T31&po=0&category=0&groupCd=",
+            "score": 69.04
+          },
+          {
+            "source": "인벤",
+            "rank": 50,
+            "title": "李대통령 \"아파트 실거래가 놀라울 정도로 하락…정확히 알려야\"",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2748114",
+            "score": 62.03
+          }
+        ],
+        "first_seen": "2026-11-03T11:22:11.041530+09:00",
+        "last_seen": "2026-11-03T11:26:23.691028+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 6,
+        "change": -1
+      },
+      {
+        "id": "ie828469a",
+        "title": "역삼동 연쇄방화 피의자는 77세 이명수…경찰, 신상 공개",
+        "keywords": [
+          "이명수",
+          "신상"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 88.96,
+        "peak_score": 77.47,
+        "appearances": 2,
+        "sources": [
+          "디시인사이드",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 22,
+            "title": "역삼동 연쇄방화 피의자는 77세 이명수…경찰, 신상 공개",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475103&_dcbest=1&page=1",
+            "score": 69.47
           },
           {
             "source": "인벤",
             "rank": 46,
-            "title": "11월 3일, 화요일 신문을 통해 알게 된 것들",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2748105",
-            "score": 61.4
+            "title": "'역삼 방화' 피의자 신상 공개‥77살 이명수",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2748111",
+            "score": 63.24
           }
         ],
-        "first_seen": "2026-11-01T10:25:13.327785+09:00",
-        "last_seen": "2026-11-03T11:22:11.041530+09:00",
+        "first_seen": "2026-11-03T11:22:11.041530+09:00",
+        "last_seen": "2026-11-03T11:26:23.691028+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 3,
-        "change": "NEW"
+        "rank": 7,
+        "change": 2
       },
       {
         "id": "i5d72b574",
@@ -410,126 +572,8 @@
         "last_seen": "2026-11-03T05:16:01.731609+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 4,
-        "change": -1
-      },
-      {
-        "id": "iae0f7912",
-        "title": "‘놀라울’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "놀라울",
-          "정도로"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 87.62,
-        "peak_score": 78.15,
-        "appearances": 1,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 24,
-            "title": "[속보] 李 '집값 놀라울 정도로 떨어져..정확한 데이터 알려야'",
-            "url": "https://www.clien.net/service/board/park/19286538?od=T31&po=0&category=0&groupCd=",
-            "score": 69.15
-          },
-          {
-            "source": "인벤",
-            "rank": 50,
-            "title": "李대통령 \"아파트 실거래가 놀라울 정도로 하락…정확히 알려야\"",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2748114",
-            "score": 60.4
-          }
-        ],
-        "first_seen": "2026-11-03T11:22:11.041530+09:00",
-        "last_seen": "2026-11-03T11:22:11.041530+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 5,
-        "change": "NEW"
-      },
-      {
-        "id": "i2e2124c6",
-        "title": "李대통령 '주요지역 아파트 실거래가 하락…통계 제대로 알려야'",
-        "keywords": [
-          "알려야",
-          "실거래가",
-          "아파트",
-          "하락"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 87.6,
-        "peak_score": 78.13,
-        "appearances": 1,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 19,
-            "title": "李대통령 '주요지역 아파트 실거래가 하락…통계 제대로 알려야'",
-            "url": "https://www.clien.net/service/board/park/19286548?od=T31&po=0&category=0&groupCd=",
-            "score": 70.13
-          },
-          {
-            "source": "인벤",
-            "rank": 50,
-            "title": "李대통령 \"아파트 실거래가 놀라울 정도로 하락…정확히 알려야\"",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2748114",
-            "score": 60.4
-          }
-        ],
-        "first_seen": "2026-11-03T11:22:11.041530+09:00",
-        "last_seen": "2026-11-03T11:22:11.041530+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 6,
-        "change": "NEW"
-      },
-      {
-        "id": "i13881cac",
-        "title": "‘역삼동’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "역삼동"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 87.26,
-        "peak_score": 77.79,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "디시인사이드"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 25,
-            "title": "역삼동 연쇄방화 피의자는 77세 이명수…경찰, 신상 공개",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475103&_dcbest=1&page=1",
-            "score": 68.79
-          },
-          {
-            "source": "더쿠",
-            "rank": 61,
-            "title": "오늘 신상공개된 역삼동 연쇄 방화범이 불을 지른 이유.jpg",
-            "url": "https://theqoo.net/hot/4394251980",
-            "score": 58.21
-          }
-        ],
-        "first_seen": "2026-10-20T16:31:55.059688+09:00",
-        "last_seen": "2026-11-03T11:22:11.041530+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 7,
-        "change": "NEW"
+        "rank": 8,
+        "change": -4
       },
       {
         "id": "i1ffb4f8e",
@@ -571,47 +615,8 @@
         "last_seen": "2026-11-03T05:16:01.731609+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 8,
-        "change": -4
-      },
-      {
-        "id": "ie828469a",
-        "title": "역삼동 연쇄방화 피의자는 77세 이명수…경찰, 신상 공개",
-        "keywords": [
-          "이명수",
-          "신상"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 86.26,
-        "peak_score": 76.79,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 25,
-            "title": "역삼동 연쇄방화 피의자는 77세 이명수…경찰, 신상 공개",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475103&_dcbest=1&page=1",
-            "score": 68.79
-          },
-          {
-            "source": "인벤",
-            "rank": 41,
-            "title": "'역삼 방화' 피의자 신상 공개‥77살 이명수",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2748111",
-            "score": 63.24
-          }
-        ],
-        "first_seen": "2026-11-03T11:22:11.041530+09:00",
-        "last_seen": "2026-11-03T11:22:11.041530+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 9,
-        "change": "NEW"
+        "change": -1
       },
       {
         "id": "ieb083272",
@@ -649,6 +654,47 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 10,
+        "change": 0
+      },
+      {
+        "id": "i2e16248e",
+        "title": "\"상주는 신경도 안쓸텐데\"...김지영, 故최불암 조문 난데없는 복장 논란",
+        "keywords": [
+          "김지영",
+          "조문",
+          "최불암",
+          "복장"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 84.31,
+        "peak_score": 74.84,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "더쿠",
+            "rank": 34,
+            "title": "\"상주는 신경도 안쓸텐데\"...김지영, 故최불암 조문 난데없는 복장 논란",
+            "url": "https://theqoo.net/hot/4394335989",
+            "score": 66.84
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 39,
+            "title": "김지영, 故 최불암 빈소 조문 복장 갑론을박",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=news_broadcast&no=439269",
+            "score": 66.04
+          }
+        ],
+        "first_seen": "2026-11-03T11:26:23.691028+09:00",
+        "last_seen": "2026-11-03T11:26:23.691028+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 11,
         "change": "NEW"
       },
       {
@@ -689,25 +735,27 @@
         "last_seen": "2026-11-03T05:16:01.731609+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
-        "change": -6
+        "rank": 12,
+        "change": -1
       },
       {
         "id": "i64e3e25d",
         "title": "[단독]국민의힘 정점식 원내대표, 내달 비상계엄 대국민 사과한다",
         "keywords": [
-          "정점식",
           "사과한다",
+          "내달",
+          "단독",
+          "비상계엄",
           "대국민",
-          "원내대표",
+          "정점식",
           "국민의힘",
-          "비상계엄"
+          "원내대표"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 79.0,
+        "score": 81.02,
         "peak_score": 69.53,
-        "appearances": 1,
+        "appearances": 2,
         "sources": [
           "더쿠",
           "클리앙"
@@ -715,25 +763,25 @@
         "posts": [
           {
             "source": "더쿠",
-            "rank": 45,
+            "rank": 54,
             "title": "[단독]국민의힘 정점식 원내대표, 내달 비상계엄 대국민 사과한다",
             "url": "https://theqoo.net/hot/4394304745",
             "score": 61.53
           },
           {
             "source": "클리앙",
-            "rank": 92,
+            "rank": 88,
             "title": "[단독]국민의힘 정점식 원내대표, 내달 비상계엄 대국민 사과한다",
             "url": "https://www.clien.net/service/board/park/19286530?od=T31&po=0&category=0&groupCd=",
-            "score": 52.09
+            "score": 52.99
           }
         ],
         "first_seen": "2026-11-03T11:22:11.041530+09:00",
-        "last_seen": "2026-11-03T11:22:11.041530+09:00",
+        "last_seen": "2026-11-03T11:26:23.691028+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 12,
-        "change": "NEW"
+        "rank": 13,
+        "change": -1
       },
       {
         "id": "id0f722ca",
@@ -770,8 +818,8 @@
         "last_seen": "2026-11-03T05:16:01.731609+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 13,
-        "change": -7
+        "rank": 14,
+        "change": -1
       }
     ],
     "weekly": [
@@ -890,6 +938,44 @@
         "change": 0
       },
       {
+        "id": "i4a23876e",
+        "title": "‘11월’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "11월"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 92.11,
+        "peak_score": 80.62,
+        "appearances": 2,
+        "sources": [
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 18,
+            "title": "신한플레이 쏠야구 퀴즈 11월 3일 정답",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10174218",
+            "score": 71.62
+          },
+          {
+            "source": "인벤",
+            "rank": 56,
+            "title": "11월 3일, 화요일 신문을 통해 알게 된 것들",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2748105",
+            "score": 60.75
+          }
+        ],
+        "first_seen": "2026-11-01T10:25:13.327785+09:00",
+        "last_seen": "2026-11-03T11:26:23.691028+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 4,
+        "change": 2
+      },
+      {
         "id": "i75cc7e14",
         "title": "‘넷플릭스’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -924,8 +1010,126 @@
         "last_seen": "2026-11-02T08:00:19.376986+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 4,
-        "change": 0
+        "rank": 5,
+        "change": -1
+      },
+      {
+        "id": "i2e2124c6",
+        "title": "李대통령 '주요지역 아파트 실거래가 하락…통계 제대로 알려야'",
+        "keywords": [
+          "아파트",
+          "하락",
+          "실거래가",
+          "알려야"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 90.58,
+        "peak_score": 79.09,
+        "appearances": 2,
+        "sources": [
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 20,
+            "title": "李대통령 '주요지역 아파트 실거래가 하락…통계 제대로 알려야'",
+            "url": "https://www.clien.net/service/board/park/19286548?od=T31&po=0&category=0&groupCd=",
+            "score": 71.09
+          },
+          {
+            "source": "인벤",
+            "rank": 50,
+            "title": "李대통령 \"아파트 실거래가 놀라울 정도로 하락…정확히 알려야\"",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2748114",
+            "score": 62.03
+          }
+        ],
+        "first_seen": "2026-11-03T11:22:11.041530+09:00",
+        "last_seen": "2026-11-03T11:26:23.691028+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 6,
+        "change": 4
+      },
+      {
+        "id": "i13881cac",
+        "title": "‘역삼동’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "역삼동"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 89.96,
+        "peak_score": 78.47,
+        "appearances": 2,
+        "sources": [
+          "더쿠",
+          "디시인사이드"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 22,
+            "title": "역삼동 연쇄방화 피의자는 77세 이명수…경찰, 신상 공개",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475103&_dcbest=1&page=1",
+            "score": 69.47
+          },
+          {
+            "source": "더쿠",
+            "rank": 64,
+            "title": "오늘 신상공개된 역삼동 연쇄 방화범이 불을 지른 이유.jpg",
+            "url": "https://theqoo.net/hot/4394251980",
+            "score": 58.21
+          }
+        ],
+        "first_seen": "2026-10-20T16:31:55.059688+09:00",
+        "last_seen": "2026-11-03T11:26:23.691028+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 7,
+        "change": 4
+      },
+      {
+        "id": "iae0f7912",
+        "title": "‘놀라울’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "놀라울",
+          "정도로"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 89.64,
+        "peak_score": 78.15,
+        "appearances": 2,
+        "sources": [
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 25,
+            "title": "[속보] 李 '집값 놀라울 정도로 떨어져..정확한 데이터 알려야'",
+            "url": "https://www.clien.net/service/board/park/19286538?od=T31&po=0&category=0&groupCd=",
+            "score": 69.04
+          },
+          {
+            "source": "인벤",
+            "rank": 50,
+            "title": "李대통령 \"아파트 실거래가 놀라울 정도로 하락…정확히 알려야\"",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2748114",
+            "score": 62.03
+          }
+        ],
+        "first_seen": "2026-11-03T11:22:11.041530+09:00",
+        "last_seen": "2026-11-03T11:26:23.691028+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 8,
+        "change": 1
       },
       {
         "id": "i2c099e33",
@@ -962,46 +1166,47 @@
         "last_seen": "2026-11-02T11:22:26.246686+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 5,
-        "change": 0
+        "rank": 9,
+        "change": -4
       },
       {
-        "id": "i4a23876e",
-        "title": "‘11월’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "ie828469a",
+        "title": "역삼동 연쇄방화 피의자는 77세 이명수…경찰, 신상 공개",
         "keywords": [
-          "11월"
+          "이명수",
+          "신상"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 88.79,
-        "peak_score": 79.32,
-        "appearances": 1,
+        "score": 88.96,
+        "peak_score": 77.47,
+        "appearances": 2,
         "sources": [
-          "뽐뿌",
+          "디시인사이드",
           "인벤"
         ],
         "posts": [
           {
-            "source": "뽐뿌",
-            "rank": 18,
-            "title": "신한플레이 쏠야구 퀴즈 11월 3일 정답",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10174218",
-            "score": 70.32
+            "source": "디시인사이드",
+            "rank": 22,
+            "title": "역삼동 연쇄방화 피의자는 77세 이명수…경찰, 신상 공개",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475103&_dcbest=1&page=1",
+            "score": 69.47
           },
           {
             "source": "인벤",
             "rank": 46,
-            "title": "11월 3일, 화요일 신문을 통해 알게 된 것들",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2748105",
-            "score": 61.4
+            "title": "'역삼 방화' 피의자 신상 공개‥77살 이명수",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2748111",
+            "score": 63.24
           }
         ],
-        "first_seen": "2026-11-01T10:25:13.327785+09:00",
-        "last_seen": "2026-11-03T11:22:11.041530+09:00",
+        "first_seen": "2026-11-03T11:22:11.041530+09:00",
+        "last_seen": "2026-11-03T11:26:23.691028+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 6,
-        "change": "NEW"
+        "rank": 10,
+        "change": 3
       },
       {
         "id": "i5d72b574",
@@ -1039,8 +1244,8 @@
         "last_seen": "2026-11-03T05:16:01.731609+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 7,
-        "change": -1
+        "rank": 11,
+        "change": -4
       },
       {
         "id": "i1f297e84",
@@ -1077,126 +1282,8 @@
         "last_seen": "2026-11-02T18:53:50.516777+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 8,
-        "change": -1
-      },
-      {
-        "id": "iae0f7912",
-        "title": "‘놀라울’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "놀라울",
-          "정도로"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 87.62,
-        "peak_score": 78.15,
-        "appearances": 1,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 24,
-            "title": "[속보] 李 '집값 놀라울 정도로 떨어져..정확한 데이터 알려야'",
-            "url": "https://www.clien.net/service/board/park/19286538?od=T31&po=0&category=0&groupCd=",
-            "score": 69.15
-          },
-          {
-            "source": "인벤",
-            "rank": 50,
-            "title": "李대통령 \"아파트 실거래가 놀라울 정도로 하락…정확히 알려야\"",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2748114",
-            "score": 60.4
-          }
-        ],
-        "first_seen": "2026-11-03T11:22:11.041530+09:00",
-        "last_seen": "2026-11-03T11:22:11.041530+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 9,
-        "change": "NEW"
-      },
-      {
-        "id": "i2e2124c6",
-        "title": "李대통령 '주요지역 아파트 실거래가 하락…통계 제대로 알려야'",
-        "keywords": [
-          "알려야",
-          "실거래가",
-          "아파트",
-          "하락"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 87.6,
-        "peak_score": 78.13,
-        "appearances": 1,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 19,
-            "title": "李대통령 '주요지역 아파트 실거래가 하락…통계 제대로 알려야'",
-            "url": "https://www.clien.net/service/board/park/19286548?od=T31&po=0&category=0&groupCd=",
-            "score": 70.13
-          },
-          {
-            "source": "인벤",
-            "rank": 50,
-            "title": "李대통령 \"아파트 실거래가 놀라울 정도로 하락…정확히 알려야\"",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2748114",
-            "score": 60.4
-          }
-        ],
-        "first_seen": "2026-11-03T11:22:11.041530+09:00",
-        "last_seen": "2026-11-03T11:22:11.041530+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 10,
-        "change": "NEW"
-      },
-      {
-        "id": "i13881cac",
-        "title": "‘역삼동’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "역삼동"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 87.26,
-        "peak_score": 77.79,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "디시인사이드"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 25,
-            "title": "역삼동 연쇄방화 피의자는 77세 이명수…경찰, 신상 공개",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475103&_dcbest=1&page=1",
-            "score": 68.79
-          },
-          {
-            "source": "더쿠",
-            "rank": 61,
-            "title": "오늘 신상공개된 역삼동 연쇄 방화범이 불을 지른 이유.jpg",
-            "url": "https://theqoo.net/hot/4394251980",
-            "score": 58.21
-          }
-        ],
-        "first_seen": "2026-10-20T16:31:55.059688+09:00",
-        "last_seen": "2026-11-03T11:22:11.041530+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 11,
-        "change": "NEW"
+        "rank": 12,
+        "change": -4
       },
       {
         "id": "i1ffb4f8e",
@@ -1238,47 +1325,8 @@
         "last_seen": "2026-11-03T05:16:01.731609+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 12,
-        "change": -4
-      },
-      {
-        "id": "ie828469a",
-        "title": "역삼동 연쇄방화 피의자는 77세 이명수…경찰, 신상 공개",
-        "keywords": [
-          "이명수",
-          "신상"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 86.26,
-        "peak_score": 76.79,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 25,
-            "title": "역삼동 연쇄방화 피의자는 77세 이명수…경찰, 신상 공개",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475103&_dcbest=1&page=1",
-            "score": 68.79
-          },
-          {
-            "source": "인벤",
-            "rank": 41,
-            "title": "'역삼 방화' 피의자 신상 공개‥77살 이명수",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2748111",
-            "score": 63.24
-          }
-        ],
-        "first_seen": "2026-11-03T11:22:11.041530+09:00",
-        "last_seen": "2026-11-03T11:22:11.041530+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 13,
-        "change": "NEW"
+        "change": -1
       },
       {
         "id": "i1dfadc28",
@@ -1316,7 +1364,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 14,
-        "change": -5
+        "change": 0
       },
       {
         "id": "ieb083272",
@@ -1354,6 +1402,47 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 15,
+        "change": 0
+      },
+      {
+        "id": "i2e16248e",
+        "title": "\"상주는 신경도 안쓸텐데\"...김지영, 故최불암 조문 난데없는 복장 논란",
+        "keywords": [
+          "김지영",
+          "조문",
+          "최불암",
+          "복장"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 84.31,
+        "peak_score": 74.84,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "더쿠",
+            "rank": 34,
+            "title": "\"상주는 신경도 안쓸텐데\"...김지영, 故최불암 조문 난데없는 복장 논란",
+            "url": "https://theqoo.net/hot/4394335989",
+            "score": 66.84
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 39,
+            "title": "김지영, 故 최불암 빈소 조문 복장 갑론을박",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=news_broadcast&no=439269",
+            "score": 66.04
+          }
+        ],
+        "first_seen": "2026-11-03T11:26:23.691028+09:00",
+        "last_seen": "2026-11-03T11:26:23.691028+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 16,
         "change": "NEW"
       },
       {
@@ -1391,8 +1480,8 @@
         "last_seen": "2026-11-02T11:22:26.246686+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 16,
-        "change": -6
+        "rank": 17,
+        "change": -1
       },
       {
         "id": "i5c6da920",
@@ -1429,8 +1518,8 @@
         "last_seen": "2026-11-02T08:00:19.376986+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 17,
-        "change": -6
+        "rank": 18,
+        "change": -1
       },
       {
         "id": "i304a5af2",
@@ -1470,63 +1559,27 @@
         "last_seen": "2026-11-03T05:16:01.731609+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 18,
-        "change": -6
-      },
-      {
-        "id": "i4c8bdd1e",
-        "title": "‘대한민국’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "대한민국"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 80.98,
-        "peak_score": 71.51,
-        "appearances": 1,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 49,
-            "title": "대한민국 범죄 근황",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2747903",
-            "score": 62.51
-          },
-          {
-            "source": "클리앙",
-            "rank": 79,
-            "title": "2026 대학생이 뽑은 대한민국 인물 호감도",
-            "url": "https://www.clien.net/service/board/park/19286301?od=T31&po=0&category=0&groupCd=",
-            "score": 56.13
-          }
-        ],
-        "first_seen": "2026-10-08T13:29:25.370320+09:00",
-        "last_seen": "2026-11-02T18:53:50.516777+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 19,
-        "change": -6
+        "change": -1
       },
       {
         "id": "i64e3e25d",
         "title": "[단독]국민의힘 정점식 원내대표, 내달 비상계엄 대국민 사과한다",
         "keywords": [
-          "정점식",
           "사과한다",
+          "내달",
+          "단독",
+          "비상계엄",
           "대국민",
-          "원내대표",
+          "정점식",
           "국민의힘",
-          "비상계엄"
+          "원내대표"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 79.0,
+        "score": 81.02,
         "peak_score": 69.53,
-        "appearances": 1,
+        "appearances": 2,
         "sources": [
           "더쿠",
           "클리앙"
@@ -1534,25 +1587,25 @@
         "posts": [
           {
             "source": "더쿠",
-            "rank": 45,
+            "rank": 54,
             "title": "[단독]국민의힘 정점식 원내대표, 내달 비상계엄 대국민 사과한다",
             "url": "https://theqoo.net/hot/4394304745",
             "score": 61.53
           },
           {
             "source": "클리앙",
-            "rank": 92,
+            "rank": 88,
             "title": "[단독]국민의힘 정점식 원내대표, 내달 비상계엄 대국민 사과한다",
             "url": "https://www.clien.net/service/board/park/19286530?od=T31&po=0&category=0&groupCd=",
-            "score": 52.09
+            "score": 52.99
           }
         ],
         "first_seen": "2026-11-03T11:22:11.041530+09:00",
-        "last_seen": "2026-11-03T11:22:11.041530+09:00",
+        "last_seen": "2026-11-03T11:26:23.691028+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 20,
-        "change": "NEW"
+        "change": 0
       }
     ],
     "monthly": [
@@ -1747,6 +1800,47 @@
         "change": 0
       },
       {
+        "id": "i4a23876e",
+        "title": "‘11월’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "11월"
+        ],
+        "source_count": 3,
+        "post_count": 3,
+        "score": 100.58,
+        "peak_score": 80.62,
+        "appearances": 5,
+        "sources": [
+          "더쿠",
+          "루리웹",
+          "뽐뿌",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 18,
+            "title": "신한플레이 쏠야구 퀴즈 11월 3일 정답",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10174218",
+            "score": 71.62
+          },
+          {
+            "source": "인벤",
+            "rank": 56,
+            "title": "11월 3일, 화요일 신문을 통해 알게 된 것들",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2748105",
+            "score": 60.75
+          }
+        ],
+        "first_seen": "2026-11-01T10:25:13.327785+09:00",
+        "last_seen": "2026-11-03T11:26:23.691028+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 6,
+        "change": 2
+      },
+      {
         "id": "i53a2e4b6",
         "title": "‘논란중인’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -1781,8 +1875,8 @@
         "last_seen": "2026-11-02T11:22:26.246686+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 6,
-        "change": 0
+        "rank": 7,
+        "change": -1
       },
       {
         "id": "i4c8bdd1e",
@@ -1820,49 +1914,8 @@
         "last_seen": "2026-11-02T18:53:50.516777+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 7,
-        "change": 0
-      },
-      {
-        "id": "i4a23876e",
-        "title": "‘11월’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "11월"
-        ],
-        "source_count": 3,
-        "post_count": 3,
-        "score": 98.78,
-        "peak_score": 79.73,
-        "appearances": 4,
-        "sources": [
-          "더쿠",
-          "루리웹",
-          "뽐뿌",
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 18,
-            "title": "신한플레이 쏠야구 퀴즈 11월 3일 정답",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10174218",
-            "score": 70.32
-          },
-          {
-            "source": "인벤",
-            "rank": 46,
-            "title": "11월 3일, 화요일 신문을 통해 알게 된 것들",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2748105",
-            "score": 61.4
-          }
-        ],
-        "first_seen": "2026-11-01T10:25:13.327785+09:00",
-        "last_seen": "2026-11-03T11:22:11.041530+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 8,
-        "change": 2
+        "change": -1
       },
       {
         "id": "ifc264642",
@@ -1900,7 +1953,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 9,
-        "change": -1
+        "change": 0
       },
       {
         "id": "ic24684b3",
@@ -1938,7 +1991,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 10,
-        "change": -1
+        "change": 0
       },
       {
         "id": "ibf947c6c",
@@ -2176,7 +2229,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 16,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "i6154676e",
@@ -2217,7 +2270,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 17,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i75cc7e14",
@@ -2255,7 +2308,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 18,
-        "change": -1
+        "change": 0
       },
       {
         "id": "ie8b793b3",
@@ -2293,45 +2346,48 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 19,
-        "change": -1
+        "change": 0
       },
       {
-        "id": "i2c099e33",
-        "title": "‘외국인’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i2e2124c6",
+        "title": "李대통령 '주요지역 아파트 실거래가 하락…통계 제대로 알려야'",
         "keywords": [
-          "외국인"
+          "아파트",
+          "하락",
+          "실거래가",
+          "알려야"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 89.21,
-        "peak_score": 79.74,
-        "appearances": 1,
+        "score": 90.58,
+        "peak_score": 79.09,
+        "appearances": 2,
         "sources": [
-          "더쿠",
-          "디시인사이드"
+          "인벤",
+          "클리앙"
         ],
         "posts": [
           {
-            "source": "디시인사이드",
-            "rank": 14,
-            "title": "국가별 외국인 식당 분위기",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474858&_dcbest=1&page=1",
-            "score": 70.74
+            "source": "클리앙",
+            "rank": 20,
+            "title": "李대통령 '주요지역 아파트 실거래가 하락…통계 제대로 알려야'",
+            "url": "https://www.clien.net/service/board/park/19286548?od=T31&po=0&category=0&groupCd=",
+            "score": 71.09
           },
           {
-            "source": "더쿠",
-            "rank": 52,
-            "title": "“간호사·광부 독일 보냈던 나라인데… 외국인 노동자가 경제에 크게 도움 안 된다니”",
-            "url": "https://theqoo.net/hot/4393364885",
-            "score": 57.84
+            "source": "인벤",
+            "rank": 50,
+            "title": "李대통령 \"아파트 실거래가 놀라울 정도로 하락…정확히 알려야\"",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2748114",
+            "score": 62.03
           }
         ],
-        "first_seen": "2026-10-02T04:00:21.148239+09:00",
-        "last_seen": "2026-11-02T11:22:26.246686+09:00",
+        "first_seen": "2026-11-03T11:22:11.041530+09:00",
+        "last_seen": "2026-11-03T11:26:23.691028+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 20,
-        "change": -1
+        "change": "NEW"
       }
     ]
   }
