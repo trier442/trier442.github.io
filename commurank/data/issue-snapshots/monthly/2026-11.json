@@ -3,7 +3,7 @@
   "period": "monthly",
   "key": "2026-11",
   "label": "2026년 11월",
-  "collected_at": "2026-11-03T18:50:34.062447+09:00",
+  "collected_at": "2026-11-03T18:58:12.389673+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -14,9 +14,9 @@
       ],
       "source_count": 4,
       "post_count": 6,
-      "score": 122.8,
+      "score": 124.82,
       "peak_score": 101.33,
-      "appearances": 1,
+      "appearances": 2,
       "sources": [
         "더쿠",
         "디시인사이드",
@@ -26,39 +26,32 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 12,
+          "rank": 10,
           "title": "ㅓㅜㅑ 리센느..현재상황..떠오르는 걸그룹...jpg",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475225&_dcbest=1&page=1",
-          "score": 75.33
+          "score": 74.63
         },
         {
           "source": "더쿠",
-          "rank": 29,
+          "rank": 21,
           "title": "방금 나온 리센느 신곡 멜론 5분 차트......jpg",
           "url": "https://theqoo.net/hot/4394710357",
-          "score": 67.84
+          "score": 68.68
         },
         {
           "source": "인벤",
-          "rank": 44,
+          "rank": 75,
           "title": "리센느 With, 백화요란 쇼케이스",
           "url": "https://www.inven.co.kr/board/webzine/2097/2748329",
-          "score": 63.0
-        },
-        {
-          "source": "클리앙",
-          "rank": 94,
-          "title": "리센느 팬까지는 아니기는 한데…",
-          "url": "https://www.clien.net/service/board/park/19286799?od=T31&po=0&category=0&groupCd=",
-          "score": 51.68
+          "score": 57.4
         }
       ],
       "first_seen": "2026-09-27T12:58:49.050910+09:00",
-      "last_seen": "2026-11-03T18:50:34.062447+09:00",
-      "latest_source_count": 4,
-      "latest_post_count": 6,
+      "last_seen": "2026-11-03T18:58:12.389673+09:00",
+      "latest_source_count": 3,
+      "latest_post_count": 3,
       "rank": 1,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i9ff6bf96",
@@ -96,7 +89,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 2,
-      "change": -1
+      "change": 0
     },
     {
       "id": "ife021da2",
@@ -134,7 +127,7 @@
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 3,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i5d6688ff",
@@ -172,7 +165,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 4,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i2af08ac5",
@@ -210,7 +203,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 5,
-      "change": -1
+      "change": 0
     },
     {
       "id": "ie3fc87c2",
@@ -248,7 +241,46 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 6,
-      "change": -1
+      "change": 0
+    },
+    {
+      "id": "i03005878",
+      "title": "김민석 당선목적의 허위사실 유포네요.",
+      "keywords": [
+        "김민석",
+        "허위사실"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 102.88,
+      "peak_score": 91.39,
+      "appearances": 2,
+      "sources": [
+        "뽐뿌",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 12,
+          "title": "김민석 당선목적의 허위사실 유포네요.",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10174861",
+          "score": 73.27
+        },
+        {
+          "source": "클리앙",
+          "rank": 20,
+          "title": "김민석 신천지 발언은 빼박 '당선 목적 허위사실 유포' 아닌가요?",
+          "url": "https://www.clien.net/service/board/park/19286816?od=T31&po=0&category=0&groupCd=",
+          "score": 68.94
+        }
+      ],
+      "first_seen": "2026-11-03T18:50:34.062447+09:00",
+      "last_seen": "2026-11-03T18:58:12.389673+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 7,
+      "change": 1
     },
     {
       "id": "iaf5a26c0",
@@ -285,47 +317,8 @@
       "last_seen": "2026-11-03T18:50:34.062447+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": "NEW"
-    },
-    {
-      "id": "i03005878",
-      "title": "김민석 당선목적의 허위사실 유포네요.",
-      "keywords": [
-        "김민석",
-        "허위사실"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 100.86,
-      "peak_score": 91.39,
-      "appearances": 1,
-      "sources": [
-        "뽐뿌",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 6,
-          "title": "김민석 당선목적의 허위사실 유포네요.",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10174861",
-          "score": 83.39
-        },
-        {
-          "source": "클리앙",
-          "rank": 23,
-          "title": "김민석 신천지 발언은 빼박 '당선 목적 허위사실 유포' 아닌가요?",
-          "url": "https://www.clien.net/service/board/park/19286816?od=T31&po=0&category=0&groupCd=",
-          "score": 69.19
-        }
-      ],
-      "first_seen": "2026-11-03T18:50:34.062447+09:00",
-      "last_seen": "2026-11-03T18:50:34.062447+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 8,
-      "change": "NEW"
+      "change": -1
     },
     {
       "id": "i4a23876e",
@@ -366,7 +359,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 9,
-      "change": -3
+      "change": 0
     },
     {
       "id": "i53a2e4b6",
@@ -404,7 +397,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 10,
-      "change": -3
+      "change": 0
     },
     {
       "id": "i4c8bdd1e",
@@ -443,7 +436,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 11,
-      "change": -3
+      "change": 0
     },
     {
       "id": "ifc264642",
@@ -481,7 +474,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 12,
-      "change": -3
+      "change": 0
     },
     {
       "id": "ic24684b3",
@@ -519,7 +512,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 13,
-      "change": -3
+      "change": 0
     },
     {
       "id": "ibf947c6c",
@@ -557,7 +550,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 14,
-      "change": -3
+      "change": 0
     },
     {
       "id": "ib02d3a70",
@@ -601,7 +594,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 15,
-      "change": -3
+      "change": 0
     },
     {
       "id": "i8a71818d",
@@ -639,7 +632,45 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 16,
-      "change": -3
+      "change": 0
+    },
+    {
+      "id": "i2ccad4a3",
+      "title": "‘데이터’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "데이터"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 93.09,
+      "peak_score": 81.6,
+      "appearances": 2,
+      "sources": [
+        "디시인사이드",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 15,
+          "title": "李 \"집값 놀라울 정도로 떨어져..정확한 데이터 알려야\"",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475237&_dcbest=1&page=1",
+          "score": 72.6
+        },
+        {
+          "source": "클리앙",
+          "rank": 46,
+          "title": "“민주당 상원 탈환 확률 90%” 데이터 과학자가 예측한 중간선거",
+          "url": "https://www.clien.net/service/board/park/19286817?od=T31&po=0&category=0&groupCd=",
+          "score": 62.18
+        }
+      ],
+      "first_seen": "2026-11-03T18:50:34.062447+09:00",
+      "last_seen": "2026-11-03T18:58:12.389673+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 17,
+      "change": "NEW"
     },
     {
       "id": "icf31cb81",
@@ -678,8 +709,8 @@
       "last_seen": "2026-11-01T07:24:53.147489+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 17,
-      "change": -3
+      "rank": 18,
+      "change": -1
     },
     {
       "id": "i12455f1b",
@@ -716,8 +747,8 @@
       "last_seen": "2026-11-01T04:16:27.039598+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 18,
-      "change": -3
+      "rank": 19,
+      "change": -1
     },
     {
       "id": "ieb083272",
@@ -756,49 +787,8 @@
       "last_seen": "2026-11-03T11:22:11.041530+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 19,
-      "change": -3
-    },
-    {
-      "id": "i6154676e",
-      "title": "요즘 고등학생들 역사 토론 수준",
-      "keywords": [
-        "토론",
-        "수준",
-        "고등학생들",
-        "역사"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 91.67,
-      "peak_score": 82.2,
-      "appearances": 1,
-      "sources": [
-        "뽐뿌",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 18,
-          "title": "요즘 고등학생들 역사 토론 수준",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2747382",
-          "score": 74.2
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 97,
-          "title": "요즘 고등학생들 역사 토론 수준.jpg",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=humor&no=790318",
-          "score": 49.47
-        }
-      ],
-      "first_seen": "2026-11-01T07:24:53.147489+09:00",
-      "last_seen": "2026-11-01T07:24:53.147489+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 20,
-      "change": -3
+      "change": -1
     }
   ]
 }
