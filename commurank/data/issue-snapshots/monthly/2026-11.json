@@ -3,7 +3,7 @@
   "period": "monthly",
   "key": "2026-11",
   "label": "2026년 11월",
-  "collected_at": "2026-11-04T02:44:21.160174+09:00",
+  "collected_at": "2026-11-04T07:31:02.754038+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -585,6 +585,44 @@
       "change": 0
     },
     {
+      "id": "i52db8d08",
+      "title": "‘노시환’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "노시환"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 95.88,
+      "peak_score": 86.41,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 8,
+          "title": "야구 노시환 주가 근황",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10174548",
+          "score": 77.41
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 34,
+          "title": "MLB에 올라온 노시환",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475326&_dcbest=1&page=1",
+          "score": 63.76
+        }
+      ],
+      "first_seen": "2026-11-04T07:31:02.754038+09:00",
+      "last_seen": "2026-11-04T07:31:02.754038+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 16,
+      "change": "NEW"
+    },
+    {
       "id": "ib02d3a70",
       "title": "핼러윈 주말, 이태원 2만·홍대 12만 인파 몰렸다...안전 관리 총력",
       "keywords": [
@@ -625,8 +663,8 @@
       "last_seen": "2026-11-01T07:24:53.147489+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 16,
-      "change": 0
+      "rank": 17,
+      "change": -1
     },
     {
       "id": "i8a71818d",
@@ -663,8 +701,8 @@
       "last_seen": "2026-11-01T23:59:50.576263+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 17,
-      "change": 0
+      "rank": 18,
+      "change": -1
     },
     {
       "id": "i2ccad4a3",
@@ -701,8 +739,8 @@
       "last_seen": "2026-11-03T18:58:12.389673+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 18,
-      "change": 0
+      "rank": 19,
+      "change": -1
     },
     {
       "id": "icf31cb81",
@@ -741,46 +779,8 @@
       "last_seen": "2026-11-01T07:24:53.147489+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 19,
-      "change": 0
-    },
-    {
-      "id": "i12455f1b",
-      "title": "‘광군제는’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "광군제는"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 92.37,
-      "peak_score": 80.88,
-      "appearances": 2,
-      "sources": [
-        "뽐뿌",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 20,
-          "title": "광군제는 행사 시작 3분안에 결판이 납니다",
-          "url": "https://www.clien.net/service/board/park/19285591?od=T31&po=0&category=0&groupCd=",
-          "score": 71.88
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 68,
-          "title": "알리 광군제는 완전 국산화가 됐네요",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10172359",
-          "score": 56.86
-        }
-      ],
-      "first_seen": "2026-10-30T16:43:52.462751+09:00",
-      "last_seen": "2026-11-01T04:16:27.039598+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 20,
-      "change": 0
+      "change": -1
     }
   ]
 }
