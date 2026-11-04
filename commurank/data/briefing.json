@@ -2,19 +2,19 @@
   "version": 1,
   "date": "2026-11-05",
   "label": "2026년 11월 05일",
-  "collected_at": "2026-11-05T02:48:14.865734+09:00",
+  "collected_at": "2026-11-05T02:56:56.923494+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘‘리센느’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #무료. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘‘리센느’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #김민석. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 6,
     "cached_sources": 0,
     "realtime_posts": 100,
     "daily_posts": 100,
-    "daily_issues": 8,
-    "keywords": 19,
-    "top100_views": 768261,
-    "top100_comments": 7790
+    "daily_issues": 9,
+    "keywords": 17,
+    "top100_views": 781147,
+    "top100_comments": 7894
   },
   "highlights": [
     {
@@ -25,18 +25,36 @@
     },
     {
       "type": "post",
-      "title": "수탉 납치살해미수 사건 범인들 근황",
+      "title": "내가 대형마트에서 2년 알바하면서 제일 이해 안가던 질문",
       "text": "루리웹에서 현재 상위권에 오른 인기글입니다.",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77274962?m=humor"
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77272996?m=humor"
     },
     {
       "type": "keyword",
-      "title": "#무료",
-      "text": "3개 커뮤니티 · 4개 인기글에서 함께 등장했습니다.",
-      "keyword": "무료"
+      "title": "#김민석",
+      "text": "2개 커뮤니티 · 4개 인기글에서 함께 등장했습니다.",
+      "keyword": "김민석"
     }
   ],
   "top_posts": [
+    {
+      "title": "내가 대형마트에서 2년 알바하면서 제일 이해 안가던 질문",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77272996?m=humor",
+      "first_seen": "2026-11-05T02:48:14.865734+09:00",
+      "last_seen": "2026-11-05T02:56:56.923494+09:00",
+      "peak_score": 97.71,
+      "max_views": 11040,
+      "max_likes": 69,
+      "max_comments": 81,
+      "appearances": 2,
+      "score": 107.91,
+      "views": 11040,
+      "likes": 69,
+      "comments": 81,
+      "change": 2
+    },
     {
       "title": "수탉 납치살해미수 사건 범인들 근황",
       "source": "루리웹",
@@ -49,11 +67,11 @@
       "max_likes": 133,
       "max_comments": 77,
       "appearances": 1,
-      "score": 106.68,
+      "score": 106.66,
       "views": 10298,
       "likes": 133,
       "comments": 77,
-      "change": "NEW"
+      "change": -1
     },
     {
       "title": "미호요 근황..........jpg",
@@ -67,28 +85,46 @@
       "max_likes": 77,
       "max_comments": 119,
       "appearances": 1,
-      "score": 106.41,
+      "score": 106.39,
       "views": 15237,
       "likes": 77,
       "comments": 119,
+      "change": -1
+    },
+    {
+      "title": "마운자로가 진짜 효과 돌긴 했음.",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77274347?m=humor",
+      "first_seen": "2026-11-05T02:56:56.923494+09:00",
+      "last_seen": "2026-11-05T02:56:56.923494+09:00",
+      "peak_score": 95.77,
+      "max_views": 12040,
+      "max_likes": 79,
+      "max_comments": 71,
+      "appearances": 1,
+      "score": 105.16,
+      "views": 12040,
+      "likes": 79,
+      "comments": 71,
       "change": "NEW"
     },
     {
-      "title": "내가 대형마트에서 2년 알바하면서 제일 이해 안가던 질문",
+      "title": "니케 - 이번사태는 상당히 큰거같은데 시각이 다른 유게이가 있네?",
       "source": "루리웹",
       "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77272996?m=humor",
-      "first_seen": "2026-11-05T02:48:14.865734+09:00",
-      "last_seen": "2026-11-05T02:48:14.865734+09:00",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77274915?m=humor",
+      "first_seen": "2026-11-05T02:56:56.923494+09:00",
+      "last_seen": "2026-11-05T02:56:56.923494+09:00",
       "peak_score": 93.84,
-      "max_views": 11040,
-      "max_likes": 69,
-      "max_comments": 81,
+      "max_views": 9759,
+      "max_likes": 85,
+      "max_comments": 77,
       "appearances": 1,
       "score": 103.23,
-      "views": 11040,
-      "likes": 69,
-      "comments": 81,
+      "views": 9759,
+      "likes": 85,
+      "comments": 77,
       "change": "NEW"
     },
     {
@@ -97,17 +133,17 @@
       "category": "이슈",
       "url": "https://www.inven.co.kr/board/webzine/2097/2748913",
       "first_seen": "2026-11-05T02:48:14.865734+09:00",
-      "last_seen": "2026-11-05T02:48:14.865734+09:00",
-      "peak_score": 90.15,
-      "max_views": 2783,
+      "last_seen": "2026-11-05T02:56:56.923494+09:00",
+      "peak_score": 90.55,
+      "max_views": 2932,
       "max_likes": 0,
       "max_comments": 19,
-      "appearances": 1,
-      "score": 99.54,
-      "views": 2783,
+      "appearances": 2,
+      "score": 100.75,
+      "views": 2932,
       "likes": 0,
       "comments": 19,
-      "change": "NEW"
+      "change": -2
     },
     {
       "title": "❗❗❗니케 해킹사태 총정리함❗❗❗",
@@ -115,17 +151,35 @@
       "category": "이슈",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475562&_dcbest=1&page=1",
       "first_seen": "2026-11-04T18:57:48.394871+09:00",
-      "last_seen": "2026-11-05T02:48:14.865734+09:00",
+      "last_seen": "2026-11-05T02:56:56.923494+09:00",
       "peak_score": 83.82,
-      "max_views": 114581,
-      "max_likes": 222,
+      "max_views": 114653,
+      "max_likes": 223,
       "max_comments": 311,
-      "appearances": 2,
-      "score": 94.02,
-      "views": 114581,
-      "likes": 222,
+      "appearances": 3,
+      "score": 94.59,
+      "views": 114653,
+      "likes": 223,
       "comments": 311,
-      "change": 19
+      "change": -2
+    },
+    {
+      "title": "[에픽] 파판7 리메이크, 리버스 각 9000원대",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/market/board/1020/read/108697",
+      "first_seen": "2026-11-05T02:56:56.923494+09:00",
+      "last_seen": "2026-11-05T02:56:56.923494+09:00",
+      "peak_score": 84.61,
+      "max_views": 16032,
+      "max_likes": 16,
+      "max_comments": 36,
+      "appearances": 1,
+      "score": 94.0,
+      "views": 16032,
+      "likes": 16,
+      "comments": 36,
+      "change": "NEW"
     },
     {
       "title": "미장 반도체 대폭락중",
@@ -133,17 +187,17 @@
       "category": "이슈",
       "url": "https://www.clien.net/service/board/park/19287663?od=T31&po=0&category=0&groupCd=",
       "first_seen": "2026-11-05T02:48:14.865734+09:00",
-      "last_seen": "2026-11-05T02:48:14.865734+09:00",
+      "last_seen": "2026-11-05T02:56:56.923494+09:00",
       "peak_score": 78.51,
-      "max_views": 3105,
+      "max_views": 3229,
       "max_likes": 0,
       "max_comments": 6,
-      "appearances": 1,
-      "score": 87.9,
-      "views": 3105,
+      "appearances": 2,
+      "score": 88.71,
+      "views": 3229,
       "likes": 0,
       "comments": 6,
-      "change": "NEW"
+      "change": -3
     },
     {
       "title": "조작기소 특검은 왜 하는건가요 ?",
@@ -151,114 +205,20 @@
       "category": "이슈",
       "url": "https://www.clien.net/service/board/park/19287668?od=T31&po=0&category=0&groupCd=",
       "first_seen": "2026-11-05T02:48:14.865734+09:00",
-      "last_seen": "2026-11-05T02:48:14.865734+09:00",
+      "last_seen": "2026-11-05T02:56:56.923494+09:00",
       "peak_score": 75.74,
-      "max_views": 513,
+      "max_views": 565,
       "max_likes": 0,
-      "max_comments": 33,
-      "appearances": 1,
-      "score": 85.13,
-      "views": 513,
+      "max_comments": 40,
+      "appearances": 2,
+      "score": 85.94,
+      "views": 565,
       "likes": 0,
-      "comments": 33,
-      "change": "NEW"
-    },
-    {
-      "title": "[전문] 특전사 유선민 중령 “12·3 계엄 군인 징계는 정치적 희생양 만들기”…이재명 정",
-      "source": "클리앙",
-      "category": "이슈",
-      "url": "https://www.clien.net/service/board/park/19287669?od=T31&po=0&category=0&groupCd=",
-      "first_seen": "2026-11-05T02:48:14.865734+09:00",
-      "last_seen": "2026-11-05T02:48:14.865734+09:00",
-      "peak_score": 75.4,
-      "max_views": 519,
-      "max_likes": 0,
-      "max_comments": 13,
-      "appearances": 1,
-      "score": 84.79,
-      "views": 519,
-      "likes": 0,
-      "comments": 13,
-      "change": "NEW"
-    },
-    {
-      "title": "리센느 리브 라이브",
-      "source": "인벤",
-      "category": "연예",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2748911",
-      "first_seen": "2026-11-05T02:48:14.865734+09:00",
-      "last_seen": "2026-11-05T02:48:14.865734+09:00",
-      "peak_score": 74.92,
-      "max_views": 839,
-      "max_likes": 4,
-      "max_comments": 0,
-      "appearances": 1,
-      "score": 84.31,
-      "views": 839,
-      "likes": 4,
-      "comments": 0,
-      "change": "NEW"
-    },
-    {
-      "title": "[카카오] 대봉감 소과 10kg (18,390원 / 무배)",
-      "source": "뽐뿌",
-      "category": "이슈",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=745990",
-      "first_seen": "2026-11-05T02:48:14.865734+09:00",
-      "last_seen": "2026-11-05T02:48:14.865734+09:00",
-      "peak_score": 72.88,
-      "max_views": 7885,
-      "max_likes": 0,
-      "max_comments": 6,
-      "appearances": 1,
-      "score": 82.27,
-      "views": 7885,
-      "likes": 0,
-      "comments": 6,
-      "change": "NEW"
+      "comments": 40,
+      "change": -3
     }
   ],
   "rising": [
-    {
-      "source": "루리웹",
-      "title": "수탉 납치살해미수 사건 범인들 근황",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77274962?m=humor",
-      "category": "이슈",
-      "views": 10298,
-      "likes": 133,
-      "comments": 77,
-      "score": 97.29,
-      "change": "NEW",
-      "current_rank": 1,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 82.86,
-      "rising_rank": 1,
-      "window_minutes": 470
-    },
-    {
-      "source": "루리웹",
-      "title": "미호요 근황..........jpg",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77274087?m=humor",
-      "category": "이슈",
-      "views": 15237,
-      "likes": 77,
-      "comments": 119,
-      "score": 97.02,
-      "change": "NEW",
-      "current_rank": 2,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 82.75,
-      "rising_rank": 2,
-      "window_minutes": 470
-    },
     {
       "source": "루리웹",
       "title": "내가 대형마트에서 2년 알바하면서 제일 이해 안가던 질문",
@@ -267,157 +227,197 @@
       "views": 11040,
       "likes": 69,
       "comments": 81,
-      "score": 93.84,
-      "change": "NEW",
-      "current_rank": 3,
-      "new_entry": true,
+      "score": 97.71,
+      "change": 2,
+      "current_rank": 1,
+      "new_entry": false,
       "delta_views": 0,
       "delta_likes": 0,
       "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 81.41,
-      "rising_rank": 3,
-      "window_minutes": 470
+      "rank_gain": 2,
+      "rising_score": 100.0,
+      "rising_rank": 1,
+      "window_minutes": 9
     },
     {
       "source": "인벤",
       "title": "혐주의)세종포천고속도로 사고영상",
       "url": "https://www.inven.co.kr/board/webzine/2097/2748913",
       "category": "이슈",
-      "views": 2783,
+      "views": 2932,
       "likes": 0,
       "comments": 19,
-      "score": 90.15,
-      "change": "NEW",
+      "score": 90.55,
+      "change": 0,
       "current_rank": 4,
-      "new_entry": true,
-      "delta_views": 0,
+      "new_entry": false,
+      "delta_views": 149,
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 79.86,
-      "rising_rank": 4,
-      "window_minutes": 470
+      "rising_score": 98.0,
+      "rising_rank": 2,
+      "window_minutes": 9
+    },
+    {
+      "source": "인벤",
+      "title": "'GTA 6' 사전 판매량 및 매출 근황",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2748917",
+      "category": "게임",
+      "views": 712,
+      "likes": 0,
+      "comments": 1,
+      "score": 65.25,
+      "change": 7,
+      "current_rank": 22,
+      "new_entry": false,
+      "delta_views": 82,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 7,
+      "rising_score": 93.14,
+      "rising_rank": 3,
+      "window_minutes": 9
     },
     {
       "source": "클리앙",
       "title": "미장 반도체 대폭락중",
       "url": "https://www.clien.net/service/board/park/19287663?od=T31&po=0&category=0&groupCd=",
       "category": "이슈",
-      "views": 3105,
+      "views": 3229,
       "likes": 0,
       "comments": 6,
       "score": 78.51,
-      "change": "NEW",
-      "current_rank": 5,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 74.97,
-      "rising_rank": 5,
-      "window_minutes": 470
-    },
-    {
-      "source": "클리앙",
-      "title": "조작기소 특검은 왜 하는건가요 ?",
-      "url": "https://www.clien.net/service/board/park/19287668?od=T31&po=0&category=0&groupCd=",
-      "category": "이슈",
-      "views": 513,
-      "likes": 0,
-      "comments": 33,
-      "score": 75.74,
-      "change": "NEW",
+      "change": 0,
       "current_rank": 6,
-      "new_entry": true,
-      "delta_views": 0,
+      "new_entry": false,
+      "delta_views": 124,
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 73.81,
-      "rising_rank": 6,
-      "window_minutes": 470
-    },
-    {
-      "source": "클리앙",
-      "title": "[전문] 특전사 유선민 중령 “12·3 계엄 군인 징계는 정치적 희생양 만들기”…이재명 정",
-      "url": "https://www.clien.net/service/board/park/19287669?od=T31&po=0&category=0&groupCd=",
-      "category": "이슈",
-      "views": 519,
-      "likes": 0,
-      "comments": 13,
-      "score": 75.4,
-      "change": "NEW",
-      "current_rank": 7,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 73.67,
-      "rising_rank": 7,
-      "window_minutes": 470
-    },
-    {
-      "source": "인벤",
-      "title": "리센느 리브 라이브",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2748911",
-      "category": "연예",
-      "views": 839,
-      "likes": 4,
-      "comments": 0,
-      "score": 74.92,
-      "change": "NEW",
-      "current_rank": 8,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 73.47,
-      "rising_rank": 8,
-      "window_minutes": 470
+      "rising_score": 91.67,
+      "rising_rank": 4,
+      "window_minutes": 9
     },
     {
       "source": "뽐뿌",
-      "title": "[카카오] 대봉감 소과 10kg (18,390원 / 무배)",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=745990",
+      "title": "현재) 난리난 중국 마라톤 대회 근황 ㄷㄷ.gif",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10176817",
       "category": "이슈",
-      "views": 7885,
-      "likes": 0,
-      "comments": 6,
-      "score": 72.88,
-      "change": "NEW",
-      "current_rank": 9,
-      "new_entry": true,
-      "delta_views": 0,
+      "views": 15183,
+      "likes": 3,
+      "comments": 35,
+      "score": 52.23,
+      "change": 0,
+      "current_rank": 96,
+      "new_entry": false,
+      "delta_views": 357,
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 72.61,
-      "rising_rank": 9,
-      "window_minutes": 470
+      "rising_score": 87.5,
+      "rising_rank": 5,
+      "window_minutes": 9
     },
     {
       "source": "디시인사이드",
       "title": "싱글벙글 할아버지 10대 시절 레전드",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475698&_dcbest=1&page=1",
       "category": "유머",
-      "views": 5533,
-      "likes": 64,
-      "comments": 107,
-      "score": 72.79,
-      "change": "NEW",
-      "current_rank": 10,
-      "new_entry": true,
-      "delta_views": 0,
+      "views": 5974,
+      "likes": 70,
+      "comments": 117,
+      "score": 74.97,
+      "change": 1,
+      "current_rank": 9,
+      "new_entry": false,
+      "delta_views": 441,
+      "delta_likes": 6,
+      "delta_comments": 10,
+      "rank_gain": 1,
+      "rising_score": 86.51,
+      "rising_rank": 6,
+      "window_minutes": 9
+    },
+    {
+      "source": "인벤",
+      "title": "아이폰 듀오 대참사",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2748891",
+      "category": "이슈",
+      "views": 2737,
+      "likes": 0,
+      "comments": 14,
+      "score": 60.29,
+      "change": 0,
+      "current_rank": 58,
+      "new_entry": false,
+      "delta_views": 71,
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 72.57,
+      "rising_score": 86.0,
+      "rising_rank": 7,
+      "window_minutes": 9
+    },
+    {
+      "source": "인벤",
+      "title": "ㅇㅎ?)여의도 알바생.gif",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2748882",
+      "category": "이슈",
+      "views": 6719,
+      "likes": 3,
+      "comments": 18,
+      "score": 52.88,
+      "change": 2,
+      "current_rank": 91,
+      "new_entry": false,
+      "delta_views": 74,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 2,
+      "rising_score": 83.38,
+      "rising_rank": 8,
+      "window_minutes": 9
+    },
+    {
+      "source": "클리앙",
+      "title": "알래스카 투표 상황",
+      "url": "https://www.clien.net/service/board/park/19287659?od=T31&po=0&category=0&groupCd=",
+      "category": "이슈",
+      "views": 2459,
+      "likes": 1,
+      "comments": 5,
+      "score": 63.61,
+      "change": 3,
+      "current_rank": 35,
+      "new_entry": false,
+      "delta_views": 86,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 3,
+      "rising_score": 82.95,
+      "rising_rank": 9,
+      "window_minutes": 9
+    },
+    {
+      "source": "클리앙",
+      "title": "[전문] 특전사 유선민 중령 “12·3 계엄 군인 징계는 정치적 희생양 만들기”…이재명 정",
+      "url": "https://www.clien.net/service/board/park/19287669?od=T31&po=0&category=0&groupCd=",
+      "category": "이슈",
+      "views": 646,
+      "likes": 0,
+      "comments": 15,
+      "score": 75.4,
+      "change": 0,
+      "current_rank": 8,
+      "new_entry": false,
+      "delta_views": 127,
+      "delta_likes": 0,
+      "delta_comments": 2,
+      "rank_gain": 0,
+      "rising_score": 82.69,
       "rising_rank": 10,
-      "window_minutes": 470
+      "window_minutes": 9
     }
   ],
   "issues": [
@@ -429,9 +429,9 @@
       ],
       "source_count": 2,
       "post_count": 3,
-      "score": 95.39,
+      "score": 97.41,
       "peak_score": 84.92,
-      "appearances": 1,
+      "appearances": 2,
       "sources": [
         "인벤",
         "클리앙"
@@ -439,21 +439,21 @@
       "posts": [
         {
           "source": "인벤",
-          "rank": 8,
+          "rank": 10,
           "title": "리센느 리브 라이브",
           "url": "https://www.inven.co.kr/board/webzine/2097/2748911",
           "score": 74.92
         },
         {
           "source": "클리앙",
-          "rank": 54,
+          "rank": 55,
           "title": "리센느 빵 드디어 먹어볼 수 있나요?!",
           "url": "https://www.clien.net/service/board/park/19287671?od=T31&po=0&category=0&groupCd=",
           "score": 60.67
         }
       ],
       "first_seen": "2026-09-27T12:58:49.050910+09:00",
-      "last_seen": "2026-11-05T02:48:14.865734+09:00",
+      "last_seen": "2026-11-05T02:56:56.923494+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 1,
@@ -467,9 +467,9 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 93.87,
+      "score": 95.89,
       "peak_score": 84.4,
-      "appearances": 1,
+      "appearances": 2,
       "sources": [
         "인벤",
         "클리앙"
@@ -477,25 +477,63 @@
       "posts": [
         {
           "source": "클리앙",
-          "rank": 7,
+          "rank": 8,
           "title": "[전문] 특전사 유선민 중령 “12·3 계엄 군인 징계는 정치적 희생양 만들기”…이재명 정",
           "url": "https://www.clien.net/service/board/park/19287669?od=T31&po=0&category=0&groupCd=",
           "score": 75.4
         },
         {
           "source": "인벤",
-          "rank": 89,
+          "rank": 81,
           "title": "이진숙, 유선민 중령 '내란'이라 말하면 진급, 군 역사에 치부.기자회견 공유",
           "url": "https://www.inven.co.kr/board/webzine/2097/2748899",
-          "score": 53.46
+          "score": 54.96
         }
       ],
       "first_seen": "2026-11-05T02:48:14.865734+09:00",
-      "last_seen": "2026-11-05T02:48:14.865734+09:00",
+      "last_seen": "2026-11-05T02:56:56.923494+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 2,
-      "change": "NEW"
+      "change": 0
+    },
+    {
+      "id": "i01009091",
+      "title": "‘김민석’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "김민석"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 94.82,
+      "peak_score": 82.33,
+      "appearances": 2,
+      "sources": [
+        "뽐뿌",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 11,
+          "title": "김민석 \" '당 통합'에 매진하겠다\"",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10175766",
+          "score": 72.33
+        },
+        {
+          "source": "클리앙",
+          "rank": 14,
+          "title": "김민석 대표가 내란 의심 한거하고 신천지 의심은 비슷한 맥락이라 생각해요.",
+          "url": "https://www.clien.net/service/board/park/19287658?od=T31&po=0&category=0&groupCd=",
+          "score": 68.74
+        }
+      ],
+      "first_seen": "2026-10-07T09:11:43.132658+09:00",
+      "last_seen": "2026-11-05T02:56:56.923494+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 3,
+      "rank": 3,
+      "change": 1
     },
     {
       "id": "ib6978d90",
@@ -505,9 +543,9 @@
       ],
       "source_count": 3,
       "post_count": 3,
-      "score": 92.2,
+      "score": 94.22,
       "peak_score": 77.73,
-      "appearances": 1,
+      "appearances": 2,
       "sources": [
         "디시인사이드",
         "뽐뿌",
@@ -523,7 +561,7 @@
         },
         {
           "source": "디시인사이드",
-          "rank": 91,
+          "rank": 88,
           "title": "마라톤 중 숨진 20대女 유족, 목격자 찾는다..jpg",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475577&_dcbest=1&page=1",
           "score": 53.23
@@ -537,49 +575,11 @@
         }
       ],
       "first_seen": "2026-10-06T11:19:29.813850+09:00",
-      "last_seen": "2026-11-05T02:48:14.865734+09:00",
+      "last_seen": "2026-11-05T02:56:56.923494+09:00",
       "latest_source_count": 3,
       "latest_post_count": 3,
-      "rank": 3,
-      "change": "NEW"
-    },
-    {
-      "id": "i01009091",
-      "title": "‘김민석’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "김민석"
-      ],
-      "source_count": 2,
-      "post_count": 3,
-      "score": 92.2,
-      "peak_score": 81.73,
-      "appearances": 1,
-      "sources": [
-        "뽐뿌",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 11,
-          "title": "김민석 \" '당 통합'에 매진하겠다\"",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10175766",
-          "score": 71.73
-        },
-        {
-          "source": "클리앙",
-          "rank": 16,
-          "title": "김민석 대표가 내란 의심 한거하고 신천지 의심은 비슷한 맥락이라 생각해요.",
-          "url": "https://www.clien.net/service/board/park/19287658?od=T31&po=0&category=0&groupCd=",
-          "score": 68.74
-        }
-      ],
-      "first_seen": "2026-10-07T09:11:43.132658+09:00",
-      "last_seen": "2026-11-05T02:48:14.865734+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 3,
       "rank": 4,
-      "change": 7
+      "change": -1
     },
     {
       "id": "ib85b481b",
@@ -617,7 +617,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 5,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i36ddd5fd",
@@ -627,9 +627,9 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 84.98,
+      "score": 87.0,
       "peak_score": 75.51,
-      "appearances": 1,
+      "appearances": 2,
       "sources": [
         "인벤",
         "클리앙"
@@ -637,25 +637,25 @@
       "posts": [
         {
           "source": "클리앙",
-          "rank": 20,
+          "rank": 19,
           "title": "민주당은 김민석으로 끝났다고 봅니다.",
           "url": "https://www.clien.net/service/board/park/19287649?od=T31&po=0&category=0&groupCd=",
           "score": 66.51
         },
         {
           "source": "인벤",
-          "rank": 62,
+          "rank": 63,
           "title": "“민주당은 하나일 때 이겼고, 분열했을 때 패했다”",
           "url": "https://www.inven.co.kr/board/webzine/2097/2748887",
           "score": 59.15
         }
       ],
       "first_seen": "2026-09-30T08:46:44.153676+09:00",
-      "last_seen": "2026-11-05T02:48:14.865734+09:00",
+      "last_seen": "2026-11-05T02:56:56.923494+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 6,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i0cdcc665",
@@ -665,9 +665,9 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 78.76,
+      "score": 80.78,
       "peak_score": 69.29,
-      "appearances": 1,
+      "appearances": 2,
       "sources": [
         "디시인사이드",
         "인벤"
@@ -675,25 +675,25 @@
       "posts": [
         {
           "source": "인벤",
-          "rank": 57,
+          "rank": 58,
           "title": "아이폰 듀오 대참사",
           "url": "https://www.inven.co.kr/board/webzine/2097/2748891",
           "score": 60.29
         },
         {
           "source": "디시인사이드",
-          "rank": 68,
+          "rank": 69,
           "title": "IP68이라는 아이폰 듀오가 먼지를 얼마나 막아주는지 방진 실험",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475686&_dcbest=1&page=1",
           "score": 57.86
         }
       ],
       "first_seen": "2026-10-17T02:58:12.116264+09:00",
-      "last_seen": "2026-11-05T02:48:14.865734+09:00",
+      "last_seen": "2026-11-05T02:56:56.923494+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 7,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "ife021da2",
@@ -703,9 +703,9 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 78.6,
+      "score": 80.62,
       "peak_score": 69.13,
-      "appearances": 1,
+      "appearances": 2,
       "sources": [
         "디시인사이드",
         "뽐뿌"
@@ -713,7 +713,7 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 58,
+          "rank": 60,
           "title": "싱글벙글 현재 인도네시아 난리난 이유",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475610&_dcbest=1&page=1",
           "score": 60.13
@@ -727,10 +727,48 @@
         }
       ],
       "first_seen": "2026-09-29T11:40:38.000414+09:00",
-      "last_seen": "2026-11-05T02:48:14.865734+09:00",
+      "last_seen": "2026-11-05T02:56:56.923494+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 8,
+      "change": 0
+    },
+    {
+      "id": "i73215f7c",
+      "title": "‘얼마나’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "얼마나"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 76.33,
+      "peak_score": 66.86,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 69,
+          "title": "IP68이라는 아이폰 듀오가 먼지를 얼마나 막아주는지 방진 실험",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475686&_dcbest=1&page=1",
+          "score": 57.86
+        },
+        {
+          "source": "루리웹",
+          "rank": 94,
+          "title": "알렉산더 대왕이 얼마나 미친 천재인지 유목민 상대로 보여준 전투",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77275270?m=humor_only&t=now",
+          "score": 52.43
+        }
+      ],
+      "first_seen": "2026-10-15T18:22:11.215736+09:00",
+      "last_seen": "2026-11-05T02:56:56.923494+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 9,
       "change": "NEW"
     }
   ],
@@ -761,7 +799,7 @@
         },
         {
           "source": "디시인사이드",
-          "rank": 91,
+          "rank": 88,
           "title": "마라톤 중 숨진 20대女 유족, 목격자 찾는다..jpg",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475577&_dcbest=1&page=1",
           "score": 53.23
@@ -775,7 +813,7 @@
         }
       ],
       "rank": 1,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i2272efa7",
@@ -795,21 +833,21 @@
       "posts": [
         {
           "source": "인벤",
-          "rank": 8,
+          "rank": 10,
           "title": "리센느 리브 라이브",
           "url": "https://www.inven.co.kr/board/webzine/2097/2748911",
           "score": 74.92
         },
         {
           "source": "클리앙",
-          "rank": 54,
+          "rank": 55,
           "title": "리센느 빵 드디어 먹어볼 수 있나요?!",
           "url": "https://www.clien.net/service/board/park/19287671?od=T31&po=0&category=0&groupCd=",
           "score": 60.67
         }
       ],
       "rank": 2,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i01009091",
@@ -819,8 +857,8 @@
       ],
       "source_count": 2,
       "post_count": 3,
-      "score": 81.73,
-      "peak_score": 81.73,
+      "score": 82.33,
+      "peak_score": 82.33,
       "appearances": 1,
       "sources": [
         "뽐뿌",
@@ -832,18 +870,18 @@
           "rank": 11,
           "title": "김민석 \" '당 통합'에 매진하겠다\"",
           "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10175766",
-          "score": 71.73
+          "score": 72.33
         },
         {
           "source": "클리앙",
-          "rank": 16,
+          "rank": 14,
           "title": "김민석 대표가 내란 의심 한거하고 신천지 의심은 비슷한 맥락이라 생각해요.",
           "url": "https://www.clien.net/service/board/park/19287658?od=T31&po=0&category=0&groupCd=",
           "score": 68.74
         }
       ],
       "rank": 3,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i1a43d719",
@@ -863,55 +901,21 @@
       "posts": [
         {
           "source": "클리앙",
-          "rank": 7,
+          "rank": 8,
           "title": "[전문] 특전사 유선민 중령 “12·3 계엄 군인 징계는 정치적 희생양 만들기”…이재명 정",
           "url": "https://www.clien.net/service/board/park/19287669?od=T31&po=0&category=0&groupCd=",
           "score": 75.4
         },
         {
           "source": "인벤",
-          "rank": 89,
+          "rank": 81,
           "title": "이진숙, 유선민 중령 '내란'이라 말하면 진급, 군 역사에 치부.기자회견 공유",
           "url": "https://www.inven.co.kr/board/webzine/2097/2748899",
-          "score": 53.46
+          "score": 54.96
         }
       ],
       "rank": 4,
-      "change": "NEW"
-    },
-    {
-      "id": "ib85b481b",
-      "title": "‘지마켓’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "지마켓"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 78.61,
-      "peak_score": 78.61,
-      "appearances": 1,
-      "sources": [
-        "루리웹",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 14,
-          "title": "[지마켓] 크라운 쿠크다스 쵸코케이크 202G 6개 (20,560원/무료)",
-          "url": "https://bbs.ruliweb.com/market/board/1020/read/108692",
-          "score": 69.61
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 88,
-          "title": "[지마켓] 키즈 멀티비타민 꾸미 어린이 비타민 영양제 2박스+멀티꾸미 파우치 2개 (22,990원/무료)",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=745924",
-          "score": 53.49
-        }
-      ],
-      "rank": 5,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i36ddd5fd",
@@ -931,21 +935,21 @@
       "posts": [
         {
           "source": "클리앙",
-          "rank": 20,
+          "rank": 19,
           "title": "민주당은 김민석으로 끝났다고 봅니다.",
           "url": "https://www.clien.net/service/board/park/19287649?od=T31&po=0&category=0&groupCd=",
           "score": 66.51
         },
         {
           "source": "인벤",
-          "rank": 62,
+          "rank": 63,
           "title": "“민주당은 하나일 때 이겼고, 분열했을 때 패했다”",
           "url": "https://www.inven.co.kr/board/webzine/2097/2748887",
           "score": 59.15
         }
       ],
-      "rank": 6,
-      "change": "NEW"
+      "rank": 5,
+      "change": 1
     },
     {
       "id": "i0cdcc665",
@@ -965,21 +969,21 @@
       "posts": [
         {
           "source": "인벤",
-          "rank": 57,
+          "rank": 58,
           "title": "아이폰 듀오 대참사",
           "url": "https://www.inven.co.kr/board/webzine/2097/2748891",
           "score": 60.29
         },
         {
           "source": "디시인사이드",
-          "rank": 68,
+          "rank": 69,
           "title": "IP68이라는 아이폰 듀오가 먼지를 얼마나 막아주는지 방진 실험",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475686&_dcbest=1&page=1",
           "score": 57.86
         }
       ],
-      "rank": 7,
-      "change": "NEW"
+      "rank": 6,
+      "change": 1
     },
     {
       "id": "ife021da2",
@@ -999,7 +1003,7 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 58,
+          "rank": 60,
           "title": "싱글벙글 현재 인도네시아 난리난 이유",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475610&_dcbest=1&page=1",
           "score": 60.13
@@ -1012,29 +1016,48 @@
           "score": 52.23
         }
       ],
+      "rank": 7,
+      "change": 1
+    },
+    {
+      "id": "i73215f7c",
+      "title": "‘얼마나’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "얼마나"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 66.86,
+      "peak_score": 66.86,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 69,
+          "title": "IP68이라는 아이폰 듀오가 먼지를 얼마나 막아주는지 방진 실험",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475686&_dcbest=1&page=1",
+          "score": 57.86
+        },
+        {
+          "source": "루리웹",
+          "rank": 94,
+          "title": "알렉산더 대왕이 얼마나 미친 천재인지 유목민 상대로 보여준 전투",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77275270?m=humor_only&t=now",
+          "score": 52.43
+        }
+      ],
       "rank": 8,
       "change": "NEW"
     }
   ],
   "keywords": [
     {
-      "keyword": "무료",
-      "score": 121.77,
-      "post_count": 4,
-      "source_count": 3,
-      "best_rank": 14,
-      "sources": [
-        "루리웹",
-        "뽐뿌",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 1,
-      "change": 11
-    },
-    {
       "keyword": "김민석",
-      "score": 109.95,
+      "score": 110.17,
       "post_count": 4,
       "source_count": 2,
       "best_rank": 11,
@@ -1043,12 +1066,12 @@
         "클리앙"
       ],
       "aliases": [],
-      "rank": 2,
-      "change": "NEW"
+      "rank": 1,
+      "change": 1
     },
     {
       "keyword": "마라톤",
-      "score": 107.55,
+      "score": 107.79,
       "post_count": 3,
       "source_count": 3,
       "best_rank": 53,
@@ -1058,43 +1081,43 @@
         "클리앙"
       ],
       "aliases": [],
-      "rank": 3,
-      "change": "NEW"
+      "rank": 2,
+      "change": 1
     },
     {
       "keyword": "리센느",
-      "score": 102.0,
+      "score": 100.9,
       "post_count": 3,
       "source_count": 2,
-      "best_rank": 8,
+      "best_rank": 10,
       "sources": [
         "인벤",
         "클리앙"
       ],
       "aliases": [],
-      "rank": 4,
-      "change": "NEW"
+      "rank": 3,
+      "change": 1
     },
     {
       "keyword": "중국",
-      "score": 93.36,
+      "score": 94.09,
       "post_count": 3,
       "source_count": 2,
-      "best_rank": 22,
+      "best_rank": 20,
       "sources": [
         "디시인사이드",
         "뽐뿌"
       ],
       "aliases": [],
-      "rank": 5,
-      "change": "NEW"
+      "rank": 4,
+      "change": 1
     },
     {
       "keyword": "유선민",
-      "score": 93.31,
+      "score": 94.01,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 7,
+      "best_rank": 8,
       "sources": [
         "인벤",
         "클리앙"
@@ -1102,54 +1125,54 @@
       "aliases": [
         "중령"
       ],
-      "rank": 6,
-      "change": "NEW"
+      "rank": 5,
+      "change": 1
     },
     {
       "keyword": "예정",
-      "score": 92.75,
+      "score": 93.3,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 18,
+      "best_rank": 17,
       "sources": [
         "디시인사이드",
         "인벤"
       ],
       "aliases": [],
-      "rank": 7,
-      "change": "NEW"
+      "rank": 6,
+      "change": 1
     },
     {
       "keyword": "민주당",
-      "score": 89.99,
+      "score": 90.34,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 20,
+      "best_rank": 19,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 7,
+      "change": 1
+    },
+    {
+      "keyword": "내란",
+      "score": 90.26,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 14,
       "sources": [
         "인벤",
         "클리앙"
       ],
       "aliases": [],
       "rank": 8,
-      "change": "NEW"
+      "change": 2
     },
     {
-      "keyword": "지마켓",
-      "score": 89.33,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 14,
-      "sources": [
-        "루리웹",
-        "뽐뿌"
-      ],
-      "aliases": [],
-      "rank": 9,
-      "change": "NEW"
-    },
-    {
-      "keyword": "내란",
-      "score": 88.15,
+      "keyword": "게임",
+      "score": 88.88,
       "post_count": 2,
       "source_count": 2,
       "best_rank": 16,
@@ -1158,40 +1181,40 @@
         "클리앙"
       ],
       "aliases": [],
-      "rank": 10,
-      "change": "NEW"
-    },
-    {
-      "keyword": "게임",
-      "score": 86.53,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 21,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 11,
-      "change": "NEW"
+      "rank": 9,
+      "change": 2
     },
     {
       "keyword": "이상",
-      "score": 86.05,
+      "score": 86.03,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 49,
+      "best_rank": 47,
       "sources": [
         "디시인사이드",
         "클리앙"
       ],
       "aliases": [],
-      "rank": 12,
-      "change": "NEW"
+      "rank": 10,
+      "change": 2
+    },
+    {
+      "keyword": "무료",
+      "score": 85.69,
+      "post_count": 3,
+      "source_count": 2,
+      "best_rank": 68,
+      "sources": [
+        "뽐뿌",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 11,
+      "change": -10
     },
     {
       "keyword": "아직",
-      "score": 85.27,
+      "score": 85.08,
       "post_count": 2,
       "source_count": 2,
       "best_rank": 39,
@@ -1200,15 +1223,15 @@
         "클리앙"
       ],
       "aliases": [],
-      "rank": 13,
-      "change": "NEW"
+      "rank": 12,
+      "change": 1
     },
     {
       "keyword": "아이폰",
-      "score": 83.78,
+      "score": 83.54,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 57,
+      "best_rank": 58,
       "sources": [
         "디시인사이드",
         "인벤"
@@ -1216,39 +1239,53 @@
       "aliases": [
         "듀오"
       ],
-      "rank": 14,
-      "change": "NEW"
+      "rank": 13,
+      "change": 1
     },
     {
-      "keyword": "얼마나",
-      "score": 80.33,
+      "keyword": "대회",
+      "score": 80.17,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 68,
+      "best_rank": 53,
+      "sources": [
+        "뽐뿌",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 14,
+      "change": 2
+    },
+    {
+      "keyword": "난리난",
+      "score": 79.25,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 60,
       "sources": [
         "디시인사이드",
-        "루리웹"
+        "뽐뿌"
       ],
       "aliases": [],
       "rank": 15,
-      "change": "NEW"
+      "change": 2
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "수탉 납치살해미수 사건 범인들 근황",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77274962?m=humor",
-      "score": 97.29,
-      "views": 10298,
-      "comments": 77
+      "title": "내가 대형마트에서 2년 알바하면서 제일 이해 안가던 질문",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77272996?m=humor",
+      "score": 97.71,
+      "views": 11040,
+      "comments": 81
     },
     {
       "source": "인벤",
       "title": "혐주의)세종포천고속도로 사고영상",
       "url": "https://www.inven.co.kr/board/webzine/2097/2748913",
-      "score": 90.15,
-      "views": 2783,
+      "score": 90.55,
+      "views": 2932,
       "comments": 19
     },
     {
@@ -1256,32 +1293,32 @@
       "title": "미장 반도체 대폭락중",
       "url": "https://www.clien.net/service/board/park/19287663?od=T31&po=0&category=0&groupCd=",
       "score": 78.51,
-      "views": 3105,
-      "comments": 6
-    },
-    {
-      "source": "뽐뿌",
-      "title": "[카카오] 대봉감 소과 10kg (18,390원 / 무배)",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=745990",
-      "score": 72.88,
-      "views": 7885,
+      "views": 3229,
       "comments": 6
     },
     {
       "source": "디시인사이드",
       "title": "싱글벙글 할아버지 10대 시절 레전드",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475698&_dcbest=1&page=1",
-      "score": 72.79,
-      "views": 5533,
-      "comments": 107
+      "score": 74.97,
+      "views": 5974,
+      "comments": 117
+    },
+    {
+      "source": "뽐뿌",
+      "title": "김민석 \" '당 통합'에 매진하겠다\"",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10175766",
+      "score": 72.33,
+      "views": 7956,
+      "comments": 57
     },
     {
       "source": "더쿠",
       "title": "남친 어머니 4혼하셨다는데 이걸로 헤어지면 속물이야?",
       "url": "https://theqoo.net/hot/4396208573",
       "score": 71.53,
-      "views": 26993,
-      "comments": 305
+      "views": 28005,
+      "comments": 308
     }
   ]
 }
