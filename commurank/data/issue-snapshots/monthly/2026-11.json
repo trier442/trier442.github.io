@@ -3,7 +3,7 @@
   "period": "monthly",
   "key": "2026-11",
   "label": "2026년 11월",
-  "collected_at": "2026-11-04T18:57:48.394871+09:00",
+  "collected_at": "2026-11-05T02:48:14.865734+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -14,9 +14,9 @@
       ],
       "source_count": 4,
       "post_count": 6,
-      "score": 127.38,
+      "score": 128.29,
       "peak_score": 101.33,
-      "appearances": 4,
+      "appearances": 5,
       "sources": [
         "더쿠",
         "디시인사이드",
@@ -26,24 +26,24 @@
       ],
       "posts": [
         {
-          "source": "뽐뿌",
-          "rank": 6,
-          "title": "리센느 미쳤나 진짜..ㄷㄷ",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10175471",
-          "score": 78.57
+          "source": "인벤",
+          "rank": 8,
+          "title": "리센느 리브 라이브",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2748911",
+          "score": 74.92
         },
         {
-          "source": "인벤",
-          "rank": 52,
-          "title": "여기도 리센느, 저기도 리센느",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2748463",
-          "score": 62.68
+          "source": "클리앙",
+          "rank": 54,
+          "title": "리센느 빵 드디어 먹어볼 수 있나요?!",
+          "url": "https://www.clien.net/service/board/park/19287671?od=T31&po=0&category=0&groupCd=",
+          "score": 60.67
         }
       ],
       "first_seen": "2026-09-27T12:58:49.050910+09:00",
-      "last_seen": "2026-11-04T02:44:21.160174+09:00",
+      "last_seen": "2026-11-05T02:48:14.865734+09:00",
       "latest_source_count": 2,
-      "latest_post_count": 4,
+      "latest_post_count": 3,
       "rank": 1,
       "change": 0
     },
@@ -124,6 +124,45 @@
       "change": 0
     },
     {
+      "id": "ife021da2",
+      "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "난리난"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 112.58,
+      "peak_score": 100.09,
+      "appearances": 2,
+      "sources": [
+        "디시인사이드",
+        "루리웹",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 58,
+          "title": "싱글벙글 현재 인도네시아 난리난 이유",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475610&_dcbest=1&page=1",
+          "score": 60.13
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 96,
+          "title": "현재) 난리난 중국 마라톤 대회 근황 ㄷㄷ.gif",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10176817",
+          "score": 52.23
+        }
+      ],
+      "first_seen": "2026-09-29T11:40:38.000414+09:00",
+      "last_seen": "2026-11-05T02:48:14.865734+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 4,
+      "change": 1
+    },
+    {
       "id": "i56f3e6c5",
       "title": "헬스장 벤치프레스 사망사건 2심 결과",
       "keywords": [
@@ -158,44 +197,6 @@
       "last_seen": "2026-11-04T18:57:48.394871+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 4,
-      "change": "NEW"
-    },
-    {
-      "id": "ife021da2",
-      "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "난리난"
-      ],
-      "source_count": 2,
-      "post_count": 3,
-      "score": 110.56,
-      "peak_score": 100.09,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "루리웹"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 3,
-          "title": "난리난 현지 독일 상황",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77231303?m=humor",
-          "score": 90.09
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 40,
-          "title": "홍대 사탕 나눠줘서 난리난 인형탈남 근황 ㄷ",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474653&_dcbest=1&page=1",
-          "score": 63.78
-        }
-      ],
-      "first_seen": "2026-09-29T11:40:38.000414+09:00",
-      "last_seen": "2026-11-01T10:25:13.327785+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 3,
       "rank": 5,
       "change": -1
     },
@@ -235,7 +236,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 6,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i2af08ac5",
@@ -273,7 +274,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 7,
-      "change": -1
+      "change": 0
     },
     {
       "id": "ie3fc87c2",
@@ -311,7 +312,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 8,
-      "change": -1
+      "change": 0
     },
     {
       "id": "ieef61a46",
@@ -358,7 +359,7 @@
       "latest_source_count": 3,
       "latest_post_count": 3,
       "rank": 9,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "idc85f2a1",
@@ -397,7 +398,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 10,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i03005878",
@@ -436,7 +437,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 11,
-      "change": -3
+      "change": 0
     },
     {
       "id": "iaf5a26c0",
@@ -474,7 +475,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 12,
-      "change": -3
+      "change": 0
     },
     {
       "id": "iead2b930",
@@ -512,7 +513,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 13,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i4a23876e",
@@ -553,7 +554,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 14,
-      "change": -4
+      "change": 0
     },
     {
       "id": "i039fd79c",
@@ -592,7 +593,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 15,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i53a2e4b6",
@@ -630,7 +631,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 16,
-      "change": -5
+      "change": 0
     },
     {
       "id": "i4c8bdd1e",
@@ -669,7 +670,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 17,
-      "change": -5
+      "change": 0
     },
     {
       "id": "ifc264642",
@@ -707,7 +708,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 18,
-      "change": -5
+      "change": 0
     },
     {
       "id": "ic24684b3",
@@ -745,7 +746,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 19,
-      "change": -5
+      "change": 0
     },
     {
       "id": "i52db8d08",
@@ -783,7 +784,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 20,
-      "change": -5
+      "change": 0
     }
   ]
 }
