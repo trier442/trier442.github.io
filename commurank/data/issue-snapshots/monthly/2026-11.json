@@ -3,7 +3,7 @@
   "period": "monthly",
   "key": "2026-11",
   "label": "2026년 11월",
-  "collected_at": "2026-11-05T02:56:56.923494+09:00",
+  "collected_at": "2026-11-05T08:12:16.179168+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -86,6 +86,44 @@
       "change": 0
     },
     {
+      "id": "i7b918478",
+      "title": "‘일본이’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "일본이"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 116.18,
+      "peak_score": 106.71,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 1,
+          "title": "일본이 16세이하 SNS금지법 시행 요구 하는이유",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77275164?m=humor",
+          "score": 97.71
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 80,
+          "title": "싱글벙글 일본이 거렁뱅이 나라라는 트위터리안",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475653&_dcbest=1&page=1",
+          "score": 55.93
+        }
+      ],
+      "first_seen": "2026-10-03T04:55:10.124887+09:00",
+      "last_seen": "2026-11-05T08:12:16.179168+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 3,
+      "change": "NEW"
+    },
+    {
       "id": "ife021da2",
       "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -121,8 +159,8 @@
       "last_seen": "2026-11-05T02:56:56.923494+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 3,
-      "change": 1
+      "rank": 4,
+      "change": -1
     },
     {
       "id": "ia4c7959d",
@@ -159,7 +197,7 @@
       "last_seen": "2026-11-04T07:34:46.463759+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 4,
+      "rank": 5,
       "change": -1
     },
     {
@@ -197,8 +235,8 @@
       "last_seen": "2026-11-04T18:57:48.394871+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
-      "change": 0
+      "rank": 6,
+      "change": -1
     },
     {
       "id": "i5d6688ff",
@@ -235,8 +273,8 @@
       "last_seen": "2026-11-03T05:16:01.731609+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
-      "change": 0
+      "rank": 7,
+      "change": -1
     },
     {
       "id": "i2af08ac5",
@@ -273,7 +311,48 @@
       "last_seen": "2026-11-03T05:16:01.731609+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
+      "rank": 8,
+      "change": -1
+    },
+    {
+      "id": "ieef61a46",
+      "title": "‘머스크’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "머스크"
+      ],
+      "source_count": 3,
+      "post_count": 3,
+      "score": 106.11,
+      "peak_score": 89.62,
+      "appearances": 2,
+      "sources": [
+        "더쿠",
+        "루리웹",
+        "뽐뿌",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 56,
+          "title": "'6천억 날렸다'…'최대 패배자' 된 머스크",
+          "url": "https://www.clien.net/service/board/park/19287686?od=T31&po=0&category=0&groupCd=",
+          "score": 59.67
+        },
+        {
+          "source": "더쿠",
+          "rank": 63,
+          "title": "일론 머스크 : 머지않아 아무도 일하지 않고 초고소득을 받는 시대가 올 것",
+          "url": "https://theqoo.net/hot/4396088487",
+          "score": 58.74
+        }
+      ],
+      "first_seen": "2026-11-04T18:57:48.394871+09:00",
+      "last_seen": "2026-11-05T08:12:16.179168+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 9,
       "change": 0
     },
     {
@@ -311,55 +390,8 @@
       "last_seen": "2026-11-01T07:24:53.147489+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 8,
-      "change": 0
-    },
-    {
-      "id": "ieef61a46",
-      "title": "일론 머스크 근황",
-      "keywords": [
-        "일론",
-        "머스크"
-      ],
-      "source_count": 3,
-      "post_count": 3,
-      "score": 104.09,
-      "peak_score": 89.62,
-      "appearances": 1,
-      "sources": [
-        "루리웹",
-        "뽐뿌",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 14,
-          "title": "일론 머스크 근황",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=450148",
-          "score": 74.62
-        },
-        {
-          "source": "루리웹",
-          "rank": 70,
-          "title": "호달달할수밖에 없는 일론 머스크",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77270429?m=humor_only&t=now",
-          "score": 57.13
-        },
-        {
-          "source": "인벤",
-          "rank": 79,
-          "title": "현재 X된 일론 머스크",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2748755",
-          "score": 55.53
-        }
-      ],
-      "first_seen": "2026-11-04T18:57:48.394871+09:00",
-      "last_seen": "2026-11-04T18:57:48.394871+09:00",
-      "latest_source_count": 3,
-      "latest_post_count": 3,
-      "rank": 9,
-      "change": 0
+      "rank": 10,
+      "change": -2
     },
     {
       "id": "idc85f2a1",
@@ -397,8 +429,8 @@
       "last_seen": "2026-11-04T18:57:48.394871+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 10,
-      "change": 0
+      "rank": 11,
+      "change": -1
     },
     {
       "id": "i03005878",
@@ -436,8 +468,8 @@
       "last_seen": "2026-11-03T18:58:12.389673+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 11,
-      "change": 0
+      "rank": 12,
+      "change": -1
     },
     {
       "id": "iaf5a26c0",
@@ -474,8 +506,8 @@
       "last_seen": "2026-11-03T18:50:34.062447+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 12,
-      "change": 0
+      "rank": 13,
+      "change": -1
     },
     {
       "id": "iead2b930",
@@ -512,8 +544,8 @@
       "last_seen": "2026-11-04T18:57:48.394871+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 13,
-      "change": 0
+      "rank": 14,
+      "change": -1
     },
     {
       "id": "i4a23876e",
@@ -553,8 +585,8 @@
       "last_seen": "2026-11-03T11:26:23.691028+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 14,
-      "change": 0
+      "rank": 15,
+      "change": -1
     },
     {
       "id": "i039fd79c",
@@ -592,8 +624,8 @@
       "last_seen": "2026-11-04T18:57:48.394871+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 15,
-      "change": 0
+      "rank": 16,
+      "change": -1
     },
     {
       "id": "i53a2e4b6",
@@ -630,8 +662,8 @@
       "last_seen": "2026-11-02T11:22:26.246686+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 16,
-      "change": 0
+      "rank": 17,
+      "change": -1
     },
     {
       "id": "i01009091",
@@ -669,8 +701,8 @@
       "last_seen": "2026-11-05T02:56:56.923494+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 17,
-      "change": "NEW"
+      "rank": 18,
+      "change": -1
     },
     {
       "id": "i4c8bdd1e",
@@ -708,7 +740,7 @@
       "last_seen": "2026-11-02T18:53:50.516777+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 18,
+      "rank": 19,
       "change": -1
     },
     {
@@ -744,44 +776,6 @@
       ],
       "first_seen": "2026-10-14T15:47:19.348544+09:00",
       "last_seen": "2026-11-01T04:16:27.039598+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 19,
-      "change": -1
-    },
-    {
-      "id": "ic24684b3",
-      "title": "‘지원금’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "지원금"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 98.03,
-      "peak_score": 88.56,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 7,
-          "title": "[속보] 청년 지원금 확정 ㄷㄷ..jpg",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10172761",
-          "score": 79.56
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 15,
-          "title": "19~34세 모든 청년에 수도권 10만, 비수도권 15만원 매년 지원금",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474723&_dcbest=1&page=1",
-          "score": 70.48
-        }
-      ],
-      "first_seen": "2026-11-01T17:02:11.943256+09:00",
-      "last_seen": "2026-11-01T17:02:11.943256+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 20,
