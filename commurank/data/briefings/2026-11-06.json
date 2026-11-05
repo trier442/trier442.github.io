@@ -2,7 +2,7 @@
   "version": 1,
   "date": "2026-11-06",
   "label": "2026년 11월 06일",
-  "collected_at": "2026-11-06T03:58:30.973216+09:00",
+  "collected_at": "2026-11-06T04:03:56.555262+09:00",
   "timezone": "Asia/Seoul",
   "overview": "오늘 가장 두드러진 이슈는 ‘‘soxl’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #주식. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
@@ -13,8 +13,8 @@
     "daily_posts": 100,
     "daily_issues": 5,
     "keywords": 13,
-    "top100_views": 965368,
-    "top100_comments": 5598
+    "top100_views": 955481,
+    "top100_comments": 5643
   },
   "highlights": [
     {
@@ -25,9 +25,9 @@
     },
     {
       "type": "post",
-      "title": "글카와 램값이 오르는 이유",
+      "title": "김형태 이 아저씨는 '진짜'다",
       "text": "루리웹에서 현재 상위권에 오른 인기글입니다.",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77285218?m=humor"
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77286164?m=humor"
     },
     {
       "type": "keyword",
@@ -37,6 +37,24 @@
     }
   ],
   "top_posts": [
+    {
+      "title": "김형태 이 아저씨는 '진짜'다",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77286164?m=humor",
+      "first_seen": "2026-11-06T04:03:56.555262+09:00",
+      "last_seen": "2026-11-06T04:03:56.555262+09:00",
+      "peak_score": 98.95,
+      "max_views": 17640,
+      "max_likes": 161,
+      "max_comments": 69,
+      "appearances": 1,
+      "score": 108.34,
+      "views": 17640,
+      "likes": 161,
+      "comments": 69,
+      "change": "NEW"
+    },
     {
       "title": "글카와 램값이 오르는 이유",
       "source": "루리웹",
@@ -49,11 +67,11 @@
       "max_likes": 128,
       "max_comments": 55,
       "appearances": 1,
-      "score": 107.51,
+      "score": 107.5,
       "views": 24441,
       "likes": 128,
       "comments": 55,
-      "change": "NEW"
+      "change": -1
     },
     {
       "title": "공식 판매량 공개된 울버린 근황",
@@ -61,17 +79,17 @@
       "category": "이슈",
       "url": "https://bbs.ruliweb.com/best/board/300143/read/77285870?m=humor",
       "first_seen": "2026-11-06T03:58:30.973216+09:00",
-      "last_seen": "2026-11-06T03:58:30.973216+09:00",
-      "peak_score": 95.15,
+      "last_seen": "2026-11-06T04:03:56.555262+09:00",
+      "peak_score": 95.34,
       "max_views": 16791,
       "max_likes": 53,
       "max_comments": 62,
-      "appearances": 1,
-      "score": 104.54,
+      "appearances": 2,
+      "score": 105.54,
       "views": 16791,
       "likes": 53,
       "comments": 62,
-      "change": "NEW"
+      "change": -1
     },
     {
       "title": "서울 겨울에 충격 받은 터키 사람",
@@ -85,10 +103,28 @@
       "max_likes": 153,
       "max_comments": 60,
       "appearances": 1,
-      "score": 104.06,
+      "score": 104.05,
       "views": 24139,
       "likes": 153,
       "comments": 60,
+      "change": -1
+    },
+    {
+      "title": "의외로 저평가 된 식재료.jpg",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77285127?m=humor",
+      "first_seen": "2026-11-06T04:03:56.555262+09:00",
+      "last_seen": "2026-11-06T04:03:56.555262+09:00",
+      "peak_score": 94.22,
+      "max_views": 18144,
+      "max_likes": 73,
+      "max_comments": 53,
+      "appearances": 1,
+      "score": 103.61,
+      "views": 18144,
+      "likes": 73,
+      "comments": 53,
       "change": "NEW"
     },
     {
@@ -97,17 +133,17 @@
       "category": "이슈",
       "url": "https://theqoo.net/hot/4396887170",
       "first_seen": "2026-11-05T20:30:15.586645+09:00",
-      "last_seen": "2026-11-06T03:58:30.973216+09:00",
+      "last_seen": "2026-11-06T04:03:56.555262+09:00",
       "peak_score": 88.0,
-      "max_views": 78669,
+      "max_views": 78802,
       "max_likes": 0,
       "max_comments": 646,
-      "appearances": 3,
-      "score": 98.77,
-      "views": 78669,
+      "appearances": 4,
+      "score": 99.22,
+      "views": 78802,
       "likes": 0,
       "comments": 646,
-      "change": 16
+      "change": -2
     },
     {
       "title": "현시각 SOXL ETF 근황",
@@ -115,17 +151,17 @@
       "category": "이슈",
       "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=451046",
       "first_seen": "2026-11-06T03:58:30.973216+09:00",
-      "last_seen": "2026-11-06T03:58:30.973216+09:00",
+      "last_seen": "2026-11-06T04:03:56.555262+09:00",
       "peak_score": 88.25,
-      "max_views": 20031,
+      "max_views": 20278,
       "max_likes": 0,
       "max_comments": 36,
-      "appearances": 1,
-      "score": 97.64,
-      "views": 20031,
+      "appearances": 2,
+      "score": 98.45,
+      "views": 20278,
       "likes": 0,
       "comments": 36,
-      "change": "NEW"
+      "change": -2
     },
     {
       "title": "하루만에 파나소닉 노트북 박살났습니다.... 일제인데",
@@ -133,17 +169,17 @@
       "category": "이슈",
       "url": "https://www.clien.net/service/board/park/19288181?od=T31&po=0&category=0&groupCd=",
       "first_seen": "2026-11-06T03:58:30.973216+09:00",
-      "last_seen": "2026-11-06T03:58:30.973216+09:00",
-      "peak_score": 86.38,
-      "max_views": 2714,
+      "last_seen": "2026-11-06T04:03:56.555262+09:00",
+      "peak_score": 87.43,
+      "max_views": 2774,
       "max_likes": 0,
-      "max_comments": 12,
-      "appearances": 1,
-      "score": 95.77,
-      "views": 2714,
+      "max_comments": 13,
+      "appearances": 2,
+      "score": 97.63,
+      "views": 2774,
       "likes": 0,
-      "comments": 12,
-      "change": "NEW"
+      "comments": 13,
+      "change": -2
     },
     {
       "title": "[네이버페이] 일일적립, 클릭 24원, 퀴즈미션, 라이브예고 4원",
@@ -157,11 +193,11 @@
       "max_likes": 81,
       "max_comments": 13,
       "appearances": 1,
-      "score": 94.63,
+      "score": 94.62,
       "views": 9304,
       "likes": 81,
       "comments": 13,
-      "change": "NEW"
+      "change": -2
     },
     {
       "title": "세입자 십련이 진자.. 사고라니깐 그러네",
@@ -169,255 +205,219 @@
       "category": "이슈",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476079&_dcbest=1&page=1",
       "first_seen": "2026-11-06T03:58:30.973216+09:00",
-      "last_seen": "2026-11-06T03:58:30.973216+09:00",
-      "peak_score": 83.8,
-      "max_views": 12325,
+      "last_seen": "2026-11-06T04:03:56.555262+09:00",
+      "peak_score": 83.94,
+      "max_views": 12444,
       "max_likes": 136,
-      "max_comments": 38,
-      "appearances": 1,
-      "score": 93.19,
-      "views": 12325,
+      "max_comments": 40,
+      "appearances": 2,
+      "score": 94.14,
+      "views": 12444,
       "likes": 136,
-      "comments": 38,
-      "change": "NEW"
-    },
-    {
-      "title": "트버지 이제야 깨달아요",
-      "source": "디시인사이드",
-      "category": "이슈",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476069&_dcbest=1&page=1",
-      "first_seen": "2026-11-06T03:58:30.973216+09:00",
-      "last_seen": "2026-11-06T03:58:30.973216+09:00",
-      "peak_score": 83.03,
-      "max_views": 12970,
-      "max_likes": 283,
-      "max_comments": 71,
-      "appearances": 1,
-      "score": 92.42,
-      "views": 12970,
-      "likes": 283,
-      "comments": 71,
-      "change": "NEW"
-    },
-    {
-      "title": "한국인 기우제 근황 ㅋㅋㅋㅋㅋㅋㅋㅋ",
-      "source": "디시인사이드",
-      "category": "유머",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476075&_dcbest=1&page=1",
-      "first_seen": "2026-11-06T03:58:30.973216+09:00",
-      "last_seen": "2026-11-06T03:58:30.973216+09:00",
-      "peak_score": 82.67,
-      "max_views": 10766,
-      "max_likes": 156,
-      "max_comments": 53,
-      "appearances": 1,
-      "score": 92.06,
-      "views": 10766,
-      "likes": 156,
-      "comments": 53,
-      "change": "NEW"
+      "comments": 40,
+      "change": -2
     }
   ],
   "rising": [
     {
-      "source": "루리웹",
-      "title": "글카와 램값이 오르는 이유",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77285218?m=humor",
+      "source": "인벤",
+      "title": "유치원생에 물려 파상풍 주사 맞았는데…‘아동학대’로 고소 당해",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2749336",
       "category": "이슈",
-      "views": 24441,
-      "likes": 128,
-      "comments": 55,
-      "score": 98.12,
-      "change": "NEW",
-      "current_rank": 1,
-      "new_entry": true,
-      "delta_views": 0,
+      "views": 1013,
+      "likes": 0,
+      "comments": 11,
+      "score": 73.93,
+      "change": 0,
+      "current_rank": 14,
+      "new_entry": false,
+      "delta_views": 62,
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 83.21,
+      "rising_score": 98.28,
       "rising_rank": 1,
-      "window_minutes": 441
+      "window_minutes": 5
     },
     {
-      "source": "루리웹",
-      "title": "공식 판매량 공개된 울버린 근황",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77285870?m=humor",
+      "source": "뽐뿌",
+      "title": "후쿠시마에서 땅을 파면 위험한 이유 ㄷㄷ ㄷㄷ.jpg",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10177873",
       "category": "이슈",
-      "views": 16791,
-      "likes": 53,
-      "comments": 62,
-      "score": 95.15,
-      "change": "NEW",
-      "current_rank": 2,
-      "new_entry": true,
-      "delta_views": 0,
+      "views": 6258,
+      "likes": 3,
+      "comments": 32,
+      "score": 69.95,
+      "change": 0,
+      "current_rank": 21,
+      "new_entry": false,
+      "delta_views": 280,
       "delta_likes": 0,
-      "delta_comments": 0,
+      "delta_comments": 1,
       "rank_gain": 0,
-      "rising_score": 81.96,
+      "rising_score": 96.54,
       "rising_rank": 2,
-      "window_minutes": 441
+      "window_minutes": 5
     },
     {
-      "source": "루리웹",
-      "title": "서울 겨울에 충격 받은 터키 사람",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77285032?m=humor",
-      "category": "이슈",
-      "views": 24139,
-      "likes": 153,
-      "comments": 60,
-      "score": 94.67,
-      "change": "NEW",
-      "current_rank": 3,
-      "new_entry": true,
-      "delta_views": 0,
+      "source": "인벤",
+      "title": "너무 잘생기면 나오는 반응",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2749335",
+      "category": "연예",
+      "views": 1415,
+      "likes": 0,
+      "comments": 2,
+      "score": 65.71,
+      "change": 0,
+      "current_rank": 31,
+      "new_entry": false,
+      "delta_views": 60,
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 81.76,
+      "rising_score": 94.83,
       "rising_rank": 3,
-      "window_minutes": 441
+      "window_minutes": 5
+    },
+    {
+      "source": "더쿠",
+      "title": "“뉴진스, 성형비 멤버 부담…어린 나이에 새벽 2시까지 리허설”",
+      "url": "https://theqoo.net/hot/4397238056",
+      "category": "이슈",
+      "views": 9285,
+      "likes": 0,
+      "comments": 80,
+      "score": 66.5,
+      "change": 10,
+      "current_rank": 27,
+      "new_entry": false,
+      "delta_views": 644,
+      "delta_likes": 0,
+      "delta_comments": 4,
+      "rank_gain": 10,
+      "rising_score": 92.25,
+      "rising_rank": 4,
+      "window_minutes": 5
+    },
+    {
+      "source": "인벤",
+      "title": "손글씨로 남은 '수학여행'‥단원고 기록, 아태 기록유산 됐다",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2749341",
+      "category": "생활",
+      "views": 285,
+      "likes": 0,
+      "comments": 0,
+      "score": 60.4,
+      "change": 0,
+      "current_rank": 58,
+      "new_entry": false,
+      "delta_views": 59,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 91.38,
+      "rising_rank": 5,
+      "window_minutes": 5
+    },
+    {
+      "source": "클리앙",
+      "title": "와 SOXL 5년 전 가격으로 할인하네요",
+      "url": "https://www.clien.net/service/board/park/19288176?od=T31&po=0&category=0&groupCd=",
+      "category": "이슈",
+      "views": 3359,
+      "likes": 2,
+      "comments": 1,
+      "score": 66.54,
+      "change": 0,
+      "current_rank": 26,
+      "new_entry": false,
+      "delta_views": 65,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 90.62,
+      "rising_rank": 6,
+      "window_minutes": 5
+    },
+    {
+      "source": "루리웹",
+      "title": "액션 유치원 이거 실존하는거구나",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77286936?m=humor_only&t=now",
+      "category": "이슈",
+      "views": 2366,
+      "likes": 24,
+      "comments": 5,
+      "score": 56.66,
+      "change": 0,
+      "current_rank": 68,
+      "new_entry": false,
+      "delta_views": 755,
+      "delta_likes": 9,
+      "delta_comments": 2,
+      "rank_gain": 0,
+      "rising_score": 88.27,
+      "rising_rank": 7,
+      "window_minutes": 5
     },
     {
       "source": "뽐뿌",
       "title": "현시각 SOXL ETF 근황",
       "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=451046",
       "category": "이슈",
-      "views": 20031,
+      "views": 20278,
       "likes": 0,
       "comments": 36,
       "score": 88.25,
-      "change": "NEW",
+      "change": 0,
       "current_rank": 4,
-      "new_entry": true,
-      "delta_views": 0,
+      "new_entry": false,
+      "delta_views": 247,
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 79.06,
-      "rising_rank": 4,
-      "window_minutes": 441
+      "rising_score": 85.0,
+      "rising_rank": 8,
+      "window_minutes": 5
+    },
+    {
+      "source": "인벤",
+      "title": "‘만취 운전’ 차량 식당 돌진…차 버리고 귀가해 ‘쿨쿨’",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2749338",
+      "category": "이슈",
+      "views": 460,
+      "likes": 0,
+      "comments": 2,
+      "score": 61.39,
+      "change": 0,
+      "current_rank": 49,
+      "new_entry": false,
+      "delta_views": 47,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 84.48,
+      "rising_rank": 9,
+      "window_minutes": 5
     },
     {
       "source": "클리앙",
-      "title": "하루만에 파나소닉 노트북 박살났습니다.... 일제인데",
-      "url": "https://www.clien.net/service/board/park/19288181?od=T31&po=0&category=0&groupCd=",
+      "title": "내일 블랙 프라이데이 확정입니다",
+      "url": "https://www.clien.net/service/board/park/19288184?od=T31&po=0&category=0&groupCd=",
       "category": "이슈",
-      "views": 2714,
+      "views": 1613,
       "likes": 0,
-      "comments": 12,
-      "score": 86.38,
-      "change": "NEW",
-      "current_rank": 5,
-      "new_entry": true,
-      "delta_views": 0,
+      "comments": 5,
+      "score": 75.08,
+      "change": 1,
+      "current_rank": 12,
+      "new_entry": false,
+      "delta_views": 134,
       "delta_likes": 0,
       "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 78.28,
-      "rising_rank": 5,
-      "window_minutes": 441
-    },
-    {
-      "source": "루리웹",
-      "title": "[네이버페이] 일일적립, 클릭 24원, 퀴즈미션, 라이브예고 4원",
-      "url": "https://bbs.ruliweb.com/market/board/1020/read/108745",
-      "category": "이슈",
-      "views": 9304,
-      "likes": 81,
-      "comments": 13,
-      "score": 85.24,
-      "change": "NEW",
-      "current_rank": 6,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 77.8,
-      "rising_rank": 6,
-      "window_minutes": 441
-    },
-    {
-      "source": "디시인사이드",
-      "title": "세입자 십련이 진자.. 사고라니깐 그러네",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476079&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 12325,
-      "likes": 136,
-      "comments": 38,
-      "score": 83.8,
-      "change": "NEW",
-      "current_rank": 7,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 77.2,
-      "rising_rank": 7,
-      "window_minutes": 441
-    },
-    {
-      "source": "디시인사이드",
-      "title": "트버지 이제야 깨달아요",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476069&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 12970,
-      "likes": 283,
-      "comments": 71,
-      "score": 83.03,
-      "change": "NEW",
-      "current_rank": 8,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 76.87,
-      "rising_rank": 8,
-      "window_minutes": 441
-    },
-    {
-      "source": "디시인사이드",
-      "title": "한국인 기우제 근황 ㅋㅋㅋㅋㅋㅋㅋㅋ",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476075&_dcbest=1&page=1",
-      "category": "유머",
-      "views": 10766,
-      "likes": 156,
-      "comments": 53,
-      "score": 82.67,
-      "change": "NEW",
-      "current_rank": 9,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 76.72,
-      "rising_rank": 9,
-      "window_minutes": 441
-    },
-    {
-      "source": "디시인사이드",
-      "title": "싱글벙글 뉴진스 근황",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476073&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 8494,
-      "likes": 76,
-      "comments": 104,
-      "score": 81.51,
-      "change": "NEW",
-      "current_rank": 10,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 76.23,
+      "rank_gain": 1,
+      "rising_score": 83.81,
       "rising_rank": 10,
-      "window_minutes": 441
+      "window_minutes": 5
     }
   ],
   "issues": [
@@ -429,9 +429,9 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 106.72,
+      "score": 108.74,
       "peak_score": 97.25,
-      "appearances": 1,
+      "appearances": 2,
       "sources": [
         "뽐뿌",
         "클리앙"
@@ -449,15 +449,15 @@
           "rank": 26,
           "title": "와 SOXL 5년 전 가격으로 할인하네요",
           "url": "https://www.clien.net/service/board/park/19288176?od=T31&po=0&category=0&groupCd=",
-          "score": 66.93
+          "score": 66.54
         }
       ],
       "first_seen": "2026-11-06T03:58:30.973216+09:00",
-      "last_seen": "2026-11-06T03:58:30.973216+09:00",
+      "last_seen": "2026-11-06T04:03:56.555262+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 1,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i88ca8477",
@@ -467,9 +467,9 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 101.5,
+      "score": 103.52,
       "peak_score": 92.03,
-      "appearances": 1,
+      "appearances": 2,
       "sources": [
         "디시인사이드",
         "클리앙"
@@ -477,25 +477,25 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 8,
+          "rank": 7,
           "title": "트버지 이제야 깨달아요",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476069&_dcbest=1&page=1",
           "score": 83.03
         },
         {
           "source": "클리앙",
-          "rank": 43,
+          "rank": 51,
           "title": "이제야 세상이 옳게 돌아간다 생각해요.",
           "url": "https://www.clien.net/service/board/park/19288165?od=T31&po=0&category=0&groupCd=",
-          "score": 62.21
+          "score": 61.37
         }
       ],
       "first_seen": "2026-11-06T03:58:30.973216+09:00",
-      "last_seen": "2026-11-06T03:58:30.973216+09:00",
+      "last_seen": "2026-11-06T04:03:56.555262+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 2,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "ide40d74c",
@@ -505,9 +505,9 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 99.98,
-      "peak_score": 90.51,
-      "appearances": 1,
+      "score": 102.28,
+      "peak_score": 90.79,
+      "appearances": 2,
       "sources": [
         "더쿠",
         "디시인사이드"
@@ -515,25 +515,25 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 10,
+          "rank": 9,
           "title": "싱글벙글 뉴진스 근황",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476073&_dcbest=1&page=1",
-          "score": 81.51
+          "score": 81.79
         },
         {
           "source": "더쿠",
-          "rank": 37,
+          "rank": 27,
           "title": "“뉴진스, 성형비 멤버 부담…어린 나이에 새벽 2시까지 리허설”",
           "url": "https://theqoo.net/hot/4397238056",
-          "score": 64.0
+          "score": 66.5
         }
       ],
       "first_seen": "2026-11-06T03:58:30.973216+09:00",
-      "last_seen": "2026-11-06T03:58:30.973216+09:00",
+      "last_seen": "2026-11-06T04:03:56.555262+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 3,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i6c599d63",
@@ -543,9 +543,9 @@
       ],
       "source_count": 2,
       "post_count": 3,
-      "score": 89.21,
+      "score": 91.23,
       "peak_score": 78.74,
-      "appearances": 1,
+      "appearances": 2,
       "sources": [
         "더쿠",
         "디시인사이드"
@@ -560,35 +560,36 @@
         },
         {
           "source": "디시인사이드",
-          "rank": 60,
+          "rank": 63,
           "title": "재혼황후 유튭 후기 ㅈㄴ 웃기다",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476081&_dcbest=1&page=1",
-          "score": 59.14
+          "score": 58.86
         }
       ],
       "first_seen": "2026-11-06T03:58:30.973216+09:00",
-      "last_seen": "2026-11-06T03:58:30.973216+09:00",
+      "last_seen": "2026-11-06T04:03:56.555262+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 4,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i39043bb4",
       "title": "이 대통령 “‘알고리즘에 갇혔다’ 주장 있는데, 갇히지 않는다”…첫 유튜브 방송에서 김",
       "keywords": [
-        "갇히지",
-        "않는다",
         "갇혔다",
-        "있는데",
+        "않는다",
         "방송에서",
-        "알고리즘에"
+        "알고리즘에",
+        "주장",
+        "갇히지",
+        "있는데"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 88.79,
+      "score": 90.81,
       "peak_score": 79.32,
-      "appearances": 1,
+      "appearances": 2,
       "sources": [
         "인벤",
         "클리앙"
@@ -603,18 +604,18 @@
         },
         {
           "source": "인벤",
-          "rank": 29,
+          "rank": 30,
           "title": "이 대통령 “‘알고리즘에 갇혔다’ 주장 있는데, 갇히지 않는다”…첫 유튜브 방송에서 김어준 주장 반박",
           "url": "https://www.inven.co.kr/board/webzine/2097/2749323",
-          "score": 66.05
+          "score": 65.81
         }
       ],
       "first_seen": "2026-11-06T03:58:30.973216+09:00",
-      "last_seen": "2026-11-06T03:58:30.973216+09:00",
+      "last_seen": "2026-11-06T04:03:56.555262+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 5,
-      "change": "NEW"
+      "change": 0
     }
   ],
   "realtime_issues": [
@@ -643,14 +644,14 @@
         },
         {
           "source": "디시인사이드",
-          "rank": 60,
+          "rank": 63,
           "title": "재혼황후 유튭 후기 ㅈㄴ 웃기다",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476081&_dcbest=1&page=1",
-          "score": 59.14
+          "score": 58.86
         }
       ],
       "rank": 1,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i08456703",
@@ -680,11 +681,11 @@
           "rank": 26,
           "title": "와 SOXL 5년 전 가격으로 할인하네요",
           "url": "https://www.clien.net/service/board/park/19288176?od=T31&po=0&category=0&groupCd=",
-          "score": 66.93
+          "score": 66.54
         }
       ],
       "rank": 2,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i88ca8477",
@@ -704,21 +705,21 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 8,
+          "rank": 7,
           "title": "트버지 이제야 깨달아요",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476069&_dcbest=1&page=1",
           "score": 83.03
         },
         {
           "source": "클리앙",
-          "rank": 43,
+          "rank": 51,
           "title": "이제야 세상이 옳게 돌아간다 생각해요.",
           "url": "https://www.clien.net/service/board/park/19288165?od=T31&po=0&category=0&groupCd=",
-          "score": 62.21
+          "score": 61.37
         }
       ],
       "rank": 3,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "ide40d74c",
@@ -728,8 +729,8 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 90.51,
-      "peak_score": 90.51,
+      "score": 90.79,
+      "peak_score": 90.79,
       "appearances": 1,
       "sources": [
         "더쿠",
@@ -738,32 +739,33 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 10,
+          "rank": 9,
           "title": "싱글벙글 뉴진스 근황",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476073&_dcbest=1&page=1",
-          "score": 81.51
+          "score": 81.79
         },
         {
           "source": "더쿠",
-          "rank": 37,
+          "rank": 27,
           "title": "“뉴진스, 성형비 멤버 부담…어린 나이에 새벽 2시까지 리허설”",
           "url": "https://theqoo.net/hot/4397238056",
-          "score": 64.0
+          "score": 66.5
         }
       ],
       "rank": 4,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i39043bb4",
       "title": "이 대통령 “‘알고리즘에 갇혔다’ 주장 있는데, 갇히지 않는다”…첫 유튜브 방송에서 김",
       "keywords": [
-        "갇히지",
-        "않는다",
         "갇혔다",
-        "있는데",
+        "않는다",
         "방송에서",
-        "알고리즘에"
+        "알고리즘에",
+        "주장",
+        "갇히지",
+        "있는데"
       ],
       "source_count": 2,
       "post_count": 2,
@@ -784,23 +786,23 @@
         },
         {
           "source": "인벤",
-          "rank": 29,
+          "rank": 30,
           "title": "이 대통령 “‘알고리즘에 갇혔다’ 주장 있는데, 갇히지 않는다”…첫 유튜브 방송에서 김어준 주장 반박",
           "url": "https://www.inven.co.kr/board/webzine/2097/2749323",
-          "score": 66.05
+          "score": 65.81
         }
       ],
       "rank": 5,
-      "change": "NEW"
+      "change": 0
     }
   ],
   "keywords": [
     {
       "keyword": "주식",
-      "score": 121.99,
+      "score": 122.02,
       "post_count": 4,
       "source_count": 3,
-      "best_rank": 28,
+      "best_rank": 29,
       "sources": [
         "디시인사이드",
         "인벤",
@@ -808,11 +810,11 @@
       ],
       "aliases": [],
       "rank": 1,
-      "change": "NEW"
+      "change": 0
     },
     {
       "keyword": "바닥",
-      "score": 121.35,
+      "score": 120.57,
       "post_count": 3,
       "source_count": 3,
       "best_rank": 20,
@@ -823,11 +825,11 @@
       ],
       "aliases": [],
       "rank": 2,
-      "change": "NEW"
+      "change": 0
     },
     {
       "keyword": "soxl",
-      "score": 105.97,
+      "score": 105.91,
       "post_count": 2,
       "source_count": 2,
       "best_rank": 4,
@@ -837,67 +839,53 @@
       ],
       "aliases": [],
       "rank": 3,
-      "change": "NEW"
+      "change": 0
     },
     {
-      "keyword": "서울",
-      "score": 103.83,
+      "keyword": "뉴진스",
+      "score": 102.53,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 3,
+      "best_rank": 9,
       "sources": [
-        "루리웹",
-        "인벤"
+        "더쿠",
+        "디시인사이드"
       ],
       "aliases": [],
       "rank": 4,
-      "change": "NEW"
+      "change": 3
     },
     {
       "keyword": "내일",
-      "score": 101.15,
+      "score": 101.54,
       "post_count": 3,
       "source_count": 2,
-      "best_rank": 13,
+      "best_rank": 12,
       "sources": [
         "인벤",
         "클리앙"
       ],
       "aliases": [],
       "rank": 5,
-      "change": "NEW"
+      "change": 0
     },
     {
       "keyword": "이제야",
-      "score": 100.65,
+      "score": 100.05,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 8,
+      "best_rank": 7,
       "sources": [
         "디시인사이드",
         "클리앙"
       ],
       "aliases": [],
       "rank": 6,
-      "change": "NEW"
-    },
-    {
-      "keyword": "뉴진스",
-      "score": 100.47,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 10,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "aliases": [],
-      "rank": 7,
-      "change": "NEW"
+      "change": 0
     },
     {
       "keyword": "알고리즘",
-      "score": 96.53,
+      "score": 96.38,
       "post_count": 2,
       "source_count": 2,
       "best_rank": 18,
@@ -912,12 +900,12 @@
         "않는다",
         "있는데"
       ],
-      "rank": 8,
-      "change": "NEW"
+      "rank": 7,
+      "change": 1
     },
     {
       "keyword": "재혼황후",
-      "score": 94.93,
+      "score": 94.76,
       "post_count": 3,
       "source_count": 2,
       "best_rank": 24,
@@ -926,12 +914,26 @@
         "디시인사이드"
       ],
       "aliases": [],
+      "rank": 8,
+      "change": 1
+    },
+    {
+      "keyword": "무료",
+      "score": 90.9,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 11,
+      "sources": [
+        "루리웹",
+        "뽐뿌"
+      ],
+      "aliases": [],
       "rank": 9,
       "change": "NEW"
     },
     {
       "keyword": "하고",
-      "score": 88.53,
+      "score": 88.77,
       "post_count": 2,
       "source_count": 2,
       "best_rank": 19,
@@ -941,11 +943,11 @@
       ],
       "aliases": [],
       "rank": 10,
-      "change": "NEW"
+      "change": 0
     },
     {
       "keyword": "트럭",
-      "score": 86.69,
+      "score": 86.93,
       "post_count": 2,
       "source_count": 2,
       "best_rank": 23,
@@ -955,11 +957,11 @@
       ],
       "aliases": [],
       "rank": 11,
-      "change": "NEW"
+      "change": 0
     },
     {
       "keyword": "좋은",
-      "score": 83.64,
+      "score": 83.88,
       "post_count": 2,
       "source_count": 2,
       "best_rank": 47,
@@ -969,62 +971,62 @@
       ],
       "aliases": [],
       "rank": 12,
-      "change": "NEW"
+      "change": 0
     },
     {
       "keyword": "데이터센터",
-      "score": 79.65,
+      "score": 78.99,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 59,
+      "best_rank": 61,
       "sources": [
         "인벤",
         "클리앙"
       ],
       "aliases": [],
       "rank": 13,
-      "change": 5
+      "change": 0
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "글카와 램값이 오르는 이유",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77285218?m=humor",
-      "score": 98.12,
-      "views": 24441,
-      "comments": 55
+      "title": "김형태 이 아저씨는 '진짜'다",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77286164?m=humor",
+      "score": 98.95,
+      "views": 17640,
+      "comments": 69
     },
     {
       "source": "뽐뿌",
       "title": "현시각 SOXL ETF 근황",
       "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=451046",
       "score": 88.25,
-      "views": 20031,
+      "views": 20278,
       "comments": 36
     },
     {
       "source": "클리앙",
       "title": "하루만에 파나소닉 노트북 박살났습니다.... 일제인데",
       "url": "https://www.clien.net/service/board/park/19288181?od=T31&po=0&category=0&groupCd=",
-      "score": 86.38,
-      "views": 2714,
-      "comments": 12
+      "score": 87.43,
+      "views": 2774,
+      "comments": 13
     },
     {
       "source": "디시인사이드",
       "title": "세입자 십련이 진자.. 사고라니깐 그러네",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476079&_dcbest=1&page=1",
-      "score": 83.8,
-      "views": 12325,
-      "comments": 38
+      "score": 83.94,
+      "views": 12444,
+      "comments": 40
     },
     {
       "source": "인벤",
       "title": "유치원생에 물려 파상풍 주사 맞았는데…‘아동학대’로 고소 당해",
       "url": "https://www.inven.co.kr/board/webzine/2097/2749336",
-      "score": 73.53,
-      "views": 951,
+      "score": 73.93,
+      "views": 1013,
       "comments": 11
     },
     {
@@ -1032,7 +1034,7 @@
       "title": "블라인드에서 댓글 1000개 넘게 달린 담배 논란.JPG",
       "url": "https://theqoo.net/hot/4397099233",
       "score": 73.05,
-      "views": 53318,
+      "views": 53555,
       "comments": 660
     }
   ]
