@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W45",
   "label": "2026.11.02 ~ 11.08",
-  "collected_at": "2026-11-05T20:30:15.586645+09:00",
+  "collected_at": "2026-11-05T20:37:49.856231+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -633,6 +633,45 @@
       "change": 0
     },
     {
+      "id": "i4bd2f982",
+      "title": "[속보] 크리스티아누 호날두, 국가대표 선수 은퇴",
+      "keywords": [
+        "호날두",
+        "국가대표"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 96.83,
+      "peak_score": 85.34,
+      "appearances": 2,
+      "sources": [
+        "디시인사이드",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 7,
+          "title": "[속보] 크리스티아누 호날두, 국가대표 선수 은퇴",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475927&_dcbest=1&page=1",
+          "score": 77.34
+        },
+        {
+          "source": "클리앙",
+          "rank": 34,
+          "title": "호날두 국가대표 은퇴선언",
+          "url": "https://www.clien.net/service/board/park/19288063?od=T31&po=0&category=0&groupCd=",
+          "score": 64.53
+        }
+      ],
+      "first_seen": "2026-11-05T20:30:15.586645+09:00",
+      "last_seen": "2026-11-05T20:37:49.856231+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 17,
+      "change": "NEW"
+    },
+    {
       "id": "i77bec7b9",
       "title": "‘윤석열’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -667,8 +706,8 @@
       "last_seen": "2026-11-04T18:57:48.394871+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 17,
-      "change": 0
+      "rank": 18,
+      "change": -1
     },
     {
       "id": "i1a43d719",
@@ -705,8 +744,8 @@
       "last_seen": "2026-11-05T02:56:56.923494+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 18,
-      "change": 0
+      "rank": 19,
+      "change": -1
     },
     {
       "id": "ib6978d90",
@@ -752,46 +791,8 @@
       "last_seen": "2026-11-05T02:56:56.923494+09:00",
       "latest_source_count": 3,
       "latest_post_count": 3,
-      "rank": 19,
-      "change": 0
-    },
-    {
-      "id": "i5d6688ff",
-      "title": "‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "네이버페이"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 95.52,
-      "peak_score": 84.03,
-      "appearances": 2,
-      "sources": [
-        "루리웹",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 8,
-          "title": "[네이버쇼핑]네이버페이 카페이벤트 종료/메가커피22%+멤버십 추가 할인(11/2)",
-          "url": "https://bbs.ruliweb.com/market/board/1020/read/108577",
-          "score": 75.03
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 35,
-          "title": "[란123] 네이버페이 105원 + 랜덤 포인트 받으세요 (+기타 603원)",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10174179",
-          "score": 65.05
-        }
-      ],
-      "first_seen": "2026-09-28T07:08:45.324597+09:00",
-      "last_seen": "2026-11-03T05:16:01.731609+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 20,
-      "change": 0
+      "change": -1
     }
   ]
 }

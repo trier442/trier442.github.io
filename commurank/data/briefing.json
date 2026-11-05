@@ -2,9 +2,9 @@
   "version": 1,
   "date": "2026-11-05",
   "label": "2026년 11월 05일",
-  "collected_at": "2026-11-05T20:30:15.586645+09:00",
+  "collected_at": "2026-11-05T20:37:49.856231+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘‘일본이’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #한국. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘‘일본이’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #일본. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 6,
@@ -12,9 +12,9 @@
     "realtime_posts": 100,
     "daily_posts": 100,
     "daily_issues": 20,
-    "keywords": 15,
-    "top100_views": 928443,
-    "top100_comments": 11390
+    "keywords": 20,
+    "top100_views": 891762,
+    "top100_comments": 10596
   },
   "highlights": [
     {
@@ -25,18 +25,36 @@
     },
     {
       "type": "post",
-      "title": "회사 미친 사이코패스놈들인가",
+      "title": "젊은 세대에게 인기 없다는 안주 근황",
       "text": "루리웹에서 현재 상위권에 오른 인기글입니다.",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77277066?m=humor"
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77280477?m=humor"
     },
     {
       "type": "keyword",
-      "title": "#한국",
-      "text": "3개 커뮤니티 · 4개 인기글에서 함께 등장했습니다.",
-      "keyword": "한국"
+      "title": "#일본",
+      "text": "3개 커뮤니티 · 3개 인기글에서 함께 등장했습니다.",
+      "keyword": "일본"
     }
   ],
   "top_posts": [
+    {
+      "title": "젊은 세대에게 인기 없다는 안주 근황",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77280477?m=humor",
+      "first_seen": "2026-11-05T20:37:49.856231+09:00",
+      "last_seen": "2026-11-05T20:37:49.856231+09:00",
+      "peak_score": 98.12,
+      "max_views": 27573,
+      "max_likes": 97,
+      "max_comments": 94,
+      "appearances": 1,
+      "score": 107.51,
+      "views": 27573,
+      "likes": 97,
+      "comments": 94,
+      "change": "NEW"
+    },
     {
       "title": "회사 미친 사이코패스놈들인가",
       "source": "루리웹",
@@ -49,11 +67,11 @@
       "max_likes": 248,
       "max_comments": 80,
       "appearances": 1,
-      "score": 107.28,
+      "score": 107.27,
       "views": 14962,
       "likes": 248,
       "comments": 80,
-      "change": 0
+      "change": -1
     },
     {
       "title": "일본이 16세이하 SNS금지법 시행 요구 하는이유",
@@ -67,11 +85,29 @@
       "max_likes": 118,
       "max_comments": 56,
       "appearances": 2,
-      "score": 106.91,
+      "score": 106.9,
       "views": 12850,
       "likes": 118,
       "comments": 56,
-      "change": 0
+      "change": -1
+    },
+    {
+      "title": "가장 한국적인 공항이라는 대구공항..jpg",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77280021?m=humor",
+      "first_seen": "2026-11-05T20:30:15.586645+09:00",
+      "last_seen": "2026-11-05T20:37:49.856231+09:00",
+      "peak_score": 96.61,
+      "max_views": 33152,
+      "max_likes": 169,
+      "max_comments": 87,
+      "appearances": 2,
+      "score": 106.81,
+      "views": 33152,
+      "likes": 169,
+      "comments": 87,
+      "change": 5
     },
     {
       "title": "내가 대형마트에서 2년 알바하면서 제일 이해 안가던 질문",
@@ -85,11 +121,11 @@
       "max_likes": 69,
       "max_comments": 81,
       "appearances": 2,
-      "score": 106.44,
+      "score": 106.43,
       "views": 11040,
       "likes": 69,
       "comments": 81,
-      "change": 0
+      "change": -2
     },
     {
       "title": "???:5년차에 영끌월급700 못받으면 회사가 ↗소임.",
@@ -97,17 +133,17 @@
       "category": "생활",
       "url": "https://bbs.ruliweb.com/best/board/300143/read/77281149?m=humor",
       "first_seen": "2026-11-05T20:30:15.586645+09:00",
-      "last_seen": "2026-11-05T20:30:15.586645+09:00",
+      "last_seen": "2026-11-05T20:37:49.856231+09:00",
       "peak_score": 96.19,
       "max_views": 13986,
       "max_likes": 93,
       "max_comments": 93,
-      "appearances": 1,
-      "score": 105.58,
+      "appearances": 2,
+      "score": 106.39,
       "views": 13986,
       "likes": 93,
       "comments": 93,
-      "change": "NEW"
+      "change": -2
     },
     {
       "title": "수탉 납치살해미수 사건 범인들 근황",
@@ -121,11 +157,11 @@
       "max_likes": 133,
       "max_comments": 77,
       "appearances": 1,
-      "score": 105.2,
+      "score": 105.19,
       "views": 10298,
       "likes": 133,
       "comments": 77,
-      "change": -1
+      "change": -2
     },
     {
       "title": "미호요 근황..........jpg",
@@ -139,11 +175,11 @@
       "max_likes": 77,
       "max_comments": 119,
       "appearances": 1,
-      "score": 104.93,
+      "score": 104.92,
       "views": 15237,
       "likes": 77,
       "comments": 119,
-      "change": -1
+      "change": -2
     },
     {
       "title": "애니메이션 제목은 빼고 세 단어로만 애니를 연상시켜보세요",
@@ -157,11 +193,11 @@
       "max_likes": 52,
       "max_comments": 124,
       "appearances": 1,
-      "score": 104.6,
+      "score": 104.59,
       "views": 10617,
       "likes": 52,
       "comments": 124,
-      "change": "NEW"
+      "change": -2
     },
     {
       "title": "알기쉽게 설명하는 '빛의 속도로 250만광년 떨어진 곳 갈때 걸리는 시간'",
@@ -175,249 +211,213 @@
       "max_likes": 74,
       "max_comments": 94,
       "appearances": 1,
-      "score": 104.51,
+      "score": 104.5,
       "views": 13699,
       "likes": 74,
       "comments": 94,
       "change": -2
-    },
-    {
-      "title": "가장 한국적인 공항이라는 대구공항..jpg",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77280021?m=humor",
-      "first_seen": "2026-11-05T20:30:15.586645+09:00",
-      "last_seen": "2026-11-05T20:30:15.586645+09:00",
-      "peak_score": 94.67,
-      "max_views": 33152,
-      "max_likes": 169,
-      "max_comments": 87,
-      "appearances": 1,
-      "score": 104.06,
-      "views": 33152,
-      "likes": 169,
-      "comments": 87,
-      "change": "NEW"
-    },
-    {
-      "title": "삼국지 제갈량 평가 중 유독 사람들을 잘 긁는 평가",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77277088?m=humor",
-      "first_seen": "2026-11-05T12:30:57.408759+09:00",
-      "last_seen": "2026-11-05T12:30:57.408759+09:00",
-      "peak_score": 95.21,
-      "max_views": 10246,
-      "max_likes": 71,
-      "max_comments": 84,
-      "appearances": 1,
-      "score": 103.93,
-      "views": 10246,
-      "likes": 71,
-      "comments": 84,
-      "change": -3
     }
   ],
   "rising": [
     {
       "source": "루리웹",
-      "title": "???:5년차에 영끌월급700 못받으면 회사가 ↗소임.",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77281149?m=humor",
-      "category": "생활",
-      "views": 13986,
-      "likes": 93,
-      "comments": 93,
-      "score": 96.19,
-      "change": "NEW",
-      "current_rank": 1,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 82.4,
-      "rising_rank": 1,
-      "window_minutes": 468
-    },
-    {
-      "source": "루리웹",
-      "title": "애니메이션 제목은 빼고 세 단어로만 애니를 연상시켜보세요",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77279588?m=humor",
-      "category": "이슈",
-      "views": 10617,
-      "likes": 52,
-      "comments": 124,
-      "score": 95.21,
-      "change": "NEW",
-      "current_rank": 2,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 81.99,
-      "rising_rank": 2,
-      "window_minutes": 468
-    },
-    {
-      "source": "루리웹",
       "title": "가장 한국적인 공항이라는 대구공항..jpg",
       "url": "https://bbs.ruliweb.com/best/board/300143/read/77280021?m=humor",
       "category": "이슈",
       "views": 33152,
       "likes": 169,
       "comments": 87,
-      "score": 94.67,
-      "change": "NEW",
-      "current_rank": 3,
-      "new_entry": true,
+      "score": 96.61,
+      "change": 1,
+      "current_rank": 2,
+      "new_entry": false,
       "delta_views": 0,
       "delta_likes": 0,
       "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 81.76,
-      "rising_rank": 3,
-      "window_minutes": 468
+      "rank_gain": 1,
+      "rising_score": 100.0,
+      "rising_rank": 1,
+      "window_minutes": 8
     },
     {
-      "source": "더쿠",
-      "title": "카메라 좋다는것도 이제 옛말이라는 갤럭시 울트라 시리즈.jpg",
-      "url": "https://theqoo.net/hot/4396887170",
+      "source": "루리웹",
+      "title": "이스라엘 근황",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77283617?m=humor_only&t=now",
       "category": "이슈",
-      "views": 36161,
-      "likes": 0,
-      "comments": 386,
-      "score": 87.0,
-      "change": "NEW",
-      "current_rank": 4,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
+      "views": 4413,
+      "likes": 86,
+      "comments": 30,
+      "score": 57.72,
+      "change": 0,
+      "current_rank": 62,
+      "new_entry": false,
+      "delta_views": 4091,
+      "delta_likes": 73,
+      "delta_comments": 24,
       "rank_gain": 0,
-      "rising_score": 78.54,
-      "rising_rank": 4,
-      "window_minutes": 468
+      "rising_score": 100.0,
+      "rising_rank": 2,
+      "window_minutes": 8
     },
     {
-      "source": "뽐뿌",
-      "title": "ㅇㅎ) 코 세척하는 여자 배우 ㄷ",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=gameforum&no=381953",
-      "category": "연예",
-      "views": 21387,
-      "likes": 7,
-      "comments": 36,
-      "score": 76.98,
-      "change": "NEW",
-      "current_rank": 5,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 74.33,
-      "rising_rank": 5,
-      "window_minutes": 468
+      "source": "디시인사이드",
+      "title": "ㅅㄱㅂㄱ 오늘 발표한 야스로봇 성능과 가격",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475929&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 5472,
+      "likes": 43,
+      "comments": 143,
+      "score": 70.7,
+      "change": 9,
+      "current_rank": 17,
+      "new_entry": false,
+      "delta_views": 1698,
+      "delta_likes": 13,
+      "delta_comments": 27,
+      "rank_gain": 9,
+      "rising_score": 96.15,
+      "rising_rank": 3,
+      "window_minutes": 8
     },
     {
       "source": "더쿠",
       "title": "얼굴만으로 1만 맘찍 터진 <재혼황후> 이세영",
       "url": "https://theqoo.net/hot/4396877477",
       "category": "이슈",
-      "views": 32975,
+      "views": 36216,
       "likes": 0,
-      "comments": 281,
-      "score": 75.68,
-      "change": "NEW",
+      "comments": 300,
+      "score": 77.68,
+      "change": 0,
       "current_rank": 6,
-      "new_entry": true,
-      "delta_views": 0,
+      "new_entry": false,
+      "delta_views": 3241,
       "delta_likes": 0,
-      "delta_comments": 0,
+      "delta_comments": 19,
       "rank_gain": 0,
-      "rising_score": 73.79,
-      "rising_rank": 6,
-      "window_minutes": 468
+      "rising_score": 90.54,
+      "rising_rank": 4,
+      "window_minutes": 8
     },
     {
-      "source": "루리웹",
-      "title": "[네이버쇼핑] 메가커피 메뉴 22%+멤버십 10% 추가 할인 2차 (11/5)",
-      "url": "https://bbs.ruliweb.com/market/board/1020/read/108724",
+      "source": "인벤",
+      "title": "여수 세계 섬 박람회 폐막, 수 천억 원 들인 결과 공개",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2749264",
       "category": "이슈",
-      "views": 12561,
-      "likes": 15,
-      "comments": 9,
-      "score": 75.65,
-      "change": "NEW",
-      "current_rank": 7,
-      "new_entry": true,
-      "delta_views": 0,
+      "views": 467,
+      "likes": 0,
+      "comments": 4,
+      "score": 64.87,
+      "change": 18,
+      "current_rank": 33,
+      "new_entry": false,
+      "delta_views": 310,
       "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 73.77,
-      "rising_rank": 7,
-      "window_minutes": 468
+      "delta_comments": 3,
+      "rank_gain": 18,
+      "rising_score": 89.58,
+      "rising_rank": 5,
+      "window_minutes": 8
     },
     {
-      "source": "디시인사이드",
-      "title": "젠지 vs 라이온 경기짤...gif",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475897&_dcbest=1&page=1",
-      "category": "스포츠",
-      "views": 37837,
-      "likes": 490,
-      "comments": 248,
-      "score": 75.35,
-      "change": "NEW",
-      "current_rank": 8,
-      "new_entry": true,
-      "delta_views": 0,
+      "source": "인벤",
+      "title": "팬티에 똥 지려도 잘 사는 여자.jpg",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2749240",
+      "category": "이슈",
+      "views": 2694,
+      "likes": 1,
+      "comments": 10,
+      "score": 56.51,
+      "change": 0,
+      "current_rank": 68,
+      "new_entry": false,
+      "delta_views": 244,
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 73.65,
+      "rising_score": 89.58,
+      "rising_rank": 6,
+      "window_minutes": 8
+    },
+    {
+      "source": "클리앙",
+      "title": "집값이 25평이나 50평이나 큰 차이가 없네요.",
+      "url": "https://www.clien.net/service/board/park/19288057?od=T31&po=0&category=0&groupCd=",
+      "category": "생활",
+      "views": 700,
+      "likes": 0,
+      "comments": 19,
+      "score": 73.1,
+      "change": 5,
+      "current_rank": 14,
+      "new_entry": false,
+      "delta_views": 354,
+      "delta_likes": 0,
+      "delta_comments": 12,
+      "rank_gain": 5,
+      "rising_score": 88.93,
+      "rising_rank": 7,
+      "window_minutes": 8
+    },
+    {
+      "source": "뽐뿌",
+      "title": "ㅇㅎ) 코 세척하는 여자 배우 ㄷ",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=gameforum&no=381953",
+      "category": "연예",
+      "views": 23086,
+      "likes": 7,
+      "comments": 40,
+      "score": 68.91,
+      "change": 0,
+      "current_rank": 20,
+      "new_entry": false,
+      "delta_views": 1699,
+      "delta_likes": 0,
+      "delta_comments": 4,
+      "rank_gain": 0,
+      "rising_score": 88.85,
       "rising_rank": 8,
-      "window_minutes": 468
+      "window_minutes": 8
     },
     {
       "source": "디시인사이드",
       "title": "[속보] 크리스티아누 호날두, 국가대표 선수 은퇴",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475927&_dcbest=1&page=1",
       "category": "스포츠",
-      "views": 7953,
-      "likes": 73,
-      "comments": 203,
-      "score": 75.29,
-      "change": "NEW",
-      "current_rank": 9,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 73.62,
+      "views": 9650,
+      "likes": 85,
+      "comments": 230,
+      "score": 77.34,
+      "change": 2,
+      "current_rank": 7,
+      "new_entry": false,
+      "delta_views": 1697,
+      "delta_likes": 12,
+      "delta_comments": 27,
+      "rank_gain": 2,
+      "rising_score": 86.09,
       "rising_rank": 9,
-      "window_minutes": 468
+      "window_minutes": 8
     },
     {
-      "source": "클리앙",
-      "title": "李대통령 '부동산 투기 3차 단속 시작…범죄로 돈 벌던 시대 끝",
-      "url": "https://www.clien.net/service/board/park/19288052?od=T31&po=0&category=0&groupCd=",
+      "source": "뽐뿌",
+      "title": "미국 프리마켓 현황.jpg",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=451009",
       "category": "이슈",
-      "views": 1029,
-      "likes": 3,
-      "comments": 15,
-      "score": 74.99,
-      "change": "NEW",
-      "current_rank": 10,
-      "new_entry": true,
-      "delta_views": 0,
+      "views": 11265,
+      "likes": 2,
+      "comments": 10,
+      "score": 60.73,
+      "change": 0,
+      "current_rank": 51,
+      "new_entry": false,
+      "delta_views": 1642,
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 73.5,
+      "rising_score": 85.0,
       "rising_rank": 10,
-      "window_minutes": 468
+      "window_minutes": 8
     }
   ],
   "issues": [
@@ -622,6 +622,45 @@
       "change": 0
     },
     {
+      "id": "i4bd2f982",
+      "title": "[속보] 크리스티아누 호날두, 국가대표 선수 은퇴",
+      "keywords": [
+        "호날두",
+        "국가대표"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 96.83,
+      "peak_score": 85.34,
+      "appearances": 2,
+      "sources": [
+        "디시인사이드",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 7,
+          "title": "[속보] 크리스티아누 호날두, 국가대표 선수 은퇴",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475927&_dcbest=1&page=1",
+          "score": 77.34
+        },
+        {
+          "source": "클리앙",
+          "rank": 34,
+          "title": "호날두 국가대표 은퇴선언",
+          "url": "https://www.clien.net/service/board/park/19288063?od=T31&po=0&category=0&groupCd=",
+          "score": 64.53
+        }
+      ],
+      "first_seen": "2026-11-05T20:30:15.586645+09:00",
+      "last_seen": "2026-11-05T20:37:49.856231+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 6,
+      "change": 3
+    },
+    {
       "id": "i1a43d719",
       "title": "‘유선민’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -656,8 +695,8 @@
       "last_seen": "2026-11-05T02:56:56.923494+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
-      "change": 0
+      "rank": 7,
+      "change": -1
     },
     {
       "id": "ib6978d90",
@@ -702,8 +741,8 @@
       "last_seen": "2026-11-05T02:56:56.923494+09:00",
       "latest_source_count": 3,
       "latest_post_count": 3,
-      "rank": 7,
-      "change": 0
+      "rank": 8,
+      "change": -1
     },
     {
       "id": "i0cdcc665",
@@ -741,47 +780,8 @@
       "last_seen": "2026-11-05T08:34:30.464171+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 8,
-      "change": 0
-    },
-    {
-      "id": "i4bd2f982",
-      "title": "[속보] 크리스티아누 호날두, 국가대표 선수 은퇴",
-      "keywords": [
-        "국가대표",
-        "호날두"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 92.76,
-      "peak_score": 83.29,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 9,
-          "title": "[속보] 크리스티아누 호날두, 국가대표 선수 은퇴",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475927&_dcbest=1&page=1",
-          "score": 75.29
-        },
-        {
-          "source": "클리앙",
-          "rank": 45,
-          "title": "호날두 국가대표 은퇴선언",
-          "url": "https://www.clien.net/service/board/park/19288063?od=T31&po=0&category=0&groupCd=",
-          "score": 60.67
-        }
-      ],
-      "first_seen": "2026-11-05T20:30:15.586645+09:00",
-      "last_seen": "2026-11-05T20:30:15.586645+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 9,
-      "change": "NEW"
+      "change": -1
     },
     {
       "id": "i8ac4ec41",
@@ -820,7 +820,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 10,
-      "change": -1
+      "change": 0
     }
   ],
   "realtime_issues": [
@@ -828,13 +828,13 @@
       "id": "i4bd2f982",
       "title": "[속보] 크리스티아누 호날두, 국가대표 선수 은퇴",
       "keywords": [
-        "국가대표",
-        "호날두"
+        "호날두",
+        "국가대표"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 83.29,
-      "peak_score": 83.29,
+      "score": 85.34,
+      "peak_score": 85.34,
       "appearances": 1,
       "sources": [
         "디시인사이드",
@@ -843,21 +843,21 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 9,
+          "rank": 7,
           "title": "[속보] 크리스티아누 호날두, 국가대표 선수 은퇴",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475927&_dcbest=1&page=1",
-          "score": 75.29
+          "score": 77.34
         },
         {
           "source": "클리앙",
-          "rank": 45,
+          "rank": 34,
           "title": "호날두 국가대표 은퇴선언",
           "url": "https://www.clien.net/service/board/park/19288063?od=T31&po=0&category=0&groupCd=",
-          "score": 60.67
+          "score": 64.53
         }
       ],
       "rank": 1,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i7ac9c329",
@@ -877,79 +877,113 @@
       "posts": [
         {
           "source": "더쿠",
-          "rank": 18,
+          "rank": 22,
           "title": "[속보]최태원 \"한국·일본 손잡아야 AI 패권경쟁서 승산\"",
           "url": "https://theqoo.net/hot/4396851568",
           "score": 68.53
         },
         {
           "source": "디시인사이드",
-          "rank": 96,
+          "rank": 97,
           "title": "최태원 주식 존나 팔앗네 ㅋㅋㅋㅌ",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475882&_dcbest=1&page=1",
-          "score": 51.55
+          "score": 51.63
         }
       ],
       "rank": 2,
-      "change": "NEW"
+      "change": 0
     },
     {
-      "id": "i36ddd5fd",
-      "title": "‘민주당’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i1a3ab1ae",
+      "title": "‘경찰관’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "민주당"
+        "경찰관"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 69.8,
-      "peak_score": 69.8,
+      "score": 68.98,
+      "peak_score": 68.98,
       "appearances": 1,
       "sources": [
-        "뽐뿌",
-        "클리앙"
+        "디시인사이드",
+        "인벤"
       ],
       "posts": [
         {
-          "source": "뽐뿌",
-          "rank": 43,
-          "title": "美 민주당 의회 장악에 빅테크 긴장…트럼프 밀착 기업 조사 비상",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=news_society&no=516010",
-          "score": 60.8
+          "source": "인벤",
+          "rank": 58,
+          "title": "119 구급 대원한테 부모님까지 들먹이며 욕설한 경찰관",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2749266",
+          "score": 59.98
         },
         {
-          "source": "클리앙",
-          "rank": 89,
-          "title": "김민석 사퇴 하라 민주당 유린하고 당원 개 돼지로 아는 김민석 사퇴하라",
-          "url": "https://www.clien.net/service/board/park/19288038?od=T31&po=0&category=0&groupCd=",
-          "score": 54.01
+          "source": "디시인사이드",
+          "rank": 78,
+          "title": "장윤기 수사 경찰관 \"사건 은폐 아냐...경솔했다\"",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475919&_dcbest=1&page=1",
+          "score": 55.2
         }
       ],
       "rank": 3,
+      "change": "NEW"
+    },
+    {
+      "id": "i2e26d9ac",
+      "title": "‘데이터센터’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "데이터센터"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 64.56,
+      "peak_score": 64.56,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 76,
+          "title": "위잉위잉 모두가 기피하는 데이터센터 소음 ㄷㄷ",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475873&_dcbest=1&page=1",
+          "score": 55.56
+        },
+        {
+          "source": "루리웹",
+          "rank": 90,
+          "title": "? : 고소의 나라인데 데이터센터 저렇게 지어도 문제 없나?",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77280434?m=humor_only&t=now",
+          "score": 53.68
+        }
+      ],
+      "rank": 4,
       "change": "NEW"
     }
   ],
   "keywords": [
     {
-      "keyword": "한국",
-      "score": 129.36,
-      "post_count": 4,
+      "keyword": "일본",
+      "score": 120.31,
+      "post_count": 3,
       "source_count": 3,
-      "best_rank": 18,
+      "best_rank": 22,
       "sources": [
         "더쿠",
-        "뽐뿌",
+        "루리웹",
         "인벤"
       ],
       "aliases": [],
       "rank": 1,
-      "change": 1
+      "change": 4
     },
     {
       "keyword": "vs",
-      "score": 123.86,
+      "score": 120.18,
       "post_count": 3,
       "source_count": 3,
-      "best_rank": 8,
+      "best_rank": 9,
       "sources": [
         "더쿠",
         "디시인사이드",
@@ -957,14 +991,14 @@
       ],
       "aliases": [],
       "rank": 2,
-      "change": "NEW"
+      "change": 0
     },
     {
       "keyword": "미국",
-      "score": 119.77,
+      "score": 120.15,
       "post_count": 3,
       "source_count": 3,
-      "best_rank": 14,
+      "best_rank": 10,
       "sources": [
         "더쿠",
         "디시인사이드",
@@ -972,14 +1006,28 @@
       ],
       "aliases": [],
       "rank": 3,
-      "change": "NEW"
+      "change": 0
+    },
+    {
+      "keyword": "한국",
+      "score": 102.46,
+      "post_count": 3,
+      "source_count": 2,
+      "best_rank": 22,
+      "sources": [
+        "더쿠",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 4,
+      "change": -3
     },
     {
       "keyword": "국가대표",
-      "score": 98.64,
+      "score": 101.73,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 9,
+      "best_rank": 7,
       "sources": [
         "디시인사이드",
         "클리앙"
@@ -987,59 +1035,45 @@
       "aliases": [
         "호날두"
       ],
-      "rank": 4,
-      "change": "NEW"
+      "rank": 5,
+      "change": -1
     },
     {
-      "keyword": "일본",
-      "score": 96.19,
+      "keyword": "영국",
+      "score": 97.16,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 18,
+      "best_rank": 10,
       "sources": [
         "더쿠",
-        "인벤"
-      ],
-      "aliases": [],
-      "rank": 5,
-      "change": 10
-    },
-    {
-      "keyword": "가격",
-      "score": 91.07,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 26,
-      "sources": [
-        "디시인사이드",
-        "인벤"
+        "루리웹"
       ],
       "aliases": [],
       "rank": 6,
       "change": "NEW"
     },
     {
-      "keyword": "민주당",
-      "score": 90.46,
-      "post_count": 3,
+      "keyword": "가격",
+      "score": 94.47,
+      "post_count": 2,
       "source_count": 2,
-      "best_rank": 43,
+      "best_rank": 17,
       "sources": [
-        "뽐뿌",
-        "클리앙"
+        "디시인사이드",
+        "인벤"
       ],
       "aliases": [],
       "rank": 7,
-      "change": "NEW"
+      "change": -1
     },
     {
-      "keyword": "정책",
-      "score": 89.33,
+      "keyword": "북한",
+      "score": 90.49,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 21,
+      "best_rank": 31,
       "sources": [
-        "더쿠",
+        "루리웹",
         "클리앙"
       ],
       "aliases": [],
@@ -1047,97 +1081,98 @@
       "change": "NEW"
     },
     {
-      "keyword": "최태원",
-      "score": 86.07,
+      "keyword": "고소",
+      "score": 90.11,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 18,
+      "best_rank": 13,
       "sources": [
-        "더쿠",
-        "디시인사이드"
+        "디시인사이드",
+        "루리웹"
       ],
       "aliases": [],
       "rank": 9,
       "change": "NEW"
     },
     {
-      "keyword": "전국",
-      "score": 85.53,
+      "keyword": "정책",
+      "score": 85.87,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 24,
+      "best_rank": 23,
+      "sources": [
+        "더쿠",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 10,
+      "change": -2
+    },
+    {
+      "keyword": "전국",
+      "score": 85.12,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 25,
       "sources": [
         "디시인사이드",
         "인벤"
       ],
       "aliases": [],
-      "rank": 10,
-      "change": "NEW"
+      "rank": 11,
+      "change": -1
     },
     {
-      "keyword": "최근",
-      "score": 84.74,
+      "keyword": "최태원",
+      "score": 84.78,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 49,
+      "best_rank": 22,
       "sources": [
-        "뽐뿌",
-        "인벤"
+        "더쿠",
+        "디시인사이드"
       ],
       "aliases": [],
-      "rank": 11,
-      "change": "NEW"
+      "rank": 12,
+      "change": -3
     },
     {
       "keyword": "존나",
-      "score": 76.72,
+      "score": 83.11,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 76,
+      "best_rank": 32,
       "sources": [
         "디시인사이드",
         "루리웹"
       ],
       "aliases": [],
-      "rank": 12,
-      "change": "NEW"
-    },
-    {
-      "keyword": "인스타",
-      "score": 76.29,
-      "post_count": 4,
-      "source_count": 1,
-      "best_rank": 31,
-      "sources": [
-        "인벤"
-      ],
-      "aliases": [
-        "후방"
-      ],
       "rank": 13,
-      "change": "NEW"
+      "change": -1
     },
     {
-      "keyword": "부동산",
-      "score": 75.33,
-      "post_count": 3,
-      "source_count": 1,
-      "best_rank": 10,
+      "keyword": "최근",
+      "score": 82.53,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 45,
       "sources": [
-        "클리앙"
+        "뽐뿌",
+        "인벤"
       ],
       "aliases": [],
       "rank": 14,
-      "change": "NEW"
+      "change": -3
     },
     {
-      "keyword": "맥심",
-      "score": 66.46,
-      "post_count": 3,
-      "source_count": 1,
-      "best_rank": 60,
+      "keyword": "있지",
+      "score": 82.42,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 65,
       "sources": [
-        "인벤"
+        "루리웹",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 15,
@@ -1147,51 +1182,51 @@
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "???:5년차에 영끌월급700 못받으면 회사가 ↗소임.",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77281149?m=humor",
-      "score": 96.19,
-      "views": 13986,
-      "comments": 93
+      "title": "젊은 세대에게 인기 없다는 안주 근황",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77280477?m=humor",
+      "score": 98.12,
+      "views": 27573,
+      "comments": 94
     },
     {
       "source": "더쿠",
       "title": "카메라 좋다는것도 이제 옛말이라는 갤럭시 울트라 시리즈.jpg",
       "url": "https://theqoo.net/hot/4396887170",
-      "score": 87.0,
-      "views": 36161,
-      "comments": 386
-    },
-    {
-      "source": "뽐뿌",
-      "title": "ㅇㅎ) 코 세척하는 여자 배우 ㄷ",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=gameforum&no=381953",
-      "score": 76.98,
-      "views": 21387,
-      "comments": 36
-    },
-    {
-      "source": "디시인사이드",
-      "title": "젠지 vs 라이온 경기짤...gif",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475897&_dcbest=1&page=1",
-      "score": 75.35,
-      "views": 37837,
-      "comments": 248
-    },
-    {
-      "source": "클리앙",
-      "title": "李대통령 '부동산 투기 3차 단속 시작…범죄로 돈 벌던 시대 끝",
-      "url": "https://www.clien.net/service/board/park/19288052?od=T31&po=0&category=0&groupCd=",
-      "score": 74.99,
-      "views": 1029,
-      "comments": 15
+      "score": 88.0,
+      "views": 38204,
+      "comments": 405
     },
     {
       "source": "인벤",
-      "title": "빼빼로 늙크크 판독기",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2749256",
-      "score": 74.79,
-      "views": 847,
+      "title": "와우 길드 공지사항",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2749261",
+      "score": 79.66,
+      "views": 979,
       "comments": 11
+    },
+    {
+      "source": "디시인사이드",
+      "title": "[속보] 크리스티아누 호날두, 국가대표 선수 은퇴",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475927&_dcbest=1&page=1",
+      "score": 77.34,
+      "views": 9650,
+      "comments": 230
+    },
+    {
+      "source": "클리앙",
+      "title": "여우 키워보실분?",
+      "url": "https://www.clien.net/service/board/park/19288064?od=T31&po=0&category=0&groupCd=",
+      "score": 73.6,
+      "views": 334,
+      "comments": 6
+    },
+    {
+      "source": "뽐뿌",
+      "title": "소방관 목숨부터 챙기는 추미애 지사.jpg",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10177656",
+      "score": 71.29,
+      "views": 1276,
+      "comments": 1
     }
   ]
 }

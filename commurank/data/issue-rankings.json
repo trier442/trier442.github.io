@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-11-05T20:30:15.586645+09:00",
+  "collected_at": "2026-11-05T20:37:49.856231+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -14,13 +14,13 @@
         "id": "i4bd2f982",
         "title": "[속보] 크리스티아누 호날두, 국가대표 선수 은퇴",
         "keywords": [
-          "국가대표",
-          "호날두"
+          "호날두",
+          "국가대표"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 83.29,
-        "peak_score": 83.29,
+        "score": 85.34,
+        "peak_score": 85.34,
         "appearances": 1,
         "sources": [
           "디시인사이드",
@@ -29,21 +29,21 @@
         "posts": [
           {
             "source": "디시인사이드",
-            "rank": 9,
+            "rank": 7,
             "title": "[속보] 크리스티아누 호날두, 국가대표 선수 은퇴",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475927&_dcbest=1&page=1",
-            "score": 75.29
+            "score": 77.34
           },
           {
             "source": "클리앙",
-            "rank": 45,
+            "rank": 34,
             "title": "호날두 국가대표 은퇴선언",
             "url": "https://www.clien.net/service/board/park/19288063?od=T31&po=0&category=0&groupCd=",
-            "score": 60.67
+            "score": 64.53
           }
         ],
         "rank": 1,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "i7ac9c329",
@@ -63,54 +63,88 @@
         "posts": [
           {
             "source": "더쿠",
-            "rank": 18,
+            "rank": 22,
             "title": "[속보]최태원 \"한국·일본 손잡아야 AI 패권경쟁서 승산\"",
             "url": "https://theqoo.net/hot/4396851568",
             "score": 68.53
           },
           {
             "source": "디시인사이드",
-            "rank": 96,
+            "rank": 97,
             "title": "최태원 주식 존나 팔앗네 ㅋㅋㅋㅌ",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475882&_dcbest=1&page=1",
-            "score": 51.55
+            "score": 51.63
           }
         ],
         "rank": 2,
-        "change": "NEW"
+        "change": 0
       },
       {
-        "id": "i36ddd5fd",
-        "title": "‘민주당’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i1a3ab1ae",
+        "title": "‘경찰관’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "민주당"
+          "경찰관"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 69.8,
-        "peak_score": 69.8,
+        "score": 68.98,
+        "peak_score": 68.98,
         "appearances": 1,
         "sources": [
-          "뽐뿌",
-          "클리앙"
+          "디시인사이드",
+          "인벤"
         ],
         "posts": [
           {
-            "source": "뽐뿌",
-            "rank": 43,
-            "title": "美 민주당 의회 장악에 빅테크 긴장…트럼프 밀착 기업 조사 비상",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=news_society&no=516010",
-            "score": 60.8
+            "source": "인벤",
+            "rank": 58,
+            "title": "119 구급 대원한테 부모님까지 들먹이며 욕설한 경찰관",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2749266",
+            "score": 59.98
           },
           {
-            "source": "클리앙",
-            "rank": 89,
-            "title": "김민석 사퇴 하라 민주당 유린하고 당원 개 돼지로 아는 김민석 사퇴하라",
-            "url": "https://www.clien.net/service/board/park/19288038?od=T31&po=0&category=0&groupCd=",
-            "score": 54.01
+            "source": "디시인사이드",
+            "rank": 78,
+            "title": "장윤기 수사 경찰관 \"사건 은폐 아냐...경솔했다\"",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475919&_dcbest=1&page=1",
+            "score": 55.2
           }
         ],
         "rank": 3,
+        "change": "NEW"
+      },
+      {
+        "id": "i2e26d9ac",
+        "title": "‘데이터센터’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "데이터센터"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 64.56,
+        "peak_score": 64.56,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "루리웹"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 76,
+            "title": "위잉위잉 모두가 기피하는 데이터센터 소음 ㄷㄷ",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475873&_dcbest=1&page=1",
+            "score": 55.56
+          },
+          {
+            "source": "루리웹",
+            "rank": 90,
+            "title": "? : 고소의 나라인데 데이터센터 저렇게 지어도 문제 없나?",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77280434?m=humor_only&t=now",
+            "score": 53.68
+          }
+        ],
+        "rank": 4,
         "change": "NEW"
       }
     ],
@@ -316,6 +350,45 @@
         "change": 0
       },
       {
+        "id": "i4bd2f982",
+        "title": "[속보] 크리스티아누 호날두, 국가대표 선수 은퇴",
+        "keywords": [
+          "호날두",
+          "국가대표"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 96.83,
+        "peak_score": 85.34,
+        "appearances": 2,
+        "sources": [
+          "디시인사이드",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 7,
+            "title": "[속보] 크리스티아누 호날두, 국가대표 선수 은퇴",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475927&_dcbest=1&page=1",
+            "score": 77.34
+          },
+          {
+            "source": "클리앙",
+            "rank": 34,
+            "title": "호날두 국가대표 은퇴선언",
+            "url": "https://www.clien.net/service/board/park/19288063?od=T31&po=0&category=0&groupCd=",
+            "score": 64.53
+          }
+        ],
+        "first_seen": "2026-11-05T20:30:15.586645+09:00",
+        "last_seen": "2026-11-05T20:37:49.856231+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 6,
+        "change": 3
+      },
+      {
         "id": "i1a43d719",
         "title": "‘유선민’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -350,8 +423,8 @@
         "last_seen": "2026-11-05T02:56:56.923494+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 6,
-        "change": 0
+        "rank": 7,
+        "change": -1
       },
       {
         "id": "ib6978d90",
@@ -396,8 +469,8 @@
         "last_seen": "2026-11-05T02:56:56.923494+09:00",
         "latest_source_count": 3,
         "latest_post_count": 3,
-        "rank": 7,
-        "change": 0
+        "rank": 8,
+        "change": -1
       },
       {
         "id": "i0cdcc665",
@@ -435,47 +508,8 @@
         "last_seen": "2026-11-05T08:34:30.464171+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 8,
-        "change": 0
-      },
-      {
-        "id": "i4bd2f982",
-        "title": "[속보] 크리스티아누 호날두, 국가대표 선수 은퇴",
-        "keywords": [
-          "국가대표",
-          "호날두"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 92.76,
-        "peak_score": 83.29,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 9,
-            "title": "[속보] 크리스티아누 호날두, 국가대표 선수 은퇴",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475927&_dcbest=1&page=1",
-            "score": 75.29
-          },
-          {
-            "source": "클리앙",
-            "rank": 45,
-            "title": "호날두 국가대표 은퇴선언",
-            "url": "https://www.clien.net/service/board/park/19288063?od=T31&po=0&category=0&groupCd=",
-            "score": 60.67
-          }
-        ],
-        "first_seen": "2026-11-05T20:30:15.586645+09:00",
-        "last_seen": "2026-11-05T20:30:15.586645+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 9,
-        "change": "NEW"
+        "change": -1
       },
       {
         "id": "i8ac4ec41",
@@ -514,7 +548,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 10,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i1cc33293",
@@ -552,7 +586,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 11,
-        "change": -1
+        "change": 0
       },
       {
         "id": "ibd822fda",
@@ -590,7 +624,45 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 12,
-        "change": -1
+        "change": 0
+      },
+      {
+        "id": "i7ac9c329",
+        "title": "‘최태원’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "최태원"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 89.02,
+        "peak_score": 77.53,
+        "appearances": 2,
+        "sources": [
+          "더쿠",
+          "디시인사이드"
+        ],
+        "posts": [
+          {
+            "source": "더쿠",
+            "rank": 22,
+            "title": "[속보]최태원 \"한국·일본 손잡아야 AI 패권경쟁서 승산\"",
+            "url": "https://theqoo.net/hot/4396851568",
+            "score": 68.53
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 97,
+            "title": "최태원 주식 존나 팔앗네 ㅋㅋㅋㅌ",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475882&_dcbest=1&page=1",
+            "score": 51.63
+          }
+        ],
+        "first_seen": "2026-10-09T19:32:06.514270+09:00",
+        "last_seen": "2026-11-05T20:37:49.856231+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 13,
+        "change": 4
       },
       {
         "id": "i36ddd5fd",
@@ -628,8 +700,8 @@
         "last_seen": "2026-11-05T20:30:15.586645+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 13,
-        "change": 2
+        "rank": 14,
+        "change": -1
       },
       {
         "id": "ib85b481b",
@@ -666,8 +738,8 @@
         "last_seen": "2026-11-05T02:48:14.865734+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 14,
-        "change": -2
+        "rank": 15,
+        "change": -1
       },
       {
         "id": "id2ad93bd",
@@ -706,8 +778,8 @@
         "last_seen": "2026-11-05T08:12:16.179168+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 15,
-        "change": -2
+        "rank": 16,
+        "change": -1
       },
       {
         "id": "iae6b0123",
@@ -744,46 +816,8 @@
         "last_seen": "2026-11-05T12:42:06.097978+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 16,
-        "change": -2
-      },
-      {
-        "id": "i7ac9c329",
-        "title": "‘최태원’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "최태원"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 87.0,
-        "peak_score": 77.53,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "디시인사이드"
-        ],
-        "posts": [
-          {
-            "source": "더쿠",
-            "rank": 18,
-            "title": "[속보]최태원 \"한국·일본 손잡아야 AI 패권경쟁서 승산\"",
-            "url": "https://theqoo.net/hot/4396851568",
-            "score": 68.53
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 96,
-            "title": "최태원 주식 존나 팔앗네 ㅋㅋㅋㅌ",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475882&_dcbest=1&page=1",
-            "score": 51.55
-          }
-        ],
-        "first_seen": "2026-10-09T19:32:06.514270+09:00",
-        "last_seen": "2026-11-05T20:30:15.586645+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 17,
-        "change": "NEW"
+        "change": -1
       },
       {
         "id": "ife021da2",
@@ -821,7 +855,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 18,
-        "change": -2
+        "change": 0
       },
       {
         "id": "i6a985c1e",
@@ -860,45 +894,45 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 19,
-        "change": -2
+        "change": 0
       },
       {
-        "id": "ieef61a46",
-        "title": "‘머스크’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i1a3ab1ae",
+        "title": "‘경찰관’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "머스크"
+          "경찰관"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 78.14,
-        "peak_score": 68.67,
+        "score": 78.45,
+        "peak_score": 68.98,
         "appearances": 1,
         "sources": [
-          "더쿠",
-          "클리앙"
+          "디시인사이드",
+          "인벤"
         ],
         "posts": [
           {
-            "source": "클리앙",
-            "rank": 56,
-            "title": "'6천억 날렸다'…'최대 패배자' 된 머스크",
-            "url": "https://www.clien.net/service/board/park/19287686?od=T31&po=0&category=0&groupCd=",
-            "score": 59.67
+            "source": "인벤",
+            "rank": 58,
+            "title": "119 구급 대원한테 부모님까지 들먹이며 욕설한 경찰관",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2749266",
+            "score": 59.98
           },
           {
-            "source": "더쿠",
-            "rank": 63,
-            "title": "일론 머스크 : 머지않아 아무도 일하지 않고 초고소득을 받는 시대가 올 것",
-            "url": "https://theqoo.net/hot/4396088487",
-            "score": 58.74
+            "source": "디시인사이드",
+            "rank": 78,
+            "title": "장윤기 수사 경찰관 \"사건 은폐 아냐...경솔했다\"",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475919&_dcbest=1&page=1",
+            "score": 55.2
           }
         ],
-        "first_seen": "2026-11-04T18:57:48.394871+09:00",
-        "last_seen": "2026-11-05T08:12:16.179168+09:00",
+        "first_seen": "2026-11-05T20:37:49.856231+09:00",
+        "last_seen": "2026-11-05T20:37:49.856231+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 20,
-        "change": -2
+        "change": "NEW"
       }
     ],
     "weekly": [
@@ -1529,6 +1563,45 @@
         "change": 0
       },
       {
+        "id": "i4bd2f982",
+        "title": "[속보] 크리스티아누 호날두, 국가대표 선수 은퇴",
+        "keywords": [
+          "호날두",
+          "국가대표"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 96.83,
+        "peak_score": 85.34,
+        "appearances": 2,
+        "sources": [
+          "디시인사이드",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 7,
+            "title": "[속보] 크리스티아누 호날두, 국가대표 선수 은퇴",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475927&_dcbest=1&page=1",
+            "score": 77.34
+          },
+          {
+            "source": "클리앙",
+            "rank": 34,
+            "title": "호날두 국가대표 은퇴선언",
+            "url": "https://www.clien.net/service/board/park/19288063?od=T31&po=0&category=0&groupCd=",
+            "score": 64.53
+          }
+        ],
+        "first_seen": "2026-11-05T20:30:15.586645+09:00",
+        "last_seen": "2026-11-05T20:37:49.856231+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 17,
+        "change": "NEW"
+      },
+      {
         "id": "i77bec7b9",
         "title": "‘윤석열’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -1563,8 +1636,8 @@
         "last_seen": "2026-11-04T18:57:48.394871+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 17,
-        "change": 0
+        "rank": 18,
+        "change": -1
       },
       {
         "id": "i1a43d719",
@@ -1601,8 +1674,8 @@
         "last_seen": "2026-11-05T02:56:56.923494+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 18,
-        "change": 0
+        "rank": 19,
+        "change": -1
       },
       {
         "id": "ib6978d90",
@@ -1648,46 +1721,8 @@
         "last_seen": "2026-11-05T02:56:56.923494+09:00",
         "latest_source_count": 3,
         "latest_post_count": 3,
-        "rank": 19,
-        "change": 0
-      },
-      {
-        "id": "i5d6688ff",
-        "title": "‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "네이버페이"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 95.52,
-        "peak_score": 84.03,
-        "appearances": 2,
-        "sources": [
-          "루리웹",
-          "뽐뿌"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 8,
-            "title": "[네이버쇼핑]네이버페이 카페이벤트 종료/메가커피22%+멤버십 추가 할인(11/2)",
-            "url": "https://bbs.ruliweb.com/market/board/1020/read/108577",
-            "score": 75.03
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 35,
-            "title": "[란123] 네이버페이 105원 + 랜덤 포인트 받으세요 (+기타 603원)",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10174179",
-            "score": 65.05
-          }
-        ],
-        "first_seen": "2026-09-28T07:08:45.324597+09:00",
-        "last_seen": "2026-11-03T05:16:01.731609+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 20,
-        "change": 0
+        "change": -1
       }
     ],
     "monthly": [
