@@ -3,7 +3,7 @@
   "period": "monthly",
   "key": "2026-11",
   "label": "2026년 11월",
-  "collected_at": "2026-11-06T15:59:18.215188+09:00",
+  "collected_at": "2026-11-06T23:38:03.299285+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -14,9 +14,9 @@
       ],
       "source_count": 4,
       "post_count": 6,
-      "score": 129.73,
+      "score": 130.32,
       "peak_score": 101.33,
-      "appearances": 7,
+      "appearances": 8,
       "sources": [
         "더쿠",
         "디시인사이드",
@@ -26,24 +26,31 @@
       ],
       "posts": [
         {
-          "source": "클리앙",
-          "rank": 59,
-          "title": "리센느 SBS 인터뷰",
-          "url": "https://www.clien.net/service/board/park/19288584?od=T31&po=0&category=0&groupCd=",
-          "score": 59.24
+          "source": "인벤",
+          "rank": 45,
+          "title": "리센느 메이",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2749750",
+          "score": 61.91
         },
         {
-          "source": "인벤",
-          "rank": 65,
-          "title": "드래곤빌리지3 공식 전속 모델 리센느",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2749561",
-          "score": 56.49
+          "source": "클리앙",
+          "rank": 56,
+          "title": "리센느 미나미 백화요란 안무 극락 부분",
+          "url": "https://www.clien.net/service/board/park/19288782?od=T31&po=0&category=0&groupCd=",
+          "score": 60.11
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 89,
+          "title": "흑백리뷰 CU 리센느 원이 도시락 2종 후기.jpg",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476370&_dcbest=1&page=1",
+          "score": 52.44
         }
       ],
       "first_seen": "2026-09-27T12:58:49.050910+09:00",
-      "last_seen": "2026-11-06T15:42:06.808567+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
+      "last_seen": "2026-11-06T23:38:03.299285+09:00",
+      "latest_source_count": 3,
+      "latest_post_count": 3,
       "rank": 1,
       "change": 0
     },
@@ -84,7 +91,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 2,
-      "change": 2
+      "change": 0
     },
     {
       "id": "i7b918478",
@@ -122,7 +129,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 3,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i2e26d9ac",
@@ -161,7 +168,7 @@
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 4,
-      "change": -1
+      "change": 0
     },
     {
       "id": "ife021da2",
@@ -709,7 +716,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 18,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i03005878",
@@ -748,7 +755,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 19,
-      "change": -1
+      "change": 0
     },
     {
       "id": "ide40d74c",
@@ -786,7 +793,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 20,
-      "change": -1
+      "change": 0
     }
   ]
 }
