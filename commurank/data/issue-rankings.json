@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-11-07T05:34:59.130641+09:00",
+  "collected_at": "2026-11-07T05:49:25.448993+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -11,11 +11,45 @@
   "rankings": {
     "realtime": [
       {
+        "id": "iee04cd0a",
+        "title": "‘구글에’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "구글에"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 82.2,
+        "peak_score": 82.2,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 19,
+            "title": "오싹오싹 절대 구글에 검색하면 안되는 사진",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476480&_dcbest=1&page=1",
+            "score": 73.2
+          },
+          {
+            "source": "클리앙",
+            "rank": 23,
+            "title": "구글에 시간의 오카리나 검색해 보세요",
+            "url": "https://www.clien.net/service/board/park/19288793?od=T31&po=0&category=0&groupCd=",
+            "score": 71.31
+          }
+        ],
+        "rank": 1,
+        "change": 1
+      },
+      {
         "id": "i10249b28",
         "title": "다이소 유명템 정리",
         "keywords": [
-          "유명템",
-          "다이소"
+          "다이소",
+          "유명템"
         ],
         "source_count": 2,
         "post_count": 2,
@@ -36,15 +70,54 @@
           },
           {
             "source": "뽐뿌",
-            "rank": 40,
+            "rank": 39,
             "title": "다이소 유명템 정리",
             "url": "https://www.ppomppu.co.kr/zboard/view.php?id=social&no=50842",
-            "score": 67.13
+            "score": 68.92
           }
         ],
-        "rank": 1,
-        "change": "NEW"
+        "rank": 2,
+        "change": -1
       },
+      {
+        "id": "i304a5af2",
+        "title": "언차일드 신곡 팅팅 뮤뱅",
+        "keywords": [
+          "뮤뱅",
+          "팅팅",
+          "신곡",
+          "언차일드"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 70.21,
+        "peak_score": 70.21,
+        "appearances": 1,
+        "sources": [
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 55,
+            "title": "언차일드 신곡 팅팅 뮤뱅",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2749777",
+            "score": 62.21
+          },
+          {
+            "source": "클리앙",
+            "rank": 60,
+            "title": "언차일드 신곡 '팅팅' 첫 음방 - 뮤뱅",
+            "url": "https://www.clien.net/service/board/park/19288808?od=T31&po=0&category=0&groupCd=",
+            "score": 61.31
+          }
+        ],
+        "rank": 3,
+        "change": 1
+      }
+    ],
+    "daily": [
       {
         "id": "iee04cd0a",
         "title": "‘구글에’ 관련 글이 여러 커뮤니티에서 화제",
@@ -53,151 +126,48 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 80.35,
-        "peak_score": 80.35,
-        "appearances": 1,
+        "score": 93.69,
+        "peak_score": 82.2,
+        "appearances": 2,
         "sources": [
           "디시인사이드",
           "클리앙"
         ],
         "posts": [
           {
+            "source": "디시인사이드",
+            "rank": 19,
+            "title": "오싹오싹 절대 구글에 검색하면 안되는 사진",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476480&_dcbest=1&page=1",
+            "score": 73.2
+          },
+          {
             "source": "클리앙",
             "rank": 23,
             "title": "구글에 시간의 오카리나 검색해 보세요",
             "url": "https://www.clien.net/service/board/park/19288793?od=T31&po=0&category=0&groupCd=",
-            "score": 71.35
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 26,
-            "title": "오싹오싹 절대 구글에 검색하면 안되는 사진",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476480&_dcbest=1&page=1",
-            "score": 70.75
+            "score": 71.31
           }
         ],
-        "rank": 2,
-        "change": "NEW"
+        "first_seen": "2026-11-07T05:34:59.130641+09:00",
+        "last_seen": "2026-11-07T05:49:25.448993+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 1,
+        "change": 1
       },
-      {
-        "id": "i623efd3b",
-        "title": "‘뮤직뱅크’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "뮤직뱅크"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 70.58,
-        "peak_score": 70.58,
-        "appearances": 1,
-        "sources": [
-          "루리웹",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 56,
-            "title": "아일릿, '체포하겠어'로 1위 차지 \"글릿 고마워\"('뮤직뱅크')",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2749776",
-            "score": 61.58
-          },
-          {
-            "source": "루리웹",
-            "rank": 95,
-            "title": "리센느 컴백 뮤직뱅크 첫무대 완전 군부대네 ㅋㅋㅋㅋ",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77295319?m=humor_only&t=now",
-            "score": 49.93
-          }
-        ],
-        "rank": 3,
-        "change": "NEW"
-      },
-      {
-        "id": "i304a5af2",
-        "title": "언차일드 신곡 '팅팅' 첫 음방 - 뮤뱅",
-        "keywords": [
-          "언차일드",
-          "팅팅",
-          "신곡",
-          "뮤뱅"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 69.36,
-        "peak_score": 69.36,
-        "appearances": 1,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 57,
-            "title": "언차일드 신곡 '팅팅' 첫 음방 - 뮤뱅",
-            "url": "https://www.clien.net/service/board/park/19288808?od=T31&po=0&category=0&groupCd=",
-            "score": 61.36
-          },
-          {
-            "source": "인벤",
-            "rank": 58,
-            "title": "언차일드 신곡 팅팅 뮤뱅",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2749777",
-            "score": 61.24
-          }
-        ],
-        "rank": 4,
-        "change": "NEW"
-      },
-      {
-        "id": "i2272efa7",
-        "title": "‘리센느’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "리센느"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 58.93,
-        "peak_score": 58.93,
-        "appearances": 1,
-        "sources": [
-          "루리웹",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 95,
-            "title": "리센느 컴백 뮤직뱅크 첫무대 완전 군부대네 ㅋㅋㅋㅋ",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77295319?m=humor_only&t=now",
-            "score": 49.93
-          },
-          {
-            "source": "클리앙",
-            "rank": 99,
-            "title": "리센느 미나미 백화요란 안무 극락 부분",
-            "url": "https://www.clien.net/service/board/park/19288782?od=T31&po=0&category=0&groupCd=",
-            "score": 48.9
-          }
-        ],
-        "rank": 5,
-        "change": -4
-      }
-    ],
-    "daily": [
       {
         "id": "i10249b28",
         "title": "다이소 유명템 정리",
         "keywords": [
-          "유명템",
-          "다이소"
+          "다이소",
+          "유명템"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 90.36,
+        "score": 92.38,
         "peak_score": 80.89,
-        "appearances": 1,
+        "appearances": 2,
         "sources": [
           "더쿠",
           "뽐뿌"
@@ -212,56 +182,59 @@
           },
           {
             "source": "뽐뿌",
-            "rank": 40,
+            "rank": 39,
             "title": "다이소 유명템 정리",
             "url": "https://www.ppomppu.co.kr/zboard/view.php?id=social&no=50842",
-            "score": 67.13
+            "score": 68.92
           }
         ],
         "first_seen": "2026-11-07T05:34:59.130641+09:00",
-        "last_seen": "2026-11-07T05:34:59.130641+09:00",
+        "last_seen": "2026-11-07T05:49:25.448993+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 1,
-        "change": "NEW"
+        "rank": 2,
+        "change": -1
       },
       {
-        "id": "iee04cd0a",
-        "title": "‘구글에’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i304a5af2",
+        "title": "언차일드 신곡 팅팅 뮤뱅",
         "keywords": [
-          "구글에"
+          "뮤뱅",
+          "팅팅",
+          "신곡",
+          "언차일드"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 89.82,
-        "peak_score": 80.35,
-        "appearances": 1,
+        "score": 81.7,
+        "peak_score": 70.21,
+        "appearances": 2,
         "sources": [
-          "디시인사이드",
+          "인벤",
           "클리앙"
         ],
         "posts": [
           {
-            "source": "클리앙",
-            "rank": 23,
-            "title": "구글에 시간의 오카리나 검색해 보세요",
-            "url": "https://www.clien.net/service/board/park/19288793?od=T31&po=0&category=0&groupCd=",
-            "score": 71.35
+            "source": "인벤",
+            "rank": 55,
+            "title": "언차일드 신곡 팅팅 뮤뱅",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2749777",
+            "score": 62.21
           },
           {
-            "source": "디시인사이드",
-            "rank": 26,
-            "title": "오싹오싹 절대 구글에 검색하면 안되는 사진",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476480&_dcbest=1&page=1",
-            "score": 70.75
+            "source": "클리앙",
+            "rank": 60,
+            "title": "언차일드 신곡 '팅팅' 첫 음방 - 뮤뱅",
+            "url": "https://www.clien.net/service/board/park/19288808?od=T31&po=0&category=0&groupCd=",
+            "score": 61.31
           }
         ],
-        "first_seen": "2026-11-07T05:34:59.130641+09:00",
-        "last_seen": "2026-11-07T05:34:59.130641+09:00",
+        "first_seen": "2026-11-01T17:02:11.943256+09:00",
+        "last_seen": "2026-11-07T05:49:25.448993+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 2,
-        "change": "NEW"
+        "rank": 3,
+        "change": 1
       },
       {
         "id": "i623efd3b",
@@ -298,49 +271,8 @@
         "last_seen": "2026-11-07T05:34:59.130641+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 3,
-        "change": "NEW"
-      },
-      {
-        "id": "i304a5af2",
-        "title": "언차일드 신곡 '팅팅' 첫 음방 - 뮤뱅",
-        "keywords": [
-          "언차일드",
-          "팅팅",
-          "신곡",
-          "뮤뱅"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 78.83,
-        "peak_score": 69.36,
-        "appearances": 1,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 57,
-            "title": "언차일드 신곡 '팅팅' 첫 음방 - 뮤뱅",
-            "url": "https://www.clien.net/service/board/park/19288808?od=T31&po=0&category=0&groupCd=",
-            "score": 61.36
-          },
-          {
-            "source": "인벤",
-            "rank": 58,
-            "title": "언차일드 신곡 팅팅 뮤뱅",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2749777",
-            "score": 61.24
-          }
-        ],
-        "first_seen": "2026-11-01T17:02:11.943256+09:00",
-        "last_seen": "2026-11-07T05:34:59.130641+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 4,
-        "change": "NEW"
+        "change": -1
       },
       {
         "id": "i2272efa7",
@@ -378,7 +310,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 5,
-        "change": 5
+        "change": 0
       }
     ],
     "weekly": [
