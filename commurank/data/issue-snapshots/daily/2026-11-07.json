@@ -3,9 +3,47 @@
   "period": "daily",
   "key": "2026-11-07",
   "label": "2026년 11월 07일",
-  "collected_at": "2026-11-07T05:49:25.448993+09:00",
+  "collected_at": "2026-11-07T09:20:58.521837+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
+    {
+      "id": "i6576e44b",
+      "title": "‘아무도’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "아무도"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 99.29,
+      "peak_score": 89.82,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 6,
+          "title": "아무도 관심없을 축협회장 선거 근황...jpg",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476512&_dcbest=1&page=1",
+          "score": 80.82
+        },
+        {
+          "source": "더쿠",
+          "rank": 57,
+          "title": "재혼황후 새..이렇게 재우는거 맞아? 이거 왜 아무도 말안해..￼",
+          "url": "https://theqoo.net/hot/4398081873",
+          "score": 58.74
+        }
+      ],
+      "first_seen": "2026-11-07T09:20:58.521837+09:00",
+      "last_seen": "2026-11-07T09:20:58.521837+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 1,
+      "change": "NEW"
+    },
     {
       "id": "iee04cd0a",
       "title": "‘구글에’ 관련 글이 여러 커뮤니티에서 화제",
@@ -41,8 +79,8 @@
       "last_seen": "2026-11-07T05:49:25.448993+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 1,
-      "change": 1
+      "rank": 2,
+      "change": -1
     },
     {
       "id": "i10249b28",
@@ -80,7 +118,7 @@
       "last_seen": "2026-11-07T05:49:25.448993+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 2,
+      "rank": 3,
       "change": -1
     },
     {
@@ -121,8 +159,8 @@
       "last_seen": "2026-11-07T05:49:25.448993+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 3,
-      "change": 1
+      "rank": 4,
+      "change": -1
     },
     {
       "id": "i623efd3b",
@@ -159,7 +197,7 @@
       "last_seen": "2026-11-07T05:34:59.130641+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 4,
+      "rank": 5,
       "change": -1
     },
     {
@@ -197,8 +235,8 @@
       "last_seen": "2026-11-07T05:34:59.130641+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
-      "change": 0
+      "rank": 6,
+      "change": -1
     }
   ]
 }
