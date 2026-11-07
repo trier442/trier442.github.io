@@ -3,7 +3,7 @@
   "period": "daily",
   "key": "2026-11-07",
   "label": "2026년 11월 07일",
-  "collected_at": "2026-11-07T09:20:58.521837+09:00",
+  "collected_at": "2026-11-07T09:26:15.650624+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -14,9 +14,9 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 99.29,
-      "peak_score": 89.82,
-      "appearances": 1,
+      "score": 104.03,
+      "peak_score": 92.54,
+      "appearances": 2,
       "sources": [
         "더쿠",
         "디시인사이드"
@@ -24,10 +24,10 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 6,
+          "rank": 5,
           "title": "아무도 관심없을 축협회장 선거 근황...jpg",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476512&_dcbest=1&page=1",
-          "score": 80.82
+          "score": 83.54
         },
         {
           "source": "더쿠",
@@ -38,11 +38,11 @@
         }
       ],
       "first_seen": "2026-11-07T09:20:58.521837+09:00",
-      "last_seen": "2026-11-07T09:20:58.521837+09:00",
+      "last_seen": "2026-11-07T09:26:15.650624+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 1,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "iee04cd0a",
@@ -80,7 +80,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 2,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i10249b28",
@@ -119,7 +119,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 3,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i304a5af2",
@@ -160,7 +160,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 4,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i623efd3b",
@@ -198,7 +198,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 5,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i2272efa7",
@@ -236,7 +236,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 6,
-      "change": -1
+      "change": 0
     }
   ]
 }

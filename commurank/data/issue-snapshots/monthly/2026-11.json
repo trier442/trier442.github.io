@@ -3,7 +3,7 @@
   "period": "monthly",
   "key": "2026-11",
   "label": "2026년 11월",
-  "collected_at": "2026-11-07T09:20:58.521837+09:00",
+  "collected_at": "2026-11-07T09:26:15.650624+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -599,6 +599,44 @@
       "change": 0
     },
     {
+      "id": "i6576e44b",
+      "title": "‘아무도’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "아무도"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 104.03,
+      "peak_score": 92.54,
+      "appearances": 2,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 5,
+          "title": "아무도 관심없을 축협회장 선거 근황...jpg",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476512&_dcbest=1&page=1",
+          "score": 83.54
+        },
+        {
+          "source": "더쿠",
+          "rank": 57,
+          "title": "재혼황후 새..이렇게 재우는거 맞아? 이거 왜 아무도 말안해..￼",
+          "url": "https://theqoo.net/hot/4398081873",
+          "score": 58.74
+        }
+      ],
+      "first_seen": "2026-11-07T09:20:58.521837+09:00",
+      "last_seen": "2026-11-07T09:26:15.650624+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 16,
+      "change": "NEW"
+    },
+    {
       "id": "idc85f2a1",
       "title": "미국 중간선거 텍사스주 현황.jpg",
       "keywords": [
@@ -634,8 +672,8 @@
       "last_seen": "2026-11-04T18:57:48.394871+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 16,
-      "change": 0
+      "rank": 17,
+      "change": -1
     },
     {
       "id": "i88ca8477",
@@ -672,8 +710,8 @@
       "last_seen": "2026-11-06T04:03:56.555262+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 17,
-      "change": 0
+      "rank": 18,
+      "change": -1
     },
     {
       "id": "i039fd79c",
@@ -711,8 +749,8 @@
       "last_seen": "2026-11-06T09:08:40.883809+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 18,
-      "change": 0
+      "rank": 19,
+      "change": -1
     },
     {
       "id": "i3c9f2d2e",
@@ -749,47 +787,8 @@
       "last_seen": "2026-11-06T15:59:18.215188+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 19,
-      "change": 0
-    },
-    {
-      "id": "i03005878",
-      "title": "김민석 당선목적의 허위사실 유포네요.",
-      "keywords": [
-        "김민석",
-        "허위사실"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 102.88,
-      "peak_score": 91.39,
-      "appearances": 2,
-      "sources": [
-        "뽐뿌",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 12,
-          "title": "김민석 당선목적의 허위사실 유포네요.",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10174861",
-          "score": 73.27
-        },
-        {
-          "source": "클리앙",
-          "rank": 20,
-          "title": "김민석 신천지 발언은 빼박 '당선 목적 허위사실 유포' 아닌가요?",
-          "url": "https://www.clien.net/service/board/park/19286816?od=T31&po=0&category=0&groupCd=",
-          "score": 68.94
-        }
-      ],
-      "first_seen": "2026-11-03T18:50:34.062447+09:00",
-      "last_seen": "2026-11-03T18:58:12.389673+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 20,
-      "change": 0
+      "change": -1
     }
   ]
 }

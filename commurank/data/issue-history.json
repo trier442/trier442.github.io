@@ -4,10 +4,11 @@
     "ib3876eed": {
       "id": "ib3876eed",
       "first_seen": "2026-09-27T12:58:49.050910+09:00",
-      "last_seen": "2026-11-07T09:20:58.521837+09:00",
+      "last_seen": "2026-11-07T09:26:15.650624+09:00",
       "title": "‘논란의’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "논란의"
+        "논란의",
+        "대통령은"
       ],
       "points": [
         {
@@ -591,29 +592,60 @@
             "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=981707",
             "https://www.inven.co.kr/board/webzine/2097/2749785"
           ]
+        },
+        {
+          "at": "2026-11-07T09:26:15.650624+09:00",
+          "source_count": 3,
+          "post_count": 4,
+          "score": 79.14,
+          "sources": [
+            "뽐뿌",
+            "인벤",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=981707",
+            "https://www.inven.co.kr/board/webzine/2097/2749785",
+            "https://www.clien.net/service/board/park/19288875?od=T31&po=0&category=0&groupCd=",
+            "https://www.inven.co.kr/board/webzine/2097/2749788"
+          ]
         }
       ],
       "posts": [
         {
           "source": "뽐뿌",
-          "rank": 17,
+          "rank": 15,
           "title": "논란의 투싼 xrt트림 후방 방향지시등",
           "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=981707",
-          "score": 70.7
+          "score": 70.14
         },
         {
           "source": "인벤",
-          "rank": 23,
+          "rank": 24,
           "title": "추미애 아동급식비 삭감 논란의 진실",
           "url": "https://www.inven.co.kr/board/webzine/2097/2749785",
           "score": 67.78
+        },
+        {
+          "source": "클리앙",
+          "rank": 40,
+          "title": "이재명 대통령은 선민의식이 지나칩니다",
+          "url": "https://www.clien.net/service/board/park/19288875?od=T31&po=0&category=0&groupCd=",
+          "score": 61.54
+        },
+        {
+          "source": "인벤",
+          "rank": 84,
+          "title": "국민은 생활고, 대통령은 수조 원‥트럼프, 뿌린 대로 거둘까",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2749788",
+          "score": 52.5
         }
       ]
     },
     "i6576e44b": {
       "id": "i6576e44b",
       "first_seen": "2026-11-07T09:20:58.521837+09:00",
-      "last_seen": "2026-11-07T09:20:58.521837+09:00",
+      "last_seen": "2026-11-07T09:26:15.650624+09:00",
       "title": "‘아무도’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
         "아무도"
@@ -632,15 +664,29 @@
             "https://gall.dcinside.com/board/view/?id=dcbest&no=476512&_dcbest=1&page=1",
             "https://theqoo.net/hot/4398081873"
           ]
+        },
+        {
+          "at": "2026-11-07T09:26:15.650624+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 92.54,
+          "sources": [
+            "더쿠",
+            "디시인사이드"
+          ],
+          "post_urls": [
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=476512&_dcbest=1&page=1",
+            "https://theqoo.net/hot/4398081873"
+          ]
         }
       ],
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 6,
+          "rank": 5,
           "title": "아무도 관심없을 축협회장 선거 근황...jpg",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476512&_dcbest=1&page=1",
-          "score": 80.82
+          "score": 83.54
         },
         {
           "source": "더쿠",
@@ -35416,5 +35462,5 @@
       ]
     }
   },
-  "updated_at": "2026-11-07T09:20:58.521837+09:00"
+  "updated_at": "2026-11-07T09:26:15.650624+09:00"
 }
