@@ -1,6 +1,199 @@
 {
   "version": 1,
   "issues": {
+    "i2e26d9ac": {
+      "id": "i2e26d9ac",
+      "first_seen": "2026-11-05T20:37:49.856231+09:00",
+      "last_seen": "2026-11-08T03:15:20.371030+09:00",
+      "title": "‘데이터센터’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "데이터센터"
+      ],
+      "points": [
+        {
+          "at": "2026-11-05T20:37:49.856231+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 64.56,
+          "sources": [
+            "디시인사이드",
+            "루리웹"
+          ],
+          "post_urls": [
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=475873&_dcbest=1&page=1",
+            "https://bbs.ruliweb.com/best/board/300143/read/77280434?m=humor_only&t=now"
+          ]
+        },
+        {
+          "at": "2026-11-06T09:02:41.087816+09:00",
+          "source_count": 2,
+          "post_count": 3,
+          "score": 105.21,
+          "sources": [
+            "더쿠",
+            "루리웹"
+          ],
+          "post_urls": [
+            "https://bbs.ruliweb.com/best/board/300143/read/77287227?m=humor",
+            "https://theqoo.net/hot/4397265982"
+          ]
+        },
+        {
+          "at": "2026-11-08T03:09:30.592393+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 71.68,
+          "sources": [
+            "루리웹",
+            "뽐뿌"
+          ],
+          "post_urls": [
+            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10179768",
+            "https://bbs.ruliweb.com/best/board/300143/read/77303440?m=humor_only&t=now"
+          ]
+        },
+        {
+          "at": "2026-11-08T03:15:20.371030+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 71.04,
+          "sources": [
+            "루리웹",
+            "뽐뿌"
+          ],
+          "post_urls": [
+            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10179768",
+            "https://bbs.ruliweb.com/best/board/300143/read/77303440?m=humor_only&t=now"
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 47,
+          "title": "텍사스 데이터센터 건설 허용 ㄷㄷ",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10179768",
+          "score": 62.04
+        },
+        {
+          "source": "루리웹",
+          "rank": 81,
+          "title": "중국에서 데이터센터 관련 불평이 별로 없는 이유",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77303440?m=humor_only&t=now",
+          "score": 56.24
+        }
+      ]
+    },
+    "i153ac4c4": {
+      "id": "i153ac4c4",
+      "first_seen": "2026-11-08T03:09:30.592393+09:00",
+      "last_seen": "2026-11-08T03:15:20.371030+09:00",
+      "title": "‘젠슨황’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "젠슨황"
+      ],
+      "points": [
+        {
+          "at": "2026-11-08T03:09:30.592393+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 75.59,
+          "sources": [
+            "디시인사이드",
+            "인벤"
+          ],
+          "post_urls": [
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=476680&_dcbest=1&page=1",
+            "https://www.inven.co.kr/board/webzine/2097/2750086"
+          ]
+        },
+        {
+          "at": "2026-11-08T03:15:20.371030+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 77.49,
+          "sources": [
+            "디시인사이드",
+            "인벤"
+          ],
+          "post_urls": [
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=476680&_dcbest=1&page=1",
+            "https://www.inven.co.kr/board/webzine/2097/2750086"
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 20,
+          "title": "젠슨황 중국간첩인거 확정인듯",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476680&_dcbest=1&page=1",
+          "score": 68.49
+        },
+        {
+          "source": "인벤",
+          "rank": 37,
+          "title": "젠슨황",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2750086",
+          "score": 63.93
+        }
+      ]
+    },
+    "ie82bac33": {
+      "id": "ie82bac33",
+      "first_seen": "2026-11-08T03:09:30.592393+09:00",
+      "last_seen": "2026-11-08T03:15:20.371030+09:00",
+      "title": "‘있습니까’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "있습니까"
+      ],
+      "points": [
+        {
+          "at": "2026-11-08T03:09:30.592393+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 74.14,
+          "sources": [
+            "더쿠",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://www.clien.net/service/board/park/19289203?od=T31&po=0&category=0&groupCd=",
+            "https://theqoo.net/hot/4398897897"
+          ]
+        },
+        {
+          "at": "2026-11-08T03:15:20.371030+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 74.14,
+          "sources": [
+            "더쿠",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://www.clien.net/service/board/park/19289203?od=T31&po=0&category=0&groupCd=",
+            "https://theqoo.net/hot/4398897897"
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 30,
+          "title": "<영화 예고편> 당신은 이 사람과 눈 싸움을 할 수 있습니까? #열람주의/기괴",
+          "url": "https://www.clien.net/service/board/park/19289203?od=T31&po=0&category=0&groupCd=",
+          "score": 65.14
+        },
+        {
+          "source": "더쿠",
+          "rank": 64,
+          "title": "당신이라면 일주일을 버틸 수 있습니까?",
+          "url": "https://theqoo.net/hot/4398897897",
+          "score": 58.58
+        }
+      ]
+    },
     "ib3876eed": {
       "id": "ib3876eed",
       "first_seen": "2026-09-27T12:58:49.050910+09:00",
@@ -638,157 +831,6 @@
           "title": "푸바오 부캉이 남대문스카프아저씨 붕은우 이런거 열광하고 좋아하는거 사람들이 외로워서 그럼",
           "url": "https://theqoo.net/hot/4398926800",
           "score": 58.05
-        }
-      ]
-    },
-    "i2e26d9ac": {
-      "id": "i2e26d9ac",
-      "first_seen": "2026-11-05T20:37:49.856231+09:00",
-      "last_seen": "2026-11-08T03:09:30.592393+09:00",
-      "title": "‘데이터센터’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "데이터센터"
-      ],
-      "points": [
-        {
-          "at": "2026-11-05T20:37:49.856231+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 64.56,
-          "sources": [
-            "디시인사이드",
-            "루리웹"
-          ],
-          "post_urls": [
-            "https://gall.dcinside.com/board/view/?id=dcbest&no=475873&_dcbest=1&page=1",
-            "https://bbs.ruliweb.com/best/board/300143/read/77280434?m=humor_only&t=now"
-          ]
-        },
-        {
-          "at": "2026-11-06T09:02:41.087816+09:00",
-          "source_count": 2,
-          "post_count": 3,
-          "score": 105.21,
-          "sources": [
-            "더쿠",
-            "루리웹"
-          ],
-          "post_urls": [
-            "https://bbs.ruliweb.com/best/board/300143/read/77287227?m=humor",
-            "https://theqoo.net/hot/4397265982"
-          ]
-        },
-        {
-          "at": "2026-11-08T03:09:30.592393+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 71.68,
-          "sources": [
-            "루리웹",
-            "뽐뿌"
-          ],
-          "post_urls": [
-            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10179768",
-            "https://bbs.ruliweb.com/best/board/300143/read/77303440?m=humor_only&t=now"
-          ]
-        }
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 45,
-          "title": "텍사스 데이터센터 건설 허용 ㄷㄷ",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10179768",
-          "score": 62.68
-        },
-        {
-          "source": "루리웹",
-          "rank": 82,
-          "title": "중국에서 데이터센터 관련 불평이 별로 없는 이유",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77303440?m=humor_only&t=now",
-          "score": 55.53
-        }
-      ]
-    },
-    "i153ac4c4": {
-      "id": "i153ac4c4",
-      "first_seen": "2026-11-08T03:09:30.592393+09:00",
-      "last_seen": "2026-11-08T03:09:30.592393+09:00",
-      "title": "‘젠슨황’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "젠슨황"
-      ],
-      "points": [
-        {
-          "at": "2026-11-08T03:09:30.592393+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 75.59,
-          "sources": [
-            "디시인사이드",
-            "인벤"
-          ],
-          "post_urls": [
-            "https://gall.dcinside.com/board/view/?id=dcbest&no=476680&_dcbest=1&page=1",
-            "https://www.inven.co.kr/board/webzine/2097/2750086"
-          ]
-        }
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 23,
-          "title": "젠슨황 중국간첩인거 확정인듯",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476680&_dcbest=1&page=1",
-          "score": 66.59
-        },
-        {
-          "source": "인벤",
-          "rank": 37,
-          "title": "젠슨황",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2750086",
-          "score": 63.53
-        }
-      ]
-    },
-    "ie82bac33": {
-      "id": "ie82bac33",
-      "first_seen": "2026-11-08T03:09:30.592393+09:00",
-      "last_seen": "2026-11-08T03:09:30.592393+09:00",
-      "title": "‘있습니까’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "있습니까"
-      ],
-      "points": [
-        {
-          "at": "2026-11-08T03:09:30.592393+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 74.14,
-          "sources": [
-            "더쿠",
-            "클리앙"
-          ],
-          "post_urls": [
-            "https://www.clien.net/service/board/park/19289203?od=T31&po=0&category=0&groupCd=",
-            "https://theqoo.net/hot/4398897897"
-          ]
-        }
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 28,
-          "title": "<영화 예고편> 당신은 이 사람과 눈 싸움을 할 수 있습니까? #열람주의/기괴",
-          "url": "https://www.clien.net/service/board/park/19289203?od=T31&po=0&category=0&groupCd=",
-          "score": 65.14
-        },
-        {
-          "source": "더쿠",
-          "rank": 48,
-          "title": "당신이라면 일주일을 버틸 수 있습니까?",
-          "url": "https://theqoo.net/hot/4398897897",
-          "score": 61.74
         }
       ]
     },
@@ -35520,5 +35562,5 @@
       ]
     }
   },
-  "updated_at": "2026-11-08T03:09:30.592393+09:00"
+  "updated_at": "2026-11-08T03:15:20.371030+09:00"
 }
