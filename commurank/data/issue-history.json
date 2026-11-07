@@ -1,6 +1,103 @@
 {
   "version": 1,
   "issues": {
+    "i76049555": {
+      "id": "i76049555",
+      "first_seen": "2026-10-16T18:48:05.332522+09:00",
+      "last_seen": "2026-11-07T15:30:54.345816+09:00",
+      "title": "‘kbo’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "kbo"
+      ],
+      "points": [
+        {
+          "at": "2026-10-16T18:48:05.332522+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 67.98,
+          "sources": [
+            "더쿠",
+            "뽐뿌"
+          ],
+          "post_urls": [
+            "https://www.ppomppu.co.kr/zboard/view.php?id=baseball&no=699750",
+            "https://theqoo.net/hot/4377576698"
+          ]
+        },
+        {
+          "at": "2026-10-20T16:31:55.059688+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 62.37,
+          "sources": [
+            "더쿠",
+            "인벤"
+          ],
+          "post_urls": [
+            "https://theqoo.net/hot/4381371495",
+            "https://www.inven.co.kr/board/webzine/2097/2742704"
+          ]
+        },
+        {
+          "at": "2026-10-30T23:19:36.961026+09:00",
+          "source_count": 2,
+          "post_count": 4,
+          "score": 75.53,
+          "sources": [
+            "더쿠",
+            "인벤"
+          ],
+          "post_urls": [
+            "https://theqoo.net/hot/4391172079",
+            "https://www.inven.co.kr/board/webzine/2097/2747033"
+          ]
+        },
+        {
+          "at": "2026-11-01T17:03:55.445317+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 74.5,
+          "sources": [
+            "더쿠",
+            "인벤"
+          ],
+          "post_urls": [
+            "https://theqoo.net/hot/4392682556",
+            "https://www.inven.co.kr/board/webzine/2097/2747517"
+          ]
+        },
+        {
+          "at": "2026-11-07T15:30:54.345816+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 75.54,
+          "sources": [
+            "더쿠",
+            "인벤"
+          ],
+          "post_urls": [
+            "https://www.inven.co.kr/board/webzine/2097/2749891",
+            "https://theqoo.net/hot/4398474101"
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 27,
+          "title": "KBO 한국 시리즈 GG",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2749891",
+          "score": 66.54
+        },
+        {
+          "source": "더쿠",
+          "rank": 53,
+          "title": "[KBO] 삼성 득점후 강민호 반응",
+          "url": "https://theqoo.net/hot/4398474101",
+          "score": 61.0
+        }
+      ]
+    },
     "i36ddd5fd": {
       "id": "i36ddd5fd",
       "first_seen": "2026-09-30T08:46:44.153676+09:00",
@@ -11142,89 +11239,6 @@
           "title": "한국에서 열리는 한국 가수 콘서트인데 중국어 안내를 먼저 함.twt",
           "url": "https://theqoo.net/hot/4392527915",
           "score": 58.74
-        }
-      ]
-    },
-    "i76049555": {
-      "id": "i76049555",
-      "first_seen": "2026-10-16T18:48:05.332522+09:00",
-      "last_seen": "2026-11-01T17:03:55.445317+09:00",
-      "title": "‘kbo’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "kbo"
-      ],
-      "points": [
-        {
-          "at": "2026-10-16T18:48:05.332522+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 67.98,
-          "sources": [
-            "더쿠",
-            "뽐뿌"
-          ],
-          "post_urls": [
-            "https://www.ppomppu.co.kr/zboard/view.php?id=baseball&no=699750",
-            "https://theqoo.net/hot/4377576698"
-          ]
-        },
-        {
-          "at": "2026-10-20T16:31:55.059688+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 62.37,
-          "sources": [
-            "더쿠",
-            "인벤"
-          ],
-          "post_urls": [
-            "https://theqoo.net/hot/4381371495",
-            "https://www.inven.co.kr/board/webzine/2097/2742704"
-          ]
-        },
-        {
-          "at": "2026-10-30T23:19:36.961026+09:00",
-          "source_count": 2,
-          "post_count": 4,
-          "score": 75.53,
-          "sources": [
-            "더쿠",
-            "인벤"
-          ],
-          "post_urls": [
-            "https://theqoo.net/hot/4391172079",
-            "https://www.inven.co.kr/board/webzine/2097/2747033"
-          ]
-        },
-        {
-          "at": "2026-11-01T17:03:55.445317+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 74.5,
-          "sources": [
-            "더쿠",
-            "인벤"
-          ],
-          "post_urls": [
-            "https://theqoo.net/hot/4392682556",
-            "https://www.inven.co.kr/board/webzine/2097/2747517"
-          ]
-        }
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 31,
-          "title": "[KBO] 삼성 라이온즈가 한국시리즈에 진출해서 달성한 진기록",
-          "url": "https://theqoo.net/hot/4392682556",
-          "score": 65.5
-        },
-        {
-          "source": "인벤",
-          "rank": 74,
-          "title": "KBO) 플레이오프 5차전 진행 중",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2747517",
-          "score": 56.09
         }
       ]
     },
@@ -35487,5 +35501,5 @@
       ]
     }
   },
-  "updated_at": "2026-11-07T15:21:34.665184+09:00"
+  "updated_at": "2026-11-07T15:30:54.345816+09:00"
 }

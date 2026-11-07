@@ -3,7 +3,7 @@
   "period": "daily",
   "key": "2026-11-07",
   "label": "2026년 11월 07일",
-  "collected_at": "2026-11-07T15:21:34.665184+09:00",
+  "collected_at": "2026-11-07T15:30:54.345816+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -122,6 +122,44 @@
       "change": 0
     },
     {
+      "id": "i76049555",
+      "title": "‘kbo’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "kbo"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 85.01,
+      "peak_score": 75.54,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 27,
+          "title": "KBO 한국 시리즈 GG",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2749891",
+          "score": 66.54
+        },
+        {
+          "source": "더쿠",
+          "rank": 53,
+          "title": "[KBO] 삼성 득점후 강민호 반응",
+          "url": "https://theqoo.net/hot/4398474101",
+          "score": 61.0
+        }
+      ],
+      "first_seen": "2026-10-16T18:48:05.332522+09:00",
+      "last_seen": "2026-11-07T15:30:54.345816+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 4,
+      "change": "NEW"
+    },
+    {
       "id": "i304a5af2",
       "title": "언차일드 신곡 팅팅 뮤뱅",
       "keywords": [
@@ -159,8 +197,8 @@
       "last_seen": "2026-11-07T05:49:25.448993+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 4,
-      "change": 0
+      "rank": 5,
+      "change": -1
     },
     {
       "id": "i36ddd5fd",
@@ -197,8 +235,8 @@
       "last_seen": "2026-11-07T15:21:34.665184+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
-      "change": "NEW"
+      "rank": 6,
+      "change": -1
     },
     {
       "id": "i50b33b63",
@@ -235,8 +273,8 @@
       "last_seen": "2026-11-07T15:21:34.665184+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
-      "change": "NEW"
+      "rank": 7,
+      "change": -1
     },
     {
       "id": "i623efd3b",
@@ -273,8 +311,8 @@
       "last_seen": "2026-11-07T05:34:59.130641+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": -2
+      "rank": 8,
+      "change": -1
     },
     {
       "id": "i17cc70e6",
@@ -311,8 +349,8 @@
       "last_seen": "2026-11-07T15:21:34.665184+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 8,
-      "change": "NEW"
+      "rank": 9,
+      "change": -1
     },
     {
       "id": "iab8e8067",
@@ -349,8 +387,8 @@
       "last_seen": "2026-11-07T15:21:34.665184+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 9,
-      "change": "NEW"
+      "rank": 10,
+      "change": -1
     },
     {
       "id": "i2272efa7",
@@ -387,8 +425,8 @@
       "last_seen": "2026-11-07T05:34:59.130641+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 10,
-      "change": -4
+      "rank": 11,
+      "change": -1
     }
   ]
 }
