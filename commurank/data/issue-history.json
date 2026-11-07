@@ -1,6 +1,52 @@
 {
   "version": 1,
   "issues": {
+    "i924c4c51": {
+      "id": "i924c4c51",
+      "first_seen": "2026-11-07T22:23:45.380334+09:00",
+      "last_seen": "2026-11-07T22:23:45.380334+09:00",
+      "title": "온수관 파열 '구멍'에 행인 빠져...전신 60% 중화상",
+      "keywords": [
+        "구멍",
+        "빠져",
+        "행인",
+        "파열",
+        "중화상",
+        "온수관"
+      ],
+      "points": [
+        {
+          "at": "2026-11-07T22:23:45.380334+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 105.02,
+          "sources": [
+            "더쿠",
+            "루리웹"
+          ],
+          "post_urls": [
+            "https://bbs.ruliweb.com/best/board/300143/read/77305157?m=humor",
+            "https://theqoo.net/hot/4398705990"
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 2,
+          "title": "온수관 파열 '구멍'에 행인 빠져...전신 60% 중화상",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77305157?m=humor",
+          "score": 97.02
+        },
+        {
+          "source": "더쿠",
+          "rank": 17,
+          "title": "온수관 파열 '구멍'에 행인 빠져...전신 60% 중화상 (영상)",
+          "url": "https://theqoo.net/hot/4398705990",
+          "score": 67.89
+        }
+      ]
+    },
     "i76049555": {
       "id": "i76049555",
       "first_seen": "2026-10-16T18:48:05.332522+09:00",
@@ -35456,50 +35502,7 @@
           "score": 58.82
         }
       ]
-    },
-    "i3eade1a8": {
-      "id": "i3eade1a8",
-      "first_seen": "2026-10-10T02:11:16.952147+09:00",
-      "last_seen": "2026-10-10T02:11:16.952147+09:00",
-      "title": "[스팀] 플라이오버! 100KM (무료/무료)",
-      "keywords": [
-        "무료",
-        "스팀",
-        "100km"
-      ],
-      "points": [
-        {
-          "at": "2026-10-10T02:11:16.952147+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 87.19,
-          "sources": [
-            "루리웹",
-            "뽐뿌"
-          ],
-          "post_urls": [
-            "https://bbs.ruliweb.com/market/board/1020/read/107903",
-            "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=739023"
-          ]
-        }
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 7,
-          "title": "[스팀] 플라이오버! 100KM (무료/무료)",
-          "url": "https://bbs.ruliweb.com/market/board/1020/read/107903",
-          "score": 79.19
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 68,
-          "title": "[스팀] (유료화 예정) 비행! 100KM! 산맥! (무료/무료)",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=739023",
-          "score": 57.07
-        }
-      ]
     }
   },
-  "updated_at": "2026-11-07T15:30:54.345816+09:00"
+  "updated_at": "2026-11-07T22:23:45.380334+09:00"
 }
