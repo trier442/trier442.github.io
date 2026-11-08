@@ -3,7 +3,7 @@
   "period": "daily",
   "key": "2026-11-08",
   "label": "2026년 11월 08일",
-  "collected_at": "2026-11-08T10:18:35.192520+09:00",
+  "collected_at": "2026-11-08T16:17:34.790043+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -80,7 +80,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 2,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i153ac4c4",
@@ -118,7 +118,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 3,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i4e73ee85",
@@ -156,7 +156,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 4,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i9a0fa5b7",
@@ -194,7 +194,45 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 5,
-      "change": -1
+      "change": 0
+    },
+    {
+      "id": "i3c64ef3a",
+      "title": "‘자동차’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "자동차"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 90.92,
+      "peak_score": 81.45,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 15,
+          "title": "미국 자동차 전문가가 평가하는 현대기아차 ㅋㅋㅋㅋㅋ",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476795&_dcbest=1&page=1",
+          "score": 72.45
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 72,
+          "title": "중국 자동차 시장이 부럽습니다.",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=981774",
+          "score": 59.23
+        }
+      ],
+      "first_seen": "2026-11-08T16:17:34.790043+09:00",
+      "last_seen": "2026-11-08T16:17:34.790043+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 6,
+      "change": "NEW"
     },
     {
       "id": "iae209e51",
@@ -231,8 +269,46 @@
       "last_seen": "2026-11-08T10:18:35.192520+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
-      "change": 0
+      "rank": 7,
+      "change": -1
+    },
+    {
+      "id": "iae6b0123",
+      "title": "‘실시간’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "실시간"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 88.24,
+      "peak_score": 78.77,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 24,
+          "title": "실시간 싱붕이 이거 탈모냐?",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476805&_dcbest=1&page=1",
+          "score": 69.77
+        },
+        {
+          "source": "더쿠",
+          "rank": 25,
+          "title": "실시간 안세영...jpg",
+          "url": "https://theqoo.net/hot/4399396285",
+          "score": 69.68
+        }
+      ],
+      "first_seen": "2026-10-06T11:19:29.813850+09:00",
+      "last_seen": "2026-11-08T16:17:34.790043+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 8,
+      "change": "NEW"
     },
     {
       "id": "ie82bac33",
@@ -269,8 +345,46 @@
       "last_seen": "2026-11-08T06:59:38.862780+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
+      "rank": 9,
       "change": -2
+    },
+    {
+      "id": "i76049555",
+      "title": "‘kbo’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "kbo"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 87.81,
+      "peak_score": 78.34,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 26,
+          "title": "KBO] 지금까지 KBO를 시청해주셔서 감사합니다.",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2750224",
+          "score": 69.34
+        },
+        {
+          "source": "더쿠",
+          "rank": 59,
+          "title": "[KBO] 1루에서 만세부르는 강민호",
+          "url": "https://theqoo.net/hot/4399491225",
+          "score": 61.0
+        }
+      ],
+      "first_seen": "2026-10-16T18:48:05.332522+09:00",
+      "last_seen": "2026-11-08T16:17:34.790043+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 10,
+      "change": "NEW"
     },
     {
       "id": "i66a80349",
@@ -307,8 +421,84 @@
       "last_seen": "2026-11-08T10:04:21.143578+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 8,
-      "change": -1
+      "rank": 11,
+      "change": -3
+    },
+    {
+      "id": "i4f451ecc",
+      "title": "‘앞으로’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "앞으로"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 84.84,
+      "peak_score": 75.37,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 35,
+          "title": "구축 아파트들 재건축이 앞으로 힘든이유..+은마아파트 근황",
+          "url": "https://theqoo.net/hot/4399358992",
+          "score": 66.37
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 58,
+          "title": "앞으로 쑤욱 넣어버리고 만 자치.. gif",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476762&_dcbest=1&page=1",
+          "score": 61.62
+        }
+      ],
+      "first_seen": "2026-10-16T18:48:05.332522+09:00",
+      "last_seen": "2026-11-08T16:17:34.790043+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 12,
+      "change": "NEW"
+    },
+    {
+      "id": "i38c36f25",
+      "title": "‘은마아파트’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "은마아파트"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 84.84,
+      "peak_score": 75.37,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 35,
+          "title": "구축 아파트들 재건축이 앞으로 힘든이유..+은마아파트 근황",
+          "url": "https://theqoo.net/hot/4399358992",
+          "score": 66.37
+        },
+        {
+          "source": "인벤",
+          "rank": 78,
+          "title": "은마아파트 재건축 초과이익환수 청구서",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2750202",
+          "score": 58.03
+        }
+      ],
+      "first_seen": "2026-11-08T16:17:34.790043+09:00",
+      "last_seen": "2026-11-08T16:17:34.790043+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 13,
+      "change": "NEW"
     },
     {
       "id": "i2e26d9ac",
@@ -345,8 +535,8 @@
       "last_seen": "2026-11-08T03:15:20.371030+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 9,
-      "change": -1
+      "rank": 14,
+      "change": -5
     },
     {
       "id": "i1652b65c",
@@ -383,8 +573,8 @@
       "last_seen": "2026-11-08T10:04:21.143578+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 10,
-      "change": -1
+      "rank": 15,
+      "change": -5
     },
     {
       "id": "i80bcfbe1",
@@ -421,8 +611,8 @@
       "last_seen": "2026-11-08T10:04:21.143578+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 11,
-      "change": -1
+      "rank": 16,
+      "change": -5
     }
   ]
 }
