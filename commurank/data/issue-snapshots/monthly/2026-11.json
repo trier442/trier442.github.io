@@ -3,7 +3,7 @@
   "period": "monthly",
   "key": "2026-11",
   "label": "2026년 11월",
-  "collected_at": "2026-11-08T23:28:52.606559+09:00",
+  "collected_at": "2026-11-09T03:56:50.689149+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -291,7 +291,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 7,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "ife021da2",
@@ -330,7 +330,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 8,
-      "change": -1
+      "change": 0
     },
     {
       "id": "ia4c7959d",
@@ -368,7 +368,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 9,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i56f3e6c5",
@@ -406,7 +406,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 10,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i5d6688ff",
@@ -444,7 +444,7 @@
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 11,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i2af08ac5",
@@ -482,7 +482,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 12,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i64aac33b",
@@ -529,7 +529,7 @@
       "latest_source_count": 3,
       "latest_post_count": 4,
       "rank": 13,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i7f48cc7a",
@@ -568,7 +568,7 @@
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 14,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i08456703",
@@ -606,7 +606,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 15,
-      "change": -1
+      "change": 0
     },
     {
       "id": "ieef61a46",
@@ -647,7 +647,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 16,
-      "change": -1
+      "change": 0
     },
     {
       "id": "ie3fc87c2",
@@ -685,7 +685,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 17,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i6576e44b",
@@ -723,7 +723,46 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 18,
-      "change": -1
+      "change": 0
+    },
+    {
+      "id": "i97ba91d3",
+      "title": "[버거킹] 와퍼 3900원 (11/9~13)",
+      "keywords": [
+        "버거킹",
+        "와퍼"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 103.96,
+      "peak_score": 94.49,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 4,
+          "title": "[버거킹] 와퍼 3900원 (11/9~13)",
+          "url": "https://bbs.ruliweb.com/market/board/1020/read/108838",
+          "score": 86.49
+        },
+        {
+          "source": "클리앙",
+          "rank": 9,
+          "title": "버거킹 올해 마지막 와퍼 할인 3,900원",
+          "url": "https://www.clien.net/service/board/park/19289547?od=T31&po=0&category=0&groupCd=",
+          "score": 74.32
+        }
+      ],
+      "first_seen": "2026-11-09T03:56:50.689149+09:00",
+      "last_seen": "2026-11-09T03:56:50.689149+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 19,
+      "change": "NEW"
     },
     {
       "id": "idc85f2a1",
@@ -759,44 +798,6 @@
       ],
       "first_seen": "2026-11-04T18:57:48.394871+09:00",
       "last_seen": "2026-11-04T18:57:48.394871+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 19,
-      "change": -1
-    },
-    {
-      "id": "i88ca8477",
-      "title": "‘이제야’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "이제야"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 103.52,
-      "peak_score": 92.03,
-      "appearances": 2,
-      "sources": [
-        "디시인사이드",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 7,
-          "title": "트버지 이제야 깨달아요",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476069&_dcbest=1&page=1",
-          "score": 83.03
-        },
-        {
-          "source": "클리앙",
-          "rank": 51,
-          "title": "이제야 세상이 옳게 돌아간다 생각해요.",
-          "url": "https://www.clien.net/service/board/park/19288165?od=T31&po=0&category=0&groupCd=",
-          "score": 61.37
-        }
-      ],
-      "first_seen": "2026-11-06T03:58:30.973216+09:00",
-      "last_seen": "2026-11-06T04:03:56.555262+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 20,
