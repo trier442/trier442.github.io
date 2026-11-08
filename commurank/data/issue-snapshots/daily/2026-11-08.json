@@ -3,7 +3,7 @@
   "period": "daily",
   "key": "2026-11-08",
   "label": "2026년 11월 08일",
-  "collected_at": "2026-11-08T16:17:34.790043+09:00",
+  "collected_at": "2026-11-08T16:30:07.077403+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -45,6 +45,82 @@
       "change": 0
     },
     {
+      "id": "i3c64ef3a",
+      "title": "‘자동차’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "자동차"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 94.33,
+      "peak_score": 82.84,
+      "appearances": 2,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 13,
+          "title": "미국 자동차 전문가가 평가하는 현대기아차 ㅋㅋㅋㅋㅋ",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476795&_dcbest=1&page=1",
+          "score": 73.84
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 86,
+          "title": "중국 자동차 시장이 부럽습니다.",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=981774",
+          "score": 54.92
+        }
+      ],
+      "first_seen": "2026-11-08T16:17:34.790043+09:00",
+      "last_seen": "2026-11-08T16:30:07.077403+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 2,
+      "change": 4
+    },
+    {
+      "id": "iae6b0123",
+      "title": "‘실시간’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "실시간"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 92.98,
+      "peak_score": 81.49,
+      "appearances": 2,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 20,
+          "title": "실시간 싱붕이 이거 탈모냐?",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476805&_dcbest=1&page=1",
+          "score": 72.49
+        },
+        {
+          "source": "더쿠",
+          "rank": 29,
+          "title": "실시간 안세영...jpg",
+          "url": "https://theqoo.net/hot/4399396285",
+          "score": 68.53
+        }
+      ],
+      "first_seen": "2026-10-06T11:19:29.813850+09:00",
+      "last_seen": "2026-11-08T16:30:07.077403+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 3,
+      "change": 5
+    },
+    {
       "id": "i9ccef52d",
       "title": "‘신천지’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -79,8 +155,8 @@
       "last_seen": "2026-11-08T10:18:35.192520+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 2,
-      "change": 0
+      "rank": 4,
+      "change": -2
     },
     {
       "id": "i153ac4c4",
@@ -117,8 +193,8 @@
       "last_seen": "2026-11-08T06:59:38.862780+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 3,
-      "change": 0
+      "rank": 5,
+      "change": -2
     },
     {
       "id": "i4e73ee85",
@@ -155,8 +231,8 @@
       "last_seen": "2026-11-08T10:18:35.192520+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 4,
-      "change": 0
+      "rank": 6,
+      "change": -2
     },
     {
       "id": "i9a0fa5b7",
@@ -193,46 +269,46 @@
       "last_seen": "2026-11-08T10:18:35.192520+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
-      "change": 0
+      "rank": 7,
+      "change": -2
     },
     {
-      "id": "i3c64ef3a",
-      "title": "‘자동차’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i76049555",
+      "title": "‘kbo’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "자동차"
+        "kbo"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 90.92,
-      "peak_score": 81.45,
-      "appearances": 1,
+      "score": 89.83,
+      "peak_score": 78.34,
+      "appearances": 2,
       "sources": [
-        "디시인사이드",
-        "뽐뿌"
+        "더쿠",
+        "인벤"
       ],
       "posts": [
         {
-          "source": "디시인사이드",
-          "rank": 15,
-          "title": "미국 자동차 전문가가 평가하는 현대기아차 ㅋㅋㅋㅋㅋ",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476795&_dcbest=1&page=1",
-          "score": 72.45
+          "source": "인벤",
+          "rank": 31,
+          "title": "KBO] 지금까지 KBO를 시청해주셔서 감사합니다.",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2750224",
+          "score": 68.2
         },
         {
-          "source": "뽐뿌",
-          "rank": 72,
-          "title": "중국 자동차 시장이 부럽습니다.",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=981774",
-          "score": 59.23
+          "source": "더쿠",
+          "rank": 69,
+          "title": "[KBO] 1루에서 만세부르는 강민호",
+          "url": "https://theqoo.net/hot/4399491225",
+          "score": 59.84
         }
       ],
-      "first_seen": "2026-11-08T16:17:34.790043+09:00",
-      "last_seen": "2026-11-08T16:17:34.790043+09:00",
+      "first_seen": "2026-10-16T18:48:05.332522+09:00",
+      "last_seen": "2026-11-08T16:30:07.077403+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
-      "change": "NEW"
+      "rank": 8,
+      "change": 2
     },
     {
       "id": "iae209e51",
@@ -269,45 +345,83 @@
       "last_seen": "2026-11-08T10:18:35.192520+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": -1
+      "rank": 9,
+      "change": -2
     },
     {
-      "id": "iae6b0123",
-      "title": "‘실시간’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i31c0a449",
+      "title": "‘한국시리즈’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "실시간"
+        "한국시리즈"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 88.24,
-      "peak_score": 78.77,
+      "score": 88.7,
+      "peak_score": 79.23,
       "appearances": 1,
       "sources": [
         "더쿠",
-        "디시인사이드"
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 24,
+          "title": "한국시리즈 끝날듯",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2750225",
+          "score": 70.23
+        },
+        {
+          "source": "더쿠",
+          "rank": 49,
+          "title": "현재 야구팬들 모두 경악중인 고영표 한국시리즈 5차전 등판결과",
+          "url": "https://theqoo.net/hot/4399510222",
+          "score": 63.0
+        }
+      ],
+      "first_seen": "2026-11-08T16:30:07.077403+09:00",
+      "last_seen": "2026-11-08T16:30:07.077403+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 10,
+      "change": "NEW"
+    },
+    {
+      "id": "ib20f7f5e",
+      "title": "‘놀라운’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "놀라운"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 88.27,
+      "peak_score": 78.8,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
       ],
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 24,
-          "title": "실시간 싱붕이 이거 탈모냐?",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476805&_dcbest=1&page=1",
-          "score": 69.77
+          "rank": 27,
+          "title": "싱글벙글 일본여행가면 놀라운 점 ㅇㅇ.jpg",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476777&_dcbest=1&page=1",
+          "score": 69.8
         },
         {
-          "source": "더쿠",
-          "rank": 25,
-          "title": "실시간 안세영...jpg",
-          "url": "https://theqoo.net/hot/4399396285",
-          "score": 69.68
+          "source": "루리웹",
+          "rank": 92,
+          "title": "삼성 직원이 주식으로 무려 2억을 만든 놀라운 방법",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77316807?m=humor_only&t=now",
+          "score": 53.89
         }
       ],
-      "first_seen": "2026-10-06T11:19:29.813850+09:00",
-      "last_seen": "2026-11-08T16:17:34.790043+09:00",
+      "first_seen": "2026-11-08T16:30:07.077403+09:00",
+      "last_seen": "2026-11-08T16:30:07.077403+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 8,
+      "rank": 11,
       "change": "NEW"
     },
     {
@@ -345,46 +459,84 @@
       "last_seen": "2026-11-08T06:59:38.862780+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 9,
-      "change": -2
+      "rank": 12,
+      "change": -3
     },
     {
-      "id": "i76049555",
-      "title": "‘kbo’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i4f451ecc",
+      "title": "‘앞으로’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "kbo"
+        "앞으로"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 87.81,
-      "peak_score": 78.34,
-      "appearances": 1,
+      "score": 87.7,
+      "peak_score": 76.21,
+      "appearances": 2,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 34,
+          "title": "구축 아파트들 재건축이 앞으로 힘든이유..+은마아파트 근황",
+          "url": "https://theqoo.net/hot/4399358992",
+          "score": 67.21
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 53,
+          "title": "앞으로 쑤욱 넣어버리고 만 자치.. gif",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476762&_dcbest=1&page=1",
+          "score": 62.47
+        }
+      ],
+      "first_seen": "2026-10-16T18:48:05.332522+09:00",
+      "last_seen": "2026-11-08T16:30:07.077403+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 13,
+      "change": -1
+    },
+    {
+      "id": "i38c36f25",
+      "title": "‘은마아파트’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "은마아파트"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 87.7,
+      "peak_score": 76.21,
+      "appearances": 2,
       "sources": [
         "더쿠",
         "인벤"
       ],
       "posts": [
         {
-          "source": "인벤",
-          "rank": 26,
-          "title": "KBO] 지금까지 KBO를 시청해주셔서 감사합니다.",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2750224",
-          "score": 69.34
+          "source": "더쿠",
+          "rank": 34,
+          "title": "구축 아파트들 재건축이 앞으로 힘든이유..+은마아파트 근황",
+          "url": "https://theqoo.net/hot/4399358992",
+          "score": 67.21
         },
         {
-          "source": "더쿠",
-          "rank": 59,
-          "title": "[KBO] 1루에서 만세부르는 강민호",
-          "url": "https://theqoo.net/hot/4399491225",
-          "score": 61.0
+          "source": "인벤",
+          "rank": 88,
+          "title": "은마아파트 재건축 초과이익환수 청구서",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2750202",
+          "score": 54.56
         }
       ],
-      "first_seen": "2026-10-16T18:48:05.332522+09:00",
-      "last_seen": "2026-11-08T16:17:34.790043+09:00",
+      "first_seen": "2026-11-08T16:17:34.790043+09:00",
+      "last_seen": "2026-11-08T16:30:07.077403+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 10,
-      "change": "NEW"
+      "rank": 14,
+      "change": -1
     },
     {
       "id": "i66a80349",
@@ -421,84 +573,8 @@
       "last_seen": "2026-11-08T10:04:21.143578+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 11,
-      "change": -3
-    },
-    {
-      "id": "i4f451ecc",
-      "title": "‘앞으로’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "앞으로"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 84.84,
-      "peak_score": 75.37,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 35,
-          "title": "구축 아파트들 재건축이 앞으로 힘든이유..+은마아파트 근황",
-          "url": "https://theqoo.net/hot/4399358992",
-          "score": 66.37
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 58,
-          "title": "앞으로 쑤욱 넣어버리고 만 자치.. gif",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476762&_dcbest=1&page=1",
-          "score": 61.62
-        }
-      ],
-      "first_seen": "2026-10-16T18:48:05.332522+09:00",
-      "last_seen": "2026-11-08T16:17:34.790043+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 12,
-      "change": "NEW"
-    },
-    {
-      "id": "i38c36f25",
-      "title": "‘은마아파트’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "은마아파트"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 84.84,
-      "peak_score": 75.37,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 35,
-          "title": "구축 아파트들 재건축이 앞으로 힘든이유..+은마아파트 근황",
-          "url": "https://theqoo.net/hot/4399358992",
-          "score": 66.37
-        },
-        {
-          "source": "인벤",
-          "rank": 78,
-          "title": "은마아파트 재건축 초과이익환수 청구서",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2750202",
-          "score": 58.03
-        }
-      ],
-      "first_seen": "2026-11-08T16:17:34.790043+09:00",
-      "last_seen": "2026-11-08T16:17:34.790043+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 13,
-      "change": "NEW"
+      "rank": 15,
+      "change": -4
     },
     {
       "id": "i2e26d9ac",
@@ -535,8 +611,8 @@
       "last_seen": "2026-11-08T03:15:20.371030+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 14,
-      "change": -5
+      "rank": 16,
+      "change": -2
     },
     {
       "id": "i1652b65c",
@@ -573,8 +649,46 @@
       "last_seen": "2026-11-08T10:04:21.143578+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 15,
-      "change": -5
+      "rank": 17,
+      "change": -2
+    },
+    {
+      "id": "i6ad9d12c",
+      "title": "‘5차전’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "5차전"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 81.47,
+      "peak_score": 72.0,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 49,
+          "title": "현재 야구팬들 모두 경악중인 고영표 한국시리즈 5차전 등판결과",
+          "url": "https://theqoo.net/hot/4399510222",
+          "score": 63.0
+        },
+        {
+          "source": "클리앙",
+          "rank": 63,
+          "title": "적어도 지금까진 선수들이 방심하지 않고 5차전 준비 잘했네요.",
+          "url": "https://www.clien.net/service/board/park/19289371?od=T31&po=0&category=0&groupCd=",
+          "score": 60.72
+        }
+      ],
+      "first_seen": "2026-11-08T16:30:07.077403+09:00",
+      "last_seen": "2026-11-08T16:30:07.077403+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 18,
+      "change": "NEW"
     },
     {
       "id": "i80bcfbe1",
@@ -611,8 +725,8 @@
       "last_seen": "2026-11-08T10:04:21.143578+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 16,
-      "change": -5
+      "rank": 19,
+      "change": -3
     }
   ]
 }

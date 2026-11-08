@@ -2,19 +2,19 @@
   "version": 1,
   "date": "2026-11-08",
   "label": "2026년 11월 08일",
-  "collected_at": "2026-11-08T16:17:34.790043+09:00",
+  "collected_at": "2026-11-08T16:30:07.077403+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘‘보이는’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #중국. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘‘보이는’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #한국. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 6,
     "cached_sources": 0,
     "realtime_posts": 100,
     "daily_posts": 100,
-    "daily_issues": 16,
-    "keywords": 14,
-    "top100_views": 1152472,
-    "top100_comments": 12209
+    "daily_issues": 19,
+    "keywords": 20,
+    "top100_views": 1173169,
+    "top100_comments": 11545
   },
   "highlights": [
     {
@@ -31,9 +31,9 @@
     },
     {
       "type": "keyword",
-      "title": "#중국",
-      "text": "3개 커뮤니티 · 4개 인기글에서 함께 등장했습니다.",
-      "keyword": "중국"
+      "title": "#한국",
+      "text": "4개 커뮤니티 · 4개 인기글에서 함께 등장했습니다.",
+      "keyword": "한국"
     }
   ],
   "top_posts": [
@@ -49,7 +49,7 @@
       "max_likes": 181,
       "max_comments": 111,
       "appearances": 3,
-      "score": 109.07,
+      "score": 109.05,
       "views": 33150,
       "likes": 181,
       "comments": 111,
@@ -67,11 +67,11 @@
       "max_likes": 69,
       "max_comments": 103,
       "appearances": 1,
-      "score": 107.1,
+      "score": 107.08,
       "views": 14151,
       "likes": 69,
       "comments": 103,
-      "change": "NEW"
+      "change": 0
     },
     {
       "title": "상남자들은 대창을 먹지 않아",
@@ -85,11 +85,11 @@
       "max_likes": 71,
       "max_comments": 51,
       "appearances": 2,
-      "score": 106.99,
+      "score": 106.97,
       "views": 11618,
       "likes": 71,
       "comments": 51,
-      "change": -1
+      "change": 0
     },
     {
       "title": "중국에 소매치기가 줄어든 이유",
@@ -97,16 +97,34 @@
       "category": "이슈",
       "url": "https://bbs.ruliweb.com/best/board/300143/read/77312960?m=humor",
       "first_seen": "2026-11-08T16:17:34.790043+09:00",
-      "last_seen": "2026-11-08T16:17:34.790043+09:00",
+      "last_seen": "2026-11-08T16:30:07.077403+09:00",
       "peak_score": 96.61,
-      "max_views": 24338,
-      "max_likes": 130,
-      "max_comments": 81,
+      "max_views": 29931,
+      "max_likes": 138,
+      "max_comments": 89,
+      "appearances": 2,
+      "score": 106.81,
+      "views": 29931,
+      "likes": 138,
+      "comments": 89,
+      "change": 0
+    },
+    {
+      "title": "\"ALL Correct\" 줄임말이 왜 \"OK\" 임?",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77314169?m=humor",
+      "first_seen": "2026-11-08T16:30:07.077403+09:00",
+      "last_seen": "2026-11-08T16:30:07.077403+09:00",
+      "peak_score": 96.04,
+      "max_views": 14621,
+      "max_likes": 86,
+      "max_comments": 63,
       "appearances": 1,
-      "score": 106.0,
-      "views": 24338,
-      "likes": 130,
-      "comments": 81,
+      "score": 105.43,
+      "views": 14621,
+      "likes": 86,
+      "comments": 63,
       "change": "NEW"
     },
     {
@@ -121,11 +139,11 @@
       "max_likes": 75,
       "max_comments": 83,
       "appearances": 1,
-      "score": 105.32,
+      "score": 105.3,
       "views": 12439,
       "likes": 75,
       "comments": 83,
-      "change": -2
+      "change": -1
     },
     {
       "title": "\"거함거포를 지금이 아니면 언제 쓴단 말인가?\"",
@@ -139,11 +157,11 @@
       "max_likes": 102,
       "max_comments": 92,
       "appearances": 2,
-      "score": 105.3,
+      "score": 105.28,
       "views": 20507,
       "likes": 102,
       "comments": 92,
-      "change": -2
+      "change": -1
     },
     {
       "title": "내일이면 5000대가 끝나네요.",
@@ -157,11 +175,29 @@
       "max_likes": 174,
       "max_comments": 92,
       "appearances": 1,
-      "score": 105.17,
+      "score": 105.15,
       "views": 20473,
       "likes": 174,
       "comments": 92,
-      "change": -2
+      "change": -1
+    },
+    {
+      "title": "미국 민주당 까는 만화에서 웃긴 점",
+      "source": "루리웹",
+      "category": "유머",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77313359?m=humor",
+      "first_seen": "2026-11-08T16:30:07.077403+09:00",
+      "last_seen": "2026-11-08T16:30:07.077403+09:00",
+      "peak_score": 95.36,
+      "max_views": 17824,
+      "max_likes": 112,
+      "max_comments": 79,
+      "appearances": 1,
+      "score": 104.75,
+      "views": 17824,
+      "likes": 112,
+      "comments": 79,
+      "change": "NEW"
     },
     {
       "title": "말이 안될정도로 심각하다는 취업난 근황",
@@ -175,249 +211,213 @@
       "max_likes": 0,
       "max_comments": 827,
       "appearances": 8,
-      "score": 103.58,
+      "score": 103.56,
       "views": 118818,
       "likes": 0,
       "comments": 827,
-      "change": -2
-    },
-    {
-      "title": "GTA6 발매일이 다가오는 시국에 난리난 일본",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77310984?m=humor",
-      "first_seen": "2026-11-08T06:59:38.862780+09:00",
-      "last_seen": "2026-11-08T06:59:38.862780+09:00",
-      "peak_score": 94.79,
-      "max_views": 10177,
-      "max_likes": 52,
-      "max_comments": 47,
-      "appearances": 1,
-      "score": 103.4,
-      "views": 10177,
-      "likes": 52,
-      "comments": 47,
-      "change": -2
-    },
-    {
-      "title": "쿠팡 알바에 사람들이 몰리는 이유",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77307919?m=humor",
-      "first_seen": "2026-11-08T03:09:30.592393+09:00",
-      "last_seen": "2026-11-08T03:09:30.592393+09:00",
-      "peak_score": 94.67,
-      "max_views": 20538,
-      "max_likes": 180,
-      "max_comments": 161,
-      "appearances": 1,
-      "score": 102.96,
-      "views": 20538,
-      "likes": 180,
-      "comments": 161,
       "change": -2
     }
   ],
   "rising": [
     {
-      "source": "디시인사이드",
-      "title": "속보) 한국 저출산 쇼크 현실화",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476760&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 28708,
-      "likes": 298,
-      "comments": 1239,
-      "score": 62.96,
-      "change": 0,
-      "current_rank": 51,
-      "new_entry": false,
-      "delta_views": 22923,
-      "delta_likes": 231,
-      "delta_comments": 985,
-      "rank_gain": 0,
-      "rising_score": 100.0,
-      "rising_rank": 1,
-      "window_minutes": 359
-    },
-    {
-      "source": "루리웹",
-      "title": "퍼스널pc의 종말이 다가온다",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77314532?m=humor",
-      "category": "이슈",
-      "views": 14151,
-      "likes": 69,
-      "comments": 103,
-      "score": 97.71,
-      "change": "NEW",
-      "current_rank": 1,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 83.04,
-      "rising_rank": 2,
-      "window_minutes": 359
-    },
-    {
       "source": "루리웹",
       "title": "중국에 소매치기가 줄어든 이유",
       "url": "https://bbs.ruliweb.com/best/board/300143/read/77312960?m=humor",
       "category": "이슈",
-      "views": 24338,
-      "likes": 130,
-      "comments": 81,
-      "score": 96.61,
-      "change": "NEW",
-      "current_rank": 2,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 82.58,
-      "rising_rank": 3,
-      "window_minutes": 359
-    },
-    {
-      "source": "루리웹",
-      "title": "현대차가 슬슬 개쫄리는 이유",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77314139?m=humor",
-      "category": "이슈",
-      "views": 14063,
-      "likes": 85,
-      "comments": 75,
-      "score": 93.0,
-      "change": "NEW",
+      "views": 29931,
+      "likes": 138,
+      "comments": 89,
+      "score": 95.09,
+      "change": 0,
       "current_rank": 3,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
+      "new_entry": false,
+      "delta_views": 5593,
+      "delta_likes": 8,
+      "delta_comments": 8,
       "rank_gain": 0,
-      "rising_score": 81.06,
-      "rising_rank": 4,
-      "window_minutes": 359
-    },
-    {
-      "source": "루리웹",
-      "title": "[11번가] 쟌슨빌 1670g 20810원",
-      "url": "https://bbs.ruliweb.com/market/board/1020/read/108824",
-      "category": "이슈",
-      "views": 24695,
-      "likes": 22,
-      "comments": 25,
-      "score": 86.49,
-      "change": "NEW",
-      "current_rank": 4,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 78.33,
-      "rising_rank": 5,
-      "window_minutes": 359
-    },
-    {
-      "source": "뽐뿌",
-      "title": "엔비디아 젠슨황 스캔들 간단 정리.txt",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=452597",
-      "category": "이슈",
-      "views": 26505,
-      "likes": 9,
-      "comments": 55,
-      "score": 82.5,
-      "change": "NEW",
-      "current_rank": 5,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 76.65,
-      "rising_rank": 6,
-      "window_minutes": 359
+      "rising_score": 100.0,
+      "rising_rank": 1,
+      "window_minutes": 13
     },
     {
       "source": "디시인사이드",
-      "title": "프랑스 씨발ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476799&_dcbest=1&page=1",
-      "category": "유머",
-      "views": 12246,
-      "likes": 220,
-      "comments": 257,
-      "score": 80.55,
-      "change": "NEW",
-      "current_rank": 6,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 75.83,
-      "rising_rank": 7,
-      "window_minutes": 359
+      "title": "와들와들 여자들 외모 바이럴 이해하기",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476806&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 8592,
+      "likes": 129,
+      "comments": 126,
+      "score": 75.51,
+      "change": 20,
+      "current_rank": 9,
+      "new_entry": false,
+      "delta_views": 2775,
+      "delta_likes": 65,
+      "delta_comments": 71,
+      "rank_gain": 20,
+      "rising_score": 97.55,
+      "rising_rank": 2,
+      "window_minutes": 13
     },
     {
-      "source": "뽐뿌",
-      "title": "편의점 야간 알바 급여명세서.jpg",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10180114",
-      "category": "생활",
-      "views": 26440,
-      "likes": 8,
-      "comments": 105,
-      "score": 80.45,
-      "change": "NEW",
-      "current_rank": 7,
-      "new_entry": true,
-      "delta_views": 0,
+      "source": "더쿠",
+      "title": "지금 2030들안 당했음 청년이라는데…",
+      "url": "https://theqoo.net/hot/4399465416",
+      "category": "이슈",
+      "views": 33278,
+      "likes": 0,
+      "comments": 491,
+      "score": 72.68,
+      "change": 0,
+      "current_rank": 19,
+      "new_entry": false,
+      "delta_views": 6424,
       "delta_likes": 0,
-      "delta_comments": 0,
+      "delta_comments": 71,
       "rank_gain": 0,
-      "rising_score": 75.79,
-      "rising_rank": 8,
-      "window_minutes": 359
+      "rising_score": 93.75,
+      "rising_rank": 3,
+      "window_minutes": 13
     },
     {
       "source": "뽐뿌",
       "title": "굳이 서울 살 필요성을 못느낌 ㄷ",
       "url": "https://www.ppomppu.co.kr/zboard/view.php?id=humor&no=791807",
       "category": "유머",
-      "views": 7763,
-      "likes": 10,
-      "comments": 23,
-      "score": 79.3,
-      "change": "NEW",
+      "views": 11028,
+      "likes": 17,
+      "comments": 46,
+      "score": 77.22,
+      "change": 0,
       "current_rank": 8,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
+      "new_entry": false,
+      "delta_views": 3265,
+      "delta_likes": 7,
+      "delta_comments": 23,
       "rank_gain": 0,
-      "rising_score": 75.31,
-      "rising_rank": 9,
-      "window_minutes": 359
+      "rising_score": 92.79,
+      "rising_rank": 4,
+      "window_minutes": 13
     },
     {
       "source": "인벤",
-      "title": "국짐 5천피 결말참담?ㅋㅋㅋ",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2750218",
-      "category": "유머",
-      "views": 1452,
+      "title": "한국시리즈 끝날듯",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2750225",
+      "category": "이슈",
+      "views": 1160,
       "likes": 0,
-      "comments": 17,
-      "score": 77.47,
-      "change": "NEW",
-      "current_rank": 9,
-      "new_entry": true,
-      "delta_views": 0,
+      "comments": 9,
+      "score": 70.23,
+      "change": 19,
+      "current_rank": 24,
+      "new_entry": false,
+      "delta_views": 353,
+      "delta_likes": 0,
+      "delta_comments": 4,
+      "rank_gain": 19,
+      "rising_score": 91.08,
+      "rising_rank": 5,
+      "window_minutes": 13
+    },
+    {
+      "source": "디시인사이드",
+      "title": "실시간 싱붕이 이거 탈모냐?",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476805&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 7433,
+      "likes": 65,
+      "comments": 197,
+      "score": 72.49,
+      "change": 4,
+      "current_rank": 20,
+      "new_entry": false,
+      "delta_views": 2031,
+      "delta_likes": 23,
+      "delta_comments": 47,
+      "rank_gain": 4,
+      "rising_score": 89.32,
+      "rising_rank": 6,
+      "window_minutes": 13
+    },
+    {
+      "source": "인벤",
+      "title": "ㅎㅂ 이거 vs 그거",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2750228",
+      "category": "이슈",
+      "views": 875,
+      "likes": 0,
+      "comments": 3,
+      "score": 62.3,
+      "change": 8,
+      "current_rank": 56,
+      "new_entry": false,
+      "delta_views": 825,
+      "delta_likes": 0,
+      "delta_comments": 3,
+      "rank_gain": 8,
+      "rising_score": 88.08,
+      "rising_rank": 7,
+      "window_minutes": 13
+    },
+    {
+      "source": "인벤",
+      "title": "무직백수 트위터 감성 포르노",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2750199",
+      "category": "유머",
+      "views": 2971,
+      "likes": 0,
+      "comments": 20,
+      "score": 59.02,
+      "change": 0,
+      "current_rank": 73,
+      "new_entry": false,
+      "delta_views": 333,
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 74.54,
+      "rising_score": 85.42,
+      "rising_rank": 8,
+      "window_minutes": 13
+    },
+    {
+      "source": "클리앙",
+      "title": "주식과 부동산은 정비례 관계라는걸",
+      "url": "https://www.clien.net/service/board/park/19289367?od=T31&po=0&category=0&groupCd=",
+      "category": "이슈",
+      "views": 565,
+      "likes": 1,
+      "comments": 22,
+      "score": 70.65,
+      "change": 5,
+      "current_rank": 23,
+      "new_entry": false,
+      "delta_views": 414,
+      "delta_likes": 0,
+      "delta_comments": 17,
+      "rank_gain": 5,
+      "rising_score": 85.28,
+      "rising_rank": 9,
+      "window_minutes": 13
+    },
+    {
+      "source": "디시인사이드",
+      "title": "연돈 텐트 웨이팅은 진짜 개돼지 같다",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476801&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 8119,
+      "likes": 121,
+      "comments": 181,
+      "score": 73.39,
+      "change": 7,
+      "current_rank": 14,
+      "new_entry": false,
+      "delta_views": 1430,
+      "delta_likes": 18,
+      "delta_comments": 13,
+      "rank_gain": 7,
+      "rising_score": 85.09,
       "rising_rank": 10,
-      "window_minutes": 359
+      "window_minutes": 13
     }
   ],
   "issues": [
@@ -460,6 +460,82 @@
       "change": 0
     },
     {
+      "id": "i3c64ef3a",
+      "title": "‘자동차’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "자동차"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 94.33,
+      "peak_score": 82.84,
+      "appearances": 2,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 13,
+          "title": "미국 자동차 전문가가 평가하는 현대기아차 ㅋㅋㅋㅋㅋ",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476795&_dcbest=1&page=1",
+          "score": 73.84
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 86,
+          "title": "중국 자동차 시장이 부럽습니다.",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=981774",
+          "score": 54.92
+        }
+      ],
+      "first_seen": "2026-11-08T16:17:34.790043+09:00",
+      "last_seen": "2026-11-08T16:30:07.077403+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 2,
+      "change": 4
+    },
+    {
+      "id": "iae6b0123",
+      "title": "‘실시간’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "실시간"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 92.98,
+      "peak_score": 81.49,
+      "appearances": 2,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 20,
+          "title": "실시간 싱붕이 이거 탈모냐?",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476805&_dcbest=1&page=1",
+          "score": 72.49
+        },
+        {
+          "source": "더쿠",
+          "rank": 29,
+          "title": "실시간 안세영...jpg",
+          "url": "https://theqoo.net/hot/4399396285",
+          "score": 68.53
+        }
+      ],
+      "first_seen": "2026-10-06T11:19:29.813850+09:00",
+      "last_seen": "2026-11-08T16:30:07.077403+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 3,
+      "change": 5
+    },
+    {
       "id": "i9ccef52d",
       "title": "‘신천지’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -494,8 +570,8 @@
       "last_seen": "2026-11-08T10:18:35.192520+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 2,
-      "change": 0
+      "rank": 4,
+      "change": -2
     },
     {
       "id": "i153ac4c4",
@@ -532,8 +608,8 @@
       "last_seen": "2026-11-08T06:59:38.862780+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 3,
-      "change": 0
+      "rank": 5,
+      "change": -2
     },
     {
       "id": "i4e73ee85",
@@ -570,8 +646,8 @@
       "last_seen": "2026-11-08T10:18:35.192520+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 4,
-      "change": 0
+      "rank": 6,
+      "change": -2
     },
     {
       "id": "i9a0fa5b7",
@@ -608,46 +684,46 @@
       "last_seen": "2026-11-08T10:18:35.192520+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
-      "change": 0
+      "rank": 7,
+      "change": -2
     },
     {
-      "id": "i3c64ef3a",
-      "title": "‘자동차’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i76049555",
+      "title": "‘kbo’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "자동차"
+        "kbo"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 90.92,
-      "peak_score": 81.45,
-      "appearances": 1,
+      "score": 89.83,
+      "peak_score": 78.34,
+      "appearances": 2,
       "sources": [
-        "디시인사이드",
-        "뽐뿌"
+        "더쿠",
+        "인벤"
       ],
       "posts": [
         {
-          "source": "디시인사이드",
-          "rank": 15,
-          "title": "미국 자동차 전문가가 평가하는 현대기아차 ㅋㅋㅋㅋㅋ",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476795&_dcbest=1&page=1",
-          "score": 72.45
+          "source": "인벤",
+          "rank": 31,
+          "title": "KBO] 지금까지 KBO를 시청해주셔서 감사합니다.",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2750224",
+          "score": 68.2
         },
         {
-          "source": "뽐뿌",
-          "rank": 72,
-          "title": "중국 자동차 시장이 부럽습니다.",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=981774",
-          "score": 59.23
+          "source": "더쿠",
+          "rank": 69,
+          "title": "[KBO] 1루에서 만세부르는 강민호",
+          "url": "https://theqoo.net/hot/4399491225",
+          "score": 59.84
         }
       ],
-      "first_seen": "2026-11-08T16:17:34.790043+09:00",
-      "last_seen": "2026-11-08T16:17:34.790043+09:00",
+      "first_seen": "2026-10-16T18:48:05.332522+09:00",
+      "last_seen": "2026-11-08T16:30:07.077403+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
-      "change": "NEW"
+      "rank": 8,
+      "change": 2
     },
     {
       "id": "iae209e51",
@@ -684,95 +760,19 @@
       "last_seen": "2026-11-08T10:18:35.192520+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": -1
-    },
-    {
-      "id": "iae6b0123",
-      "title": "‘실시간’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "실시간"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 88.24,
-      "peak_score": 78.77,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 24,
-          "title": "실시간 싱붕이 이거 탈모냐?",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476805&_dcbest=1&page=1",
-          "score": 69.77
-        },
-        {
-          "source": "더쿠",
-          "rank": 25,
-          "title": "실시간 안세영...jpg",
-          "url": "https://theqoo.net/hot/4399396285",
-          "score": 69.68
-        }
-      ],
-      "first_seen": "2026-10-06T11:19:29.813850+09:00",
-      "last_seen": "2026-11-08T16:17:34.790043+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 8,
-      "change": "NEW"
-    },
-    {
-      "id": "ie82bac33",
-      "title": "‘있습니까’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "있습니까"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 88.19,
-      "peak_score": 74.14,
-      "appearances": 4,
-      "sources": [
-        "더쿠",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 62,
-          "title": "<영화 예고편> 당신은 이 사람과 눈 싸움을 할 수 있습니까? #열람주의/기괴",
-          "url": "https://www.clien.net/service/board/park/19289203?od=T31&po=0&category=0&groupCd=",
-          "score": 58.49
-        },
-        {
-          "source": "더쿠",
-          "rank": 84,
-          "title": "당신이라면 일주일을 버틸 수 있습니까?",
-          "url": "https://theqoo.net/hot/4398897897",
-          "score": 54.26
-        }
-      ],
-      "first_seen": "2026-11-08T03:09:30.592393+09:00",
-      "last_seen": "2026-11-08T06:59:38.862780+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 9,
       "change": -2
     },
     {
-      "id": "i76049555",
-      "title": "‘kbo’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i31c0a449",
+      "title": "‘한국시리즈’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "kbo"
+        "한국시리즈"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 87.81,
-      "peak_score": 78.34,
+      "score": 88.7,
+      "peak_score": 79.23,
       "appearances": 1,
       "sources": [
         "더쿠",
@@ -781,21 +781,21 @@
       "posts": [
         {
           "source": "인벤",
-          "rank": 26,
-          "title": "KBO] 지금까지 KBO를 시청해주셔서 감사합니다.",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2750224",
-          "score": 69.34
+          "rank": 24,
+          "title": "한국시리즈 끝날듯",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2750225",
+          "score": 70.23
         },
         {
           "source": "더쿠",
-          "rank": 59,
-          "title": "[KBO] 1루에서 만세부르는 강민호",
-          "url": "https://theqoo.net/hot/4399491225",
-          "score": 61.0
+          "rank": 49,
+          "title": "현재 야구팬들 모두 경악중인 고영표 한국시리즈 5차전 등판결과",
+          "url": "https://theqoo.net/hot/4399510222",
+          "score": 63.0
         }
       ],
-      "first_seen": "2026-10-16T18:48:05.332522+09:00",
-      "last_seen": "2026-11-08T16:17:34.790043+09:00",
+      "first_seen": "2026-11-08T16:30:07.077403+09:00",
+      "last_seen": "2026-11-08T16:30:07.077403+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 10,
@@ -811,8 +811,8 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 81.45,
-      "peak_score": 81.45,
+      "score": 82.84,
+      "peak_score": 82.84,
       "appearances": 1,
       "sources": [
         "디시인사이드",
@@ -821,21 +821,21 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 15,
+          "rank": 13,
           "title": "미국 자동차 전문가가 평가하는 현대기아차 ㅋㅋㅋㅋㅋ",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476795&_dcbest=1&page=1",
-          "score": 72.45
+          "score": 73.84
         },
         {
           "source": "뽐뿌",
-          "rank": 72,
+          "rank": 86,
           "title": "중국 자동차 시장이 부럽습니다.",
           "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=981774",
-          "score": 59.23
+          "score": 54.92
         }
       ],
       "rank": 1,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "iae6b0123",
@@ -845,8 +845,8 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 78.77,
-      "peak_score": 78.77,
+      "score": 81.49,
+      "peak_score": 81.49,
       "appearances": 1,
       "sources": [
         "더쿠",
@@ -855,20 +855,88 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 24,
+          "rank": 20,
           "title": "실시간 싱붕이 이거 탈모냐?",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476805&_dcbest=1&page=1",
-          "score": 69.77
+          "score": 72.49
         },
         {
           "source": "더쿠",
-          "rank": 25,
+          "rank": 29,
           "title": "실시간 안세영...jpg",
           "url": "https://theqoo.net/hot/4399396285",
-          "score": 69.68
+          "score": 68.53
         }
       ],
       "rank": 2,
+      "change": 0
+    },
+    {
+      "id": "i31c0a449",
+      "title": "‘한국시리즈’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "한국시리즈"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 79.23,
+      "peak_score": 79.23,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 24,
+          "title": "한국시리즈 끝날듯",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2750225",
+          "score": 70.23
+        },
+        {
+          "source": "더쿠",
+          "rank": 49,
+          "title": "현재 야구팬들 모두 경악중인 고영표 한국시리즈 5차전 등판결과",
+          "url": "https://theqoo.net/hot/4399510222",
+          "score": 63.0
+        }
+      ],
+      "rank": 3,
+      "change": "NEW"
+    },
+    {
+      "id": "ib20f7f5e",
+      "title": "‘놀라운’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "놀라운"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 78.8,
+      "peak_score": 78.8,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 27,
+          "title": "싱글벙글 일본여행가면 놀라운 점 ㅇㅇ.jpg",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476777&_dcbest=1&page=1",
+          "score": 69.8
+        },
+        {
+          "source": "루리웹",
+          "rank": 92,
+          "title": "삼성 직원이 주식으로 무려 2억을 만든 놀라운 방법",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77316807?m=humor_only&t=now",
+          "score": 53.89
+        }
+      ],
+      "rank": 4,
       "change": "NEW"
     },
     {
@@ -879,8 +947,8 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 78.34,
-      "peak_score": 78.34,
+      "score": 77.2,
+      "peak_score": 77.2,
       "appearances": 1,
       "sources": [
         "더쿠",
@@ -889,21 +957,21 @@
       "posts": [
         {
           "source": "인벤",
-          "rank": 26,
+          "rank": 31,
           "title": "KBO] 지금까지 KBO를 시청해주셔서 감사합니다.",
           "url": "https://www.inven.co.kr/board/webzine/2097/2750224",
-          "score": 69.34
+          "score": 68.2
         },
         {
           "source": "더쿠",
-          "rank": 59,
+          "rank": 69,
           "title": "[KBO] 1루에서 만세부르는 강민호",
           "url": "https://theqoo.net/hot/4399491225",
-          "score": 61.0
+          "score": 59.84
         }
       ],
-      "rank": 3,
-      "change": "NEW"
+      "rank": 5,
+      "change": -2
     },
     {
       "id": "i4f451ecc",
@@ -913,8 +981,8 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 75.37,
-      "peak_score": 75.37,
+      "score": 76.21,
+      "peak_score": 76.21,
       "appearances": 1,
       "sources": [
         "더쿠",
@@ -923,21 +991,21 @@
       "posts": [
         {
           "source": "더쿠",
-          "rank": 35,
+          "rank": 34,
           "title": "구축 아파트들 재건축이 앞으로 힘든이유..+은마아파트 근황",
           "url": "https://theqoo.net/hot/4399358992",
-          "score": 66.37
+          "score": 67.21
         },
         {
           "source": "디시인사이드",
-          "rank": 58,
+          "rank": 53,
           "title": "앞으로 쑤욱 넣어버리고 만 자치.. gif",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476762&_dcbest=1&page=1",
-          "score": 61.62
+          "score": 62.47
         }
       ],
-      "rank": 4,
-      "change": "NEW"
+      "rank": 6,
+      "change": -2
     },
     {
       "id": "i38c36f25",
@@ -947,8 +1015,8 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 75.37,
-      "peak_score": 75.37,
+      "score": 76.21,
+      "peak_score": 76.21,
       "appearances": 1,
       "sources": [
         "더쿠",
@@ -957,273 +1025,322 @@
       "posts": [
         {
           "source": "더쿠",
-          "rank": 35,
+          "rank": 34,
           "title": "구축 아파트들 재건축이 앞으로 힘든이유..+은마아파트 근황",
           "url": "https://theqoo.net/hot/4399358992",
-          "score": 66.37
+          "score": 67.21
         },
         {
           "source": "인벤",
-          "rank": 78,
+          "rank": 88,
           "title": "은마아파트 재건축 초과이익환수 청구서",
           "url": "https://www.inven.co.kr/board/webzine/2097/2750202",
-          "score": 58.03
+          "score": 54.56
         }
       ],
-      "rank": 5,
+      "rank": 7,
+      "change": -2
+    },
+    {
+      "id": "i6ad9d12c",
+      "title": "‘5차전’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "5차전"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 72.0,
+      "peak_score": 72.0,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 49,
+          "title": "현재 야구팬들 모두 경악중인 고영표 한국시리즈 5차전 등판결과",
+          "url": "https://theqoo.net/hot/4399510222",
+          "score": 63.0
+        },
+        {
+          "source": "클리앙",
+          "rank": 63,
+          "title": "적어도 지금까진 선수들이 방심하지 않고 5차전 준비 잘했네요.",
+          "url": "https://www.clien.net/service/board/park/19289371?od=T31&po=0&category=0&groupCd=",
+          "score": 60.72
+        }
+      ],
+      "rank": 8,
       "change": "NEW"
     }
   ],
   "keywords": [
     {
-      "keyword": "중국",
-      "score": 131.55,
+      "keyword": "한국",
+      "score": 143.23,
       "post_count": 4,
+      "source_count": 4,
+      "best_rank": 40,
+      "sources": [
+        "디시인사이드",
+        "루리웹",
+        "인벤",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 1,
+      "change": 11
+    },
+    {
+      "keyword": "미국",
+      "score": 134.83,
+      "post_count": 3,
       "source_count": 3,
       "best_rank": 2,
+      "sources": [
+        "디시인사이드",
+        "루리웹",
+        "뽐뿌"
+      ],
+      "aliases": [],
+      "rank": 2,
+      "change": 4
+    },
+    {
+      "keyword": "중국",
+      "score": 132.93,
+      "post_count": 5,
+      "source_count": 3,
+      "best_rank": 3,
       "sources": [
         "루리웹",
         "뽐뿌",
         "인벤"
       ],
       "aliases": [],
-      "rank": 1,
-      "change": 15
-    },
-    {
-      "keyword": "남편",
-      "score": 109.54,
-      "post_count": 3,
-      "source_count": 3,
-      "best_rank": 68,
-      "sources": [
-        "디시인사이드",
-        "뽐뿌",
-        "인벤"
-      ],
-      "aliases": [],
-      "rank": 2,
-      "change": "NEW"
+      "rank": 3,
+      "change": -2
     },
     {
       "keyword": "여자들",
-      "score": 106.28,
+      "score": 108.53,
       "post_count": 3,
       "source_count": 2,
-      "best_rank": 10,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "aliases": [],
-      "rank": 3,
-      "change": "NEW"
-    },
-    {
-      "keyword": "실시간",
-      "score": 95.88,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 24,
+      "best_rank": 9,
       "sources": [
         "더쿠",
         "디시인사이드"
       ],
       "aliases": [],
       "rank": 4,
+      "change": -1
+    },
+    {
+      "keyword": "남편",
+      "score": 106.92,
+      "post_count": 3,
+      "source_count": 3,
+      "best_rank": 77,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 5,
+      "change": -3
+    },
+    {
+      "keyword": "만화",
+      "score": 103.0,
+      "post_count": 3,
+      "source_count": 2,
+      "best_rank": 2,
+      "sources": [
+        "루리웹",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 6,
       "change": "NEW"
     },
     {
-      "keyword": "1위",
-      "score": 94.13,
+      "keyword": "실시간",
+      "score": 96.1,
       "post_count": 2,
       "source_count": 2,
       "best_rank": 20,
       "sources": [
         "더쿠",
-        "인벤"
-      ],
-      "aliases": [],
-      "rank": 5,
-      "change": 4
-    },
-    {
-      "keyword": "미국",
-      "score": 92.14,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 15,
-      "sources": [
-        "디시인사이드",
-        "루리웹"
-      ],
-      "aliases": [],
-      "rank": 6,
-      "change": 2
-    },
-    {
-      "keyword": "자동차",
-      "score": 91.99,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 15,
-      "sources": [
-        "디시인사이드",
-        "뽐뿌"
+        "디시인사이드"
       ],
       "aliases": [],
       "rank": 7,
-      "change": "NEW"
+      "change": -3
     },
     {
-      "keyword": "멋진",
-      "score": 91.2,
+      "keyword": "한국시리즈",
+      "score": 92.13,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 31,
+      "best_rank": 24,
       "sources": [
-        "디시인사이드",
-        "루리웹"
+        "더쿠",
+        "인벤"
       ],
       "aliases": [],
       "rank": 8,
       "change": "NEW"
     },
     {
-      "keyword": "kbo",
-      "score": 90.29,
+      "keyword": "1위",
+      "score": 92.12,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 26,
+      "best_rank": 25,
       "sources": [
         "더쿠",
         "인벤"
       ],
       "aliases": [],
       "rank": 9,
-      "change": "NEW"
+      "change": -4
+    },
+    {
+      "keyword": "자동차",
+      "score": 90.84,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 13,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌"
+      ],
+      "aliases": [],
+      "rank": 10,
+      "change": -3
     },
     {
       "keyword": "앞으로",
-      "score": 89.0,
+      "score": 89.96,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 35,
+      "best_rank": 34,
       "sources": [
         "더쿠",
         "디시인사이드"
       ],
       "aliases": [],
-      "rank": 10,
+      "rank": 11,
+      "change": -1
+    },
+    {
+      "keyword": "주식",
+      "score": 89.42,
+      "post_count": 3,
+      "source_count": 2,
+      "best_rank": 23,
+      "sources": [
+        "루리웹",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 12,
       "change": "NEW"
     },
     {
-      "keyword": "은마아파트",
-      "score": 86.1,
+      "keyword": "kbo",
+      "score": 88.17,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 35,
+      "best_rank": 31,
       "sources": [
         "더쿠",
         "인벤"
       ],
-      "aliases": [
-        "재건축"
-      ],
-      "rank": 11,
-      "change": "NEW"
-    },
-    {
-      "keyword": "한국",
-      "score": 82.35,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 51,
-      "sources": [
-        "디시인사이드",
-        "인벤"
-      ],
       "aliases": [],
-      "rank": 12,
-      "change": -11
+      "rank": 13,
+      "change": -4
     },
     {
-      "keyword": "선거",
-      "score": 81.05,
-      "post_count": 2,
+      "keyword": "삼성",
+      "score": 87.57,
+      "post_count": 3,
       "source_count": 2,
-      "best_rank": 65,
+      "best_rank": 40,
       "sources": [
-        "인벤",
+        "루리웹",
         "클리앙"
       ],
       "aliases": [],
-      "rank": 13,
+      "rank": 14,
       "change": "NEW"
     },
     {
-      "keyword": "젤다",
-      "score": 78.3,
+      "keyword": "5차전",
+      "score": 86.12,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 69,
+      "best_rank": 49,
       "sources": [
-        "디시인사이드",
-        "루리웹"
+        "더쿠",
+        "클리앙"
       ],
       "aliases": [],
-      "rank": 14,
+      "rank": 15,
       "change": "NEW"
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "퍼스널pc의 종말이 다가온다",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77314532?m=humor",
-      "score": 97.71,
-      "views": 14151,
-      "comments": 103
+      "title": "\"ALL Correct\" 줄임말이 왜 \"OK\" 임?",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77314169?m=humor",
+      "score": 96.04,
+      "views": 14621,
+      "comments": 63
     },
     {
       "source": "뽐뿌",
-      "title": "엔비디아 젠슨황 스캔들 간단 정리.txt",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=452597",
-      "score": 82.5,
-      "views": 26505,
-      "comments": 55
+      "title": "현재) 충격적인 개인용 PC 종말의 시대 ㄷㄷ.jpg",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10180310",
+      "score": 83.1,
+      "views": 22123,
+      "comments": 51
     },
     {
       "source": "디시인사이드",
       "title": "프랑스 씨발ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476799&_dcbest=1&page=1",
-      "score": 80.55,
-      "views": 12246,
-      "comments": 257
+      "score": 81.53,
+      "views": 13585,
+      "comments": 282
     },
     {
       "source": "인벤",
       "title": "국짐 5천피 결말참담?ㅋㅋㅋ",
       "url": "https://www.inven.co.kr/board/webzine/2097/2750218",
-      "score": 77.47,
-      "views": 1452,
+      "score": 74.86,
+      "views": 1685,
       "comments": 17
     },
     {
       "source": "더쿠",
       "title": "여자들은 남자한테 사랑받을 수 있는게 부러움",
       "url": "https://theqoo.net/hot/4399363438",
-      "score": 76.53,
-      "views": 54547,
-      "comments": 518
+      "score": 74.37,
+      "views": 56587,
+      "comments": 529
     },
     {
       "source": "클리앙",
       "title": "[야구] kt가 무너지네요.",
       "url": "https://www.clien.net/service/board/park/19289363?od=T31&po=0&category=0&groupCd=",
-      "score": 73.66,
-      "views": 1083,
-      "comments": 12
+      "score": 73.19,
+      "views": 1431,
+      "comments": 13
     }
   ]
 }
