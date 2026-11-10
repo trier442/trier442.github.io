@@ -3,7 +3,7 @@
   "period": "monthly",
   "key": "2026-11",
   "label": "2026년 11월",
-  "collected_at": "2026-11-10T05:11:52.337844+09:00",
+  "collected_at": "2026-11-10T11:47:42.579412+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -682,6 +682,45 @@
       "change": 0
     },
     {
+      "id": "i938836c2",
+      "title": "어제자) 안동커피매장 무차별 폭행장면",
+      "keywords": [
+        "안동커피매장",
+        "무차별"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 104.39,
+      "peak_score": 94.92,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 4,
+          "title": "어제자) 안동커피매장 무차별 폭행장면",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10182113",
+          "score": 86.92
+        },
+        {
+          "source": "인벤",
+          "rank": 62,
+          "title": "어제 (9일) 안동커피매장 무차별 폭행 장면.mp4",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2750837",
+          "score": 59.43
+        }
+      ],
+      "first_seen": "2026-11-10T11:47:42.579412+09:00",
+      "last_seen": "2026-11-10T11:47:42.579412+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 18,
+      "change": "NEW"
+    },
+    {
       "id": "i6576e44b",
       "title": "‘아무도’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -716,8 +755,8 @@
       "last_seen": "2026-11-07T09:26:15.650624+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 18,
-      "change": 0
+      "rank": 19,
+      "change": -1
     },
     {
       "id": "i97ba91d3",
@@ -755,47 +794,8 @@
       "last_seen": "2026-11-09T03:56:50.689149+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 19,
-      "change": 0
-    },
-    {
-      "id": "idc85f2a1",
-      "title": "미국 중간선거 텍사스주 현황.jpg",
-      "keywords": [
-        "미국",
-        "중간선거"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 103.83,
-      "peak_score": 94.36,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 4,
-          "title": "미국 중간선거 텍사스주 현황.jpg",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10175931",
-          "score": 86.36
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 65,
-          "title": "싱글벙글 미국 중간선거 미시시피주 근황",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475522&_dcbest=1&page=1",
-          "score": 58.87
-        }
-      ],
-      "first_seen": "2026-11-04T18:57:48.394871+09:00",
-      "last_seen": "2026-11-04T18:57:48.394871+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 20,
-      "change": 0
+      "change": -1
     }
   ]
 }
