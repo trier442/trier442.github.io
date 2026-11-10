@@ -3,7 +3,7 @@
   "period": "monthly",
   "key": "2026-11",
   "label": "2026년 11월",
-  "collected_at": "2026-11-10T19:29:52.361105+09:00",
+  "collected_at": "2026-11-11T03:10:36.752978+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -179,6 +179,45 @@
       "change": 0
     },
     {
+      "id": "i7b918478",
+      "title": "‘일본의’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "일본의"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 119.64,
+      "peak_score": 106.71,
+      "appearances": 3,
+      "sources": [
+        "디시인사이드",
+        "루리웹",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 24,
+          "title": "특이점이 온 일본의 가슴 사이즈 체크법",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2751116",
+          "score": 67.5
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 90,
+          "title": "한국, 경상수지 흑자 일본의 2배…반도체 호황에 격차 확대",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=477655&_dcbest=1&page=1",
+          "score": 52.81
+        }
+      ],
+      "first_seen": "2026-10-03T04:55:10.124887+09:00",
+      "last_seen": "2026-11-11T03:10:36.752978+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 5,
+      "change": 1
+    },
+    {
       "id": "i9ff6bf96",
       "title": "‘프랑스’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -214,46 +253,47 @@
       "last_seen": "2026-11-06T15:59:18.215188+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
-      "change": 0
+      "rank": 6,
+      "change": -1
     },
     {
-      "id": "i7b918478",
-      "title": "‘일본이’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "ife021da2",
+      "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "일본이"
+        "난리난"
       ],
       "source_count": 2,
-      "post_count": 2,
-      "score": 118.2,
-      "peak_score": 106.71,
-      "appearances": 2,
+      "post_count": 3,
+      "score": 115.14,
+      "peak_score": 100.09,
+      "appearances": 4,
       "sources": [
         "디시인사이드",
-        "루리웹"
+        "루리웹",
+        "뽐뿌"
       ],
       "posts": [
         {
-          "source": "루리웹",
-          "rank": 1,
-          "title": "일본이 16세이하 SNS금지법 시행 요구 하는이유",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77275164?m=humor",
-          "score": 97.71
+          "source": "디시인사이드",
+          "rank": 79,
+          "title": "싱글벙글 일본에서 난리난 미국 공항에서 끌려가는 스시녀 영상",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=477631&_dcbest=1&page=1",
+          "score": 54.71
         },
         {
-          "source": "디시인사이드",
-          "rank": 87,
-          "title": "싱글벙글 일본이 거렁뱅이 나라라는 트위터리안",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475653&_dcbest=1&page=1",
-          "score": 54.52
+          "source": "뽐뿌",
+          "rank": 93,
+          "title": "현재) 난리난 인권위 근황 ㄷㄷ..jpg",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10182932",
+          "score": 52.26
         }
       ],
-      "first_seen": "2026-10-03T04:55:10.124887+09:00",
-      "last_seen": "2026-11-05T08:34:30.464171+09:00",
+      "first_seen": "2026-09-29T11:40:38.000414+09:00",
+      "last_seen": "2026-11-11T03:10:36.752978+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
-      "change": 0
+      "rank": 7,
+      "change": 1
     },
     {
       "id": "i573d2d0e",
@@ -290,47 +330,8 @@
       "last_seen": "2026-11-08T23:28:52.606559+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": 0
-    },
-    {
-      "id": "ife021da2",
-      "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "난리난"
-      ],
-      "source_count": 2,
-      "post_count": 3,
-      "score": 114.02,
-      "peak_score": 100.09,
-      "appearances": 3,
-      "sources": [
-        "디시인사이드",
-        "루리웹",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 60,
-          "title": "싱글벙글 현재 인도네시아 난리난 이유",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=475610&_dcbest=1&page=1",
-          "score": 60.13
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 96,
-          "title": "현재) 난리난 중국 마라톤 대회 근황 ㄷㄷ.gif",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10176817",
-          "score": 52.23
-        }
-      ],
-      "first_seen": "2026-09-29T11:40:38.000414+09:00",
-      "last_seen": "2026-11-05T02:56:56.923494+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 8,
-      "change": 0
+      "change": -1
     },
     {
       "id": "ia4c7959d",
@@ -488,6 +489,48 @@
       "change": 0
     },
     {
+      "id": "i76d1d903",
+      "title": "서울역 길거리 음주금지... 노숙인단체 반발.jpg",
+      "keywords": [
+        "서울역",
+        "음주금지",
+        "길거리",
+        "반발",
+        "노숙인단체"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 110.47,
+      "peak_score": 101.0,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 3,
+          "title": "서울역 길거리 음주금지... 노숙인단체 반발.jpg",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77344195?m=humor",
+          "score": 93.0
+        },
+        {
+          "source": "인벤",
+          "rank": 46,
+          "title": "서울역 길거리 음주금지... 노숙인단체 반발",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2751095",
+          "score": 61.42
+        }
+      ],
+      "first_seen": "2026-11-11T03:10:36.752978+09:00",
+      "last_seen": "2026-11-11T03:10:36.752978+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 13,
+      "change": "NEW"
+    },
+    {
       "id": "i2af08ac5",
       "title": "‘역대급’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -522,8 +565,8 @@
       "last_seen": "2026-11-03T05:16:01.731609+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 13,
-      "change": 0
+      "rank": 14,
+      "change": -1
     },
     {
       "id": "i7f48cc7a",
@@ -561,8 +604,8 @@
       "last_seen": "2026-11-05T12:42:06.097978+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 14,
-      "change": 0
+      "rank": 15,
+      "change": -1
     },
     {
       "id": "i08456703",
@@ -599,8 +642,8 @@
       "last_seen": "2026-11-06T04:03:56.555262+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 15,
-      "change": 0
+      "rank": 16,
+      "change": -1
     },
     {
       "id": "ieef61a46",
@@ -640,8 +683,8 @@
       "last_seen": "2026-11-05T08:12:16.179168+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 16,
-      "change": 0
+      "rank": 17,
+      "change": -1
     },
     {
       "id": "ie3fc87c2",
@@ -678,8 +721,8 @@
       "last_seen": "2026-11-01T07:24:53.147489+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 17,
-      "change": 0
+      "rank": 18,
+      "change": -1
     },
     {
       "id": "i938836c2",
@@ -717,8 +760,8 @@
       "last_seen": "2026-11-10T11:47:42.579412+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 18,
-      "change": 0
+      "rank": 19,
+      "change": -1
     },
     {
       "id": "i6576e44b",
@@ -755,47 +798,8 @@
       "last_seen": "2026-11-07T09:26:15.650624+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 19,
-      "change": 0
-    },
-    {
-      "id": "i97ba91d3",
-      "title": "[버거킹] 와퍼 3900원 (11/9~13)",
-      "keywords": [
-        "버거킹",
-        "와퍼"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 103.96,
-      "peak_score": 94.49,
-      "appearances": 1,
-      "sources": [
-        "루리웹",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 4,
-          "title": "[버거킹] 와퍼 3900원 (11/9~13)",
-          "url": "https://bbs.ruliweb.com/market/board/1020/read/108838",
-          "score": 86.49
-        },
-        {
-          "source": "클리앙",
-          "rank": 9,
-          "title": "버거킹 올해 마지막 와퍼 할인 3,900원",
-          "url": "https://www.clien.net/service/board/park/19289547?od=T31&po=0&category=0&groupCd=",
-          "score": 74.32
-        }
-      ],
-      "first_seen": "2026-11-09T03:56:50.689149+09:00",
-      "last_seen": "2026-11-09T03:56:50.689149+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 20,
-      "change": 0
+      "change": -1
     }
   ]
 }
