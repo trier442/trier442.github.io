@@ -3,7 +3,7 @@
   "period": "monthly",
   "key": "2026-11",
   "label": "2026년 11월",
-  "collected_at": "2026-11-12T09:50:37.119264+09:00",
+  "collected_at": "2026-11-12T16:47:53.957964+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -59,7 +59,7 @@
       "latest_source_count": 4,
       "latest_post_count": 7,
       "rank": 1,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i924c4c51",
@@ -109,7 +109,7 @@
       "latest_source_count": 3,
       "latest_post_count": 4,
       "rank": 2,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i2272efa7",
@@ -151,7 +151,53 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 3,
-      "change": -1
+      "change": 0
+    },
+    {
+      "id": "i1fcd34de",
+      "title": "‘세무사’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "세무사"
+      ],
+      "source_count": 3,
+      "post_count": 4,
+      "score": 131.59,
+      "peak_score": 116.12,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "루리웹",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 1,
+          "title": "세무사 시험 AI논란은 다른게 문제가 아니라",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77358839?m=humor",
+          "score": 98.12
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 4,
+          "title": "CPA 수석이 '세무사 1차 397.5점' 소식듣고 보인 반응 .jpg",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478078&_dcbest=1&page=1",
+          "score": 84.75
+        },
+        {
+          "source": "인벤",
+          "rank": 64,
+          "title": "세무사 갤러리 근황.jpg",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2751731",
+          "score": 61.19
+        }
+      ],
+      "first_seen": "2026-11-12T16:47:53.957964+09:00",
+      "last_seen": "2026-11-12T16:47:53.957964+09:00",
+      "latest_source_count": 3,
+      "latest_post_count": 4,
+      "rank": 4,
+      "change": "NEW"
     },
     {
       "id": "i5d449f3d",
@@ -196,8 +242,8 @@
       "last_seen": "2026-11-12T09:50:37.119264+09:00",
       "latest_source_count": 3,
       "latest_post_count": 3,
-      "rank": 4,
-      "change": "NEW"
+      "rank": 5,
+      "change": -1
     },
     {
       "id": "i7b918478",
@@ -235,8 +281,8 @@
       "last_seen": "2026-11-12T03:08:18.014809+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
-      "change": -2
+      "rank": 6,
+      "change": -1
     },
     {
       "id": "i2e26d9ac",
@@ -275,8 +321,8 @@
       "last_seen": "2026-11-08T03:15:20.371030+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
-      "change": -2
+      "rank": 7,
+      "change": -1
     },
     {
       "id": "i0cdcc665",
@@ -315,8 +361,8 @@
       "last_seen": "2026-11-06T23:56:49.330549+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": -2
+      "rank": 8,
+      "change": -1
     },
     {
       "id": "i9ff6bf96",
@@ -354,8 +400,8 @@
       "last_seen": "2026-11-06T15:59:18.215188+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 8,
-      "change": -2
+      "rank": 9,
+      "change": -1
     },
     {
       "id": "i22297824",
@@ -392,8 +438,8 @@
       "last_seen": "2026-11-11T08:31:33.584065+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 9,
-      "change": -2
+      "rank": 10,
+      "change": -1
     },
     {
       "id": "ife021da2",
@@ -431,8 +477,8 @@
       "last_seen": "2026-11-11T03:10:36.752978+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 10,
-      "change": -2
+      "rank": 11,
+      "change": -1
     },
     {
       "id": "i573d2d0e",
@@ -469,8 +515,55 @@
       "last_seen": "2026-11-08T23:28:52.606559+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 11,
-      "change": -2
+      "rank": 12,
+      "change": -1
+    },
+    {
+      "id": "i2bf88edf",
+      "title": "‘ai안경’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "ai안경"
+      ],
+      "source_count": 3,
+      "post_count": 3,
+      "score": 114.49,
+      "peak_score": 96.56,
+      "appearances": 3,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "루리웹",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 78,
+          "title": "실제 작년에 ai안경 써볼 생각 가졌다 포기한 사람으로서 말함ㅇㅇ",
+          "url": "https://theqoo.net/hot/4403790685",
+          "score": 58.37
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 87,
+          "title": "오싹오싹 올해 AI안경 부정시험 걸린 사례들",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478036&_dcbest=1&page=1",
+          "score": 55.99
+        },
+        {
+          "source": "루리웹",
+          "rank": 93,
+          "title": "이번 세무사 건으로 같이 AI안경 의혹받던 LEET 만점자 근황",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77362461?m=humor_only&t=now",
+          "score": 53.64
+        }
+      ],
+      "first_seen": "2026-11-12T03:08:18.014809+09:00",
+      "last_seen": "2026-11-12T16:47:53.957964+09:00",
+      "latest_source_count": 3,
+      "latest_post_count": 3,
+      "rank": 13,
+      "change": 6
     },
     {
       "id": "ia4c7959d",
@@ -507,7 +600,7 @@
       "last_seen": "2026-11-04T07:34:46.463759+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 12,
+      "rank": 14,
       "change": -2
     },
     {
@@ -545,8 +638,8 @@
       "last_seen": "2026-11-12T09:50:37.119264+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 13,
-      "change": 0
+      "rank": 15,
+      "change": -2
     },
     {
       "id": "i56f3e6c5",
@@ -583,8 +676,8 @@
       "last_seen": "2026-11-04T18:57:48.394871+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 14,
-      "change": -3
+      "rank": 16,
+      "change": -2
     },
     {
       "id": "idb63e02d",
@@ -621,8 +714,8 @@
       "last_seen": "2026-11-11T11:57:56.217814+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 15,
-      "change": -3
+      "rank": 17,
+      "change": -2
     },
     {
       "id": "i64aac33b",
@@ -662,8 +755,54 @@
       "last_seen": "2026-11-09T07:48:29.370894+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 16,
+      "rank": 18,
       "change": -2
+    },
+    {
+      "id": "i359550d9",
+      "title": "‘이재용’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "이재용"
+      ],
+      "source_count": 3,
+      "post_count": 3,
+      "score": 110.5,
+      "peak_score": 96.03,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 7,
+          "title": "점점 몸을 뺏기고 있는 \"이재용\" 회장..",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10184457",
+          "score": 79.03
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 9,
+          "title": "혼란한 와중 이재용 근황",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478071&_dcbest=1&page=1",
+          "score": 77.33
+        },
+        {
+          "source": "인벤",
+          "rank": 35,
+          "title": "합성이나 ai 아니라는 이재용 근황",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2751737",
+          "score": 67.41
+        }
+      ],
+      "first_seen": "2026-11-12T16:47:53.957964+09:00",
+      "last_seen": "2026-11-12T16:47:53.957964+09:00",
+      "latest_source_count": 3,
+      "latest_post_count": 3,
+      "rank": 19,
+      "change": "NEW"
     },
     {
       "id": "i76d1d903",
@@ -704,122 +843,6 @@
       "last_seen": "2026-11-11T03:10:36.752978+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 17,
-      "change": -2
-    },
-    {
-      "id": "i2af08ac5",
-      "title": "‘역대급’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "역대급"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 109.95,
-      "peak_score": 98.46,
-      "appearances": 2,
-      "sources": [
-        "더쿠",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 4,
-          "title": "역대급 전설의 공모주 나왔네요",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=449156",
-          "score": 89.46
-        },
-        {
-          "source": "더쿠",
-          "rank": 58,
-          "title": "배라 역대급 호불호 이달의 맛.jpg (예전맛이라고함)",
-          "url": "https://theqoo.net/hot/4393980284",
-          "score": 59.74
-        }
-      ],
-      "first_seen": "2026-10-04T11:44:43.352420+09:00",
-      "last_seen": "2026-11-03T05:16:01.731609+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 18,
-      "change": -2
-    },
-    {
-      "id": "i2bf88edf",
-      "title": "‘ai안경’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "ai안경"
-      ],
-      "source_count": 2,
-      "post_count": 3,
-      "score": 109.05,
-      "peak_score": 96.56,
-      "appearances": 2,
-      "sources": [
-        "더쿠",
-        "디시인사이드",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 7,
-          "title": "오싹오싹 올해 AI안경 부정시험 걸린 사례들",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478036&_dcbest=1&page=1",
-          "score": 79.86
-        },
-        {
-          "source": "더쿠",
-          "rank": 23,
-          "title": "수능 때 AI안경 쓰면 시험 무효… 내년 응시 자격까지 날아간다",
-          "url": "https://theqoo.net/hot/4403381971",
-          "score": 68.21
-        }
-      ],
-      "first_seen": "2026-11-12T03:08:18.014809+09:00",
-      "last_seen": "2026-11-12T09:50:37.119264+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 3,
-      "rank": 19,
-      "change": "NEW"
-    },
-    {
-      "id": "i7f48cc7a",
-      "title": "‘반도체’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "반도체"
-      ],
-      "source_count": 3,
-      "post_count": 3,
-      "score": 108.98,
-      "peak_score": 92.49,
-      "appearances": 2,
-      "sources": [
-        "더쿠",
-        "루리웹",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 7,
-          "title": "한국 반도체 삼전 닉스가 빠르게 무너질 거라 보는 이유",
-          "url": "https://theqoo.net/hot/4396463751",
-          "score": 77.68
-        },
-        {
-          "source": "클리앙",
-          "rank": 20,
-          "title": "제빵 전문가가 호남 반도체 지원금 심의 ㅋㅋㅋ",
-          "url": "https://www.clien.net/service/board/park/19287839?od=T31&po=0&category=0&groupCd=",
-          "score": 68.81
-        }
-      ],
-      "first_seen": "2026-09-27T18:31:46.541305+09:00",
-      "last_seen": "2026-11-05T12:42:06.097978+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 3,
       "rank": 20,
       "change": -3
     }
