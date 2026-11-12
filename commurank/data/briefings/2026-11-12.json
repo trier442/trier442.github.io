@@ -2,26 +2,26 @@
   "version": 1,
   "date": "2026-11-12",
   "label": "2026년 11월 12일",
-  "collected_at": "2026-11-12T03:08:18.014809+09:00",
+  "collected_at": "2026-11-12T09:50:37.119264+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘‘ai안경’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #일본. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘‘젠슨황’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #젠슨황. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 6,
     "cached_sources": 0,
     "realtime_posts": 100,
     "daily_posts": 100,
-    "daily_issues": 6,
-    "keywords": 15,
-    "top100_views": 604208,
-    "top100_comments": 5097
+    "daily_issues": 12,
+    "keywords": 20,
+    "top100_views": 836690,
+    "top100_comments": 6711
   },
   "highlights": [
     {
       "type": "issue",
-      "title": "‘ai안경’ 관련 글이 여러 커뮤니티에서 화제",
-      "text": "2개 커뮤니티에서 2개 관련 인기글이 포착됐습니다.",
-      "issue_id": "i2bf88edf"
+      "title": "‘젠슨황’ 관련 글이 여러 커뮤니티에서 화제",
+      "text": "4개 커뮤니티에서 7개 관련 인기글이 포착됐습니다.",
+      "issue_id": "i153ac4c4"
     },
     {
       "type": "post",
@@ -31,9 +31,9 @@
     },
     {
       "type": "keyword",
-      "title": "#일본",
-      "text": "3개 커뮤니티 · 4개 인기글에서 함께 등장했습니다.",
-      "keyword": "일본"
+      "title": "#젠슨황",
+      "text": "4개 커뮤니티 · 7개 인기글에서 함께 등장했습니다.",
+      "keyword": "젠슨황"
     }
   ],
   "top_posts": [
@@ -49,11 +49,11 @@
       "max_likes": 94,
       "max_comments": 183,
       "appearances": 1,
-      "score": 108.35,
+      "score": 107.79,
       "views": 27011,
       "likes": 94,
       "comments": 183,
-      "change": "NEW"
+      "change": 0
     },
     {
       "title": "가세연이 장신한테 착각했던것",
@@ -67,10 +67,64 @@
       "max_likes": 172,
       "max_comments": 96,
       "appearances": 1,
-      "score": 106.0,
+      "score": 105.44,
       "views": 18975,
       "likes": 172,
       "comments": 96,
+      "change": 0
+    },
+    {
+      "title": "조선 백자가 돈없어서 만든 그릇이란 발언이 웃긴 이유.jpg",
+      "source": "루리웹",
+      "category": "유머",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77357767?m=humor",
+      "first_seen": "2026-11-12T09:50:37.119264+09:00",
+      "last_seen": "2026-11-12T09:50:37.119264+09:00",
+      "peak_score": 95.62,
+      "max_views": 5846,
+      "max_likes": 97,
+      "max_comments": 90,
+      "appearances": 1,
+      "score": 105.01,
+      "views": 5846,
+      "likes": 97,
+      "comments": 90,
+      "change": "NEW"
+    },
+    {
+      "title": "엔비디아 젠슨 황 두번째 불륜 의혹.jpg",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77357162?m=humor",
+      "first_seen": "2026-11-12T09:50:37.119264+09:00",
+      "last_seen": "2026-11-12T09:50:37.119264+09:00",
+      "peak_score": 94.52,
+      "max_views": 21082,
+      "max_likes": 72,
+      "max_comments": 59,
+      "appearances": 1,
+      "score": 103.91,
+      "views": 21082,
+      "likes": 72,
+      "comments": 59,
+      "change": "NEW"
+    },
+    {
+      "title": "조선 백자의 소박하고 절제된 미라는 게 돈이 없어서였다는 주장은 예전부터 있었음",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77356748?m=humor",
+      "first_seen": "2026-11-12T09:50:37.119264+09:00",
+      "last_seen": "2026-11-12T09:50:37.119264+09:00",
+      "peak_score": 93.42,
+      "max_views": 24073,
+      "max_likes": 70,
+      "max_comments": 67,
+      "appearances": 1,
+      "score": 102.81,
+      "views": 24073,
+      "likes": 70,
+      "comments": 67,
       "change": "NEW"
     },
     {
@@ -85,11 +139,11 @@
       "max_likes": 89,
       "max_comments": 72,
       "appearances": 1,
-      "score": 102.39,
+      "score": 101.83,
       "views": 16560,
       "likes": 89,
       "comments": 72,
-      "change": "NEW"
+      "change": -3
     },
     {
       "title": "AI안경 잡아내는 가장 초간단 방법",
@@ -103,10 +157,46 @@
       "max_likes": 13,
       "max_comments": 101,
       "appearances": 1,
-      "score": 96.95,
+      "score": 96.39,
       "views": 23963,
       "likes": 13,
       "comments": 101,
+      "change": -3
+    },
+    {
+      "title": "역대 최악의 결말을 맞이해버린 금쪽이 에피소드",
+      "source": "디시인사이드",
+      "category": "이슈",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478019&_dcbest=1&page=1",
+      "first_seen": "2026-11-12T09:50:37.119264+09:00",
+      "last_seen": "2026-11-12T09:50:37.119264+09:00",
+      "peak_score": 85.67,
+      "max_views": 20091,
+      "max_likes": 119,
+      "max_comments": 217,
+      "appearances": 1,
+      "score": 95.06,
+      "views": 20091,
+      "likes": 119,
+      "comments": 217,
+      "change": "NEW"
+    },
+    {
+      "title": "[네이버페이] 20원",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/market/board/1020/read/108950",
+      "first_seen": "2026-11-12T09:50:37.119264+09:00",
+      "last_seen": "2026-11-12T09:50:37.119264+09:00",
+      "peak_score": 83.99,
+      "max_views": 17995,
+      "max_likes": 141,
+      "max_comments": 12,
+      "appearances": 1,
+      "score": 93.38,
+      "views": 17995,
+      "likes": 141,
+      "comments": 12,
       "change": "NEW"
     },
     {
@@ -115,119 +205,69 @@
       "category": "이슈",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=477979&_dcbest=1&page=1",
       "first_seen": "2026-11-12T03:08:18.014809+09:00",
-      "last_seen": "2026-11-12T03:08:18.014809+09:00",
+      "last_seen": "2026-11-12T09:50:37.119264+09:00",
       "peak_score": 82.02,
-      "max_views": 4302,
-      "max_likes": 61,
-      "max_comments": 154,
-      "appearances": 1,
-      "score": 91.41,
-      "views": 4302,
-      "likes": 61,
-      "comments": 154,
-      "change": "NEW"
-    },
-    {
-      "title": "김민새) 병원 외래진료, 대기 없이 프리패스 갑질 진상 ㅉㅉ",
-      "source": "뽐뿌",
-      "category": "이슈",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10183859",
-      "first_seen": "2026-11-12T03:08:18.014809+09:00",
-      "last_seen": "2026-11-12T03:08:18.014809+09:00",
-      "peak_score": 79.71,
-      "max_views": 6469,
-      "max_likes": 61,
-      "max_comments": 43,
-      "appearances": 1,
-      "score": 89.1,
-      "views": 6469,
-      "likes": 61,
-      "comments": 43,
-      "change": "NEW"
-    },
-    {
-      "title": "ai안경 사용 추정중인 세무사 수석 본인이 쓴 글들 및 의혹정리.jpg",
-      "source": "더쿠",
-      "category": "이슈",
-      "url": "https://theqoo.net/hot/4403288959",
-      "first_seen": "2026-11-12T03:08:18.014809+09:00",
-      "last_seen": "2026-11-12T03:08:18.014809+09:00",
-      "peak_score": 78.0,
-      "max_views": 15518,
-      "max_likes": 0,
-      "max_comments": 201,
-      "appearances": 1,
-      "score": 87.39,
-      "views": 15518,
-      "likes": 0,
-      "comments": 201,
-      "change": "NEW"
-    },
-    {
-      "title": "스레드에서 의견 갈린 결혼식 아이 의상 매너",
-      "source": "더쿠",
-      "category": "이슈",
-      "url": "https://theqoo.net/hot/4403285145",
-      "first_seen": "2026-11-12T03:08:18.014809+09:00",
-      "last_seen": "2026-11-12T03:08:18.014809+09:00",
-      "peak_score": 77.84,
-      "max_views": 16839,
-      "max_likes": 0,
-      "max_comments": 243,
-      "appearances": 1,
-      "score": 87.23,
-      "views": 16839,
-      "likes": 0,
-      "comments": 243,
-      "change": "NEW"
-    },
-    {
-      "title": "에타에서 나온 ai 시험 의혹",
-      "source": "더쿠",
-      "category": "이슈",
-      "url": "https://theqoo.net/hot/4403264709",
-      "first_seen": "2026-11-12T03:08:18.014809+09:00",
-      "last_seen": "2026-11-12T03:08:18.014809+09:00",
-      "peak_score": 75.68,
-      "max_views": 24905,
-      "max_likes": 0,
-      "max_comments": 216,
-      "appearances": 1,
-      "score": 85.07,
-      "views": 24905,
-      "likes": 0,
-      "comments": 216,
-      "change": "NEW"
-    },
-    {
-      "title": "박지원 \"싸우지말자\"",
-      "source": "뽐뿌",
-      "category": "이슈",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10183879",
-      "first_seen": "2026-11-12T03:08:18.014809+09:00",
-      "last_seen": "2026-11-12T03:08:18.014809+09:00",
-      "peak_score": 75.02,
-      "max_views": 6042,
-      "max_likes": 51,
-      "max_comments": 46,
-      "appearances": 1,
-      "score": 84.41,
-      "views": 6042,
-      "likes": 51,
-      "comments": 46,
-      "change": "NEW"
+      "max_views": 15442,
+      "max_likes": 166,
+      "max_comments": 273,
+      "appearances": 2,
+      "score": 92.22,
+      "views": 15442,
+      "likes": 166,
+      "comments": 273,
+      "change": -5
     }
   ],
   "rising": [
     {
-      "source": "루리웹",
-      "title": "헬스장에서 수치사 당했음.",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77353624?m=humor",
+      "source": "더쿠",
+      "title": "ai안경 사용 추정중인 세무사 수석 본인이 쓴 글들 및 의혹정리.jpg",
+      "url": "https://theqoo.net/hot/4403288959",
       "category": "이슈",
-      "views": 27011,
-      "likes": 94,
-      "comments": 183,
-      "score": 98.96,
+      "views": 74394,
+      "likes": 0,
+      "comments": 344,
+      "score": 51.79,
+      "change": 0,
+      "current_rank": 97,
+      "new_entry": false,
+      "delta_views": 58876,
+      "delta_likes": 0,
+      "delta_comments": 143,
+      "rank_gain": 0,
+      "rising_score": 100.0,
+      "rising_rank": 1,
+      "window_minutes": 402
+    },
+    {
+      "source": "디시인사이드",
+      "title": "1년째 열애중이라는 49세 여성 40세 남성 커플",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=477977&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 22201,
+      "likes": 102,
+      "comments": 198,
+      "score": 67.19,
+      "change": 0,
+      "current_rank": 27,
+      "new_entry": false,
+      "delta_views": 17219,
+      "delta_likes": 72,
+      "delta_comments": 142,
+      "rank_gain": 0,
+      "rising_score": 87.04,
+      "rising_rank": 2,
+      "window_minutes": 402
+    },
+    {
+      "source": "루리웹",
+      "title": "조선 백자가 돈없어서 만든 그릇이란 발언이 웃긴 이유.jpg",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77357767?m=humor",
+      "category": "유머",
+      "views": 5846,
+      "likes": 97,
+      "comments": 90,
+      "score": 95.62,
       "change": "NEW",
       "current_rank": 1,
       "new_entry": true,
@@ -235,19 +275,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 83.56,
-      "rising_rank": 1,
-      "window_minutes": 444
+      "rising_score": 82.16,
+      "rising_rank": 3,
+      "window_minutes": 402
     },
     {
       "source": "루리웹",
-      "title": "가세연이 장신한테 착각했던것",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77353475?m=humor",
+      "title": "엔비디아 젠슨 황 두번째 불륜 의혹.jpg",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77357162?m=humor",
       "category": "이슈",
-      "views": 18975,
-      "likes": 172,
-      "comments": 96,
-      "score": 96.61,
+      "views": 21082,
+      "likes": 72,
+      "comments": 59,
+      "score": 94.52,
       "change": "NEW",
       "current_rank": 2,
       "new_entry": true,
@@ -255,19 +295,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.58,
-      "rising_rank": 2,
-      "window_minutes": 444
+      "rising_score": 81.7,
+      "rising_rank": 4,
+      "window_minutes": 402
     },
     {
       "source": "루리웹",
-      "title": "감동 주의) 요즘 진짜 돌 꼴리티",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77354721?m=humor",
+      "title": "조선 백자의 소박하고 절제된 미라는 게 돈이 없어서였다는 주장은 예전부터 있었음",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77356748?m=humor",
       "category": "이슈",
-      "views": 16560,
-      "likes": 89,
-      "comments": 72,
-      "score": 93.0,
+      "views": 24073,
+      "likes": 70,
+      "comments": 67,
+      "score": 93.42,
       "change": "NEW",
       "current_rank": 3,
       "new_entry": true,
@@ -275,19 +315,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 81.06,
-      "rising_rank": 3,
-      "window_minutes": 444
+      "rising_score": 81.24,
+      "rising_rank": 5,
+      "window_minutes": 402
     },
     {
-      "source": "뽐뿌",
-      "title": "AI안경 잡아내는 가장 초간단 방법",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10183938",
+      "source": "디시인사이드",
+      "title": "역대 최악의 결말을 맞이해버린 금쪽이 에피소드",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478019&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 23963,
-      "likes": 13,
-      "comments": 101,
-      "score": 87.56,
+      "views": 20091,
+      "likes": 119,
+      "comments": 217,
+      "score": 85.67,
       "change": "NEW",
       "current_rank": 4,
       "new_entry": true,
@@ -295,19 +335,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 78.78,
-      "rising_rank": 4,
-      "window_minutes": 444
+      "rising_score": 77.98,
+      "rising_rank": 6,
+      "window_minutes": 402
     },
     {
-      "source": "디시인사이드",
-      "title": "싱글벙글 핑핑이의 일대일로 산업 근황",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=477979&_dcbest=1&page=1",
+      "source": "루리웹",
+      "title": "[네이버페이] 20원",
+      "url": "https://bbs.ruliweb.com/market/board/1020/read/108950",
       "category": "이슈",
-      "views": 4302,
-      "likes": 61,
-      "comments": 154,
-      "score": 82.02,
+      "views": 17995,
+      "likes": 141,
+      "comments": 12,
+      "score": 83.99,
       "change": "NEW",
       "current_rank": 5,
       "new_entry": true,
@@ -315,19 +355,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 76.45,
-      "rising_rank": 5,
-      "window_minutes": 444
+      "rising_score": 77.28,
+      "rising_rank": 7,
+      "window_minutes": 402
     },
     {
-      "source": "뽐뿌",
-      "title": "김민새) 병원 외래진료, 대기 없이 프리패스 갑질 진상 ㅉㅉ",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10183859",
+      "source": "더쿠",
+      "title": "손흥민, 이재성, 김민재, 황인범, 황희찬 입장문",
+      "url": "https://theqoo.net/hot/4403412607",
       "category": "이슈",
-      "views": 6469,
-      "likes": 61,
-      "comments": 43,
-      "score": 79.71,
+      "views": 20728,
+      "likes": 0,
+      "comments": 242,
+      "score": 80.0,
       "change": "NEW",
       "current_rank": 6,
       "new_entry": true,
@@ -335,19 +375,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 75.48,
-      "rising_rank": 6,
-      "window_minutes": 444
+      "rising_score": 75.6,
+      "rising_rank": 8,
+      "window_minutes": 402
     },
     {
-      "source": "더쿠",
-      "title": "ai안경 사용 추정중인 세무사 수석 본인이 쓴 글들 및 의혹정리.jpg",
-      "url": "https://theqoo.net/hot/4403288959",
+      "source": "디시인사이드",
+      "title": "오싹오싹 올해 AI안경 부정시험 걸린 사례들",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478036&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 15518,
-      "likes": 0,
-      "comments": 201,
-      "score": 78.0,
+      "views": 10015,
+      "likes": 61,
+      "comments": 89,
+      "score": 79.86,
       "change": "NEW",
       "current_rank": 7,
       "new_entry": true,
@@ -355,19 +395,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 74.76,
-      "rising_rank": 7,
-      "window_minutes": 444
+      "rising_score": 75.54,
+      "rising_rank": 9,
+      "window_minutes": 402
     },
     {
-      "source": "더쿠",
-      "title": "스레드에서 의견 갈린 결혼식 아이 의상 매너",
-      "url": "https://theqoo.net/hot/4403285145",
-      "category": "이슈",
-      "views": 16839,
-      "likes": 0,
-      "comments": 243,
-      "score": 77.84,
+      "source": "디시인사이드",
+      "title": "싱글벙글 젠슨황 두번째 내연녀 의혹도 터짐ㅋㅋㅋㅋ",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478028&_dcbest=1&page=1",
+      "category": "유머",
+      "views": 13054,
+      "likes": 61,
+      "comments": 126,
+      "score": 79.35,
       "change": "NEW",
       "current_rank": 8,
       "new_entry": true,
@@ -375,52 +415,112 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 74.69,
-      "rising_rank": 8,
-      "window_minutes": 444
-    },
-    {
-      "source": "더쿠",
-      "title": "에타에서 나온 ai 시험 의혹",
-      "url": "https://theqoo.net/hot/4403264709",
-      "category": "이슈",
-      "views": 24905,
-      "likes": 0,
-      "comments": 216,
-      "score": 75.68,
-      "change": "NEW",
-      "current_rank": 9,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 73.79,
-      "rising_rank": 9,
-      "window_minutes": 444
-    },
-    {
-      "source": "뽐뿌",
-      "title": "박지원 \"싸우지말자\"",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10183879",
-      "category": "이슈",
-      "views": 6042,
-      "likes": 51,
-      "comments": 46,
-      "score": 75.02,
-      "change": "NEW",
-      "current_rank": 10,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 73.51,
+      "rising_score": 75.33,
       "rising_rank": 10,
-      "window_minutes": 444
+      "window_minutes": 402
     }
   ],
   "issues": [
+    {
+      "id": "i153ac4c4",
+      "title": "‘젠슨황’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "젠슨황"
+      ],
+      "source_count": 4,
+      "post_count": 7,
+      "score": 127.82,
+      "peak_score": 105.35,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 8,
+          "title": "싱글벙글 젠슨황 두번째 내연녀 의혹도 터짐ㅋㅋㅋㅋ",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478028&_dcbest=1&page=1",
+          "score": 79.35
+        },
+        {
+          "source": "클리앙",
+          "rank": 20,
+          "title": "젠슨황 불륜으로 인한 드립 근황.....jpg",
+          "url": "https://www.clien.net/service/board/park/19291074?od=T31&po=0&category=0&groupCd=",
+          "score": 70.84
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 47,
+          "title": "카더라_젠슨황 추가 불륜 ㄷㄷ",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=454175",
+          "score": 63.41
+        },
+        {
+          "source": "인벤",
+          "rank": 70,
+          "title": "엔비디아, 젠슨황 해임 추진",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2751564",
+          "score": 58.07
+        }
+      ],
+      "first_seen": "2026-11-08T03:09:30.592393+09:00",
+      "last_seen": "2026-11-12T09:50:37.119264+09:00",
+      "latest_source_count": 4,
+      "latest_post_count": 7,
+      "rank": 1,
+      "change": "NEW"
+    },
+    {
+      "id": "i5d449f3d",
+      "title": "‘두번째’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "두번째"
+      ],
+      "source_count": 3,
+      "post_count": 3,
+      "score": 125.99,
+      "peak_score": 111.52,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "루리웹",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 2,
+          "title": "엔비디아 젠슨 황 두번째 불륜 의혹.jpg",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77357162?m=humor",
+          "score": 94.52
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 8,
+          "title": "싱글벙글 젠슨황 두번째 내연녀 의혹도 터짐ㅋㅋㅋㅋ",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478028&_dcbest=1&page=1",
+          "score": 79.35
+        },
+        {
+          "source": "클리앙",
+          "rank": 41,
+          "title": "젠슨황 두번째 불륜녀? 천하의 난봉꾼이었군요",
+          "url": "https://www.clien.net/service/board/park/19291063?od=T31&po=0&category=0&groupCd=",
+          "score": 64.61
+        }
+      ],
+      "first_seen": "2026-11-12T09:50:37.119264+09:00",
+      "last_seen": "2026-11-12T09:50:37.119264+09:00",
+      "latest_source_count": 3,
+      "latest_post_count": 3,
+      "rank": 2,
+      "change": "NEW"
+    },
     {
       "id": "i2bf88edf",
       "title": "‘ai안경’ 관련 글이 여러 커뮤니티에서 화제",
@@ -428,35 +528,114 @@
         "ai안경"
       ],
       "source_count": 2,
-      "post_count": 2,
-      "score": 106.03,
+      "post_count": 3,
+      "score": 109.05,
       "peak_score": 96.56,
-      "appearances": 1,
+      "appearances": 2,
       "sources": [
         "더쿠",
+        "디시인사이드",
         "뽐뿌"
       ],
       "posts": [
         {
-          "source": "뽐뿌",
-          "rank": 4,
-          "title": "AI안경 잡아내는 가장 초간단 방법",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10183938",
-          "score": 87.56
+          "source": "디시인사이드",
+          "rank": 7,
+          "title": "오싹오싹 올해 AI안경 부정시험 걸린 사례들",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478036&_dcbest=1&page=1",
+          "score": 79.86
         },
         {
           "source": "더쿠",
-          "rank": 7,
-          "title": "ai안경 사용 추정중인 세무사 수석 본인이 쓴 글들 및 의혹정리.jpg",
-          "url": "https://theqoo.net/hot/4403288959",
-          "score": 78.0
+          "rank": 23,
+          "title": "수능 때 AI안경 쓰면 시험 무효… 내년 응시 자격까지 날아간다",
+          "url": "https://theqoo.net/hot/4403381971",
+          "score": 68.21
         }
       ],
       "first_seen": "2026-11-12T03:08:18.014809+09:00",
-      "last_seen": "2026-11-12T03:08:18.014809+09:00",
+      "last_seen": "2026-11-12T09:50:37.119264+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 3,
+      "rank": 3,
+      "change": -2
+    },
+    {
+      "id": "i5d6688ff",
+      "title": "‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "네이버페이"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 104.48,
+      "peak_score": 92.99,
+      "appearances": 2,
+      "sources": [
+        "루리웹",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 5,
+          "title": "[네이버페이] 20원",
+          "url": "https://bbs.ruliweb.com/market/board/1020/read/108950",
+          "score": 83.99
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 83,
+          "title": "11/12일자 네이버페이 79원 + 랜덤포인트 모음",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=money&no=549606",
+          "score": 55.21
+        }
+      ],
+      "first_seen": "2026-09-28T07:08:45.324597+09:00",
+      "last_seen": "2026-11-12T09:50:37.119264+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 1,
+      "rank": 4,
+      "change": -1
+    },
+    {
+      "id": "iabe672dc",
+      "title": "손흥민, 이재성, 김민재, 황인범, 황희찬 입장문",
+      "keywords": [
+        "김민재",
+        "손흥민",
+        "입장문"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 97.47,
+      "peak_score": 88.0,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 6,
+          "title": "손흥민, 이재성, 김민재, 황인범, 황희찬 입장문",
+          "url": "https://theqoo.net/hot/4403412607",
+          "score": 80.0
+        },
+        {
+          "source": "인벤",
+          "rank": 78,
+          "title": "[오피셜] \"갈등 아니다, 은퇴 조건 요구도 사실무근\"…손흥민·김민재 등 5명, 대표팀 불화설에 공동 입장문 발표",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2751562",
+          "score": 56.42
+        }
+      ],
+      "first_seen": "2026-11-12T09:50:37.119264+09:00",
+      "last_seen": "2026-11-12T09:50:37.119264+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 5,
       "change": "NEW"
     },
     {
@@ -494,45 +673,45 @@
       "last_seen": "2026-11-12T03:08:18.014809+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 2,
-      "change": "NEW"
+      "rank": 6,
+      "change": -4
     },
     {
-      "id": "i5d6688ff",
-      "title": "‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i24ae49e9",
+      "title": "‘2026년’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "네이버페이"
+        "2026년"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 90.37,
-      "peak_score": 80.9,
+      "score": 86.55,
+      "peak_score": 77.08,
       "appearances": 1,
       "sources": [
-        "루리웹",
-        "뽐뿌"
+        "인벤",
+        "클리앙"
       ],
       "posts": [
         {
-          "source": "루리웹",
-          "rank": 14,
-          "title": "[설빙]네이버페이 9900원 이상 결제 50%적립+포켓몬 콜라보(11/12~15)",
-          "url": "https://bbs.ruliweb.com/market/board/1020/read/108946",
-          "score": 71.9
+          "source": "인벤",
+          "rank": 24,
+          "title": "2025년 카리나와 2026년 카리나",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2751570",
+          "score": 68.08
         },
         {
-          "source": "뽐뿌",
-          "rank": 39,
-          "title": "[란123] 네이버페이 79원 + 랜덤 포인트 받으세요 (+기타 258원)",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10184090",
-          "score": 63.87
+          "source": "클리앙",
+          "rank": 56,
+          "title": "2026년 시험장 스마트 안경 적발 현황",
+          "url": "https://www.clien.net/service/board/park/19291082?od=T31&po=0&category=0&groupCd=",
+          "score": 60.59
         }
       ],
-      "first_seen": "2026-09-28T07:08:45.324597+09:00",
-      "last_seen": "2026-11-12T03:08:18.014809+09:00",
+      "first_seen": "2026-10-31T23:50:52.976309+09:00",
+      "last_seen": "2026-11-12T09:50:37.119264+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 3,
+      "rank": 7,
       "change": "NEW"
     },
     {
@@ -570,8 +749,8 @@
       "last_seen": "2026-11-12T03:08:18.014809+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 4,
-      "change": 15
+      "rank": 8,
+      "change": -4
     },
     {
       "id": "i42c24aa7",
@@ -610,81 +789,141 @@
       "last_seen": "2026-11-12T03:08:18.014809+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
-      "change": "NEW"
+      "rank": 9,
+      "change": -4
     },
     {
-      "id": "i86108cb2",
-      "title": "‘이벤트’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i4dea1b92",
+      "title": "엔비디아 주주 입장에선 젠슨황 바로 날리고 임시ceo",
       "keywords": [
-        "이벤트"
+        "엔비디아",
+        "젠슨황",
+        "해임"
       ],
       "source_count": 2,
       "post_count": 3,
-      "score": 77.61,
-      "peak_score": 67.14,
+      "score": 80.91,
+      "peak_score": 70.44,
       "appearances": 1,
       "sources": [
-        "더쿠",
-        "뽐뿌"
+        "인벤",
+        "클리앙"
       ],
       "posts": [
         {
-          "source": "뽐뿌",
-          "rank": 67,
-          "title": "페이코 11주년 이벤트 110만포인트 마지막날 11개 응모하세요.",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=event2&no=108186",
-          "score": 57.14
+          "source": "클리앙",
+          "rank": 54,
+          "title": "엔비디아 주주 입장에선 젠슨황 바로 날리고 임시ceo",
+          "url": "https://www.clien.net/service/board/park/19291058?od=T31&po=0&category=0&groupCd=",
+          "score": 61.44
         },
         {
-          "source": "더쿠",
-          "rank": 83,
-          "title": "디즈니의 새로운 마법세계 <헥스: 마녀왕국> 마녀의 초대 시사회 이벤트🔮✨",
-          "url": "https://theqoo.net/hot/4403235891",
-          "score": 53.53
+          "source": "인벤",
+          "rank": 70,
+          "title": "엔비디아, 젠슨황 해임 추진",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2751564",
+          "score": 58.07
         }
       ],
-      "first_seen": "2026-11-12T03:08:18.014809+09:00",
-      "last_seen": "2026-11-12T03:08:18.014809+09:00",
+      "first_seen": "2026-10-30T16:17:45.679248+09:00",
+      "last_seen": "2026-11-12T09:50:37.119264+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 6,
+      "rank": 10,
       "change": "NEW"
     }
   ],
   "realtime_issues": [
     {
-      "id": "i86108cb2",
-      "title": "‘이벤트’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i153ac4c4",
+      "title": "‘젠슨황’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "이벤트"
+        "젠슨황"
       ],
-      "source_count": 2,
-      "post_count": 3,
-      "score": 67.14,
-      "peak_score": 67.14,
+      "source_count": 4,
+      "post_count": 7,
+      "score": 105.35,
+      "peak_score": 105.35,
       "appearances": 1,
       "sources": [
-        "더쿠",
-        "뽐뿌"
+        "디시인사이드",
+        "뽐뿌",
+        "인벤",
+        "클리앙"
       ],
       "posts": [
         {
-          "source": "뽐뿌",
-          "rank": 67,
-          "title": "페이코 11주년 이벤트 110만포인트 마지막날 11개 응모하세요.",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=event2&no=108186",
-          "score": 57.14
+          "source": "디시인사이드",
+          "rank": 8,
+          "title": "싱글벙글 젠슨황 두번째 내연녀 의혹도 터짐ㅋㅋㅋㅋ",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478028&_dcbest=1&page=1",
+          "score": 79.35
         },
         {
-          "source": "더쿠",
-          "rank": 83,
-          "title": "디즈니의 새로운 마법세계 <헥스: 마녀왕국> 마녀의 초대 시사회 이벤트🔮✨",
-          "url": "https://theqoo.net/hot/4403235891",
-          "score": 53.53
+          "source": "클리앙",
+          "rank": 20,
+          "title": "젠슨황 불륜으로 인한 드립 근황.....jpg",
+          "url": "https://www.clien.net/service/board/park/19291074?od=T31&po=0&category=0&groupCd=",
+          "score": 70.84
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 47,
+          "title": "카더라_젠슨황 추가 불륜 ㄷㄷ",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=454175",
+          "score": 63.41
+        },
+        {
+          "source": "인벤",
+          "rank": 70,
+          "title": "엔비디아, 젠슨황 해임 추진",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2751564",
+          "score": 58.07
         }
       ],
       "rank": 1,
+      "change": "NEW"
+    },
+    {
+      "id": "i5d449f3d",
+      "title": "‘두번째’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "두번째"
+      ],
+      "source_count": 3,
+      "post_count": 3,
+      "score": 111.52,
+      "peak_score": 111.52,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "루리웹",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 2,
+          "title": "엔비디아 젠슨 황 두번째 불륜 의혹.jpg",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77357162?m=humor",
+          "score": 94.52
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 8,
+          "title": "싱글벙글 젠슨황 두번째 내연녀 의혹도 터짐ㅋㅋㅋㅋ",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478028&_dcbest=1&page=1",
+          "score": 79.35
+        },
+        {
+          "source": "클리앙",
+          "rank": 41,
+          "title": "젠슨황 두번째 불륜녀? 천하의 난봉꾼이었군요",
+          "url": "https://www.clien.net/service/board/park/19291063?od=T31&po=0&category=0&groupCd=",
+          "score": 64.61
+        }
+      ],
+      "rank": 2,
       "change": "NEW"
     },
     {
@@ -694,65 +933,67 @@
         "ai안경"
       ],
       "source_count": 2,
-      "post_count": 2,
-      "score": 96.56,
-      "peak_score": 96.56,
+      "post_count": 3,
+      "score": 89.86,
+      "peak_score": 89.86,
       "appearances": 1,
       "sources": [
         "더쿠",
-        "뽐뿌"
+        "디시인사이드"
       ],
       "posts": [
         {
-          "source": "뽐뿌",
-          "rank": 4,
-          "title": "AI안경 잡아내는 가장 초간단 방법",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10183938",
-          "score": 87.56
+          "source": "디시인사이드",
+          "rank": 7,
+          "title": "오싹오싹 올해 AI안경 부정시험 걸린 사례들",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478036&_dcbest=1&page=1",
+          "score": 79.86
         },
         {
           "source": "더쿠",
-          "rank": 7,
-          "title": "ai안경 사용 추정중인 세무사 수석 본인이 쓴 글들 및 의혹정리.jpg",
-          "url": "https://theqoo.net/hot/4403288959",
-          "score": 78.0
-        }
-      ],
-      "rank": 2,
-      "change": "NEW"
-    },
-    {
-      "id": "i4029f5d7",
-      "title": "‘박지원’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "박지원"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 84.02,
-      "peak_score": 84.02,
-      "appearances": 1,
-      "sources": [
-        "뽐뿌",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 10,
-          "title": "박지원 \"싸우지말자\"",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10183879",
-          "score": 75.02
-        },
-        {
-          "source": "인벤",
-          "rank": 89,
-          "title": "박지원 강제 시스루 (프로미스나인)",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2751497",
-          "score": 52.48
+          "rank": 23,
+          "title": "수능 때 AI안경 쓰면 시험 무효… 내년 응시 자격까지 날아간다",
+          "url": "https://theqoo.net/hot/4403381971",
+          "score": 68.21
         }
       ],
       "rank": 3,
+      "change": -1
+    },
+    {
+      "id": "i4dea1b92",
+      "title": "엔비디아 주주 입장에선 젠슨황 바로 날리고 임시ceo",
+      "keywords": [
+        "엔비디아",
+        "젠슨황",
+        "해임"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 70.44,
+      "peak_score": 70.44,
+      "appearances": 1,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 54,
+          "title": "엔비디아 주주 입장에선 젠슨황 바로 날리고 임시ceo",
+          "url": "https://www.clien.net/service/board/park/19291058?od=T31&po=0&category=0&groupCd=",
+          "score": 61.44
+        },
+        {
+          "source": "인벤",
+          "rank": 70,
+          "title": "엔비디아, 젠슨황 해임 추진",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2751564",
+          "score": 58.07
+        }
+      ],
+      "rank": 4,
       "change": "NEW"
     },
     {
@@ -763,8 +1004,8 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 80.9,
-      "peak_score": 80.9,
+      "score": 92.99,
+      "peak_score": 92.99,
       "appearances": 1,
       "sources": [
         "루리웹",
@@ -773,68 +1014,68 @@
       "posts": [
         {
           "source": "루리웹",
-          "rank": 14,
-          "title": "[설빙]네이버페이 9900원 이상 결제 50%적립+포켓몬 콜라보(11/12~15)",
-          "url": "https://bbs.ruliweb.com/market/board/1020/read/108946",
-          "score": 71.9
+          "rank": 5,
+          "title": "[네이버페이] 20원",
+          "url": "https://bbs.ruliweb.com/market/board/1020/read/108950",
+          "score": 83.99
         },
         {
           "source": "뽐뿌",
-          "rank": 39,
-          "title": "[란123] 네이버페이 79원 + 랜덤 포인트 받으세요 (+기타 258원)",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10184090",
-          "score": 63.87
-        }
-      ],
-      "rank": 4,
-      "change": "NEW"
-    },
-    {
-      "id": "i7b918478",
-      "title": "‘일본에서’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "일본에서"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 76.58,
-      "peak_score": 76.58,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "루리웹"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 25,
-          "title": "싱글벙글 일본에서 난리난 다카이치총리실",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=477929&_dcbest=1&page=1",
-          "score": 67.58
-        },
-        {
-          "source": "루리웹",
-          "rank": 78,
-          "title": "일본에서 문신충도 목욕탕 가는 방법",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77356596?m=humor_only&t=now",
-          "score": 54.34
+          "rank": 83,
+          "title": "11/12일자 네이버페이 79원 + 랜덤포인트 모음",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=money&no=549606",
+          "score": 55.21
         }
       ],
       "rank": 5,
-      "change": "NEW"
+      "change": -1
     },
     {
-      "id": "i42c24aa7",
-      "title": "강사 이도 사과문",
+      "id": "iabe672dc",
+      "title": "손흥민, 이재성, 김민재, 황인범, 황희찬 입장문",
       "keywords": [
-        "강사",
-        "사과문",
-        "이도"
+        "김민재",
+        "손흥민",
+        "입장문"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 73.52,
-      "peak_score": 73.52,
+      "score": 88.0,
+      "peak_score": 88.0,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 6,
+          "title": "손흥민, 이재성, 김민재, 황인범, 황희찬 입장문",
+          "url": "https://theqoo.net/hot/4403412607",
+          "score": 80.0
+        },
+        {
+          "source": "인벤",
+          "rank": 78,
+          "title": "[오피셜] \"갈등 아니다, 은퇴 조건 요구도 사실무근\"…손흥민·김민재 등 5명, 대표팀 불화설에 공동 입장문 발표",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2751562",
+          "score": 56.42
+        }
+      ],
+      "rank": 6,
+      "change": "NEW"
+    },
+    {
+      "id": "i24ae49e9",
+      "title": "‘2026년’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "2026년"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 77.08,
+      "peak_score": 77.08,
       "appearances": 1,
       "sources": [
         "인벤",
@@ -842,34 +1083,69 @@
       ],
       "posts": [
         {
-          "source": "클리앙",
-          "rank": 31,
-          "title": "강사 이도 사과문",
-          "url": "https://www.clien.net/service/board/park/19290989?od=T31&po=0&category=0&groupCd=",
-          "score": 65.52
+          "source": "인벤",
+          "rank": 24,
+          "title": "2025년 카리나와 2026년 카리나",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2751570",
+          "score": 68.08
         },
         {
-          "source": "인벤",
-          "rank": 49,
-          "title": "강사 이도 사과문",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2751505",
-          "score": 60.82
+          "source": "클리앙",
+          "rank": 56,
+          "title": "2026년 시험장 스마트 안경 적발 현황",
+          "url": "https://www.clien.net/service/board/park/19291082?od=T31&po=0&category=0&groupCd=",
+          "score": 60.59
         }
       ],
-      "rank": 6,
+      "rank": 7,
+      "change": "NEW"
+    },
+    {
+      "id": "i01009091",
+      "title": "‘김민석’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "김민석"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 65.22,
+      "peak_score": 65.22,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 79,
+          "title": "이 와중에도 잔머리 굴리는 김민석ㅋㅋ",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10183783",
+          "score": 56.22
+        },
+        {
+          "source": "클리앙",
+          "rank": 87,
+          "title": "김민석, '신천지 조사 비공개·사과'에 '중진들 권유가 판단에 영향'",
+          "url": "https://www.clien.net/service/board/park/19291055?od=T31&po=0&category=0&groupCd=",
+          "score": 53.47
+        }
+      ],
+      "rank": 8,
       "change": "NEW"
     }
   ],
   "keywords": [
     {
-      "keyword": "일본",
-      "score": 125.36,
-      "post_count": 4,
-      "source_count": 3,
-      "best_rank": 25,
+      "keyword": "젠슨황",
+      "score": 172.0,
+      "post_count": 7,
+      "source_count": 4,
+      "best_rank": 8,
       "sources": [
         "디시인사이드",
-        "루리웹",
+        "뽐뿌",
+        "인벤",
         "클리앙"
       ],
       "aliases": [],
@@ -877,111 +1153,118 @@
       "change": "NEW"
     },
     {
-      "keyword": "ai안경",
-      "score": 109.7,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 4,
+      "keyword": "불륜",
+      "score": 156.45,
+      "post_count": 4,
+      "source_count": 4,
+      "best_rank": 2,
       "sources": [
-        "더쿠",
-        "뽐뿌"
+        "루리웹",
+        "뽐뿌",
+        "인벤",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 2,
       "change": "NEW"
     },
     {
-      "keyword": "의상",
-      "score": 103.17,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 8,
+      "keyword": "엔비디아",
+      "score": 138.01,
+      "post_count": 5,
+      "source_count": 3,
+      "best_rank": 2,
       "sources": [
-        "더쿠",
-        "인벤"
+        "루리웹",
+        "인벤",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 3,
       "change": "NEW"
     },
     {
-      "keyword": "본인",
-      "score": 103.02,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 7,
+      "keyword": "의혹",
+      "score": 137.32,
+      "post_count": 3,
+      "source_count": 3,
+      "best_rank": 2,
       "sources": [
-        "더쿠",
-        "디시인사이드"
+        "디시인사이드",
+        "루리웹",
+        "인벤"
       ],
       "aliases": [],
       "rank": 4,
       "change": "NEW"
     },
     {
-      "keyword": "나온",
-      "score": 100.33,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 9,
+      "keyword": "두번째",
+      "score": 135.72,
+      "post_count": 3,
+      "source_count": 3,
+      "best_rank": 2,
       "sources": [
-        "더쿠",
-        "디시인사이드"
+        "디시인사이드",
+        "루리웹",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 5,
       "change": "NEW"
     },
     {
-      "keyword": "ai",
-      "score": 98.11,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 9,
+      "keyword": "시험",
+      "score": 132.85,
+      "post_count": 4,
+      "source_count": 3,
+      "best_rank": 17,
       "sources": [
         "더쿠",
+        "인벤",
         "클리앙"
       ],
       "aliases": [],
       "rank": 6,
-      "change": 1
+      "change": "NEW"
     },
     {
-      "keyword": "방법",
-      "score": 97.87,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 4,
+      "keyword": "남성",
+      "score": 116.34,
+      "post_count": 3,
+      "source_count": 3,
+      "best_rank": 27,
       "sources": [
-        "루리웹",
-        "뽐뿌"
+        "더쿠",
+        "디시인사이드",
+        "인벤"
       ],
       "aliases": [],
       "rank": 7,
-      "change": 10
+      "change": "NEW"
     },
     {
-      "keyword": "네이버페",
-      "score": 96.99,
-      "post_count": 2,
+      "keyword": "안경",
+      "score": 105.46,
+      "post_count": 4,
       "source_count": 2,
-      "best_rank": 14,
+      "best_rank": 17,
       "sources": [
-        "루리웹",
-        "뽐뿌"
+        "인벤",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 8,
       "change": "NEW"
     },
     {
-      "keyword": "박지원",
-      "score": 91.71,
+      "keyword": "만든",
+      "score": 105.27,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 10,
+      "best_rank": 1,
       "sources": [
-        "뽐뿌",
+        "루리웹",
         "인벤"
       ],
       "aliases": [],
@@ -989,86 +1272,87 @@
       "change": "NEW"
     },
     {
-      "keyword": "사과문",
-      "score": 90.33,
-      "post_count": 2,
+      "keyword": "ai안경",
+      "score": 102.28,
+      "post_count": 3,
       "source_count": 2,
-      "best_rank": 31,
+      "best_rank": 7,
       "sources": [
-        "인벤",
-        "클리앙"
+        "더쿠",
+        "디시인사이드"
       ],
-      "aliases": [
-        "강사",
-        "이도"
-      ],
+      "aliases": [],
       "rank": 10,
-      "change": "NEW"
+      "change": -8
     },
     {
-      "keyword": "절대",
-      "score": 88.56,
+      "keyword": "젠슨",
+      "score": 102.1,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 30,
+      "best_rank": 2,
       "sources": [
-        "디시인사이드",
-        "클리앙"
+        "더쿠",
+        "루리웹"
       ],
       "aliases": [],
       "rank": 11,
       "change": "NEW"
     },
     {
-      "keyword": "아빠들",
-      "score": 86.66,
+      "keyword": "걸린",
+      "score": 100.51,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 16,
+      "best_rank": 7,
       "sources": [
         "디시인사이드",
-        "뽐뿌"
+        "인벤"
       ],
       "aliases": [],
       "rank": 12,
       "change": "NEW"
     },
     {
-      "keyword": "이벤트",
-      "score": 85.08,
-      "post_count": 3,
+      "keyword": "네이버페",
+      "score": 96.42,
+      "post_count": 2,
       "source_count": 2,
-      "best_rank": 67,
+      "best_rank": 5,
       "sources": [
-        "더쿠",
+        "루리웹",
         "뽐뿌"
       ],
       "aliases": [],
       "rank": 13,
-      "change": "NEW"
+      "change": -5
     },
     {
-      "keyword": "우리",
-      "score": 85.03,
+      "keyword": "손흥민",
+      "score": 96.16,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 35,
+      "best_rank": 6,
       "sources": [
-        "인벤",
-        "클리앙"
+        "더쿠",
+        "인벤"
       ],
-      "aliases": [],
+      "aliases": [
+        "김민재",
+        "입장문"
+      ],
       "rank": 14,
       "change": "NEW"
     },
     {
-      "keyword": "리센느",
-      "score": 63.6,
-      "post_count": 3,
-      "source_count": 1,
-      "best_rank": 70,
+      "keyword": "수능",
+      "score": 93.53,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 23,
       "sources": [
-        "인벤"
+        "더쿠",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 15,
@@ -1078,51 +1362,51 @@
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "헬스장에서 수치사 당했음.",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77353624?m=humor",
-      "score": 98.96,
-      "views": 27011,
-      "comments": 183
-    },
-    {
-      "source": "뽐뿌",
-      "title": "AI안경 잡아내는 가장 초간단 방법",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10183938",
-      "score": 87.56,
-      "views": 23963,
-      "comments": 101
+      "title": "조선 백자가 돈없어서 만든 그릇이란 발언이 웃긴 이유.jpg",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77357767?m=humor",
+      "score": 95.62,
+      "views": 5846,
+      "comments": 90
     },
     {
       "source": "디시인사이드",
-      "title": "싱글벙글 핑핑이의 일대일로 산업 근황",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=477979&_dcbest=1&page=1",
-      "score": 82.02,
-      "views": 4302,
-      "comments": 154
+      "title": "역대 최악의 결말을 맞이해버린 금쪽이 에피소드",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478019&_dcbest=1&page=1",
+      "score": 85.67,
+      "views": 20091,
+      "comments": 217
     },
     {
       "source": "더쿠",
-      "title": "ai안경 사용 추정중인 세무사 수석 본인이 쓴 글들 및 의혹정리.jpg",
-      "url": "https://theqoo.net/hot/4403288959",
-      "score": 78.0,
-      "views": 15518,
-      "comments": 201
+      "title": "손흥민, 이재성, 김민재, 황인범, 황희찬 입장문",
+      "url": "https://theqoo.net/hot/4403412607",
+      "score": 80.0,
+      "views": 20728,
+      "comments": 242
     },
     {
       "source": "인벤",
-      "title": "청년들이 민주당에 등을 돌린 이유",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2751504",
-      "score": 74.05,
-      "views": 838,
-      "comments": 21
+      "title": "아내보고 지능낮다고하는 남편",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2751565",
+      "score": 78.94,
+      "views": 1117,
+      "comments": 20
+    },
+    {
+      "source": "뽐뿌",
+      "title": "현대차 구매가 애국이라는건 멍청한 소리��ㅋㅋ",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=982079",
+      "score": 76.83,
+      "views": 2027,
+      "comments": 66
     },
     {
       "source": "클리앙",
-      "title": "캬 미장 오늘도 미친듯이 좋네요",
-      "url": "https://www.clien.net/service/board/park/19290985?od=T31&po=0&category=0&groupCd=",
-      "score": 68.98,
-      "views": 1361,
-      "comments": 7
+      "title": "불륜이라고 CEO 하차?",
+      "url": "https://www.clien.net/service/board/park/19291061?od=T31&po=0&category=0&groupCd=",
+      "score": 71.76,
+      "views": 3051,
+      "comments": 24
     }
   ]
 }
