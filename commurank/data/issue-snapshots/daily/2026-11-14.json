@@ -3,7 +3,7 @@
   "period": "daily",
   "key": "2026-11-14",
   "label": "2026년 11월 14일",
-  "collected_at": "2026-11-14T07:55:50.243875+09:00",
+  "collected_at": "2026-11-14T08:31:48.439814+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -53,34 +53,72 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 98.29,
+      "score": 100.31,
       "peak_score": 88.82,
-      "appearances": 1,
+      "appearances": 2,
       "sources": [
         "뽐뿌",
         "인벤"
       ],
       "posts": [
         {
-          "source": "뽐뿌",
-          "rank": 7,
-          "title": "DJ, 노통, 문통, 해찬옹의 민주당이 이렇게 끝나버리는군요.",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10186158",
-          "score": 79.82
-        },
-        {
           "source": "인벤",
-          "rank": 31,
+          "rank": 49,
           "title": "여기를 이렇게 치면, 강아지가 와서 안겨요",
           "url": "https://www.inven.co.kr/board/webzine/2097/2752354",
-          "score": 66.22
+          "score": 62.35
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 78,
+          "title": "DJ, 노통, 문통, 해찬옹의 민주당이 이렇게 끝나버리는군요.",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10186158",
+          "score": 56.4
         }
       ],
       "first_seen": "2026-10-06T07:11:34.783452+09:00",
-      "last_seen": "2026-11-14T07:55:50.243875+09:00",
+      "last_seen": "2026-11-14T08:31:48.439814+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 2,
+      "change": 0
+    },
+    {
+      "id": "i0a785976",
+      "title": "‘최민희’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "최민희"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 98.13,
+      "peak_score": 87.66,
+      "appearances": 1,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 12,
+          "title": "최민희 제명하라 -더민주 혁신회-",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2752371",
+          "score": 77.66
+        },
+        {
+          "source": "클리앙",
+          "rank": 17,
+          "title": "최민희 의원님 이번 녹취록 사태 평가: 역시는 역시 역시군",
+          "url": "https://www.clien.net/service/board/park/19292087?od=T31&po=0&category=0&groupCd=",
+          "score": 73.82
+        }
+      ],
+      "first_seen": "2026-11-13T19:05:31.247118+09:00",
+      "last_seen": "2026-11-14T08:31:48.439814+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 3,
+      "rank": 3,
       "change": "NEW"
     },
     {
@@ -119,49 +157,85 @@
       "last_seen": "2026-11-14T07:55:50.243875+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 3,
+      "rank": 4,
       "change": -1
     },
     {
       "id": "i4c8bdd1e",
-      "title": "대한민국 vs 사우디 경기 결과",
+      "title": "‘대한민국’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "사우디",
-        "대한민국",
-        "vs",
-        "경기"
+        "대한민국"
       ],
       "source_count": 2,
       "post_count": 3,
-      "score": 90.16,
-      "peak_score": 77.67,
-      "appearances": 2,
+      "score": 93.63,
+      "peak_score": 79.7,
+      "appearances": 3,
+      "sources": [
+        "디시인사이드",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 21,
+          "title": "스압)대한민국 육군 저항군.manhwa -#1 렁 펑, 이 신(2)",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478530&_dcbest=1&page=1",
+          "score": 70.7
+        },
+        {
+          "source": "인벤",
+          "rank": 84,
+          "title": "대한민국 vs 사우디 경기 결과",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2752345",
+          "score": 55.15
+        }
+      ],
+      "first_seen": "2026-10-08T13:29:25.370320+09:00",
+      "last_seen": "2026-11-14T08:31:48.439814+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 5,
+      "change": -1
+    },
+    {
+      "id": "ia2cae281",
+      "title": "‘의원님’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "의원님"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 92.29,
+      "peak_score": 82.82,
+      "appearances": 1,
       "sources": [
         "인벤",
         "클리앙"
       ],
       "posts": [
         {
-          "source": "인벤",
-          "rank": 29,
-          "title": "대한민국 vs 사우디 경기 결과",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2752345",
-          "score": 68.67
+          "source": "클리앙",
+          "rank": 17,
+          "title": "최민희 의원님 이번 녹취록 사태 평가: 역시는 역시 역시군",
+          "url": "https://www.clien.net/service/board/park/19292087?od=T31&po=0&category=0&groupCd=",
+          "score": 73.82
         },
         {
-          "source": "클리앙",
-          "rank": 30,
-          "title": "사우디 대한민국 축구 천신경기 하네요",
-          "url": "https://www.clien.net/service/board/park/19292036?od=T31&po=0&category=0&groupCd=",
-          "score": 68.14
+          "source": "인벤",
+          "rank": 44,
+          "title": "\"의원님! 미국 출장 가시죠?\" 묻자 공항 '질주' 추격전",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2752357",
+          "score": 63.95
         }
       ],
-      "first_seen": "2026-10-08T13:29:25.370320+09:00",
-      "last_seen": "2026-11-14T03:03:51.301997+09:00",
+      "first_seen": "2026-11-14T08:31:48.439814+09:00",
+      "last_seen": "2026-11-14T08:31:48.439814+09:00",
       "latest_source_count": 2,
-      "latest_post_count": 3,
-      "rank": 4,
-      "change": -1
+      "latest_post_count": 2,
+      "rank": 6,
+      "change": "NEW"
     },
     {
       "id": "i5ca7fa56",
@@ -201,8 +275,8 @@
       "last_seen": "2026-11-14T07:55:50.243875+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
-      "change": "NEW"
+      "rank": 7,
+      "change": -2
     },
     {
       "id": "if63b5f1c",
@@ -241,48 +315,86 @@
       "last_seen": "2026-11-14T07:55:50.243875+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
+      "rank": 8,
+      "change": -2
+    },
+    {
+      "id": "ie4ca5987",
+      "title": "‘아나운서’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "아나운서"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 87.97,
+      "peak_score": 78.5,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 25,
+          "title": "서장훈이 당황한 성균관대출신 아나운서 여성",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2752368",
+          "score": 69.5
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 33,
+          "title": "이혜성 아나운서 매력 있지 않나요?",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10186386",
+          "score": 67.85
+        }
+      ],
+      "first_seen": "2026-11-14T08:31:48.439814+09:00",
+      "last_seen": "2026-11-14T08:31:48.439814+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 9,
       "change": "NEW"
     },
     {
       "id": "i52106193",
-      "title": "으원님 미국 출장 가시죠? 실상은 관광",
+      "title": "\"의원님! 미국 출장 가시죠?\" 묻자 공항 '질주' 추격전",
       "keywords": [
         "미국",
-        "가시죠",
-        "출장"
+        "출장",
+        "가시죠"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 85.51,
+      "score": 87.53,
       "peak_score": 76.04,
-      "appearances": 1,
+      "appearances": 2,
       "sources": [
         "인벤",
         "클리앙"
       ],
       "posts": [
         {
-          "source": "클리앙",
-          "rank": 27,
-          "title": "으원님 미국 출장 가시죠? 실상은 관광",
-          "url": "https://www.clien.net/service/board/park/19292067?od=T31&po=0&category=0&groupCd=",
-          "score": 68.04
-        },
-        {
           "source": "인벤",
-          "rank": 32,
+          "rank": 44,
           "title": "\"의원님! 미국 출장 가시죠?\" 묻자 공항 '질주' 추격전",
           "url": "https://www.inven.co.kr/board/webzine/2097/2752357",
-          "score": 66.17
+          "score": 63.95
+        },
+        {
+          "source": "클리앙",
+          "rank": 63,
+          "title": "으원님 미국 출장 가시죠? 실상은 관광",
+          "url": "https://www.clien.net/service/board/park/19292067?od=T31&po=0&category=0&groupCd=",
+          "score": 59.78
         }
       ],
       "first_seen": "2026-11-14T07:55:50.243875+09:00",
-      "last_seen": "2026-11-14T07:55:50.243875+09:00",
+      "last_seen": "2026-11-14T08:31:48.439814+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": "NEW"
+      "rank": 10,
+      "change": -3
     },
     {
       "id": "i1fcd34de",
@@ -319,8 +431,48 @@
       "last_seen": "2026-11-14T03:03:51.301997+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 8,
-      "change": -4
+      "rank": 11,
+      "change": -3
+    },
+    {
+      "id": "i52a44a86",
+      "title": "속보] 미국 항공청 '미국 모든 공항 이륙에 금지 명령'",
+      "keywords": [
+        "모든",
+        "미국",
+        "공항"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 76.04,
+      "peak_score": 66.57,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 67,
+          "title": "속보] 미국 항공청 '미국 모든 공항 이륙에 금지 명령'",
+          "url": "https://www.clien.net/service/board/park/19292072?od=T31&po=0&category=0&groupCd=",
+          "score": 58.57
+        },
+        {
+          "source": "루리웹",
+          "rank": 86,
+          "title": "속보) 모든 미국 공항 이착륙 금지령 떨어짐.",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77380869?m=humor_only&t=now",
+          "score": 54.74
+        }
+      ],
+      "first_seen": "2026-11-14T08:31:48.439814+09:00",
+      "last_seen": "2026-11-14T08:31:48.439814+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 12,
+      "change": "NEW"
     },
     {
       "id": "ib1aa44af",
@@ -358,7 +510,7 @@
       "last_seen": "2026-11-14T03:03:51.301997+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 9,
+      "rank": 13,
       "change": -4
     }
   ]
