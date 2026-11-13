@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W46",
   "label": "2026.11.09 ~ 11.15",
-  "collected_at": "2026-11-13T19:05:31.247118+09:00",
+  "collected_at": "2026-11-13T19:36:42.168979+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -55,9 +55,9 @@
       ],
       "source_count": 4,
       "post_count": 7,
-      "score": 147.93,
+      "score": 148.45,
       "peak_score": 117.94,
-      "appearances": 8,
+      "appearances": 9,
       "sources": [
         "더쿠",
         "디시인사이드",
@@ -72,18 +72,18 @@
           "rank": 11,
           "title": "젠슨황.... 3번째 불륜 ㄷㄷ...News",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478378&_dcbest=1&page=1",
-          "score": 77.07
+          "score": 75.5
         },
         {
           "source": "인벤",
-          "rank": 23,
+          "rank": 42,
           "title": "젠슨황 사임에 미국 기업가들의 반응",
           "url": "https://www.inven.co.kr/board/webzine/2097/2752233",
-          "score": 67.47
+          "score": 62.32
         }
       ],
       "first_seen": "2026-11-08T03:09:30.592393+09:00",
-      "last_seen": "2026-11-13T19:05:31.247118+09:00",
+      "last_seen": "2026-11-13T19:36:42.168979+09:00",
       "latest_source_count": 2,
       "latest_post_count": 4,
       "rank": 2,
@@ -385,6 +385,49 @@
       "change": 0
     },
     {
+      "id": "i79ab11d0",
+      "title": "\"운전대도, 페달도 없다\"‥완전 무인 테슬라 첫선",
+      "keywords": [
+        "운전대도",
+        "무인",
+        "완전",
+        "테슬라",
+        "첫선",
+        "페달도"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 112.14,
+      "peak_score": 102.67,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 2,
+          "title": "\"운전대도, 페달도 없다\"‥완전 무인 테슬라 첫선",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77372254?m=humor",
+          "score": 94.67
+        },
+        {
+          "source": "인벤",
+          "rank": 86,
+          "title": "\"운전대도, 페달도 없다\"‥완전 무인 테슬라 첫선 (2026.11.13/뉴스투데이/MBC)",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2752238",
+          "score": 53.5
+        }
+      ],
+      "first_seen": "2026-11-13T19:36:42.168979+09:00",
+      "last_seen": "2026-11-13T19:36:42.168979+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 10,
+      "change": "NEW"
+    },
+    {
       "id": "i359550d9",
       "title": "‘이재용’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -427,8 +470,8 @@
       "last_seen": "2026-11-12T16:47:53.957964+09:00",
       "latest_source_count": 3,
       "latest_post_count": 3,
-      "rank": 10,
-      "change": 0
+      "rank": 11,
+      "change": -1
     },
     {
       "id": "i76d1d903",
@@ -469,8 +512,8 @@
       "last_seen": "2026-11-11T03:10:36.752978+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 11,
-      "change": 0
+      "rank": 12,
+      "change": -1
     },
     {
       "id": "i9f5e1ed4",
@@ -509,8 +552,56 @@
       "last_seen": "2026-11-13T07:19:32.098636+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 12,
-      "change": 0
+      "rank": 13,
+      "change": -1
+    },
+    {
+      "id": "i01009091",
+      "title": "‘최민희’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "최민희",
+        "김민석"
+      ],
+      "source_count": 3,
+      "post_count": 3,
+      "score": 106.92,
+      "peak_score": 88.99,
+      "appearances": 3,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 43,
+          "title": "국회 영상기자단, 최민희 '하이에나' 발언 규탄‥\"분노 넘어 자괴감\"",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2752236",
+          "score": 62.03
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 49,
+          "title": "최민희 '통일교 신천지에서 김민석 밀었다는 제보 있다'.mp4",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10185994",
+          "score": 61.66
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 69,
+          "title": "JTBC) 최민희 “통일교가 김민석 밀었다…이재명 대통령도 '윤석열 하야' 쪽이었다\"",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478392&_dcbest=1&page=1",
+          "score": 57.15
+        }
+      ],
+      "first_seen": "2026-10-07T09:11:43.132658+09:00",
+      "last_seen": "2026-11-13T19:36:42.168979+09:00",
+      "latest_source_count": 3,
+      "latest_post_count": 3,
+      "rank": 14,
+      "change": 5
     },
     {
       "id": "i5d6688ff",
@@ -547,8 +638,8 @@
       "last_seen": "2026-11-12T09:50:37.119264+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 13,
-      "change": 0
+      "rank": 15,
+      "change": -2
     },
     {
       "id": "i938836c2",
@@ -586,8 +677,8 @@
       "last_seen": "2026-11-10T11:47:42.579412+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 14,
-      "change": 0
+      "rank": 16,
+      "change": -2
     },
     {
       "id": "i97ba91d3",
@@ -625,8 +716,8 @@
       "last_seen": "2026-11-09T03:56:50.689149+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 15,
-      "change": 0
+      "rank": 17,
+      "change": -2
     },
     {
       "id": "i126a57df",
@@ -663,8 +754,8 @@
       "last_seen": "2026-11-09T07:42:43.515726+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 16,
-      "change": 0
+      "rank": 18,
+      "change": -2
     },
     {
       "id": "ifd5a2cc3",
@@ -703,8 +794,8 @@
       "last_seen": "2026-11-11T11:57:56.217814+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 17,
-      "change": 0
+      "rank": 19,
+      "change": -2
     },
     {
       "id": "iae6b0123",
@@ -741,96 +832,8 @@
       "last_seen": "2026-11-12T16:47:53.957964+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 18,
-      "change": 0
-    },
-    {
-      "id": "i01009091",
-      "title": "‘김민석’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "김민석"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 100.48,
-      "peak_score": 88.99,
-      "appearances": 2,
-      "sources": [
-        "뽐뿌",
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 79,
-          "title": "이 와중에도 잔머리 굴리는 김민석ㅋㅋ",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10183783",
-          "score": 56.22
-        },
-        {
-          "source": "클리앙",
-          "rank": 87,
-          "title": "김민석, '신천지 조사 비공개·사과'에 '중진들 권유가 판단에 영향'",
-          "url": "https://www.clien.net/service/board/park/19291055?od=T31&po=0&category=0&groupCd=",
-          "score": 53.47
-        }
-      ],
-      "first_seen": "2026-10-07T09:11:43.132658+09:00",
-      "last_seen": "2026-11-12T09:50:37.119264+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 19,
-      "change": 0
-    },
-    {
-      "id": "i2451c48b",
-      "title": "LEET 만점자 정면돌파 선언 ++추가",
-      "keywords": [
-        "만점자",
-        "leet",
-        "선언",
-        "정면돌파"
-      ],
-      "source_count": 3,
-      "post_count": 3,
-      "score": 100.15,
-      "peak_score": 85.68,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "루리웹",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 22,
-          "title": "LEET 만점자 정면돌파 선언 ++추가",
-          "url": "https://theqoo.net/hot/4403805934",
-          "score": 70.68
-        },
-        {
-          "source": "인벤",
-          "rank": 32,
-          "title": "LEET 만점자 정면돌파 선언",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2751754",
-          "score": 67.53
-        },
-        {
-          "source": "루리웹",
-          "rank": 93,
-          "title": "이번 세무사 건으로 같이 AI안경 의혹받던 LEET 만점자 근황",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77362461?m=humor_only&t=now",
-          "score": 53.64
-        }
-      ],
-      "first_seen": "2026-11-12T16:47:53.957964+09:00",
-      "last_seen": "2026-11-12T16:47:53.957964+09:00",
-      "latest_source_count": 3,
-      "latest_post_count": 3,
       "rank": 20,
-      "change": 0
+      "change": -2
     }
   ]
 }

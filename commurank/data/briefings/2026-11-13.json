@@ -2,19 +2,19 @@
   "version": 1,
   "date": "2026-11-13",
   "label": "2026년 11월 13일",
-  "collected_at": "2026-11-13T19:05:31.247118+09:00",
+  "collected_at": "2026-11-13T19:36:42.168979+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘‘엔비디아’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #젠슨. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘‘엔비디아’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #한국. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
-    "ok_sources": 6,
-    "cached_sources": 0,
+    "ok_sources": 5,
+    "cached_sources": 1,
     "realtime_posts": 100,
     "daily_posts": 100,
     "daily_issues": 20,
     "keywords": 20,
-    "top100_views": 1250788,
-    "top100_comments": 13353
+    "top100_views": 1126502,
+    "top100_comments": 12717
   },
   "highlights": [
     {
@@ -31,9 +31,9 @@
     },
     {
       "type": "keyword",
-      "title": "#젠슨",
-      "text": "3개 커뮤니티 · 3개 인기글에서 함께 등장했습니다.",
-      "keyword": "젠슨"
+      "title": "#한국",
+      "text": "3개 커뮤니티 · 4개 인기글에서 함께 등장했습니다.",
+      "keyword": "한국"
     }
   ],
   "top_posts": [
@@ -43,17 +43,17 @@
       "category": "이슈",
       "url": "https://bbs.ruliweb.com/best/board/300143/read/77374286?m=humor",
       "first_seen": "2026-11-13T19:05:31.247118+09:00",
-      "last_seen": "2026-11-13T19:05:31.247118+09:00",
+      "last_seen": "2026-11-13T19:36:42.168979+09:00",
       "peak_score": 98.96,
       "max_views": 19418,
       "max_likes": 152,
       "max_comments": 186,
-      "appearances": 1,
-      "score": 108.35,
+      "appearances": 2,
+      "score": 109.16,
       "views": 19418,
       "likes": 152,
       "comments": 186,
-      "change": "NEW"
+      "change": 0
     },
     {
       "title": "주식) 젠슨황 사임....콜레트 크레스가 ceo 겸임",
@@ -67,11 +67,11 @@
       "max_likes": 183,
       "max_comments": 85,
       "appearances": 1,
-      "score": 106.85,
+      "score": 106.8,
       "views": 21229,
       "likes": 183,
       "comments": 85,
-      "change": -1
+      "change": 0
     },
     {
       "title": "긁혀서 쓰는 한국에 고지라 마이너스 시리즈 안 들어오는 이유",
@@ -85,11 +85,11 @@
       "max_likes": 71,
       "max_comments": 76,
       "appearances": 2,
-      "score": 105.68,
+      "score": 105.63,
       "views": 9877,
       "likes": 71,
       "comments": 76,
-      "change": -1
+      "change": 0
     },
     {
       "title": "타짜 아귀에 대해 대부분 오해하는점",
@@ -103,11 +103,11 @@
       "max_likes": 98,
       "max_comments": 70,
       "appearances": 1,
-      "score": 105.65,
+      "score": 105.61,
       "views": 11305,
       "likes": 98,
       "comments": 70,
-      "change": -1
+      "change": 0
     },
     {
       "title": "AI 안경이 두꺼워서 딱보면 안다는것도 이제 옛말임",
@@ -121,11 +121,11 @@
       "max_likes": 99,
       "max_comments": 98,
       "appearances": 1,
-      "score": 105.38,
+      "score": 105.34,
       "views": 25210,
       "likes": 99,
       "comments": 98,
-      "change": -1
+      "change": 0
     },
     {
       "title": "버스회사 직원인데 요즘 듣는 ㅈ같은 민원.",
@@ -139,11 +139,29 @@
       "max_likes": 118,
       "max_comments": 67,
       "appearances": 2,
-      "score": 104.99,
+      "score": 104.94,
       "views": 14132,
       "likes": 118,
       "comments": 67,
-      "change": -1
+      "change": 0
+    },
+    {
+      "title": "\"운전대도, 페달도 없다\"‥완전 무인 테슬라 첫선",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77372254?m=humor",
+      "first_seen": "2026-11-13T19:05:31.247118+09:00",
+      "last_seen": "2026-11-13T19:36:42.168979+09:00",
+      "peak_score": 94.67,
+      "max_views": 29005,
+      "max_likes": 139,
+      "max_comments": 146,
+      "appearances": 2,
+      "score": 104.87,
+      "views": 29005,
+      "likes": 139,
+      "comments": 146,
+      "change": 1
     },
     {
       "title": "엔비디아)직원들 “젠슨 황 유임 찬성 88%”",
@@ -157,29 +175,29 @@
       "max_likes": 194,
       "max_comments": 97,
       "appearances": 2,
-      "score": 104.72,
+      "score": 104.67,
       "views": 25031,
       "likes": 194,
       "comments": 97,
       "change": -1
     },
     {
-      "title": "\"운전대도, 페달도 없다\"‥완전 무인 테슬라 첫선",
+      "title": "쓰레드에서 이례적으로 욕먹고 릴스 싹다 내렸다는 MZ식 교회전도 릴스",
       "source": "루리웹",
       "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77372254?m=humor",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77373687?m=humor",
       "first_seen": "2026-11-13T19:05:31.247118+09:00",
-      "last_seen": "2026-11-13T19:05:31.247118+09:00",
-      "peak_score": 94.67,
-      "max_views": 29005,
-      "max_likes": 139,
-      "max_comments": 146,
-      "appearances": 1,
-      "score": 104.06,
-      "views": 29005,
-      "likes": 139,
-      "comments": 146,
-      "change": "NEW"
+      "last_seen": "2026-11-13T19:36:42.168979+09:00",
+      "peak_score": 94.11,
+      "max_views": 12030,
+      "max_likes": 115,
+      "max_comments": 107,
+      "appearances": 2,
+      "score": 104.31,
+      "views": 12030,
+      "likes": 115,
+      "comments": 107,
+      "change": 1
     },
     {
       "title": "리센느 소속사 근황.jpg",
@@ -193,231 +211,213 @@
       "max_likes": 228,
       "max_comments": 79,
       "appearances": 1,
-      "score": 103.86,
+      "score": 103.82,
       "views": 28265,
       "likes": 228,
       "comments": 79,
-      "change": -2
-    },
-    {
-      "title": "쓰레드에서 이례적으로 욕먹고 릴스 싹다 내렸다는 MZ식 교회전도 릴스",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77373687?m=humor",
-      "first_seen": "2026-11-13T19:05:31.247118+09:00",
-      "last_seen": "2026-11-13T19:05:31.247118+09:00",
-      "peak_score": 94.11,
-      "max_views": 12030,
-      "max_likes": 115,
-      "max_comments": 107,
-      "appearances": 1,
-      "score": 103.5,
-      "views": 12030,
-      "likes": 115,
-      "comments": 107,
-      "change": "NEW"
+      "change": -1
     }
   ],
   "rising": [
     {
-      "source": "루리웹",
-      "title": "한문철 자주포 사건",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77374286?m=humor",
+      "source": "디시인사이드",
+      "title": "젠슨황.... 3번째 불륜 ㄷㄷ...News",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478378&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 19418,
-      "likes": 152,
-      "comments": 186,
-      "score": 98.96,
-      "change": "NEW",
-      "current_rank": 1,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
+      "views": 30674,
+      "likes": 174,
+      "comments": 382,
+      "score": 75.5,
+      "change": 0,
+      "current_rank": 11,
+      "new_entry": false,
+      "delta_views": 5373,
+      "delta_likes": 25,
+      "delta_comments": 70,
       "rank_gain": 0,
-      "rising_score": 83.56,
+      "rising_score": 96.46,
       "rising_rank": 1,
-      "window_minutes": 443
+      "window_minutes": 31
     },
     {
       "source": "루리웹",
-      "title": "\"운전대도, 페달도 없다\"‥완전 무인 테슬라 첫선",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77372254?m=humor",
+      "title": "트릭컬)발음 잘해라....",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77375302?m=humor_only&t=now",
       "category": "이슈",
-      "views": 29005,
-      "likes": 139,
-      "comments": 146,
-      "score": 94.67,
-      "change": "NEW",
-      "current_rank": 2,
-      "new_entry": true,
+      "views": 271,
+      "likes": 6,
+      "comments": 3,
+      "score": 53.72,
+      "change": 13,
+      "current_rank": 85,
+      "new_entry": false,
       "delta_views": 0,
       "delta_likes": 0,
       "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 81.76,
+      "rank_gain": 13,
+      "rising_score": 92.86,
       "rising_rank": 2,
-      "window_minutes": 443
+      "window_minutes": 31
     },
     {
-      "source": "루리웹",
-      "title": "쓰레드에서 이례적으로 욕먹고 릴스 싹다 내렸다는 MZ식 교회전도 릴스",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77373687?m=humor",
+      "source": "클리앙",
+      "title": "세무사 시험 만점이 안되는 이유에 대한 설명을 들었습니다",
+      "url": "https://www.clien.net/service/board/park/19291938?od=T31&po=0&category=0&groupCd=",
       "category": "이슈",
-      "views": 12030,
-      "likes": 115,
-      "comments": 107,
-      "score": 94.11,
-      "change": "NEW",
-      "current_rank": 3,
-      "new_entry": true,
-      "delta_views": 0,
+      "views": 1337,
+      "likes": 0,
+      "comments": 8,
+      "score": 75.06,
+      "change": 24,
+      "current_rank": 12,
+      "new_entry": false,
+      "delta_views": 1229,
       "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 81.53,
+      "delta_comments": 8,
+      "rank_gain": 24,
+      "rising_score": 92.22,
       "rising_rank": 3,
-      "window_minutes": 443
-    },
-    {
-      "source": "디시인사이드",
-      "title": "젠지 우승시 펨코 반응 예측...ㄹㅇ",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478369&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 54744,
-      "likes": 2334,
-      "comments": 632,
-      "score": 86.81,
-      "change": "NEW",
-      "current_rank": 4,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 78.46,
-      "rising_rank": 4,
-      "window_minutes": 443
-    },
-    {
-      "source": "디시인사이드",
-      "title": "세무냥이인가.. 정말 안타까운점은",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478366&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 34098,
-      "likes": 782,
-      "comments": 414,
-      "score": 82.01,
-      "change": "NEW",
-      "current_rank": 5,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 76.44,
-      "rising_rank": 5,
-      "window_minutes": 443
-    },
-    {
-      "source": "뽐뿌",
-      "title": "삼성 라이온즈 우승 X 삼성스토어 창립 26주년 기념 감사 축제!",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=shopping&no=14752",
-      "category": "이슈",
-      "views": 226,
-      "likes": 10,
-      "comments": 76,
-      "score": 81.42,
-      "change": "NEW",
-      "current_rank": 6,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 76.2,
-      "rising_rank": 6,
-      "window_minutes": 443
-    },
-    {
-      "source": "뽐뿌",
-      "title": "속보) 엔비디아 직원들, 젠슨 황 복귀 요구 ㄷ..jpg",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10185858",
-      "category": "이슈",
-      "views": 22580,
-      "likes": 21,
-      "comments": 76,
-      "score": 81.09,
-      "change": "NEW",
-      "current_rank": 7,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 76.06,
-      "rising_rank": 7,
-      "window_minutes": 443
-    },
-    {
-      "source": "루리웹",
-      "title": "[겜우리] PS5 마블 울버린 할인가 외 겨울맞이 창고대방출 / 34,800원",
-      "url": "https://bbs.ruliweb.com/market/board/1020/read/109015",
-      "category": "게임",
-      "views": 15601,
-      "likes": 13,
-      "comments": 47,
-      "score": 79.82,
-      "change": "NEW",
-      "current_rank": 8,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 75.52,
-      "rising_rank": 8,
-      "window_minutes": 443
+      "window_minutes": 31
     },
     {
       "source": "더쿠",
       "title": "사치는 안 하는데 소비가 이상한 사람.jpg",
       "url": "https://theqoo.net/hot/4404876119",
       "category": "이슈",
-      "views": 30839,
+      "views": 42546,
       "likes": 0,
-      "comments": 367,
-      "score": 77.84,
-      "change": "NEW",
-      "current_rank": 9,
-      "new_entry": true,
-      "delta_views": 0,
+      "comments": 454,
+      "score": 76.37,
+      "change": 1,
+      "current_rank": 8,
+      "new_entry": false,
+      "delta_views": 11707,
       "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 74.69,
-      "rising_rank": 9,
-      "window_minutes": 443
+      "delta_comments": 87,
+      "rank_gain": 1,
+      "rising_score": 91.25,
+      "rising_rank": 4,
+      "window_minutes": 31
     },
     {
-      "source": "인벤",
-      "title": "ㅇㅎㅂ?? 남자들 자1지러지는 키스 후 멘트 모음",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2752230",
-      "category": "유머",
-      "views": 1369,
+      "source": "디시인사이드",
+      "title": "싱글벙글 일본에서 핫한 미소녀 사슴 헌터",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478388&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 5774,
+      "likes": 62,
+      "comments": 85,
+      "score": 58.6,
+      "change": 0,
+      "current_rank": 62,
+      "new_entry": false,
+      "delta_views": 3178,
+      "delta_likes": 31,
+      "delta_comments": 43,
+      "rank_gain": 0,
+      "rising_score": 90.05,
+      "rising_rank": 5,
+      "window_minutes": 31
+    },
+    {
+      "source": "디시인사이드",
+      "title": "니들 지금 MS ㅈ된거 아무도 모르는거야?",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478384&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 14872,
+      "likes": 62,
+      "comments": 203,
+      "score": 62.9,
+      "change": 0,
+      "current_rank": 37,
+      "new_entry": false,
+      "delta_views": 3336,
+      "delta_likes": 19,
+      "delta_comments": 48,
+      "rank_gain": 0,
+      "rising_score": 88.91,
+      "rising_rank": 6,
+      "window_minutes": 31
+    },
+    {
+      "source": "더쿠",
+      "title": "오늘자 뮤직뱅크 베스티 연애의 조건 쌩라이브 무대 ㄴㅇㄱ...............",
+      "url": "https://theqoo.net/hot/4404888906",
+      "category": "이슈",
+      "views": 20203,
       "likes": 0,
-      "comments": 12,
-      "score": 77.54,
-      "change": "NEW",
-      "current_rank": 10,
-      "new_entry": true,
+      "comments": 258,
+      "score": 63.53,
+      "change": 0,
+      "current_rank": 34,
+      "new_entry": false,
+      "delta_views": 9808,
+      "delta_likes": 0,
+      "delta_comments": 95,
+      "rank_gain": 0,
+      "rising_score": 85.1,
+      "rising_rank": 7,
+      "window_minutes": 31
+    },
+    {
+      "source": "디시인사이드",
+      "title": "GTA6, 동아시아 3국 한국만 '검열' 없어 JPG",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478386&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 11528,
+      "likes": 90,
+      "comments": 284,
+      "score": 68.1,
+      "change": 0,
+      "current_rank": 19,
+      "new_entry": false,
+      "delta_views": 2218,
+      "delta_likes": 18,
+      "delta_comments": 62,
+      "rank_gain": 0,
+      "rising_score": 83.15,
+      "rising_rank": 8,
+      "window_minutes": 31
+    },
+    {
+      "source": "루리웹",
+      "title": "???: 하.. 무릎이 뭐가 아깝다고 살살하고 난리야!",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77375854?m=humor_only&t=now",
+      "category": "이슈",
+      "views": 3361,
+      "likes": 58,
+      "comments": 10,
+      "score": 54.42,
+      "change": 11,
+      "current_rank": 80,
+      "new_entry": false,
       "delta_views": 0,
       "delta_likes": 0,
       "delta_comments": 0,
+      "rank_gain": 11,
+      "rising_score": 78.57,
+      "rising_rank": 9,
+      "window_minutes": 31
+    },
+    {
+      "source": "디시인사이드",
+      "title": "세무냥이인가.. 정말 안타까운점은",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478366&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 35438,
+      "likes": 804,
+      "comments": 431,
+      "score": 76.33,
+      "change": 0,
+      "current_rank": 9,
+      "new_entry": false,
+      "delta_views": 1340,
+      "delta_likes": 22,
+      "delta_comments": 17,
       "rank_gain": 0,
-      "rising_score": 74.57,
+      "rising_score": 77.71,
       "rising_rank": 10,
-      "window_minutes": 443
+      "window_minutes": 31
     }
   ],
   "issues": [
@@ -470,9 +470,9 @@
       ],
       "source_count": 3,
       "post_count": 5,
-      "score": 138.99,
+      "score": 139.9,
       "peak_score": 117.94,
-      "appearances": 4,
+      "appearances": 5,
       "sources": [
         "디시인사이드",
         "루리웹",
@@ -485,18 +485,18 @@
           "rank": 11,
           "title": "젠슨황.... 3번째 불륜 ㄷㄷ...News",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478378&_dcbest=1&page=1",
-          "score": 77.07
+          "score": 75.5
         },
         {
           "source": "인벤",
-          "rank": 23,
+          "rank": 42,
           "title": "젠슨황 사임에 미국 기업가들의 반응",
           "url": "https://www.inven.co.kr/board/webzine/2097/2752233",
-          "score": 67.47
+          "score": 62.32
         }
       ],
       "first_seen": "2026-11-08T03:09:30.592393+09:00",
-      "last_seen": "2026-11-13T19:05:31.247118+09:00",
+      "last_seen": "2026-11-13T19:36:42.168979+09:00",
       "latest_source_count": 2,
       "latest_post_count": 4,
       "rank": 2,
@@ -627,6 +627,49 @@
       "change": 0
     },
     {
+      "id": "i79ab11d0",
+      "title": "\"운전대도, 페달도 없다\"‥완전 무인 테슬라 첫선",
+      "keywords": [
+        "운전대도",
+        "무인",
+        "완전",
+        "테슬라",
+        "첫선",
+        "페달도"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 112.14,
+      "peak_score": 102.67,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 2,
+          "title": "\"운전대도, 페달도 없다\"‥완전 무인 테슬라 첫선",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77372254?m=humor",
+          "score": 94.67
+        },
+        {
+          "source": "인벤",
+          "rank": 86,
+          "title": "\"운전대도, 페달도 없다\"‥완전 무인 테슬라 첫선 (2026.11.13/뉴스투데이/MBC)",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2752238",
+          "score": 53.5
+        }
+      ],
+      "first_seen": "2026-11-13T19:36:42.168979+09:00",
+      "last_seen": "2026-11-13T19:36:42.168979+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 6,
+      "change": "NEW"
+    },
+    {
       "id": "ife9b1ed0",
       "title": "‘3번째’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -634,9 +677,9 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 95.54,
+      "score": 97.56,
       "peak_score": 86.07,
-      "appearances": 1,
+      "appearances": 2,
       "sources": [
         "디시인사이드",
         "인벤"
@@ -647,21 +690,59 @@
           "rank": 11,
           "title": "젠슨황.... 3번째 불륜 ㄷㄷ...News",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478378&_dcbest=1&page=1",
-          "score": 77.07
+          "score": 75.5
         },
         {
           "source": "인벤",
-          "rank": 49,
+          "rank": 75,
           "title": "젠슨 황 3번째 스캔들 의혹/엘리스 황의 정체?",
           "url": "https://www.inven.co.kr/board/webzine/2097/2752237",
-          "score": 60.4
+          "score": 56.11
         }
       ],
       "first_seen": "2026-11-13T19:05:31.247118+09:00",
-      "last_seen": "2026-11-13T19:05:31.247118+09:00",
+      "last_seen": "2026-11-13T19:36:42.168979+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
+      "rank": 7,
+      "change": -1
+    },
+    {
+      "id": "i1a0292b7",
+      "title": "‘안되는’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "안되는"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 95.55,
+      "peak_score": 84.06,
+      "appearances": 2,
+      "sources": [
+        "루리웹",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 12,
+          "title": "세무사 시험 만점이 안되는 이유에 대한 설명을 들었습니다",
+          "url": "https://www.clien.net/service/board/park/19291938?od=T31&po=0&category=0&groupCd=",
+          "score": 75.06
+        },
+        {
+          "source": "루리웹",
+          "rank": 72,
+          "title": "현생드립 치는 애들 이해 안되는 점.jpg",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77375917?m=humor_only&t=now",
+          "score": 56.51
+        }
+      ],
+      "first_seen": "2026-09-30T05:15:44.512747+09:00",
+      "last_seen": "2026-11-13T19:36:42.168979+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 8,
       "change": "NEW"
     },
     {
@@ -699,8 +780,8 @@
       "last_seen": "2026-11-13T07:19:32.098636+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": -1
+      "rank": 9,
+      "change": -2
     },
     {
       "id": "i9022d324",
@@ -737,87 +818,54 @@
       "last_seen": "2026-11-13T07:19:32.098636+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 8,
-      "change": -1
-    },
+      "rank": 10,
+      "change": -2
+    }
+  ],
+  "realtime_issues": [
     {
-      "id": "i8aca3781",
-      "title": "‘선수들’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i01009091",
+      "title": "‘최민희’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "선수들"
+        "최민희",
+        "김민석"
       ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 94.56,
-      "peak_score": 83.07,
-      "appearances": 2,
-      "sources": [
-        "디시인사이드",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 15,
-          "title": "여전히 주장 손흥민을 따르는 국대 선수들",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478230&_dcbest=1&page=1",
-          "score": 74.07
-        },
-        {
-          "source": "인벤",
-          "rank": 46,
-          "title": "아부다비 호텔에서 격투기 선수들 난투극",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2751891",
-          "score": 61.81
-        }
-      ],
-      "first_seen": "2026-11-13T01:20:55.149802+09:00",
-      "last_seen": "2026-11-13T01:47:40.931060+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 9,
-      "change": -1
-    },
-    {
-      "id": "i026fd7c0",
-      "title": "‘자주포’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "자주포"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 94.52,
-      "peak_score": 85.05,
+      "source_count": 3,
+      "post_count": 3,
+      "score": 79.03,
+      "peak_score": 79.03,
       "appearances": 1,
       "sources": [
+        "디시인사이드",
         "뽐뿌",
         "인벤"
       ],
       "posts": [
         {
           "source": "인벤",
-          "rank": 9,
-          "title": "자주포 후방추돌 사망사고 군 과실 없음",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2752014",
-          "score": 76.05
+          "rank": 43,
+          "title": "국회 영상기자단, 최민희 '하이에나' 발언 규탄‥\"분노 넘어 자괴감\"",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2752236",
+          "score": 62.03
         },
         {
           "source": "뽐뿌",
-          "rank": 90,
-          "title": "자주포 추돌 사고 새 영상 올라왔네요",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=982125",
-          "score": 54.63
+          "rank": 49,
+          "title": "최민희 '통일교 신천지에서 김민석 밀었다는 제보 있다'.mp4",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10185994",
+          "score": 61.66
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 69,
+          "title": "JTBC) 최민희 “통일교가 김민석 밀었다…이재명 대통령도 '윤석열 하야' 쪽이었다\"",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478392&_dcbest=1&page=1",
+          "score": 57.15
         }
       ],
-      "first_seen": "2026-11-13T11:42:07.310615+09:00",
-      "last_seen": "2026-11-13T11:42:07.310615+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 10,
-      "change": -1
-    }
-  ],
-  "realtime_issues": [
+      "rank": 1,
+      "change": "NEW"
+    },
     {
       "id": "i153ac4c4",
       "title": "‘젠슨황’ 관련 글이 여러 커뮤니티에서 화제",
@@ -826,8 +874,8 @@
       ],
       "source_count": 2,
       "post_count": 4,
-      "score": 88.07,
-      "peak_score": 88.07,
+      "score": 86.5,
+      "peak_score": 86.5,
       "appearances": 1,
       "sources": [
         "디시인사이드",
@@ -839,82 +887,53 @@
           "rank": 11,
           "title": "젠슨황.... 3번째 불륜 ㄷㄷ...News",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478378&_dcbest=1&page=1",
-          "score": 77.07
+          "score": 75.5
         },
         {
           "source": "인벤",
-          "rank": 23,
+          "rank": 42,
           "title": "젠슨황 사임에 미국 기업가들의 반응",
           "url": "https://www.inven.co.kr/board/webzine/2097/2752233",
-          "score": 67.47
-        }
-      ],
-      "rank": 1,
-      "change": "NEW"
-    },
-    {
-      "id": "i1fcd34de",
-      "title": "‘세무사’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "세무사"
-      ],
-      "source_count": 2,
-      "post_count": 4,
-      "score": 75.85,
-      "peak_score": 75.85,
-      "appearances": 1,
-      "sources": [
-        "뽐뿌",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 29,
-          "title": "이번 세무사 수석의 수기",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10184899",
-          "score": 64.85
-        },
-        {
-          "source": "클리앙",
-          "rank": 36,
-          "title": "세무사 시험 만점이 안되는 이유에 대한 설명을 들었습니다",
-          "url": "https://www.clien.net/service/board/park/19291938?od=T31&po=0&category=0&groupCd=",
-          "score": 63.33
+          "score": 62.32
         }
       ],
       "rank": 2,
       "change": -1
     },
     {
-      "id": "i4dea1b92",
-      "title": "‘엔비디아’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i79ab11d0",
+      "title": "\"운전대도, 페달도 없다\"‥완전 무인 테슬라 첫선",
       "keywords": [
-        "엔비디아"
+        "운전대도",
+        "무인",
+        "완전",
+        "테슬라",
+        "첫선",
+        "페달도"
       ],
       "source_count": 2,
-      "post_count": 3,
-      "score": 91.09,
-      "peak_score": 91.09,
+      "post_count": 2,
+      "score": 102.67,
+      "peak_score": 102.67,
       "appearances": 1,
       "sources": [
-        "뽐뿌",
+        "루리웹",
         "인벤"
       ],
       "posts": [
         {
-          "source": "뽐뿌",
-          "rank": 7,
-          "title": "속보) 엔비디아 직원들, 젠슨 황 복귀 요구 ㄷ..jpg",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10185858",
-          "score": 81.09
+          "source": "루리웹",
+          "rank": 2,
+          "title": "\"운전대도, 페달도 없다\"‥완전 무인 테슬라 첫선",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77372254?m=humor",
+          "score": 94.67
         },
         {
           "source": "인벤",
-          "rank": 13,
-          "title": "엔비디아 임원회의",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2752226",
-          "score": 73.17
+          "rank": 86,
+          "title": "\"운전대도, 페달도 없다\"‥완전 무인 테슬라 첫선 (2026.11.13/뉴스투데이/MBC)",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2752238",
+          "score": 53.5
         }
       ],
       "rank": 3,
@@ -928,8 +947,8 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 86.07,
-      "peak_score": 86.07,
+      "score": 84.5,
+      "peak_score": 84.5,
       "appearances": 1,
       "sources": [
         "디시인사이드",
@@ -941,120 +960,18 @@
           "rank": 11,
           "title": "젠슨황.... 3번째 불륜 ㄷㄷ...News",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478378&_dcbest=1&page=1",
-          "score": 77.07
+          "score": 75.5
         },
         {
           "source": "인벤",
-          "rank": 49,
+          "rank": 75,
           "title": "젠슨 황 3번째 스캔들 의혹/엘리스 황의 정체?",
           "url": "https://www.inven.co.kr/board/webzine/2097/2752237",
-          "score": 60.4
+          "score": 56.11
         }
       ],
       "rank": 4,
-      "change": "NEW"
-    },
-    {
-      "id": "ie002f79b",
-      "title": "‘동아시아’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "동아시아"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 77.79,
-      "peak_score": 77.79,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 18,
-          "title": "GTA6, 동아시아 3국 한국만 '검열' 없어 JPG",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478386&_dcbest=1&page=1",
-          "score": 68.79
-        },
-        {
-          "source": "인벤",
-          "rank": 24,
-          "title": "중국인이 제안하는 동아시아 재편",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2752224",
-          "score": 67.35
-        }
-      ],
-      "rank": 5,
-      "change": "NEW"
-    },
-    {
-      "id": "i0a785976",
-      "title": "‘최민희’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "최민희"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 77.13,
-      "peak_score": 77.13,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 20,
-          "title": "국회 영상기자단, 최민희 '하이에나' 발언 규탄‥\"분노 넘어 자괴감\"",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2752236",
-          "score": 68.13
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 41,
-          "title": "JTBC) 최민희 “통일교가 김민석 밀었다…이재명 대통령도 '윤석열 하야' 쪽이었다\"",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478392&_dcbest=1&page=1",
-          "score": 62.45
-        }
-      ],
-      "rank": 6,
-      "change": "NEW"
-    },
-    {
-      "id": "i623efd3b",
-      "title": "‘뮤직뱅크’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "뮤직뱅크"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 73.0,
-      "peak_score": 73.0,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 33,
-          "title": "오늘자 뮤직뱅크 베스티 연애의 조건 쌩라이브 무대 ㄴㅇㄱ...............",
-          "url": "https://theqoo.net/hot/4404888906",
-          "score": 64.0
-        },
-        {
-          "source": "인벤",
-          "rank": 83,
-          "title": "RESCENE (리센느) - With [뮤직뱅크/Music Bank] | KBS",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2752232",
-          "score": 55.88
-        }
-      ],
-      "rank": 7,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i1a0292b7",
@@ -1064,8 +981,8 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 72.33,
-      "peak_score": 72.33,
+      "score": 84.06,
+      "peak_score": 84.06,
       "appearances": 1,
       "sources": [
         "루리웹",
@@ -1074,17 +991,123 @@
       "posts": [
         {
           "source": "클리앙",
-          "rank": 36,
+          "rank": 12,
           "title": "세무사 시험 만점이 안되는 이유에 대한 설명을 들었습니다",
           "url": "https://www.clien.net/service/board/park/19291938?od=T31&po=0&category=0&groupCd=",
-          "score": 63.33
+          "score": 75.06
         },
         {
           "source": "루리웹",
-          "rank": 76,
+          "rank": 72,
           "title": "현생드립 치는 애들 이해 안되는 점.jpg",
           "url": "https://bbs.ruliweb.com/best/board/300143/read/77375917?m=humor_only&t=now",
           "score": 56.51
+        }
+      ],
+      "rank": 5,
+      "change": 3
+    },
+    {
+      "id": "ie002f79b",
+      "title": "‘동아시아’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "동아시아"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 77.1,
+      "peak_score": 77.1,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 19,
+          "title": "GTA6, 동아시아 3국 한국만 '검열' 없어 JPG",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478386&_dcbest=1&page=1",
+          "score": 68.1
+        },
+        {
+          "source": "인벤",
+          "rank": 77,
+          "title": "중국인이 제안하는 동아시아 재편",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2752224",
+          "score": 54.86
+        }
+      ],
+      "rank": 6,
+      "change": -1
+    },
+    {
+      "id": "i623efd3b",
+      "title": "연애의 조건 - 베스티 [뮤직뱅크 | KBS",
+      "keywords": [
+        "뮤직뱅크",
+        "조건",
+        "연애의",
+        "베스티"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 74.75,
+      "peak_score": 74.75,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 22,
+          "title": "연애의 조건 - 베스티 [뮤직뱅크 | KBS",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2752247",
+          "score": 66.75
+        },
+        {
+          "source": "더쿠",
+          "rank": 34,
+          "title": "오늘자 뮤직뱅크 베스티 연애의 조건 쌩라이브 무대 ㄴㅇㄱ...............",
+          "url": "https://theqoo.net/hot/4404888906",
+          "score": 63.53
+        }
+      ],
+      "rank": 7,
+      "change": 0
+    },
+    {
+      "id": "id176b452",
+      "title": "‘300명’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "300명",
+        "오픈런"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 71.52,
+      "peak_score": 71.52,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 39,
+          "title": "세종시에 새로 입점해서 300명 오픈런 뛰었다는 햄버거집.jpg",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77375855?m=humor_only&t=now",
+          "score": 62.52
+        },
+        {
+          "source": "인벤",
+          "rank": 50,
+          "title": "맥도날드 먹으려고 새벽추위에 300명 오픈런…세종에 처음 생겨 '환호' [현장영상] / 채널A",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2752240",
+          "score": 61.35
         }
       ],
       "rank": 8,
@@ -1093,13 +1116,13 @@
   ],
   "keywords": [
     {
-      "keyword": "젠슨",
-      "score": 127.46,
-      "post_count": 3,
+      "keyword": "한국",
+      "score": 120.72,
+      "post_count": 4,
       "source_count": 3,
-      "best_rank": 7,
+      "best_rank": 19,
       "sources": [
-        "뽐뿌",
+        "디시인사이드",
         "인벤",
         "클리앙"
       ],
@@ -1108,26 +1131,28 @@
       "change": "NEW"
     },
     {
-      "keyword": "엔비디아",
-      "score": 106.79,
+      "keyword": "최민희",
+      "score": 115.24,
       "post_count": 3,
-      "source_count": 2,
-      "best_rank": 7,
+      "source_count": 3,
+      "best_rank": 43,
       "sources": [
+        "디시인사이드",
         "뽐뿌",
         "인벤"
       ],
       "aliases": [],
       "rank": 2,
-      "change": "NEW"
+      "change": 9
     },
     {
-      "keyword": "젠슨황",
-      "score": 106.66,
-      "post_count": 4,
-      "source_count": 2,
-      "best_rank": 11,
+      "keyword": "단독",
+      "score": 113.73,
+      "post_count": 3,
+      "source_count": 3,
+      "best_rank": 28,
       "sources": [
+        "더쿠",
         "디시인사이드",
         "인벤"
       ],
@@ -1136,50 +1161,131 @@
       "change": "NEW"
     },
     {
-      "keyword": "세무사",
-      "score": 101.73,
-      "post_count": 4,
-      "source_count": 2,
-      "best_rank": 29,
+      "keyword": "젠슨",
+      "score": 110.99,
+      "post_count": 3,
+      "source_count": 3,
+      "best_rank": 38,
       "sources": [
         "뽐뿌",
+        "인벤",
         "클리앙"
       ],
       "aliases": [],
       "rank": 4,
-      "change": -1
+      "change": -3
     },
     {
-      "keyword": "할인",
-      "score": 99.61,
-      "post_count": 2,
+      "keyword": "사건",
+      "score": 105.56,
+      "post_count": 3,
       "source_count": 2,
-      "best_rank": 8,
+      "best_rank": 1,
       "sources": [
         "루리웹",
-        "클리앙"
+        "인벤"
       ],
       "aliases": [],
       "rank": 5,
       "change": "NEW"
     },
     {
-      "keyword": "없다",
-      "score": 99.06,
+      "keyword": "젠슨황",
+      "score": 105.26,
+      "post_count": 4,
+      "source_count": 2,
+      "best_rank": 11,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 6,
+      "change": -3
+    },
+    {
+      "keyword": "운전대",
+      "score": 98.72,
       "post_count": 2,
       "source_count": 2,
       "best_rank": 2,
       "sources": [
-        "디시인사이드",
-        "루리웹"
+        "루리웹",
+        "인벤"
       ],
-      "aliases": [],
-      "rank": 6,
+      "aliases": [
+        "무인",
+        "없다",
+        "완전",
+        "첫선",
+        "테슬라"
+      ],
+      "rank": 7,
       "change": "NEW"
     },
     {
+      "keyword": "남자들",
+      "score": 96.69,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 16,
+      "sources": [
+        "뽐뿌",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 8,
+      "change": "NEW"
+    },
+    {
+      "keyword": "처음",
+      "score": 95.17,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 14,
+      "sources": [
+        "더쿠",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 9,
+      "change": "NEW"
+    },
+    {
+      "keyword": "할인",
+      "score": 94.58,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 7,
+      "sources": [
+        "루리웹",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 10,
+      "change": -5
+    },
+    {
+      "keyword": "뮤직뱅크",
+      "score": 93.76,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 22,
+      "sources": [
+        "더쿠",
+        "인벤"
+      ],
+      "aliases": [
+        "베스티",
+        "연애",
+        "조건"
+      ],
+      "rank": 11,
+      "change": 3
+    },
+    {
       "keyword": "3번째",
-      "score": 97.44,
+      "score": 93.5,
       "post_count": 2,
       "source_count": 2,
       "best_rank": 11,
@@ -1188,101 +1294,31 @@
         "인벤"
       ],
       "aliases": [],
-      "rank": 7,
-      "change": "NEW"
-    },
-    {
-      "keyword": "동아시아",
-      "score": 96.96,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 18,
-      "sources": [
-        "디시인사이드",
-        "인벤"
-      ],
-      "aliases": [],
-      "rank": 8,
-      "change": "NEW"
-    },
-    {
-      "keyword": "의혹",
-      "score": 93.56,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 17,
-      "sources": [
-        "디시인사이드",
-        "인벤"
-      ],
-      "aliases": [],
-      "rank": 9,
-      "change": "NEW"
-    },
-    {
-      "keyword": "수석",
-      "score": 93.52,
-      "post_count": 3,
-      "source_count": 2,
-      "best_rank": 29,
-      "sources": [
-        "뽐뿌",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 10,
-      "change": "NEW"
-    },
-    {
-      "keyword": "최민희",
-      "score": 93.2,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 20,
-      "sources": [
-        "디시인사이드",
-        "인벤"
-      ],
-      "aliases": [],
-      "rank": 11,
-      "change": "NEW"
-    },
-    {
-      "keyword": "게임",
-      "score": 88.71,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 38,
-      "sources": [
-        "루리웹",
-        "인벤"
-      ],
-      "aliases": [],
       "rank": 12,
-      "change": "NEW"
+      "change": -5
     },
     {
       "keyword": "안되",
-      "score": 85.58,
+      "score": 93.38,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 36,
+      "best_rank": 12,
       "sources": [
         "루리웹",
         "클리앙"
       ],
       "aliases": [],
       "rank": 13,
-      "change": "NEW"
+      "change": 0
     },
     {
-      "keyword": "뮤직뱅크",
-      "score": 85.1,
+      "keyword": "중국",
+      "score": 92.16,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 33,
+      "best_rank": 21,
       "sources": [
-        "더쿠",
+        "디시인사이드",
         "인벤"
       ],
       "aliases": [],
@@ -1290,14 +1326,14 @@
       "change": "NEW"
     },
     {
-      "keyword": "많이",
-      "score": 84.82,
+      "keyword": "대한민국",
+      "score": 90.61,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 55,
+      "best_rank": 33,
       "sources": [
         "디시인사이드",
-        "인벤"
+        "클리앙"
       ],
       "aliases": [],
       "rank": 15,
@@ -1315,43 +1351,43 @@
     },
     {
       "source": "디시인사이드",
-      "title": "젠지 우승시 펨코 반응 예측...ㄹㅇ",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478369&_dcbest=1&page=1",
-      "score": 86.81,
-      "views": 54744,
-      "comments": 632
+      "title": "손흥민 인터뷰.. 어떻게 이렇게 이럴 수 있지?ㅋㅋㅋㅋ",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478400&_dcbest=1&page=1",
+      "score": 81.47,
+      "views": 9939,
+      "comments": 224
     },
     {
-      "source": "뽐뿌",
-      "title": "삼성 라이온즈 우승 X 삼성스토어 창립 26주년 기념 감사 축제!",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=shopping&no=14752",
-      "score": 81.42,
-      "views": 226,
-      "comments": 76
+      "source": "클리앙",
+      "title": "'선배, 키스해도 되나요?' 중수청 여 수사관 진상조사",
+      "url": "https://www.clien.net/service/board/park/19291948?od=T31&po=0&category=0&groupCd=",
+      "score": 80.0,
+      "views": 0,
+      "comments": 0
     },
     {
       "source": "더쿠",
       "title": "사치는 안 하는데 소비가 이상한 사람.jpg",
       "url": "https://theqoo.net/hot/4404876119",
-      "score": 77.84,
-      "views": 30839,
-      "comments": 367
+      "score": 76.37,
+      "views": 42546,
+      "comments": 454
+    },
+    {
+      "source": "뽐뿌",
+      "title": "[토스] 261113 토스 두근두근 1등 찍기 팀플전(기출)",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=120701",
+      "score": 76.02,
+      "views": 9847,
+      "comments": 10
     },
     {
       "source": "인벤",
       "title": "ㅇㅎㅂ?? 남자들 자1지러지는 키스 후 멘트 모음",
       "url": "https://www.inven.co.kr/board/webzine/2097/2752230",
-      "score": 77.54,
-      "views": 1369,
-      "comments": 12
-    },
-    {
-      "source": "클리앙",
-      "title": "클로드 코드 저만 뻑났나요?",
-      "url": "https://www.clien.net/service/board/park/19291931?od=T31&po=0&category=0&groupCd=",
-      "score": 64.12,
-      "views": 503,
-      "comments": 6
+      "score": 70.24,
+      "views": 2227,
+      "comments": 15
     }
   ]
 }
