@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-11-13T11:42:07.310615+09:00",
+  "collected_at": "2026-11-13T19:05:31.247118+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -11,175 +11,83 @@
   "rankings": {
     "realtime": [
       {
-        "id": "i1fcd34de",
-        "title": "‘세무사’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i153ac4c4",
+        "title": "‘젠슨황’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "세무사"
+          "젠슨황"
         ],
-        "source_count": 4,
-        "post_count": 5,
-        "score": 108.87,
-        "peak_score": 108.87,
+        "source_count": 2,
+        "post_count": 4,
+        "score": 88.07,
+        "peak_score": 88.07,
         "appearances": 1,
         "sources": [
-          "더쿠",
-          "뽐뿌",
-          "인벤",
-          "클리앙"
+          "디시인사이드",
+          "인벤"
         ],
         "posts": [
           {
-            "source": "뽐뿌",
-            "rank": 4,
-            "title": "펌) 합격 세무사 현상황",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10185383",
-            "score": 82.87
-          },
-          {
-            "source": "더쿠",
-            "rank": 50,
-            "title": "세무사 수석 소거법좌 회계사 시험도 봄",
-            "url": "https://theqoo.net/hot/4404482893",
-            "score": 63.0
-          },
-          {
-            "source": "클리앙",
-            "rank": 67,
-            "title": "세무사시험 AI 논란보니 세무사 직업은 이제 끝난거네요",
-            "url": "https://www.clien.net/service/board/park/19291693?od=T31&po=0&category=0&groupCd=",
-            "score": 59.39
+            "source": "디시인사이드",
+            "rank": 11,
+            "title": "젠슨황.... 3번째 불륜 ㄷㄷ...News",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478378&_dcbest=1&page=1",
+            "score": 77.07
           },
           {
             "source": "인벤",
-            "rank": 70,
-            "title": "세무사 세무냥이가 올린 성적인증 영상 이상한점",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2752012",
-            "score": 59.1
+            "rank": 23,
+            "title": "젠슨황 사임에 미국 기업가들의 반응",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2752233",
+            "score": 67.47
           }
         ],
         "rank": 1,
         "change": "NEW"
       },
       {
-        "id": "i2272efa7",
-        "title": "‘리센느’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i1fcd34de",
+        "title": "‘세무사’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "리센느"
+          "세무사"
         ],
-        "source_count": 3,
+        "source_count": 2,
         "post_count": 4,
-        "score": 113.09,
-        "peak_score": 113.09,
+        "score": 75.85,
+        "peak_score": 75.85,
         "appearances": 1,
         "sources": [
-          "디시인사이드",
-          "루리웹",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 3,
-            "title": "리센느 소속사 근황.jpg",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77369521?m=humor",
-            "score": 95.09
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 17,
-            "title": "열받은 리센느 영역전개 근황 ㄷ",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478311&_dcbest=1&page=1",
-            "score": 70.98
-          },
-          {
-            "source": "인벤",
-            "rank": 23,
-            "title": "리센느, 결국 법적 대응…이미 1차 형사 고소 완료 [투데이 '픽'/iMBC연예뉴스]",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2752021",
-            "score": 69.32
-          }
-        ],
-        "rank": 2,
-        "change": "NEW"
-      },
-      {
-        "id": "iac58c16e",
-        "title": "‘무조건’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "무조건"
-        ],
-        "source_count": 2,
-        "post_count": 3,
-        "score": 81.0,
-        "peak_score": 81.0,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 16,
-            "title": "펌)30대 인생 망한 새X는 무조건 AI 안경 써라",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2752008",
-            "score": 71.0
-          },
-          {
-            "source": "더쿠",
-            "rank": 71,
-            "title": "한국인은 진짜 절대 모르는 외국인이 서울역 도착하자마자 무조건 열받게 되는곳",
-            "url": "https://theqoo.net/hot/4404479073",
-            "score": 58.84
-          }
-        ],
-        "rank": 3,
-        "change": "NEW"
-      },
-      {
-        "id": "i4e9b777d",
-        "title": "‘안경이’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "안경이"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 105.61,
-        "peak_score": 105.61,
-        "appearances": 1,
-        "sources": [
-          "루리웹",
+          "뽐뿌",
           "클리앙"
         ],
         "posts": [
           {
-            "source": "루리웹",
-            "rank": 2,
-            "title": "AI 안경이 두꺼워서 딱보면 안다는것도 이제 옛말임",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77369431?m=humor",
-            "score": 96.61
+            "source": "뽐뿌",
+            "rank": 29,
+            "title": "이번 세무사 수석의 수기",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10184899",
+            "score": 64.85
           },
           {
             "source": "클리앙",
-            "rank": 74,
-            "title": "AI 안경이 컨닝도구 가 아니라 원래는",
-            "url": "https://www.clien.net/service/board/park/19291680?od=T31&po=0&category=0&groupCd=",
-            "score": 58.3
+            "rank": 36,
+            "title": "세무사 시험 만점이 안되는 이유에 대한 설명을 들었습니다",
+            "url": "https://www.clien.net/service/board/park/19291938?od=T31&po=0&category=0&groupCd=",
+            "score": 63.33
           }
         ],
-        "rank": 4,
-        "change": "NEW"
+        "rank": 2,
+        "change": -1
       },
       {
-        "id": "i026fd7c0",
-        "title": "‘자주포’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i4dea1b92",
+        "title": "‘엔비디아’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "자주포"
+          "엔비디아"
         ],
         "source_count": 2,
-        "post_count": 2,
-        "score": 85.05,
-        "peak_score": 85.05,
+        "post_count": 3,
+        "score": 91.09,
+        "peak_score": 91.09,
         "appearances": 1,
         "sources": [
           "뽐뿌",
@@ -187,33 +95,135 @@
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 9,
-            "title": "자주포 후방추돌 사망사고 군 과실 없음",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2752014",
-            "score": 76.05
+            "source": "뽐뿌",
+            "rank": 7,
+            "title": "속보) 엔비디아 직원들, 젠슨 황 복귀 요구 ㄷ..jpg",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10185858",
+            "score": 81.09
           },
           {
-            "source": "뽐뿌",
-            "rank": 90,
-            "title": "자주포 추돌 사고 새 영상 올라왔네요",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=982125",
-            "score": 54.63
+            "source": "인벤",
+            "rank": 13,
+            "title": "엔비디아 임원회의",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2752226",
+            "score": 73.17
+          }
+        ],
+        "rank": 3,
+        "change": "NEW"
+      },
+      {
+        "id": "ife9b1ed0",
+        "title": "‘3번째’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "3번째"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 86.07,
+        "peak_score": 86.07,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 11,
+            "title": "젠슨황.... 3번째 불륜 ㄷㄷ...News",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478378&_dcbest=1&page=1",
+            "score": 77.07
+          },
+          {
+            "source": "인벤",
+            "rank": 49,
+            "title": "젠슨 황 3번째 스캔들 의혹/엘리스 황의 정체?",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2752237",
+            "score": 60.4
+          }
+        ],
+        "rank": 4,
+        "change": "NEW"
+      },
+      {
+        "id": "ie002f79b",
+        "title": "‘동아시아’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "동아시아"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 77.79,
+        "peak_score": 77.79,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 18,
+            "title": "GTA6, 동아시아 3국 한국만 '검열' 없어 JPG",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478386&_dcbest=1&page=1",
+            "score": 68.79
+          },
+          {
+            "source": "인벤",
+            "rank": 24,
+            "title": "중국인이 제안하는 동아시아 재편",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2752224",
+            "score": 67.35
           }
         ],
         "rank": 5,
         "change": "NEW"
       },
       {
-        "id": "ibb35f05f",
-        "title": "‘어떻게’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i0a785976",
+        "title": "‘최민희’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "어떻게"
+          "최민희"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 79.37,
-        "peak_score": 79.37,
+        "score": 77.13,
+        "peak_score": 77.13,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 20,
+            "title": "국회 영상기자단, 최민희 '하이에나' 발언 규탄‥\"분노 넘어 자괴감\"",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2752236",
+            "score": 68.13
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 41,
+            "title": "JTBC) 최민희 “통일교가 김민석 밀었다…이재명 대통령도 '윤석열 하야' 쪽이었다\"",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478392&_dcbest=1&page=1",
+            "score": 62.45
+          }
+        ],
+        "rank": 6,
+        "change": "NEW"
+      },
+      {
+        "id": "i623efd3b",
+        "title": "‘뮤직뱅크’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "뮤직뱅크"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 73.0,
+        "peak_score": 73.0,
         "appearances": 1,
         "sources": [
           "더쿠",
@@ -222,36 +232,69 @@
         "posts": [
           {
             "source": "더쿠",
-            "rank": 20,
-            "title": "<강철의 연금술사> 어떻게 줄여서 부르세요?",
-            "url": "https://theqoo.net/hot/4404451058",
-            "score": 70.37
+            "rank": 33,
+            "title": "오늘자 뮤직뱅크 베스티 연애의 조건 쌩라이브 무대 ㄴㅇㄱ...............",
+            "url": "https://theqoo.net/hot/4404888906",
+            "score": 64.0
           },
           {
             "source": "인벤",
-            "rank": 49,
-            "title": "어떻게 식당 이름이 킹오파 인기 캐릭터",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2752019",
-            "score": 63.2
+            "rank": 83,
+            "title": "RESCENE (리센느) - With [뮤직뱅크/Music Bank] | KBS",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2752232",
+            "score": 55.88
           }
         ],
-        "rank": 6,
+        "rank": 7,
+        "change": "NEW"
+      },
+      {
+        "id": "i1a0292b7",
+        "title": "‘안되는’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "안되는"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 72.33,
+        "peak_score": 72.33,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 36,
+            "title": "세무사 시험 만점이 안되는 이유에 대한 설명을 들었습니다",
+            "url": "https://www.clien.net/service/board/park/19291938?od=T31&po=0&category=0&groupCd=",
+            "score": 63.33
+          },
+          {
+            "source": "루리웹",
+            "rank": 76,
+            "title": "현생드립 치는 애들 이해 안되는 점.jpg",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77375917?m=humor_only&t=now",
+            "score": 56.51
+          }
+        ],
+        "rank": 8,
         "change": "NEW"
       }
     ],
     "daily": [
       {
         "id": "i4dea1b92",
-        "title": "엔비디아)직원들 “젠슨 황 유임 찬성 88%”",
+        "title": "‘엔비디아’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "엔비디아",
-          "젠슨"
+          "엔비디아"
         ],
         "source_count": 4,
         "post_count": 7,
-        "score": 148.87,
+        "score": 149.99,
         "peak_score": 122.94,
-        "appearances": 3,
+        "appearances": 4,
         "sources": [
           "더쿠",
           "루리웹",
@@ -261,45 +304,24 @@
         ],
         "posts": [
           {
-            "source": "루리웹",
-            "rank": 3,
-            "title": "엔비디아)직원들 “젠슨 황 유임 찬성 88%”",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77365820?m=humor",
-            "score": 95.5
-          },
-          {
             "source": "뽐뿌",
-            "rank": 27,
-            "title": "존슨 황, 또 다른 엔비디아 직원과 세 번째 불륜설 - 로이터",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=454671",
-            "score": 70.69
+            "rank": 7,
+            "title": "속보) 엔비디아 직원들, 젠슨 황 복귀 요구 ㄷ..jpg",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10185858",
+            "score": 81.09
           },
           {
-            "source": "더쿠",
-            "rank": 37,
-            "title": "엔비디아 신임 CEO 콜레트 크레스 걱정할 필요 없는 이유",
-            "url": "https://theqoo.net/hot/4404196967",
-            "score": 67.89
-          },
-          {
-            "source": "클리앙",
-            "rank": 89,
-            "title": "트럼프가 팀쿡을 엔비디아 후임자로 생각한이유가..",
-            "url": "https://www.clien.net/service/board/park/19291548?od=T31&po=0&category=0&groupCd=",
-            "score": 55.0
-          },
-          {
-            "source": "더쿠",
-            "rank": 49,
-            "title": "속보) 엔비디아 CEO 젠슨 황 사임",
-            "url": "https://theqoo.net/hot/4404166052",
-            "score": 63.26
+            "source": "인벤",
+            "rank": 13,
+            "title": "엔비디아 임원회의",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2752226",
+            "score": 73.17
           }
         ],
         "first_seen": "2026-10-30T16:17:45.679248+09:00",
-        "last_seen": "2026-11-13T07:19:32.098636+09:00",
-        "latest_source_count": 4,
-        "latest_post_count": 5,
+        "last_seen": "2026-11-13T19:05:31.247118+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 3,
         "rank": 1,
         "change": 0
       },
@@ -311,9 +333,9 @@
         ],
         "source_count": 3,
         "post_count": 5,
-        "score": 137.87,
+        "score": 138.99,
         "peak_score": 117.94,
-        "appearances": 3,
+        "appearances": 4,
         "sources": [
           "디시인사이드",
           "루리웹",
@@ -323,23 +345,23 @@
         "posts": [
           {
             "source": "디시인사이드",
-            "rank": 4,
-            "title": "잠깐 이거뭐냐???? 젠슨황 직속라인 리스트 떳다",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478234&_dcbest=1&page=1",
-            "score": 91.49
+            "rank": 11,
+            "title": "젠슨황.... 3번째 불륜 ㄷㄷ...News",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478378&_dcbest=1&page=1",
+            "score": 77.07
           },
           {
             "source": "인벤",
-            "rank": 25,
-            "title": "트럼프, 젠슨황 퇴진에 \"그 자리 이어받을 사람은 애플 팀 쿡\"",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2751917",
-            "score": 70.93
+            "rank": 23,
+            "title": "젠슨황 사임에 미국 기업가들의 반응",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2752233",
+            "score": 67.47
           }
         ],
         "first_seen": "2026-11-08T03:09:30.592393+09:00",
-        "last_seen": "2026-11-13T07:19:32.098636+09:00",
+        "last_seen": "2026-11-13T19:05:31.247118+09:00",
         "latest_source_count": 2,
-        "latest_post_count": 2,
+        "latest_post_count": 4,
         "rank": 2,
         "change": 0
       },
@@ -351,9 +373,9 @@
         ],
         "source_count": 4,
         "post_count": 5,
-        "score": 131.36,
+        "score": 132.8,
         "peak_score": 108.87,
-        "appearances": 2,
+        "appearances": 3,
         "sources": [
           "더쿠",
           "뽐뿌",
@@ -363,39 +385,25 @@
         "posts": [
           {
             "source": "뽐뿌",
-            "rank": 4,
-            "title": "펌) 합격 세무사 현상황",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10185383",
-            "score": 82.87
-          },
-          {
-            "source": "더쿠",
-            "rank": 50,
-            "title": "세무사 수석 소거법좌 회계사 시험도 봄",
-            "url": "https://theqoo.net/hot/4404482893",
-            "score": 63.0
+            "rank": 29,
+            "title": "이번 세무사 수석의 수기",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10184899",
+            "score": 64.85
           },
           {
             "source": "클리앙",
-            "rank": 67,
-            "title": "세무사시험 AI 논란보니 세무사 직업은 이제 끝난거네요",
-            "url": "https://www.clien.net/service/board/park/19291693?od=T31&po=0&category=0&groupCd=",
-            "score": 59.39
-          },
-          {
-            "source": "인벤",
-            "rank": 70,
-            "title": "세무사 세무냥이가 올린 성적인증 영상 이상한점",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2752012",
-            "score": 59.1
+            "rank": 36,
+            "title": "세무사 시험 만점이 안되는 이유에 대한 설명을 들었습니다",
+            "url": "https://www.clien.net/service/board/park/19291938?od=T31&po=0&category=0&groupCd=",
+            "score": 63.33
           }
         ],
         "first_seen": "2026-11-12T16:47:53.957964+09:00",
-        "last_seen": "2026-11-13T11:42:07.310615+09:00",
-        "latest_source_count": 4,
-        "latest_post_count": 5,
+        "last_seen": "2026-11-13T19:05:31.247118+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 4,
         "rank": 3,
-        "change": 11
+        "change": 0
       },
       {
         "id": "i2272efa7",
@@ -441,7 +449,7 @@
         "latest_source_count": 3,
         "latest_post_count": 4,
         "rank": 4,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "i4e9b777d",
@@ -479,6 +487,44 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 5,
+        "change": 0
+      },
+      {
+        "id": "ife9b1ed0",
+        "title": "‘3번째’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "3번째"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 95.54,
+        "peak_score": 86.07,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 11,
+            "title": "젠슨황.... 3번째 불륜 ㄷㄷ...News",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478378&_dcbest=1&page=1",
+            "score": 77.07
+          },
+          {
+            "source": "인벤",
+            "rank": 49,
+            "title": "젠슨 황 3번째 스캔들 의혹/엘리스 황의 정체?",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2752237",
+            "score": 60.4
+          }
+        ],
+        "first_seen": "2026-11-13T19:05:31.247118+09:00",
+        "last_seen": "2026-11-13T19:05:31.247118+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 6,
         "change": "NEW"
       },
       {
@@ -516,8 +562,8 @@
         "last_seen": "2026-11-13T07:19:32.098636+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 6,
-        "change": -3
+        "rank": 7,
+        "change": -1
       },
       {
         "id": "i9022d324",
@@ -554,8 +600,8 @@
         "last_seen": "2026-11-13T07:19:32.098636+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 7,
-        "change": -3
+        "rank": 8,
+        "change": -1
       },
       {
         "id": "i8aca3781",
@@ -592,8 +638,8 @@
         "last_seen": "2026-11-13T01:47:40.931060+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 8,
-        "change": -3
+        "rank": 9,
+        "change": -1
       },
       {
         "id": "i026fd7c0",
@@ -630,8 +676,8 @@
         "last_seen": "2026-11-13T11:42:07.310615+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 9,
-        "change": "NEW"
+        "rank": 10,
+        "change": -1
       },
       {
         "id": "i9f5e1ed4",
@@ -668,8 +714,8 @@
         "last_seen": "2026-11-13T07:19:32.098636+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 10,
-        "change": -4
+        "rank": 11,
+        "change": -1
       },
       {
         "id": "i69709369",
@@ -707,8 +753,8 @@
         "last_seen": "2026-11-13T07:19:32.098636+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
-        "change": -4
+        "rank": 12,
+        "change": -1
       },
       {
         "id": "iac58c16e",
@@ -745,8 +791,8 @@
         "last_seen": "2026-11-13T11:42:07.310615+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 12,
-        "change": "NEW"
+        "rank": 13,
+        "change": -1
       },
       {
         "id": "i5b318335",
@@ -783,8 +829,8 @@
         "last_seen": "2026-11-13T07:19:32.098636+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 13,
-        "change": -5
+        "rank": 14,
+        "change": -1
       },
       {
         "id": "ibb35f05f",
@@ -821,8 +867,8 @@
         "last_seen": "2026-11-13T11:42:07.310615+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 14,
-        "change": "NEW"
+        "rank": 15,
+        "change": -1
       },
       {
         "id": "id7c7baa0",
@@ -865,8 +911,8 @@
         "last_seen": "2026-11-13T01:47:40.931060+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 15,
-        "change": -6
+        "rank": 16,
+        "change": -1
       },
       {
         "id": "i3f17a348",
@@ -904,8 +950,84 @@
         "last_seen": "2026-11-13T01:47:40.931060+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 16,
-        "change": -6
+        "rank": 17,
+        "change": -1
+      },
+      {
+        "id": "ie002f79b",
+        "title": "‘동아시아’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "동아시아"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 87.26,
+        "peak_score": 77.79,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 18,
+            "title": "GTA6, 동아시아 3국 한국만 '검열' 없어 JPG",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478386&_dcbest=1&page=1",
+            "score": 68.79
+          },
+          {
+            "source": "인벤",
+            "rank": 24,
+            "title": "중국인이 제안하는 동아시아 재편",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2752224",
+            "score": 67.35
+          }
+        ],
+        "first_seen": "2026-11-13T19:05:31.247118+09:00",
+        "last_seen": "2026-11-13T19:05:31.247118+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 18,
+        "change": "NEW"
+      },
+      {
+        "id": "i0a785976",
+        "title": "‘최민희’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "최민희"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 86.6,
+        "peak_score": 77.13,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 20,
+            "title": "국회 영상기자단, 최민희 '하이에나' 발언 규탄‥\"분노 넘어 자괴감\"",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2752236",
+            "score": 68.13
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 41,
+            "title": "JTBC) 최민희 “통일교가 김민석 밀었다…이재명 대통령도 '윤석열 하야' 쪽이었다\"",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478392&_dcbest=1&page=1",
+            "score": 62.45
+          }
+        ],
+        "first_seen": "2026-11-13T19:05:31.247118+09:00",
+        "last_seen": "2026-11-13T19:05:31.247118+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 19,
+        "change": "NEW"
       },
       {
         "id": "i837bc9bc",
@@ -942,137 +1064,22 @@
         "last_seen": "2026-11-13T01:20:55.149802+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 17,
-        "change": -6
-      },
-      {
-        "id": "i6714c3ce",
-        "title": "‘비하인드’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "비하인드"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 83.02,
-        "peak_score": 73.55,
-        "appearances": 1,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 36,
-            "title": "[#직캠보고서????] #RESCENE #리센느 리센느와 리마인이 함께 달려가는 모든 순간 ???? 음중 사전녹화 비하인드⏯️",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2751915",
-            "score": 64.55
-          },
-          {
-            "source": "클리앙",
-            "rank": 94,
-            "title": "🎂 [러블리즈] 데뷔 12주년 라이브, 류수정 리스닝 룸 공개, 예인 배텐 공방 비하인드",
-            "url": "https://www.clien.net/service/board/park/19291519?od=T31&po=0&category=0&groupCd=",
-            "score": 52.1
-          }
-        ],
-        "first_seen": "2026-11-13T01:47:40.931060+09:00",
-        "last_seen": "2026-11-13T01:47:40.931060+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 18,
-        "change": -6
-      },
-      {
-        "id": "i91f13db9",
-        "title": "‘gta6’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "gta6"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 82.82,
-        "peak_score": 73.35,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "루리웹"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 38,
-            "title": "'GTA6', 국내 등급분류 거부 문턱까지 갔었다",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478208&_dcbest=1&page=1",
-            "score": 64.35
-          },
-          {
-            "source": "루리웹",
-            "rank": 70,
-            "title": "속보) 대한민국, 동아시아 유일 GTA6 무검열판 출시.jpg",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77368281?m=humor_only&t=now",
-            "score": 57.14
-          }
-        ],
-        "first_seen": "2026-10-17T19:34:33.819752+09:00",
-        "last_seen": "2026-11-13T01:20:55.149802+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 19,
-        "change": -6
-      },
-      {
-        "id": "i56031a2a",
-        "title": "‘lg가’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "lg가"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 79.14,
-        "peak_score": 69.67,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 53,
-            "title": "LG가 21년 전 만든 토스트&베이글 겸용 전자레인지",
-            "url": "https://www.clien.net/service/board/park/19291532?od=T31&po=0&category=0&groupCd=",
-            "score": 60.67
-          },
-          {
-            "source": "더쿠",
-            "rank": 56,
-            "title": "요즘 삼성, LG가 엄청 공격적으로 밀고 있다는 서비스..jpg",
-            "url": "https://theqoo.net/hot/4404148140",
-            "score": 59.58
-          }
-        ],
-        "first_seen": "2026-11-13T01:20:55.149802+09:00",
-        "last_seen": "2026-11-13T01:20:55.149802+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 20,
-        "change": -5
+        "change": -3
       }
     ],
     "weekly": [
       {
         "id": "i4dea1b92",
-        "title": "엔비디아)직원들 “젠슨 황 유임 찬성 88%”",
+        "title": "‘엔비디아’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "엔비디아",
-          "젠슨"
+          "엔비디아"
         ],
         "source_count": 4,
         "post_count": 7,
-        "score": 151.67,
+        "score": 152.34,
         "peak_score": 122.94,
-        "appearances": 6,
+        "appearances": 7,
         "sources": [
           "더쿠",
           "루리웹",
@@ -1082,45 +1089,24 @@
         ],
         "posts": [
           {
-            "source": "루리웹",
-            "rank": 3,
-            "title": "엔비디아)직원들 “젠슨 황 유임 찬성 88%”",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77365820?m=humor",
-            "score": 95.5
-          },
-          {
             "source": "뽐뿌",
-            "rank": 27,
-            "title": "존슨 황, 또 다른 엔비디아 직원과 세 번째 불륜설 - 로이터",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=454671",
-            "score": 70.69
+            "rank": 7,
+            "title": "속보) 엔비디아 직원들, 젠슨 황 복귀 요구 ㄷ..jpg",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10185858",
+            "score": 81.09
           },
           {
-            "source": "더쿠",
-            "rank": 37,
-            "title": "엔비디아 신임 CEO 콜레트 크레스 걱정할 필요 없는 이유",
-            "url": "https://theqoo.net/hot/4404196967",
-            "score": 67.89
-          },
-          {
-            "source": "클리앙",
-            "rank": 89,
-            "title": "트럼프가 팀쿡을 엔비디아 후임자로 생각한이유가..",
-            "url": "https://www.clien.net/service/board/park/19291548?od=T31&po=0&category=0&groupCd=",
-            "score": 55.0
-          },
-          {
-            "source": "더쿠",
-            "rank": 49,
-            "title": "속보) 엔비디아 CEO 젠슨 황 사임",
-            "url": "https://theqoo.net/hot/4404166052",
-            "score": 63.26
+            "source": "인벤",
+            "rank": 13,
+            "title": "엔비디아 임원회의",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2752226",
+            "score": 73.17
           }
         ],
         "first_seen": "2026-10-30T16:17:45.679248+09:00",
-        "last_seen": "2026-11-13T07:19:32.098636+09:00",
-        "latest_source_count": 4,
-        "latest_post_count": 5,
+        "last_seen": "2026-11-13T19:05:31.247118+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 3,
         "rank": 1,
         "change": 0
       },
@@ -1132,9 +1118,9 @@
         ],
         "source_count": 4,
         "post_count": 7,
-        "score": 147.34,
+        "score": 147.93,
         "peak_score": 117.94,
-        "appearances": 7,
+        "appearances": 8,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -1146,23 +1132,23 @@
         "posts": [
           {
             "source": "디시인사이드",
-            "rank": 4,
-            "title": "잠깐 이거뭐냐???? 젠슨황 직속라인 리스트 떳다",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478234&_dcbest=1&page=1",
-            "score": 91.49
+            "rank": 11,
+            "title": "젠슨황.... 3번째 불륜 ㄷㄷ...News",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478378&_dcbest=1&page=1",
+            "score": 77.07
           },
           {
             "source": "인벤",
-            "rank": 25,
-            "title": "트럼프, 젠슨황 퇴진에 \"그 자리 이어받을 사람은 애플 팀 쿡\"",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2751917",
-            "score": 70.93
+            "rank": 23,
+            "title": "젠슨황 사임에 미국 기업가들의 반응",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2752233",
+            "score": 67.47
           }
         ],
         "first_seen": "2026-11-08T03:09:30.592393+09:00",
-        "last_seen": "2026-11-13T07:19:32.098636+09:00",
+        "last_seen": "2026-11-13T19:05:31.247118+09:00",
         "latest_source_count": 2,
-        "latest_post_count": 2,
+        "latest_post_count": 4,
         "rank": 2,
         "change": 0
       },
@@ -1174,9 +1160,9 @@
         ],
         "source_count": 4,
         "post_count": 5,
-        "score": 140.05,
+        "score": 141.17,
         "peak_score": 116.12,
-        "appearances": 3,
+        "appearances": 4,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -1188,37 +1174,23 @@
         "posts": [
           {
             "source": "뽐뿌",
-            "rank": 4,
-            "title": "펌) 합격 세무사 현상황",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10185383",
-            "score": 82.87
-          },
-          {
-            "source": "더쿠",
-            "rank": 50,
-            "title": "세무사 수석 소거법좌 회계사 시험도 봄",
-            "url": "https://theqoo.net/hot/4404482893",
-            "score": 63.0
+            "rank": 29,
+            "title": "이번 세무사 수석의 수기",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10184899",
+            "score": 64.85
           },
           {
             "source": "클리앙",
-            "rank": 67,
-            "title": "세무사시험 AI 논란보니 세무사 직업은 이제 끝난거네요",
-            "url": "https://www.clien.net/service/board/park/19291693?od=T31&po=0&category=0&groupCd=",
-            "score": 59.39
-          },
-          {
-            "source": "인벤",
-            "rank": 70,
-            "title": "세무사 세무냥이가 올린 성적인증 영상 이상한점",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2752012",
-            "score": 59.1
+            "rank": 36,
+            "title": "세무사 시험 만점이 안되는 이유에 대한 설명을 들었습니다",
+            "url": "https://www.clien.net/service/board/park/19291938?od=T31&po=0&category=0&groupCd=",
+            "score": 63.33
           }
         ],
         "first_seen": "2026-11-12T16:47:53.957964+09:00",
-        "last_seen": "2026-11-13T11:42:07.310615+09:00",
-        "latest_source_count": 4,
-        "latest_post_count": 5,
+        "last_seen": "2026-11-13T19:05:31.247118+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 4,
         "rank": 3,
         "change": 0
       },
@@ -1266,7 +1238,7 @@
         "latest_source_count": 3,
         "latest_post_count": 4,
         "rank": 4,
-        "change": 7
+        "change": 0
       },
       {
         "id": "i5d449f3d",
@@ -1312,7 +1284,7 @@
         "latest_source_count": 3,
         "latest_post_count": 3,
         "rank": 5,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i22297824",
@@ -1350,7 +1322,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 6,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i4e9b777d",
@@ -1388,7 +1360,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 7,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "i2bf88edf",
@@ -1435,7 +1407,7 @@
         "latest_source_count": 3,
         "latest_post_count": 3,
         "rank": 8,
-        "change": -2
+        "change": 0
       },
       {
         "id": "idb63e02d",
@@ -1473,7 +1445,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 9,
-        "change": -2
+        "change": 0
       },
       {
         "id": "i359550d9",
@@ -1519,7 +1491,7 @@
         "latest_source_count": 3,
         "latest_post_count": 3,
         "rank": 10,
-        "change": -2
+        "change": 0
       },
       {
         "id": "i76d1d903",
@@ -1561,7 +1533,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 11,
-        "change": -2
+        "change": 0
       },
       {
         "id": "i9f5e1ed4",
@@ -1601,7 +1573,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 12,
-        "change": -2
+        "change": 0
       },
       {
         "id": "i5d6688ff",
@@ -1639,7 +1611,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 13,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i938836c2",
@@ -1678,7 +1650,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 14,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i97ba91d3",
@@ -1717,7 +1689,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 15,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i126a57df",
@@ -1755,7 +1727,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 16,
-        "change": -1
+        "change": 0
       },
       {
         "id": "ifd5a2cc3",
@@ -1795,7 +1767,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 17,
-        "change": -1
+        "change": 0
       },
       {
         "id": "iae6b0123",
@@ -1833,7 +1805,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 18,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i01009091",
@@ -1872,7 +1844,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 19,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i2451c48b",
@@ -1921,22 +1893,21 @@
         "latest_source_count": 3,
         "latest_post_count": 3,
         "rank": 20,
-        "change": -1
+        "change": 0
       }
     ],
     "monthly": [
       {
         "id": "i4dea1b92",
-        "title": "엔비디아)직원들 “젠슨 황 유임 찬성 88%”",
+        "title": "‘엔비디아’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "엔비디아",
-          "젠슨"
+          "엔비디아"
         ],
         "source_count": 4,
         "post_count": 7,
-        "score": 151.67,
+        "score": 152.34,
         "peak_score": 122.94,
-        "appearances": 6,
+        "appearances": 7,
         "sources": [
           "더쿠",
           "루리웹",
@@ -1946,45 +1917,24 @@
         ],
         "posts": [
           {
-            "source": "루리웹",
-            "rank": 3,
-            "title": "엔비디아)직원들 “젠슨 황 유임 찬성 88%”",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77365820?m=humor",
-            "score": 95.5
-          },
-          {
             "source": "뽐뿌",
-            "rank": 27,
-            "title": "존슨 황, 또 다른 엔비디아 직원과 세 번째 불륜설 - 로이터",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=454671",
-            "score": 70.69
+            "rank": 7,
+            "title": "속보) 엔비디아 직원들, 젠슨 황 복귀 요구 ㄷ..jpg",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10185858",
+            "score": 81.09
           },
           {
-            "source": "더쿠",
-            "rank": 37,
-            "title": "엔비디아 신임 CEO 콜레트 크레스 걱정할 필요 없는 이유",
-            "url": "https://theqoo.net/hot/4404196967",
-            "score": 67.89
-          },
-          {
-            "source": "클리앙",
-            "rank": 89,
-            "title": "트럼프가 팀쿡을 엔비디아 후임자로 생각한이유가..",
-            "url": "https://www.clien.net/service/board/park/19291548?od=T31&po=0&category=0&groupCd=",
-            "score": 55.0
-          },
-          {
-            "source": "더쿠",
-            "rank": 49,
-            "title": "속보) 엔비디아 CEO 젠슨 황 사임",
-            "url": "https://theqoo.net/hot/4404166052",
-            "score": 63.26
+            "source": "인벤",
+            "rank": 13,
+            "title": "엔비디아 임원회의",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2752226",
+            "score": 73.17
           }
         ],
         "first_seen": "2026-10-30T16:17:45.679248+09:00",
-        "last_seen": "2026-11-13T07:19:32.098636+09:00",
-        "latest_source_count": 4,
-        "latest_post_count": 5,
+        "last_seen": "2026-11-13T19:05:31.247118+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 3,
         "rank": 1,
         "change": 0
       },
@@ -1996,9 +1946,9 @@
         ],
         "source_count": 4,
         "post_count": 7,
-        "score": 149.36,
+        "score": 149.76,
         "peak_score": 117.94,
-        "appearances": 11,
+        "appearances": 12,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -2010,23 +1960,23 @@
         "posts": [
           {
             "source": "디시인사이드",
-            "rank": 4,
-            "title": "잠깐 이거뭐냐???? 젠슨황 직속라인 리스트 떳다",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478234&_dcbest=1&page=1",
-            "score": 91.49
+            "rank": 11,
+            "title": "젠슨황.... 3번째 불륜 ㄷㄷ...News",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478378&_dcbest=1&page=1",
+            "score": 77.07
           },
           {
             "source": "인벤",
-            "rank": 25,
-            "title": "트럼프, 젠슨황 퇴진에 \"그 자리 이어받을 사람은 애플 팀 쿡\"",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2751917",
-            "score": 70.93
+            "rank": 23,
+            "title": "젠슨황 사임에 미국 기업가들의 반응",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2752233",
+            "score": 67.47
           }
         ],
         "first_seen": "2026-11-08T03:09:30.592393+09:00",
-        "last_seen": "2026-11-13T07:19:32.098636+09:00",
+        "last_seen": "2026-11-13T19:05:31.247118+09:00",
         "latest_source_count": 2,
-        "latest_post_count": 2,
+        "latest_post_count": 4,
         "rank": 2,
         "change": 0
       },
@@ -2077,7 +2027,7 @@
         "latest_source_count": 3,
         "latest_post_count": 4,
         "rank": 3,
-        "change": 2
+        "change": 0
       },
       {
         "id": "i1fcd34de",
@@ -2087,9 +2037,9 @@
         ],
         "source_count": 4,
         "post_count": 5,
-        "score": 140.05,
+        "score": 141.17,
         "peak_score": 116.12,
-        "appearances": 3,
+        "appearances": 4,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -2101,39 +2051,25 @@
         "posts": [
           {
             "source": "뽐뿌",
-            "rank": 4,
-            "title": "펌) 합격 세무사 현상황",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10185383",
-            "score": 82.87
-          },
-          {
-            "source": "더쿠",
-            "rank": 50,
-            "title": "세무사 수석 소거법좌 회계사 시험도 봄",
-            "url": "https://theqoo.net/hot/4404482893",
-            "score": 63.0
+            "rank": 29,
+            "title": "이번 세무사 수석의 수기",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10184899",
+            "score": 64.85
           },
           {
             "source": "클리앙",
-            "rank": 67,
-            "title": "세무사시험 AI 논란보니 세무사 직업은 이제 끝난거네요",
-            "url": "https://www.clien.net/service/board/park/19291693?od=T31&po=0&category=0&groupCd=",
-            "score": 59.39
-          },
-          {
-            "source": "인벤",
-            "rank": 70,
-            "title": "세무사 세무냥이가 올린 성적인증 영상 이상한점",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2752012",
-            "score": 59.1
+            "rank": 36,
+            "title": "세무사 시험 만점이 안되는 이유에 대한 설명을 들었습니다",
+            "url": "https://www.clien.net/service/board/park/19291938?od=T31&po=0&category=0&groupCd=",
+            "score": 63.33
           }
         ],
         "first_seen": "2026-11-12T16:47:53.957964+09:00",
-        "last_seen": "2026-11-13T11:42:07.310615+09:00",
-        "latest_source_count": 4,
-        "latest_post_count": 5,
+        "last_seen": "2026-11-13T19:05:31.247118+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 4,
         "rank": 4,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i924c4c51",
@@ -2183,7 +2119,7 @@
         "latest_source_count": 3,
         "latest_post_count": 4,
         "rank": 5,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i5d449f3d",
@@ -2502,7 +2438,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 13,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "i573d2d0e",
@@ -2540,7 +2476,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 14,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i2bf88edf",
@@ -2587,7 +2523,7 @@
         "latest_source_count": 3,
         "latest_post_count": 3,
         "rank": 15,
-        "change": -1
+        "change": 0
       },
       {
         "id": "ia4c7959d",
@@ -2625,7 +2561,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 16,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i5d6688ff",
@@ -2663,7 +2599,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 17,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i56f3e6c5",
@@ -2701,7 +2637,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 18,
-        "change": -1
+        "change": 0
       },
       {
         "id": "idb63e02d",
@@ -2739,7 +2675,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 19,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i64aac33b",
@@ -2780,7 +2716,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 20,
-        "change": -1
+        "change": 0
       }
     ]
   }
