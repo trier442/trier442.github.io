@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W46",
   "label": "2026.11.09 ~ 11.15",
-  "collected_at": "2026-11-14T02:40:34.946192+09:00",
+  "collected_at": "2026-11-14T03:03:51.301997+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -55,9 +55,9 @@
       ],
       "source_count": 4,
       "post_count": 7,
-      "score": 148.93,
+      "score": 149.36,
       "peak_score": 117.94,
-      "appearances": 10,
+      "appearances": 11,
       "sources": [
         "더쿠",
         "디시인사이드",
@@ -69,10 +69,10 @@
       "posts": [
         {
           "source": "인벤",
-          "rank": 5,
+          "rank": 6,
           "title": "?? : 젠슨황 다음은.....",
           "url": "https://www.inven.co.kr/board/webzine/2097/2752338",
-          "score": 80.44
+          "score": 80.76
         },
         {
           "source": "더쿠",
@@ -80,12 +80,19 @@
           "title": "멘탈 완전히 박살나버렸다는 젠슨황 근황....jpg",
           "url": "https://theqoo.net/hot/4405169788",
           "score": 54.74
+        },
+        {
+          "source": "루리웹",
+          "rank": 88,
+          "title": "젠슨황, 남천동 스페이스X로 이직",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77379934?m=humor_only&t=now",
+          "score": 54.22
         }
       ],
       "first_seen": "2026-11-08T03:09:30.592393+09:00",
-      "last_seen": "2026-11-14T02:40:34.946192+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
+      "last_seen": "2026-11-14T03:03:51.301997+09:00",
+      "latest_source_count": 3,
+      "latest_post_count": 3,
       "rank": 2,
       "change": 0
     },
@@ -97,9 +104,9 @@
       ],
       "source_count": 4,
       "post_count": 5,
-      "score": 142.08,
+      "score": 142.85,
       "peak_score": 116.12,
-      "appearances": 5,
+      "appearances": 6,
       "sources": [
         "더쿠",
         "디시인사이드",
@@ -111,21 +118,21 @@
       "posts": [
         {
           "source": "뽐뿌",
-          "rank": 62,
+          "rank": 67,
           "title": "세무사 수석 위엄 체감.jpg",
           "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10186099",
-          "score": 59.88
+          "score": 58.05
         },
         {
           "source": "디시인사이드",
-          "rank": 73,
+          "rank": 72,
           "title": "세무사 논란 직장인 커뮤니티 반응 ㄷㄷ",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478441&_dcbest=1&page=1",
-          "score": 56.64
+          "score": 56.37
         }
       ],
       "first_seen": "2026-11-12T16:47:53.957964+09:00",
-      "last_seen": "2026-11-14T02:40:34.946192+09:00",
+      "last_seen": "2026-11-14T03:03:51.301997+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 3,
@@ -758,6 +765,47 @@
       "change": 0
     },
     {
+      "id": "i2451c48b",
+      "title": "LEET 만점자 주관사 모집한다네요",
+      "keywords": [
+        "만점자",
+        "leet"
+      ],
+      "source_count": 3,
+      "post_count": 3,
+      "score": 103.61,
+      "peak_score": 85.68,
+      "appearances": 3,
+      "sources": [
+        "더쿠",
+        "루리웹",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 20,
+          "title": "LEET 만점자 주관사 모집한다네요",
+          "url": "https://www.clien.net/service/board/park/19292045?od=T31&po=0&category=0&groupCd=",
+          "score": 74.13
+        },
+        {
+          "source": "더쿠",
+          "rank": 48,
+          "title": "수능 국어 풀어서 인증받겠다고 한 2027 LEET 만점자 근황",
+          "url": "https://theqoo.net/hot/4405247230",
+          "score": 63.53
+        }
+      ],
+      "first_seen": "2026-11-12T16:47:53.957964+09:00",
+      "last_seen": "2026-11-14T03:03:51.301997+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 19,
+      "change": 1
+    },
+    {
       "id": "ifd5a2cc3",
       "title": "‘한국의’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -794,49 +842,8 @@
       "last_seen": "2026-11-11T11:57:56.217814+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 19,
-      "change": 0
-    },
-    {
-      "id": "i2451c48b",
-      "title": "LEET 만점자 주관사 모집한다네요",
-      "keywords": [
-        "만점자",
-        "leet"
-      ],
-      "source_count": 3,
-      "post_count": 3,
-      "score": 102.17,
-      "peak_score": 85.68,
-      "appearances": 2,
-      "sources": [
-        "더쿠",
-        "루리웹",
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 19,
-          "title": "LEET 만점자 주관사 모집한다네요",
-          "url": "https://www.clien.net/service/board/park/19292045?od=T31&po=0&category=0&groupCd=",
-          "score": 73.86
-        },
-        {
-          "source": "더쿠",
-          "rank": 47,
-          "title": "수능 국어 풀어서 인증받겠다고 한 2027 LEET 만점자 근황",
-          "url": "https://theqoo.net/hot/4405247230",
-          "score": 63.53
-        }
-      ],
-      "first_seen": "2026-11-12T16:47:53.957964+09:00",
-      "last_seen": "2026-11-14T02:40:34.946192+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 20,
-      "change": "NEW"
+      "change": -1
     }
   ]
 }
