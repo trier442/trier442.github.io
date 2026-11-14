@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-11-14T08:31:48.439814+09:00",
+  "collected_at": "2026-11-14T12:04:52.270738+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -11,6 +11,48 @@
   "rankings": {
     "realtime": [
       {
+        "id": "i1faf5b45",
+        "title": "‘고경표’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "고경표"
+        ],
+        "source_count": 3,
+        "post_count": 6,
+        "score": 103.53,
+        "peak_score": 103.53,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "더쿠",
+            "rank": 6,
+            "title": "음주운전 고경표, 비상걸린 예능 방송들 모음",
+            "url": "https://theqoo.net/hot/4405427537",
+            "score": 84.53
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 18,
+            "title": "고경표 음주운전은 충격이네요 ㄷㄷ",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10186765",
+            "score": 72.5
+          },
+          {
+            "source": "인벤",
+            "rank": 24,
+            "title": "고경표 이 ㅅㅋ야 이거 어쩔라고 임마..",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2752410",
+            "score": 70.39
+          }
+        ],
+        "rank": 1,
+        "change": "NEW"
+      },
+      {
         "id": "i0a785976",
         "title": "‘최민희’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -18,8 +60,8 @@
         ],
         "source_count": 2,
         "post_count": 3,
-        "score": 87.66,
-        "peak_score": 87.66,
+        "score": 79.35,
+        "peak_score": 79.35,
         "appearances": 1,
         "sources": [
           "인벤",
@@ -28,232 +70,177 @@
         "posts": [
           {
             "source": "인벤",
-            "rank": 12,
-            "title": "최민희 제명하라 -더민주 혁신회-",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2752371",
-            "score": 77.66
+            "rank": 28,
+            "title": "최민희 페북 ㅋㅋㅋ",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2752423",
+            "score": 69.35
           },
           {
             "source": "클리앙",
-            "rank": 17,
-            "title": "최민희 의원님 이번 녹취록 사태 평가: 역시는 역시 역시군",
-            "url": "https://www.clien.net/service/board/park/19292087?od=T31&po=0&category=0&groupCd=",
-            "score": 73.82
-          }
-        ],
-        "rank": 1,
-        "change": "NEW"
-      },
-      {
-        "id": "ia2cae281",
-        "title": "‘의원님’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "의원님"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 82.82,
-        "peak_score": 82.82,
-        "appearances": 1,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 17,
-            "title": "최민희 의원님 이번 녹취록 사태 평가: 역시는 역시 역시군",
-            "url": "https://www.clien.net/service/board/park/19292087?od=T31&po=0&category=0&groupCd=",
-            "score": 73.82
-          },
-          {
-            "source": "인벤",
-            "rank": 44,
-            "title": "\"의원님! 미국 출장 가시죠?\" 묻자 공항 '질주' 추격전",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2752357",
-            "score": 63.95
+            "rank": 81,
+            "title": "최민희 발언 중 유일하게 맞는 게 딱 하나 있습니다.",
+            "url": "https://www.clien.net/service/board/park/19292145?od=T31&po=0&category=0&groupCd=",
+            "score": 54.19
           }
         ],
         "rank": 2,
-        "change": "NEW"
+        "change": -1
       },
       {
-        "id": "i4c8bdd1e",
-        "title": "‘대한민국’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "iba838050",
+        "title": "‘베트남’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "대한민국"
+          "베트남"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 79.7,
-        "peak_score": 79.7,
+        "score": 77.98,
+        "peak_score": 77.98,
         "appearances": 1,
         "sources": [
           "디시인사이드",
-          "인벤"
+          "뽐뿌"
         ],
         "posts": [
           {
             "source": "디시인사이드",
-            "rank": 21,
-            "title": "스압)대한민국 육군 저항군.manhwa -#1 렁 펑, 이 신(2)",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478530&_dcbest=1&page=1",
-            "score": 70.7
+            "rank": 31,
+            "title": "싱글벙글 한국에 인재 쪽쪽 빨리는 베트남 근황",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478558&_dcbest=1&page=1",
+            "score": 68.98
           },
           {
-            "source": "인벤",
-            "rank": 84,
-            "title": "대한민국 vs 사우디 경기 결과",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2752345",
-            "score": 55.15
+            "source": "뽐뿌",
+            "rank": 73,
+            "title": "베트남 영화 행사 대참사 ㄷ",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=movie&no=92275",
+            "score": 56.23
           }
         ],
         "rank": 3,
         "change": "NEW"
       },
       {
-        "id": "ie4ca5987",
-        "title": "‘아나운서’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i1fcd34de",
+        "title": "‘세무사’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "아나운서"
+          "세무사"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 78.5,
-        "peak_score": 78.5,
+        "score": 77.39,
+        "peak_score": 77.39,
         "appearances": 1,
         "sources": [
-          "뽐뿌",
-          "인벤"
+          "디시인사이드",
+          "클리앙"
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 25,
-            "title": "서장훈이 당황한 성균관대출신 아나운서 여성",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2752368",
-            "score": 69.5
+            "source": "클리앙",
+            "rank": 33,
+            "title": "[단독] 세무사 수석 합격자 한원석씨",
+            "url": "https://www.clien.net/service/board/park/19292160?od=T31&po=0&category=0&groupCd=",
+            "score": 68.39
           },
           {
-            "source": "뽐뿌",
-            "rank": 33,
-            "title": "이혜성 아나운서 매력 있지 않나요?",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10186386",
-            "score": 67.85
+            "source": "디시인사이드",
+            "rank": 38,
+            "title": "요즘 ai안경으로는 세무사 시험 못푼다는 개병신들 어디갔냐",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478550&_dcbest=1&page=1",
+            "score": 65.07
           }
         ],
         "rank": 4,
         "change": "NEW"
       },
       {
-        "id": "i52106193",
-        "title": "\"의원님! 미국 출장 가시죠?\" 묻자 공항 '질주' 추격전",
+        "id": "i0b3521e1",
+        "title": "[속보] 고경표, 음주운전으로 교통사고…면허 취소 수준",
         "keywords": [
-          "미국",
-          "출장",
-          "가시죠"
+          "수준",
+          "취소",
+          "면허",
+          "고경표",
+          "교통사고",
+          "음주운전으로"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 71.95,
-        "peak_score": 71.95,
+        "score": 76.37,
+        "peak_score": 76.37,
         "appearances": 1,
         "sources": [
-          "인벤",
-          "클리앙"
+          "더쿠",
+          "인벤"
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 44,
-            "title": "\"의원님! 미국 출장 가시죠?\" 묻자 공항 '질주' 추격전",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2752357",
-            "score": 63.95
+            "source": "더쿠",
+            "rank": 34,
+            "title": "[속보] 고경표, 음주운전으로 교통사고…면허 취소 수준",
+            "url": "https://theqoo.net/hot/4405420846",
+            "score": 68.37
           },
           {
-            "source": "클리앙",
-            "rank": 63,
-            "title": "으원님 미국 출장 가시죠? 실상은 관광",
-            "url": "https://www.clien.net/service/board/park/19292067?od=T31&po=0&category=0&groupCd=",
-            "score": 59.78
+            "source": "인벤",
+            "rank": 59,
+            "title": "[속보] 고경표, 음주운전으로 교통사고…면허 취소 수준",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2752406",
+            "score": 59.36
           }
         ],
         "rank": 5,
-        "change": -1
-      },
+        "change": "NEW"
+      }
+    ],
+    "daily": [
       {
-        "id": "ie1741c16",
-        "title": "‘이렇게’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i1faf5b45",
+        "title": "‘고경표’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "이렇게"
+          "고경표"
         ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 71.35,
-        "peak_score": 71.35,
+        "source_count": 3,
+        "post_count": 6,
+        "score": 121.0,
+        "peak_score": 103.53,
         "appearances": 1,
         "sources": [
+          "더쿠",
           "뽐뿌",
           "인벤"
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 49,
-            "title": "여기를 이렇게 치면, 강아지가 와서 안겨요",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2752354",
-            "score": 62.35
+            "source": "더쿠",
+            "rank": 6,
+            "title": "음주운전 고경표, 비상걸린 예능 방송들 모음",
+            "url": "https://theqoo.net/hot/4405427537",
+            "score": 84.53
           },
           {
             "source": "뽐뿌",
-            "rank": 78,
-            "title": "DJ, 노통, 문통, 해찬옹의 민주당이 이렇게 끝나버리는군요.",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10186158",
-            "score": 56.4
-          }
-        ],
-        "rank": 6,
-        "change": -5
-      },
-      {
-        "id": "i52a44a86",
-        "title": "속보] 미국 항공청 '미국 모든 공항 이륙에 금지 명령'",
-        "keywords": [
-          "모든",
-          "미국",
-          "공항"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 66.57,
-        "peak_score": 66.57,
-        "appearances": 1,
-        "sources": [
-          "루리웹",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 67,
-            "title": "속보] 미국 항공청 '미국 모든 공항 이륙에 금지 명령'",
-            "url": "https://www.clien.net/service/board/park/19292072?od=T31&po=0&category=0&groupCd=",
-            "score": 58.57
+            "rank": 18,
+            "title": "고경표 음주운전은 충격이네요 ㄷㄷ",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10186765",
+            "score": 72.5
           },
           {
-            "source": "루리웹",
-            "rank": 86,
-            "title": "속보) 모든 미국 공항 이착륙 금지령 떨어짐.",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77380869?m=humor_only&t=now",
-            "score": 54.74
+            "source": "인벤",
+            "rank": 24,
+            "title": "고경표 이 ㅅㅋ야 이거 어쩔라고 임마..",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2752410",
+            "score": 70.39
           }
         ],
-        "rank": 7,
+        "first_seen": "2026-11-14T12:04:52.270738+09:00",
+        "last_seen": "2026-11-14T12:04:52.270738+09:00",
+        "latest_source_count": 3,
+        "latest_post_count": 6,
+        "rank": 1,
         "change": "NEW"
-      }
-    ],
-    "daily": [
+      },
       {
         "id": "i153ac4c4",
         "title": "‘젠슨황’ 관련 글이 여러 커뮤니티에서 화제",
@@ -290,8 +277,8 @@
         "last_seen": "2026-11-14T07:55:50.243875+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 1,
-        "change": 0
+        "rank": 2,
+        "change": -1
       },
       {
         "id": "ie1741c16",
@@ -328,8 +315,8 @@
         "last_seen": "2026-11-14T08:31:48.439814+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 2,
-        "change": 0
+        "rank": 3,
+        "change": -1
       },
       {
         "id": "i0a785976",
@@ -339,9 +326,9 @@
         ],
         "source_count": 2,
         "post_count": 3,
-        "score": 98.13,
+        "score": 100.15,
         "peak_score": 87.66,
-        "appearances": 1,
+        "appearances": 2,
         "sources": [
           "인벤",
           "클리앙"
@@ -349,25 +336,25 @@
         "posts": [
           {
             "source": "인벤",
-            "rank": 12,
-            "title": "최민희 제명하라 -더민주 혁신회-",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2752371",
-            "score": 77.66
+            "rank": 28,
+            "title": "최민희 페북 ㅋㅋㅋ",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2752423",
+            "score": 69.35
           },
           {
             "source": "클리앙",
-            "rank": 17,
-            "title": "최민희 의원님 이번 녹취록 사태 평가: 역시는 역시 역시군",
-            "url": "https://www.clien.net/service/board/park/19292087?od=T31&po=0&category=0&groupCd=",
-            "score": 73.82
+            "rank": 81,
+            "title": "최민희 발언 중 유일하게 맞는 게 딱 하나 있습니다.",
+            "url": "https://www.clien.net/service/board/park/19292145?od=T31&po=0&category=0&groupCd=",
+            "score": 54.19
           }
         ],
         "first_seen": "2026-11-13T19:05:31.247118+09:00",
-        "last_seen": "2026-11-14T08:31:48.439814+09:00",
+        "last_seen": "2026-11-14T12:04:52.270738+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 3,
-        "change": "NEW"
+        "rank": 4,
+        "change": -1
       },
       {
         "id": "i2451c48b",
@@ -405,7 +392,7 @@
         "last_seen": "2026-11-14T07:55:50.243875+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 4,
+        "rank": 5,
         "change": -1
       },
       {
@@ -444,7 +431,7 @@
         "last_seen": "2026-11-14T08:31:48.439814+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 5,
+        "rank": 6,
         "change": -1
       },
       {
@@ -482,8 +469,47 @@
         "last_seen": "2026-11-14T08:31:48.439814+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 6,
-        "change": "NEW"
+        "rank": 7,
+        "change": -1
+      },
+      {
+        "id": "i1fcd34de",
+        "title": "‘세무사’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "세무사"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 90.32,
+        "peak_score": 77.39,
+        "appearances": 3,
+        "sources": [
+          "디시인사이드",
+          "뽐뿌",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 33,
+            "title": "[단독] 세무사 수석 합격자 한원석씨",
+            "url": "https://www.clien.net/service/board/park/19292160?od=T31&po=0&category=0&groupCd=",
+            "score": 68.39
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 38,
+            "title": "요즘 ai안경으로는 세무사 시험 못푼다는 개병신들 어디갔냐",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478550&_dcbest=1&page=1",
+            "score": 65.07
+          }
+        ],
+        "first_seen": "2026-11-12T16:47:53.957964+09:00",
+        "last_seen": "2026-11-14T12:04:52.270738+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 8,
+        "change": 3
       },
       {
         "id": "i5ca7fa56",
@@ -523,7 +549,7 @@
         "last_seen": "2026-11-14T07:55:50.243875+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 7,
+        "rank": 9,
         "change": -2
       },
       {
@@ -563,7 +589,7 @@
         "last_seen": "2026-11-14T07:55:50.243875+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 8,
+        "rank": 10,
         "change": -2
       },
       {
@@ -601,8 +627,8 @@
         "last_seen": "2026-11-14T08:31:48.439814+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 9,
-        "change": "NEW"
+        "rank": 11,
+        "change": -2
       },
       {
         "id": "i52106193",
@@ -641,46 +667,89 @@
         "last_seen": "2026-11-14T08:31:48.439814+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 10,
-        "change": -3
+        "rank": 12,
+        "change": -2
       },
       {
-        "id": "i1fcd34de",
-        "title": "‘세무사’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "iba838050",
+        "title": "‘베트남’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "세무사"
+          "베트남"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 80.37,
-        "peak_score": 68.88,
-        "appearances": 2,
+        "score": 87.45,
+        "peak_score": 77.98,
+        "appearances": 1,
         "sources": [
           "디시인사이드",
           "뽐뿌"
         ],
         "posts": [
           {
-            "source": "뽐뿌",
-            "rank": 67,
-            "title": "세무사 수석 위엄 체감.jpg",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10186099",
-            "score": 58.05
+            "source": "디시인사이드",
+            "rank": 31,
+            "title": "싱글벙글 한국에 인재 쪽쪽 빨리는 베트남 근황",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478558&_dcbest=1&page=1",
+            "score": 68.98
           },
           {
-            "source": "디시인사이드",
-            "rank": 72,
-            "title": "세무사 논란 직장인 커뮤니티 반응 ㄷㄷ",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478441&_dcbest=1&page=1",
-            "score": 56.37
+            "source": "뽐뿌",
+            "rank": 73,
+            "title": "베트남 영화 행사 대참사 ㄷ",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=movie&no=92275",
+            "score": 56.23
           }
         ],
-        "first_seen": "2026-11-12T16:47:53.957964+09:00",
-        "last_seen": "2026-11-14T03:03:51.301997+09:00",
+        "first_seen": "2026-11-14T12:04:52.270738+09:00",
+        "last_seen": "2026-11-14T12:04:52.270738+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
-        "change": -3
+        "rank": 13,
+        "change": "NEW"
+      },
+      {
+        "id": "i0b3521e1",
+        "title": "[속보] 고경표, 음주운전으로 교통사고…면허 취소 수준",
+        "keywords": [
+          "수준",
+          "취소",
+          "면허",
+          "고경표",
+          "교통사고",
+          "음주운전으로"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 85.84,
+        "peak_score": 76.37,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "더쿠",
+            "rank": 34,
+            "title": "[속보] 고경표, 음주운전으로 교통사고…면허 취소 수준",
+            "url": "https://theqoo.net/hot/4405420846",
+            "score": 68.37
+          },
+          {
+            "source": "인벤",
+            "rank": 59,
+            "title": "[속보] 고경표, 음주운전으로 교통사고…면허 취소 수준",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2752406",
+            "score": 59.36
+          }
+        ],
+        "first_seen": "2026-11-14T12:04:52.270738+09:00",
+        "last_seen": "2026-11-14T12:04:52.270738+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 14,
+        "change": "NEW"
       },
       {
         "id": "i52a44a86",
@@ -719,8 +788,8 @@
         "last_seen": "2026-11-14T08:31:48.439814+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 12,
-        "change": "NEW"
+        "rank": 15,
+        "change": -3
       },
       {
         "id": "ib1aa44af",
@@ -758,8 +827,8 @@
         "last_seen": "2026-11-14T03:03:51.301997+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 13,
-        "change": -4
+        "rank": 16,
+        "change": -3
       }
     ],
     "weekly": [
@@ -854,9 +923,9 @@
         ],
         "source_count": 4,
         "post_count": 5,
-        "score": 142.85,
+        "score": 143.52,
         "peak_score": 116.12,
-        "appearances": 6,
+        "appearances": 7,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -867,22 +936,22 @@
         ],
         "posts": [
           {
-            "source": "뽐뿌",
-            "rank": 67,
-            "title": "세무사 수석 위엄 체감.jpg",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10186099",
-            "score": 58.05
+            "source": "클리앙",
+            "rank": 33,
+            "title": "[단독] 세무사 수석 합격자 한원석씨",
+            "url": "https://www.clien.net/service/board/park/19292160?od=T31&po=0&category=0&groupCd=",
+            "score": 68.39
           },
           {
             "source": "디시인사이드",
-            "rank": 72,
-            "title": "세무사 논란 직장인 커뮤니티 반응 ㄷㄷ",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478441&_dcbest=1&page=1",
-            "score": 56.37
+            "rank": 38,
+            "title": "요즘 ai안경으로는 세무사 시험 못푼다는 개병신들 어디갔냐",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478550&_dcbest=1&page=1",
+            "score": 65.07
           }
         ],
         "first_seen": "2026-11-12T16:47:53.957964+09:00",
-        "last_seen": "2026-11-14T03:03:51.301997+09:00",
+        "last_seen": "2026-11-14T12:04:52.270738+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 3,
@@ -981,6 +1050,52 @@
         "change": 0
       },
       {
+        "id": "i1faf5b45",
+        "title": "‘고경표’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "고경표"
+        ],
+        "source_count": 3,
+        "post_count": 6,
+        "score": 121.0,
+        "peak_score": 103.53,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "더쿠",
+            "rank": 6,
+            "title": "음주운전 고경표, 비상걸린 예능 방송들 모음",
+            "url": "https://theqoo.net/hot/4405427537",
+            "score": 84.53
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 18,
+            "title": "고경표 음주운전은 충격이네요 ㄷㄷ",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10186765",
+            "score": 72.5
+          },
+          {
+            "source": "인벤",
+            "rank": 24,
+            "title": "고경표 이 ㅅㅋ야 이거 어쩔라고 임마..",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2752410",
+            "score": 70.39
+          }
+        ],
+        "first_seen": "2026-11-14T12:04:52.270738+09:00",
+        "last_seen": "2026-11-14T12:04:52.270738+09:00",
+        "latest_source_count": 3,
+        "latest_post_count": 6,
+        "rank": 6,
+        "change": "NEW"
+      },
+      {
         "id": "i22297824",
         "title": "‘버티면’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -1015,8 +1130,8 @@
         "last_seen": "2026-11-11T08:31:33.584065+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 6,
-        "change": 0
+        "rank": 7,
+        "change": -1
       },
       {
         "id": "i4e9b777d",
@@ -1053,8 +1168,8 @@
         "last_seen": "2026-11-13T11:42:07.310615+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 7,
-        "change": 0
+        "rank": 8,
+        "change": -1
       },
       {
         "id": "i2bf88edf",
@@ -1100,8 +1215,8 @@
         "last_seen": "2026-11-12T16:47:53.957964+09:00",
         "latest_source_count": 3,
         "latest_post_count": 3,
-        "rank": 8,
-        "change": 0
+        "rank": 9,
+        "change": -1
       },
       {
         "id": "idb63e02d",
@@ -1138,8 +1253,8 @@
         "last_seen": "2026-11-11T11:57:56.217814+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 9,
-        "change": 0
+        "rank": 10,
+        "change": -1
       },
       {
         "id": "i79ab11d0",
@@ -1181,8 +1296,8 @@
         "last_seen": "2026-11-13T19:36:42.168979+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 10,
-        "change": 0
+        "rank": 11,
+        "change": -1
       },
       {
         "id": "i359550d9",
@@ -1227,8 +1342,8 @@
         "last_seen": "2026-11-12T16:47:53.957964+09:00",
         "latest_source_count": 3,
         "latest_post_count": 3,
-        "rank": 11,
-        "change": 0
+        "rank": 12,
+        "change": -1
       },
       {
         "id": "i76d1d903",
@@ -1269,8 +1384,8 @@
         "last_seen": "2026-11-11T03:10:36.752978+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 12,
-        "change": 0
+        "rank": 13,
+        "change": -1
       },
       {
         "id": "i9f5e1ed4",
@@ -1309,8 +1424,8 @@
         "last_seen": "2026-11-13T07:19:32.098636+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 13,
-        "change": 0
+        "rank": 14,
+        "change": -1
       },
       {
         "id": "i01009091",
@@ -1357,8 +1472,8 @@
         "last_seen": "2026-11-13T19:36:42.168979+09:00",
         "latest_source_count": 3,
         "latest_post_count": 3,
-        "rank": 14,
-        "change": 0
+        "rank": 15,
+        "change": -1
       },
       {
         "id": "i2451c48b",
@@ -1398,8 +1513,8 @@
         "last_seen": "2026-11-14T07:55:50.243875+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 15,
-        "change": 0
+        "rank": 16,
+        "change": -1
       },
       {
         "id": "i5d6688ff",
@@ -1436,8 +1551,8 @@
         "last_seen": "2026-11-12T09:50:37.119264+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 16,
-        "change": 0
+        "rank": 17,
+        "change": -1
       },
       {
         "id": "i938836c2",
@@ -1475,8 +1590,8 @@
         "last_seen": "2026-11-10T11:47:42.579412+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 17,
-        "change": 0
+        "rank": 18,
+        "change": -1
       },
       {
         "id": "i97ba91d3",
@@ -1514,8 +1629,8 @@
         "last_seen": "2026-11-09T03:56:50.689149+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 18,
-        "change": 0
+        "rank": 19,
+        "change": -1
       },
       {
         "id": "i126a57df",
@@ -1552,48 +1667,8 @@
         "last_seen": "2026-11-09T07:42:43.515726+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 19,
-        "change": 0
-      },
-      {
-        "id": "ifd5a2cc3",
-        "title": "‘한국의’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "한국의"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 103.27,
-        "peak_score": 91.78,
-        "appearances": 2,
-        "sources": [
-          "더쿠",
-          "디시인사이드",
-          "루리웹",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 6,
-            "title": "사이비종교가 바꾼 한국의 문화.jpg",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=477751&_dcbest=1&page=1",
-            "score": 82.78
-          },
-          {
-            "source": "더쿠",
-            "rank": 100,
-            "title": "한국의 남이사 알빠 쓰레빠 감성을 죽어도 이해 못하는 일부 외국인들",
-            "url": "https://theqoo.net/hot/4402415239",
-            "score": 49.74
-          }
-        ],
-        "first_seen": "2026-09-30T17:58:06.192419+09:00",
-        "last_seen": "2026-11-11T11:57:56.217814+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 20,
-        "change": 0
+        "change": -1
       }
     ],
     "monthly": [
@@ -1737,9 +1812,9 @@
         ],
         "source_count": 4,
         "post_count": 5,
-        "score": 142.85,
+        "score": 143.52,
         "peak_score": 116.12,
-        "appearances": 6,
+        "appearances": 7,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -1750,22 +1825,22 @@
         ],
         "posts": [
           {
-            "source": "뽐뿌",
-            "rank": 67,
-            "title": "세무사 수석 위엄 체감.jpg",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10186099",
-            "score": 58.05
+            "source": "클리앙",
+            "rank": 33,
+            "title": "[단독] 세무사 수석 합격자 한원석씨",
+            "url": "https://www.clien.net/service/board/park/19292160?od=T31&po=0&category=0&groupCd=",
+            "score": 68.39
           },
           {
             "source": "디시인사이드",
-            "rank": 72,
-            "title": "세무사 논란 직장인 커뮤니티 반응 ㄷㄷ",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478441&_dcbest=1&page=1",
-            "score": 56.37
+            "rank": 38,
+            "title": "요즘 ai안경으로는 세무사 시험 못푼다는 개병신들 어디갔냐",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478550&_dcbest=1&page=1",
+            "score": 65.07
           }
         ],
         "first_seen": "2026-11-12T16:47:53.957964+09:00",
-        "last_seen": "2026-11-14T03:03:51.301997+09:00",
+        "last_seen": "2026-11-14T12:04:52.270738+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 4,
@@ -1907,6 +1982,52 @@
         "change": 0
       },
       {
+        "id": "i1faf5b45",
+        "title": "‘고경표’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "고경표"
+        ],
+        "source_count": 3,
+        "post_count": 6,
+        "score": 121.0,
+        "peak_score": 103.53,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "더쿠",
+            "rank": 6,
+            "title": "음주운전 고경표, 비상걸린 예능 방송들 모음",
+            "url": "https://theqoo.net/hot/4405427537",
+            "score": 84.53
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 18,
+            "title": "고경표 음주운전은 충격이네요 ㄷㄷ",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10186765",
+            "score": 72.5
+          },
+          {
+            "source": "인벤",
+            "rank": 24,
+            "title": "고경표 이 ㅅㅋ야 이거 어쩔라고 임마..",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2752410",
+            "score": 70.39
+          }
+        ],
+        "first_seen": "2026-11-14T12:04:52.270738+09:00",
+        "last_seen": "2026-11-14T12:04:52.270738+09:00",
+        "latest_source_count": 3,
+        "latest_post_count": 6,
+        "rank": 8,
+        "change": "NEW"
+      },
+      {
         "id": "i2e26d9ac",
         "title": "‘데이터센터’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -1943,8 +2064,8 @@
         "last_seen": "2026-11-08T03:15:20.371030+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 8,
-        "change": 0
+        "rank": 9,
+        "change": -1
       },
       {
         "id": "i0cdcc665",
@@ -1983,8 +2104,8 @@
         "last_seen": "2026-11-06T23:56:49.330549+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 9,
-        "change": 0
+        "rank": 10,
+        "change": -1
       },
       {
         "id": "i9ff6bf96",
@@ -2022,8 +2143,8 @@
         "last_seen": "2026-11-06T15:59:18.215188+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 10,
-        "change": 0
+        "rank": 11,
+        "change": -1
       },
       {
         "id": "i22297824",
@@ -2060,8 +2181,8 @@
         "last_seen": "2026-11-11T08:31:33.584065+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
-        "change": 0
+        "rank": 12,
+        "change": -1
       },
       {
         "id": "ife021da2",
@@ -2099,8 +2220,8 @@
         "last_seen": "2026-11-11T03:10:36.752978+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 12,
-        "change": 0
+        "rank": 13,
+        "change": -1
       },
       {
         "id": "i4e9b777d",
@@ -2137,8 +2258,8 @@
         "last_seen": "2026-11-13T11:42:07.310615+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 13,
-        "change": 0
+        "rank": 14,
+        "change": -1
       },
       {
         "id": "i573d2d0e",
@@ -2175,8 +2296,8 @@
         "last_seen": "2026-11-08T23:28:52.606559+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 14,
-        "change": 0
+        "rank": 15,
+        "change": -1
       },
       {
         "id": "i2bf88edf",
@@ -2222,8 +2343,8 @@
         "last_seen": "2026-11-12T16:47:53.957964+09:00",
         "latest_source_count": 3,
         "latest_post_count": 3,
-        "rank": 15,
-        "change": 0
+        "rank": 16,
+        "change": -1
       },
       {
         "id": "ia4c7959d",
@@ -2260,8 +2381,8 @@
         "last_seen": "2026-11-04T07:34:46.463759+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 16,
-        "change": 0
+        "rank": 17,
+        "change": -1
       },
       {
         "id": "i5d6688ff",
@@ -2298,8 +2419,8 @@
         "last_seen": "2026-11-12T09:50:37.119264+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 17,
-        "change": 0
+        "rank": 18,
+        "change": -1
       },
       {
         "id": "i56f3e6c5",
@@ -2336,8 +2457,8 @@
         "last_seen": "2026-11-04T18:57:48.394871+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 18,
-        "change": 0
+        "rank": 19,
+        "change": -1
       },
       {
         "id": "i01009091",
@@ -2384,46 +2505,8 @@
         "last_seen": "2026-11-13T19:36:42.168979+09:00",
         "latest_source_count": 3,
         "latest_post_count": 3,
-        "rank": 19,
-        "change": 0
-      },
-      {
-        "id": "idb63e02d",
-        "title": "‘있었는데’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "있었는데"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 112.31,
-        "peak_score": 102.84,
-        "appearances": 1,
-        "sources": [
-          "루리웹",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 3,
-            "title": "친구중에 아틀러스 광팬 있었는데 ㅋㅋㅋㅋ",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77345853?m=humor",
-            "score": 93.84
-          },
-          {
-            "source": "인벤",
-            "rank": 41,
-            "title": "한민수 “신천지 증거 없다” 말하자 서미화 “있었는데”",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2751197",
-            "score": 63.63
-          }
-        ],
-        "first_seen": "2026-11-11T11:57:56.217814+09:00",
-        "last_seen": "2026-11-11T11:57:56.217814+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 20,
-        "change": 0
+        "change": -1
       }
     ]
   }
