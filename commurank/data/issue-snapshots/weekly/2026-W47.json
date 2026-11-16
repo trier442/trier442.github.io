@@ -3,9 +3,48 @@
   "period": "weekly",
   "key": "2026-W47",
   "label": "2026.11.16 ~ 11.22",
-  "collected_at": "2026-11-16T16:01:47.665311+09:00",
+  "collected_at": "2026-11-17T01:04:27.459416+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
+    {
+      "id": "id99cf9ee",
+      "title": "‘교육부’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "교육부"
+      ],
+      "source_count": 3,
+      "post_count": 4,
+      "score": 113.97,
+      "peak_score": 95.04,
+      "appearances": 3,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 8,
+          "title": "아직도 사태파악 못한 교육부 장관.jpg",
+          "url": "https://theqoo.net/hot/4408612577",
+          "score": 77.0
+        },
+        {
+          "source": "인벤",
+          "rank": 26,
+          "title": "교육부 장관 이라는 인간이 ... 판 돌아가는 것 도 모르고",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2753252",
+          "score": 68.07
+        }
+      ],
+      "first_seen": "2026-10-21T18:37:21.676761+09:00",
+      "last_seen": "2026-11-17T01:04:27.459416+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 1,
+      "change": 2
+    },
     {
       "id": "if4949e9f",
       "title": "‘만점자’ 관련 글이 여러 커뮤니티에서 화제",
@@ -50,8 +89,8 @@
       "last_seen": "2026-11-16T16:01:47.665311+09:00",
       "latest_source_count": 3,
       "latest_post_count": 5,
-      "rank": 1,
-      "change": 3
+      "rank": 2,
+      "change": -1
     },
     {
       "id": "i50c746bf",
@@ -88,45 +127,6 @@
       "last_seen": "2026-11-16T15:12:02.074648+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 2,
-      "change": -1
-    },
-    {
-      "id": "id99cf9ee",
-      "title": "‘교육부’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "교육부"
-      ],
-      "source_count": 3,
-      "post_count": 4,
-      "score": 112.53,
-      "peak_score": 95.04,
-      "appearances": 2,
-      "sources": [
-        "더쿠",
-        "디시인사이드",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 14,
-          "title": "방금자 정석준 교육부 라이브 후기",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=479128&_dcbest=1&page=1",
-          "score": 72.86
-        },
-        {
-          "source": "인벤",
-          "rank": 53,
-          "title": "내일모레 수능인데 횡설수설 하는 교육부 장관",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2753084",
-          "score": 61.18
-        }
-      ],
-      "first_seen": "2026-10-21T18:37:21.676761+09:00",
-      "last_seen": "2026-11-16T16:01:47.665311+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 4,
       "rank": 3,
       "change": -1
     },
@@ -166,7 +166,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 4,
-      "change": -1
+      "change": 0
     },
     {
       "id": "ib31b3615",
@@ -207,6 +207,52 @@
       "change": 0
     },
     {
+      "id": "i30b66e0d",
+      "title": "‘부정행위’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "부정행위"
+      ],
+      "source_count": 3,
+      "post_count": 3,
+      "score": 101.37,
+      "peak_score": 86.9,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 20,
+          "title": "이번 수능에 부정행위 하겠다 선언한 서울대생ㄷㄷㄷ",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77409552?m=humor_only&t=now",
+          "score": 69.9
+        },
+        {
+          "source": "인벤",
+          "rank": 34,
+          "title": "대륙의 AI 시험 부정행위 대처",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2753258",
+          "score": 65.69
+        },
+        {
+          "source": "클리앙",
+          "rank": 36,
+          "title": "수능 부정행위 방지 방안으로..",
+          "url": "https://www.clien.net/service/board/park/19293634?od=T31&po=0&category=0&groupCd=",
+          "score": 64.99
+        }
+      ],
+      "first_seen": "2026-11-15T09:58:29.308734+09:00",
+      "last_seen": "2026-11-17T01:04:27.459416+09:00",
+      "latest_source_count": 3,
+      "latest_post_count": 3,
+      "rank": 6,
+      "change": "NEW"
+    },
+    {
       "id": "i6380e9cb",
       "title": "실시간) 교육부장관, \"수능 연기 없어\" 못 박아",
       "keywords": [
@@ -242,8 +288,8 @@
       "last_seen": "2026-11-16T15:12:02.074648+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
-      "change": 0
+      "rank": 7,
+      "change": -1
     },
     {
       "id": "i4d1d7a40",
@@ -280,8 +326,8 @@
       "last_seen": "2026-11-16T05:19:20.784776+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": 0
+      "rank": 8,
+      "change": -1
     },
     {
       "id": "ie853282a",
@@ -326,8 +372,8 @@
       "last_seen": "2026-11-16T16:01:47.665311+09:00",
       "latest_source_count": 3,
       "latest_post_count": 3,
-      "rank": 8,
-      "change": "NEW"
+      "rank": 9,
+      "change": -1
     },
     {
       "id": "i4424f79f",
@@ -365,7 +411,7 @@
       "last_seen": "2026-11-16T16:01:47.665311+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 9,
+      "rank": 10,
       "change": -1
     },
     {
@@ -403,7 +449,7 @@
       "last_seen": "2026-11-16T15:12:02.074648+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 10,
+      "rank": 11,
       "change": -1
     },
     {
@@ -441,8 +487,84 @@
       "last_seen": "2026-11-16T15:12:02.074648+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 11,
+      "rank": 12,
       "change": -1
+    },
+    {
+      "id": "i40486579",
+      "title": "‘수능에’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "수능에"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 88.37,
+      "peak_score": 78.9,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 20,
+          "title": "이번 수능에 부정행위 하겠다 선언한 서울대생ㄷㄷㄷ",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77409552?m=humor_only&t=now",
+          "score": 69.9
+        },
+        {
+          "source": "클리앙",
+          "rank": 24,
+          "title": "2026년 수능에 금속탐지기 도입하려 했었네요",
+          "url": "https://www.clien.net/service/board/park/19293627?od=T31&po=0&category=0&groupCd=",
+          "score": 68.53
+        }
+      ],
+      "first_seen": "2026-11-17T01:04:27.459416+09:00",
+      "last_seen": "2026-11-17T01:04:27.459416+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 13,
+      "change": "NEW"
+    },
+    {
+      "id": "i5f469d21",
+      "title": "‘공무원’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "공무원"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 86.68,
+      "peak_score": 76.21,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 32,
+          "title": "청주 석판리 산사태 사망사고…안전관리 소홀 공무원 3명 실형",
+          "url": "https://theqoo.net/hot/4408533031",
+          "score": 66.21
+        },
+        {
+          "source": "인벤",
+          "rank": 44,
+          "title": "ai 안경이라도 써서 제발 와달라고 하는 공무원 직렬",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2753244",
+          "score": 62.82
+        }
+      ],
+      "first_seen": "2026-11-17T01:04:27.459416+09:00",
+      "last_seen": "2026-11-17T01:04:27.459416+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 3,
+      "rank": 14,
+      "change": "NEW"
     },
     {
       "id": "ie8b793b3",
@@ -479,8 +601,49 @@
       "last_seen": "2026-11-16T09:02:13.348566+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 12,
-      "change": -1
+      "rank": 15,
+      "change": -3
+    },
+    {
+      "id": "ic9cc1c11",
+      "title": "ai 안경이라도 써서 제발 와달라고 하는 공무원 직렬",
+      "keywords": [
+        "공무원",
+        "와달라고",
+        "제발",
+        "직렬"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 80.29,
+      "peak_score": 70.82,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 44,
+          "title": "ai 안경이라도 써서 제발 와달라고 하는 공무원 직렬",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2753244",
+          "score": 62.82
+        },
+        {
+          "source": "더쿠",
+          "rank": 72,
+          "title": "AI안경을 써서라도 제발 와달라고 하는 공무원 직렬",
+          "url": "https://theqoo.net/hot/4408507336",
+          "score": 56.58
+        }
+      ],
+      "first_seen": "2026-11-17T01:04:27.459416+09:00",
+      "last_seen": "2026-11-17T01:04:27.459416+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 16,
+      "change": "NEW"
     },
     {
       "id": "i039fd79c",
@@ -518,8 +681,8 @@
       "last_seen": "2026-11-16T16:01:47.665311+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 13,
-      "change": 1
+      "rank": 17,
+      "change": -4
     },
     {
       "id": "i89c5681f",
@@ -556,8 +719,8 @@
       "last_seen": "2026-11-16T09:02:13.348566+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 14,
-      "change": -2
+      "rank": 18,
+      "change": -4
     },
     {
       "id": "i24ae49e9",
@@ -594,85 +757,46 @@
       "last_seen": "2026-11-16T05:19:20.784776+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 15,
-      "change": -2
+      "rank": 19,
+      "change": -4
     },
     {
-      "id": "i1fcd34de",
-      "title": "‘세무사’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i7a63b56d",
+      "title": "‘태권도’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "세무사"
+        "태권도"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 76.05,
-      "peak_score": 66.58,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 80,
-          "title": "순진했던 6개월 전 세무사 갤러리",
-          "url": "https://theqoo.net/hot/4407512005",
-          "score": 57.58
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 83,
-          "title": "싱글벙글 역대급 천재 세무사 시험 수석 수기를 한번 분석해보자",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478948&_dcbest=1&page=1",
-          "score": 57.12
-        }
-      ],
-      "first_seen": "2026-11-12T16:47:53.957964+09:00",
-      "last_seen": "2026-11-16T05:19:20.784776+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 16,
-      "change": -1
-    },
-    {
-      "id": "i0cdcc665",
-      "title": "오늘도 혁신적인 아이폰 듀오 근황.jpg",
-      "keywords": [
-        "듀오",
-        "아이폰"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 71.95,
-      "peak_score": 62.48,
+      "score": 77.5,
+      "peak_score": 68.03,
       "appearances": 1,
       "sources": [
         "루리웹",
-        "클리앙"
+        "인벤"
       ],
       "posts": [
         {
-          "source": "루리웹",
-          "rank": 93,
-          "title": "오늘도 혁신적인 아이폰 듀오 근황.jpg",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77404599?m=humor_only&t=now",
-          "score": 54.48
+          "source": "인벤",
+          "rank": 63,
+          "title": "태권도 발차기.",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2753268",
+          "score": 59.03
         },
         {
-          "source": "클리앙",
-          "rank": 97,
-          "title": "폴드8 vs 아이폰 듀오 vs 아이패드 미니8",
-          "url": "https://www.clien.net/service/board/park/19292876?od=T31&po=0&category=0&groupCd=",
-          "score": 53.35
+          "source": "루리웹",
+          "rank": 96,
+          "title": "가르친 적 없는 신기술을 배워온 태권도 제자",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77409543?m=humor_only&t=now",
+          "score": 52.82
         }
       ],
-      "first_seen": "2026-10-17T02:58:12.116264+09:00",
-      "last_seen": "2026-11-16T05:19:20.784776+09:00",
+      "first_seen": "2026-11-17T01:04:27.459416+09:00",
+      "last_seen": "2026-11-17T01:04:27.459416+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 17,
-      "change": -1
+      "rank": 20,
+      "change": "NEW"
     }
   ]
 }
