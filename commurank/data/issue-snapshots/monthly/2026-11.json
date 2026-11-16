@@ -3,7 +3,7 @@
   "period": "monthly",
   "key": "2026-11",
   "label": "2026년 11월",
-  "collected_at": "2026-11-16T09:02:13.348566+09:00",
+  "collected_at": "2026-11-16T15:12:02.074648+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -632,7 +632,47 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 14,
-      "change": "NEW"
+      "change": 0
+    },
+    {
+      "id": "ib31b3615",
+      "title": "‘세무냥이’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "세무냥이"
+      ],
+      "source_count": 3,
+      "post_count": 3,
+      "score": 117.33,
+      "peak_score": 100.84,
+      "appearances": 2,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "루리웹",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 6,
+          "title": "세무냥이 AI사태로 또 여자만 유리하다고 한탄하는 한국남자들",
+          "url": "https://theqoo.net/hot/4408031397",
+          "score": 80.84
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 15,
+          "title": "싱글벙글 세무냥이 다음 타겟으로 지목된 LEET 만점자",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=479116&_dcbest=1&page=1",
+          "score": 76.58
+        }
+      ],
+      "first_seen": "2026-11-15T09:58:29.308734+09:00",
+      "last_seen": "2026-11-16T15:12:02.074648+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 3,
+      "rank": 15,
+      "change": 1
     },
     {
       "id": "i22297824",
@@ -669,52 +709,6 @@
       "last_seen": "2026-11-11T08:31:33.584065+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 15,
-      "change": -1
-    },
-    {
-      "id": "ib31b3615",
-      "title": "‘세무냥이’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "세무냥이"
-      ],
-      "source_count": 3,
-      "post_count": 3,
-      "score": 115.31,
-      "peak_score": 100.84,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "루리웹",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 4,
-          "title": "세무냥이 Ai 부정행위 자수 (세무사 시험 수석 합격자)",
-          "url": "https://theqoo.net/hot/4406486231",
-          "score": 83.84
-        },
-        {
-          "source": "클리앙",
-          "rank": 13,
-          "title": "세무냥이 수법 이거랑 똑같네요",
-          "url": "https://www.clien.net/service/board/park/19292498?od=T31&po=0&category=0&groupCd=",
-          "score": 74.09
-        },
-        {
-          "source": "루리웹",
-          "rank": 85,
-          "title": "세무냥이 의외의 사실",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77393659?m=humor_only&t=now",
-          "score": 52.88
-        }
-      ],
-      "first_seen": "2026-11-15T09:58:29.308734+09:00",
-      "last_seen": "2026-11-15T09:58:29.308734+09:00",
-      "latest_source_count": 3,
-      "latest_post_count": 3,
       "rank": 16,
       "change": -1
     },
@@ -754,7 +748,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 17,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i573d2d0e",
@@ -792,7 +786,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 18,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i2bf88edf",
@@ -839,7 +833,7 @@
       "latest_source_count": 3,
       "latest_post_count": 3,
       "rank": 19,
-      "change": -1
+      "change": 0
     },
     {
       "id": "ia4c7959d",
@@ -877,7 +871,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 20,
-      "change": -1
+      "change": 0
     }
   ]
 }
