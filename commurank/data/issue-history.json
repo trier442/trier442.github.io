@@ -1,6 +1,507 @@
 {
   "version": 1,
   "issues": {
+    "if4949e9f": {
+      "id": "if4949e9f",
+      "first_seen": "2026-11-15T09:58:29.308734+09:00",
+      "last_seen": "2026-11-16T09:02:13.348566+09:00",
+      "title": "‘만점자’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "만점자"
+      ],
+      "points": [
+        {
+          "at": "2026-11-15T09:58:29.308734+09:00",
+          "source_count": 2,
+          "post_count": 3,
+          "score": 87.9,
+          "sources": [
+            "디시인사이드",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=478757&_dcbest=1&page=1",
+            "https://www.clien.net/service/board/park/19292483?od=T31&po=0&category=0&groupCd="
+          ]
+        },
+        {
+          "at": "2026-11-16T05:19:20.784776+09:00",
+          "source_count": 2,
+          "post_count": 3,
+          "score": 86.04,
+          "sources": [
+            "더쿠",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://www.clien.net/service/board/park/19292885?od=T31&po=0&category=0&groupCd=",
+            "https://theqoo.net/hot/4407635605",
+            "https://theqoo.net/hot/4407592452"
+          ]
+        },
+        {
+          "at": "2026-11-16T09:02:13.348566+09:00",
+          "source_count": 2,
+          "post_count": 6,
+          "score": 91.37,
+          "sources": [
+            "더쿠",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://theqoo.net/hot/4407635605",
+            "https://www.clien.net/service/board/park/19292929?od=T31&po=0&category=0&groupCd="
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 6,
+          "title": "이미 수능 뚫린지 오래임.. 만점자 4배, 1개틀림 10배 상승",
+          "url": "https://theqoo.net/hot/4407635605",
+          "score": 79.37
+        },
+        {
+          "source": "클리앙",
+          "rank": 35,
+          "title": "올해 Leet 만점자",
+          "url": "https://www.clien.net/service/board/park/19292929?od=T31&po=0&category=0&groupCd=",
+          "score": 64.1
+        }
+      ]
+    },
+    "i5d6688ff": {
+      "id": "i5d6688ff",
+      "first_seen": "2026-09-28T07:08:45.324597+09:00",
+      "last_seen": "2026-11-16T09:02:13.348566+09:00",
+      "title": "‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "네이버페이"
+      ],
+      "points": [
+        {
+          "at": "2026-09-28T07:08:45.324597+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 82.57,
+          "sources": [
+            "루리웹",
+            "뽐뿌"
+          ],
+          "post_urls": [
+            "https://bbs.ruliweb.com/market/board/1020/read/107567",
+            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10133072"
+          ]
+        },
+        {
+          "at": "2026-10-06T06:36:15.476715+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 98.4,
+          "sources": [
+            "루리웹",
+            "뽐뿌"
+          ],
+          "post_urls": [
+            "https://bbs.ruliweb.com/market/board/1020/read/107785",
+            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10143171"
+          ]
+        },
+        {
+          "at": "2026-10-07T05:37:53.772123+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 99.92,
+          "sources": [
+            "루리웹",
+            "뽐뿌"
+          ],
+          "post_urls": [
+            "https://bbs.ruliweb.com/market/board/1020/read/107820",
+            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10144458"
+          ]
+        },
+        {
+          "at": "2026-10-15T08:52:43.582251+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 100.07,
+          "sources": [
+            "루리웹",
+            "뽐뿌"
+          ],
+          "post_urls": [
+            "https://bbs.ruliweb.com/market/board/1020/read/108048",
+            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10152328"
+          ]
+        },
+        {
+          "at": "2026-10-19T06:51:26.937377+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 100.41,
+          "sources": [
+            "루리웹",
+            "뽐뿌"
+          ],
+          "post_urls": [
+            "https://bbs.ruliweb.com/market/board/1020/read/108133",
+            "https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=119767"
+          ]
+        },
+        {
+          "at": "2026-10-20T16:31:55.059688+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 78.19,
+          "sources": [
+            "루리웹",
+            "뽐뿌"
+          ],
+          "post_urls": [
+            "https://bbs.ruliweb.com/market/board/1020/read/108168",
+            "https://www.ppomppu.co.kr/zboard/view.php?id=money&no=548874"
+          ]
+        },
+        {
+          "at": "2026-10-21T06:32:12.656813+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 98.91,
+          "sources": [
+            "루리웹",
+            "뽐뿌"
+          ],
+          "post_urls": [
+            "https://bbs.ruliweb.com/market/board/1020/read/108196",
+            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10159107"
+          ]
+        },
+        {
+          "at": "2026-10-26T09:40:04.280210+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 101.32,
+          "sources": [
+            "루리웹",
+            "뽐뿌"
+          ],
+          "post_urls": [
+            "https://bbs.ruliweb.com/market/board/1020/read/108334",
+            "https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=120002"
+          ]
+        },
+        {
+          "at": "2026-10-27T06:51:21.487617+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 68.19,
+          "sources": [
+            "루리웹",
+            "뽐뿌"
+          ],
+          "post_urls": [
+            "https://bbs.ruliweb.com/market/board/1020/read/108382",
+            "https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=120039"
+          ]
+        },
+        {
+          "at": "2026-10-28T10:38:27.702461+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 78.62,
+          "sources": [
+            "루리웹",
+            "뽐뿌"
+          ],
+          "post_urls": [
+            "https://bbs.ruliweb.com/market/board/1020/read/108420",
+            "https://www.ppomppu.co.kr/zboard/view.php?id=money&no=549043"
+          ]
+        },
+        {
+          "at": "2026-11-01T04:16:27.039598+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 86.58,
+          "sources": [
+            "루리웹",
+            "뽐뿌"
+          ],
+          "post_urls": [
+            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10172350",
+            "https://bbs.ruliweb.com/market/board/1020/read/108534"
+          ]
+        },
+        {
+          "at": "2026-11-01T23:59:50.576263+09:00",
+          "source_count": 2,
+          "post_count": 4,
+          "score": 94.41,
+          "sources": [
+            "루리웹",
+            "뽐뿌"
+          ],
+          "post_urls": [
+            "https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=120236",
+            "https://bbs.ruliweb.com/market/board/1020/read/108575"
+          ]
+        },
+        {
+          "at": "2026-11-02T11:22:26.246686+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 75.74,
+          "sources": [
+            "루리웹",
+            "뽐뿌"
+          ],
+          "post_urls": [
+            "https://bbs.ruliweb.com/market/board/1020/read/108590",
+            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10173227"
+          ]
+        },
+        {
+          "at": "2026-11-03T05:16:01.731609+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 84.03,
+          "sources": [
+            "루리웹",
+            "뽐뿌"
+          ],
+          "post_urls": [
+            "https://bbs.ruliweb.com/market/board/1020/read/108577",
+            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10174179"
+          ]
+        },
+        {
+          "at": "2026-11-06T23:56:49.330549+09:00",
+          "source_count": 2,
+          "post_count": 3,
+          "score": 93.78,
+          "sources": [
+            "루리웹",
+            "뽐뿌"
+          ],
+          "post_urls": [
+            "https://bbs.ruliweb.com/market/board/1020/read/108786",
+            "https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=120418"
+          ]
+        },
+        {
+          "at": "2026-11-12T03:08:18.014809+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 80.9,
+          "sources": [
+            "루리웹",
+            "뽐뿌"
+          ],
+          "post_urls": [
+            "https://bbs.ruliweb.com/market/board/1020/read/108946",
+            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10184090"
+          ]
+        },
+        {
+          "at": "2026-11-12T09:50:37.119264+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 92.99,
+          "sources": [
+            "루리웹",
+            "뽐뿌"
+          ],
+          "post_urls": [
+            "https://bbs.ruliweb.com/market/board/1020/read/108950",
+            "https://www.ppomppu.co.kr/zboard/view.php?id=money&no=549606"
+          ]
+        },
+        {
+          "at": "2026-11-16T09:02:13.348566+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 99.24,
+          "sources": [
+            "루리웹",
+            "뽐뿌"
+          ],
+          "post_urls": [
+            "https://bbs.ruliweb.com/market/board/1020/read/109056",
+            "https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=120795"
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 4,
+          "title": "[네이버페이] 일일적립, 클릭 225원, 라이브예고 21원",
+          "url": "https://bbs.ruliweb.com/market/board/1020/read/109056",
+          "score": 90.24
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 18,
+          "title": "[네이버페이] DB손해보험, BMW 25원 받으세요",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=120795",
+          "score": 69.3
+        }
+      ]
+    },
+    "ie8b793b3": {
+      "id": "ie8b793b3",
+      "first_seen": "2026-11-01T17:02:11.943256+09:00",
+      "last_seen": "2026-11-16T09:02:13.348566+09:00",
+      "title": "‘같습니다’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "같습니다"
+      ],
+      "points": [
+        {
+          "at": "2026-11-01T17:02:11.943256+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 79.21,
+          "sources": [
+            "뽐뿌",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://www.clien.net/service/board/park/19285785?od=T31&po=0&category=0&groupCd=",
+            "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=448837"
+          ]
+        },
+        {
+          "at": "2026-11-01T17:03:55.445317+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 78.99,
+          "sources": [
+            "뽐뿌",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://www.clien.net/service/board/park/19285785?od=T31&po=0&category=0&groupCd=",
+            "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=448837"
+          ]
+        },
+        {
+          "at": "2026-11-16T09:02:13.348566+09:00",
+          "source_count": 2,
+          "post_count": 3,
+          "score": 71.72,
+          "sources": [
+            "디시인사이드",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://www.clien.net/service/board/park/19292934?od=T31&po=0&category=0&groupCd=",
+            "https://gall.dcinside.com/board/view/?id=dcbest&no=478996&_dcbest=1&page=1"
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 43,
+          "title": "의대 치대 약대 서울대 입학 후에 오르비 활동하는 사람들 보면 관종 같습니다.",
+          "url": "https://www.clien.net/service/board/park/19292934?od=T31&po=0&category=0&groupCd=",
+          "score": 61.72
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 84,
+          "title": "80만원 주고 샀는데 짝퉁걸린거 같습니다.kin",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478996&_dcbest=1&page=1",
+          "score": 55.31
+        }
+      ]
+    },
+    "i89c5681f": {
+      "id": "i89c5681f",
+      "first_seen": "2026-10-13T08:48:40.085192+09:00",
+      "last_seen": "2026-11-16T09:02:13.348566+09:00",
+      "title": "‘테슬라’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "테슬라"
+      ],
+      "points": [
+        {
+          "at": "2026-10-13T08:48:40.085192+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 71.63,
+          "sources": [
+            "루리웹",
+            "뽐뿌"
+          ],
+          "post_urls": [
+            "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=979377",
+            "https://bbs.ruliweb.com/best/board/300143/read/77006004?m=humor_only&t=now"
+          ]
+        },
+        {
+          "at": "2026-10-17T08:29:07.258754+09:00",
+          "source_count": 2,
+          "post_count": 3,
+          "score": 106.39,
+          "sources": [
+            "루리웹",
+            "뽐뿌"
+          ],
+          "post_urls": [
+            "https://bbs.ruliweb.com/best/board/300143/read/77053458?m=humor",
+            "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=23467"
+          ]
+        },
+        {
+          "at": "2026-10-17T10:29:38.397115+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 99.71,
+          "sources": [
+            "루리웹",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://bbs.ruliweb.com/best/board/300143/read/77054263?m=humor",
+            "https://www.clien.net/service/board/park/19278816?od=T31&po=0&category=0&groupCd="
+          ]
+        },
+        {
+          "at": "2026-11-16T09:02:13.348566+09:00",
+          "source_count": 2,
+          "post_count": 2,
+          "score": 68.52,
+          "sources": [
+            "루리웹",
+            "클리앙"
+          ],
+          "post_urls": [
+            "https://bbs.ruliweb.com/best/board/300143/read/77405378?m=humor_only&t=now",
+            "https://www.clien.net/service/board/park/19292920?od=T31&po=0&category=0&groupCd="
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 63,
+          "title": "테슬라 사이버캡 행사 방문객",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77405378?m=humor_only&t=now",
+          "score": 59.52
+        },
+        {
+          "source": "클리앙",
+          "rank": 88,
+          "title": "충돌 직전 옆으로 비켜선 테슬라 차량, 'FSD 자율주행이 살렸다'",
+          "url": "https://www.clien.net/service/board/park/19292920?od=T31&po=0&category=0&groupCd=",
+          "score": 54.63
+        }
+      ]
+    },
     "i039fd79c": {
       "id": "i039fd79c",
       "first_seen": "2026-09-27T13:38:37.715424+09:00",
@@ -1146,70 +1647,6 @@
           "title": "싱글벙글 역대급 천재 세무사 시험 수석 수기를 한번 분석해보자",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478948&_dcbest=1&page=1",
           "score": 57.12
-        }
-      ]
-    },
-    "if4949e9f": {
-      "id": "if4949e9f",
-      "first_seen": "2026-11-15T09:58:29.308734+09:00",
-      "last_seen": "2026-11-16T05:19:20.784776+09:00",
-      "title": "리트 만점자 글 다 내렸다네요",
-      "keywords": [
-        "만점자",
-        "리트"
-      ],
-      "points": [
-        {
-          "at": "2026-11-15T09:58:29.308734+09:00",
-          "source_count": 2,
-          "post_count": 3,
-          "score": 87.9,
-          "sources": [
-            "디시인사이드",
-            "클리앙"
-          ],
-          "post_urls": [
-            "https://gall.dcinside.com/board/view/?id=dcbest&no=478757&_dcbest=1&page=1",
-            "https://www.clien.net/service/board/park/19292483?od=T31&po=0&category=0&groupCd="
-          ]
-        },
-        {
-          "at": "2026-11-16T05:19:20.784776+09:00",
-          "source_count": 2,
-          "post_count": 3,
-          "score": 86.04,
-          "sources": [
-            "더쿠",
-            "클리앙"
-          ],
-          "post_urls": [
-            "https://www.clien.net/service/board/park/19292885?od=T31&po=0&category=0&groupCd=",
-            "https://theqoo.net/hot/4407635605",
-            "https://theqoo.net/hot/4407592452"
-          ]
-        }
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 9,
-          "title": "리트 만점자 글 다 내렸다네요",
-          "url": "https://www.clien.net/service/board/park/19292885?od=T31&po=0&category=0&groupCd=",
-          "score": 75.04
-        },
-        {
-          "source": "더쿠",
-          "rank": 10,
-          "title": "이미 수능 뚫린지 오래임.. 만점자 4배, 1개틀림 10배 상승",
-          "url": "https://theqoo.net/hot/4407635605",
-          "score": 74.84
-        },
-        {
-          "source": "더쿠",
-          "rank": 32,
-          "title": "리트 만점자 디시 글 다 내림",
-          "url": "https://theqoo.net/hot/4407592452",
-          "score": 66.21
         }
       ]
     },
@@ -8868,271 +9305,6 @@
           "title": "자꾸 남자친구에게 마스크 벗으라고 강요하는 여자친구",
           "url": "https://www.inven.co.kr/board/webzine/2097/2751733",
           "score": 57.45
-        }
-      ]
-    },
-    "i5d6688ff": {
-      "id": "i5d6688ff",
-      "first_seen": "2026-09-28T07:08:45.324597+09:00",
-      "last_seen": "2026-11-12T09:50:37.119264+09:00",
-      "title": "‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "네이버페이"
-      ],
-      "points": [
-        {
-          "at": "2026-09-28T07:08:45.324597+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 82.57,
-          "sources": [
-            "루리웹",
-            "뽐뿌"
-          ],
-          "post_urls": [
-            "https://bbs.ruliweb.com/market/board/1020/read/107567",
-            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10133072"
-          ]
-        },
-        {
-          "at": "2026-10-06T06:36:15.476715+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 98.4,
-          "sources": [
-            "루리웹",
-            "뽐뿌"
-          ],
-          "post_urls": [
-            "https://bbs.ruliweb.com/market/board/1020/read/107785",
-            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10143171"
-          ]
-        },
-        {
-          "at": "2026-10-07T05:37:53.772123+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 99.92,
-          "sources": [
-            "루리웹",
-            "뽐뿌"
-          ],
-          "post_urls": [
-            "https://bbs.ruliweb.com/market/board/1020/read/107820",
-            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10144458"
-          ]
-        },
-        {
-          "at": "2026-10-15T08:52:43.582251+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 100.07,
-          "sources": [
-            "루리웹",
-            "뽐뿌"
-          ],
-          "post_urls": [
-            "https://bbs.ruliweb.com/market/board/1020/read/108048",
-            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10152328"
-          ]
-        },
-        {
-          "at": "2026-10-19T06:51:26.937377+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 100.41,
-          "sources": [
-            "루리웹",
-            "뽐뿌"
-          ],
-          "post_urls": [
-            "https://bbs.ruliweb.com/market/board/1020/read/108133",
-            "https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=119767"
-          ]
-        },
-        {
-          "at": "2026-10-20T16:31:55.059688+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 78.19,
-          "sources": [
-            "루리웹",
-            "뽐뿌"
-          ],
-          "post_urls": [
-            "https://bbs.ruliweb.com/market/board/1020/read/108168",
-            "https://www.ppomppu.co.kr/zboard/view.php?id=money&no=548874"
-          ]
-        },
-        {
-          "at": "2026-10-21T06:32:12.656813+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 98.91,
-          "sources": [
-            "루리웹",
-            "뽐뿌"
-          ],
-          "post_urls": [
-            "https://bbs.ruliweb.com/market/board/1020/read/108196",
-            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10159107"
-          ]
-        },
-        {
-          "at": "2026-10-26T09:40:04.280210+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 101.32,
-          "sources": [
-            "루리웹",
-            "뽐뿌"
-          ],
-          "post_urls": [
-            "https://bbs.ruliweb.com/market/board/1020/read/108334",
-            "https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=120002"
-          ]
-        },
-        {
-          "at": "2026-10-27T06:51:21.487617+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 68.19,
-          "sources": [
-            "루리웹",
-            "뽐뿌"
-          ],
-          "post_urls": [
-            "https://bbs.ruliweb.com/market/board/1020/read/108382",
-            "https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=120039"
-          ]
-        },
-        {
-          "at": "2026-10-28T10:38:27.702461+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 78.62,
-          "sources": [
-            "루리웹",
-            "뽐뿌"
-          ],
-          "post_urls": [
-            "https://bbs.ruliweb.com/market/board/1020/read/108420",
-            "https://www.ppomppu.co.kr/zboard/view.php?id=money&no=549043"
-          ]
-        },
-        {
-          "at": "2026-11-01T04:16:27.039598+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 86.58,
-          "sources": [
-            "루리웹",
-            "뽐뿌"
-          ],
-          "post_urls": [
-            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10172350",
-            "https://bbs.ruliweb.com/market/board/1020/read/108534"
-          ]
-        },
-        {
-          "at": "2026-11-01T23:59:50.576263+09:00",
-          "source_count": 2,
-          "post_count": 4,
-          "score": 94.41,
-          "sources": [
-            "루리웹",
-            "뽐뿌"
-          ],
-          "post_urls": [
-            "https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=120236",
-            "https://bbs.ruliweb.com/market/board/1020/read/108575"
-          ]
-        },
-        {
-          "at": "2026-11-02T11:22:26.246686+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 75.74,
-          "sources": [
-            "루리웹",
-            "뽐뿌"
-          ],
-          "post_urls": [
-            "https://bbs.ruliweb.com/market/board/1020/read/108590",
-            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10173227"
-          ]
-        },
-        {
-          "at": "2026-11-03T05:16:01.731609+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 84.03,
-          "sources": [
-            "루리웹",
-            "뽐뿌"
-          ],
-          "post_urls": [
-            "https://bbs.ruliweb.com/market/board/1020/read/108577",
-            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10174179"
-          ]
-        },
-        {
-          "at": "2026-11-06T23:56:49.330549+09:00",
-          "source_count": 2,
-          "post_count": 3,
-          "score": 93.78,
-          "sources": [
-            "루리웹",
-            "뽐뿌"
-          ],
-          "post_urls": [
-            "https://bbs.ruliweb.com/market/board/1020/read/108786",
-            "https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=120418"
-          ]
-        },
-        {
-          "at": "2026-11-12T03:08:18.014809+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 80.9,
-          "sources": [
-            "루리웹",
-            "뽐뿌"
-          ],
-          "post_urls": [
-            "https://bbs.ruliweb.com/market/board/1020/read/108946",
-            "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10184090"
-          ]
-        },
-        {
-          "at": "2026-11-12T09:50:37.119264+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 92.99,
-          "sources": [
-            "루리웹",
-            "뽐뿌"
-          ],
-          "post_urls": [
-            "https://bbs.ruliweb.com/market/board/1020/read/108950",
-            "https://www.ppomppu.co.kr/zboard/view.php?id=money&no=549606"
-          ]
-        }
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 5,
-          "title": "[네이버페이] 20원",
-          "url": "https://bbs.ruliweb.com/market/board/1020/read/108950",
-          "score": 83.99
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 83,
-          "title": "11/12일자 네이버페이 79원 + 랜덤포인트 모음",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=money&no=549606",
-          "score": 55.21
         }
       ]
     },
@@ -19852,61 +20024,6 @@
           "title": "[란123] 네이버페이 134원 + 랜덤 포인트 받으세요 (+기타 657원)",
           "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10172350",
           "score": 69.41
-        }
-      ]
-    },
-    "ie8b793b3": {
-      "id": "ie8b793b3",
-      "first_seen": "2026-11-01T17:02:11.943256+09:00",
-      "last_seen": "2026-11-01T17:03:55.445317+09:00",
-      "title": "‘같습니다’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "같습니다"
-      ],
-      "points": [
-        {
-          "at": "2026-11-01T17:02:11.943256+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 79.21,
-          "sources": [
-            "뽐뿌",
-            "클리앙"
-          ],
-          "post_urls": [
-            "https://www.clien.net/service/board/park/19285785?od=T31&po=0&category=0&groupCd=",
-            "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=448837"
-          ]
-        },
-        {
-          "at": "2026-11-01T17:03:55.445317+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 78.99,
-          "sources": [
-            "뽐뿌",
-            "클리앙"
-          ],
-          "post_urls": [
-            "https://www.clien.net/service/board/park/19285785?od=T31&po=0&category=0&groupCd=",
-            "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=448837"
-          ]
-        }
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 15,
-          "title": "이제 슬슬 연임 이야기 꺼낼 때가 된 것 같습니다",
-          "url": "https://www.clien.net/service/board/park/19285785?od=T31&po=0&category=0&groupCd=",
-          "score": 69.99
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 35,
-          "title": "가짜반등에 모두가 속은거 같습니다.",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=448837",
-          "score": 64.03
         }
       ]
     },
@@ -35540,75 +35657,6 @@
         }
       ]
     },
-    "i89c5681f": {
-      "id": "i89c5681f",
-      "first_seen": "2026-10-13T08:48:40.085192+09:00",
-      "last_seen": "2026-10-17T10:29:38.397115+09:00",
-      "title": "‘테슬라’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "테슬라"
-      ],
-      "points": [
-        {
-          "at": "2026-10-13T08:48:40.085192+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 71.63,
-          "sources": [
-            "루리웹",
-            "뽐뿌"
-          ],
-          "post_urls": [
-            "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=979377",
-            "https://bbs.ruliweb.com/best/board/300143/read/77006004?m=humor_only&t=now"
-          ]
-        },
-        {
-          "at": "2026-10-17T08:29:07.258754+09:00",
-          "source_count": 2,
-          "post_count": 3,
-          "score": 106.39,
-          "sources": [
-            "루리웹",
-            "뽐뿌"
-          ],
-          "post_urls": [
-            "https://bbs.ruliweb.com/best/board/300143/read/77053458?m=humor",
-            "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=23467"
-          ]
-        },
-        {
-          "at": "2026-10-17T10:29:38.397115+09:00",
-          "source_count": 2,
-          "post_count": 2,
-          "score": 99.71,
-          "sources": [
-            "루리웹",
-            "클리앙"
-          ],
-          "post_urls": [
-            "https://bbs.ruliweb.com/best/board/300143/read/77054263?m=humor",
-            "https://www.clien.net/service/board/park/19278816?od=T31&po=0&category=0&groupCd="
-          ]
-        }
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 3,
-          "title": "테슬라 이게 진짜 중력가속도까지 운운해야 될걸로 보임?",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77054263?m=humor",
-          "score": 90.71
-        },
-        {
-          "source": "클리앙",
-          "rank": 46,
-          "title": "어제 테슬라 보니 로켓 자세제어 기술을 여기에 써먹은구나 싶었네요.",
-          "url": "https://www.clien.net/service/board/park/19278816?od=T31&po=0&category=0&groupCd=",
-          "score": 60.54
-        }
-      ]
-    },
     "i55b3a015": {
       "id": "i55b3a015",
       "first_seen": "2026-10-12T10:24:43.062897+09:00",
@@ -36841,5 +36889,5 @@
       ]
     }
   },
-  "updated_at": "2026-11-16T05:19:20.784776+09:00"
+  "updated_at": "2026-11-16T09:02:13.348566+09:00"
 }
