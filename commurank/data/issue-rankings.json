@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-11-17T01:04:27.459416+09:00",
+  "collected_at": "2026-11-17T01:59:39.928473+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -11,57 +11,58 @@
   "rankings": {
     "realtime": [
       {
-        "id": "i30b66e0d",
-        "title": "‘부정행위’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "ica8e375b",
+        "title": "방금 발표된 새 제임스 본드",
         "keywords": [
-          "부정행위"
+          "제임스",
+          "본드"
         ],
         "source_count": 3,
         "post_count": 3,
-        "score": 86.9,
-        "peak_score": 86.9,
+        "score": 94.53,
+        "peak_score": 94.53,
         "appearances": 1,
         "sources": [
-          "루리웹",
-          "인벤",
-          "클리앙"
+          "더쿠",
+          "뽐뿌",
+          "인벤"
         ],
         "posts": [
           {
-            "source": "루리웹",
-            "rank": 20,
-            "title": "이번 수능에 부정행위 하겠다 선언한 서울대생ㄷㄷㄷ",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77409552?m=humor_only&t=now",
-            "score": 69.9
+            "source": "더쿠",
+            "rank": 6,
+            "title": "방금 발표된 새 제임스 본드",
+            "url": "https://theqoo.net/hot/4408609338",
+            "score": 79.53
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 16,
+            "title": "BBC속보) 제임스 본드 발표 ㄷ..jpg",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10190486",
+            "score": 70.7
           },
           {
             "source": "인벤",
-            "rank": 34,
-            "title": "대륙의 AI 시험 부정행위 대처",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2753258",
-            "score": 65.69
-          },
-          {
-            "source": "클리앙",
-            "rank": 36,
-            "title": "수능 부정행위 방지 방안으로..",
-            "url": "https://www.clien.net/service/board/park/19293634?od=T31&po=0&category=0&groupCd=",
-            "score": 64.99
+            "rank": 51,
+            "title": "새로운 007 제임스 본드 공식 발표",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2753276",
+            "score": 60.12
           }
         ],
         "rank": 1,
         "change": "NEW"
       },
       {
-        "id": "i5f469d21",
-        "title": "‘공무원’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "ief70793c",
+        "title": "‘아이브’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "공무원"
+          "아이브"
         ],
         "source_count": 2,
         "post_count": 3,
-        "score": 76.21,
-        "peak_score": 76.21,
+        "score": 67.96,
+        "peak_score": 67.96,
         "appearances": 1,
         "sources": [
           "더쿠",
@@ -69,191 +70,189 @@
         ],
         "posts": [
           {
-            "source": "더쿠",
-            "rank": 32,
-            "title": "청주 석판리 산사태 사망사고…안전관리 소홀 공무원 3명 실형",
-            "url": "https://theqoo.net/hot/4408533031",
-            "score": 66.21
+            "source": "인벤",
+            "rank": 62,
+            "title": "아이브 이서",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2753283",
+            "score": 57.96
           },
           {
-            "source": "인벤",
-            "rank": 44,
-            "title": "ai 안경이라도 써서 제발 와달라고 하는 공무원 직렬",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2753244",
-            "score": 62.82
+            "source": "더쿠",
+            "rank": 93,
+            "title": "[속보] 아이브·키키, 그래미 신설 '아시안팝' 부문 후보 됐다",
+            "url": "https://theqoo.net/hot/4408530638",
+            "score": 52.89
           }
         ],
         "rank": 2,
         "change": "NEW"
       },
       {
-        "id": "id99cf9ee",
-        "title": "‘교육부’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "if4949e9f",
+        "title": "‘만점자’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "교육부"
+          "만점자"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 86.0,
-        "peak_score": 86.0,
+        "score": 91.01,
+        "peak_score": 91.01,
         "appearances": 1,
         "sources": [
-          "더쿠",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "더쿠",
-            "rank": 8,
-            "title": "아직도 사태파악 못한 교육부 장관.jpg",
-            "url": "https://theqoo.net/hot/4408612577",
-            "score": 77.0
-          },
-          {
-            "source": "인벤",
-            "rank": 26,
-            "title": "교육부 장관 이라는 인간이 ... 판 돌아가는 것 도 모르고",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2753252",
-            "score": 68.07
-          }
-        ],
-        "rank": 3,
-        "change": 0
-      },
-      {
-        "id": "i40486579",
-        "title": "‘수능에’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "수능에"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 78.9,
-        "peak_score": 78.9,
-        "appearances": 1,
-        "sources": [
-          "루리웹",
+          "뽐뿌",
           "클리앙"
         ],
         "posts": [
           {
-            "source": "루리웹",
-            "rank": 20,
-            "title": "이번 수능에 부정행위 하겠다 선언한 서울대생ㄷㄷㄷ",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77409552?m=humor_only&t=now",
-            "score": 69.9
+            "source": "뽐뿌",
+            "rank": 5,
+            "title": "현재) 난리난 리트 만점자 공개 검증 방식 ㄷ..jpg",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10190110",
+            "score": 82.01
           },
           {
             "source": "클리앙",
-            "rank": 24,
-            "title": "2026년 수능에 금속탐지기 도입하려 했었네요",
-            "url": "https://www.clien.net/service/board/park/19293627?od=T31&po=0&category=0&groupCd=",
-            "score": 68.53
+            "rank": 40,
+            "title": "리트 만점자 검증에 진심인 신경외과 전문의.jpg",
+            "url": "https://www.clien.net/service/board/park/19293653?od=T31&po=0&category=0&groupCd=",
+            "score": 61.76
+          }
+        ],
+        "rank": 3,
+        "change": "NEW"
+      },
+      {
+        "id": "i85fe1706",
+        "title": "‘새로운’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "새로운"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 78.58,
+        "peak_score": 78.58,
+        "appearances": 1,
+        "sources": [
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 17,
+            "title": "오피셜 새로운 007.jpg",
+            "url": "https://www.clien.net/service/board/park/19293648?od=T31&po=0&category=0&groupCd=",
+            "score": 69.58
+          },
+          {
+            "source": "인벤",
+            "rank": 51,
+            "title": "새로운 007 제임스 본드 공식 발표",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2753276",
+            "score": 60.12
           }
         ],
         "rank": 4,
         "change": "NEW"
       },
       {
-        "id": "ic9cc1c11",
-        "title": "ai 안경이라도 써서 제발 와달라고 하는 공무원 직렬",
+        "id": "i7d8a3e8a",
+        "title": "‘000원’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "공무원",
-          "와달라고",
-          "제발",
-          "직렬"
+          "000원"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 70.82,
-        "peak_score": 70.82,
+        "score": 74.48,
+        "peak_score": 74.48,
         "appearances": 1,
         "sources": [
-          "더쿠",
-          "인벤"
+          "루리웹",
+          "뽐뿌"
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 44,
-            "title": "ai 안경이라도 써서 제발 와달라고 하는 공무원 직렬",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2753244",
-            "score": 62.82
+            "source": "루리웹",
+            "rank": 26,
+            "title": "[롯데온] 포카칩 오리지널 6개 + 어니언 6개 (카드13,000원 / 무배)",
+            "url": "https://bbs.ruliweb.com/market/board/1020/read/109092",
+            "score": 65.48
           },
           {
-            "source": "더쿠",
-            "rank": 72,
-            "title": "AI안경을 써서라도 제발 와달라고 하는 공무원 직렬",
-            "url": "https://theqoo.net/hot/4408507336",
-            "score": 56.58
+            "source": "뽐뿌",
+            "rank": 78,
+            "title": "[더현대] 지오지아 26FW 세미와이드카라 드레스셔츠 (13,200원/3,000원)",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=749268",
+            "score": 54.16
           }
         ],
         "rank": 5,
         "change": "NEW"
       },
       {
-        "id": "i7a63b56d",
-        "title": "‘태권도’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i0b9deffd",
+        "title": "AI 안경이 필요한 곳",
         "keywords": [
-          "태권도"
+          "필요한",
+          "ai"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 68.03,
-        "peak_score": 68.03,
+        "score": 70.86,
+        "peak_score": 70.86,
         "appearances": 1,
         "sources": [
-          "루리웹",
-          "인벤"
+          "인벤",
+          "클리앙"
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 63,
-            "title": "태권도 발차기.",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2753268",
-            "score": 59.03
+            "source": "클리앙",
+            "rank": 35,
+            "title": "AI 안경이 필요한 곳",
+            "url": "https://www.clien.net/service/board/park/19293651?od=T31&po=0&category=0&groupCd=",
+            "score": 62.86
           },
           {
-            "source": "루리웹",
+            "source": "인벤",
             "rank": 96,
-            "title": "가르친 적 없는 신기술을 배워온 태권도 제자",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77409543?m=humor_only&t=now",
-            "score": 52.82
+            "title": "정작 AI 안경으로 컷닝이 필요한 곳",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2753263",
+            "score": 52.65
           }
         ],
         "rank": 6,
         "change": "NEW"
       },
       {
-        "id": "i27245075",
-        "title": "‘있다는’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i86108cb2",
+        "title": "‘이벤트’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "있다는"
+          "이벤트"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 63.39,
-        "peak_score": 63.39,
+        "score": 66.69,
+        "peak_score": 66.69,
         "appearances": 1,
         "sources": [
-          "더쿠",
-          "디시인사이드"
+          "루리웹",
+          "뽐뿌"
         ],
         "posts": [
           {
-            "source": "더쿠",
-            "rank": 86,
-            "title": "겹겹이찹쌀떡 파는 매장에 내용증명을 보내고 있다는 브랜드",
-            "url": "https://theqoo.net/hot/4408523310",
-            "score": 54.39
+            "source": "루리웹",
+            "rank": 64,
+            "title": "[속보] 한국인 급속 냉동 이벤트 개시",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77415674?m=humor_only&t=now",
+            "score": 57.69
           },
           {
-            "source": "디시인사이드",
-            "rank": 100,
-            "title": "14살 연하 여친과 결혼 생각 있다는 남캠",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=479293&_dcbest=1&page=1",
-            "score": 52.22
+            "source": "뽐뿌",
+            "rank": 79,
+            "title": "30초~2분 컷 공공기관 알짜 이벤트 2개 공유합니다",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=money&no=549724",
+            "score": 54.16
           }
         ],
         "rank": 7,
@@ -261,6 +260,53 @@
       }
     ],
     "daily": [
+      {
+        "id": "ica8e375b",
+        "title": "방금 발표된 새 제임스 본드",
+        "keywords": [
+          "제임스",
+          "본드"
+        ],
+        "source_count": 3,
+        "post_count": 3,
+        "score": 109.0,
+        "peak_score": 94.53,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "더쿠",
+            "rank": 6,
+            "title": "방금 발표된 새 제임스 본드",
+            "url": "https://theqoo.net/hot/4408609338",
+            "score": 79.53
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 16,
+            "title": "BBC속보) 제임스 본드 발표 ㄷ..jpg",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10190486",
+            "score": 70.7
+          },
+          {
+            "source": "인벤",
+            "rank": 51,
+            "title": "새로운 007 제임스 본드 공식 발표",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2753276",
+            "score": 60.12
+          }
+        ],
+        "first_seen": "2026-11-17T01:59:39.928473+09:00",
+        "last_seen": "2026-11-17T01:59:39.928473+09:00",
+        "latest_source_count": 3,
+        "latest_post_count": 3,
+        "rank": 1,
+        "change": "NEW"
+      },
       {
         "id": "i30b66e0d",
         "title": "‘부정행위’ 관련 글이 여러 커뮤니티에서 화제",
@@ -304,7 +350,45 @@
         "last_seen": "2026-11-17T01:04:27.459416+09:00",
         "latest_source_count": 3,
         "latest_post_count": 3,
-        "rank": 1,
+        "rank": 2,
+        "change": -1
+      },
+      {
+        "id": "if4949e9f",
+        "title": "‘만점자’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "만점자"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 100.48,
+        "peak_score": 91.01,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 5,
+            "title": "현재) 난리난 리트 만점자 공개 검증 방식 ㄷ..jpg",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10190110",
+            "score": 82.01
+          },
+          {
+            "source": "클리앙",
+            "rank": 40,
+            "title": "리트 만점자 검증에 진심인 신경외과 전문의.jpg",
+            "url": "https://www.clien.net/service/board/park/19293653?od=T31&po=0&category=0&groupCd=",
+            "score": 61.76
+          }
+        ],
+        "first_seen": "2026-11-15T09:58:29.308734+09:00",
+        "last_seen": "2026-11-17T01:59:39.928473+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 3,
         "change": "NEW"
       },
       {
@@ -342,8 +426,8 @@
         "last_seen": "2026-11-17T01:04:27.459416+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 2,
-        "change": 1
+        "rank": 4,
+        "change": -2
       },
       {
         "id": "i40486579",
@@ -380,7 +464,45 @@
         "last_seen": "2026-11-17T01:04:27.459416+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 3,
+        "rank": 5,
+        "change": -2
+      },
+      {
+        "id": "i85fe1706",
+        "title": "‘새로운’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "새로운"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 88.05,
+        "peak_score": 78.58,
+        "appearances": 1,
+        "sources": [
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 17,
+            "title": "오피셜 새로운 007.jpg",
+            "url": "https://www.clien.net/service/board/park/19293648?od=T31&po=0&category=0&groupCd=",
+            "score": 69.58
+          },
+          {
+            "source": "인벤",
+            "rank": 51,
+            "title": "새로운 007 제임스 본드 공식 발표",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2753276",
+            "score": 60.12
+          }
+        ],
+        "first_seen": "2026-11-17T01:59:39.928473+09:00",
+        "last_seen": "2026-11-17T01:59:39.928473+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 6,
         "change": "NEW"
       },
       {
@@ -418,7 +540,84 @@
         "last_seen": "2026-11-17T01:04:27.459416+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 4,
+        "rank": 7,
+        "change": -3
+      },
+      {
+        "id": "i7d8a3e8a",
+        "title": "‘000원’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "000원"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 83.95,
+        "peak_score": 74.48,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 26,
+            "title": "[롯데온] 포카칩 오리지널 6개 + 어니언 6개 (카드13,000원 / 무배)",
+            "url": "https://bbs.ruliweb.com/market/board/1020/read/109092",
+            "score": 65.48
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 78,
+            "title": "[더현대] 지오지아 26FW 세미와이드카라 드레스셔츠 (13,200원/3,000원)",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=749268",
+            "score": 54.16
+          }
+        ],
+        "first_seen": "2026-11-17T01:59:39.928473+09:00",
+        "last_seen": "2026-11-17T01:59:39.928473+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 8,
+        "change": "NEW"
+      },
+      {
+        "id": "i0b9deffd",
+        "title": "AI 안경이 필요한 곳",
+        "keywords": [
+          "필요한",
+          "ai"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 80.33,
+        "peak_score": 70.86,
+        "appearances": 1,
+        "sources": [
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 35,
+            "title": "AI 안경이 필요한 곳",
+            "url": "https://www.clien.net/service/board/park/19293651?od=T31&po=0&category=0&groupCd=",
+            "score": 62.86
+          },
+          {
+            "source": "인벤",
+            "rank": 96,
+            "title": "정작 AI 안경으로 컷닝이 필요한 곳",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2753263",
+            "score": 52.65
+          }
+        ],
+        "first_seen": "2026-11-17T01:59:39.928473+09:00",
+        "last_seen": "2026-11-17T01:59:39.928473+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 9,
         "change": "NEW"
       },
       {
@@ -459,7 +658,45 @@
         "last_seen": "2026-11-17T01:04:27.459416+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 5,
+        "rank": 10,
+        "change": -5
+      },
+      {
+        "id": "ief70793c",
+        "title": "‘아이브’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "아이브"
+        ],
+        "source_count": 2,
+        "post_count": 3,
+        "score": 78.43,
+        "peak_score": 67.96,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 62,
+            "title": "아이브 이서",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2753283",
+            "score": 57.96
+          },
+          {
+            "source": "더쿠",
+            "rank": 93,
+            "title": "[속보] 아이브·키키, 그래미 신설 '아시안팝' 부문 후보 됐다",
+            "url": "https://theqoo.net/hot/4408530638",
+            "score": 52.89
+          }
+        ],
+        "first_seen": "2026-10-22T03:59:17.289416+09:00",
+        "last_seen": "2026-11-17T01:59:39.928473+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 3,
+        "rank": 11,
         "change": "NEW"
       },
       {
@@ -497,7 +734,45 @@
         "last_seen": "2026-11-17T01:04:27.459416+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 6,
+        "rank": 12,
+        "change": -6
+      },
+      {
+        "id": "i86108cb2",
+        "title": "‘이벤트’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "이벤트"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 76.16,
+        "peak_score": 66.69,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 64,
+            "title": "[속보] 한국인 급속 냉동 이벤트 개시",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77415674?m=humor_only&t=now",
+            "score": 57.69
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 79,
+            "title": "30초~2분 컷 공공기관 알짜 이벤트 2개 공유합니다",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=money&no=549724",
+            "score": 54.16
+          }
+        ],
+        "first_seen": "2026-11-12T03:08:18.014809+09:00",
+        "last_seen": "2026-11-17T01:59:39.928473+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 13,
         "change": "NEW"
       },
       {
@@ -535,11 +810,51 @@
         "last_seen": "2026-11-17T01:04:27.459416+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 7,
-        "change": "NEW"
+        "rank": 14,
+        "change": -7
       }
     ],
     "weekly": [
+      {
+        "id": "if4949e9f",
+        "title": "‘만점자’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "만점자"
+        ],
+        "source_count": 3,
+        "post_count": 6,
+        "score": 114.33,
+        "peak_score": 91.37,
+        "appearances": 5,
+        "sources": [
+          "더쿠",
+          "디시인사이드",
+          "뽐뿌",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 5,
+            "title": "현재) 난리난 리트 만점자 공개 검증 방식 ㄷ..jpg",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10190110",
+            "score": 82.01
+          },
+          {
+            "source": "클리앙",
+            "rank": 40,
+            "title": "리트 만점자 검증에 진심인 신경외과 전문의.jpg",
+            "url": "https://www.clien.net/service/board/park/19293653?od=T31&po=0&category=0&groupCd=",
+            "score": 61.76
+          }
+        ],
+        "first_seen": "2026-11-15T09:58:29.308734+09:00",
+        "last_seen": "2026-11-17T01:59:39.928473+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 1,
+        "change": 1
+      },
       {
         "id": "id99cf9ee",
         "title": "‘교육부’ 관련 글이 여러 커뮤니티에서 화제",
@@ -576,53 +891,6 @@
         "last_seen": "2026-11-17T01:04:27.459416+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 1,
-        "change": 2
-      },
-      {
-        "id": "if4949e9f",
-        "title": "‘만점자’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "만점자"
-        ],
-        "source_count": 3,
-        "post_count": 6,
-        "score": 113.42,
-        "peak_score": 91.37,
-        "appearances": 4,
-        "sources": [
-          "더쿠",
-          "디시인사이드",
-          "뽐뿌",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 17,
-            "title": "싱글벙글 세무냥이 다음 타겟으로 지목된 LEET 만점자",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=479116&_dcbest=1&page=1",
-            "score": 71.26
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 20,
-            "title": "AI 만점자 적당히 안틀린 이유.jpg",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10189415",
-            "score": 70.38
-          },
-          {
-            "source": "더쿠",
-            "rank": 52,
-            "title": "오늘 리트 만점자 인터뷰 공개 예정이었던 유튜브 채널",
-            "url": "https://theqoo.net/hot/4408063632",
-            "score": 61.21
-          }
-        ],
-        "first_seen": "2026-11-15T09:58:29.308734+09:00",
-        "last_seen": "2026-11-16T16:01:47.665311+09:00",
-        "latest_source_count": 3,
-        "latest_post_count": 5,
         "rank": 2,
         "change": -1
       },
@@ -662,7 +930,54 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 3,
-        "change": -1
+        "change": 0
+      },
+      {
+        "id": "ica8e375b",
+        "title": "방금 발표된 새 제임스 본드",
+        "keywords": [
+          "제임스",
+          "본드"
+        ],
+        "source_count": 3,
+        "post_count": 3,
+        "score": 109.0,
+        "peak_score": 94.53,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "뽐뿌",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "더쿠",
+            "rank": 6,
+            "title": "방금 발표된 새 제임스 본드",
+            "url": "https://theqoo.net/hot/4408609338",
+            "score": 79.53
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 16,
+            "title": "BBC속보) 제임스 본드 발표 ㄷ..jpg",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10190486",
+            "score": 70.7
+          },
+          {
+            "source": "인벤",
+            "rank": 51,
+            "title": "새로운 007 제임스 본드 공식 발표",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2753276",
+            "score": 60.12
+          }
+        ],
+        "first_seen": "2026-11-17T01:59:39.928473+09:00",
+        "last_seen": "2026-11-17T01:59:39.928473+09:00",
+        "latest_source_count": 3,
+        "latest_post_count": 3,
+        "rank": 4,
+        "change": "NEW"
       },
       {
         "id": "i5d6688ff",
@@ -699,8 +1014,8 @@
         "last_seen": "2026-11-16T09:02:13.348566+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 4,
-        "change": 0
+        "rank": 5,
+        "change": -1
       },
       {
         "id": "ib31b3615",
@@ -737,8 +1052,8 @@
         "last_seen": "2026-11-16T16:01:47.665311+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 5,
-        "change": 0
+        "rank": 6,
+        "change": -1
       },
       {
         "id": "i30b66e0d",
@@ -783,8 +1098,8 @@
         "last_seen": "2026-11-17T01:04:27.459416+09:00",
         "latest_source_count": 3,
         "latest_post_count": 3,
-        "rank": 6,
-        "change": "NEW"
+        "rank": 7,
+        "change": -1
       },
       {
         "id": "i6380e9cb",
@@ -822,7 +1137,7 @@
         "last_seen": "2026-11-16T15:12:02.074648+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 7,
+        "rank": 8,
         "change": -1
       },
       {
@@ -860,7 +1175,7 @@
         "last_seen": "2026-11-16T05:19:20.784776+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 8,
+        "rank": 9,
         "change": -1
       },
       {
@@ -906,7 +1221,7 @@
         "last_seen": "2026-11-16T16:01:47.665311+09:00",
         "latest_source_count": 3,
         "latest_post_count": 3,
-        "rank": 9,
+        "rank": 10,
         "change": -1
       },
       {
@@ -945,7 +1260,7 @@
         "last_seen": "2026-11-16T16:01:47.665311+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 10,
+        "rank": 11,
         "change": -1
       },
       {
@@ -983,7 +1298,7 @@
         "last_seen": "2026-11-16T15:12:02.074648+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
+        "rank": 12,
         "change": -1
       },
       {
@@ -1021,7 +1336,7 @@
         "last_seen": "2026-11-16T15:12:02.074648+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 12,
+        "rank": 13,
         "change": -1
       },
       {
@@ -1059,7 +1374,45 @@
         "last_seen": "2026-11-17T01:04:27.459416+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 13,
+        "rank": 14,
+        "change": -1
+      },
+      {
+        "id": "i85fe1706",
+        "title": "‘새로운’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "새로운"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 88.05,
+        "peak_score": 78.58,
+        "appearances": 1,
+        "sources": [
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 17,
+            "title": "오피셜 새로운 007.jpg",
+            "url": "https://www.clien.net/service/board/park/19293648?od=T31&po=0&category=0&groupCd=",
+            "score": 69.58
+          },
+          {
+            "source": "인벤",
+            "rank": 51,
+            "title": "새로운 007 제임스 본드 공식 발표",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2753276",
+            "score": 60.12
+          }
+        ],
+        "first_seen": "2026-11-17T01:59:39.928473+09:00",
+        "last_seen": "2026-11-17T01:59:39.928473+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 15,
         "change": "NEW"
       },
       {
@@ -1097,7 +1450,45 @@
         "last_seen": "2026-11-17T01:04:27.459416+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 14,
+        "rank": 16,
+        "change": -2
+      },
+      {
+        "id": "i7d8a3e8a",
+        "title": "‘000원’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "000원"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 83.95,
+        "peak_score": 74.48,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 26,
+            "title": "[롯데온] 포카칩 오리지널 6개 + 어니언 6개 (카드13,000원 / 무배)",
+            "url": "https://bbs.ruliweb.com/market/board/1020/read/109092",
+            "score": 65.48
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 78,
+            "title": "[더현대] 지오지아 26FW 세미와이드카라 드레스셔츠 (13,200원/3,000원)",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=749268",
+            "score": 54.16
+          }
+        ],
+        "first_seen": "2026-11-17T01:59:39.928473+09:00",
+        "last_seen": "2026-11-17T01:59:39.928473+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 17,
         "change": "NEW"
       },
       {
@@ -1135,8 +1526,47 @@
         "last_seen": "2026-11-16T09:02:13.348566+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 15,
+        "rank": 18,
         "change": -3
+      },
+      {
+        "id": "i0b9deffd",
+        "title": "AI 안경이 필요한 곳",
+        "keywords": [
+          "필요한",
+          "ai"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 80.33,
+        "peak_score": 70.86,
+        "appearances": 1,
+        "sources": [
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 35,
+            "title": "AI 안경이 필요한 곳",
+            "url": "https://www.clien.net/service/board/park/19293651?od=T31&po=0&category=0&groupCd=",
+            "score": 62.86
+          },
+          {
+            "source": "인벤",
+            "rank": 96,
+            "title": "정작 AI 안경으로 컷닝이 필요한 곳",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2753263",
+            "score": 52.65
+          }
+        ],
+        "first_seen": "2026-11-17T01:59:39.928473+09:00",
+        "last_seen": "2026-11-17T01:59:39.928473+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 19,
+        "change": "NEW"
       },
       {
         "id": "ic9cc1c11",
@@ -1176,161 +1606,8 @@
         "last_seen": "2026-11-17T01:04:27.459416+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 16,
-        "change": "NEW"
-      },
-      {
-        "id": "i039fd79c",
-        "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "이재명"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 79.81,
-        "peak_score": 68.32,
-        "appearances": 2,
-        "sources": [
-          "디시인사이드",
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 66,
-            "title": "‘개혁 좀 해라’ 블룸버그도 답답한 이재명 정부 자본시장 정책",
-            "url": "https://www.clien.net/service/board/park/19293332?od=T31&po=0&category=0&groupCd=",
-            "score": 59.32
-          },
-          {
-            "source": "인벤",
-            "rank": 77,
-            "title": "[단독] “최민희 죽여 없애야”…‘이재명·김민석 당정원팀’ 단톡방서 살해 언급·성적 모욕 파문",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2753082",
-            "score": 57.76
-          }
-        ],
-        "first_seen": "2026-09-27T13:38:37.715424+09:00",
-        "last_seen": "2026-11-16T16:01:47.665311+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 17,
-        "change": -4
-      },
-      {
-        "id": "i89c5681f",
-        "title": "‘테슬라’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "테슬라"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 77.99,
-        "peak_score": 68.52,
-        "appearances": 1,
-        "sources": [
-          "루리웹",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 63,
-            "title": "테슬라 사이버캡 행사 방문객",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77405378?m=humor_only&t=now",
-            "score": 59.52
-          },
-          {
-            "source": "클리앙",
-            "rank": 88,
-            "title": "충돌 직전 옆으로 비켜선 테슬라 차량, 'FSD 자율주행이 살렸다'",
-            "url": "https://www.clien.net/service/board/park/19292920?od=T31&po=0&category=0&groupCd=",
-            "score": 54.63
-          }
-        ],
-        "first_seen": "2026-10-13T08:48:40.085192+09:00",
-        "last_seen": "2026-11-16T09:02:13.348566+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 18,
-        "change": -4
-      },
-      {
-        "id": "i24ae49e9",
-        "title": "‘2026년’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "2026년"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 77.99,
-        "peak_score": 68.52,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 66,
-            "title": "2026년 포항 해병대 문화축제 후기",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478968&_dcbest=1&page=1",
-            "score": 59.52
-          },
-          {
-            "source": "인벤",
-            "rank": 70,
-            "title": "AI)1990년과 2026년",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2752881",
-            "score": 59.14
-          }
-        ],
-        "first_seen": "2026-10-31T23:50:52.976309+09:00",
-        "last_seen": "2026-11-16T05:19:20.784776+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 19,
-        "change": -4
-      },
-      {
-        "id": "i7a63b56d",
-        "title": "‘태권도’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "태권도"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 77.5,
-        "peak_score": 68.03,
-        "appearances": 1,
-        "sources": [
-          "루리웹",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 63,
-            "title": "태권도 발차기.",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2753268",
-            "score": 59.03
-          },
-          {
-            "source": "루리웹",
-            "rank": 96,
-            "title": "가르친 적 없는 신기술을 배워온 태권도 제자",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77409543?m=humor_only&t=now",
-            "score": 52.82
-          }
-        ],
-        "first_seen": "2026-11-17T01:04:27.459416+09:00",
-        "last_seen": "2026-11-17T01:04:27.459416+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 20,
-        "change": "NEW"
+        "change": -4
       }
     ],
     "monthly": [
@@ -1381,7 +1658,7 @@
         "latest_source_count": 3,
         "latest_post_count": 3,
         "rank": 1,
-        "change": 1
+        "change": 0
       },
       {
         "id": "i4dea1b92",
@@ -1422,7 +1699,7 @@
         "latest_source_count": 2,
         "latest_post_count": 3,
         "rank": 2,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i153ac4c4",
@@ -2016,6 +2293,46 @@
         "change": 0
       },
       {
+        "id": "if4949e9f",
+        "title": "‘만점자’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "만점자"
+        ],
+        "source_count": 3,
+        "post_count": 6,
+        "score": 115.1,
+        "peak_score": 91.37,
+        "appearances": 6,
+        "sources": [
+          "더쿠",
+          "디시인사이드",
+          "뽐뿌",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 5,
+            "title": "현재) 난리난 리트 만점자 공개 검증 방식 ㄷ..jpg",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10190110",
+            "score": 82.01
+          },
+          {
+            "source": "클리앙",
+            "rank": 40,
+            "title": "리트 만점자 검증에 진심인 신경외과 전문의.jpg",
+            "url": "https://www.clien.net/service/board/park/19293653?od=T31&po=0&category=0&groupCd=",
+            "score": 61.76
+          }
+        ],
+        "first_seen": "2026-11-15T09:58:29.308734+09:00",
+        "last_seen": "2026-11-17T01:59:39.928473+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 17,
+        "change": 3
+      },
+      {
         "id": "i4e9b777d",
         "title": "‘안경이’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -2050,8 +2367,8 @@
         "last_seen": "2026-11-13T11:42:07.310615+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 17,
-        "change": 0
+        "rank": 18,
+        "change": -1
       },
       {
         "id": "i573d2d0e",
@@ -2088,8 +2405,8 @@
         "last_seen": "2026-11-08T23:28:52.606559+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 18,
-        "change": 0
+        "rank": 19,
+        "change": -1
       },
       {
         "id": "i2bf88edf",
@@ -2135,55 +2452,8 @@
         "last_seen": "2026-11-12T16:47:53.957964+09:00",
         "latest_source_count": 3,
         "latest_post_count": 3,
-        "rank": 19,
-        "change": 0
-      },
-      {
-        "id": "if4949e9f",
-        "title": "‘만점자’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "만점자"
-        ],
-        "source_count": 3,
-        "post_count": 6,
-        "score": 114.33,
-        "peak_score": 91.37,
-        "appearances": 5,
-        "sources": [
-          "더쿠",
-          "디시인사이드",
-          "뽐뿌",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 17,
-            "title": "싱글벙글 세무냥이 다음 타겟으로 지목된 LEET 만점자",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=479116&_dcbest=1&page=1",
-            "score": 71.26
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 20,
-            "title": "AI 만점자 적당히 안틀린 이유.jpg",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10189415",
-            "score": 70.38
-          },
-          {
-            "source": "더쿠",
-            "rank": 52,
-            "title": "오늘 리트 만점자 인터뷰 공개 예정이었던 유튜브 채널",
-            "url": "https://theqoo.net/hot/4408063632",
-            "score": 61.21
-          }
-        ],
-        "first_seen": "2026-11-15T09:58:29.308734+09:00",
-        "last_seen": "2026-11-16T16:01:47.665311+09:00",
-        "latest_source_count": 3,
-        "latest_post_count": 5,
         "rank": 20,
-        "change": 0
+        "change": -1
       }
     ]
   }

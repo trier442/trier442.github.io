@@ -3,7 +3,7 @@
   "period": "monthly",
   "key": "2026-11",
   "label": "2026년 11월",
-  "collected_at": "2026-11-17T01:04:27.459416+09:00",
+  "collected_at": "2026-11-17T01:59:39.928473+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -53,7 +53,7 @@
       "latest_source_count": 3,
       "latest_post_count": 3,
       "rank": 1,
-      "change": 1
+      "change": 0
     },
     {
       "id": "i4dea1b92",
@@ -94,7 +94,7 @@
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 2,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i153ac4c4",
@@ -688,6 +688,46 @@
       "change": 0
     },
     {
+      "id": "if4949e9f",
+      "title": "‘만점자’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "만점자"
+      ],
+      "source_count": 3,
+      "post_count": 6,
+      "score": 115.1,
+      "peak_score": 91.37,
+      "appearances": 6,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "뽐뿌",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 5,
+          "title": "현재) 난리난 리트 만점자 공개 검증 방식 ㄷ..jpg",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10190110",
+          "score": 82.01
+        },
+        {
+          "source": "클리앙",
+          "rank": 40,
+          "title": "리트 만점자 검증에 진심인 신경외과 전문의.jpg",
+          "url": "https://www.clien.net/service/board/park/19293653?od=T31&po=0&category=0&groupCd=",
+          "score": 61.76
+        }
+      ],
+      "first_seen": "2026-11-15T09:58:29.308734+09:00",
+      "last_seen": "2026-11-17T01:59:39.928473+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 17,
+      "change": 3
+    },
+    {
       "id": "i4e9b777d",
       "title": "‘안경이’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -722,8 +762,8 @@
       "last_seen": "2026-11-13T11:42:07.310615+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 17,
-      "change": 0
+      "rank": 18,
+      "change": -1
     },
     {
       "id": "i573d2d0e",
@@ -760,8 +800,8 @@
       "last_seen": "2026-11-08T23:28:52.606559+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 18,
-      "change": 0
+      "rank": 19,
+      "change": -1
     },
     {
       "id": "i2bf88edf",
@@ -807,55 +847,8 @@
       "last_seen": "2026-11-12T16:47:53.957964+09:00",
       "latest_source_count": 3,
       "latest_post_count": 3,
-      "rank": 19,
-      "change": 0
-    },
-    {
-      "id": "if4949e9f",
-      "title": "‘만점자’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "만점자"
-      ],
-      "source_count": 3,
-      "post_count": 6,
-      "score": 114.33,
-      "peak_score": 91.37,
-      "appearances": 5,
-      "sources": [
-        "더쿠",
-        "디시인사이드",
-        "뽐뿌",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 17,
-          "title": "싱글벙글 세무냥이 다음 타겟으로 지목된 LEET 만점자",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=479116&_dcbest=1&page=1",
-          "score": 71.26
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 20,
-          "title": "AI 만점자 적당히 안틀린 이유.jpg",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10189415",
-          "score": 70.38
-        },
-        {
-          "source": "더쿠",
-          "rank": 52,
-          "title": "오늘 리트 만점자 인터뷰 공개 예정이었던 유튜브 채널",
-          "url": "https://theqoo.net/hot/4408063632",
-          "score": 61.21
-        }
-      ],
-      "first_seen": "2026-11-15T09:58:29.308734+09:00",
-      "last_seen": "2026-11-16T16:01:47.665311+09:00",
-      "latest_source_count": 3,
-      "latest_post_count": 5,
       "rank": 20,
-      "change": 0
+      "change": -1
     }
   ]
 }
