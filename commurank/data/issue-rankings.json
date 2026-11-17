@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-11-17T17:07:40.475673+09:00",
+  "collected_at": "2026-11-17T17:48:14.874794+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -11,275 +11,52 @@
   "rankings": {
     "realtime": [
       {
-        "id": "i30b66e0d",
-        "title": "‘부정행위’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i4034c274",
+        "title": "[속보]19일 오전 8시반 ‘거부 불가능’ 위급재난문자 울린다…수능 부정행위 대책",
         "keywords": [
-          "부정행위"
+          "수능",
+          "부정행위",
+          "대책",
+          "8시반",
+          "불가능",
+          "19일",
+          "위급재난문자",
+          "울린다"
         ],
-        "source_count": 2,
+        "source_count": 3,
         "post_count": 4,
-        "score": 90.37,
-        "peak_score": 90.37,
+        "score": 91.53,
+        "peak_score": 91.53,
         "appearances": 1,
         "sources": [
           "더쿠",
-          "인벤"
+          "루리웹",
+          "클리앙"
         ],
         "posts": [
           {
             "source": "더쿠",
-            "rank": 7,
-            "title": "수능 부정행위 대책 중 또 다행인 부분",
-            "url": "https://theqoo.net/hot/4409244894",
-            "score": 79.37
+            "rank": 14,
+            "title": "[속보]19일 오전 8시반 ‘거부 불가능’ 위급재난문자 울린다…수능 부정행위 대책",
+            "url": "https://theqoo.net/hot/4409314480",
+            "score": 75.53
           },
           {
-            "source": "인벤",
-            "rank": 65,
-            "title": "세무사 시험 90점 이상 고득점자 1년새 2명→66명 폭증…“조직적 AI 부정행위 의심",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2753506",
-            "score": 57.41
+            "source": "클리앙",
+            "rank": 60,
+            "title": "수능 부정행위 보상입니다",
+            "url": "https://www.clien.net/service/board/park/19294124?od=T31&po=0&category=0&groupCd=",
+            "score": 58.92
+          },
+          {
+            "source": "루리웹",
+            "rank": 84,
+            "title": "19일 오전 8시반 ‘거부 불가능’ 위급재난문자 울린다…수능 부정행위 대책",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77422137?m=humor_only&t=now",
+            "score": 54.39
           }
         ],
         "rank": 1,
-        "change": "NEW"
-      },
-      {
-        "id": "ib31b3615",
-        "title": "‘세무냥이’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "세무냥이"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 102.0,
-        "peak_score": 102.0,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "루리웹"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 2,
-            "title": "장하다 세무냥이.",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77421076?m=humor",
-            "score": 93.0
-          },
-          {
-            "source": "더쿠",
-            "rank": 48,
-            "title": "[속보] 주진우 “이재명 정부는 수능마저 ‘도박판’으로 만들 셈인가?⋯감독관 코앞에서 ‘세무냥이’의 AI 부정행위가 벌어졌는데, ‘믿음’과 ‘육안 검사’가 대책이라니 기가 막혀”",
-            "url": "https://theqoo.net/hot/4409262291",
-            "score": 61.68
-          }
-        ],
-        "rank": 2,
-        "change": "NEW"
-      },
-      {
-        "id": "i64aac33b",
-        "title": "‘코스피’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "코스피"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 88.52,
-        "peak_score": 88.52,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 6,
-            "title": "실시간) 코스피 5000 붕괴 씨발 ㅋㅋㅋㅋㅋㅋ",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=479543&_dcbest=1&page=1",
-            "score": 79.52
-          },
-          {
-            "source": "클리앙",
-            "rank": 38,
-            "title": "기어코 코스피 5000선이 붕괴됐네요.",
-            "url": "https://www.clien.net/service/board/park/19294086?od=T31&po=0&category=0&groupCd=",
-            "score": 63.34
-          }
-        ],
-        "rank": 3,
-        "change": "NEW"
-      },
-      {
-        "id": "i15aa2e4c",
-        "title": "‘아닌가요’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "아닌가요"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 87.64,
-        "peak_score": 87.64,
-        "appearances": 1,
-        "sources": [
-          "뽐뿌",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 9,
-            "title": "정부 미친거 아닌가요?",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10190935",
-            "score": 78.64
-          },
-          {
-            "source": "클리앙",
-            "rank": 92,
-            "title": "글로벌AI기업에 협력이 가능하면 과거 AI치팅사례도 적발 가능한거 아닌가요.",
-            "url": "https://www.clien.net/service/board/park/19294085?od=T31&po=0&category=0&groupCd=",
-            "score": 51.26
-          }
-        ],
-        "rank": 4,
-        "change": "NEW"
-      },
-      {
-        "id": "if0fd30fa",
-        "title": "‘스티커’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "스티커"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 84.63,
-        "peak_score": 84.63,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 15,
-            "title": "[속보] 韓총리 \"수능 1교시전 안경 검사…옷 단추마다 스티커 붙인다\"",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2753497",
-            "score": 75.63
-          },
-          {
-            "source": "더쿠",
-            "rank": 78,
-            "title": "수능 부정행위 단속 결론: 단추에 스티커 부착, 안경 매교시 전수 점검, 가방은 복도에, 시험 시작 전 “못 끄는” 재난문자 발송, 걸릴 시 10년간 수능 재응시 불가 및 재수 반수생은 재학 대학 퇴학 조치 +) 수능 시험장 점검 감독관 대폭 강화, 글로벌빅테크랑 협업해서 AI용 이미지캡처 사후 조사 등",
-            "url": "https://theqoo.net/hot/4409164741",
-            "score": 54.95
-          }
-        ],
-        "rank": 5,
-        "change": "NEW"
-      },
-      {
-        "id": "i0a785976",
-        "title": "‘최민희’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "최민희"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 80.56,
-        "peak_score": 80.56,
-        "appearances": 1,
-        "sources": [
-          "뽐뿌",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 24,
-            "title": "최민희) 내 논란은 책임질 테니, 신천지 논란도 김민석이 책임져라",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10191053",
-            "score": 71.56
-          },
-          {
-            "source": "클리앙",
-            "rank": 35,
-            "title": "최민희 결단하라!!!!",
-            "url": "https://www.clien.net/service/board/park/19294097?od=T31&po=0&category=0&groupCd=",
-            "score": 64.46
-          }
-        ],
-        "rank": 6,
-        "change": "NEW"
-      },
-      {
-        "id": "i185c2ece",
-        "title": "‘권고사직’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "권고사직"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 79.67,
-        "peak_score": 79.67,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 25,
-            "title": "요즘 살벌한 기업들 권고사직 근황",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2753492",
-            "score": 70.67
-          },
-          {
-            "source": "더쿠",
-            "rank": 27,
-            "title": "간접적으로 권고사직 받았습니다.",
-            "url": "https://theqoo.net/hot/4409264550",
-            "score": 68.84
-          }
-        ],
-        "rank": 7,
-        "change": "NEW"
-      },
-      {
-        "id": "i86108cb2",
-        "title": "‘이벤트’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "이벤트"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 76.94,
-        "peak_score": 76.94,
-        "appearances": 1,
-        "sources": [
-          "뽐뿌",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 29,
-            "title": "국민은행 뽑기 이벤트",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=money&no=549744",
-            "score": 67.94
-          },
-          {
-            "source": "인벤",
-            "rank": 83,
-            "title": "도미노피자, '리센느 포토카드' 증정 이벤트…주문당 멤버 전원 제공",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2753490",
-            "score": 53.75
-          }
-        ],
-        "rank": 8,
         "change": "NEW"
       }
     ],
@@ -405,7 +182,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 3,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "i30b66e0d",
@@ -445,7 +222,60 @@
         "latest_source_count": 2,
         "latest_post_count": 4,
         "rank": 4,
-        "change": -1
+        "change": 0
+      },
+      {
+        "id": "i4034c274",
+        "title": "[속보]19일 오전 8시반 ‘거부 불가능’ 위급재난문자 울린다…수능 부정행위 대책",
+        "keywords": [
+          "수능",
+          "부정행위",
+          "대책",
+          "8시반",
+          "불가능",
+          "19일",
+          "위급재난문자",
+          "울린다"
+        ],
+        "source_count": 3,
+        "post_count": 4,
+        "score": 107.0,
+        "peak_score": 91.53,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "루리웹",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "더쿠",
+            "rank": 14,
+            "title": "[속보]19일 오전 8시반 ‘거부 불가능’ 위급재난문자 울린다…수능 부정행위 대책",
+            "url": "https://theqoo.net/hot/4409314480",
+            "score": 75.53
+          },
+          {
+            "source": "클리앙",
+            "rank": 60,
+            "title": "수능 부정행위 보상입니다",
+            "url": "https://www.clien.net/service/board/park/19294124?od=T31&po=0&category=0&groupCd=",
+            "score": 58.92
+          },
+          {
+            "source": "루리웹",
+            "rank": 84,
+            "title": "19일 오전 8시반 ‘거부 불가능’ 위급재난문자 울린다…수능 부정행위 대책",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77422137?m=humor_only&t=now",
+            "score": 54.39
+          }
+        ],
+        "first_seen": "2026-11-17T17:48:14.874794+09:00",
+        "last_seen": "2026-11-17T17:48:14.874794+09:00",
+        "latest_source_count": 3,
+        "latest_post_count": 4,
+        "rank": 5,
+        "change": "NEW"
       },
       {
         "id": "if4949e9f",
@@ -482,7 +312,7 @@
         "last_seen": "2026-11-17T01:59:39.928473+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 5,
+        "rank": 6,
         "change": -1
       },
       {
@@ -520,8 +350,8 @@
         "last_seen": "2026-11-17T17:07:40.475673+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 6,
-        "change": "NEW"
+        "rank": 7,
+        "change": -1
       },
       {
         "id": "i5d6688ff",
@@ -558,8 +388,8 @@
         "last_seen": "2026-11-17T09:11:00.678494+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 7,
-        "change": -2
+        "rank": 8,
+        "change": -1
       },
       {
         "id": "i15aa2e4c",
@@ -596,8 +426,8 @@
         "last_seen": "2026-11-17T17:07:40.475673+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 8,
-        "change": "NEW"
+        "rank": 9,
+        "change": -1
       },
       {
         "id": "id99cf9ee",
@@ -634,8 +464,8 @@
         "last_seen": "2026-11-17T01:04:27.459416+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 9,
-        "change": -3
+        "rank": 10,
+        "change": -1
       },
       {
         "id": "if0fd30fa",
@@ -672,8 +502,8 @@
         "last_seen": "2026-11-17T17:07:40.475673+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 10,
-        "change": "NEW"
+        "rank": 11,
+        "change": -1
       },
       {
         "id": "i0a785976",
@@ -710,8 +540,8 @@
         "last_seen": "2026-11-17T17:07:40.475673+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
-        "change": "NEW"
+        "rank": 12,
+        "change": -1
       },
       {
         "id": "i185c2ece",
@@ -748,8 +578,8 @@
         "last_seen": "2026-11-17T17:07:40.475673+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 12,
-        "change": "NEW"
+        "rank": 13,
+        "change": -1
       },
       {
         "id": "i86108cb2",
@@ -787,8 +617,8 @@
         "last_seen": "2026-11-17T17:07:40.475673+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 13,
-        "change": 4
+        "rank": 14,
+        "change": -1
       },
       {
         "id": "i40486579",
@@ -825,8 +655,8 @@
         "last_seen": "2026-11-17T01:04:27.459416+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 14,
-        "change": -7
+        "rank": 15,
+        "change": -1
       },
       {
         "id": "i85fe1706",
@@ -863,8 +693,8 @@
         "last_seen": "2026-11-17T01:59:39.928473+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 15,
-        "change": -7
+        "rank": 16,
+        "change": -1
       },
       {
         "id": "i5f469d21",
@@ -901,8 +731,8 @@
         "last_seen": "2026-11-17T01:04:27.459416+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 16,
-        "change": -7
+        "rank": 17,
+        "change": -1
       },
       {
         "id": "i80bcfbe1",
@@ -939,8 +769,8 @@
         "last_seen": "2026-11-17T09:11:00.678494+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 17,
-        "change": -7
+        "rank": 18,
+        "change": -1
       },
       {
         "id": "i7d8a3e8a",
@@ -977,8 +807,8 @@
         "last_seen": "2026-11-17T01:59:39.928473+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 18,
-        "change": -7
+        "rank": 19,
+        "change": -1
       },
       {
         "id": "i0b9deffd",
@@ -1016,49 +846,8 @@
         "last_seen": "2026-11-17T01:59:39.928473+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 19,
-        "change": -7
-      },
-      {
-        "id": "ic9cc1c11",
-        "title": "ai 안경이라도 써서 제발 와달라고 하는 공무원 직렬",
-        "keywords": [
-          "공무원",
-          "와달라고",
-          "제발",
-          "직렬"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 80.29,
-        "peak_score": 70.82,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 44,
-            "title": "ai 안경이라도 써서 제발 와달라고 하는 공무원 직렬",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2753244",
-            "score": 62.82
-          },
-          {
-            "source": "더쿠",
-            "rank": 72,
-            "title": "AI안경을 써서라도 제발 와달라고 하는 공무원 직렬",
-            "url": "https://theqoo.net/hot/4408507336",
-            "score": 56.58
-          }
-        ],
-        "first_seen": "2026-11-17T01:04:27.459416+09:00",
-        "last_seen": "2026-11-17T01:04:27.459416+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 20,
-        "change": -7
+        "change": -1
       }
     ],
     "weekly": [
@@ -1099,7 +888,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 1,
-        "change": 6
+        "change": 0
       },
       {
         "id": "if4949e9f",
@@ -1139,7 +928,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 2,
-        "change": -1
+        "change": 0
       },
       {
         "id": "id99cf9ee",
@@ -1178,7 +967,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 3,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i50c746bf",
@@ -1216,7 +1005,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 4,
-        "change": -1
+        "change": 0
       },
       {
         "id": "ica8e375b",
@@ -1263,7 +1052,7 @@
         "latest_source_count": 3,
         "latest_post_count": 3,
         "rank": 5,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i153ac4c4",
@@ -1301,7 +1090,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 6,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i5d6688ff",
@@ -1339,7 +1128,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 7,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i30b66e0d",
@@ -1382,6 +1171,59 @@
         "change": 0
       },
       {
+        "id": "i4034c274",
+        "title": "[속보]19일 오전 8시반 ‘거부 불가능’ 위급재난문자 울린다…수능 부정행위 대책",
+        "keywords": [
+          "수능",
+          "부정행위",
+          "대책",
+          "8시반",
+          "불가능",
+          "19일",
+          "위급재난문자",
+          "울린다"
+        ],
+        "source_count": 3,
+        "post_count": 4,
+        "score": 107.0,
+        "peak_score": 91.53,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "루리웹",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "더쿠",
+            "rank": 14,
+            "title": "[속보]19일 오전 8시반 ‘거부 불가능’ 위급재난문자 울린다…수능 부정행위 대책",
+            "url": "https://theqoo.net/hot/4409314480",
+            "score": 75.53
+          },
+          {
+            "source": "클리앙",
+            "rank": 60,
+            "title": "수능 부정행위 보상입니다",
+            "url": "https://www.clien.net/service/board/park/19294124?od=T31&po=0&category=0&groupCd=",
+            "score": 58.92
+          },
+          {
+            "source": "루리웹",
+            "rank": 84,
+            "title": "19일 오전 8시반 ‘거부 불가능’ 위급재난문자 울린다…수능 부정행위 대책",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77422137?m=humor_only&t=now",
+            "score": 54.39
+          }
+        ],
+        "first_seen": "2026-11-17T17:48:14.874794+09:00",
+        "last_seen": "2026-11-17T17:48:14.874794+09:00",
+        "latest_source_count": 3,
+        "latest_post_count": 4,
+        "rank": 9,
+        "change": "NEW"
+      },
+      {
         "id": "i64aac33b",
         "title": "‘코스피’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -1416,8 +1258,8 @@
         "last_seen": "2026-11-17T17:07:40.475673+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 9,
-        "change": "NEW"
+        "rank": 10,
+        "change": -1
       },
       {
         "id": "i15aa2e4c",
@@ -1454,8 +1296,8 @@
         "last_seen": "2026-11-17T17:07:40.475673+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 10,
-        "change": "NEW"
+        "rank": 11,
+        "change": -1
       },
       {
         "id": "i6380e9cb",
@@ -1493,8 +1335,8 @@
         "last_seen": "2026-11-16T15:12:02.074648+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
-        "change": -2
+        "rank": 12,
+        "change": -1
       },
       {
         "id": "i4d1d7a40",
@@ -1531,8 +1373,8 @@
         "last_seen": "2026-11-16T05:19:20.784776+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 12,
-        "change": -2
+        "rank": 13,
+        "change": -1
       },
       {
         "id": "ie853282a",
@@ -1577,8 +1419,8 @@
         "last_seen": "2026-11-16T16:01:47.665311+09:00",
         "latest_source_count": 3,
         "latest_post_count": 3,
-        "rank": 13,
-        "change": -2
+        "rank": 14,
+        "change": -1
       },
       {
         "id": "if0fd30fa",
@@ -1615,8 +1457,8 @@
         "last_seen": "2026-11-17T17:07:40.475673+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 14,
-        "change": "NEW"
+        "rank": 15,
+        "change": -1
       },
       {
         "id": "i4424f79f",
@@ -1654,8 +1496,8 @@
         "last_seen": "2026-11-16T16:01:47.665311+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 15,
-        "change": -3
+        "rank": 16,
+        "change": -1
       },
       {
         "id": "ib040db4a",
@@ -1692,8 +1534,8 @@
         "last_seen": "2026-11-16T15:12:02.074648+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 16,
-        "change": -3
+        "rank": 17,
+        "change": -1
       },
       {
         "id": "i0a785976",
@@ -1730,8 +1572,8 @@
         "last_seen": "2026-11-17T17:07:40.475673+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 17,
-        "change": "NEW"
+        "rank": 18,
+        "change": -1
       },
       {
         "id": "i24254594",
@@ -1768,8 +1610,8 @@
         "last_seen": "2026-11-16T15:12:02.074648+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 18,
-        "change": -4
+        "rank": 19,
+        "change": -1
       },
       {
         "id": "i185c2ece",
@@ -1806,47 +1648,8 @@
         "last_seen": "2026-11-17T17:07:40.475673+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 19,
-        "change": "NEW"
-      },
-      {
-        "id": "i86108cb2",
-        "title": "‘이벤트’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "이벤트"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 88.43,
-        "peak_score": 76.94,
-        "appearances": 2,
-        "sources": [
-          "루리웹",
-          "뽐뿌",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 29,
-            "title": "국민은행 뽑기 이벤트",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=money&no=549744",
-            "score": 67.94
-          },
-          {
-            "source": "인벤",
-            "rank": 83,
-            "title": "도미노피자, '리센느 포토카드' 증정 이벤트…주문당 멤버 전원 제공",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2753490",
-            "score": 53.75
-          }
-        ],
-        "first_seen": "2026-11-12T03:08:18.014809+09:00",
-        "last_seen": "2026-11-17T17:07:40.475673+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 20,
-        "change": "NEW"
+        "change": -1
       }
     ],
     "monthly": [
@@ -2287,7 +2090,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 10,
-        "change": 3
+        "change": 0
       },
       {
         "id": "i0cdcc665",
@@ -2328,7 +2131,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 11,
-        "change": -1
+        "change": 0
       },
       {
         "id": "ife021da2",
@@ -2367,7 +2170,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 12,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i2e26d9ac",
@@ -2407,7 +2210,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 13,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i5d6688ff",
