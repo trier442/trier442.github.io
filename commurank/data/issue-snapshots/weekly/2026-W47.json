@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W47",
   "label": "2026.11.16 ~ 11.22",
-  "collected_at": "2026-11-17T17:48:14.874794+09:00",
+  "collected_at": "2026-11-18T02:40:37.786352+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -125,6 +125,46 @@
       "change": 0
     },
     {
+      "id": "i153ac4c4",
+      "title": "[속보wsj] 젠슨황 ceo로 복귀 원한다면 할생각 있다.",
+      "keywords": [
+        "젠슨황",
+        "복귀"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 113.82,
+      "peak_score": 102.33,
+      "appearances": 2,
+      "sources": [
+        "디시인사이드",
+        "루리웹",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 8,
+          "title": "[속보wsj] 젠슨황 ceo로 복귀 원한다면 할생각 있다.",
+          "url": "https://www.clien.net/service/board/park/19294353?od=T31&po=0&category=0&groupCd=",
+          "score": 80.38
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 63,
+          "title": "공화당, 젠슨황 복귀 이야기 일축...JPG",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=479650&_dcbest=1&page=1",
+          "score": 59.42
+        }
+      ],
+      "first_seen": "2026-11-08T03:09:30.592393+09:00",
+      "last_seen": "2026-11-18T02:40:37.786352+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 4,
+      "change": 2
+    },
+    {
       "id": "i50c746bf",
       "title": "‘음모론’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -159,8 +199,8 @@
       "last_seen": "2026-11-16T15:12:02.074648+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 4,
-      "change": 0
+      "rank": 5,
+      "change": -1
     },
     {
       "id": "ica8e375b",
@@ -206,46 +246,8 @@
       "last_seen": "2026-11-17T09:47:48.497649+09:00",
       "latest_source_count": 3,
       "latest_post_count": 3,
-      "rank": 5,
-      "change": 0
-    },
-    {
-      "id": "i153ac4c4",
-      "title": "‘젠슨황’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "젠슨황"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 111.8,
-      "peak_score": 102.33,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "루리웹"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 3,
-          "title": "젠슨황 전기 작가가 폭로한 젠슨황의 위선적인 실체.jpg",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77415962?m=humor",
-          "score": 93.33
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 21,
-          "title": "젠슨황 용산에서 영업하던 시절 90년대 pc 방 후기 ㄷ,,",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=479355&_dcbest=1&page=1",
-          "score": 71.24
-        }
-      ],
-      "first_seen": "2026-11-08T03:09:30.592393+09:00",
-      "last_seen": "2026-11-17T09:11:00.678494+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 6,
-      "change": 0
+      "change": -1
     },
     {
       "id": "i5d6688ff",
@@ -376,6 +378,45 @@
       "latest_source_count": 3,
       "latest_post_count": 4,
       "rank": 9,
+      "change": 0
+    },
+    {
+      "id": "i01009091",
+      "title": "추장군 김민석 저격 페북.JPG",
+      "keywords": [
+        "저격",
+        "김민석"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 99.52,
+      "peak_score": 90.05,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 5,
+          "title": "추장군 김민석 저격 페북.JPG",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10191922",
+          "score": 82.05
+        },
+        {
+          "source": "클리앙",
+          "rank": 12,
+          "title": "추미애. 김민석 저격. 반민주적 마타도어",
+          "url": "https://www.clien.net/service/board/park/19294358?od=T31&po=0&category=0&groupCd=",
+          "score": 78.54
+        }
+      ],
+      "first_seen": "2026-10-07T09:11:43.132658+09:00",
+      "last_seen": "2026-11-18T02:40:37.786352+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 10,
       "change": "NEW"
     },
     {
@@ -413,7 +454,7 @@
       "last_seen": "2026-11-17T17:07:40.475673+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 10,
+      "rank": 11,
       "change": -1
     },
     {
@@ -451,7 +492,7 @@
       "last_seen": "2026-11-17T17:07:40.475673+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 11,
+      "rank": 12,
       "change": -1
     },
     {
@@ -490,7 +531,7 @@
       "last_seen": "2026-11-16T15:12:02.074648+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 12,
+      "rank": 13,
       "change": -1
     },
     {
@@ -528,8 +569,48 @@
       "last_seen": "2026-11-16T05:19:20.784776+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 13,
+      "rank": 14,
       "change": -1
+    },
+    {
+      "id": "i4c8bdd1e",
+      "title": "카타르전 대한민국이 1 대 0 승리",
+      "keywords": [
+        "승리",
+        "카타르전",
+        "대한민국이"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 95.71,
+      "peak_score": 86.24,
+      "appearances": 1,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 13,
+          "title": "카타르전 대한민국이 1 대 0 승리",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2753703",
+          "score": 78.24
+        },
+        {
+          "source": "클리앙",
+          "rank": 29,
+          "title": "카타르전 대한민국이 1 대 0 승리",
+          "url": "https://www.clien.net/service/board/park/19294351?od=T31&po=0&category=0&groupCd=",
+          "score": 66.84
+        }
+      ],
+      "first_seen": "2026-10-08T13:29:25.370320+09:00",
+      "last_seen": "2026-11-18T02:40:37.786352+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 15,
+      "change": "NEW"
     },
     {
       "id": "ie853282a",
@@ -574,8 +655,8 @@
       "last_seen": "2026-11-16T16:01:47.665311+09:00",
       "latest_source_count": 3,
       "latest_post_count": 3,
-      "rank": 14,
-      "change": -1
+      "rank": 16,
+      "change": -2
     },
     {
       "id": "if0fd30fa",
@@ -612,8 +693,8 @@
       "last_seen": "2026-11-17T17:07:40.475673+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 15,
-      "change": -1
+      "rank": 17,
+      "change": -2
     },
     {
       "id": "i4424f79f",
@@ -651,8 +732,46 @@
       "last_seen": "2026-11-16T16:01:47.665311+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 16,
-      "change": -1
+      "rank": 18,
+      "change": -2
+    },
+    {
+      "id": "i36ddd5fd",
+      "title": "‘민주당’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "민주당"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 93.25,
+      "peak_score": 83.78,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 17,
+          "title": "민주당 초선 국회의원들의 행태",
+          "url": "https://www.clien.net/service/board/park/19294344?od=T31&po=0&category=0&groupCd=",
+          "score": 74.78
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 78,
+          "title": "민주당 새끼들 왜 지금 발작하는지 앎?",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=479591&_dcbest=1&page=1",
+          "score": 54.64
+        }
+      ],
+      "first_seen": "2026-09-30T08:46:44.153676+09:00",
+      "last_seen": "2026-11-18T02:40:37.786352+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 19,
+      "change": "NEW"
     },
     {
       "id": "ib040db4a",
@@ -689,122 +808,8 @@
       "last_seen": "2026-11-16T15:12:02.074648+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 17,
-      "change": -1
-    },
-    {
-      "id": "i0a785976",
-      "title": "‘최민희’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "최민희"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 90.03,
-      "peak_score": 80.56,
-      "appearances": 1,
-      "sources": [
-        "뽐뿌",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 24,
-          "title": "최민희) 내 논란은 책임질 테니, 신천지 논란도 김민석이 책임져라",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10191053",
-          "score": 71.56
-        },
-        {
-          "source": "클리앙",
-          "rank": 35,
-          "title": "최민희 결단하라!!!!",
-          "url": "https://www.clien.net/service/board/park/19294097?od=T31&po=0&category=0&groupCd=",
-          "score": 64.46
-        }
-      ],
-      "first_seen": "2026-11-13T19:05:31.247118+09:00",
-      "last_seen": "2026-11-17T17:07:40.475673+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 18,
-      "change": -1
-    },
-    {
-      "id": "i24254594",
-      "title": "‘수능날’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "수능날"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 90.01,
-      "peak_score": 80.54,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 22,
-          "title": "속보)정부. 수능날 공공와이파이 차단 추진",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2753066",
-          "score": 71.54
-        },
-        {
-          "source": "더쿠",
-          "rank": 80,
-          "title": "[속보] 교육부 장관 \"수능날 전파 차단 검토, 과기부와 협의해 17일 발표\"",
-          "url": "https://theqoo.net/hot/4407903542",
-          "score": 55.11
-        }
-      ],
-      "first_seen": "2026-11-16T15:12:02.074648+09:00",
-      "last_seen": "2026-11-16T15:12:02.074648+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 19,
-      "change": -1
-    },
-    {
-      "id": "i185c2ece",
-      "title": "‘권고사직’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "권고사직"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 89.14,
-      "peak_score": 79.67,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 25,
-          "title": "요즘 살벌한 기업들 권고사직 근황",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2753492",
-          "score": 70.67
-        },
-        {
-          "source": "더쿠",
-          "rank": 27,
-          "title": "간접적으로 권고사직 받았습니다.",
-          "url": "https://theqoo.net/hot/4409264550",
-          "score": 68.84
-        }
-      ],
-      "first_seen": "2026-11-17T17:07:40.475673+09:00",
-      "last_seen": "2026-11-17T17:07:40.475673+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 20,
-      "change": -1
+      "change": -3
     }
   ]
 }
