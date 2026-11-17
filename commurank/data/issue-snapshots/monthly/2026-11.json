@@ -3,7 +3,7 @@
   "period": "monthly",
   "key": "2026-11",
   "label": "2026년 11월",
-  "collected_at": "2026-11-17T01:59:39.928473+09:00",
+  "collected_at": "2026-11-17T09:11:00.678494+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -104,9 +104,9 @@
       ],
       "source_count": 4,
       "post_count": 7,
-      "score": 151.11,
+      "score": 151.39,
       "peak_score": 117.94,
-      "appearances": 16,
+      "appearances": 17,
       "sources": [
         "더쿠",
         "디시인사이드",
@@ -117,22 +117,22 @@
       ],
       "posts": [
         {
-          "source": "인벤",
-          "rank": 74,
-          "title": "?? : 젠슨황 다음은.....",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2752338",
-          "score": 57.97
+          "source": "루리웹",
+          "rank": 3,
+          "title": "젠슨황 전기 작가가 폭로한 젠슨황의 위선적인 실체.jpg",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77415962?m=humor",
+          "score": 93.33
         },
         {
-          "source": "더쿠",
-          "rank": 84,
-          "title": "멘탈 완전히 박살나버렸다는 젠슨황 근황....jpg",
-          "url": "https://theqoo.net/hot/4405169788",
-          "score": 54.74
+          "source": "디시인사이드",
+          "rank": 21,
+          "title": "젠슨황 용산에서 영업하던 시절 90년대 pc 방 후기 ㄷ,,",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=479355&_dcbest=1&page=1",
+          "score": 71.24
         }
       ],
       "first_seen": "2026-11-08T03:09:30.592393+09:00",
-      "last_seen": "2026-11-14T07:55:50.243875+09:00",
+      "last_seen": "2026-11-17T09:11:00.678494+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 3,
@@ -573,6 +573,44 @@
       "change": 0
     },
     {
+      "id": "i5d6688ff",
+      "title": "‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "네이버페이"
+      ],
+      "source_count": 2,
+      "post_count": 4,
+      "score": 118.75,
+      "peak_score": 99.24,
+      "appearances": 9,
+      "sources": [
+        "루리웹",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 7,
+          "title": "[네이버페이]클릭미션 1종추가",
+          "url": "https://bbs.ruliweb.com/market/board/1020/read/109091",
+          "score": 78.99
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 18,
+          "title": "11/17일자 네이버페이 143원(123원) + 랜덤포인트 모음",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=money&no=549727",
+          "score": 72.81
+        }
+      ],
+      "first_seen": "2026-09-28T07:08:45.324597+09:00",
+      "last_seen": "2026-11-17T09:11:00.678494+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 14,
+      "change": 1
+    },
+    {
       "id": "i9ff6bf96",
       "title": "‘프랑스’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -608,46 +646,8 @@
       "last_seen": "2026-11-06T15:59:18.215188+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 14,
-      "change": 0
-    },
-    {
-      "id": "i5d6688ff",
-      "title": "‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "네이버페이"
-      ],
-      "source_count": 2,
-      "post_count": 4,
-      "score": 118.23,
-      "peak_score": 99.24,
-      "appearances": 8,
-      "sources": [
-        "루리웹",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 4,
-          "title": "[네이버페이] 일일적립, 클릭 225원, 라이브예고 21원",
-          "url": "https://bbs.ruliweb.com/market/board/1020/read/109056",
-          "score": 90.24
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 18,
-          "title": "[네이버페이] DB손해보험, BMW 25원 받으세요",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=120795",
-          "score": 69.3
-        }
-      ],
-      "first_seen": "2026-09-28T07:08:45.324597+09:00",
-      "last_seen": "2026-11-16T09:02:13.348566+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 15,
-      "change": 0
+      "change": -1
     },
     {
       "id": "i22297824",
@@ -725,7 +725,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 17,
-      "change": 3
+      "change": 0
     },
     {
       "id": "i4e9b777d",
@@ -763,7 +763,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 18,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i573d2d0e",
@@ -801,7 +801,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 19,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i2bf88edf",
@@ -848,7 +848,7 @@
       "latest_source_count": 3,
       "latest_post_count": 3,
       "rank": 20,
-      "change": -1
+      "change": 0
     }
   ]
 }
