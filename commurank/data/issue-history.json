@@ -4,8 +4,8 @@
     "ica8e375b": {
       "id": "ica8e375b",
       "first_seen": "2026-11-17T01:59:39.928473+09:00",
-      "last_seen": "2026-11-17T09:11:00.678494+09:00",
-      "title": "새로운 제임스 본드 발표",
+      "last_seen": "2026-11-17T09:47:48.497649+09:00",
+      "title": "로버트 패틴슨 차기 007 제임스 본드 확정",
       "keywords": [
         "본드",
         "제임스"
@@ -42,29 +42,45 @@
             "https://theqoo.net/hot/4408609338",
             "https://www.inven.co.kr/board/webzine/2097/2753326"
           ]
+        },
+        {
+          "at": "2026-11-17T09:47:48.497649+09:00",
+          "source_count": 3,
+          "post_count": 3,
+          "score": 77.57,
+          "sources": [
+            "더쿠",
+            "뽐뿌",
+            "인벤"
+          ],
+          "post_urls": [
+            "https://www.inven.co.kr/board/webzine/2097/2753326",
+            "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=26233",
+            "https://theqoo.net/hot/4408609338"
+          ]
         }
       ],
       "posts": [
         {
+          "source": "인벤",
+          "rank": 42,
+          "title": "로버트 패틴슨 차기 007 제임스 본드 확정",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2753326",
+          "score": 62.57
+        },
+        {
           "source": "뽐뿌",
-          "rank": 8,
+          "rank": 48,
           "title": "새로운 제임스 본드 발표",
           "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=26233",
-          "score": 78.81
+          "score": 61.35
         },
         {
           "source": "더쿠",
-          "rank": 17,
+          "rank": 64,
           "title": "방금 발표된 새 제임스 본드",
           "url": "https://theqoo.net/hot/4408609338",
-          "score": 72.89
-        },
-        {
-          "source": "인벤",
-          "rank": 25,
-          "title": "로버트 패틴슨 차기 007 제임스 본드 확정",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2753326",
-          "score": 68.81
+          "score": 58.11
         }
       ]
     },
@@ -36874,5 +36890,5 @@
       ]
     }
   },
-  "updated_at": "2026-11-17T09:11:00.678494+09:00"
+  "updated_at": "2026-11-17T09:47:48.497649+09:00"
 }

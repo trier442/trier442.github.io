@@ -3,9 +3,56 @@
   "period": "daily",
   "key": "2026-11-17",
   "label": "2026년 11월 17일",
-  "collected_at": "2026-11-17T09:11:00.678494+09:00",
+  "collected_at": "2026-11-17T09:47:48.497649+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
+    {
+      "id": "ica8e375b",
+      "title": "로버트 패틴슨 차기 007 제임스 본드 확정",
+      "keywords": [
+        "본드",
+        "제임스"
+      ],
+      "source_count": 3,
+      "post_count": 3,
+      "score": 112.46,
+      "peak_score": 94.53,
+      "appearances": 3,
+      "sources": [
+        "더쿠",
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 42,
+          "title": "로버트 패틴슨 차기 007 제임스 본드 확정",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2753326",
+          "score": 62.57
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 48,
+          "title": "새로운 제임스 본드 발표",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=26233",
+          "score": 61.35
+        },
+        {
+          "source": "더쿠",
+          "rank": 64,
+          "title": "방금 발표된 새 제임스 본드",
+          "url": "https://theqoo.net/hot/4408609338",
+          "score": 58.11
+        }
+      ],
+      "first_seen": "2026-11-17T01:59:39.928473+09:00",
+      "last_seen": "2026-11-17T09:47:48.497649+09:00",
+      "latest_source_count": 3,
+      "latest_post_count": 3,
+      "rank": 1,
+      "change": 1
+    },
     {
       "id": "i153ac4c4",
       "title": "‘젠슨황’ 관련 글이 여러 커뮤니티에서 화제",
@@ -41,53 +88,6 @@
       "last_seen": "2026-11-17T09:11:00.678494+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 1,
-      "change": "NEW"
-    },
-    {
-      "id": "ica8e375b",
-      "title": "새로운 제임스 본드 발표",
-      "keywords": [
-        "본드",
-        "제임스"
-      ],
-      "source_count": 3,
-      "post_count": 3,
-      "score": 111.02,
-      "peak_score": 94.53,
-      "appearances": 2,
-      "sources": [
-        "더쿠",
-        "뽐뿌",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 8,
-          "title": "새로운 제임스 본드 발표",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=26233",
-          "score": 78.81
-        },
-        {
-          "source": "더쿠",
-          "rank": 17,
-          "title": "방금 발표된 새 제임스 본드",
-          "url": "https://theqoo.net/hot/4408609338",
-          "score": 72.89
-        },
-        {
-          "source": "인벤",
-          "rank": 25,
-          "title": "로버트 패틴슨 차기 007 제임스 본드 확정",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2753326",
-          "score": 68.81
-        }
-      ],
-      "first_seen": "2026-11-17T01:59:39.928473+09:00",
-      "last_seen": "2026-11-17T09:11:00.678494+09:00",
-      "latest_source_count": 3,
-      "latest_post_count": 3,
       "rank": 2,
       "change": -1
     },
@@ -135,7 +135,7 @@
       "latest_source_count": 3,
       "latest_post_count": 3,
       "rank": 3,
-      "change": -1
+      "change": 0
     },
     {
       "id": "if4949e9f",
@@ -173,7 +173,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 4,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i5d6688ff",
@@ -211,7 +211,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 5,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "id99cf9ee",
@@ -249,7 +249,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 6,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i40486579",
@@ -287,7 +287,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 7,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i85fe1706",
@@ -325,7 +325,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 8,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i5f469d21",
@@ -363,7 +363,7 @@
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 9,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i80bcfbe1",
@@ -401,7 +401,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 10,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i7d8a3e8a",
@@ -439,7 +439,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 11,
-      "change": -3
+      "change": 0
     },
     {
       "id": "i0b9deffd",
@@ -478,7 +478,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 12,
-      "change": -3
+      "change": 0
     },
     {
       "id": "ic9cc1c11",
@@ -519,7 +519,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 13,
-      "change": -3
+      "change": 0
     },
     {
       "id": "i9a0fa5b7",
@@ -557,7 +557,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 14,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "ief70793c",
@@ -595,7 +595,7 @@
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 15,
-      "change": -4
+      "change": 0
     },
     {
       "id": "i7a63b56d",
@@ -633,7 +633,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 16,
-      "change": -4
+      "change": 0
     },
     {
       "id": "i86108cb2",
@@ -671,7 +671,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 17,
-      "change": -4
+      "change": 0
     },
     {
       "id": "i27245075",
@@ -709,7 +709,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 18,
-      "change": -4
+      "change": 0
     }
   ]
 }
