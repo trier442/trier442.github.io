@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W47",
   "label": "2026.11.16 ~ 11.22",
-  "collected_at": "2026-11-19T02:26:07.251829+09:00",
+  "collected_at": "2026-11-19T08:05:04.323850+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -492,7 +492,7 @@
       "latest_source_count": 3,
       "latest_post_count": 3,
       "rank": 12,
-      "change": 1
+      "change": 0
     },
     {
       "id": "i27a326c3",
@@ -539,7 +539,45 @@
       "latest_source_count": 3,
       "latest_post_count": 5,
       "rank": 13,
-      "change": -1
+      "change": 0
+    },
+    {
+      "id": "ic6bd73cf",
+      "title": "‘미국이’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "미국이"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 107.08,
+      "peak_score": 97.61,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 2,
+          "title": "\"미국이 아비뇽 유수 언급하면서 교황청 압박한다\"",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77440582?m=humor",
+          "score": 88.61
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 70,
+          "title": "싱글벙글 미국이 괌을 케이크처럼 쉽게 먹은 이유",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=479955&_dcbest=1&page=1",
+          "score": 57.01
+        }
+      ],
+      "first_seen": "2026-10-30T10:40:41.816687+09:00",
+      "last_seen": "2026-11-19T08:05:04.323850+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 14,
+      "change": "NEW"
     },
     {
       "id": "i4034c274",
@@ -591,8 +629,8 @@
       "last_seen": "2026-11-17T17:48:14.874794+09:00",
       "latest_source_count": 3,
       "latest_post_count": 4,
-      "rank": 14,
-      "change": 0
+      "rank": 15,
+      "change": -1
     },
     {
       "id": "i01009091",
@@ -629,8 +667,8 @@
       "last_seen": "2026-11-18T09:57:18.829124+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 15,
-      "change": 0
+      "rank": 16,
+      "change": -1
     },
     {
       "id": "ib040db4a",
@@ -669,8 +707,8 @@
       "last_seen": "2026-11-19T02:26:07.251829+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 16,
-      "change": "NEW"
+      "rank": 17,
+      "change": -1
     },
     {
       "id": "i64aac33b",
@@ -707,7 +745,7 @@
       "last_seen": "2026-11-17T17:07:40.475673+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 17,
+      "rank": 18,
       "change": -1
     },
     {
@@ -747,7 +785,7 @@
       "last_seen": "2026-11-18T03:08:16.109508+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 18,
+      "rank": 19,
       "change": -1
     },
     {
@@ -783,44 +821,6 @@
       ],
       "first_seen": "2026-11-17T17:07:40.475673+09:00",
       "last_seen": "2026-11-17T17:07:40.475673+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 19,
-      "change": -1
-    },
-    {
-      "id": "i36ddd5fd",
-      "title": "‘민주당’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "민주당"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 96.71,
-      "peak_score": 83.78,
-      "appearances": 3,
-      "sources": [
-        "디시인사이드",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 38,
-          "title": "다신 민주당 안찍는다 << 병신새끼인 이유",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=479779&_dcbest=1&page=1",
-          "score": 63.22
-        },
-        {
-          "source": "클리앙",
-          "rank": 45,
-          "title": "부실 수능감독 신고하라는 민주당…교원단체 “교사 뺨때리기”",
-          "url": "https://www.clien.net/service/board/park/19294653?od=T31&po=0&category=0&groupCd=",
-          "score": 62.56
-        }
-      ],
-      "first_seen": "2026-09-30T08:46:44.153676+09:00",
-      "last_seen": "2026-11-18T16:12:11.417903+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 20,
