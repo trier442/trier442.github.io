@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-11-18T03:08:16.109508+09:00",
+  "collected_at": "2026-11-18T09:00:35.562371+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -11,221 +11,175 @@
   "rankings": {
     "realtime": [
       {
-        "id": "i01009091",
-        "title": "추장군 김민석 저격 페북.JPG",
+        "id": "i4dea1b92",
+        "title": "‘엔비디아’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "김민석",
-          "저격"
+          "엔비디아",
+          "이사회"
+        ],
+        "source_count": 2,
+        "post_count": 3,
+        "score": 72.53,
+        "peak_score": 72.53,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 47,
+            "title": "젠슨황의 나 돌아가고 싶어에 대한 엔비디아 이사회 답변",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77428831?m=humor_only&t=now",
+            "score": 62.53
+          },
+          {
+            "source": "인벤",
+            "rank": 77,
+            "title": "엔비디아 이사회 의장 “젠슨 황 재선임 의사 없어”",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2753733",
+            "score": 56.82
+          }
+        ],
+        "rank": 1,
+        "change": "NEW"
+      },
+      {
+        "id": "i519c6740",
+        "title": "‘드러난’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "드러난"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 90.65,
-        "peak_score": 90.65,
+        "score": 84.19,
+        "peak_score": 84.19,
         "appearances": 1,
         "sources": [
-          "뽐뿌",
+          "인벤",
           "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 11,
+            "title": "서울대에서 드러난 호냥이 컨닝 방법",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2753740",
+            "score": 75.19
+          },
+          {
+            "source": "클리앙",
+            "rank": 55,
+            "title": "일본이 이렇게 가난했나..드러난 충격 현실",
+            "url": "https://www.clien.net/service/board/park/19294403?od=T31&po=0&category=0&groupCd=",
+            "score": 60.73
+          }
+        ],
+        "rank": 2,
+        "change": "NEW"
+      },
+      {
+        "id": "i1fcd34de",
+        "title": "‘세무사’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "세무사"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 80.78,
+        "peak_score": 80.78,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 18,
+            "title": "AI 치팅 의심 받은 올해 세무사 최연소 합격자 근황",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2753747",
+            "score": 71.78
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 19,
+            "title": "싱글벙글 세무사 시험 컨닝하는 방법~",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=479698&_dcbest=1&page=1",
+            "score": 71.42
+          }
+        ],
+        "rank": 3,
+        "change": "NEW"
+      },
+      {
+        "id": "ife021da2",
+        "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "난리난"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 74.94,
+        "peak_score": 74.94,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "뽐뿌"
         ],
         "posts": [
           {
             "source": "뽐뿌",
-            "rank": 4,
-            "title": "추장군 김민석 저격 페북.JPG",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10191922",
-            "score": 82.65
+            "rank": 32,
+            "title": "현재 일본에서 난리난 바이든 회고록",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10192020",
+            "score": 65.94
           },
           {
-            "source": "클리앙",
-            "rank": 12,
-            "title": "추미애. 김민석 저격. 반민주적 마타도어",
-            "url": "https://www.clien.net/service/board/park/19294358?od=T31&po=0&category=0&groupCd=",
-            "score": 77.2
-          }
-        ],
-        "rank": 1,
-        "change": 0
-      },
-      {
-        "id": "i153ac4c4",
-        "title": "[속보wsj] 젠슨황 ceo로 복귀 원한다면 할생각 있다.",
-        "keywords": [
-          "복귀",
-          "젠슨황"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 84.6,
-        "peak_score": 84.6,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 13,
-            "title": "[속보wsj] 젠슨황 ceo로 복귀 원한다면 할생각 있다.",
-            "url": "https://www.clien.net/service/board/park/19294353?od=T31&po=0&category=0&groupCd=",
-            "score": 76.6
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 68,
-            "title": "공화당, 젠슨황 복귀 이야기 일축...JPG",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=479650&_dcbest=1&page=1",
-            "score": 59.01
-          }
-        ],
-        "rank": 2,
-        "change": 0
-      },
-      {
-        "id": "i4c8bdd1e",
-        "title": "카타르전 대한민국이 1 대 0 승리",
-        "keywords": [
-          "카타르전",
-          "승리",
-          "대한민국이"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 81.67,
-        "peak_score": 81.67,
-        "appearances": 1,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 17,
-            "title": "카타르전 대한민국이 1 대 0 승리",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2753703",
-            "score": 73.67
-          },
-          {
-            "source": "클리앙",
-            "rank": 38,
-            "title": "카타르전 대한민국이 1 대 0 승리",
-            "url": "https://www.clien.net/service/board/park/19294351?od=T31&po=0&category=0&groupCd=",
-            "score": 65.53
-          }
-        ],
-        "rank": 3,
-        "change": 0
-      },
-      {
-        "id": "i36ddd5fd",
-        "title": "‘민주당’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "민주당"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 81.0,
-        "peak_score": 81.0,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 21,
-            "title": "민주당 초선 국회의원들의 행태",
-            "url": "https://www.clien.net/service/board/park/19294344?od=T31&po=0&category=0&groupCd=",
-            "score": 72.0
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 81,
-            "title": "민주당 새끼들 왜 지금 발작하는지 앎?",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=479591&_dcbest=1&page=1",
-            "score": 54.64
+            "source": "더쿠",
+            "rank": 39,
+            "title": "남자 관객 목소리때문에 난리난 루시 달링 영상.....",
+            "url": "https://theqoo.net/hot/4409820577",
+            "score": 64.37
           }
         ],
         "rank": 4,
-        "change": 0
+        "change": "NEW"
       },
       {
-        "id": "i3ccc2d51",
-        "title": "일본인이 만든 한국 과자 티어표",
+        "id": "i75cc7e14",
+        "title": "‘넷플릭스’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "과자",
-          "만든",
-          "티어표",
-          "한국",
-          "일본인이"
+          "넷플릭스"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 78.37,
-        "peak_score": 78.37,
+        "score": 74.53,
+        "peak_score": 74.53,
         "appearances": 1,
         "sources": [
-          "더쿠",
-          "루리웹"
+          "디시인사이드",
+          "뽐뿌"
         ],
         "posts": [
           {
-            "source": "더쿠",
-            "rank": 23,
-            "title": "일본인이 만든 한국 과자 티어표",
-            "url": "https://theqoo.net/hot/4409784687",
-            "score": 70.37
+            "source": "디시인사이드",
+            "rank": 33,
+            "title": "넷플릭스 불량연애2 멤버 근황.jpg.",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=479676&_dcbest=1&page=1",
+            "score": 65.53
           },
           {
-            "source": "루리웹",
-            "rank": 27,
-            "title": "일본인이 만든 한국 과자 티어표",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77427801?m=humor_only&t=now",
-            "score": 67.72
+            "source": "뽐뿌",
+            "rank": 90,
+            "title": "넷플릭스 '삼체' 시즌2, 2027년 1월 14일 공개",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=movie&no=92304",
+            "score": 52.15
           }
         ],
         "rank": 5,
         "change": "NEW"
-      },
-      {
-        "id": "i4af120eb",
-        "title": "단추 가린다고?' 수험생 싸늘…'이제와 뭐 하겠다는 건지'",
-        "keywords": [
-          "이제와",
-          "단추",
-          "하겠다는",
-          "건지",
-          "가린다고",
-          "수험생"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 64.03,
-        "peak_score": 64.03,
-        "appearances": 1,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 76,
-            "title": "단추 가린다고?' 수험생 싸늘…'이제와 뭐 하겠다는 건지'",
-            "url": "https://www.clien.net/service/board/park/19294332?od=T31&po=0&category=0&groupCd=",
-            "score": 56.03
-          },
-          {
-            "source": "인벤",
-            "rank": 91,
-            "title": "단추 가린다고?\" 수험생 싸늘…\"이제와 뭐 하겠다는 건지\"",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2753681",
-            "score": 52.29
-          }
-        ],
-        "rank": 6,
-        "change": -1
       }
     ],
     "daily": [
@@ -386,6 +340,82 @@
         "change": 0
       },
       {
+        "id": "i519c6740",
+        "title": "‘드러난’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "드러난"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 93.66,
+        "peak_score": 84.19,
+        "appearances": 1,
+        "sources": [
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 11,
+            "title": "서울대에서 드러난 호냥이 컨닝 방법",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2753740",
+            "score": 75.19
+          },
+          {
+            "source": "클리앙",
+            "rank": 55,
+            "title": "일본이 이렇게 가난했나..드러난 충격 현실",
+            "url": "https://www.clien.net/service/board/park/19294403?od=T31&po=0&category=0&groupCd=",
+            "score": 60.73
+          }
+        ],
+        "first_seen": "2026-11-18T09:00:35.562371+09:00",
+        "last_seen": "2026-11-18T09:00:35.562371+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 5,
+        "change": "NEW"
+      },
+      {
+        "id": "i1fcd34de",
+        "title": "‘세무사’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "세무사"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 90.25,
+        "peak_score": 80.78,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 18,
+            "title": "AI 치팅 의심 받은 올해 세무사 최연소 합격자 근황",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2753747",
+            "score": 71.78
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 19,
+            "title": "싱글벙글 세무사 시험 컨닝하는 방법~",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=479698&_dcbest=1&page=1",
+            "score": 71.42
+          }
+        ],
+        "first_seen": "2026-11-12T16:47:53.957964+09:00",
+        "last_seen": "2026-11-18T09:00:35.562371+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 6,
+        "change": "NEW"
+      },
+      {
         "id": "i3ccc2d51",
         "title": "일본인이 만든 한국 과자 티어표",
         "keywords": [
@@ -424,7 +454,122 @@
         "last_seen": "2026-11-18T03:08:16.109508+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 5,
+        "rank": 7,
+        "change": -2
+      },
+      {
+        "id": "ife021da2",
+        "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "난리난"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 84.41,
+        "peak_score": 74.94,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 32,
+            "title": "현재 일본에서 난리난 바이든 회고록",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10192020",
+            "score": 65.94
+          },
+          {
+            "source": "더쿠",
+            "rank": 39,
+            "title": "남자 관객 목소리때문에 난리난 루시 달링 영상.....",
+            "url": "https://theqoo.net/hot/4409820577",
+            "score": 64.37
+          }
+        ],
+        "first_seen": "2026-09-29T11:40:38.000414+09:00",
+        "last_seen": "2026-11-18T09:00:35.562371+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 8,
+        "change": "NEW"
+      },
+      {
+        "id": "i75cc7e14",
+        "title": "‘넷플릭스’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "넷플릭스"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 84.0,
+        "peak_score": 74.53,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 33,
+            "title": "넷플릭스 불량연애2 멤버 근황.jpg.",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=479676&_dcbest=1&page=1",
+            "score": 65.53
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 90,
+            "title": "넷플릭스 '삼체' 시즌2, 2027년 1월 14일 공개",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=movie&no=92304",
+            "score": 52.15
+          }
+        ],
+        "first_seen": "2026-10-18T13:31:38.306100+09:00",
+        "last_seen": "2026-11-18T09:00:35.562371+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 9,
+        "change": "NEW"
+      },
+      {
+        "id": "i4dea1b92",
+        "title": "‘엔비디아’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "엔비디아",
+          "이사회"
+        ],
+        "source_count": 2,
+        "post_count": 3,
+        "score": 83.0,
+        "peak_score": 72.53,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 47,
+            "title": "젠슨황의 나 돌아가고 싶어에 대한 엔비디아 이사회 답변",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77428831?m=humor_only&t=now",
+            "score": 62.53
+          },
+          {
+            "source": "인벤",
+            "rank": 77,
+            "title": "엔비디아 이사회 의장 “젠슨 황 재선임 의사 없어”",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2753733",
+            "score": 56.82
+          }
+        ],
+        "first_seen": "2026-10-30T16:17:45.679248+09:00",
+        "last_seen": "2026-11-18T09:00:35.562371+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 3,
+        "rank": 10,
         "change": "NEW"
       },
       {
@@ -467,8 +612,8 @@
         "last_seen": "2026-11-18T03:08:16.109508+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 6,
-        "change": -1
+        "rank": 11,
+        "change": -5
       }
     ],
     "weekly": [
@@ -549,7 +694,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 2,
-        "change": 2
+        "change": 0
       },
       {
         "id": "if4949e9f",
@@ -589,7 +734,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 3,
-        "change": -1
+        "change": 0
       },
       {
         "id": "id99cf9ee",
@@ -628,7 +773,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 4,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i50c746bf",
@@ -961,7 +1106,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 12,
-        "change": 3
+        "change": 0
       },
       {
         "id": "i15aa2e4c",
@@ -999,7 +1144,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 13,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i6380e9cb",
@@ -1038,7 +1183,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 14,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i4d1d7a40",
@@ -1076,7 +1221,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 15,
-        "change": -1
+        "change": 0
       },
       {
         "id": "ie853282a",
@@ -1160,7 +1305,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 17,
-        "change": 2
+        "change": 0
       },
       {
         "id": "if0fd30fa",
@@ -1198,7 +1343,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 18,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i4424f79f",
@@ -1237,18 +1382,18 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 19,
-        "change": -1
+        "change": 0
       },
       {
-        "id": "ib040db4a",
-        "title": "‘와이프’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i519c6740",
+        "title": "‘드러난’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "와이프"
+          "드러난"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 90.97,
-        "peak_score": 81.5,
+        "score": 93.66,
+        "peak_score": 84.19,
         "appearances": 1,
         "sources": [
           "인벤",
@@ -1257,25 +1402,25 @@
         "posts": [
           {
             "source": "인벤",
-            "rank": 19,
-            "title": "자꾸 커졌다고 하는 일본인 와이프",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2753078",
-            "score": 72.5
+            "rank": 11,
+            "title": "서울대에서 드러난 호냥이 컨닝 방법",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2753740",
+            "score": 75.19
           },
           {
             "source": "클리앙",
-            "rank": 40,
-            "title": "서울 구축 고집하는 와이프.. 신도시 신축 놓고 갈등중입니다",
-            "url": "https://www.clien.net/service/board/park/19293284?od=T31&po=0&category=0&groupCd=",
-            "score": 64.18
+            "rank": 55,
+            "title": "일본이 이렇게 가난했나..드러난 충격 현실",
+            "url": "https://www.clien.net/service/board/park/19294403?od=T31&po=0&category=0&groupCd=",
+            "score": 60.73
           }
         ],
-        "first_seen": "2026-11-16T15:12:02.074648+09:00",
-        "last_seen": "2026-11-16T15:12:02.074648+09:00",
+        "first_seen": "2026-11-18T09:00:35.562371+09:00",
+        "last_seen": "2026-11-18T09:00:35.562371+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 20,
-        "change": 0
+        "change": "NEW"
       }
     ],
     "monthly": [
@@ -1325,13 +1470,14 @@
         "id": "i4dea1b92",
         "title": "‘엔비디아’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "엔비디아"
+          "엔비디아",
+          "이사회"
         ],
         "source_count": 4,
         "post_count": 7,
-        "score": 152.34,
+        "score": 152.93,
         "peak_score": 122.94,
-        "appearances": 7,
+        "appearances": 8,
         "sources": [
           "더쿠",
           "루리웹",
@@ -1341,22 +1487,22 @@
         ],
         "posts": [
           {
-            "source": "뽐뿌",
-            "rank": 7,
-            "title": "속보) 엔비디아 직원들, 젠슨 황 복귀 요구 ㄷ..jpg",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10185858",
-            "score": 81.09
+            "source": "루리웹",
+            "rank": 47,
+            "title": "젠슨황의 나 돌아가고 싶어에 대한 엔비디아 이사회 답변",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77428831?m=humor_only&t=now",
+            "score": 62.53
           },
           {
             "source": "인벤",
-            "rank": 13,
-            "title": "엔비디아 임원회의",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2752226",
-            "score": 73.17
+            "rank": 77,
+            "title": "엔비디아 이사회 의장 “젠슨 황 재선임 의사 없어”",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2753733",
+            "score": 56.82
           }
         ],
         "first_seen": "2026-10-30T16:17:45.679248+09:00",
-        "last_seen": "2026-11-13T19:05:31.247118+09:00",
+        "last_seen": "2026-11-18T09:00:35.562371+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
         "rank": 2,
@@ -1413,9 +1559,9 @@
         ],
         "source_count": 4,
         "post_count": 5,
-        "score": 145.94,
+        "score": 146.32,
         "peak_score": 116.12,
-        "appearances": 12,
+        "appearances": 13,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -1426,22 +1572,22 @@
         ],
         "posts": [
           {
-            "source": "더쿠",
-            "rank": 80,
-            "title": "순진했던 6개월 전 세무사 갤러리",
-            "url": "https://theqoo.net/hot/4407512005",
-            "score": 57.58
+            "source": "인벤",
+            "rank": 18,
+            "title": "AI 치팅 의심 받은 올해 세무사 최연소 합격자 근황",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2753747",
+            "score": 71.78
           },
           {
             "source": "디시인사이드",
-            "rank": 83,
-            "title": "싱글벙글 역대급 천재 세무사 시험 수석 수기를 한번 분석해보자",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478948&_dcbest=1&page=1",
-            "score": 57.12
+            "rank": 19,
+            "title": "싱글벙글 세무사 시험 컨닝하는 방법~",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=479698&_dcbest=1&page=1",
+            "score": 71.42
           }
         ],
         "first_seen": "2026-11-12T16:47:53.957964+09:00",
-        "last_seen": "2026-11-16T05:19:20.784776+09:00",
+        "last_seen": "2026-11-18T09:00:35.562371+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 4,
@@ -1680,6 +1826,46 @@
         "change": 0
       },
       {
+        "id": "ife021da2",
+        "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "난리난"
+        ],
+        "source_count": 2,
+        "post_count": 3,
+        "score": 121.23,
+        "peak_score": 104.5,
+        "appearances": 6,
+        "sources": [
+          "더쿠",
+          "디시인사이드",
+          "루리웹",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 32,
+            "title": "현재 일본에서 난리난 바이든 회고록",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10192020",
+            "score": 65.94
+          },
+          {
+            "source": "더쿠",
+            "rank": 39,
+            "title": "남자 관객 목소리때문에 난리난 루시 달링 영상.....",
+            "url": "https://theqoo.net/hot/4409820577",
+            "score": 64.37
+          }
+        ],
+        "first_seen": "2026-09-29T11:40:38.000414+09:00",
+        "last_seen": "2026-11-18T09:00:35.562371+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 10,
+        "change": 2
+      },
+      {
         "id": "ib31b3615",
         "title": "‘세무냥이’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -1716,8 +1902,8 @@
         "last_seen": "2026-11-17T17:07:40.475673+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 10,
-        "change": 0
+        "rank": 11,
+        "change": -1
       },
       {
         "id": "i0cdcc665",
@@ -1757,47 +1943,8 @@
         "last_seen": "2026-11-16T05:19:20.784776+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
-        "change": 0
-      },
-      {
-        "id": "ife021da2",
-        "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "난리난"
-        ],
-        "source_count": 2,
-        "post_count": 3,
-        "score": 120.46,
-        "peak_score": 104.5,
-        "appearances": 5,
-        "sources": [
-          "디시인사이드",
-          "루리웹",
-          "뽐뿌"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 2,
-            "title": "현재 일본에서 난리난 NTR물",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77400536?m=humor",
-            "score": 95.5
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 51,
-            "title": "부들부들 현재 대위기 터져서 난리난 AI 업계",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478893&_dcbest=1&page=1",
-            "score": 59.2
-          }
-        ],
-        "first_seen": "2026-09-29T11:40:38.000414+09:00",
-        "last_seen": "2026-11-15T23:59:48.849638+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 12,
-        "change": 0
+        "change": -1
       },
       {
         "id": "i2e26d9ac",
@@ -2071,7 +2218,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 19,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "i573d2d0e",
@@ -2109,7 +2256,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 20,
-        "change": -1
+        "change": 0
       }
     ]
   }
