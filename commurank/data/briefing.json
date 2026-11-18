@@ -2,41 +2,59 @@
   "version": 1,
   "date": "2026-11-19",
   "label": "2026년 11월 19일",
-  "collected_at": "2026-11-19T08:05:04.323850+09:00",
+  "collected_at": "2026-11-19T08:29:38.230773+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘‘gta6’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #수능. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘‘리트냥이’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #만점자. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 6,
     "cached_sources": 0,
     "realtime_posts": 100,
     "daily_posts": 100,
-    "daily_issues": 12,
-    "keywords": 13,
-    "top100_views": 1166559,
-    "top100_comments": 7509
+    "daily_issues": 18,
+    "keywords": 19,
+    "top100_views": 1006467,
+    "top100_comments": 7000
   },
   "highlights": [
     {
       "type": "issue",
-      "title": "‘gta6’ 관련 글이 여러 커뮤니티에서 화제",
-      "text": "3개 커뮤니티에서 4개 관련 인기글이 포착됐습니다.",
-      "issue_id": "i91f13db9"
+      "title": "‘리트냥이’ 관련 글이 여러 커뮤니티에서 화제",
+      "text": "4개 커뮤니티에서 7개 관련 인기글이 포착됐습니다.",
+      "issue_id": "i7b982dea"
     },
     {
       "type": "post",
-      "title": "쓰읍 장사가 이번 달이 더 안되네..",
+      "title": "뼈만 없으면 간장게장 뺨칠 밥도둑 후보 1위.jpg",
       "text": "루리웹에서 현재 상위권에 오른 인기글입니다.",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77435902?m=humor"
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77439882?m=humor"
     },
     {
       "type": "keyword",
-      "title": "#수능",
-      "text": "4개 커뮤니티 · 5개 인기글에서 함께 등장했습니다.",
-      "keyword": "수능"
+      "title": "#만점자",
+      "text": "5개 커뮤니티 · 10개 인기글에서 함께 등장했습니다.",
+      "keyword": "만점자"
     }
   ],
   "top_posts": [
+    {
+      "title": "뼈만 없으면 간장게장 뺨칠 밥도둑 후보 1위.jpg",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77439882?m=humor",
+      "first_seen": "2026-11-19T08:29:38.230773+09:00",
+      "last_seen": "2026-11-19T08:29:38.230773+09:00",
+      "peak_score": 98.95,
+      "max_views": 22629,
+      "max_likes": 73,
+      "max_comments": 45,
+      "appearances": 1,
+      "score": 108.34,
+      "views": 22629,
+      "likes": 73,
+      "comments": 45,
+      "change": "NEW"
+    },
     {
       "title": "쓰읍 장사가 이번 달이 더 안되네..",
       "source": "루리웹",
@@ -49,11 +67,11 @@
       "max_likes": 150,
       "max_comments": 83,
       "appearances": 1,
-      "score": 107.46,
+      "score": 107.42,
       "views": 25133,
       "likes": 150,
       "comments": 83,
-      "change": 0
+      "change": -1
     },
     {
       "title": "종신형 받은 술판 벌린 집에 와이프 못오게한 남자",
@@ -67,11 +85,11 @@
       "max_likes": 111,
       "max_comments": 32,
       "appearances": 1,
-      "score": 106.33,
+      "score": 106.29,
       "views": 23660,
       "likes": 111,
       "comments": 32,
-      "change": "NEW"
+      "change": -1
     },
     {
       "title": "내일 발송되는 수능 \"위급재난문자\" 특징 요약",
@@ -85,7 +103,7 @@
       "max_likes": 101,
       "max_comments": 91,
       "appearances": 1,
-      "score": 105.11,
+      "score": 105.07,
       "views": 17709,
       "likes": 101,
       "comments": 91,
@@ -103,7 +121,7 @@
       "max_likes": 110,
       "max_comments": 101,
       "appearances": 1,
-      "score": 105.03,
+      "score": 105.0,
       "views": 25811,
       "likes": 110,
       "comments": 101,
@@ -121,11 +139,29 @@
       "max_likes": 71,
       "max_comments": 82,
       "appearances": 1,
-      "score": 104.88,
+      "score": 104.85,
       "views": 21789,
       "likes": 71,
       "comments": 82,
       "change": -1
+    },
+    {
+      "title": "길냥이 구조4일차 슬슬살아난다",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77440389?m=humor",
+      "first_seen": "2026-11-19T08:05:04.323850+09:00",
+      "last_seen": "2026-11-19T08:29:38.230773+09:00",
+      "peak_score": 92.98,
+      "max_views": 9626,
+      "max_likes": 72,
+      "max_comments": 32,
+      "appearances": 2,
+      "score": 103.18,
+      "views": 9626,
+      "likes": 72,
+      "comments": 32,
+      "change": 2
     },
     {
       "title": "관우 보고 오만하다느니, 형주 잃어서 촉 미래 작살냈다는 사람들",
@@ -139,11 +175,11 @@
       "max_likes": 98,
       "max_comments": 100,
       "appearances": 1,
-      "score": 101.43,
+      "score": 101.4,
       "views": 17940,
       "likes": 98,
       "comments": 100,
-      "change": -1
+      "change": -2
     },
     {
       "title": "\"미국이 아비뇽 유수 언급하면서 교황청 압박한다\"",
@@ -157,117 +193,161 @@
       "max_likes": 65,
       "max_comments": 35,
       "appearances": 1,
-      "score": 98.0,
+      "score": 97.96,
       "views": 9448,
       "likes": 65,
       "comments": 35,
-      "change": "NEW"
-    },
-    {
-      "title": "남편이 A컵 와이프 앞에서 부른 3곡",
-      "source": "뽐뿌",
-      "category": "이슈",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10193037",
-      "first_seen": "2026-11-19T01:33:05.389756+09:00",
-      "last_seen": "2026-11-19T02:26:07.251829+09:00",
-      "peak_score": 86.71,
-      "max_views": 41690,
-      "max_likes": 3,
-      "max_comments": 37,
-      "appearances": 2,
-      "score": 96.44,
-      "views": 41690,
-      "likes": 3,
-      "comments": 37,
       "change": -2
     },
     {
-      "title": "길냥이 구조4일차 슬슬살아난다",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77440389?m=humor",
-      "first_seen": "2026-11-19T08:05:04.323850+09:00",
-      "last_seen": "2026-11-19T08:05:04.323850+09:00",
-      "peak_score": 86.82,
-      "max_views": 9626,
-      "max_likes": 72,
-      "max_comments": 32,
-      "appearances": 1,
-      "score": 96.21,
-      "views": 9626,
-      "likes": 72,
-      "comments": 32,
-      "change": "NEW"
-    },
-    {
-      "title": "범인검거)젠지 결승전 비하인드 요약",
+      "title": "\"그렇게.. 11월 19일이 되었어.\"",
       "source": "디시인사이드",
       "category": "이슈",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=479969&_dcbest=1&page=1",
-      "first_seen": "2026-11-19T01:33:05.389756+09:00",
-      "last_seen": "2026-11-19T08:05:04.323850+09:00",
-      "peak_score": 85.17,
-      "max_views": 21397,
-      "max_likes": 354,
-      "max_comments": 204,
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=479971&_dcbest=1&page=1",
+      "first_seen": "2026-11-19T02:26:07.251829+09:00",
+      "last_seen": "2026-11-19T08:29:38.230773+09:00",
+      "peak_score": 85.66,
+      "max_views": 34521,
+      "max_likes": 847,
+      "max_comments": 140,
       "appearances": 3,
-      "score": 95.94,
-      "views": 21397,
-      "likes": 354,
-      "comments": 204,
-      "change": -3
+      "score": 96.43,
+      "views": 34521,
+      "likes": 847,
+      "comments": 140,
+      "change": 1
     }
   ],
   "rising": [
     {
-      "source": "디시인사이드",
-      "title": "\"그렇게.. 11월 19일이 되었어.\"",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=479971&_dcbest=1&page=1",
+      "source": "루리웹",
+      "title": "길냥이 구조4일차 슬슬살아난다",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77440389?m=humor",
       "category": "이슈",
-      "views": 33562,
-      "likes": 834,
-      "comments": 138,
-      "score": 82.9,
-      "change": 0,
-      "current_rank": 5,
+      "views": 9626,
+      "likes": 72,
+      "comments": 32,
+      "score": 92.98,
+      "change": 1,
+      "current_rank": 2,
       "new_entry": false,
-      "delta_views": 11732,
-      "delta_likes": 149,
-      "delta_comments": 86,
-      "rank_gain": 0,
-      "rising_score": 94.44,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 1,
+      "rising_score": 100.0,
       "rising_rank": 1,
-      "window_minutes": 339
+      "window_minutes": 25
+    },
+    {
+      "source": "뽐뿌",
+      "title": "수능보는 막내딸이랑 버스 탔습니다.",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10193493",
+      "category": "이슈",
+      "views": 11254,
+      "likes": 100,
+      "comments": 60,
+      "score": 56.91,
+      "change": 0,
+      "current_rank": 67,
+      "new_entry": false,
+      "delta_views": 4978,
+      "delta_likes": 41,
+      "delta_comments": 24,
+      "rank_gain": 0,
+      "rising_score": 100.0,
+      "rising_rank": 2,
+      "window_minutes": 25
+    },
+    {
+      "source": "더쿠",
+      "title": "리트냥이 실시간 수능풀이에 모인 제작진 + 취재진들 규모",
+      "url": "https://theqoo.net/hot/4411059519",
+      "category": "이슈",
+      "views": 26584,
+      "likes": 0,
+      "comments": 179,
+      "score": 63.53,
+      "change": 0,
+      "current_rank": 43,
+      "new_entry": false,
+      "delta_views": 17996,
+      "delta_likes": 0,
+      "delta_comments": 118,
+      "rank_gain": 0,
+      "rising_score": 93.75,
+      "rising_rank": 3,
+      "window_minutes": 25
     },
     {
       "source": "디시인사이드",
-      "title": "범인검거)젠지 결승전 비하인드 요약",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=479969&_dcbest=1&page=1",
+      "title": "싱글벙글 주차 안내원들은 도대체 왜 항상 화가 많을까??.jpg",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=479989&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 21397,
-      "likes": 354,
-      "comments": 204,
-      "score": 81.24,
+      "views": 13030,
+      "likes": 59,
+      "comments": 92,
+      "score": 76.68,
       "change": 0,
-      "current_rank": 6,
+      "current_rank": 9,
       "new_entry": false,
-      "delta_views": 7650,
-      "delta_likes": 70,
-      "delta_comments": 109,
+      "delta_views": 3021,
+      "delta_likes": 9,
+      "delta_comments": 26,
       "rank_gain": 0,
-      "rising_score": 91.67,
-      "rising_rank": 2,
-      "window_minutes": 339
+      "rising_score": 92.91,
+      "rising_rank": 4,
+      "window_minutes": 25
+    },
+    {
+      "source": "인벤",
+      "title": "ㅎㅂ) 호불호 있는 육덕 눈나",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2754082",
+      "category": "이슈",
+      "views": 3194,
+      "likes": 1,
+      "comments": 20,
+      "score": 66.18,
+      "change": 0,
+      "current_rank": 29,
+      "new_entry": false,
+      "delta_views": 1189,
+      "delta_likes": 0,
+      "delta_comments": 13,
+      "rank_gain": 0,
+      "rising_score": 90.01,
+      "rising_rank": 5,
+      "window_minutes": 25
+    },
+    {
+      "source": "디시인사이드",
+      "title": "싱글벙글 안경 끼고 우승한 사람",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=479983&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 7243,
+      "likes": 42,
+      "comments": 38,
+      "score": 63.68,
+      "change": 0,
+      "current_rank": 41,
+      "new_entry": false,
+      "delta_views": 2756,
+      "delta_likes": 12,
+      "delta_comments": 9,
+      "rank_gain": 0,
+      "rising_score": 87.73,
+      "rising_rank": 6,
+      "window_minutes": 25
     },
     {
       "source": "루리웹",
-      "title": "종신형 받은 술판 벌린 집에 와이프 못오게한 남자",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77439935?m=humor",
-      "category": "생활",
-      "views": 23660,
-      "likes": 111,
-      "comments": 32,
-      "score": 96.94,
+      "title": "뼈만 없으면 간장게장 뺨칠 밥도둑 후보 1위.jpg",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77439882?m=humor",
+      "category": "이슈",
+      "views": 22629,
+      "likes": 73,
+      "comments": 45,
+      "score": 98.95,
       "change": "NEW",
       "current_rank": 1,
       "new_entry": true,
@@ -275,152 +355,186 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.71,
-      "rising_rank": 3,
-      "window_minutes": 339
-    },
-    {
-      "source": "루리웹",
-      "title": "\"미국이 아비뇽 유수 언급하면서 교황청 압박한다\"",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77440582?m=humor",
-      "category": "이슈",
-      "views": 9448,
-      "likes": 65,
-      "comments": 35,
-      "score": 88.61,
-      "change": "NEW",
-      "current_rank": 2,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 79.22,
-      "rising_rank": 4,
-      "window_minutes": 339
-    },
-    {
-      "source": "루리웹",
-      "title": "길냥이 구조4일차 슬슬살아난다",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77440389?m=humor",
-      "category": "이슈",
-      "views": 9626,
-      "likes": 72,
-      "comments": 32,
-      "score": 86.82,
-      "change": "NEW",
-      "current_rank": 3,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 78.46,
-      "rising_rank": 5,
-      "window_minutes": 339
-    },
-    {
-      "source": "뽐뿌",
-      "title": "수능보는 막내딸이랑 버스 탔습니다.",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10193493",
-      "category": "이슈",
-      "views": 6276,
-      "likes": 59,
-      "comments": 36,
-      "score": 84.53,
-      "change": "NEW",
-      "current_rank": 4,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 77.5,
-      "rising_rank": 6,
-      "window_minutes": 339
-    },
-    {
-      "source": "더쿠",
-      "title": "이런 위로 너무 귀하다",
-      "url": "https://theqoo.net/hot/4410927428",
-      "category": "유머",
-      "views": 53827,
-      "likes": 0,
-      "comments": 249,
-      "score": 58.21,
-      "change": 0,
-      "current_rank": 62,
-      "new_entry": false,
-      "delta_views": 44422,
-      "delta_likes": 0,
-      "delta_comments": 162,
-      "rank_gain": 0,
-      "rising_score": 75.0,
+      "rising_score": 83.56,
       "rising_rank": 7,
-      "window_minutes": 339
-    },
-    {
-      "source": "뽐뿌",
-      "title": "450만원 독박에 개그맨 아내들의 반응",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10192891",
-      "category": "이슈",
-      "views": 23104,
-      "likes": 5,
-      "comments": 36,
-      "score": 76.96,
-      "change": "NEW",
-      "current_rank": 7,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 74.32,
-      "rising_rank": 8,
-      "window_minutes": 339
-    },
-    {
-      "source": "뽐뿌",
-      "title": "APEC 한국 위치",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10193458",
-      "category": "이슈",
-      "views": 21341,
-      "likes": 38,
-      "comments": 27,
-      "score": 76.61,
-      "change": "NEW",
-      "current_rank": 8,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 74.18,
-      "rising_rank": 9,
-      "window_minutes": 339
+      "window_minutes": 25
     },
     {
       "source": "더쿠",
-      "title": "다이소 강아지 모자 피해자 속출",
-      "url": "https://theqoo.net/hot/4410930729",
+      "title": "LEET 만점자 이진우, 수능 국어 실시간 공개 검증｜전 과정 생중계 (7:30 시작)",
+      "url": "https://theqoo.net/hot/4411053393",
       "category": "이슈",
-      "views": 70947,
+      "views": 26289,
       "likes": 0,
-      "comments": 254,
-      "score": 68.37,
-      "change": 3,
-      "current_rank": 19,
+      "comments": 208,
+      "score": 61.37,
+      "change": 0,
+      "current_rank": 50,
       "new_entry": false,
-      "delta_views": 53516,
+      "delta_views": 13956,
       "delta_likes": 0,
-      "delta_comments": 130,
-      "rank_gain": 3,
-      "rising_score": 73.89,
+      "delta_comments": 96,
+      "rank_gain": 0,
+      "rising_score": 81.25,
+      "rising_rank": 8,
+      "window_minutes": 25
+    },
+    {
+      "source": "디시인사이드",
+      "title": "무사증 입국 제도 폐지 법안 발의... 제주 관광업계 반발",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=479985&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 3036,
+      "likes": 88,
+      "comments": 38,
+      "score": 66.7,
+      "change": 0,
+      "current_rank": 27,
+      "new_entry": false,
+      "delta_views": 826,
+      "delta_likes": 15,
+      "delta_comments": 13,
+      "rank_gain": 0,
+      "rising_score": 78.29,
+      "rising_rank": 9,
+      "window_minutes": 25
+    },
+    {
+      "source": "디시인사이드",
+      "title": "gta를 사랑했던 한 청년",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=479977&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 11382,
+      "likes": 112,
+      "comments": 60,
+      "score": 70.0,
+      "change": 0,
+      "current_rank": 18,
+      "new_entry": false,
+      "delta_views": 1457,
+      "delta_likes": 8,
+      "delta_comments": 6,
+      "rank_gain": 0,
+      "rising_score": 77.88,
       "rising_rank": 10,
-      "window_minutes": 339
+      "window_minutes": 25
     }
   ],
   "issues": [
+    {
+      "id": "i7b982dea",
+      "title": "‘리트냥이’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "리트냥이"
+      ],
+      "source_count": 4,
+      "post_count": 7,
+      "score": 120.56,
+      "peak_score": 93.51,
+      "appearances": 4,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "루리웹",
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 23,
+          "title": "리트냥이 라이브 대기중",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2754075",
+          "score": 67.51
+        },
+        {
+          "source": "더쿠",
+          "rank": 43,
+          "title": "리트냥이 실시간 수능풀이에 모인 제작진 + 취재진들 규모",
+          "url": "https://theqoo.net/hot/4411059519",
+          "score": 63.53
+        },
+        {
+          "source": "루리웹",
+          "rank": 44,
+          "title": "리트냥이 라방 제직진들 하수네",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77441142?m=humor_only&t=now",
+          "score": 63.52
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 93,
+          "title": "리트냥이, \"오히려 전남대 의대녀가 나를 스토킹한거다\"",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=479927&_dcbest=1&page=1",
+          "score": 52.74
+        }
+      ],
+      "first_seen": "2026-11-19T01:33:05.389756+09:00",
+      "last_seen": "2026-11-19T08:29:38.230773+09:00",
+      "latest_source_count": 4,
+      "latest_post_count": 7,
+      "rank": 1,
+      "change": 5
+    },
+    {
+      "id": "i4af03c34",
+      "title": "[속보] 리트 만점자, 공개검증 약속시간 도착안해…\"폰 꺼져있어\"",
+      "keywords": [
+        "리트",
+        "만점자",
+        "약속시간",
+        "꺼져있어",
+        "도착안해",
+        "공개검증"
+      ],
+      "source_count": 4,
+      "post_count": 5,
+      "score": 117.97,
+      "peak_score": 97.5,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "루리웹",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 12,
+          "title": "[속보] 리트 만점자, 공개검증 약속시간 도착안해…\"폰 꺼져있어\"",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2754088",
+          "score": 74.5
+        },
+        {
+          "source": "더쿠",
+          "rank": 21,
+          "title": "[속보] 리트 만점자, 공개검증 약속시간 도착안해…\"폰 꺼져있어\"",
+          "url": "https://theqoo.net/hot/4411072212",
+          "score": 68.84
+        },
+        {
+          "source": "루리웹",
+          "rank": 45,
+          "title": "리트 만점자 근황 jpg",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77441101?m=humor_only&t=now",
+          "score": 63.17
+        },
+        {
+          "source": "클리앙",
+          "rank": 57,
+          "title": "리트 만점자 근황...",
+          "url": "https://www.clien.net/service/board/park/19294950?od=T31&po=0&category=0&groupCd=",
+          "score": 60.6
+        }
+      ],
+      "first_seen": "2026-11-19T08:29:38.230773+09:00",
+      "last_seen": "2026-11-19T08:29:38.230773+09:00",
+      "latest_source_count": 4,
+      "latest_post_count": 5,
+      "rank": 2,
+      "change": "NEW"
+    },
     {
       "id": "i91f13db9",
       "title": "‘gta6’ 관련 글이 여러 커뮤니티에서 화제",
@@ -464,8 +578,8 @@
       "last_seen": "2026-11-19T02:26:07.251829+09:00",
       "latest_source_count": 3,
       "latest_post_count": 3,
-      "rank": 1,
-      "change": 0
+      "rank": 3,
+      "change": -2
     },
     {
       "id": "ic6bd73cf",
@@ -502,8 +616,8 @@
       "last_seen": "2026-11-19T08:05:04.323850+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 2,
-      "change": "NEW"
+      "rank": 4,
+      "change": -2
     },
     {
       "id": "ib040db4a",
@@ -540,8 +654,93 @@
       "last_seen": "2026-11-19T02:26:07.251829+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 3,
-      "change": -1
+      "rank": 5,
+      "change": -2
+    },
+    {
+      "id": "i4a23876e",
+      "title": "‘11월’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "11월"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 99.41,
+      "peak_score": 89.94,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 4,
+          "title": "\"그렇게.. 11월 19일이 되었어.\"",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=479971&_dcbest=1&page=1",
+          "score": 80.94
+        },
+        {
+          "source": "인벤",
+          "rank": 56,
+          "title": "11월 19일 목요일 날씨 + 운세",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2754092",
+          "score": 60.64
+        }
+      ],
+      "first_seen": "2026-11-01T10:25:13.327785+09:00",
+      "last_seen": "2026-11-19T08:29:38.230773+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 6,
+      "change": "NEW"
+    },
+    {
+      "id": "i2451c48b",
+      "title": "‘이진우’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "이진우",
+        "leet"
+      ],
+      "source_count": 3,
+      "post_count": 3,
+      "score": 94.07,
+      "peak_score": 79.6,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "루리웹",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 48,
+          "title": "이진우 증거인멸 시간 번거 같네요",
+          "url": "https://www.clien.net/service/board/park/19294951?od=T31&po=0&category=0&groupCd=",
+          "score": 62.6
+        },
+        {
+          "source": "더쿠",
+          "rank": 50,
+          "title": "LEET 만점자 이진우, 수능 국어 실시간 공개 검증｜전 과정 생중계 (7:30 시작)",
+          "url": "https://theqoo.net/hot/4411053393",
+          "score": 61.37
+        },
+        {
+          "source": "루리웹",
+          "rank": 94,
+          "title": "LEET 만점자 이진우 8시40분까지 기다리겠다 어제부터 연락을 안받는다.mp4",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77441094?m=humor_only&t=now",
+          "score": 52.03
+        }
+      ],
+      "first_seen": "2026-11-12T16:47:53.957964+09:00",
+      "last_seen": "2026-11-19T08:29:38.230773+09:00",
+      "latest_source_count": 3,
+      "latest_post_count": 3,
+      "rank": 7,
+      "change": "NEW"
     },
     {
       "id": "i30b66e0d",
@@ -582,8 +781,8 @@
       "last_seen": "2026-11-19T02:26:07.251829+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 4,
-      "change": -1
+      "rank": 8,
+      "change": -4
     },
     {
       "id": "i9f5e1ed4",
@@ -593,201 +792,46 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 86.25,
+      "score": 88.27,
       "peak_score": 76.78,
-      "appearances": 1,
+      "appearances": 2,
       "sources": [
         "더쿠",
         "인벤"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 20,
-          "title": "[후방주의]ㅇㅎ) 안아랑 수영복 인스타",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2754069",
-          "score": 67.78
-        },
-        {
-          "source": "더쿠",
-          "rank": 36,
-          "title": "박지윤 인스타 전문",
-          "url": "https://theqoo.net/hot/4411052556",
-          "score": 62.68
-        }
-      ],
-      "first_seen": "2026-09-29T08:23:09.958029+09:00",
-      "last_seen": "2026-11-19T08:05:04.323850+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 5,
-      "change": "NEW"
-    },
-    {
-      "id": "i7b982dea",
-      "title": "리트냥이 실시간 수능풀이에 모인 제작진 + 취재진들 규모",
-      "keywords": [
-        "실시간",
-        "리트냥이"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 85.86,
-      "peak_score": 72.93,
-      "appearances": 3,
-      "sources": [
-        "더쿠",
-        "디시인사이드",
-        "루리웹",
-        "뽐뿌"
       ],
       "posts": [
         {
           "source": "더쿠",
           "rank": 34,
-          "title": "리트냥이 실시간 수능풀이에 모인 제작진 + 취재진들 규모",
-          "url": "https://theqoo.net/hot/4411059519",
-          "score": 63.0
+          "title": "박지윤 인스타 전문",
+          "url": "https://theqoo.net/hot/4411052556",
+          "score": 65.21
         },
-        {
-          "source": "루리웹",
-          "rank": 78,
-          "title": "실시간 리트냥이 촬영현장 근황....",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77440824?m=humor_only&t=now",
-          "score": 55.07
-        }
-      ],
-      "first_seen": "2026-11-19T01:33:05.389756+09:00",
-      "last_seen": "2026-11-19T08:05:04.323850+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 6,
-      "change": -2
-    },
-    {
-      "id": "iae6b0123",
-      "title": "‘실시간’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "실시간"
-      ],
-      "source_count": 2,
-      "post_count": 3,
-      "score": 84.31,
-      "peak_score": 73.84,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "루리웹"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 30,
-          "title": "LEET 만점자 이진우, 수능 국어 실시간 공개 검증｜전 과정 생중계 (7:30 시작)",
-          "url": "https://theqoo.net/hot/4411053393",
-          "score": 63.84
-        },
-        {
-          "source": "루리웹",
-          "rank": 78,
-          "title": "실시간 리트냥이 촬영현장 근황....",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77440824?m=humor_only&t=now",
-          "score": 55.07
-        }
-      ],
-      "first_seen": "2026-10-06T11:19:29.813850+09:00",
-      "last_seen": "2026-11-19T08:05:04.323850+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 3,
-      "rank": 7,
-      "change": "NEW"
-    },
-    {
-      "id": "i8bcd73b9",
-      "title": "‘라이브’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "라이브"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 82.87,
-      "peak_score": 73.4,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "인벤"
-      ],
-      "posts": [
         {
           "source": "인벤",
-          "rank": 27,
-          "title": "리트냥이 라이브 대기중",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2754075",
-          "score": 64.4
-        },
-        {
-          "source": "더쿠",
-          "rank": 92,
-          "title": "LEET만점자 라이브 예정, 조건 공개",
-          "url": "https://theqoo.net/hot/4410775091",
-          "score": 51.79
+          "rank": 52,
+          "title": "[후방주의]ㅇㅎ) 안아랑 수영복 인스타",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2754069",
+          "score": 61.01
         }
       ],
-      "first_seen": "2026-10-28T23:20:07.286221+09:00",
-      "last_seen": "2026-11-19T08:05:04.323850+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 8,
-      "change": "NEW"
-    },
-    {
-      "id": "ie37a60df",
-      "title": "‘ai컨닝’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "ai컨닝"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 81.7,
-      "peak_score": 70.21,
-      "appearances": 2,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 71,
-          "title": "싱글벙글 AI컨닝 육안으로 식별 불가능한 이유(AI안경 X)",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=479923&_dcbest=1&page=1",
-          "score": 56.97
-        },
-        {
-          "source": "더쿠",
-          "rank": 85,
-          "title": "사실 AI컨닝 난리난거 한국이 먼저 아님.....",
-          "url": "https://theqoo.net/hot/4410831585",
-          "score": 53.58
-        }
-      ],
-      "first_seen": "2026-11-19T01:33:05.389756+09:00",
-      "last_seen": "2026-11-19T02:26:07.251829+09:00",
+      "first_seen": "2026-09-29T08:23:09.958029+09:00",
+      "last_seen": "2026-11-19T08:29:38.230773+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 9,
       "change": -4
     },
     {
-      "id": "i2a188a14",
-      "title": "‘박지윤’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "iac1a4f3f",
+      "title": "‘생중계’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "박지윤"
+        "생중계"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 81.15,
-      "peak_score": 71.68,
+      "score": 85.81,
+      "peak_score": 76.34,
       "appearances": 1,
       "sources": [
         "더쿠",
@@ -795,22 +839,22 @@
       ],
       "posts": [
         {
-          "source": "더쿠",
-          "rank": 36,
-          "title": "박지윤 인스타 전문",
-          "url": "https://theqoo.net/hot/4411052556",
-          "score": 62.68
+          "source": "뽐뿌",
+          "rank": 24,
+          "title": "유튜브 생중계 예고 올린 리트 만점자 ㄷㄷ..jpg",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10193358",
+          "score": 67.34
         },
         {
-          "source": "뽐뿌",
-          "rank": 43,
-          "title": "박지윤 상간소 패소이유",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10193513",
-          "score": 61.47
+          "source": "더쿠",
+          "rank": 50,
+          "title": "LEET 만점자 이진우, 수능 국어 실시간 공개 검증｜전 과정 생중계 (7:30 시작)",
+          "url": "https://theqoo.net/hot/4411053393",
+          "score": 61.37
         }
       ],
-      "first_seen": "2026-11-19T08:05:04.323850+09:00",
-      "last_seen": "2026-11-19T08:05:04.323850+09:00",
+      "first_seen": "2026-11-19T08:29:38.230773+09:00",
+      "last_seen": "2026-11-19T08:29:38.230773+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 10,
@@ -819,71 +863,253 @@
   ],
   "realtime_issues": [
     {
-      "id": "iae6b0123",
-      "title": "‘실시간’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i7b982dea",
+      "title": "‘리트냥이’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "실시간"
+        "리트냥이"
       ],
-      "source_count": 2,
-      "post_count": 3,
-      "score": 73.84,
-      "peak_score": 73.84,
+      "source_count": 4,
+      "post_count": 7,
+      "score": 93.51,
+      "peak_score": 93.51,
       "appearances": 1,
       "sources": [
         "더쿠",
-        "루리웹"
+        "디시인사이드",
+        "루리웹",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 23,
+          "title": "리트냥이 라이브 대기중",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2754075",
+          "score": 67.51
+        },
+        {
+          "source": "더쿠",
+          "rank": 43,
+          "title": "리트냥이 실시간 수능풀이에 모인 제작진 + 취재진들 규모",
+          "url": "https://theqoo.net/hot/4411059519",
+          "score": 63.53
+        },
+        {
+          "source": "루리웹",
+          "rank": 44,
+          "title": "리트냥이 라방 제직진들 하수네",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77441142?m=humor_only&t=now",
+          "score": 63.52
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 93,
+          "title": "리트냥이, \"오히려 전남대 의대녀가 나를 스토킹한거다\"",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=479927&_dcbest=1&page=1",
+          "score": 52.74
+        }
+      ],
+      "rank": 1,
+      "change": 5
+    },
+    {
+      "id": "i4af03c34",
+      "title": "[속보] 리트 만점자, 공개검증 약속시간 도착안해…\"폰 꺼져있어\"",
+      "keywords": [
+        "리트",
+        "만점자",
+        "약속시간",
+        "꺼져있어",
+        "도착안해",
+        "공개검증"
+      ],
+      "source_count": 4,
+      "post_count": 5,
+      "score": 97.5,
+      "peak_score": 97.5,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "루리웹",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 12,
+          "title": "[속보] 리트 만점자, 공개검증 약속시간 도착안해…\"폰 꺼져있어\"",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2754088",
+          "score": 74.5
+        },
+        {
+          "source": "더쿠",
+          "rank": 21,
+          "title": "[속보] 리트 만점자, 공개검증 약속시간 도착안해…\"폰 꺼져있어\"",
+          "url": "https://theqoo.net/hot/4411072212",
+          "score": 68.84
+        },
+        {
+          "source": "루리웹",
+          "rank": 45,
+          "title": "리트 만점자 근황 jpg",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77441101?m=humor_only&t=now",
+          "score": 63.17
+        },
+        {
+          "source": "클리앙",
+          "rank": 57,
+          "title": "리트 만점자 근황...",
+          "url": "https://www.clien.net/service/board/park/19294950?od=T31&po=0&category=0&groupCd=",
+          "score": 60.6
+        }
+      ],
+      "rank": 2,
+      "change": "NEW"
+    },
+    {
+      "id": "i2451c48b",
+      "title": "‘이진우’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "이진우",
+        "leet"
+      ],
+      "source_count": 3,
+      "post_count": 3,
+      "score": 79.6,
+      "peak_score": 79.6,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "루리웹",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 48,
+          "title": "이진우 증거인멸 시간 번거 같네요",
+          "url": "https://www.clien.net/service/board/park/19294951?od=T31&po=0&category=0&groupCd=",
+          "score": 62.6
+        },
+        {
+          "source": "더쿠",
+          "rank": 50,
+          "title": "LEET 만점자 이진우, 수능 국어 실시간 공개 검증｜전 과정 생중계 (7:30 시작)",
+          "url": "https://theqoo.net/hot/4411053393",
+          "score": 61.37
+        },
+        {
+          "source": "루리웹",
+          "rank": 94,
+          "title": "LEET 만점자 이진우 8시40분까지 기다리겠다 어제부터 연락을 안받는다.mp4",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77441094?m=humor_only&t=now",
+          "score": 52.03
+        }
+      ],
+      "rank": 3,
+      "change": "NEW"
+    },
+    {
+      "id": "i4a23876e",
+      "title": "‘11월’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "11월"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 89.94,
+      "peak_score": 89.94,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 4,
+          "title": "\"그렇게.. 11월 19일이 되었어.\"",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=479971&_dcbest=1&page=1",
+          "score": 80.94
+        },
+        {
+          "source": "인벤",
+          "rank": 56,
+          "title": "11월 19일 목요일 날씨 + 운세",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2754092",
+          "score": 60.64
+        }
+      ],
+      "rank": 4,
+      "change": "NEW"
+    },
+    {
+      "id": "iac1a4f3f",
+      "title": "‘생중계’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "생중계"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 76.34,
+      "peak_score": 76.34,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 24,
+          "title": "유튜브 생중계 예고 올린 리트 만점자 ㄷㄷ..jpg",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10193358",
+          "score": 67.34
+        },
+        {
+          "source": "더쿠",
+          "rank": 50,
+          "title": "LEET 만점자 이진우, 수능 국어 실시간 공개 검증｜전 과정 생중계 (7:30 시작)",
+          "url": "https://theqoo.net/hot/4411053393",
+          "score": 61.37
+        }
+      ],
+      "rank": 5,
+      "change": "NEW"
+    },
+    {
+      "id": "i91120c4d",
+      "title": "‘한한령’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "한한령"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 75.0,
+      "peak_score": 75.0,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "클리앙"
       ],
       "posts": [
         {
           "source": "더쿠",
-          "rank": 30,
-          "title": "LEET 만점자 이진우, 수능 국어 실시간 공개 검증｜전 과정 생중계 (7:30 시작)",
-          "url": "https://theqoo.net/hot/4411053393",
-          "score": 63.84
+          "rank": 31,
+          "title": "한한령 풀어주면 드라마는 중국과 공동제작한다함.jpg",
+          "url": "https://theqoo.net/hot/4411076880",
+          "score": 66.0
         },
         {
-          "source": "루리웹",
-          "rank": 78,
-          "title": "실시간 리트냥이 촬영현장 근황....",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77440824?m=humor_only&t=now",
-          "score": 55.07
+          "source": "클리앙",
+          "rank": 55,
+          "title": "한한령 해제가 뭐가 되요.",
+          "url": "https://www.clien.net/service/board/park/19294953?od=T31&po=0&category=0&groupCd=",
+          "score": 60.67
         }
       ],
-      "rank": 1,
-      "change": "NEW"
-    },
-    {
-      "id": "ic6bd73cf",
-      "title": "‘미국이’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "미국이"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 97.61,
-      "peak_score": 97.61,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "루리웹"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 2,
-          "title": "\"미국이 아비뇽 유수 언급하면서 교황청 압박한다\"",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77440582?m=humor",
-          "score": 88.61
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 70,
-          "title": "싱글벙글 미국이 괌을 케이크처럼 쉽게 먹은 이유",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=479955&_dcbest=1&page=1",
-          "score": 57.01
-        }
-      ],
-      "rank": 2,
+      "rank": 6,
       "change": "NEW"
     },
     {
@@ -894,270 +1120,175 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 76.78,
-      "peak_score": 76.78,
+      "score": 74.21,
+      "peak_score": 74.21,
       "appearances": 1,
       "sources": [
         "더쿠",
         "인벤"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 20,
-          "title": "[후방주의]ㅇㅎ) 안아랑 수영복 인스타",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2754069",
-          "score": 67.78
-        },
-        {
-          "source": "더쿠",
-          "rank": 36,
-          "title": "박지윤 인스타 전문",
-          "url": "https://theqoo.net/hot/4411052556",
-          "score": 62.68
-        }
-      ],
-      "rank": 3,
-      "change": "NEW"
-    },
-    {
-      "id": "i8bcd73b9",
-      "title": "‘라이브’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "라이브"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 73.4,
-      "peak_score": 73.4,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 27,
-          "title": "리트냥이 라이브 대기중",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2754075",
-          "score": 64.4
-        },
-        {
-          "source": "더쿠",
-          "rank": 92,
-          "title": "LEET만점자 라이브 예정, 조건 공개",
-          "url": "https://theqoo.net/hot/4410775091",
-          "score": 51.79
-        }
-      ],
-      "rank": 4,
-      "change": "NEW"
-    },
-    {
-      "id": "i2a188a14",
-      "title": "‘박지윤’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "박지윤"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 71.68,
-      "peak_score": 71.68,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 36,
-          "title": "박지윤 인스타 전문",
-          "url": "https://theqoo.net/hot/4411052556",
-          "score": 62.68
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 43,
-          "title": "박지윤 상간소 패소이유",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10193513",
-          "score": 61.47
-        }
-      ],
-      "rank": 5,
-      "change": "NEW"
-    },
-    {
-      "id": "i7b982dea",
-      "title": "리트냥이 실시간 수능풀이에 모인 제작진 + 취재진들 규모",
-      "keywords": [
-        "실시간",
-        "리트냥이"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 71.0,
-      "peak_score": 71.0,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "루리웹"
       ],
       "posts": [
         {
           "source": "더쿠",
           "rank": 34,
-          "title": "리트냥이 실시간 수능풀이에 모인 제작진 + 취재진들 규모",
-          "url": "https://theqoo.net/hot/4411059519",
-          "score": 63.0
-        },
-        {
-          "source": "루리웹",
-          "rank": 78,
-          "title": "실시간 리트냥이 촬영현장 근황....",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77440824?m=humor_only&t=now",
-          "score": 55.07
-        }
-      ],
-      "rank": 6,
-      "change": -1
-    },
-    {
-      "id": "i79027138",
-      "title": "짧게 만난 한러 정상",
-      "keywords": [
-        "만난",
-        "정상",
-        "짧게",
-        "한러"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 67.93,
-      "peak_score": 67.93,
-      "appearances": 1,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 55,
-          "title": "짧게 만난 한러 정상",
-          "url": "https://www.clien.net/service/board/park/19294940?od=T31&po=0&category=0&groupCd=",
-          "score": 59.93
+          "title": "박지윤 인스타 전문",
+          "url": "https://theqoo.net/hot/4411052556",
+          "score": 65.21
         },
         {
           "source": "인벤",
-          "rank": 57,
-          "title": "짧게 만난 한러 정상",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2754086",
-          "score": 59.18
+          "rank": 52,
+          "title": "[후방주의]ㅇㅎ) 안아랑 수영복 인스타",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2754069",
+          "score": 61.01
         }
       ],
       "rank": 7,
+      "change": -4
+    },
+    {
+      "id": "i8b76e4ab",
+      "title": "‘연락두절’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "연락두절"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 72.93,
+      "peak_score": 72.93,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 38,
+          "title": "리트냥이 전날부터 연락두절, 약속 장소에 안나타남",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2754093",
+          "score": 63.93
+        },
+        {
+          "source": "루리웹",
+          "rank": 58,
+          "title": "리트냥이 어제부터 연락두절....8시 40분까지만 기다리기로",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77441120?m=humor_only&t=now",
+          "score": 59.74
+        }
+      ],
+      "rank": 8,
       "change": "NEW"
     }
   ],
   "keywords": [
     {
-      "keyword": "수능",
-      "score": 147.15,
-      "post_count": 5,
-      "source_count": 4,
-      "best_rank": 30,
+      "keyword": "만점자",
+      "score": 214.22,
+      "post_count": 10,
+      "source_count": 5,
+      "best_rank": 10,
       "sources": [
         "더쿠",
+        "루리웹",
+        "뽐뿌",
+        "인벤",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 1,
+      "change": "NEW"
+    },
+    {
+      "keyword": "리트",
+      "score": 202.8,
+      "post_count": 8,
+      "source_count": 5,
+      "best_rank": 10,
+      "sources": [
+        "더쿠",
+        "루리웹",
+        "뽐뿌",
+        "인벤",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 2,
+      "change": "NEW"
+    },
+    {
+      "keyword": "리트냥",
+      "score": 200.16,
+      "post_count": 8,
+      "source_count": 5,
+      "best_rank": 7,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
         "루리웹",
         "뽐뿌",
         "인벤"
       ],
       "aliases": [],
-      "rank": 1,
-      "change": 4
+      "rank": 3,
+      "change": -1
     },
     {
-      "keyword": "리트냥",
-      "score": 143.41,
-      "post_count": 4,
-      "source_count": 4,
-      "best_rank": 27,
+      "keyword": "이진우",
+      "score": 112.31,
+      "post_count": 3,
+      "source_count": 3,
+      "best_rank": 48,
       "sources": [
         "더쿠",
-        "디시인사이드",
+        "루리웹",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 4,
+      "change": 2
+    },
+    {
+      "keyword": "수능",
+      "score": 109.12,
+      "post_count": 3,
+      "source_count": 3,
+      "best_rank": 50,
+      "sources": [
+        "더쿠",
         "루리웹",
         "인벤"
       ],
       "aliases": [],
-      "rank": 2,
-      "change": 15
-    },
-    {
-      "keyword": "미국",
-      "score": 100.29,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 2,
-      "sources": [
-        "디시인사이드",
-        "루리웹"
-      ],
-      "aliases": [],
-      "rank": 3,
-      "change": "NEW"
-    },
-    {
-      "keyword": "한국",
-      "score": 98.69,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 8,
-      "sources": [
-        "더쿠",
-        "뽐뿌"
-      ],
-      "aliases": [],
-      "rank": 4,
-      "change": "NEW"
-    },
-    {
-      "keyword": "실시간",
-      "score": 94.86,
-      "post_count": 3,
-      "source_count": 2,
-      "best_rank": 30,
-      "sources": [
-        "더쿠",
-        "루리웹"
-      ],
-      "aliases": [],
       "rank": 5,
-      "change": "NEW"
+      "change": -4
     },
     {
-      "keyword": "이진우",
-      "score": 93.82,
+      "keyword": "공개검증",
+      "score": 101.15,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 24,
+      "best_rank": 12,
       "sources": [
         "더쿠",
-        "클리앙"
+        "인벤"
       ],
-      "aliases": [],
+      "aliases": [
+        "꺼져있어",
+        "도착안해",
+        "약속시간"
+      ],
       "rank": 6,
       "change": "NEW"
     },
     {
-      "keyword": "인스타",
-      "score": 93.78,
+      "keyword": "11월",
+      "score": 100.46,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 20,
+      "best_rank": 4,
       "sources": [
-        "더쿠",
+        "디시인사이드",
         "인벤"
       ],
       "aliases": [],
@@ -1165,144 +1296,166 @@
       "change": "NEW"
     },
     {
-      "keyword": "제주",
-      "score": 90.18,
+      "keyword": "결국",
+      "score": 100.17,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 22,
+      "best_rank": 10,
       "sources": [
-        "디시인사이드",
-        "뽐뿌"
+        "인벤",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 8,
       "change": "NEW"
     },
     {
-      "keyword": "박지윤",
-      "score": 90.14,
-      "post_count": 2,
+      "keyword": "한한령",
+      "score": 96.94,
+      "post_count": 3,
       "source_count": 2,
-      "best_rank": 36,
+      "best_rank": 31,
       "sources": [
         "더쿠",
-        "뽐뿌"
+        "클리앙"
       ],
       "aliases": [],
       "rank": 9,
       "change": "NEW"
     },
     {
-      "keyword": "짧게",
-      "score": 85.48,
+      "keyword": "중국",
+      "score": 91.89,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 55,
+      "best_rank": 31,
       "sources": [
-        "인벤",
+        "더쿠",
         "클리앙"
       ],
-      "aliases": [
-        "만난",
-        "정상",
-        "한러"
-      ],
+      "aliases": [],
       "rank": 10,
       "change": "NEW"
     },
     {
-      "keyword": "먹은",
-      "score": 84.3,
+      "keyword": "생중계",
+      "score": 91.38,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 50,
+      "best_rank": 24,
       "sources": [
         "더쿠",
-        "디시인사이드"
+        "뽐뿌"
       ],
       "aliases": [],
       "rank": 11,
-      "change": 2
+      "change": "NEW"
     },
     {
-      "keyword": "라이브",
-      "score": 84.23,
+      "keyword": "인스타",
+      "score": 89.59,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 27,
+      "best_rank": 34,
       "sources": [
         "더쿠",
         "인벤"
       ],
       "aliases": [],
       "rank": 12,
-      "change": 4
+      "change": -5
     },
     {
-      "keyword": "일본",
-      "score": 78.74,
+      "keyword": "연락두절",
+      "score": 88.03,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 66,
+      "best_rank": 38,
       "sources": [
-        "인벤",
+        "루리웹",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 13,
+      "change": "NEW"
+    },
+    {
+      "keyword": "약속",
+      "score": 86.29,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 38,
+      "sources": [
+        "더쿠",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 14,
+      "change": "NEW"
+    },
+    {
+      "keyword": "시간",
+      "score": 84.9,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 48,
+      "sources": [
+        "더쿠",
         "클리앙"
       ],
-      "aliases": [
-        "1위"
-      ],
-      "rank": 13,
-      "change": -5
+      "aliases": [],
+      "rank": 15,
+      "change": "NEW"
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "종신형 받은 술판 벌린 집에 와이프 못오게한 남자",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77439935?m=humor",
-      "score": 96.94,
-      "views": 23660,
-      "comments": 32
-    },
-    {
-      "source": "뽐뿌",
-      "title": "수능보는 막내딸이랑 버스 탔습니다.",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10193493",
-      "score": 84.53,
-      "views": 6276,
-      "comments": 36
+      "title": "뼈만 없으면 간장게장 뺨칠 밥도둑 후보 1위.jpg",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77439882?m=humor",
+      "score": 98.95,
+      "views": 22629,
+      "comments": 45
     },
     {
       "source": "디시인사이드",
       "title": "\"그렇게.. 11월 19일이 되었어.\"",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=479971&_dcbest=1&page=1",
-      "score": 82.9,
-      "views": 33562,
-      "comments": 138
-    },
-    {
-      "source": "클리앙",
-      "title": "조작기소 특검법 재가했네요",
-      "url": "https://www.clien.net/service/board/park/19294935?od=T31&po=0&category=0&groupCd=",
-      "score": 75.68,
-      "views": 1211,
-      "comments": 23
+      "score": 80.94,
+      "views": 34521,
+      "comments": 140
     },
     {
       "source": "인벤",
       "title": "ㅎㅂ) 호불호 있는 슬랜더 눈나",
       "url": "https://www.inven.co.kr/board/webzine/2097/2754083",
-      "score": 74.11,
-      "views": 2318,
-      "comments": 6
+      "score": 78.98,
+      "views": 3988,
+      "comments": 21
+    },
+    {
+      "source": "뽐뿌",
+      "title": "리트냥 도착햇다고 난리남",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10193576",
+      "score": 78.68,
+      "views": 2891,
+      "comments": 18
+    },
+    {
+      "source": "클리앙",
+      "title": "결국 리트 만점자도",
+      "url": "https://www.clien.net/service/board/park/19294949?od=T31&po=0&category=0&groupCd=",
+      "score": 76.47,
+      "views": 938,
+      "comments": 9
     },
     {
       "source": "더쿠",
-      "title": "다이소 강아지 모자 피해자 속출",
-      "url": "https://theqoo.net/hot/4410930729",
-      "score": 68.37,
-      "views": 70947,
-      "comments": 254
+      "title": "[속보] 리트 만점자, 공개검증 약속시간 도착안해…\"폰 꺼져있어\"",
+      "url": "https://theqoo.net/hot/4411072212",
+      "score": 68.84,
+      "views": 13318,
+      "comments": 184
     }
   ]
 }
