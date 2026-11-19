@@ -2,9 +2,9 @@
   "version": 1,
   "date": "2026-11-19",
   "label": "2026년 11월 19일",
-  "collected_at": "2026-11-19T13:07:09.014795+09:00",
+  "collected_at": "2026-11-19T13:31:34.140481+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘‘이진우’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #리트냥. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘리트냥이 심정지 상태로 발견’입니다. 실시간 키워드 상위: #리트냥. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 6,
@@ -13,30 +13,48 @@
     "daily_posts": 100,
     "daily_issues": 20,
     "keywords": 20,
-    "top100_views": 1079104,
-    "top100_comments": 7854
+    "top100_views": 1154417,
+    "top100_comments": 8460
   },
   "highlights": [
     {
       "type": "issue",
-      "title": "‘이진우’ 관련 글이 여러 커뮤니티에서 화제",
-      "text": "5개 커뮤니티에서 8개 관련 인기글이 포착됐습니다.",
-      "issue_id": "i139fa3fd"
+      "title": "리트냥이 심정지 상태로 발견",
+      "text": "6개 커뮤니티에서 7개 관련 인기글이 포착됐습니다.",
+      "issue_id": "i7b982dea"
     },
     {
       "type": "post",
-      "title": "뼈만 없으면 간장게장 뺨칠 밥도둑 후보 1위.jpg",
+      "title": "요즘 작살난 소아과 병원 근황",
       "text": "루리웹에서 현재 상위권에 오른 인기글입니다.",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77439882?m=humor"
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77441715?m=humor"
     },
     {
       "type": "keyword",
       "title": "#리트냥",
-      "text": "6개 커뮤니티 · 11개 인기글에서 함께 등장했습니다.",
+      "text": "5개 커뮤니티 · 15개 인기글에서 함께 등장했습니다.",
       "keyword": "리트냥"
     }
   ],
   "top_posts": [
+    {
+      "title": "요즘 작살난 소아과 병원 근황",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77441715?m=humor",
+      "first_seen": "2026-11-19T13:07:09.014795+09:00",
+      "last_seen": "2026-11-19T13:31:34.140481+09:00",
+      "peak_score": 98.96,
+      "max_views": 28548,
+      "max_likes": 225,
+      "max_comments": 107,
+      "appearances": 2,
+      "score": 109.16,
+      "views": 28548,
+      "likes": 225,
+      "comments": 107,
+      "change": 2
+    },
     {
       "title": "뼈만 없으면 간장게장 뺨칠 밥도둑 후보 1위.jpg",
       "source": "루리웹",
@@ -49,11 +67,11 @@
       "max_likes": 73,
       "max_comments": 45,
       "appearances": 1,
-      "score": 107.95,
+      "score": 107.92,
       "views": 22629,
       "likes": 73,
       "comments": 45,
-      "change": 0
+      "change": -1
     },
     {
       "title": "쓰읍 장사가 이번 달이 더 안되네..",
@@ -67,29 +85,11 @@
       "max_likes": 150,
       "max_comments": 83,
       "appearances": 1,
-      "score": 107.04,
+      "score": 107.0,
       "views": 25133,
       "likes": 150,
       "comments": 83,
-      "change": 0
-    },
-    {
-      "title": "요즘 작살난 소아과 병원 근황",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77441715?m=humor",
-      "first_seen": "2026-11-19T13:07:09.014795+09:00",
-      "last_seen": "2026-11-19T13:07:09.014795+09:00",
-      "peak_score": 97.44,
-      "max_views": 28548,
-      "max_likes": 225,
-      "max_comments": 107,
-      "appearances": 1,
-      "score": 106.83,
-      "views": 28548,
-      "likes": 225,
-      "comments": 107,
-      "change": "NEW"
+      "change": -1
     },
     {
       "title": "백종원, 안성재, 논란에도 불구하고 흑백요리사3 심사위원 복귀",
@@ -103,11 +103,11 @@
       "max_likes": 127,
       "max_comments": 84,
       "appearances": 1,
-      "score": 106.68,
+      "score": 106.64,
       "views": 24319,
       "likes": 127,
       "comments": 84,
-      "change": "NEW"
+      "change": 0
     },
     {
       "title": "종신형 받은 술판 벌린 집에 와이프 못오게한 남자",
@@ -121,11 +121,11 @@
       "max_likes": 111,
       "max_comments": 32,
       "appearances": 1,
-      "score": 105.91,
+      "score": 105.87,
       "views": 23660,
       "likes": 111,
       "comments": 32,
-      "change": -2
+      "change": 0
     },
     {
       "title": "내일 발송되는 수능 \"위급재난문자\" 특징 요약",
@@ -139,11 +139,11 @@
       "max_likes": 101,
       "max_comments": 91,
       "appearances": 1,
-      "score": 104.69,
+      "score": 104.65,
       "views": 17709,
       "likes": 101,
       "comments": 91,
-      "change": -2
+      "change": 0
     },
     {
       "title": "남자라면 무조건 고민하는 선택지.JPG",
@@ -157,11 +157,11 @@
       "max_likes": 110,
       "max_comments": 101,
       "appearances": 1,
-      "score": 104.61,
+      "score": 104.58,
       "views": 25811,
       "likes": 110,
       "comments": 101,
-      "change": -2
+      "change": 0
     },
     {
       "title": "네이버웹툰 최장기 연재작 TOP3",
@@ -175,11 +175,29 @@
       "max_likes": 71,
       "max_comments": 82,
       "appearances": 1,
-      "score": 104.46,
+      "score": 104.43,
       "views": 21789,
       "likes": 71,
       "comments": 82,
-      "change": -2
+      "change": 0
+    },
+    {
+      "title": "주 4일 근무 여론조사 찬성 45.4% 반대 49.9%",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77442248?m=humor",
+      "first_seen": "2026-11-19T13:31:34.140481+09:00",
+      "last_seen": "2026-11-19T13:31:34.140481+09:00",
+      "peak_score": 94.52,
+      "max_views": 16499,
+      "max_likes": 81,
+      "max_comments": 111,
+      "appearances": 1,
+      "score": 103.91,
+      "views": 16499,
+      "likes": 81,
+      "comments": 111,
+      "change": "NEW"
     },
     {
       "title": "길냥이 구조4일차 슬슬살아난다",
@@ -193,61 +211,83 @@
       "max_likes": 72,
       "max_comments": 32,
       "appearances": 2,
-      "score": 102.79,
+      "score": 102.76,
       "views": 9626,
       "likes": 72,
       "comments": 32,
-      "change": -2
-    },
-    {
-      "title": "벌써 22명 10년 시귀봉진 당함 ㅋㅋㅋ",
-      "source": "루리웹",
-      "category": "유머",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77443277?m=humor",
-      "first_seen": "2026-11-19T13:07:09.014795+09:00",
-      "last_seen": "2026-11-19T13:07:09.014795+09:00",
-      "peak_score": 92.59,
-      "max_views": 16778,
-      "max_likes": 105,
-      "max_comments": 86,
-      "appearances": 1,
-      "score": 101.98,
-      "views": 16778,
-      "likes": 105,
-      "comments": 86,
-      "change": "NEW"
+      "change": -1
     }
   ],
   "rising": [
     {
-      "source": "루리웹",
-      "title": "요즘 작살난 소아과 병원 근황",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77441715?m=humor",
-      "category": "이슈",
-      "views": 28548,
-      "likes": 225,
-      "comments": 107,
-      "score": 97.44,
-      "change": "NEW",
-      "current_rank": 1,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
+      "source": "디시인사이드",
+      "title": "리.트냥이 근황 ㅋㅋㅋㅋㅋㅋ",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480085&_dcbest=1&page=1",
+      "category": "유머",
+      "views": 31249,
+      "likes": 546,
+      "comments": 158,
+      "score": 84.91,
+      "change": 0,
+      "current_rank": 7,
+      "new_entry": false,
+      "delta_views": 9216,
+      "delta_likes": 79,
+      "delta_comments": 48,
       "rank_gain": 0,
-      "rising_score": 82.92,
+      "rising_score": 93.95,
       "rising_rank": 1,
-      "window_minutes": 278
+      "window_minutes": 24
+    },
+    {
+      "source": "디시인사이드",
+      "title": "싱글벙글 너무 노골적으로 일본 홀대 중인 중국...jpg",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480091&_dcbest=1&page=1",
+      "category": "스포츠",
+      "views": 12980,
+      "likes": 129,
+      "comments": 324,
+      "score": 77.77,
+      "change": 2,
+      "current_rank": 13,
+      "new_entry": false,
+      "delta_views": 5891,
+      "delta_likes": 66,
+      "delta_comments": 161,
+      "rank_gain": 2,
+      "rising_score": 84.5,
+      "rising_rank": 2,
+      "window_minutes": 24
+    },
+    {
+      "source": "디시인사이드",
+      "title": "리센느 초동 > 총판",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480092&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 7335,
+      "likes": 60,
+      "comments": 216,
+      "score": 73.04,
+      "change": 35,
+      "current_rank": 19,
+      "new_entry": false,
+      "delta_views": 5508,
+      "delta_likes": 35,
+      "delta_comments": 191,
+      "rank_gain": 35,
+      "rising_score": 83.77,
+      "rising_rank": 3,
+      "window_minutes": 24
     },
     {
       "source": "루리웹",
-      "title": "백종원, 안성재, 논란에도 불구하고 흑백요리사3 심사위원 복귀",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77441179?m=humor",
+      "title": "주 4일 근무 여론조사 찬성 45.4% 반대 49.9%",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77442248?m=humor",
       "category": "이슈",
-      "views": 24319,
-      "likes": 127,
-      "comments": 84,
-      "score": 97.29,
+      "views": 16499,
+      "likes": 81,
+      "comments": 111,
+      "score": 94.52,
       "change": "NEW",
       "current_rank": 2,
       "new_entry": true,
@@ -255,19 +295,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.86,
-      "rising_rank": 2,
-      "window_minutes": 278
+      "rising_score": 81.7,
+      "rising_rank": 4,
+      "window_minutes": 24
     },
     {
       "source": "루리웹",
-      "title": "벌써 22명 10년 시귀봉진 당함 ㅋㅋㅋ",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77443277?m=humor",
-      "category": "유머",
-      "views": 16778,
-      "likes": 105,
-      "comments": 86,
-      "score": 92.59,
+      "title": "이번 수능 긴급문자의 효과",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77443315?m=humor",
+      "category": "이슈",
+      "views": 17862,
+      "likes": 149,
+      "comments": 71,
+      "score": 92.8,
       "change": "NEW",
       "current_rank": 3,
       "new_entry": true,
@@ -275,19 +315,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 80.89,
-      "rising_rank": 3,
-      "window_minutes": 278
+      "rising_score": 80.98,
+      "rising_rank": 5,
+      "window_minutes": 24
     },
     {
-      "source": "인벤",
-      "title": "리트냥이 현재 소재지 파악 후 건물 옥상에서 대치중",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2754236",
+      "source": "루리웹",
+      "title": "[네이버페이] 일일적립, 클릭 38원, 라이브예고 13원",
+      "url": "https://bbs.ruliweb.com/market/board/1020/read/109156",
       "category": "이슈",
-      "views": 941,
-      "likes": 2,
-      "comments": 22,
-      "score": 85.08,
+      "views": 22740,
+      "likes": 166,
+      "comments": 28,
+      "score": 90.24,
       "change": "NEW",
       "current_rank": 4,
       "new_entry": true,
@@ -295,19 +335,39 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 77.73,
-      "rising_rank": 4,
-      "window_minutes": 278
+      "rising_score": 79.9,
+      "rising_rank": 6,
+      "window_minutes": 24
     },
     {
       "source": "디시인사이드",
-      "title": "이분 음해한거 죄송하면 개추ㅋㅋㄱㅋㅋ",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480069&_dcbest=1&page=1",
-      "category": "유머",
-      "views": 30650,
-      "likes": 1860,
-      "comments": 615,
-      "score": 82.96,
+      "title": "난 전수조사 찬성임",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480089&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 9933,
+      "likes": 219,
+      "comments": 114,
+      "score": 71.62,
+      "change": 10,
+      "current_rank": 23,
+      "new_entry": false,
+      "delta_views": 4498,
+      "delta_likes": 78,
+      "delta_comments": 41,
+      "rank_gain": 10,
+      "rising_score": 79.82,
+      "rising_rank": 7,
+      "window_minutes": 24
+    },
+    {
+      "source": "인벤",
+      "title": "리트냥이 심정지 상태로 발견",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2754247",
+      "category": "이슈",
+      "views": 2587,
+      "likes": 0,
+      "comments": 23,
+      "score": 89.34,
       "change": "NEW",
       "current_rank": 5,
       "new_entry": true,
@@ -315,19 +375,39 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 76.84,
-      "rising_rank": 5,
-      "window_minutes": 278
+      "rising_score": 79.52,
+      "rising_rank": 8,
+      "window_minutes": 24
     },
     {
-      "source": "디시인사이드",
-      "title": "리.트냥이 근황 ㅋㅋㅋㅋㅋㅋ",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480085&_dcbest=1&page=1",
-      "category": "유머",
-      "views": 22033,
-      "likes": 467,
-      "comments": 110,
-      "score": 80.17,
+      "source": "인벤",
+      "title": "ㅇㅎ) 일본클럽 삐끼삐끼",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2754219",
+      "category": "이슈",
+      "views": 3184,
+      "likes": 0,
+      "comments": 13,
+      "score": 55.7,
+      "change": 0,
+      "current_rank": 82,
+      "new_entry": false,
+      "delta_views": 979,
+      "delta_likes": 0,
+      "delta_comments": 3,
+      "rank_gain": 0,
+      "rising_score": 79.44,
+      "rising_rank": 9,
+      "window_minutes": 24
+    },
+    {
+      "source": "인벤",
+      "title": "리트냥이 모텔에서 발견",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2754252",
+      "category": "이슈",
+      "views": 1516,
+      "likes": 0,
+      "comments": 20,
+      "score": 86.17,
       "change": "NEW",
       "current_rank": 6,
       "new_entry": true,
@@ -335,168 +415,27 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 75.67,
-      "rising_rank": 6,
-      "window_minutes": 278
-    },
-    {
-      "source": "뽐뿌",
-      "title": "단독] '리트 만점' 이진우, 강동구 모텔에서 확인 ㄷㄷ",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10194409",
-      "category": "이슈",
-      "views": 4230,
-      "likes": 0,
-      "comments": 14,
-      "score": 79.59,
-      "change": "NEW",
-      "current_rank": 7,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 75.43,
-      "rising_rank": 7,
-      "window_minutes": 278
-    },
-    {
-      "source": "디시인사이드",
-      "title": "“이 대통령, 사법고시 어떻게 합격했나”",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480079&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 18115,
-      "likes": 417,
-      "comments": 280,
-      "score": 78.71,
-      "change": "NEW",
-      "current_rank": 8,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 75.06,
-      "rising_rank": 8,
-      "window_minutes": 278
-    },
-    {
-      "source": "루리웹",
-      "title": "[지마켓] 동원 개성 교자 만두 1.2kg × 4봉 17,900원 (무배)",
-      "url": "https://bbs.ruliweb.com/market/board/1020/read/109162",
-      "category": "이슈",
-      "views": 9147,
-      "likes": 14,
-      "comments": 19,
-      "score": 78.15,
-      "change": "NEW",
-      "current_rank": 9,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 74.82,
-      "rising_rank": 9,
-      "window_minutes": 278
-    },
-    {
-      "source": "디시인사이드",
-      "title": "괴도키드 근황 씨발 ㅋㅋㅋㅋㅋㅋㅋ",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480073&_dcbest=1&page=1",
-      "category": "유머",
-      "views": 24968,
-      "likes": 397,
-      "comments": 250,
-      "score": 76.32,
-      "change": "NEW",
-      "current_rank": 10,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 74.05,
+      "rising_score": 78.19,
       "rising_rank": 10,
-      "window_minutes": 278
+      "window_minutes": 24
     }
   ],
   "issues": [
     {
-      "id": "i139fa3fd",
-      "title": "‘이진우’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "이진우"
-      ],
-      "source_count": 5,
-      "post_count": 8,
-      "score": 140.06,
-      "peak_score": 112.59,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "디시인사이드",
-        "뽐뿌",
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 7,
-          "title": "단독] '리트 만점' 이진우, 강동구 모텔에서 확인 ㄷㄷ",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10194409",
-          "score": 79.59
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 22,
-          "title": "싱글벙글 이진우 매너가이 논란",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480080&_dcbest=1&page=1",
-          "score": 71.66
-        },
-        {
-          "source": "인벤",
-          "rank": 35,
-          "title": "백지연의 날카로운 질문에 벙찐 이진우",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2754226",
-          "score": 66.65
-        },
-        {
-          "source": "더쿠",
-          "rank": 55,
-          "title": "리트냥이 이진우 발견된 천호동 맷돌순두부 특징",
-          "url": "https://theqoo.net/hot/4411420982",
-          "score": 62.0
-        },
-        {
-          "source": "클리앙",
-          "rank": 99,
-          "title": "[속보]실종신고 이진우, 천호역 일대서 포착…경찰 수색 중",
-          "url": "https://www.clien.net/service/board/park/19295176?od=T31&po=0&category=0&groupCd=",
-          "score": 52.42
-        }
-      ],
-      "first_seen": "2026-11-19T13:07:09.014795+09:00",
-      "last_seen": "2026-11-19T13:07:09.014795+09:00",
-      "latest_source_count": 5,
-      "latest_post_count": 8,
-      "rank": 1,
-      "change": "NEW"
-    },
-    {
       "id": "i7b982dea",
-      "title": "리트냥이 현재 소재지 파악 후 건물 옥상에서 대치중",
+      "title": "리트냥이 심정지 상태로 발견",
       "keywords": [
         "리트냥이",
-        "옥상에서",
-        "건물",
-        "옥상"
+        "심정지",
+        "발견",
+        "상태로",
+        "리트"
       ],
-      "source_count": 4,
+      "source_count": 6,
       "post_count": 7,
-      "score": 121.47,
-      "peak_score": 93.51,
-      "appearances": 5,
+      "score": 159.07,
+      "peak_score": 122.34,
+      "appearances": 6,
       "sources": [
         "더쿠",
         "디시인사이드",
@@ -508,39 +447,201 @@
       "posts": [
         {
           "source": "인벤",
-          "rank": 4,
-          "title": "리트냥이 현재 소재지 파악 후 건물 옥상에서 대치중",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2754236",
-          "score": 85.08
+          "rank": 5,
+          "title": "리트냥이 심정지 상태로 발견",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2754247",
+          "score": 89.34
         },
         {
           "source": "클리앙",
-          "rank": 18,
-          "title": "리트냥이 건물 옥상에서 대치중이라네요..",
-          "url": "https://www.clien.net/service/board/park/19295189?od=T31&po=0&category=0&groupCd=",
-          "score": 72.67
+          "rank": 22,
+          "title": "리트냥이 심정지 (속보",
+          "url": "https://www.clien.net/service/board/park/19295217?od=T31&po=0&category=0&groupCd=",
+          "score": 72.31
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 26,
+          "title": "리트냥이 저 제스처 어디서 많이 봤더니",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480076&_dcbest=1&page=1",
+          "score": 70.77
         },
         {
           "source": "루리웹",
-          "rank": 50,
-          "title": "리트냥이 옥상 상황ㄷㄷ",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77444827?m=humor_only&t=now",
-          "score": 62.91
+          "rank": 27,
+          "title": "리트냥이 심정지 기사는 오보",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77445144?m=humor_only&t=now",
+          "score": 70.53
         },
         {
-          "source": "클리앙",
-          "rank": 51,
-          "title": "리트냥이 옥상 대치요?",
-          "url": "https://www.clien.net/service/board/park/19295195?od=T31&po=0&category=0&groupCd=",
-          "score": 62.54
+          "source": "뽐뿌",
+          "rank": 96,
+          "title": "(속보) 버스에서 딸친 리트냥이",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10194311",
+          "score": 53.35
+        },
+        {
+          "source": "더쿠",
+          "rank": 8,
+          "title": "[속보] ‘리트 만점자’ 이진우씨, 천호역 인근서 심정지 상태로 발견",
+          "url": "https://theqoo.net/hot/4411440810",
+          "score": 83.68
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 21,
+          "title": "(속보) 리트만점자 이진우 심정지 상태로 발견 ㄷㄷ",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10194475",
+          "score": 72.54
         }
       ],
       "first_seen": "2026-11-19T01:33:05.389756+09:00",
-      "last_seen": "2026-11-19T13:07:09.014795+09:00",
+      "last_seen": "2026-11-19T13:31:34.140481+09:00",
+      "latest_source_count": 6,
+      "latest_post_count": 7,
+      "rank": 1,
+      "change": 1
+    },
+    {
+      "id": "i139fa3fd",
+      "title": "‘이진우’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "이진우"
+      ],
+      "source_count": 5,
+      "post_count": 8,
+      "score": 142.08,
+      "peak_score": 112.59,
+      "appearances": 2,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "뽐뿌",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 20,
+          "title": "연합뉴스 피셜 : 리트 이진우 심정지 상태로 발견",
+          "url": "https://theqoo.net/hot/4411452857",
+          "score": 73.0
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 21,
+          "title": "(속보) 리트만점자 이진우 심정지 상태로 발견 ㄷㄷ",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10194475",
+          "score": 72.54
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 25,
+          "title": "싱글벙글 이진우 매너가이 논란",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480080&_dcbest=1&page=1",
+          "score": 70.82
+        }
+      ],
+      "first_seen": "2026-11-19T13:07:09.014795+09:00",
+      "last_seen": "2026-11-19T13:31:34.140481+09:00",
       "latest_source_count": 3,
-      "latest_post_count": 4,
+      "latest_post_count": 5,
       "rank": 2,
       "change": -1
+    },
+    {
+      "id": "i5d031567",
+      "title": "‘만점자’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "만점자",
+        "이진우씨"
+      ],
+      "source_count": 3,
+      "post_count": 6,
+      "score": 120.15,
+      "peak_score": 102.68,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 8,
+          "title": "[속보] ‘리트 만점자’ 이진우씨, 천호역 인근서 심정지 상태로 발견",
+          "url": "https://theqoo.net/hot/4411440810",
+          "score": 83.68
+        },
+        {
+          "source": "클리앙",
+          "rank": 29,
+          "title": "[속보] ‘리트 만점자’..심정지 상태로 발견",
+          "url": "https://www.clien.net/service/board/park/19295215?od=T31&po=0&category=0&groupCd=",
+          "score": 70.01
+        },
+        {
+          "source": "인벤",
+          "rank": 41,
+          "title": "속보)리트 만점자 이진우씨 심정지 상태로 발견",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2754256",
+          "score": 66.4
+        }
+      ],
+      "first_seen": "2026-11-19T13:31:34.140481+09:00",
+      "last_seen": "2026-11-19T13:31:34.140481+09:00",
+      "latest_source_count": 3,
+      "latest_post_count": 6,
+      "rank": 3,
+      "change": "NEW"
+    },
+    {
+      "id": "i44a99ede",
+      "title": "‘모텔에서’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "모텔에서"
+      ],
+      "source_count": 3,
+      "post_count": 3,
+      "score": 119.66,
+      "peak_score": 103.17,
+      "appearances": 2,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 6,
+          "title": "리트냥이 모텔에서 발견",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2754252",
+          "score": 86.17
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 18,
+          "title": "오싹오싹 리트냥이가 묵던 모텔에서 발견된 것...JPG",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480082&_dcbest=1&page=1",
+          "score": 73.97
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 68,
+          "title": "단독] '리트 만점' 이진우, 강동구 모텔에서 확인 ㄷㄷ",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10194409",
+          "score": 58.74
+        }
+      ],
+      "first_seen": "2026-11-19T13:07:09.014795+09:00",
+      "last_seen": "2026-11-19T13:31:34.140481+09:00",
+      "latest_source_count": 3,
+      "latest_post_count": 3,
+      "rank": 4,
+      "change": 5
     },
     {
       "id": "i4af03c34",
@@ -598,8 +699,8 @@
       "last_seen": "2026-11-19T08:29:38.230773+09:00",
       "latest_source_count": 4,
       "latest_post_count": 5,
-      "rank": 3,
-      "change": -1
+      "rank": 5,
+      "change": -2
     },
     {
       "id": "ie96c76bf",
@@ -636,8 +737,8 @@
       "last_seen": "2026-11-19T13:07:09.014795+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 4,
-      "change": "NEW"
+      "rank": 6,
+      "change": -2
     },
     {
       "id": "i91f13db9",
@@ -682,7 +783,7 @@
       "last_seen": "2026-11-19T02:26:07.251829+09:00",
       "latest_source_count": 3,
       "latest_post_count": 3,
-      "rank": 5,
+      "rank": 7,
       "change": -2
     },
     {
@@ -720,404 +821,258 @@
       "last_seen": "2026-11-19T08:05:04.323850+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
-      "change": -2
-    },
-    {
-      "id": "ib040db4a",
-      "title": "‘와이프’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "와이프"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 99.47,
-      "peak_score": 90.0,
-      "appearances": 1,
-      "sources": [
-        "루리웹",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 6,
-          "title": "남편이 A컵 와이프 앞에서 부른 3곡",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10193037",
-          "score": 81.0
-        },
-        {
-          "source": "루리웹",
-          "rank": 29,
-          "title": "종신형 받은 술판 벌린 집에 와이프 못오게한 남자",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77439935?m=humor_only&t=now",
-          "score": 64.27
-        }
-      ],
-      "first_seen": "2026-11-16T15:12:02.074648+09:00",
-      "last_seen": "2026-11-19T02:26:07.251829+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 7,
-      "change": -2
-    },
-    {
-      "id": "i4a23876e",
-      "title": "‘11월’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "11월"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 99.41,
-      "peak_score": 89.94,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 4,
-          "title": "\"그렇게.. 11월 19일이 되었어.\"",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=479971&_dcbest=1&page=1",
-          "score": 80.94
-        },
-        {
-          "source": "인벤",
-          "rank": 56,
-          "title": "11월 19일 목요일 날씨 + 운세",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2754092",
-          "score": 60.64
-        }
-      ],
-      "first_seen": "2026-11-01T10:25:13.327785+09:00",
-      "last_seen": "2026-11-19T08:29:38.230773+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 8,
       "change": -2
     },
     {
-      "id": "i44a99ede",
-      "title": "‘모텔에서’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "iae6b0123",
+      "title": "‘실시간’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "모텔에서"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 98.06,
-      "peak_score": 88.59,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 7,
-          "title": "단독] '리트 만점' 이진우, 강동구 모텔에서 확인 ㄷㄷ",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10194409",
-          "score": 79.59
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 20,
-          "title": "오싹오싹 리트냥이가 묵던 모텔에서 발견된 것...JPG",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480082&_dcbest=1&page=1",
-          "score": 72.23
-        }
-      ],
-      "first_seen": "2026-11-19T13:07:09.014795+09:00",
-      "last_seen": "2026-11-19T13:07:09.014795+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 9,
-      "change": "NEW"
-    },
-    {
-      "id": "i2451c48b",
-      "title": "‘이진우’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "이진우",
-        "leet"
+        "실시간"
       ],
       "source_count": 3,
       "post_count": 3,
-      "score": 94.07,
-      "peak_score": 79.6,
+      "score": 103.82,
+      "peak_score": 85.89,
+      "appearances": 3,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "루리웹",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 34,
+          "title": "실시간 에어매트 펴는 중인 리트진우 상황",
+          "url": "https://theqoo.net/hot/4411414517",
+          "score": 68.89
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 35,
+          "title": "실시간 \"스마트 개미\" 들 근황 ㅁㅊㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480087&_dcbest=1&page=1",
+          "score": 68.47
+        },
+        {
+          "source": "인벤",
+          "rank": 87,
+          "title": "한덕수·김건희 '운명의 날'‥선고 실시간 중계",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2754231",
+          "score": 54.9
+        }
+      ],
+      "first_seen": "2026-10-06T11:19:29.813850+09:00",
+      "last_seen": "2026-11-19T13:31:34.140481+09:00",
+      "latest_source_count": 3,
+      "latest_post_count": 3,
+      "rank": 9,
+      "change": 4
+    },
+    {
+      "id": "ie7826069",
+      "title": "‘인근서’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "인근서",
+        "천호역"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 102.15,
+      "peak_score": 92.68,
       "appearances": 1,
       "sources": [
         "더쿠",
-        "루리웹",
         "클리앙"
       ],
       "posts": [
         {
-          "source": "클리앙",
-          "rank": 48,
-          "title": "이진우 증거인멸 시간 번거 같네요",
-          "url": "https://www.clien.net/service/board/park/19294951?od=T31&po=0&category=0&groupCd=",
-          "score": 62.6
-        },
-        {
           "source": "더쿠",
-          "rank": 50,
-          "title": "LEET 만점자 이진우, 수능 국어 실시간 공개 검증｜전 과정 생중계 (7:30 시작)",
-          "url": "https://theqoo.net/hot/4411053393",
-          "score": 61.37
+          "rank": 8,
+          "title": "[속보] ‘리트 만점자’ 이진우씨, 천호역 인근서 심정지 상태로 발견",
+          "url": "https://theqoo.net/hot/4411440810",
+          "score": 83.68
         },
         {
-          "source": "루리웹",
-          "rank": 94,
-          "title": "LEET 만점자 이진우 8시40분까지 기다리겠다 어제부터 연락을 안받는다.mp4",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77441094?m=humor_only&t=now",
-          "score": 52.03
+          "source": "클리앙",
+          "rank": 72,
+          "title": "[속보] '리트 만점자' 이진우씨, 천호역 인근서 심정지 상태로 발견",
+          "url": "https://www.clien.net/service/board/park/19295214?od=T31&po=0&category=0&groupCd=",
+          "score": 58.04
         }
       ],
-      "first_seen": "2026-11-12T16:47:53.957964+09:00",
-      "last_seen": "2026-11-19T08:29:38.230773+09:00",
-      "latest_source_count": 3,
-      "latest_post_count": 3,
+      "first_seen": "2026-11-19T13:31:34.140481+09:00",
+      "last_seen": "2026-11-19T13:31:34.140481+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
       "rank": 10,
-      "change": -3
+      "change": "NEW"
     }
   ],
   "realtime_issues": [
+    {
+      "id": "i7b982dea",
+      "title": "리트냥이 심정지 상태로 발견",
+      "keywords": [
+        "리트냥이",
+        "심정지",
+        "발견",
+        "상태로",
+        "리트"
+      ],
+      "source_count": 6,
+      "post_count": 7,
+      "score": 122.34,
+      "peak_score": 122.34,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "루리웹",
+        "뽐뿌",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 5,
+          "title": "리트냥이 심정지 상태로 발견",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2754247",
+          "score": 89.34
+        },
+        {
+          "source": "클리앙",
+          "rank": 22,
+          "title": "리트냥이 심정지 (속보",
+          "url": "https://www.clien.net/service/board/park/19295217?od=T31&po=0&category=0&groupCd=",
+          "score": 72.31
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 26,
+          "title": "리트냥이 저 제스처 어디서 많이 봤더니",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480076&_dcbest=1&page=1",
+          "score": 70.77
+        },
+        {
+          "source": "루리웹",
+          "rank": 27,
+          "title": "리트냥이 심정지 기사는 오보",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77445144?m=humor_only&t=now",
+          "score": 70.53
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 96,
+          "title": "(속보) 버스에서 딸친 리트냥이",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10194311",
+          "score": 53.35
+        },
+        {
+          "source": "더쿠",
+          "rank": 8,
+          "title": "[속보] ‘리트 만점자’ 이진우씨, 천호역 인근서 심정지 상태로 발견",
+          "url": "https://theqoo.net/hot/4411440810",
+          "score": 83.68
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 21,
+          "title": "(속보) 리트만점자 이진우 심정지 상태로 발견 ㄷㄷ",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10194475",
+          "score": 72.54
+        }
+      ],
+      "rank": 1,
+      "change": 1
+    },
+    {
+      "id": "i5d031567",
+      "title": "‘만점자’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "만점자",
+        "이진우씨"
+      ],
+      "source_count": 3,
+      "post_count": 6,
+      "score": 102.68,
+      "peak_score": 102.68,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 8,
+          "title": "[속보] ‘리트 만점자’ 이진우씨, 천호역 인근서 심정지 상태로 발견",
+          "url": "https://theqoo.net/hot/4411440810",
+          "score": 83.68
+        },
+        {
+          "source": "클리앙",
+          "rank": 29,
+          "title": "[속보] ‘리트 만점자’..심정지 상태로 발견",
+          "url": "https://www.clien.net/service/board/park/19295215?od=T31&po=0&category=0&groupCd=",
+          "score": 70.01
+        },
+        {
+          "source": "인벤",
+          "rank": 41,
+          "title": "속보)리트 만점자 이진우씨 심정지 상태로 발견",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2754256",
+          "score": 66.4
+        }
+      ],
+      "rank": 2,
+      "change": "NEW"
+    },
     {
       "id": "i139fa3fd",
       "title": "‘이진우’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
         "이진우"
       ],
-      "source_count": 5,
-      "post_count": 8,
-      "score": 112.59,
-      "peak_score": 112.59,
+      "source_count": 3,
+      "post_count": 5,
+      "score": 92.0,
+      "peak_score": 92.0,
       "appearances": 1,
       "sources": [
         "더쿠",
         "디시인사이드",
-        "뽐뿌",
-        "인벤",
-        "클리앙"
+        "뽐뿌"
       ],
       "posts": [
         {
+          "source": "더쿠",
+          "rank": 20,
+          "title": "연합뉴스 피셜 : 리트 이진우 심정지 상태로 발견",
+          "url": "https://theqoo.net/hot/4411452857",
+          "score": 73.0
+        },
+        {
           "source": "뽐뿌",
-          "rank": 7,
-          "title": "단독] '리트 만점' 이진우, 강동구 모텔에서 확인 ㄷㄷ",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10194409",
-          "score": 79.59
+          "rank": 21,
+          "title": "(속보) 리트만점자 이진우 심정지 상태로 발견 ㄷㄷ",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10194475",
+          "score": 72.54
         },
         {
           "source": "디시인사이드",
-          "rank": 22,
+          "rank": 25,
           "title": "싱글벙글 이진우 매너가이 논란",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480080&_dcbest=1&page=1",
-          "score": 71.66
-        },
-        {
-          "source": "인벤",
-          "rank": 35,
-          "title": "백지연의 날카로운 질문에 벙찐 이진우",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2754226",
-          "score": 66.65
-        },
-        {
-          "source": "더쿠",
-          "rank": 55,
-          "title": "리트냥이 이진우 발견된 천호동 맷돌순두부 특징",
-          "url": "https://theqoo.net/hot/4411420982",
-          "score": 62.0
-        },
-        {
-          "source": "클리앙",
-          "rank": 99,
-          "title": "[속보]실종신고 이진우, 천호역 일대서 포착…경찰 수색 중",
-          "url": "https://www.clien.net/service/board/park/19295176?od=T31&po=0&category=0&groupCd=",
-          "score": 52.42
-        }
-      ],
-      "rank": 1,
-      "change": "NEW"
-    },
-    {
-      "id": "i7b982dea",
-      "title": "리트냥이 현재 소재지 파악 후 건물 옥상에서 대치중",
-      "keywords": [
-        "리트냥이",
-        "옥상에서",
-        "건물",
-        "옥상"
-      ],
-      "source_count": 3,
-      "post_count": 4,
-      "score": 93.08,
-      "peak_score": 93.08,
-      "appearances": 1,
-      "sources": [
-        "루리웹",
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 4,
-          "title": "리트냥이 현재 소재지 파악 후 건물 옥상에서 대치중",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2754236",
-          "score": 85.08
-        },
-        {
-          "source": "클리앙",
-          "rank": 18,
-          "title": "리트냥이 건물 옥상에서 대치중이라네요..",
-          "url": "https://www.clien.net/service/board/park/19295189?od=T31&po=0&category=0&groupCd=",
-          "score": 72.67
-        },
-        {
-          "source": "루리웹",
-          "rank": 50,
-          "title": "리트냥이 옥상 상황ㄷㄷ",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77444827?m=humor_only&t=now",
-          "score": 62.91
-        },
-        {
-          "source": "클리앙",
-          "rank": 51,
-          "title": "리트냥이 옥상 대치요?",
-          "url": "https://www.clien.net/service/board/park/19295195?od=T31&po=0&category=0&groupCd=",
-          "score": 62.54
-        }
-      ],
-      "rank": 2,
-      "change": -1
-    },
-    {
-      "id": "i0703aea1",
-      "title": "[속보]실종신고 이진우, 천호역 일대서 포착…경찰 수색 중",
-      "keywords": [
-        "포착",
-        "실종신고",
-        "경찰",
-        "천호역",
-        "이진우",
-        "일대서"
-      ],
-      "source_count": 3,
-      "post_count": 4,
-      "score": 77.89,
-      "peak_score": 77.89,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "뽐뿌",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 56,
-          "title": "[속보]실종신고 이진우, 천호역 일대서 포착…경찰 수색 중",
-          "url": "https://theqoo.net/hot/4411377215",
-          "score": 61.89
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 73,
-          "title": "리트냥이, 천호역 인근에서 포착",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10194343",
-          "score": 58.51
-        },
-        {
-          "source": "클리앙",
-          "rank": 99,
-          "title": "[속보]실종신고 이진우, 천호역 일대서 포착…경찰 수색 중",
-          "url": "https://www.clien.net/service/board/park/19295176?od=T31&po=0&category=0&groupCd=",
-          "score": 52.42
+          "score": 70.82
         }
       ],
       "rank": 3,
-      "change": "NEW"
-    },
-    {
-      "id": "i686df877",
-      "title": "수능 재난문자로 22명 걸림",
-      "keywords": [
-        "재난문자로",
-        "수능"
-      ],
-      "source_count": 2,
-      "post_count": 3,
-      "score": 76.14,
-      "peak_score": 76.14,
-      "appearances": 1,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 38,
-          "title": "재난문자로 피해 본 사람",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2754234",
-          "score": 66.14
-        },
-        {
-          "source": "클리앙",
-          "rank": 93,
-          "title": "수능 재난문자로 적발된 폰 소지자 26명...",
-          "url": "https://www.clien.net/service/board/park/19295180?od=T31&po=0&category=0&groupCd=",
-          "score": 54.51
-        },
-        {
-          "source": "인벤",
-          "rank": 69,
-          "title": "수능 재난문자로 22명 걸림",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2754218",
-          "score": 59.66
-        }
-      ],
-      "rank": 4,
-      "change": "NEW"
-    },
-    {
-      "id": "ie96c76bf",
-      "title": "‘22명’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "22명"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 101.59,
-      "peak_score": 101.59,
-      "appearances": 1,
-      "sources": [
-        "루리웹",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 3,
-          "title": "벌써 22명 10년 시귀봉진 당함 ㅋㅋㅋ",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77443277?m=humor",
-          "score": 92.59
-        },
-        {
-          "source": "인벤",
-          "rank": 69,
-          "title": "수능 재난문자로 22명 걸림",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2754218",
-          "score": 59.66
-        }
-      ],
-      "rank": 5,
-      "change": "NEW"
+      "change": -2
     },
     {
       "id": "i44a99ede",
@@ -1125,32 +1080,151 @@
       "keywords": [
         "모텔에서"
       ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 88.59,
-      "peak_score": 88.59,
+      "source_count": 3,
+      "post_count": 3,
+      "score": 103.17,
+      "peak_score": 103.17,
       "appearances": 1,
       "sources": [
         "디시인사이드",
-        "뽐뿌"
+        "뽐뿌",
+        "인벤"
       ],
       "posts": [
         {
-          "source": "뽐뿌",
-          "rank": 7,
-          "title": "단독] '리트 만점' 이진우, 강동구 모텔에서 확인 ㄷㄷ",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10194409",
-          "score": 79.59
+          "source": "인벤",
+          "rank": 6,
+          "title": "리트냥이 모텔에서 발견",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2754252",
+          "score": 86.17
         },
         {
           "source": "디시인사이드",
-          "rank": 20,
+          "rank": 18,
           "title": "오싹오싹 리트냥이가 묵던 모텔에서 발견된 것...JPG",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480082&_dcbest=1&page=1",
-          "score": 72.23
+          "score": 73.97
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 68,
+          "title": "단독] '리트 만점' 이진우, 강동구 모텔에서 확인 ㄷㄷ",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10194409",
+          "score": 58.74
+        }
+      ],
+      "rank": 4,
+      "change": 2
+    },
+    {
+      "id": "iae6b0123",
+      "title": "‘실시간’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "실시간"
+      ],
+      "source_count": 3,
+      "post_count": 3,
+      "score": 85.89,
+      "peak_score": 85.89,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 34,
+          "title": "실시간 에어매트 펴는 중인 리트진우 상황",
+          "url": "https://theqoo.net/hot/4411414517",
+          "score": 68.89
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 35,
+          "title": "실시간 \"스마트 개미\" 들 근황 ㅁㅊㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480087&_dcbest=1&page=1",
+          "score": 68.47
+        },
+        {
+          "source": "인벤",
+          "rank": 87,
+          "title": "한덕수·김건희 '운명의 날'‥선고 실시간 중계",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2754231",
+          "score": 54.9
+        }
+      ],
+      "rank": 5,
+      "change": 3
+    },
+    {
+      "id": "i94c04bad",
+      "title": "‘에어매트’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "에어매트"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 78.89,
+      "peak_score": 78.89,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 34,
+          "title": "실시간 에어매트 펴는 중인 리트진우 상황",
+          "url": "https://theqoo.net/hot/4411414517",
+          "score": 68.89
+        },
+        {
+          "source": "루리웹",
+          "rank": 100,
+          "title": "리트냥이) 에어매트 on",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77444700?m=humor_only&t=now",
+          "score": 52.61
         }
       ],
       "rank": 6,
+      "change": "NEW"
+    },
+    {
+      "id": "ie7826069",
+      "title": "‘인근서’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "인근서",
+        "천호역"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 92.68,
+      "peak_score": 92.68,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 8,
+          "title": "[속보] ‘리트 만점자’ 이진우씨, 천호역 인근서 심정지 상태로 발견",
+          "url": "https://theqoo.net/hot/4411440810",
+          "score": 83.68
+        },
+        {
+          "source": "클리앙",
+          "rank": 72,
+          "title": "[속보] '리트 만점자' 이진우씨, 천호역 인근서 심정지 상태로 발견",
+          "url": "https://www.clien.net/service/board/park/19295214?od=T31&po=0&category=0&groupCd=",
+          "score": 58.04
+        }
+      ],
+      "rank": 7,
       "change": "NEW"
     },
     {
@@ -1161,8 +1235,8 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 81.23,
-      "peak_score": 81.23,
+      "score": 82.97,
+      "peak_score": 82.97,
       "appearances": 1,
       "sources": [
         "더쿠",
@@ -1171,67 +1245,31 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 20,
+          "rank": 18,
           "title": "오싹오싹 리트냥이가 묵던 모텔에서 발견된 것...JPG",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480082&_dcbest=1&page=1",
-          "score": 72.23
+          "score": 73.97
         },
         {
           "source": "더쿠",
-          "rank": 55,
-          "title": "리트냥이 이진우 발견된 천호동 맷돌순두부 특징",
+          "rank": 63,
+          "title": "리트 이진우 발견된 천호동 맷돌순두부 특징",
           "url": "https://theqoo.net/hot/4411420982",
-          "score": 62.0
-        }
-      ],
-      "rank": 7,
-      "change": "NEW"
-    },
-    {
-      "id": "iae6b0123",
-      "title": "실시간 에어매트 펴는 중인 리트진우 상황",
-      "keywords": [
-        "상황",
-        "실시간"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 80.84,
-      "peak_score": 80.84,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "루리웹"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 17,
-          "title": "실시간 에어매트 펴는 중인 리트진우 상황",
-          "url": "https://theqoo.net/hot/4411414517",
-          "score": 72.84
-        },
-        {
-          "source": "루리웹",
-          "rank": 97,
-          "title": "실시간 리트냥이 상황",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77444817?m=humor_only&t=now",
-          "score": 52.88
+          "score": 60.05
         }
       ],
       "rank": 8,
-      "change": "NEW"
+      "change": -1
     }
   ],
   "keywords": [
     {
       "keyword": "리트냥",
-      "score": 246.88,
-      "post_count": 11,
-      "source_count": 6,
-      "best_rank": 4,
+      "score": 249.1,
+      "post_count": 15,
+      "source_count": 5,
+      "best_rank": 5,
       "sources": [
-        "더쿠",
         "디시인사이드",
         "루리웹",
         "뽐뿌",
@@ -1240,66 +1278,66 @@
       ],
       "aliases": [],
       "rank": 1,
-      "change": 2
+      "change": 0
     },
     {
-      "keyword": "이진우",
-      "score": 199.41,
-      "post_count": 8,
+      "keyword": "심정지",
+      "score": 235.29,
+      "post_count": 12,
       "source_count": 5,
-      "best_rank": 7,
+      "best_rank": 5,
       "sources": [
         "더쿠",
-        "디시인사이드",
+        "루리웹",
         "뽐뿌",
         "인벤",
         "클리앙"
       ],
       "aliases": [],
       "rank": 2,
-      "change": 2
+      "change": "NEW"
     },
     {
-      "keyword": "수능",
-      "score": 194.79,
-      "post_count": 9,
-      "source_count": 5,
-      "best_rank": 45,
+      "keyword": "리트",
+      "score": 198.63,
+      "post_count": 11,
+      "source_count": 4,
+      "best_rank": 8,
       "sources": [
         "더쿠",
-        "디시인사이드",
-        "루리웹",
+        "뽐뿌",
         "인벤",
         "클리앙"
       ],
       "aliases": [],
       "rank": 3,
-      "change": 2
+      "change": 9
     },
     {
-      "keyword": "실시간",
-      "score": 153.27,
-      "post_count": 5,
+      "keyword": "발견",
+      "score": 194.23,
+      "post_count": 9,
       "source_count": 4,
-      "best_rank": 17,
+      "best_rank": 5,
       "sources": [
         "더쿠",
-        "디시인사이드",
-        "루리웹",
-        "인벤"
+        "뽐뿌",
+        "인벤",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 4,
       "change": "NEW"
     },
     {
-      "keyword": "옥상",
-      "score": 136.28,
-      "post_count": 4,
-      "source_count": 3,
-      "best_rank": 4,
+      "keyword": "상태로",
+      "score": 186.12,
+      "post_count": 8,
+      "source_count": 4,
+      "best_rank": 5,
       "sources": [
-        "루리웹",
+        "더쿠",
+        "뽐뿌",
         "인벤",
         "클리앙"
       ],
@@ -1308,26 +1346,27 @@
       "change": "NEW"
     },
     {
-      "keyword": "단독",
-      "score": 134.04,
+      "keyword": "모텔",
+      "score": 156.7,
       "post_count": 4,
-      "source_count": 3,
-      "best_rank": 7,
+      "source_count": 4,
+      "best_rank": 6,
       "sources": [
         "더쿠",
+        "디시인사이드",
         "뽐뿌",
-        "클리앙"
+        "인벤"
       ],
       "aliases": [],
       "rank": 6,
-      "change": "NEW"
+      "change": 7
     },
     {
-      "keyword": "경찰",
-      "score": 122.81,
-      "post_count": 5,
+      "keyword": "만점자",
+      "score": 150.09,
+      "post_count": 7,
       "source_count": 3,
-      "best_rank": 56,
+      "best_rank": 8,
       "sources": [
         "더쿠",
         "인벤",
@@ -1338,41 +1377,41 @@
       "change": "NEW"
     },
     {
-      "keyword": "포착",
-      "score": 116.0,
-      "post_count": 4,
+      "keyword": "수능",
+      "score": 136.05,
+      "post_count": 5,
       "source_count": 3,
-      "best_rank": 56,
+      "best_rank": 3,
       "sources": [
-        "더쿠",
-        "뽐뿌",
+        "디시인사이드",
+        "루리웹",
         "클리앙"
       ],
       "aliases": [],
       "rank": 8,
-      "change": "NEW"
+      "change": -5
     },
     {
-      "keyword": "천호역",
-      "score": 109.13,
-      "post_count": 3,
+      "keyword": "이진우",
+      "score": 134.55,
+      "post_count": 5,
       "source_count": 3,
-      "best_rank": 56,
+      "best_rank": 20,
       "sources": [
         "더쿠",
-        "뽐뿌",
-        "클리앙"
+        "디시인사이드",
+        "뽐뿌"
       ],
       "aliases": [],
       "rank": 9,
-      "change": "NEW"
+      "change": -7
     },
     {
-      "keyword": "수색",
-      "score": 107.63,
+      "keyword": "이진우씨",
+      "score": 125.18,
       "post_count": 3,
       "source_count": 3,
-      "best_rank": 56,
+      "best_rank": 8,
       "sources": [
         "더쿠",
         "인벤",
@@ -1383,74 +1422,77 @@
       "change": "NEW"
     },
     {
-      "keyword": "건물",
-      "score": 107.28,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 4,
+      "keyword": "실시간",
+      "score": 116.7,
+      "post_count": 3,
+      "source_count": 3,
+      "best_rank": 34,
       "sources": [
-        "인벤",
-        "클리앙"
+        "더쿠",
+        "디시인사이드",
+        "인벤"
       ],
       "aliases": [],
       "rank": 11,
-      "change": "NEW"
+      "change": -7
     },
     {
-      "keyword": "리트",
-      "score": 106.19,
-      "post_count": 4,
+      "keyword": "중인",
+      "score": 99.58,
+      "post_count": 2,
       "source_count": 2,
-      "best_rank": 7,
+      "best_rank": 13,
       "sources": [
         "더쿠",
-        "뽐뿌"
+        "디시인사이드"
       ],
       "aliases": [],
       "rank": 12,
-      "change": -10
+      "change": 3
     },
     {
-      "keyword": "모텔",
-      "score": 104.8,
+      "keyword": "천호역",
+      "score": 96.68,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 7,
+      "best_rank": 8,
       "sources": [
-        "디시인사이드",
-        "뽐뿌"
+        "더쿠",
+        "클리앙"
       ],
-      "aliases": [],
+      "aliases": [
+        "인근서"
+      ],
       "rank": 13,
-      "change": "NEW"
+      "change": -4
     },
     {
-      "keyword": "22명",
-      "score": 100.86,
-      "post_count": 2,
+      "keyword": "에어매트",
+      "score": 92.2,
+      "post_count": 3,
       "source_count": 2,
-      "best_rank": 3,
+      "best_rank": 34,
       "sources": [
-        "루리웹",
-        "인벤"
+        "더쿠",
+        "루리웹"
       ],
       "aliases": [],
       "rank": 14,
       "change": "NEW"
     },
     {
-      "keyword": "중인",
-      "score": 100.65,
+      "keyword": "발견된",
+      "score": 91.98,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 15,
+      "best_rank": 18,
       "sources": [
         "더쿠",
         "디시인사이드"
       ],
       "aliases": [],
       "rank": 15,
-      "change": "NEW"
+      "change": 5
     }
   ],
   "community_leaders": [
@@ -1458,49 +1500,49 @@
       "source": "루리웹",
       "title": "요즘 작살난 소아과 병원 근황",
       "url": "https://bbs.ruliweb.com/best/board/300143/read/77441715?m=humor",
-      "score": 97.44,
+      "score": 98.96,
       "views": 28548,
       "comments": 107
     },
     {
       "source": "인벤",
-      "title": "리트냥이 현재 소재지 파악 후 건물 옥상에서 대치중",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2754236",
-      "score": 85.08,
-      "views": 941,
-      "comments": 22
+      "title": "리트냥이 심정지 상태로 발견",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2754247",
+      "score": 89.34,
+      "views": 2587,
+      "comments": 23
     },
     {
       "source": "디시인사이드",
-      "title": "이분 음해한거 죄송하면 개추ㅋㅋㄱㅋㅋ",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480069&_dcbest=1&page=1",
-      "score": 82.96,
-      "views": 30650,
-      "comments": 615
-    },
-    {
-      "source": "뽐뿌",
-      "title": "단독] '리트 만점' 이진우, 강동구 모텔에서 확인 ㄷㄷ",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10194409",
-      "score": 79.59,
-      "views": 4230,
-      "comments": 14
+      "title": "리.트냥이 근황 ㅋㅋㅋㅋㅋㅋ",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480085&_dcbest=1&page=1",
+      "score": 84.91,
+      "views": 31249,
+      "comments": 158
     },
     {
       "source": "더쿠",
-      "title": "실시간 에어매트 펴는 중인 리트진우 상황",
-      "url": "https://theqoo.net/hot/4411414517",
-      "score": 72.84,
-      "views": 17117,
-      "comments": 225
+      "title": "[속보] ‘리트 만점자’ 이진우씨, 천호역 인근서 심정지 상태로 발견",
+      "url": "https://theqoo.net/hot/4411440810",
+      "score": 83.68,
+      "views": 33357,
+      "comments": 704
+    },
+    {
+      "source": "뽐뿌",
+      "title": "[자작앱] 다이소 살 것 메모하면 매장 위치랑 재고까지 알려주는 앱 만들었어요 (무료)",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomapp&no=11281",
+      "score": 76.21,
+      "views": 4276,
+      "comments": 23
     },
     {
       "source": "클리앙",
-      "title": "리트냥이 건물 옥상에서 대치중이라네요..",
-      "url": "https://www.clien.net/service/board/park/19295189?od=T31&po=0&category=0&groupCd=",
-      "score": 72.67,
-      "views": 2898,
-      "comments": 11
+      "title": "리트냥이 심정지 (속보",
+      "url": "https://www.clien.net/service/board/park/19295217?od=T31&po=0&category=0&groupCd=",
+      "score": 72.31,
+      "views": 4817,
+      "comments": 24
     }
   ]
 }
