@@ -3,7 +3,7 @@
   "period": "daily",
   "key": "2026-11-20",
   "label": "2026년 11월 20일",
-  "collected_at": "2026-11-20T11:32:49.824295+09:00",
+  "collected_at": "2026-11-20T11:58:10.758077+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -14,9 +14,9 @@
       ],
       "source_count": 4,
       "post_count": 4,
-      "score": 113.53,
-      "peak_score": 92.04,
-      "appearances": 2,
+      "score": 129.22,
+      "peak_score": 106.29,
+      "appearances": 3,
       "sources": [
         "더쿠",
         "루리웹",
@@ -26,39 +26,63 @@
       "posts": [
         {
           "source": "루리웹",
-          "rank": 41,
-          "title": "리트냥이 이진우가 뒤져도 애도받지 못하는 이유",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77454672?m=humor_only&t=now",
-          "score": 64.13
-        },
-        {
-          "source": "더쿠",
-          "rank": 52,
-          "title": "리트냥이 죽은거 너무 우울하다",
-          "url": "https://theqoo.net/hot/4412153120",
-          "score": 60.26
-        },
-        {
-          "source": "클리앙",
-          "rank": 54,
-          "title": "리트냥이 책 저자 소개글",
-          "url": "https://www.clien.net/service/board/park/19295741?od=T31&po=0&category=0&groupCd=",
-          "score": 59.92
+          "rank": 1,
+          "title": "서울대 교수가 리트냥이 사회가 죽였다는 거 전문 가져옴",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77456681?m=humor",
+          "score": 97.29
         },
         {
           "source": "인벤",
-          "rank": 83,
-          "title": "솔직히 리트냥이 죽은 게 슬픈일임?",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2754514",
-          "score": 53.01
+          "rank": 98,
+          "title": "펌/나만 리트냥이 살자가 실수였다고 보는거임?",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2754631",
+          "score": 50.38
         }
       ],
       "first_seen": "2026-11-19T01:33:05.389756+09:00",
-      "last_seen": "2026-11-20T06:58:34.093141+09:00",
-      "latest_source_count": 4,
-      "latest_post_count": 4,
+      "last_seen": "2026-11-20T11:58:10.758077+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
       "rank": 1,
       "change": 0
+    },
+    {
+      "id": "i0f001078",
+      "title": "‘서울대’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "서울대"
+      ],
+      "source_count": 2,
+      "post_count": 5,
+      "score": 121.76,
+      "peak_score": 109.29,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 1,
+          "title": "서울대 교수가 리트냥이 사회가 죽였다는 거 전문 가져옴",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77456681?m=humor",
+          "score": 97.29
+        },
+        {
+          "source": "더쿠",
+          "rank": 29,
+          "title": "[속보] 이진우 사망에 서울대 교수 “속죄한 죽음마저 손가락질”…대중 비판",
+          "url": "https://theqoo.net/hot/4412464693",
+          "score": 68.37
+        }
+      ],
+      "first_seen": "2026-11-19T21:56:23.822682+09:00",
+      "last_seen": "2026-11-20T11:58:10.758077+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 5,
+      "rank": 2,
+      "change": "NEW"
     },
     {
       "id": "i9a0fa5b7",
@@ -103,7 +127,45 @@
       "last_seen": "2026-11-20T06:58:34.093141+09:00",
       "latest_source_count": 3,
       "latest_post_count": 3,
-      "rank": 2,
+      "rank": 3,
+      "change": -1
+    },
+    {
+      "id": "i139fa3fd",
+      "title": "‘이진우’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "이진우"
+      ],
+      "source_count": 2,
+      "post_count": 5,
+      "score": 98.02,
+      "peak_score": 83.53,
+      "appearances": 2,
+      "sources": [
+        "더쿠",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 29,
+          "title": "[속보] 이진우 사망에 서울대 교수 “속죄한 죽음마저 손가락질”…대중 비판",
+          "url": "https://theqoo.net/hot/4412464693",
+          "score": 68.37
+        },
+        {
+          "source": "인벤",
+          "rank": 42,
+          "title": "이진우 여자버전의 최후",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2754645",
+          "score": 64.09
+        }
+      ],
+      "first_seen": "2026-11-19T13:07:09.014795+09:00",
+      "last_seen": "2026-11-20T11:58:10.758077+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 4,
+      "rank": 4,
       "change": 0
     },
     {
@@ -149,46 +211,8 @@
       "last_seen": "2026-11-20T06:58:34.093141+09:00",
       "latest_source_count": 3,
       "latest_post_count": 3,
-      "rank": 3,
-      "change": 0
-    },
-    {
-      "id": "i139fa3fd",
-      "title": "‘이진우’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "이진우"
-      ],
-      "source_count": 2,
-      "post_count": 5,
-      "score": 96.0,
-      "peak_score": 83.53,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 20,
-          "title": "[속보] 이진우 사망에 서울대 교수 “속죄한 죽음마저 손가락질”…대중 비판",
-          "url": "https://theqoo.net/hot/4412464693",
-          "score": 71.53
-        },
-        {
-          "source": "인벤",
-          "rank": 24,
-          "title": "이진우 여자버전의 최후",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2754645",
-          "score": 70.97
-        }
-      ],
-      "first_seen": "2026-11-19T13:07:09.014795+09:00",
-      "last_seen": "2026-11-20T11:32:49.824295+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 5,
-      "rank": 4,
-      "change": "NEW"
+      "rank": 5,
+      "change": -2
     },
     {
       "id": "i91f13db9",
@@ -225,8 +249,46 @@
       "last_seen": "2026-11-20T06:58:34.093141+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
+      "rank": 6,
       "change": -1
+    },
+    {
+      "id": "i30b66e0d",
+      "title": "‘부정행위’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "부정행위"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 92.47,
+      "peak_score": 83.0,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 21,
+          "title": "[단독] 우려가 현실로…\"컴퓨터용 사인펜 썼네? 부정행위\" 수험생 퇴실시켜 놓고 '번복'",
+          "url": "https://theqoo.net/hot/4412515195",
+          "score": 74.0
+        },
+        {
+          "source": "인벤",
+          "rank": 46,
+          "title": "교육부 \"수능 스마트기기 부정행위 111건…재난문자로 54건 적발\"",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2754658",
+          "score": 62.86
+        }
+      ],
+      "first_seen": "2026-11-15T09:58:29.308734+09:00",
+      "last_seen": "2026-11-20T11:58:10.758077+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 7,
+      "change": "NEW"
     },
     {
       "id": "i376f96f7",
@@ -263,8 +325,8 @@
       "last_seen": "2026-11-20T06:58:34.093141+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
-      "change": -1
+      "rank": 8,
+      "change": -2
     },
     {
       "id": "ifb3fb43f",
@@ -307,8 +369,8 @@
       "last_seen": "2026-11-20T06:58:34.093141+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": -1
+      "rank": 9,
+      "change": -2
     },
     {
       "id": "i9a65961b",
@@ -352,8 +414,8 @@
       "last_seen": "2026-11-20T11:32:49.824295+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 8,
-      "change": "NEW"
+      "rank": 10,
+      "change": -2
     },
     {
       "id": "iaf37cd06",
@@ -390,8 +452,8 @@
       "last_seen": "2026-11-20T11:32:49.824295+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 9,
-      "change": "NEW"
+      "rank": 11,
+      "change": -2
     },
     {
       "id": "i1060e3b1",
@@ -428,8 +490,8 @@
       "last_seen": "2026-11-20T11:32:49.824295+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 10,
-      "change": "NEW"
+      "rank": 12,
+      "change": -2
     },
     {
       "id": "ide40d74c",
@@ -440,9 +502,9 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 83.52,
+      "score": 85.54,
       "peak_score": 74.05,
-      "appearances": 1,
+      "appearances": 2,
       "sources": [
         "더쿠",
         "뽐뿌"
@@ -450,25 +512,25 @@
       "posts": [
         {
           "source": "더쿠",
-          "rank": 38,
+          "rank": 43,
           "title": "오늘 디올 뷰티 행사에 뉴진스 해린",
           "url": "https://theqoo.net/hot/4412434386",
-          "score": 66.05
+          "score": 63.89
         },
         {
           "source": "뽐뿌",
-          "rank": 48,
+          "rank": 87,
           "title": "뉴진스 해린, 오늘 행사장 사진",
           "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10196301",
-          "score": 62.14
+          "score": 52.53
         }
       ],
       "first_seen": "2026-11-06T03:58:30.973216+09:00",
-      "last_seen": "2026-11-20T11:32:49.824295+09:00",
+      "last_seen": "2026-11-20T11:58:10.758077+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 11,
-      "change": "NEW"
+      "rank": 13,
+      "change": -2
     },
     {
       "id": "i1a0292b7",
@@ -505,8 +567,8 @@
       "last_seen": "2026-11-20T11:32:49.824295+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 12,
-      "change": "NEW"
+      "rank": 14,
+      "change": -2
     },
     {
       "id": "i2a941b9f",
@@ -548,8 +610,8 @@
       "last_seen": "2026-11-20T06:23:58.197530+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 13,
-      "change": -6
+      "rank": 15,
+      "change": -2
     },
     {
       "id": "i51823408",
@@ -590,8 +652,8 @@
       "last_seen": "2026-11-20T06:58:34.093141+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 14,
-      "change": -6
+      "rank": 16,
+      "change": -2
     },
     {
       "id": "i4096f736",
@@ -628,8 +690,84 @@
       "last_seen": "2026-11-20T06:23:58.197530+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 15,
-      "change": -6
+      "rank": 17,
+      "change": -2
+    },
+    {
+      "id": "i3ccc2d51",
+      "title": "‘일본인’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "일본인"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 78.48,
+      "peak_score": 69.01,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 55,
+          "title": "임신이 하고싶은 일본인 여자친구..jpg",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480330&_dcbest=1&page=1",
+          "score": 60.01
+        },
+        {
+          "source": "루리웹",
+          "rank": 91,
+          "title": "일본인 기자가 빡쳐서 왜 일본의전 개판치냐고 중국대변인 한테 질문함",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77457250?m=humor_only&t=now",
+          "score": 52.14
+        }
+      ],
+      "first_seen": "2026-10-01T22:31:06.521354+09:00",
+      "last_seen": "2026-11-20T11:58:10.758077+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 18,
+      "change": "NEW"
+    },
+    {
+      "id": "i36ddd5fd",
+      "title": "‘민주당’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "민주당"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 76.21,
+      "peak_score": 65.74,
+      "appearances": 1,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 75,
+          "title": "미국 민주당 압승 이후 바뀌고 있는 데이터센터 투자판 흐름...",
+          "url": "https://www.clien.net/service/board/park/19295920?od=T31&po=0&category=0&groupCd=",
+          "score": 55.74
+        },
+        {
+          "source": "인벤",
+          "rank": 78,
+          "title": "'오세훈 고발' 민주당 의원들 \"공소시효 13일 남아‥신속한 수사\"",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2754654",
+          "score": 55.24
+        }
+      ],
+      "first_seen": "2026-09-30T08:46:44.153676+09:00",
+      "last_seen": "2026-11-20T11:58:10.758077+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 3,
+      "rank": 19,
+      "change": "NEW"
     }
   ]
 }
