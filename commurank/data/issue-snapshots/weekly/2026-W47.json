@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W47",
   "label": "2026.11.16 ~ 11.22",
-  "collected_at": "2026-11-20T19:25:12.852187+09:00",
+  "collected_at": "2026-11-20T20:16:25.731535+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -14,9 +14,9 @@
       ],
       "source_count": 6,
       "post_count": 7,
-      "score": 162.16,
+      "score": 162.54,
       "peak_score": 122.34,
-      "appearances": 12,
+      "appearances": 13,
       "sources": [
         "더쿠",
         "디시인사이드",
@@ -27,22 +27,22 @@
       ],
       "posts": [
         {
-          "source": "루리웹",
-          "rank": 1,
-          "title": "서울대 교수가 리트냥이 사회가 죽였다는 거 전문 가져옴",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77456681?m=humor",
-          "score": 97.29
+          "source": "뽐뿌",
+          "rank": 4,
+          "title": "리트냥이 마지막 근황",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10196773",
+          "score": 83.05
         },
         {
           "source": "디시인사이드",
-          "rank": 30,
+          "rank": 38,
           "title": "싱글벙글 리트냥이 여자였으면 성희롱쩔었을거라는 여자들",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480438&_dcbest=1&page=1",
-          "score": 67.23
+          "score": 64.73
         }
       ],
       "first_seen": "2026-11-19T01:33:05.389756+09:00",
-      "last_seen": "2026-11-20T19:25:12.852187+09:00",
+      "last_seen": "2026-11-20T20:16:25.731535+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 1,
@@ -448,7 +448,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 10,
-      "change": 1
+      "change": 0
     },
     {
       "id": "ie0e1098c",
@@ -486,7 +486,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 11,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i153ac4c4",
@@ -526,7 +526,47 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 12,
-      "change": -2
+      "change": 0
+    },
+    {
+      "id": "i91f13db9",
+      "title": "‘gta6’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "gta6"
+      ],
+      "source_count": 3,
+      "post_count": 4,
+      "score": 114.13,
+      "peak_score": 91.73,
+      "appearances": 7,
+      "sources": [
+        "디시인사이드",
+        "루리웹",
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 15,
+          "title": "훌쩍훌쩍 GTA6 무료나눔",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480447&_dcbest=1&page=1",
+          "score": 73.07
+        },
+        {
+          "source": "루리웹",
+          "rank": 88,
+          "title": "Gta6) 지금 그타6 산 애들이 바보인 이유",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77462842?m=humor_only&t=now",
+          "score": 53.8
+        }
+      ],
+      "first_seen": "2026-10-17T19:34:33.819752+09:00",
+      "last_seen": "2026-11-20T20:16:25.731535+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 13,
+      "change": 2
     },
     {
       "id": "id99cf9ee",
@@ -564,7 +604,7 @@
       "last_seen": "2026-11-17T01:04:27.459416+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 13,
+      "rank": 14,
       "change": -1
     },
     {
@@ -604,48 +644,8 @@
       "last_seen": "2026-11-19T21:56:23.822682+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 14,
-      "change": -1
-    },
-    {
-      "id": "i91f13db9",
-      "title": "‘gta6’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "gta6"
-      ],
-      "source_count": 3,
-      "post_count": 4,
-      "score": 113.46,
-      "peak_score": 91.73,
-      "appearances": 6,
-      "sources": [
-        "디시인사이드",
-        "루리웹",
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 67,
-          "title": "이게 GTA6 엔딩임.....",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480394&_dcbest=1&page=1",
-          "score": 57.6
-        },
-        {
-          "source": "루리웹",
-          "rank": 97,
-          "title": "GTA6 돈 주고 산 애들이 바보인 이유",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77457147?m=humor_only&t=now",
-          "score": 52.37
-        }
-      ],
-      "first_seen": "2026-10-17T19:34:33.819752+09:00",
-      "last_seen": "2026-11-20T19:25:12.852187+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 3,
       "rank": 15,
-      "change": 3
+      "change": -1
     },
     {
       "id": "i7a05fcc0",
@@ -683,7 +683,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 16,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i50c746bf",
@@ -721,7 +721,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 17,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i30b66e0d",
@@ -763,7 +763,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 18,
-      "change": -2
+      "change": 0
     },
     {
       "id": "i62598682",
@@ -801,7 +801,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 19,
-      "change": -2
+      "change": 0
     },
     {
       "id": "ica8e375b",
@@ -848,7 +848,7 @@
       "latest_source_count": 3,
       "latest_post_count": 3,
       "rank": 20,
-      "change": -1
+      "change": 0
     }
   ]
 }
