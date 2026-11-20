@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-11-21T03:46:35.486063+09:00",
+  "collected_at": "2026-11-21T04:11:38.456538+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -19,8 +19,8 @@
         ],
         "source_count": 2,
         "post_count": 3,
-        "score": 80.7,
-        "peak_score": 80.7,
+        "score": 81.11,
+        "peak_score": 81.11,
         "appearances": 1,
         "sources": [
           "디시인사이드",
@@ -32,25 +32,25 @@
             "rank": 25,
             "title": "앤트로픽 레벤트 알푀게, 리만 가설 증명했다고 주장 ㄷㄷ",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480523&_dcbest=1&page=1",
-            "score": 69.7
+            "score": 70.11
           },
           {
             "source": "클리앙",
-            "rank": 28,
+            "rank": 29,
             "title": "앤트로픽 엄청 빠지는군요 ㄷㄷ",
             "url": "https://www.clien.net/service/board/park/19296320?od=T31&po=0&category=0&groupCd=",
-            "score": 68.15
+            "score": 68.45
           },
           {
             "source": "클리앙",
-            "rank": 75,
+            "rank": 74,
             "title": "앤트로픽 수학자, 리만가설 증명 주장",
             "url": "https://www.clien.net/service/board/park/19296314?od=T31&po=0&category=0&groupCd=",
-            "score": 57.8
+            "score": 57.44
           }
         ],
         "rank": 1,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "i1060e3b1",
@@ -60,8 +60,8 @@
         ],
         "source_count": 2,
         "post_count": 3,
-        "score": 69.35,
-        "peak_score": 69.35,
+        "score": 68.8,
+        "peak_score": 68.8,
         "appearances": 1,
         "sources": [
           "디시인사이드",
@@ -70,33 +70,67 @@
         "posts": [
           {
             "source": "디시인사이드",
-            "rank": 68,
+            "rank": 66,
             "title": "[속보] 민주당, 진보정당과 함께 조희대 탄핵 진행",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480510&_dcbest=1&page=1",
-            "score": 59.35
+            "score": 58.8
           },
           {
             "source": "인벤",
-            "rank": 93,
+            "rank": 94,
             "title": "“탄핵 사유 쌓여, 연내에 처리”…여, ‘조희대 탄핵’ 본격화",
             "url": "https://www.inven.co.kr/board/webzine/2097/2754902",
-            "score": 53.34
+            "score": 53.03
           }
         ],
         "rank": 2,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "ie7dab000",
         "title": "요즘 일본서 논란인 다카이치 한국인설",
         "keywords": [
-          "다카이치",
-          "한국인설"
+          "한국인설",
+          "다카이치"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 102.67,
-        "peak_score": 102.67,
+        "score": 107.38,
+        "peak_score": 107.38,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "루리웹"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 1,
+            "title": "요즘 일본서 논란인 다카이치 한국인설",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77464802?m=humor",
+            "score": 99.38
+          },
+          {
+            "source": "더쿠",
+            "rank": 23,
+            "title": "요즘 일본에서 떠오르고 있는 다카이치 한국인설",
+            "url": "https://theqoo.net/hot/4413416967",
+            "score": 71.53
+          }
+        ],
+        "rank": 3,
+        "change": 0
+      },
+      {
+        "id": "i27245075",
+        "title": "‘있다는’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "있다는"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 105.19,
+        "peak_score": 105.19,
         "appearances": 1,
         "sources": [
           "더쿠",
@@ -106,19 +140,19 @@
           {
             "source": "루리웹",
             "rank": 2,
-            "title": "요즘 일본서 논란인 다카이치 한국인설",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77464802?m=humor",
-            "score": 94.67
+            "title": "현재 제대로 노 젓고 있다는 스시자로 근황.... ㄷㄷ",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77465440?m=humor",
+            "score": 96.19
           },
           {
             "source": "더쿠",
-            "rank": 21,
-            "title": "요즘 일본에서 떠오르고 있는 다카이치 한국인설",
-            "url": "https://theqoo.net/hot/4413416967",
-            "score": 72.53
+            "rank": 47,
+            "title": "현재 예측 꼴등이 수상해서 말나오고 있다는 MAMA",
+            "url": "https://theqoo.net/hot/4413308410",
+            "score": 63.42
           }
         ],
-        "rank": 3,
+        "rank": 4,
         "change": "NEW"
       },
       {
@@ -130,8 +164,8 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 91.61,
-        "peak_score": 91.61,
+        "score": 91.9,
+        "peak_score": 91.9,
         "appearances": 1,
         "sources": [
           "루리웹",
@@ -140,20 +174,54 @@
         "posts": [
           {
             "source": "인벤",
-            "rank": 4,
+            "rank": 6,
             "title": "ai 리만가설 증명 완료",
             "url": "https://www.inven.co.kr/board/webzine/2097/2754918",
-            "score": 83.61
+            "score": 83.9
           },
           {
             "source": "루리웹",
-            "rank": 27,
+            "rank": 63,
             "title": "리만가설 증명 제3자가 컴파일 성공",
             "url": "https://bbs.ruliweb.com/best/board/300143/read/77466661?m=humor_only&t=now",
-            "score": 68.8
+            "score": 59.51
           }
         ],
-        "rank": 4,
+        "rank": 5,
+        "change": -1
+      },
+      {
+        "id": "i3c64ef3a",
+        "title": "‘자동차’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "자동차"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 85.12,
+        "peak_score": 85.12,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 16,
+            "title": "어제 발표한 BYD 자동차 신기술",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=982709",
+            "score": 76.12
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 58,
+            "title": "JTBC) 자동차 때문에 비행기 놓칠 판",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480541&_dcbest=1&page=1",
+            "score": 60.25
+          }
+        ],
+        "rank": 6,
         "change": "NEW"
       },
       {
@@ -175,21 +243,21 @@
         "posts": [
           {
             "source": "더쿠",
-            "rank": 19,
+            "rank": 21,
             "title": "중국의 미래도시 근황",
             "url": "https://theqoo.net/hot/4413428698",
             "score": 73.0
           },
           {
             "source": "디시인사이드",
-            "rank": 46,
+            "rank": 43,
             "title": "와들와들 중국의 미래도시 ㄷㄷ",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480503&_dcbest=1&page=1",
-            "score": 63.71
+            "score": 64.12
           }
         ],
-        "rank": 5,
-        "change": "NEW"
+        "rank": 7,
+        "change": -2
       },
       {
         "id": "i9a0fa5b7",
@@ -216,82 +284,14 @@
           },
           {
             "source": "클리앙",
-            "rank": 70,
+            "rank": 61,
             "title": "한국에서 AI가 수능 만점 받았네 어쩌네 하는데 미국은 AI가 리만가설을 증명했네요",
             "url": "https://www.clien.net/service/board/park/19296322?od=T31&po=0&category=0&groupCd=",
-            "score": 58.67
-          }
-        ],
-        "rank": 6,
-        "change": "NEW"
-      },
-      {
-        "id": "i11fa4c33",
-        "title": "‘아이돌’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "아이돌"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 75.68,
-        "peak_score": 75.68,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "더쿠",
-            "rank": 36,
-            "title": "탈덕한 팬한테 12년만에 사과한 아이돌",
-            "url": "https://theqoo.net/hot/4413419668",
-            "score": 66.68
-          },
-          {
-            "source": "클리앙",
-            "rank": 95,
-            "title": "아이돌) 불가능할 것만 같았던 약속",
-            "url": "https://www.clien.net/service/board/park/19296315?od=T31&po=0&category=0&groupCd=",
-            "score": 52.57
-          }
-        ],
-        "rank": 7,
-        "change": "NEW"
-      },
-      {
-        "id": "ic19b2ed9",
-        "title": "‘mama’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "mama"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 72.42,
-        "peak_score": 72.42,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "더쿠",
-            "rank": 47,
-            "title": "현재 예측 꼴등이 수상해서 말나오고 있다는 MAMA",
-            "url": "https://theqoo.net/hot/4413308410",
-            "score": 63.42
-          },
-          {
-            "source": "인벤",
-            "rank": 65,
-            "title": "MAMA 레드카펫 김혜수 배우",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2754915",
-            "score": 59.74
+            "score": 59.92
           }
         ],
         "rank": 8,
-        "change": "NEW"
+        "change": -2
       }
     ],
     "daily": [
@@ -299,13 +299,51 @@
         "id": "ie7dab000",
         "title": "요즘 일본서 논란인 다카이치 한국인설",
         "keywords": [
-          "다카이치",
-          "한국인설"
+          "한국인설",
+          "다카이치"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 112.14,
-        "peak_score": 102.67,
+        "score": 118.87,
+        "peak_score": 107.38,
+        "appearances": 2,
+        "sources": [
+          "더쿠",
+          "루리웹"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 1,
+            "title": "요즘 일본서 논란인 다카이치 한국인설",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77464802?m=humor",
+            "score": 99.38
+          },
+          {
+            "source": "더쿠",
+            "rank": 23,
+            "title": "요즘 일본에서 떠오르고 있는 다카이치 한국인설",
+            "url": "https://theqoo.net/hot/4413416967",
+            "score": 71.53
+          }
+        ],
+        "first_seen": "2026-11-21T03:46:35.486063+09:00",
+        "last_seen": "2026-11-21T04:11:38.456538+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 1,
+        "change": 0
+      },
+      {
+        "id": "i27245075",
+        "title": "‘있다는’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "있다는"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 114.66,
+        "peak_score": 105.19,
         "appearances": 1,
         "sources": [
           "더쿠",
@@ -315,23 +353,23 @@
           {
             "source": "루리웹",
             "rank": 2,
-            "title": "요즘 일본서 논란인 다카이치 한국인설",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77464802?m=humor",
-            "score": 94.67
+            "title": "현재 제대로 노 젓고 있다는 스시자로 근황.... ㄷㄷ",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77465440?m=humor",
+            "score": 96.19
           },
           {
             "source": "더쿠",
-            "rank": 21,
-            "title": "요즘 일본에서 떠오르고 있는 다카이치 한국인설",
-            "url": "https://theqoo.net/hot/4413416967",
-            "score": 72.53
+            "rank": 47,
+            "title": "현재 예측 꼴등이 수상해서 말나오고 있다는 MAMA",
+            "url": "https://theqoo.net/hot/4413308410",
+            "score": 63.42
           }
         ],
-        "first_seen": "2026-11-21T03:46:35.486063+09:00",
-        "last_seen": "2026-11-21T03:46:35.486063+09:00",
+        "first_seen": "2026-10-21T18:37:21.676761+09:00",
+        "last_seen": "2026-11-21T04:11:38.456538+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 1,
+        "rank": 2,
         "change": "NEW"
       },
       {
@@ -343,9 +381,9 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 101.08,
-        "peak_score": 91.61,
-        "appearances": 1,
+        "score": 103.39,
+        "peak_score": 91.9,
+        "appearances": 2,
         "sources": [
           "루리웹",
           "인벤"
@@ -353,24 +391,62 @@
         "posts": [
           {
             "source": "인벤",
-            "rank": 4,
+            "rank": 6,
             "title": "ai 리만가설 증명 완료",
             "url": "https://www.inven.co.kr/board/webzine/2097/2754918",
-            "score": 83.61
+            "score": 83.9
           },
           {
             "source": "루리웹",
-            "rank": 27,
+            "rank": 63,
             "title": "리만가설 증명 제3자가 컴파일 성공",
             "url": "https://bbs.ruliweb.com/best/board/300143/read/77466661?m=humor_only&t=now",
-            "score": 68.8
+            "score": 59.51
           }
         ],
         "first_seen": "2026-11-21T03:46:35.486063+09:00",
-        "last_seen": "2026-11-21T03:46:35.486063+09:00",
+        "last_seen": "2026-11-21T04:11:38.456538+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 2,
+        "rank": 3,
+        "change": -1
+      },
+      {
+        "id": "i3c64ef3a",
+        "title": "‘자동차’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "자동차"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 94.59,
+        "peak_score": 85.12,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 16,
+            "title": "어제 발표한 BYD 자동차 신기술",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=982709",
+            "score": 76.12
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 58,
+            "title": "JTBC) 자동차 때문에 비행기 놓칠 판",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480541&_dcbest=1&page=1",
+            "score": 60.25
+          }
+        ],
+        "first_seen": "2026-11-08T16:17:34.790043+09:00",
+        "last_seen": "2026-11-21T04:11:38.456538+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 4,
         "change": "NEW"
       },
       {
@@ -382,9 +458,9 @@
         ],
         "source_count": 2,
         "post_count": 3,
-        "score": 91.17,
-        "peak_score": 80.7,
-        "appearances": 1,
+        "score": 93.6,
+        "peak_score": 81.11,
+        "appearances": 2,
         "sources": [
           "디시인사이드",
           "클리앙"
@@ -395,29 +471,29 @@
             "rank": 25,
             "title": "앤트로픽 레벤트 알푀게, 리만 가설 증명했다고 주장 ㄷㄷ",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480523&_dcbest=1&page=1",
-            "score": 69.7
+            "score": 70.11
           },
           {
             "source": "클리앙",
-            "rank": 28,
+            "rank": 29,
             "title": "앤트로픽 엄청 빠지는군요 ㄷㄷ",
             "url": "https://www.clien.net/service/board/park/19296320?od=T31&po=0&category=0&groupCd=",
-            "score": 68.15
+            "score": 68.45
           },
           {
             "source": "클리앙",
-            "rank": 75,
+            "rank": 74,
             "title": "앤트로픽 수학자, 리만가설 증명 주장",
             "url": "https://www.clien.net/service/board/park/19296314?od=T31&po=0&category=0&groupCd=",
-            "score": 57.8
+            "score": 57.44
           }
         ],
         "first_seen": "2026-11-21T03:46:35.486063+09:00",
-        "last_seen": "2026-11-21T03:46:35.486063+09:00",
+        "last_seen": "2026-11-21T04:11:38.456538+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 3,
-        "change": "NEW"
+        "rank": 5,
+        "change": -2
       },
       {
         "id": "ie9ff0a71",
@@ -428,9 +504,9 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 90.47,
+        "score": 92.49,
         "peak_score": 81.0,
-        "appearances": 1,
+        "appearances": 2,
         "sources": [
           "더쿠",
           "디시인사이드"
@@ -438,25 +514,25 @@
         "posts": [
           {
             "source": "더쿠",
-            "rank": 19,
+            "rank": 21,
             "title": "중국의 미래도시 근황",
             "url": "https://theqoo.net/hot/4413428698",
             "score": 73.0
           },
           {
             "source": "디시인사이드",
-            "rank": 46,
+            "rank": 43,
             "title": "와들와들 중국의 미래도시 ㄷㄷ",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480503&_dcbest=1&page=1",
-            "score": 63.71
+            "score": 64.12
           }
         ],
         "first_seen": "2026-11-21T03:46:35.486063+09:00",
-        "last_seen": "2026-11-21T03:46:35.486063+09:00",
+        "last_seen": "2026-11-21T04:11:38.456538+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 4,
-        "change": "NEW"
+        "rank": 6,
+        "change": -2
       },
       {
         "id": "i9a0fa5b7",
@@ -466,9 +542,9 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 85.31,
+        "score": 87.33,
         "peak_score": 75.84,
-        "appearances": 1,
+        "appearances": 2,
         "sources": [
           "더쿠",
           "클리앙"
@@ -483,18 +559,18 @@
           },
           {
             "source": "클리앙",
-            "rank": 70,
+            "rank": 61,
             "title": "한국에서 AI가 수능 만점 받았네 어쩌네 하는데 미국은 AI가 리만가설을 증명했네요",
             "url": "https://www.clien.net/service/board/park/19296322?od=T31&po=0&category=0&groupCd=",
-            "score": 58.67
+            "score": 59.92
           }
         ],
         "first_seen": "2026-10-24T15:24:14.524607+09:00",
-        "last_seen": "2026-11-21T03:46:35.486063+09:00",
+        "last_seen": "2026-11-21T04:11:38.456538+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 5,
-        "change": -1
+        "rank": 7,
+        "change": -2
       },
       {
         "id": "i11fa4c33",
@@ -531,8 +607,8 @@
         "last_seen": "2026-11-21T03:46:35.486063+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 6,
-        "change": "NEW"
+        "rank": 8,
+        "change": -2
       },
       {
         "id": "ic19b2ed9",
@@ -569,8 +645,8 @@
         "last_seen": "2026-11-21T03:46:35.486063+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 7,
-        "change": "NEW"
+        "rank": 9,
+        "change": -2
       },
       {
         "id": "i1060e3b1",
@@ -580,9 +656,9 @@
         ],
         "source_count": 2,
         "post_count": 3,
-        "score": 79.82,
+        "score": 81.84,
         "peak_score": 69.35,
-        "appearances": 1,
+        "appearances": 2,
         "sources": [
           "디시인사이드",
           "인벤"
@@ -590,25 +666,25 @@
         "posts": [
           {
             "source": "디시인사이드",
-            "rank": 68,
+            "rank": 66,
             "title": "[속보] 민주당, 진보정당과 함께 조희대 탄핵 진행",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480510&_dcbest=1&page=1",
-            "score": 59.35
+            "score": 58.8
           },
           {
             "source": "인벤",
-            "rank": 93,
+            "rank": 94,
             "title": "“탄핵 사유 쌓여, 연내에 처리”…여, ‘조희대 탄핵’ 본격화",
             "url": "https://www.inven.co.kr/board/webzine/2097/2754902",
-            "score": 53.34
+            "score": 53.03
           }
         ],
         "first_seen": "2026-10-03T17:31:33.747059+09:00",
-        "last_seen": "2026-11-21T03:46:35.486063+09:00",
+        "last_seen": "2026-11-21T04:11:38.456538+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 8,
-        "change": 8
+        "rank": 10,
+        "change": -2
       }
     ],
     "weekly": [
@@ -910,6 +986,45 @@
         "change": 0
       },
       {
+        "id": "ie7dab000",
+        "title": "요즘 일본서 논란인 다카이치 한국인설",
+        "keywords": [
+          "한국인설",
+          "다카이치"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 118.87,
+        "peak_score": 107.38,
+        "appearances": 2,
+        "sources": [
+          "더쿠",
+          "루리웹"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 1,
+            "title": "요즘 일본서 논란인 다카이치 한국인설",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77464802?m=humor",
+            "score": 99.38
+          },
+          {
+            "source": "더쿠",
+            "rank": 23,
+            "title": "요즘 일본에서 떠오르고 있는 다카이치 한국인설",
+            "url": "https://theqoo.net/hot/4413416967",
+            "score": 71.53
+          }
+        ],
+        "first_seen": "2026-11-21T03:46:35.486063+09:00",
+        "last_seen": "2026-11-21T04:11:38.456538+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 8,
+        "change": "NEW"
+      },
+      {
         "id": "i4af03c34",
         "title": "[속보] 리트 만점자, 공개검증 약속시간 도착안해…\"폰 꺼져있어\"",
         "keywords": [
@@ -965,8 +1080,8 @@
         "last_seen": "2026-11-19T08:29:38.230773+09:00",
         "latest_source_count": 4,
         "latest_post_count": 5,
-        "rank": 8,
-        "change": 0
+        "rank": 9,
+        "change": -1
       },
       {
         "id": "i9a0fa5b7",
@@ -976,9 +1091,9 @@
         ],
         "source_count": 3,
         "post_count": 3,
-        "score": 117.22,
+        "score": 117.89,
         "peak_score": 96.49,
-        "appearances": 6,
+        "appearances": 7,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -995,18 +1110,57 @@
           },
           {
             "source": "클리앙",
-            "rank": 70,
+            "rank": 61,
             "title": "한국에서 AI가 수능 만점 받았네 어쩌네 하는데 미국은 AI가 리만가설을 증명했네요",
             "url": "https://www.clien.net/service/board/park/19296322?od=T31&po=0&category=0&groupCd=",
-            "score": 58.67
+            "score": 59.92
           }
         ],
         "first_seen": "2026-10-24T15:24:14.524607+09:00",
-        "last_seen": "2026-11-21T03:46:35.486063+09:00",
+        "last_seen": "2026-11-21T04:11:38.456538+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 9,
-        "change": 0
+        "rank": 10,
+        "change": -1
+      },
+      {
+        "id": "i27245075",
+        "title": "‘있다는’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "있다는"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 116.68,
+        "peak_score": 105.19,
+        "appearances": 2,
+        "sources": [
+          "더쿠",
+          "디시인사이드",
+          "루리웹"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 2,
+            "title": "현재 제대로 노 젓고 있다는 스시자로 근황.... ㄷㄷ",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77465440?m=humor",
+            "score": 96.19
+          },
+          {
+            "source": "더쿠",
+            "rank": 47,
+            "title": "현재 예측 꼴등이 수상해서 말나오고 있다는 MAMA",
+            "url": "https://theqoo.net/hot/4413308410",
+            "score": 63.42
+          }
+        ],
+        "first_seen": "2026-10-21T18:37:21.676761+09:00",
+        "last_seen": "2026-11-21T04:11:38.456538+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 11,
+        "change": "NEW"
       },
       {
         "id": "if4949e9f",
@@ -1046,8 +1200,8 @@
         "last_seen": "2026-11-20T19:25:12.852187+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 10,
-        "change": 0
+        "rank": 12,
+        "change": -2
       },
       {
         "id": "ie0e1098c",
@@ -1084,8 +1238,8 @@
         "last_seen": "2026-11-20T19:25:12.852187+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
-        "change": 0
+        "rank": 13,
+        "change": -2
       },
       {
         "id": "i153ac4c4",
@@ -1124,8 +1278,8 @@
         "last_seen": "2026-11-18T03:08:16.109508+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 12,
-        "change": 0
+        "rank": 14,
+        "change": -2
       },
       {
         "id": "i91f13db9",
@@ -1164,8 +1318,8 @@
         "last_seen": "2026-11-20T20:16:25.731535+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 13,
-        "change": 0
+        "rank": 15,
+        "change": -2
       },
       {
         "id": "id99cf9ee",
@@ -1203,8 +1357,8 @@
         "last_seen": "2026-11-17T01:04:27.459416+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 14,
-        "change": 0
+        "rank": 16,
+        "change": -2
       },
       {
         "id": "i4000b1ee",
@@ -1243,8 +1397,8 @@
         "last_seen": "2026-11-19T21:56:23.822682+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 15,
-        "change": 0
+        "rank": 17,
+        "change": -2
       },
       {
         "id": "i7a05fcc0",
@@ -1281,8 +1435,8 @@
         "last_seen": "2026-11-18T16:12:11.417903+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 16,
-        "change": 0
+        "rank": 18,
+        "change": -2
       },
       {
         "id": "i50c746bf",
@@ -1319,8 +1473,8 @@
         "last_seen": "2026-11-16T15:12:02.074648+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 17,
-        "change": 0
+        "rank": 19,
+        "change": -2
       },
       {
         "id": "i30b66e0d",
@@ -1361,93 +1515,8 @@
         "last_seen": "2026-11-20T11:58:10.758077+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 18,
-        "change": 0
-      },
-      {
-        "id": "i62598682",
-        "title": "‘연필만’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "연필만"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 112.72,
-        "peak_score": 103.25,
-        "appearances": 1,
-        "sources": [
-          "루리웹",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 3,
-            "title": "\"흑색 연필이 뭐죠?\" 수능 '연필만 허용'에 대혼란",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77431371?m=humor",
-            "score": 94.25
-          },
-          {
-            "source": "클리앙",
-            "rank": 32,
-            "title": "수능 검은색 연필만 가능케한 결정이 이것 때문이었군요",
-            "url": "https://www.clien.net/service/board/park/19294650?od=T31&po=0&category=0&groupCd=",
-            "score": 65.17
-          }
-        ],
-        "first_seen": "2026-11-18T16:12:11.417903+09:00",
-        "last_seen": "2026-11-18T16:12:11.417903+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 19,
-        "change": 0
-      },
-      {
-        "id": "ica8e375b",
-        "title": "로버트 패틴슨 차기 007 제임스 본드 확정",
-        "keywords": [
-          "본드",
-          "제임스"
-        ],
-        "source_count": 3,
-        "post_count": 3,
-        "score": 112.46,
-        "peak_score": 94.53,
-        "appearances": 3,
-        "sources": [
-          "더쿠",
-          "뽐뿌",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 42,
-            "title": "로버트 패틴슨 차기 007 제임스 본드 확정",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2753326",
-            "score": 62.57
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 48,
-            "title": "새로운 제임스 본드 발표",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=26233",
-            "score": 61.35
-          },
-          {
-            "source": "더쿠",
-            "rank": 64,
-            "title": "방금 발표된 새 제임스 본드",
-            "url": "https://theqoo.net/hot/4408609338",
-            "score": 58.11
-          }
-        ],
-        "first_seen": "2026-11-17T01:59:39.928473+09:00",
-        "last_seen": "2026-11-17T09:47:48.497649+09:00",
-        "latest_source_count": 3,
-        "latest_post_count": 3,
         "rank": 20,
-        "change": 0
+        "change": -2
       }
     ],
     "monthly": [
@@ -2262,43 +2331,44 @@
         "change": 0
       },
       {
-        "id": "i9ff6bf96",
-        "title": "‘프랑스’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i9a0fa5b7",
+        "title": "‘ai가’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "프랑스"
+          "ai가"
         ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 118.61,
-        "peak_score": 107.12,
-        "appearances": 2,
+        "source_count": 3,
+        "post_count": 3,
+        "score": 119.0,
+        "peak_score": 96.49,
+        "appearances": 9,
         "sources": [
+          "더쿠",
           "디시인사이드",
-          "루리웹",
-          "뽐뿌"
+          "뽐뿌",
+          "클리앙"
         ],
         "posts": [
           {
-            "source": "루리웹",
-            "rank": 1,
-            "title": "프랑스 최초의 좌우대통합",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77290550?m=humor",
-            "score": 97.44
+            "source": "더쿠",
+            "rank": 35,
+            "title": "요즘 대학생들 : AI가 없던 시절에는 그럼 대학생활을 대체 어케 하신거에요 선배님들......",
+            "url": "https://theqoo.net/hot/4413419806",
+            "score": 66.84
           },
           {
-            "source": "뽐뿌",
-            "rank": 7,
-            "title": "현재 난리난 프랑스 마크롱 근황",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10178212",
-            "score": 83.17
+            "source": "클리앙",
+            "rank": 61,
+            "title": "한국에서 AI가 수능 만점 받았네 어쩌네 하는데 미국은 AI가 리만가설을 증명했네요",
+            "url": "https://www.clien.net/service/board/park/19296322?od=T31&po=0&category=0&groupCd=",
+            "score": 59.92
           }
         ],
-        "first_seen": "2026-10-05T23:25:29.795675+09:00",
-        "last_seen": "2026-11-06T15:59:18.215188+09:00",
+        "first_seen": "2026-10-24T15:24:14.524607+09:00",
+        "last_seen": "2026-11-21T04:11:38.456538+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 20,
-        "change": 0
+        "change": "NEW"
       }
     ]
   }
