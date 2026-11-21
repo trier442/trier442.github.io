@@ -2,19 +2,19 @@
   "version": 1,
   "date": "2026-11-21",
   "label": "2026년 11월 21일",
-  "collected_at": "2026-11-21T16:27:14.722289+09:00",
+  "collected_at": "2026-11-21T16:58:26.046828+09:00",
   "timezone": "Asia/Seoul",
   "overview": "오늘 가장 두드러진 이슈는 ‘요즘 일본서 논란인 다카이치 한국인설’입니다. 실시간 키워드 상위: #유서. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
-    "ok_sources": 6,
-    "cached_sources": 0,
+    "ok_sources": 5,
+    "cached_sources": 1,
     "realtime_posts": 100,
     "daily_posts": 100,
-    "daily_issues": 18,
-    "keywords": 12,
-    "top100_views": 1077607,
-    "top100_comments": 11058
+    "daily_issues": 20,
+    "keywords": 10,
+    "top100_views": 1146916,
+    "top100_comments": 11666
   },
   "highlights": [
     {
@@ -25,9 +25,9 @@
     },
     {
       "type": "post",
-      "title": "요즘 일본서 논란인 다카이치 한국인설",
+      "title": "리트냥이 유서 내용 단독 입수 공개… 이 유서도 조롱당하겠지",
       "text": "루리웹에서 현재 상위권에 오른 인기글입니다.",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77464802?m=humor"
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77470520?m=humor"
     },
     {
       "type": "keyword",
@@ -37,6 +37,24 @@
     }
   ],
   "top_posts": [
+    {
+      "title": "리트냥이 유서 내용 단독 입수 공개… 이 유서도 조롱당하겠지",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77470520?m=humor",
+      "first_seen": "2026-11-21T16:27:14.722289+09:00",
+      "last_seen": "2026-11-21T16:58:26.046828+09:00",
+      "peak_score": 98.54,
+      "max_views": 15440,
+      "max_likes": 249,
+      "max_comments": 68,
+      "appearances": 2,
+      "score": 108.74,
+      "views": 15440,
+      "likes": 249,
+      "comments": 68,
+      "change": 1
+    },
     {
       "title": "요즘 일본서 논란인 다카이치 한국인설",
       "source": "루리웹",
@@ -49,29 +67,11 @@
       "max_likes": 147,
       "max_comments": 65,
       "appearances": 2,
-      "score": 108.56,
+      "score": 108.51,
       "views": 24646,
       "likes": 147,
       "comments": 65,
-      "change": 0
-    },
-    {
-      "title": "리트냥이 유서 내용 단독 입수 공개… 이 유서도 조롱당하겠지",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77470520?m=humor",
-      "first_seen": "2026-11-21T16:27:14.722289+09:00",
-      "last_seen": "2026-11-21T16:27:14.722289+09:00",
-      "peak_score": 98.54,
-      "max_views": 15440,
-      "max_likes": 249,
-      "max_comments": 68,
-      "appearances": 1,
-      "score": 107.93,
-      "views": 15440,
-      "likes": 249,
-      "comments": 68,
-      "change": "NEW"
+      "change": -1
     },
     {
       "title": "이번에 걸린 수능헌터 1억 즉시 포상금 예정 ㄷㄷㄷㄷㄷ",
@@ -85,11 +85,11 @@
       "max_likes": 113,
       "max_comments": 67,
       "appearances": 1,
-      "score": 107.79,
+      "score": 107.75,
       "views": 31423,
       "likes": 113,
       "comments": 67,
-      "change": -1
+      "change": 0
     },
     {
       "title": "??? : 님들 사람 죽일수도 있다고 생각하고 입대 한거 아님?",
@@ -103,11 +103,29 @@
       "max_likes": 89,
       "max_comments": 92,
       "appearances": 1,
-      "score": 106.04,
+      "score": 106.0,
       "views": 11321,
       "likes": 89,
       "comments": 92,
-      "change": -1
+      "change": 0
+    },
+    {
+      "title": "GTA에 들러붙은 대안우파들",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77469088?m=humor",
+      "first_seen": "2026-11-21T16:27:14.722289+09:00",
+      "last_seen": "2026-11-21T16:58:26.046828+09:00",
+      "peak_score": 95.77,
+      "max_views": 14257,
+      "max_likes": 127,
+      "max_comments": 80,
+      "appearances": 2,
+      "score": 105.97,
+      "views": 14257,
+      "likes": 127,
+      "comments": 80,
+      "change": 1
     },
     {
       "title": "대환장의 UN 결의안 근황",
@@ -121,29 +139,11 @@
       "max_likes": 87,
       "max_comments": 74,
       "appearances": 1,
-      "score": 105.44,
+      "score": 105.4,
       "views": 14496,
       "likes": 87,
       "comments": 74,
       "change": -1
-    },
-    {
-      "title": "GTA에 들러붙은 대안우파들",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77469088?m=humor",
-      "first_seen": "2026-11-21T16:27:14.722289+09:00",
-      "last_seen": "2026-11-21T16:27:14.722289+09:00",
-      "peak_score": 95.77,
-      "max_views": 14257,
-      "max_likes": 127,
-      "max_comments": 80,
-      "appearances": 1,
-      "score": 105.16,
-      "views": 14257,
-      "likes": 127,
-      "comments": 80,
-      "change": "NEW"
     },
     {
       "title": "현재 제대로 노 젓고 있다는 스시자로 근황.... ㄷㄷ",
@@ -157,11 +157,11 @@
       "max_likes": 103,
       "max_comments": 59,
       "appearances": 1,
-      "score": 104.55,
+      "score": 104.51,
       "views": 21459,
       "likes": 103,
       "comments": 59,
-      "change": -2
+      "change": 0
     },
     {
       "title": "리얼돌) 진지글-분하지만 중국의 로봇 기술이 발전 할 밖에 없는 이유",
@@ -175,11 +175,11 @@
       "max_likes": 60,
       "max_comments": 36,
       "appearances": 1,
-      "score": 102.96,
+      "score": 102.92,
       "views": 18331,
       "likes": 60,
       "comments": 36,
-      "change": -2
+      "change": 0
     },
     {
       "title": "GTA 팬 중에서도 별종 취급받는다는 사람",
@@ -193,11 +193,11 @@
       "max_likes": 79,
       "max_comments": 58,
       "appearances": 1,
-      "score": 102.85,
+      "score": 102.81,
       "views": 15417,
       "likes": 79,
       "comments": 58,
-      "change": -2
+      "change": 0
     },
     {
       "title": "주식) 우리가 생각하는 장투 vs 실제 장투",
@@ -211,213 +211,213 @@
       "max_likes": 49,
       "max_comments": 48,
       "appearances": 1,
-      "score": 102.06,
+      "score": 102.02,
       "views": 26902,
       "likes": 49,
       "comments": 48,
-      "change": -2
+      "change": 0
     }
   ],
   "rising": [
-    {
-      "source": "루리웹",
-      "title": "리트냥이 유서 내용 단독 입수 공개… 이 유서도 조롱당하겠지",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77470520?m=humor",
-      "category": "이슈",
-      "views": 15440,
-      "likes": 249,
-      "comments": 68,
-      "score": 98.54,
-      "change": "NEW",
-      "current_rank": 1,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 83.39,
-      "rising_rank": 1,
-      "window_minutes": 398
-    },
-    {
-      "source": "루리웹",
-      "title": "GTA에 들러붙은 대안우파들",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77469088?m=humor",
-      "category": "이슈",
-      "views": 14257,
-      "likes": 127,
-      "comments": 80,
-      "score": 95.77,
-      "change": "NEW",
-      "current_rank": 2,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 82.22,
-      "rising_rank": 2,
-      "window_minutes": 398
-    },
-    {
-      "source": "루리웹",
-      "title": "마비노기 모바일 손절하기에 제일 현명했던 시기 ㅋㅋㅋㅋㅋㅋㅋㅋ",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77469704?m=humor",
-      "category": "유머",
-      "views": 11092,
-      "likes": 72,
-      "comments": 62,
-      "score": 91.34,
-      "change": "NEW",
-      "current_rank": 3,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 80.36,
-      "rising_rank": 3,
-      "window_minutes": 398
-    },
-    {
-      "source": "루리웹",
-      "title": "[네이버페이] 일일적립, 클릭 18원, 라이브예고 4원",
-      "url": "https://bbs.ruliweb.com/market/board/1020/read/109248",
-      "category": "이슈",
-      "views": 35116,
-      "likes": 165,
-      "comments": 21,
-      "score": 90.24,
-      "change": "NEW",
-      "current_rank": 4,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 79.9,
-      "rising_rank": 4,
-      "window_minutes": 398
-    },
     {
       "source": "더쿠",
       "title": "수능 부정행위 보상금 1억 너무 억울함",
       "url": "https://theqoo.net/hot/4413759798",
       "category": "이슈",
-      "views": 47240,
+      "views": 58799,
       "likes": 0,
-      "comments": 433,
-      "score": 87.0,
-      "change": "NEW",
+      "comments": 502,
+      "score": 89.0,
+      "change": 0,
       "current_rank": 5,
-      "new_entry": true,
-      "delta_views": 0,
+      "new_entry": false,
+      "delta_views": 11559,
       "delta_likes": 0,
-      "delta_comments": 0,
+      "delta_comments": 69,
       "rank_gain": 0,
-      "rising_score": 78.54,
-      "rising_rank": 5,
-      "window_minutes": 398
+      "rising_score": 91.03,
+      "rising_rank": 1,
+      "window_minutes": 31
     },
     {
-      "source": "디시인사이드",
-      "title": "속보ㅋㅋㅋㅋ 군지 은퇴 없어지게 생겼다ㅋㅋㅋㅋㅋㅋㅋㅋ",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480662&_dcbest=1&page=1",
-      "category": "유머",
-      "views": 20467,
-      "likes": 378,
-      "comments": 289,
-      "score": 85.78,
-      "change": "NEW",
-      "current_rank": 6,
-      "new_entry": true,
+      "source": "루리웹",
+      "title": "여친한테 여장 사진 걸린 형냐",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77471745?m=humor_only&t=now",
+      "category": "이슈",
+      "views": 1534,
+      "likes": 13,
+      "comments": 4,
+      "score": 59.22,
+      "change": 5,
+      "current_rank": 63,
+      "new_entry": false,
       "delta_views": 0,
       "delta_likes": 0,
       "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 78.03,
-      "rising_rank": 6,
-      "window_minutes": 398
+      "rank_gain": 5,
+      "rising_score": 90.0,
+      "rising_rank": 2,
+      "window_minutes": 31
     },
     {
       "source": "디시인사이드",
       "title": "중국게임 표절 근황.jpg",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480672&_dcbest=1&page=1",
       "category": "게임",
-      "views": 6627,
-      "likes": 139,
-      "comments": 376,
-      "score": 82.67,
-      "change": "NEW",
-      "current_rank": 7,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 76.72,
-      "rising_rank": 7,
-      "window_minutes": 398
-    },
-    {
-      "source": "뽐뿌",
-      "title": "요기요 랜덤포인트 받으세요~",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=money&no=549829",
-      "category": "이슈",
-      "views": 5756,
-      "likes": 15,
-      "comments": 25,
-      "score": 81.01,
-      "change": "NEW",
-      "current_rank": 8,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 76.02,
-      "rising_rank": 8,
-      "window_minutes": 398
+      "views": 12028,
+      "likes": 177,
+      "comments": 617,
+      "score": 83.84,
+      "change": 1,
+      "current_rank": 6,
+      "new_entry": false,
+      "delta_views": 5401,
+      "delta_likes": 38,
+      "delta_comments": 241,
+      "rank_gain": 1,
+      "rising_score": 87.29,
+      "rising_rank": 3,
+      "window_minutes": 31
     },
     {
       "source": "디시인사이드",
       "title": "아시아 주식 시장 대참사....JPG",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480666&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 23181,
-      "likes": 84,
-      "comments": 149,
-      "score": 80.96,
-      "change": "NEW",
+      "views": 27047,
+      "likes": 98,
+      "comments": 186,
+      "score": 79.41,
+      "change": 0,
       "current_rank": 9,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
+      "new_entry": false,
+      "delta_views": 3866,
+      "delta_likes": 14,
+      "delta_comments": 37,
       "rank_gain": 0,
-      "rising_score": 76.0,
-      "rising_rank": 9,
-      "window_minutes": 398
+      "rising_score": 85.85,
+      "rising_rank": 4,
+      "window_minutes": 31
     },
     {
       "source": "디시인사이드",
-      "title": "싱글벙글 모든 동물은 평등하다",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480664&_dcbest=1&page=1",
+      "title": "싱글벙글 고구려에서 온돌이 발명된 이유",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480674&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 18765,
-      "likes": 256,
-      "comments": 146,
-      "score": 80.5,
-      "change": "NEW",
-      "current_rank": 10,
-      "new_entry": true,
-      "delta_views": 0,
+      "views": 15440,
+      "likes": 82,
+      "comments": 271,
+      "score": 81.28,
+      "change": 4,
+      "current_rank": 8,
+      "new_entry": false,
+      "delta_views": 3464,
+      "delta_likes": 22,
+      "delta_comments": 122,
+      "rank_gain": 4,
+      "rising_score": 82.86,
+      "rising_rank": 5,
+      "window_minutes": 31
+    },
+    {
+      "source": "인벤",
+      "title": "학벌이 의미 없다고 말들은 하지만.. feat미트수석",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2755067",
+      "category": "이슈",
+      "views": 1069,
+      "likes": 1,
+      "comments": 16,
+      "score": 64.27,
+      "change": 2,
+      "current_rank": 41,
+      "new_entry": false,
+      "delta_views": 829,
       "delta_likes": 0,
-      "delta_comments": 0,
+      "delta_comments": 13,
+      "rank_gain": 2,
+      "rising_score": 82.17,
+      "rising_rank": 6,
+      "window_minutes": 31
+    },
+    {
+      "source": "인벤",
+      "title": "아내의 성관계가 요구가 너무 잦아 감당하기 어렵습니다",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2755051",
+      "category": "유머",
+      "views": 4555,
+      "likes": 0,
+      "comments": 26,
+      "score": 64.72,
+      "change": 0,
+      "current_rank": 38,
+      "new_entry": false,
+      "delta_views": 989,
+      "delta_likes": 0,
+      "delta_comments": 5,
       "rank_gain": 0,
-      "rising_score": 75.81,
+      "rising_score": 81.49,
+      "rising_rank": 7,
+      "window_minutes": 31
+    },
+    {
+      "source": "디시인사이드",
+      "title": "속보ㅋㅋㅋㅋ 군지 은퇴 없어지게 생겼다ㅋㅋㅋㅋㅋㅋㅋㅋ",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480662&_dcbest=1&page=1",
+      "category": "유머",
+      "views": 23631,
+      "likes": 413,
+      "comments": 317,
+      "score": 83.83,
+      "change": 0,
+      "current_rank": 7,
+      "new_entry": false,
+      "delta_views": 3164,
+      "delta_likes": 35,
+      "delta_comments": 28,
+      "rank_gain": 0,
+      "rising_score": 81.22,
+      "rising_rank": 8,
+      "window_minutes": 31
+    },
+    {
+      "source": "인벤",
+      "title": "비트코인 근황.jpg",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2755057",
+      "category": "이슈",
+      "views": 3755,
+      "likes": 1,
+      "comments": 12,
+      "score": 58.82,
+      "change": 0,
+      "current_rank": 65,
+      "new_entry": false,
+      "delta_views": 992,
+      "delta_likes": 0,
+      "delta_comments": 3,
+      "rank_gain": 0,
+      "rising_score": 79.22,
+      "rising_rank": 9,
+      "window_minutes": 31
+    },
+    {
+      "source": "더쿠",
+      "title": "무슬림 남자들이 진지하게 믿는다는 죽음 후 사후세계 천국.....",
+      "url": "https://theqoo.net/hot/4413738608",
+      "category": "유머",
+      "views": 26612,
+      "likes": 0,
+      "comments": 224,
+      "score": 62.68,
+      "change": 16,
+      "current_rank": 49,
+      "new_entry": false,
+      "delta_views": 9132,
+      "delta_likes": 0,
+      "delta_comments": 56,
+      "rank_gain": 16,
+      "rising_score": 78.15,
       "rising_rank": 10,
-      "window_minutes": 398
+      "window_minutes": 31
     }
   ],
   "issues": [
@@ -618,14 +618,14 @@
       "id": "if4949e9f",
       "title": "[단독] 리트 만점자, 유서에 “죽어도 가려 했지만…조롱 당하겠지”",
       "keywords": [
-        "리트",
-        "만점자"
+        "만점자",
+        "리트"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 96.84,
+      "score": 98.86,
       "peak_score": 87.37,
-      "appearances": 1,
+      "appearances": 2,
       "sources": [
         "더쿠",
         "클리앙"
@@ -633,25 +633,25 @@
       "posts": [
         {
           "source": "더쿠",
-          "rank": 11,
+          "rank": 13,
           "title": "[단독] 리트 만점자, 유서에 “죽어도 가려 했지만…조롱 당하겠지”",
           "url": "https://theqoo.net/hot/4413702270",
-          "score": 79.37
+          "score": 76.21
         },
         {
           "source": "클리앙",
-          "rank": 28,
+          "rank": 76,
           "title": "리트 만점자 유서 내용이라네요.",
           "url": "https://www.clien.net/service/board/park/19296543?od=T31&po=0&category=0&groupCd=",
-          "score": 71.4
+          "score": 57.76
         }
       ],
       "first_seen": "2026-11-15T09:58:29.308734+09:00",
-      "last_seen": "2026-11-21T16:27:14.722289+09:00",
+      "last_seen": "2026-11-21T16:58:26.046828+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 6,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i3c64ef3a",
@@ -689,7 +689,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 7,
-      "change": -1
+      "change": 0
     },
     {
       "id": "iac764c07",
@@ -735,7 +735,7 @@
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 8,
-      "change": -1
+      "change": 0
     },
     {
       "id": "ie9ff0a71",
@@ -774,7 +774,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 9,
-      "change": -1
+      "change": 0
     },
     {
       "id": "ie8fb5037",
@@ -812,7 +812,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 10,
-      "change": "NEW"
+      "change": 0
     }
   ],
   "realtime_issues": [
@@ -820,13 +820,13 @@
       "id": "if4949e9f",
       "title": "[단독] 리트 만점자, 유서에 “죽어도 가려 했지만…조롱 당하겠지”",
       "keywords": [
-        "리트",
-        "만점자"
+        "만점자",
+        "리트"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 87.37,
-      "peak_score": 87.37,
+      "score": 84.21,
+      "peak_score": 84.21,
       "appearances": 1,
       "sources": [
         "더쿠",
@@ -835,119 +835,120 @@
       "posts": [
         {
           "source": "더쿠",
-          "rank": 11,
+          "rank": 13,
           "title": "[단독] 리트 만점자, 유서에 “죽어도 가려 했지만…조롱 당하겠지”",
           "url": "https://theqoo.net/hot/4413702270",
-          "score": 79.37
+          "score": 76.21
         },
         {
           "source": "클리앙",
-          "rank": 28,
+          "rank": 76,
           "title": "리트 만점자 유서 내용이라네요.",
           "url": "https://www.clien.net/service/board/park/19296543?od=T31&po=0&category=0&groupCd=",
-          "score": 71.4
+          "score": 57.76
         }
       ],
       "rank": 1,
-      "change": "NEW"
+      "change": 0
     },
     {
-      "id": "ie8fb5037",
-      "title": "‘무슬림’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i91f13db9",
+      "title": "‘gta6’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "무슬림"
+        "gta6"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 80.58,
-      "peak_score": 80.58,
+      "score": 74.24,
+      "peak_score": 74.24,
       "appearances": 1,
       "sources": [
-        "더쿠",
-        "뽐뿌"
+        "디시인사이드",
+        "클리앙"
       ],
       "posts": [
         {
-          "source": "뽐뿌",
-          "rank": 27,
-          "title": "영국 공항 무슬림 체포..gif",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10197365",
-          "score": 71.58
+          "source": "디시인사이드",
+          "rank": 34,
+          "title": "처참하게 망해버린 GTA6 근황",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480626&_dcbest=1&page=1",
+          "score": 65.24
         },
         {
-          "source": "더쿠",
-          "rank": 65,
-          "title": "무슬림 남자들이 진지하게 믿는다는 죽음 후 사후세계 천국.....",
-          "url": "https://theqoo.net/hot/4413738608",
-          "score": 59.68
+          "source": "클리앙",
+          "rank": 64,
+          "title": "GTA6 같은 게임도 AI와 경쟁 하겠죠.",
+          "url": "https://www.clien.net/service/board/park/19296554?od=T31&po=0&category=0&groupCd=",
+          "score": 58.98
         }
       ],
       "rank": 2,
       "change": "NEW"
     },
     {
-      "id": "i2272efa7",
-      "title": "‘리센느’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i9e903022",
+      "title": "나홀로 집에 속편, 맥컬리 컬킨 복귀@?",
       "keywords": [
-        "리센느"
+        "나홀로",
+        "집에"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 72.27,
-      "peak_score": 72.27,
+      "score": 72.28,
+      "peak_score": 72.28,
       "appearances": 1,
       "sources": [
-        "디시인사이드",
-        "클리앙"
+        "뽐뿌",
+        "인벤"
       ],
       "posts": [
         {
-          "source": "디시인사이드",
-          "rank": 49,
-          "title": "리센느 마마 무대 일본 반응",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480676&_dcbest=1&page=1",
-          "score": 63.27
+          "source": "인벤",
+          "rank": 40,
+          "title": "나홀로 집에 속편, 맥컬리 컬킨 복귀@?",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2755079",
+          "score": 64.28
         },
         {
-          "source": "클리앙",
-          "rank": 82,
-          "title": "MAMA 리센느 공식 영상",
-          "url": "https://www.clien.net/service/board/park/19296538?od=T31&po=0&category=0&groupCd=",
-          "score": 55.59
+          "source": "뽐뿌",
+          "rank": 44,
+          "title": "나홀로 집에 근황",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=movie&no=92357",
+          "score": 63.86
         }
       ],
       "rank": 3,
       "change": "NEW"
     },
     {
-      "id": "ic19b2ed9",
-      "title": "‘mama’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i38e53b2a",
+      "title": "‘비트코인’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "mama"
+        "비트코인"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 64.59,
-      "peak_score": 64.59,
+      "score": 68.41,
+      "peak_score": 68.41,
       "appearances": 1,
       "sources": [
-        "디시인사이드",
-        "클리앙"
+        "뽐뿌",
+        "인벤"
       ],
       "posts": [
         {
-          "source": "클리앙",
-          "rank": 82,
-          "title": "MAMA 리센느 공식 영상",
-          "url": "https://www.clien.net/service/board/park/19296538?od=T31&po=0&category=0&groupCd=",
-          "score": 55.59
+          "source": "뽐뿌",
+          "rank": 61,
+          "title": "멸망해버린 비트코인 근황",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10197554",
+          "score": 59.41
         },
         {
-          "source": "디시인사이드",
-          "rank": 97,
-          "title": "오늘자 아이브 mama 레드카펫 미모 ㄹㅇ... jpg",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480655&_dcbest=1&page=1",
-          "score": 52.21
+          "source": "인벤",
+          "rank": 65,
+          "title": "비트코인 근황.jpg",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2755057",
+          "score": 58.82
         }
       ],
       "rank": 4,
@@ -957,7 +958,7 @@
   "keywords": [
     {
       "keyword": "유서",
-      "score": 137.96,
+      "score": 132.39,
       "post_count": 3,
       "source_count": 3,
       "best_rank": 1,
@@ -968,26 +969,11 @@
       ],
       "aliases": [],
       "rank": 1,
-      "change": "NEW"
-    },
-    {
-      "keyword": "수능",
-      "score": 128.98,
-      "post_count": 4,
-      "source_count": 3,
-      "best_rank": 5,
-      "sources": [
-        "더쿠",
-        "디시인사이드",
-        "인벤"
-      ],
-      "aliases": [],
-      "rank": 2,
-      "change": -1
+      "change": 0
     },
     {
       "keyword": "단독",
-      "score": 112.36,
+      "score": 111.68,
       "post_count": 2,
       "source_count": 2,
       "best_rank": 1,
@@ -996,15 +982,29 @@
         "루리웹"
       ],
       "aliases": [],
+      "rank": 2,
+      "change": 1
+    },
+    {
+      "keyword": "수능",
+      "score": 100.2,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 5,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "aliases": [],
       "rank": 3,
-      "change": 11
+      "change": -1
     },
     {
       "keyword": "만점자",
-      "score": 101.82,
+      "score": 92.77,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 11,
+      "best_rank": 13,
       "sources": [
         "더쿠",
         "클리앙"
@@ -1013,118 +1013,92 @@
         "리트"
       ],
       "rank": 4,
-      "change": "NEW"
+      "change": 0
     },
     {
-      "keyword": "영국",
-      "score": 95.92,
+      "keyword": "있다",
+      "score": 91.59,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 26,
+      "best_rank": 14,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "aliases": [],
+      "rank": 5,
+      "change": 3
+    },
+    {
+      "keyword": "나홀로",
+      "score": 90.1,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 40,
       "sources": [
         "뽐뿌",
         "인벤"
       ],
-      "aliases": [],
-      "rank": 5,
+      "aliases": [
+        "집에"
+      ],
+      "rank": 6,
       "change": "NEW"
     },
     {
-      "keyword": "일본",
-      "score": 93.12,
-      "post_count": 3,
-      "source_count": 2,
-      "best_rank": 49,
-      "sources": [
-        "디시인사이드",
-        "루리웹"
-      ],
-      "aliases": [],
-      "rank": 6,
-      "change": -4
-    },
-    {
-      "keyword": "무슬림",
-      "score": 89.58,
+      "keyword": "gta6",
+      "score": 87.87,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 27,
+      "best_rank": 34,
       "sources": [
-        "더쿠",
-        "뽐뿌"
+        "디시인사이드",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 7,
       "change": "NEW"
     },
     {
-      "keyword": "있다",
-      "score": 88.69,
+      "keyword": "vs",
+      "score": 84.64,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 30,
+      "best_rank": 29,
       "sources": [
         "더쿠",
-        "디시인사이드"
+        "인벤"
       ],
       "aliases": [],
       "rank": 8,
       "change": "NEW"
     },
     {
-      "keyword": "여친",
-      "score": 87.22,
+      "keyword": "일본",
+      "score": 84.35,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 44,
+      "best_rank": 54,
       "sources": [
         "디시인사이드",
-        "뽐뿌"
+        "루리웹"
       ],
       "aliases": [],
       "rank": 9,
-      "change": "NEW"
+      "change": -3
     },
     {
-      "keyword": "엄마",
-      "score": 85.12,
+      "keyword": "비트코인",
+      "score": 83.67,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 34,
+      "best_rank": 61,
       "sources": [
-        "디시인사이드",
+        "뽐뿌",
         "인벤"
       ],
       "aliases": [],
       "rank": 10,
-      "change": "NEW"
-    },
-    {
-      "keyword": "리센느",
-      "score": 83.16,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 49,
-      "sources": [
-        "디시인사이드",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 11,
-      "change": "NEW"
-    },
-    {
-      "keyword": "mama",
-      "score": 75.85,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 82,
-      "sources": [
-        "디시인사이드",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 12,
       "change": "NEW"
     }
   ],
@@ -1141,41 +1115,41 @@
       "source": "더쿠",
       "title": "수능 부정행위 보상금 1억 너무 억울함",
       "url": "https://theqoo.net/hot/4413759798",
-      "score": 87.0,
-      "views": 47240,
-      "comments": 433
+      "score": 89.0,
+      "views": 58799,
+      "comments": 502
     },
     {
       "source": "디시인사이드",
-      "title": "속보ㅋㅋㅋㅋ 군지 은퇴 없어지게 생겼다ㅋㅋㅋㅋㅋㅋㅋㅋ",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480662&_dcbest=1&page=1",
-      "score": 85.78,
-      "views": 20467,
-      "comments": 289
+      "title": "중국게임 표절 근황.jpg",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480672&_dcbest=1&page=1",
+      "score": 83.84,
+      "views": 12028,
+      "comments": 617
     },
     {
       "source": "뽐뿌",
-      "title": "요기요 랜덤포인트 받으세요~",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=money&no=549829",
-      "score": 81.01,
-      "views": 5756,
-      "comments": 25
+      "title": "한국인 세금으로 중국인 지원하는 기업",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=982791",
+      "score": 78.65,
+      "views": 9738,
+      "comments": 34
+    },
+    {
+      "source": "클리앙",
+      "title": "Ai세상엔 개인재산이 필요없을수도 있겠네요",
+      "url": "https://www.clien.net/service/board/park/19296553?od=T31&po=0&category=0&groupCd=",
+      "score": 67.18,
+      "views": 501,
+      "comments": 10
     },
     {
       "source": "인벤",
       "title": "신천지 책임 어떻게?…국민 51.6% \"김민석, 당대표직 사퇴해야\"",
       "url": "https://www.inven.co.kr/board/webzine/2097/2755059",
-      "score": 74.79,
-      "views": 1019,
-      "comments": 23
-    },
-    {
-      "source": "클리앙",
-      "title": "국민들 화낼 줄 알았는데 의외로 재밌어하셔 감사",
-      "url": "https://www.clien.net/service/board/park/19296539?od=T31&po=0&category=0&groupCd=",
-      "score": 72.95,
-      "views": 1673,
-      "comments": 16
+      "score": 67.15,
+      "views": 1230,
+      "comments": 29
     }
   ]
 }
