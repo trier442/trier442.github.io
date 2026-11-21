@@ -3,7 +3,7 @@
   "period": "monthly",
   "key": "2026-11",
   "label": "2026년 11월",
-  "collected_at": "2026-11-21T04:11:38.456538+09:00",
+  "collected_at": "2026-11-21T09:20:46.462008+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -779,6 +779,46 @@
       "change": 0
     },
     {
+      "id": "i27245075",
+      "title": "‘있다는’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "있다는"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 119.24,
+      "peak_score": 105.19,
+      "appearances": 4,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "루리웹",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 96,
+          "title": "의외로 논쟁이 있다는 사진.jpg",
+          "url": "https://www.clien.net/service/board/park/19296381?od=T31&po=0&category=0&groupCd=",
+          "score": 51.18
+        },
+        {
+          "source": "더쿠",
+          "rank": 100,
+          "title": "현재 예측 꼴등이 수상해서 말나오고 있다는 MAMA",
+          "url": "https://theqoo.net/hot/4413308410",
+          "score": 50.63
+        }
+      ],
+      "first_seen": "2026-10-21T18:37:21.676761+09:00",
+      "last_seen": "2026-11-21T09:20:46.462008+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 19,
+      "change": "NEW"
+    },
+    {
       "id": "i5d6688ff",
       "title": "‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -813,48 +853,8 @@
       "last_seen": "2026-11-18T09:57:18.829124+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 19,
-      "change": 0
-    },
-    {
-      "id": "i9a0fa5b7",
-      "title": "‘ai가’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "ai가"
-      ],
-      "source_count": 3,
-      "post_count": 3,
-      "score": 119.0,
-      "peak_score": 96.49,
-      "appearances": 9,
-      "sources": [
-        "더쿠",
-        "디시인사이드",
-        "뽐뿌",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 35,
-          "title": "요즘 대학생들 : AI가 없던 시절에는 그럼 대학생활을 대체 어케 하신거에요 선배님들......",
-          "url": "https://theqoo.net/hot/4413419806",
-          "score": 66.84
-        },
-        {
-          "source": "클리앙",
-          "rank": 61,
-          "title": "한국에서 AI가 수능 만점 받았네 어쩌네 하는데 미국은 AI가 리만가설을 증명했네요",
-          "url": "https://www.clien.net/service/board/park/19296322?od=T31&po=0&category=0&groupCd=",
-          "score": 59.92
-        }
-      ],
-      "first_seen": "2026-10-24T15:24:14.524607+09:00",
-      "last_seen": "2026-11-21T04:11:38.456538+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 20,
-      "change": "NEW"
+      "change": -1
     }
   ]
 }
