@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-11-22T00:34:05.001506+09:00",
+  "collected_at": "2026-11-22T01:04:00.126856+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -11,34 +11,34 @@
   "rankings": {
     "realtime": [
       {
-        "id": "iead2b930",
-        "title": "‘오늘자’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i91f13db9",
+        "title": "‘gta6’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "오늘자"
+          "gta6"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 103.23,
-        "peak_score": 103.23,
+        "score": 84.34,
+        "peak_score": 84.34,
         "appearances": 1,
         "sources": [
-          "더쿠",
+          "디시인사이드",
           "루리웹"
         ],
         "posts": [
           {
-            "source": "루리웹",
-            "rank": 3,
-            "title": "속보) 오늘자 국내 치킨 원육 가격 대폭락.jpg",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77474029?m=humor",
-            "score": 94.23
+            "source": "디시인사이드",
+            "rank": 11,
+            "title": "와들와들 GTA6 근황…jpg",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480746&_dcbest=1&page=1",
+            "score": 75.34
           },
           {
-            "source": "더쿠",
-            "rank": 97,
-            "title": "오늘자 장발에 비녀꽂은 지드래곤",
-            "url": "https://theqoo.net/hot/4414144471",
-            "score": 52.37
+            "source": "루리웹",
+            "rank": 62,
+            "title": "GTA6) 이쯤되면 PC하지 않은 남자가 뭔지 조차 알기 무서워진다",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77477010?m=humor_only&t=now",
+            "score": 59.34
           }
         ],
         "rank": 1,
@@ -52,8 +52,8 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 79.53,
-        "peak_score": 79.53,
+        "score": 81.03,
+        "peak_score": 81.03,
         "appearances": 1,
         "sources": [
           "더쿠",
@@ -65,18 +65,18 @@
             "rank": 15,
             "title": "밑바닥 뚫고 지하로 향하는 하이닉스",
             "url": "https://theqoo.net/hot/4414154358",
-            "score": 70.53
+            "score": 72.03
           },
           {
             "source": "인벤",
-            "rank": 56,
+            "rank": 51,
             "title": "하이닉스 사겠다",
             "url": "https://www.inven.co.kr/board/webzine/2097/2755133",
             "score": 60.47
           }
         ],
         "rank": 2,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "i8bcd73b9",
@@ -86,8 +86,8 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 76.82,
-        "peak_score": 76.82,
+        "score": 73.36,
+        "peak_score": 73.36,
         "appearances": 1,
         "sources": [
           "뽐뿌",
@@ -96,21 +96,21 @@
         "posts": [
           {
             "source": "뽐뿌",
-            "rank": 21,
+            "rank": 36,
             "title": "[네이버페이] 제주항공, 롯데카드 등 받으세요 (& 라이브, 운세, 보험, 랜덤, 마이펫)",
             "url": "https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=120991",
-            "score": 67.82
+            "score": 64.36
           },
           {
             "source": "클리앙",
-            "rank": 62,
+            "rank": 40,
             "title": "AI가 무수한 컨탠츠를 양산하는데 사람들은 라이브 컨탠츠에 더 큰 돈을 지불합니다.",
             "url": "https://www.clien.net/service/board/park/19296697?od=T31&po=0&category=0&groupCd=",
-            "score": 58.46
+            "score": 63.23
           }
         ],
         "rank": 3,
-        "change": "NEW"
+        "change": 0
       }
     ],
     "daily": [
@@ -150,6 +150,44 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 1,
+        "change": 0
+      },
+      {
+        "id": "i91f13db9",
+        "title": "‘gta6’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "gta6"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 93.81,
+        "peak_score": 84.34,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "루리웹"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 11,
+            "title": "와들와들 GTA6 근황…jpg",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480746&_dcbest=1&page=1",
+            "score": 75.34
+          },
+          {
+            "source": "루리웹",
+            "rank": 62,
+            "title": "GTA6) 이쯤되면 PC하지 않은 남자가 뭔지 조차 알기 무서워진다",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77477010?m=humor_only&t=now",
+            "score": 59.34
+          }
+        ],
+        "first_seen": "2026-10-17T19:34:33.819752+09:00",
+        "last_seen": "2026-11-22T01:04:00.126856+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 2,
         "change": "NEW"
       },
       {
@@ -160,9 +198,9 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 89.0,
-        "peak_score": 79.53,
-        "appearances": 1,
+        "score": 92.52,
+        "peak_score": 81.03,
+        "appearances": 2,
         "sources": [
           "더쿠",
           "인벤"
@@ -173,22 +211,22 @@
             "rank": 15,
             "title": "밑바닥 뚫고 지하로 향하는 하이닉스",
             "url": "https://theqoo.net/hot/4414154358",
-            "score": 70.53
+            "score": 72.03
           },
           {
             "source": "인벤",
-            "rank": 56,
+            "rank": 51,
             "title": "하이닉스 사겠다",
             "url": "https://www.inven.co.kr/board/webzine/2097/2755133",
             "score": 60.47
           }
         ],
         "first_seen": "2026-10-15T09:31:07.025965+09:00",
-        "last_seen": "2026-11-22T00:34:05.001506+09:00",
+        "last_seen": "2026-11-22T01:04:00.126856+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 2,
-        "change": "NEW"
+        "rank": 3,
+        "change": -1
       },
       {
         "id": "i8bcd73b9",
@@ -198,9 +236,9 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 86.29,
+        "score": 88.31,
         "peak_score": 76.82,
-        "appearances": 1,
+        "appearances": 2,
         "sources": [
           "뽐뿌",
           "클리앙"
@@ -208,25 +246,25 @@
         "posts": [
           {
             "source": "뽐뿌",
-            "rank": 21,
+            "rank": 36,
             "title": "[네이버페이] 제주항공, 롯데카드 등 받으세요 (& 라이브, 운세, 보험, 랜덤, 마이펫)",
             "url": "https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=120991",
-            "score": 67.82
+            "score": 64.36
           },
           {
             "source": "클리앙",
-            "rank": 62,
+            "rank": 40,
             "title": "AI가 무수한 컨탠츠를 양산하는데 사람들은 라이브 컨탠츠에 더 큰 돈을 지불합니다.",
             "url": "https://www.clien.net/service/board/park/19296697?od=T31&po=0&category=0&groupCd=",
-            "score": 58.46
+            "score": 63.23
           }
         ],
         "first_seen": "2026-10-28T23:20:07.286221+09:00",
-        "last_seen": "2026-11-22T00:34:05.001506+09:00",
+        "last_seen": "2026-11-22T01:04:00.126856+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 3,
-        "change": "NEW"
+        "rank": 4,
+        "change": -1
       }
     ],
     "weekly": [
@@ -833,9 +871,9 @@
         ],
         "source_count": 3,
         "post_count": 4,
-        "score": 114.72,
+        "score": 115.24,
         "peak_score": 91.73,
-        "appearances": 8,
+        "appearances": 9,
         "sources": [
           "디시인사이드",
           "루리웹",
@@ -845,21 +883,21 @@
         "posts": [
           {
             "source": "디시인사이드",
-            "rank": 34,
-            "title": "처참하게 망해버린 GTA6 근황",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480626&_dcbest=1&page=1",
-            "score": 65.24
+            "rank": 11,
+            "title": "와들와들 GTA6 근황…jpg",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480746&_dcbest=1&page=1",
+            "score": 75.34
           },
           {
-            "source": "클리앙",
-            "rank": 64,
-            "title": "GTA6 같은 게임도 AI와 경쟁 하겠죠.",
-            "url": "https://www.clien.net/service/board/park/19296554?od=T31&po=0&category=0&groupCd=",
-            "score": 58.98
+            "source": "루리웹",
+            "rank": 62,
+            "title": "GTA6) 이쯤되면 PC하지 않은 남자가 뭔지 조차 알기 무서워진다",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77477010?m=humor_only&t=now",
+            "score": 59.34
           }
         ],
         "first_seen": "2026-10-17T19:34:33.819752+09:00",
-        "last_seen": "2026-11-21T16:58:26.046828+09:00",
+        "last_seen": "2026-11-22T01:04:00.126856+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 15,
