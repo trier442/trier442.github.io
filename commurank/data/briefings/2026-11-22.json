@@ -1,0 +1,892 @@
+{
+  "version": 1,
+  "date": "2026-11-22",
+  "label": "2026년 11월 22일",
+  "collected_at": "2026-11-22T00:34:05.001506+09:00",
+  "timezone": "Asia/Seoul",
+  "overview": "오늘 가장 두드러진 이슈는 ‘‘오늘자’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #ai. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "stats": {
+    "sources": 6,
+    "ok_sources": 6,
+    "cached_sources": 0,
+    "realtime_posts": 100,
+    "daily_posts": 100,
+    "daily_issues": 3,
+    "keywords": 14,
+    "top100_views": 1245362,
+    "top100_comments": 9994
+  },
+  "highlights": [
+    {
+      "type": "issue",
+      "title": "‘오늘자’ 관련 글이 여러 커뮤니티에서 화제",
+      "text": "2개 커뮤니티에서 2개 관련 인기글이 포착됐습니다.",
+      "issue_id": "iead2b930"
+    },
+    {
+      "type": "post",
+      "title": "미국의 사회 문제점이 하나로 모인듯한 죽음",
+      "text": "루리웹에서 현재 상위권에 오른 인기글입니다.",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77472602?m=humor"
+    },
+    {
+      "type": "keyword",
+      "title": "#ai",
+      "text": "3개 커뮤니티 · 5개 인기글에서 함께 등장했습니다.",
+      "keyword": "ai"
+    }
+  ],
+  "top_posts": [
+    {
+      "title": "미국의 사회 문제점이 하나로 모인듯한 죽음",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77472602?m=humor",
+      "first_seen": "2026-11-22T00:34:05.001506+09:00",
+      "last_seen": "2026-11-22T00:34:05.001506+09:00",
+      "peak_score": 98.51,
+      "max_views": 34237,
+      "max_likes": 258,
+      "max_comments": 69,
+      "appearances": 1,
+      "score": 107.9,
+      "views": 34237,
+      "likes": 258,
+      "comments": 69,
+      "change": "NEW"
+    },
+    {
+      "title": "안먹어도 편식이라고 하면 안되는 음식 1위.JPG",
+      "source": "루리웹",
+      "category": "생활",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77476126?m=humor",
+      "first_seen": "2026-11-22T00:34:05.001506+09:00",
+      "last_seen": "2026-11-22T00:34:05.001506+09:00",
+      "peak_score": 95.35,
+      "max_views": 11423,
+      "max_likes": 79,
+      "max_comments": 86,
+      "appearances": 1,
+      "score": 104.74,
+      "views": 11423,
+      "likes": 79,
+      "comments": 86,
+      "change": "NEW"
+    },
+    {
+      "title": "속보) 오늘자 국내 치킨 원육 가격 대폭락.jpg",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77474029?m=humor",
+      "first_seen": "2026-11-22T00:34:05.001506+09:00",
+      "last_seen": "2026-11-22T00:34:05.001506+09:00",
+      "peak_score": 94.23,
+      "max_views": 24239,
+      "max_likes": 153,
+      "max_comments": 71,
+      "appearances": 1,
+      "score": 103.62,
+      "views": 24239,
+      "likes": 153,
+      "comments": 71,
+      "change": "NEW"
+    },
+    {
+      "title": "속보ㅋㅋㅋㅋ 군지 은퇴 없어지게 생겼다ㅋㅋㅋㅋㅋㅋㅋㅋ",
+      "source": "디시인사이드",
+      "category": "유머",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480662&_dcbest=1&page=1",
+      "first_seen": "2026-11-21T16:27:14.722289+09:00",
+      "last_seen": "2026-11-22T00:34:05.001506+09:00",
+      "peak_score": 85.78,
+      "max_views": 41470,
+      "max_likes": 619,
+      "max_comments": 493,
+      "appearances": 3,
+      "score": 96.55,
+      "views": 41470,
+      "likes": 619,
+      "comments": 493,
+      "change": 13
+    },
+    {
+      "title": "중국게임 표절 근황.jpg",
+      "source": "디시인사이드",
+      "category": "게임",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480672&_dcbest=1&page=1",
+      "first_seen": "2026-11-21T16:27:14.722289+09:00",
+      "last_seen": "2026-11-22T00:34:05.001506+09:00",
+      "peak_score": 83.84,
+      "max_views": 34125,
+      "max_likes": 270,
+      "max_comments": 1012,
+      "appearances": 3,
+      "score": 94.61,
+      "views": 34125,
+      "likes": 270,
+      "comments": 1012,
+      "change": 13
+    },
+    {
+      "title": "[알리] 이어폰 dac 등등 가격다양",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/market/board/1020/read/109257",
+      "first_seen": "2026-11-22T00:34:05.001506+09:00",
+      "last_seen": "2026-11-22T00:34:05.001506+09:00",
+      "peak_score": 83.86,
+      "max_views": 17034,
+      "max_likes": 29,
+      "max_comments": 19,
+      "appearances": 1,
+      "score": 93.25,
+      "views": 17034,
+      "likes": 29,
+      "comments": 19,
+      "change": "NEW"
+    },
+    {
+      "title": "싱글벙글 고구려에서 온돌이 발명된 이유",
+      "source": "디시인사이드",
+      "category": "이슈",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480674&_dcbest=1&page=1",
+      "first_seen": "2026-11-21T16:27:14.722289+09:00",
+      "last_seen": "2026-11-22T00:34:05.001506+09:00",
+      "peak_score": 81.28,
+      "max_views": 30900,
+      "max_likes": 166,
+      "max_comments": 610,
+      "appearances": 3,
+      "score": 92.05,
+      "views": 30900,
+      "likes": 166,
+      "comments": 610,
+      "change": 16
+    },
+    {
+      "title": "아시아 주식 시장 대참사....JPG",
+      "source": "디시인사이드",
+      "category": "이슈",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480666&_dcbest=1&page=1",
+      "first_seen": "2026-11-21T16:27:14.722289+09:00",
+      "last_seen": "2026-11-22T00:34:05.001506+09:00",
+      "peak_score": 80.96,
+      "max_views": 47440,
+      "max_likes": 152,
+      "max_comments": 286,
+      "appearances": 3,
+      "score": 91.73,
+      "views": 47440,
+      "likes": 152,
+      "comments": 286,
+      "change": 17
+    },
+    {
+      "title": "싱글벙글 모든 동물은 평등하다",
+      "source": "디시인사이드",
+      "category": "이슈",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480664&_dcbest=1&page=1",
+      "first_seen": "2026-11-21T16:27:14.722289+09:00",
+      "last_seen": "2026-11-22T00:34:05.001506+09:00",
+      "peak_score": 80.5,
+      "max_views": 31065,
+      "max_likes": 505,
+      "max_comments": 279,
+      "appearances": 3,
+      "score": 91.27,
+      "views": 31065,
+      "likes": 505,
+      "comments": 279,
+      "change": 17
+    },
+    {
+      "title": "와들와들 GTA6 근황…jpg",
+      "source": "디시인사이드",
+      "category": "이슈",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480746&_dcbest=1&page=1",
+      "first_seen": "2026-11-22T00:34:05.001506+09:00",
+      "last_seen": "2026-11-22T00:34:05.001506+09:00",
+      "peak_score": 78.55,
+      "max_views": 25332,
+      "max_likes": 198,
+      "max_comments": 307,
+      "appearances": 1,
+      "score": 87.94,
+      "views": 25332,
+      "likes": 198,
+      "comments": 307,
+      "change": "NEW"
+    }
+  ],
+  "rising": [
+    {
+      "source": "디시인사이드",
+      "title": "된장찌개에 들어가면 ㄹㅇ 좆같은 재료",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480682&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 35033,
+      "likes": 218,
+      "comments": 425,
+      "score": 53.01,
+      "change": 0,
+      "current_rank": 92,
+      "new_entry": false,
+      "delta_views": 27555,
+      "delta_likes": 168,
+      "delta_comments": 341,
+      "rank_gain": 0,
+      "rising_score": 100.0,
+      "rising_rank": 1,
+      "window_minutes": 456
+    },
+    {
+      "source": "루리웹",
+      "title": "미국의 사회 문제점이 하나로 모인듯한 죽음",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77472602?m=humor",
+      "category": "이슈",
+      "views": 34237,
+      "likes": 258,
+      "comments": 69,
+      "score": 98.51,
+      "change": "NEW",
+      "current_rank": 1,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 83.37,
+      "rising_rank": 2,
+      "window_minutes": 456
+    },
+    {
+      "source": "루리웹",
+      "title": "안먹어도 편식이라고 하면 안되는 음식 1위.JPG",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77476126?m=humor",
+      "category": "생활",
+      "views": 11423,
+      "likes": 79,
+      "comments": 86,
+      "score": 95.35,
+      "change": "NEW",
+      "current_rank": 2,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 82.05,
+      "rising_rank": 3,
+      "window_minutes": 456
+    },
+    {
+      "source": "루리웹",
+      "title": "속보) 오늘자 국내 치킨 원육 가격 대폭락.jpg",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77474029?m=humor",
+      "category": "이슈",
+      "views": 24239,
+      "likes": 153,
+      "comments": 71,
+      "score": 94.23,
+      "change": "NEW",
+      "current_rank": 3,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 81.58,
+      "rising_rank": 4,
+      "window_minutes": 456
+    },
+    {
+      "source": "루리웹",
+      "title": "[알리] 이어폰 dac 등등 가격다양",
+      "url": "https://bbs.ruliweb.com/market/board/1020/read/109257",
+      "category": "이슈",
+      "views": 17034,
+      "likes": 29,
+      "comments": 19,
+      "score": 83.86,
+      "change": "NEW",
+      "current_rank": 4,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 77.22,
+      "rising_rank": 5,
+      "window_minutes": 456
+    },
+    {
+      "source": "디시인사이드",
+      "title": "와들와들 GTA6 근황…jpg",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480746&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 25332,
+      "likes": 198,
+      "comments": 307,
+      "score": 78.55,
+      "change": "NEW",
+      "current_rank": 5,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 74.99,
+      "rising_rank": 6,
+      "window_minutes": 456
+    },
+    {
+      "source": "뽐뿌",
+      "title": "비상 걸린 현대차.. 혁신 대신 '차 가격 인상' 대응에 비판 거세",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=982804",
+      "category": "이슈",
+      "views": 2956,
+      "likes": 8,
+      "comments": 26,
+      "score": 77.14,
+      "change": "NEW",
+      "current_rank": 6,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 74.4,
+      "rising_rank": 7,
+      "window_minutes": 456
+    },
+    {
+      "source": "클리앙",
+      "title": "[속보] 리만가설 증명 코드에서 논리적 결함 발견",
+      "url": "https://www.clien.net/service/board/park/19296699?od=T31&po=0&category=0&groupCd=",
+      "category": "이슈",
+      "views": 375,
+      "likes": 0,
+      "comments": 6,
+      "score": 75.67,
+      "change": "NEW",
+      "current_rank": 7,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 73.78,
+      "rising_rank": 8,
+      "window_minutes": 456
+    },
+    {
+      "source": "클리앙",
+      "title": "Ai가 대체못하는 직업이 있을까싶네요",
+      "url": "https://www.clien.net/service/board/park/19296695?od=T31&po=0&category=0&groupCd=",
+      "category": "이슈",
+      "views": 452,
+      "likes": 0,
+      "comments": 15,
+      "score": 74.72,
+      "change": "NEW",
+      "current_rank": 8,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 73.38,
+      "rising_rank": 9,
+      "window_minutes": 456
+    },
+    {
+      "source": "인벤",
+      "title": "수능재난문자때문에 아이가 죽을뻔했다는 아줌마",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2755152",
+      "category": "이슈",
+      "views": 2237,
+      "likes": 2,
+      "comments": 13,
+      "score": 74.24,
+      "change": "NEW",
+      "current_rank": 9,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 73.18,
+      "rising_rank": 10,
+      "window_minutes": 456
+    }
+  ],
+  "issues": [
+    {
+      "id": "iead2b930",
+      "title": "‘오늘자’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "오늘자"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 112.7,
+      "peak_score": 103.23,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 3,
+          "title": "속보) 오늘자 국내 치킨 원육 가격 대폭락.jpg",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77474029?m=humor",
+          "score": 94.23
+        },
+        {
+          "source": "더쿠",
+          "rank": 97,
+          "title": "오늘자 장발에 비녀꽂은 지드래곤",
+          "url": "https://theqoo.net/hot/4414144471",
+          "score": 52.37
+        }
+      ],
+      "first_seen": "2026-09-28T19:49:36.308484+09:00",
+      "last_seen": "2026-11-22T00:34:05.001506+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 1,
+      "change": "NEW"
+    },
+    {
+      "id": "i1cc33293",
+      "title": "‘하이닉스’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "하이닉스"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 89.0,
+      "peak_score": 79.53,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 15,
+          "title": "밑바닥 뚫고 지하로 향하는 하이닉스",
+          "url": "https://theqoo.net/hot/4414154358",
+          "score": 70.53
+        },
+        {
+          "source": "인벤",
+          "rank": 56,
+          "title": "하이닉스 사겠다",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2755133",
+          "score": 60.47
+        }
+      ],
+      "first_seen": "2026-10-15T09:31:07.025965+09:00",
+      "last_seen": "2026-11-22T00:34:05.001506+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 2,
+      "change": "NEW"
+    },
+    {
+      "id": "i8bcd73b9",
+      "title": "‘라이브’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "라이브"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 86.29,
+      "peak_score": 76.82,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 21,
+          "title": "[네이버페이] 제주항공, 롯데카드 등 받으세요 (& 라이브, 운세, 보험, 랜덤, 마이펫)",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=120991",
+          "score": 67.82
+        },
+        {
+          "source": "클리앙",
+          "rank": 62,
+          "title": "AI가 무수한 컨탠츠를 양산하는데 사람들은 라이브 컨탠츠에 더 큰 돈을 지불합니다.",
+          "url": "https://www.clien.net/service/board/park/19296697?od=T31&po=0&category=0&groupCd=",
+          "score": 58.46
+        }
+      ],
+      "first_seen": "2026-10-28T23:20:07.286221+09:00",
+      "last_seen": "2026-11-22T00:34:05.001506+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 3,
+      "change": "NEW"
+    }
+  ],
+  "realtime_issues": [
+    {
+      "id": "iead2b930",
+      "title": "‘오늘자’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "오늘자"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 103.23,
+      "peak_score": 103.23,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 3,
+          "title": "속보) 오늘자 국내 치킨 원육 가격 대폭락.jpg",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77474029?m=humor",
+          "score": 94.23
+        },
+        {
+          "source": "더쿠",
+          "rank": 97,
+          "title": "오늘자 장발에 비녀꽂은 지드래곤",
+          "url": "https://theqoo.net/hot/4414144471",
+          "score": 52.37
+        }
+      ],
+      "rank": 1,
+      "change": "NEW"
+    },
+    {
+      "id": "i1cc33293",
+      "title": "‘하이닉스’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "하이닉스"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 79.53,
+      "peak_score": 79.53,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 15,
+          "title": "밑바닥 뚫고 지하로 향하는 하이닉스",
+          "url": "https://theqoo.net/hot/4414154358",
+          "score": 70.53
+        },
+        {
+          "source": "인벤",
+          "rank": 56,
+          "title": "하이닉스 사겠다",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2755133",
+          "score": 60.47
+        }
+      ],
+      "rank": 2,
+      "change": "NEW"
+    },
+    {
+      "id": "i8bcd73b9",
+      "title": "‘라이브’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "라이브"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 76.82,
+      "peak_score": 76.82,
+      "appearances": 1,
+      "sources": [
+        "뽐뿌",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 21,
+          "title": "[네이버페이] 제주항공, 롯데카드 등 받으세요 (& 라이브, 운세, 보험, 랜덤, 마이펫)",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=120991",
+          "score": 67.82
+        },
+        {
+          "source": "클리앙",
+          "rank": 62,
+          "title": "AI가 무수한 컨탠츠를 양산하는데 사람들은 라이브 컨탠츠에 더 큰 돈을 지불합니다.",
+          "url": "https://www.clien.net/service/board/park/19296697?od=T31&po=0&category=0&groupCd=",
+          "score": 58.46
+        }
+      ],
+      "rank": 3,
+      "change": "NEW"
+    }
+  ],
+  "keywords": [
+    {
+      "keyword": "ai",
+      "score": 120.22,
+      "post_count": 5,
+      "source_count": 3,
+      "best_rank": 67,
+      "sources": [
+        "디시인사이드",
+        "인벤",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 1,
+      "change": "NEW"
+    },
+    {
+      "keyword": "가격",
+      "score": 111.1,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 3,
+      "sources": [
+        "루리웹",
+        "뽐뿌"
+      ],
+      "aliases": [],
+      "rank": 2,
+      "change": "NEW"
+    },
+    {
+      "keyword": "국내",
+      "score": 107.22,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 3,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "aliases": [],
+      "rank": 3,
+      "change": "NEW"
+    },
+    {
+      "keyword": "음식",
+      "score": 103.81,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 2,
+      "sources": [
+        "루리웹",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 4,
+      "change": "NEW"
+    },
+    {
+      "keyword": "오늘자",
+      "score": 96.71,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 3,
+      "sources": [
+        "더쿠",
+        "루리웹"
+      ],
+      "aliases": [],
+      "rank": 5,
+      "change": "NEW"
+    },
+    {
+      "keyword": "리트냥이",
+      "score": 93.96,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 14,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "aliases": [],
+      "rank": 6,
+      "change": "NEW"
+    },
+    {
+      "keyword": "하이닉스",
+      "score": 93.81,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 15,
+      "sources": [
+        "더쿠",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 7,
+      "change": "NEW"
+    },
+    {
+      "keyword": "수능",
+      "score": 90.01,
+      "post_count": 3,
+      "source_count": 2,
+      "best_rank": 23,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 8,
+      "change": -5
+    },
+    {
+      "keyword": "라이브",
+      "score": 89.96,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 21,
+      "sources": [
+        "뽐뿌",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 9,
+      "change": "NEW"
+    },
+    {
+      "keyword": "주가",
+      "score": 86.56,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 45,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 10,
+      "change": "NEW"
+    },
+    {
+      "keyword": "주의",
+      "score": 83.47,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 36,
+      "sources": [
+        "더쿠",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 11,
+      "change": "NEW"
+    },
+    {
+      "keyword": "현장",
+      "score": 81.3,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 52,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 12,
+      "change": "NEW"
+    },
+    {
+      "keyword": "민주당",
+      "score": 76.78,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 78,
+      "sources": [
+        "디시인사이드",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 13,
+      "change": "NEW"
+    },
+    {
+      "keyword": "못한",
+      "score": 75.61,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 85,
+      "sources": [
+        "더쿠",
+        "루리웹"
+      ],
+      "aliases": [],
+      "rank": 14,
+      "change": "NEW"
+    }
+  ],
+  "community_leaders": [
+    {
+      "source": "루리웹",
+      "title": "미국의 사회 문제점이 하나로 모인듯한 죽음",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77472602?m=humor",
+      "score": 98.51,
+      "views": 34237,
+      "comments": 69
+    },
+    {
+      "source": "디시인사이드",
+      "title": "와들와들 GTA6 근황…jpg",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480746&_dcbest=1&page=1",
+      "score": 78.55,
+      "views": 25332,
+      "comments": 307
+    },
+    {
+      "source": "뽐뿌",
+      "title": "비상 걸린 현대차.. 혁신 대신 '차 가격 인상' 대응에 비판 거세",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=982804",
+      "score": 77.14,
+      "views": 2956,
+      "comments": 26
+    },
+    {
+      "source": "클리앙",
+      "title": "[속보] 리만가설 증명 코드에서 논리적 결함 발견",
+      "url": "https://www.clien.net/service/board/park/19296699?od=T31&po=0&category=0&groupCd=",
+      "score": 75.67,
+      "views": 375,
+      "comments": 6
+    },
+    {
+      "source": "인벤",
+      "title": "수능재난문자때문에 아이가 죽을뻔했다는 아줌마",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2755152",
+      "score": 74.24,
+      "views": 2237,
+      "comments": 13
+    },
+    {
+      "source": "더쿠",
+      "title": "어그로 잘끌리는사람들 싫음",
+      "url": "https://theqoo.net/hot/4414167513",
+      "score": 71.84,
+      "views": 26149,
+      "comments": 284
+    }
+  ]
+}
