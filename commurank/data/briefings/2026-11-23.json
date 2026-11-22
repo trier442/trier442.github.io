@@ -2,26 +2,26 @@
   "version": 1,
   "date": "2026-11-23",
   "label": "2026년 11월 23일",
-  "collected_at": "2026-11-23T01:25:27.602370+09:00",
+  "collected_at": "2026-11-23T01:52:59.165787+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘미국 배포중인 테슬라 FSD v15 근황’입니다. 실시간 키워드 상위: #테슬라. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘‘있어서’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #테슬라. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
-    "ok_sources": 5,
-    "cached_sources": 1,
+    "ok_sources": 6,
+    "cached_sources": 0,
     "realtime_posts": 100,
     "daily_posts": 100,
-    "daily_issues": 3,
-    "keywords": 17,
-    "top100_views": 887628,
-    "top100_comments": 6897
+    "daily_issues": 6,
+    "keywords": 19,
+    "top100_views": 819801,
+    "top100_comments": 6935
   },
   "highlights": [
     {
       "type": "issue",
-      "title": "미국 배포중인 테슬라 FSD v15 근황",
+      "title": "‘있어서’ 관련 글이 여러 커뮤니티에서 화제",
       "text": "2개 커뮤니티에서 2개 관련 인기글이 포착됐습니다.",
-      "issue_id": "id2d5aa4e"
+      "issue_id": "ic6b73da7"
     },
     {
       "type": "post",
@@ -32,7 +32,7 @@
     {
       "type": "keyword",
       "title": "#테슬라",
-      "text": "3개 커뮤니티 · 3개 인기글에서 함께 등장했습니다.",
+      "text": "4개 커뮤니티 · 4개 인기글에서 함께 등장했습니다.",
       "keyword": "테슬라"
     }
   ],
@@ -49,11 +49,47 @@
       "max_likes": 102,
       "max_comments": 69,
       "appearances": 3,
-      "score": 108.48,
+      "score": 108.44,
       "views": 17631,
       "likes": 102,
       "comments": 69,
       "change": 0
+    },
+    {
+      "title": "70만 유튜버 이태원 참사 조롱 논란",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77485718?m=humor",
+      "first_seen": "2026-11-23T01:52:59.165787+09:00",
+      "last_seen": "2026-11-23T01:52:59.165787+09:00",
+      "peak_score": 97.71,
+      "max_views": 28283,
+      "max_likes": 188,
+      "max_comments": 66,
+      "appearances": 1,
+      "score": 107.1,
+      "views": 28283,
+      "likes": 188,
+      "comments": 66,
+      "change": "NEW"
+    },
+    {
+      "title": "한전 유출됐다길래 뭐 얼마나 털렸겠어 했더니....",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77484387?m=humor",
+      "first_seen": "2026-11-23T01:52:59.165787+09:00",
+      "last_seen": "2026-11-23T01:52:59.165787+09:00",
+      "peak_score": 97.44,
+      "max_views": 37910,
+      "max_likes": 203,
+      "max_comments": 80,
+      "appearances": 1,
+      "score": 106.83,
+      "views": 37910,
+      "likes": 203,
+      "comments": 80,
+      "change": "NEW"
     },
     {
       "title": "재택근무의 장단점이 뭐야?",
@@ -67,11 +103,11 @@
       "max_likes": 159,
       "max_comments": 62,
       "appearances": 3,
-      "score": 106.54,
+      "score": 106.5,
       "views": 21859,
       "likes": 159,
       "comments": 62,
-      "change": 5
+      "change": -2
     },
     {
       "title": "일본 중식당의 장점.jpg",
@@ -85,11 +121,29 @@
       "max_likes": 95,
       "max_comments": 68,
       "appearances": 3,
-      "score": 104.61,
+      "score": 104.57,
       "views": 23908,
       "likes": 95,
       "comments": 68,
-      "change": 7
+      "change": -2
+    },
+    {
+      "title": "최근 두통과 컨디션 악화가 자주 있어서 ...",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77485566?m=humor",
+      "first_seen": "2026-11-23T01:52:59.165787+09:00",
+      "last_seen": "2026-11-23T01:52:59.165787+09:00",
+      "peak_score": 93.42,
+      "max_views": 17917,
+      "max_likes": 186,
+      "max_comments": 76,
+      "appearances": 1,
+      "score": 102.81,
+      "views": 17917,
+      "likes": 186,
+      "comments": 76,
+      "change": "NEW"
     },
     {
       "title": "오해오해 살자율에 대한 일부 한국인들의 오해",
@@ -97,17 +151,17 @@
       "category": "이슈",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480873&_dcbest=1&page=1",
       "first_seen": "2026-11-22T17:10:05.582781+09:00",
-      "last_seen": "2026-11-23T01:25:27.602370+09:00",
+      "last_seen": "2026-11-23T01:52:59.165787+09:00",
       "peak_score": 86.37,
-      "max_views": 32174,
-      "max_likes": 702,
-      "max_comments": 842,
-      "appearances": 3,
-      "score": 97.14,
-      "views": 32174,
-      "likes": 702,
-      "comments": 842,
-      "change": 19
+      "max_views": 32397,
+      "max_likes": 707,
+      "max_comments": 843,
+      "appearances": 4,
+      "score": 97.59,
+      "views": 32397,
+      "likes": 707,
+      "comments": 843,
+      "change": -3
     },
     {
       "title": "???: 여자는 키 작아도 되고 작으면 오히려 귀엽지",
@@ -121,11 +175,11 @@
       "max_likes": 696,
       "max_comments": 929,
       "appearances": 3,
-      "score": 96.0,
+      "score": 95.96,
       "views": 38882,
       "likes": 696,
       "comments": 929,
-      "change": 22
+      "change": -3
     },
     {
       "title": "서울대 커뮤니티 리트냥 이진우 애도물결",
@@ -133,17 +187,17 @@
       "category": "이슈",
       "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10198468",
       "first_seen": "2026-11-23T01:25:27.602370+09:00",
-      "last_seen": "2026-11-23T01:25:27.602370+09:00",
+      "last_seen": "2026-11-23T01:52:59.165787+09:00",
       "peak_score": 83.44,
-      "max_views": 24543,
-      "max_likes": 30,
-      "max_comments": 109,
-      "appearances": 1,
-      "score": 92.83,
-      "views": 24543,
-      "likes": 30,
-      "comments": 109,
-      "change": "NEW"
+      "max_views": 25785,
+      "max_likes": 31,
+      "max_comments": 120,
+      "appearances": 2,
+      "score": 93.64,
+      "views": 25785,
+      "likes": 31,
+      "comments": 120,
+      "change": -3
     },
     {
       "title": "뻑가를 싫어하지만 이부분은 진짜 반박할만한게 필요하다생각하는데",
@@ -151,276 +205,260 @@
       "category": "이슈",
       "url": "https://www.clien.net/service/board/park/19297061?od=T31&po=0&category=0&groupCd=",
       "first_seen": "2026-11-23T01:25:27.602370+09:00",
-      "last_seen": "2026-11-23T01:25:27.602370+09:00",
+      "last_seen": "2026-11-23T01:52:59.165787+09:00",
       "peak_score": 82.79,
-      "max_views": 1617,
+      "max_views": 2001,
       "max_likes": 2,
-      "max_comments": 29,
-      "appearances": 1,
-      "score": 92.18,
-      "views": 1617,
+      "max_comments": 33,
+      "appearances": 2,
+      "score": 92.99,
+      "views": 2001,
       "likes": 2,
-      "comments": 29,
-      "change": "NEW"
-    },
-    {
-      "title": "싱글벙글 요즘 헬창들의 올림피아 보디빌더 인식ㄷㄷ",
-      "source": "디시인사이드",
-      "category": "이슈",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480981&_dcbest=1&page=1",
-      "first_seen": "2026-11-23T01:25:27.602370+09:00",
-      "last_seen": "2026-11-23T01:25:27.602370+09:00",
-      "peak_score": 81.63,
-      "max_views": 13717,
-      "max_likes": 82,
-      "max_comments": 109,
-      "appearances": 1,
-      "score": 91.02,
-      "views": 13717,
-      "likes": 82,
-      "comments": 109,
-      "change": "NEW"
-    },
-    {
-      "title": "[속보] \"꿈꾸던 어른이 되었나요\" 저작권료 0원",
-      "source": "디시인사이드",
-      "category": "이슈",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480870&_dcbest=1&page=1",
-      "first_seen": "2026-11-22T17:10:05.582781+09:00",
-      "last_seen": "2026-11-23T01:25:27.602370+09:00",
-      "peak_score": 80.22,
-      "max_views": 33221,
-      "max_likes": 294,
-      "max_comments": 716,
-      "appearances": 3,
-      "score": 90.99,
-      "views": 33221,
-      "likes": 294,
-      "comments": 716,
-      "change": 33
-    },
-    {
-      "title": "각국의 테슬라 따라잡기",
-      "source": "뽐뿌",
-      "category": "이슈",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=982867",
-      "first_seen": "2026-11-23T01:25:27.602370+09:00",
-      "last_seen": "2026-11-23T01:25:27.602370+09:00",
-      "peak_score": 80.96,
-      "max_views": 12819,
-      "max_likes": 18,
-      "max_comments": 42,
-      "appearances": 1,
-      "score": 90.35,
-      "views": 12819,
-      "likes": 18,
-      "comments": 42,
-      "change": "NEW"
+      "comments": 33,
+      "change": -3
     }
   ],
   "rising": [
     {
-      "source": "루리웹",
-      "title": "주변에 있으면 피곤한 타입.jpg",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77482658?m=humor_only&t=now",
+      "source": "디시인사이드",
+      "title": "[클리앙] 4050 극우화가 진짜 문제에요",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480977&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 2790,
-      "likes": 36,
-      "comments": 14,
-      "score": 62.28,
-      "change": 7,
-      "current_rank": 41,
+      "views": 4313,
+      "likes": 43,
+      "comments": 380,
+      "score": 75.0,
+      "change": 18,
+      "current_rank": 7,
       "new_entry": false,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 7,
-      "rising_score": 95.0,
+      "delta_views": 2027,
+      "delta_likes": 20,
+      "delta_comments": 209,
+      "rank_gain": 18,
+      "rising_score": 96.14,
       "rising_rank": 1,
-      "window_minutes": 454
+      "window_minutes": 28
     },
     {
-      "source": "뽐뿌",
-      "title": "서울대 커뮤니티 리트냥 이진우 애도물결",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10198468",
+      "source": "인벤",
+      "title": "(ㅎㅂ) 얼룩말무늬 수영복 입은 눈나",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2755362",
       "category": "이슈",
-      "views": 24543,
-      "likes": 30,
-      "comments": 109,
-      "score": 83.44,
-      "change": "NEW",
-      "current_rank": 4,
-      "new_entry": true,
-      "delta_views": 0,
+      "views": 5790,
+      "likes": 1,
+      "comments": 13,
+      "score": 59.84,
+      "change": 0,
+      "current_rank": 57,
+      "new_entry": false,
+      "delta_views": 544,
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 77.04,
+      "rising_score": 90.0,
       "rising_rank": 2,
-      "window_minutes": 454
+      "window_minutes": 28
     },
     {
-      "source": "클리앙",
-      "title": "뻑가를 싫어하지만 이부분은 진짜 반박할만한게 필요하다생각하는데",
-      "url": "https://www.clien.net/service/board/park/19297061?od=T31&po=0&category=0&groupCd=",
+      "source": "인벤",
+      "title": "ㅎㅂ) 자동차 브랜드",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2755366",
       "category": "이슈",
-      "views": 1617,
-      "likes": 2,
-      "comments": 29,
-      "score": 82.79,
+      "views": 4991,
+      "likes": 0,
+      "comments": 19,
+      "score": 74.64,
+      "change": 5,
+      "current_rank": 9,
+      "new_entry": false,
+      "delta_views": 550,
+      "delta_likes": 0,
+      "delta_comments": 2,
+      "rank_gain": 5,
+      "rising_score": 88.93,
+      "rising_rank": 3,
+      "window_minutes": 28
+    },
+    {
+      "source": "루리웹",
+      "title": "70만 유튜버 이태원 참사 조롱 논란",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77485718?m=humor",
+      "category": "이슈",
+      "views": 28283,
+      "likes": 188,
+      "comments": 66,
+      "score": 97.71,
       "change": "NEW",
-      "current_rank": 5,
+      "current_rank": 1,
       "new_entry": true,
       "delta_views": 0,
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 76.77,
-      "rising_rank": 3,
-      "window_minutes": 454
+      "rising_score": 83.04,
+      "rising_rank": 4,
+      "window_minutes": 28
+    },
+    {
+      "source": "루리웹",
+      "title": "한전 유출됐다길래 뭐 얼마나 털렸겠어 했더니....",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77484387?m=humor",
+      "category": "이슈",
+      "views": 37910,
+      "likes": 203,
+      "comments": 80,
+      "score": 97.44,
+      "change": "NEW",
+      "current_rank": 2,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 82.92,
+      "rising_rank": 5,
+      "window_minutes": 28
     },
     {
       "source": "디시인사이드",
       "title": "싱글벙글 요즘 헬창들의 올림피아 보디빌더 인식ㄷㄷ",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480981&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 13717,
-      "likes": 82,
-      "comments": 109,
-      "score": 81.63,
-      "change": "NEW",
-      "current_rank": 6,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 76.28,
-      "rising_rank": 4,
-      "window_minutes": 454
+      "views": 15645,
+      "likes": 101,
+      "comments": 146,
+      "score": 81.31,
+      "change": 2,
+      "current_rank": 4,
+      "new_entry": false,
+      "delta_views": 1928,
+      "delta_likes": 19,
+      "delta_comments": 37,
+      "rank_gain": 2,
+      "rising_score": 82.33,
+      "rising_rank": 6,
+      "window_minutes": 28
     },
     {
       "source": "뽐뿌",
-      "title": "각국의 테슬라 따라잡기",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=car&no=982867",
+      "title": "서울대 커뮤니티 리트냥 이진우 애도물결",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10198468",
       "category": "이슈",
-      "views": 12819,
-      "likes": 18,
-      "comments": 42,
-      "score": 80.96,
-      "change": "NEW",
-      "current_rank": 7,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
+      "views": 25785,
+      "likes": 31,
+      "comments": 120,
+      "score": 57.09,
+      "change": 0,
+      "current_rank": 71,
+      "new_entry": false,
+      "delta_views": 1242,
+      "delta_likes": 1,
+      "delta_comments": 11,
       "rank_gain": 0,
-      "rising_score": 76.0,
-      "rising_rank": 5,
-      "window_minutes": 454
-    },
-    {
-      "source": "인벤",
-      "title": "음악을 '잠깐' 전공했다는 사람이 생각하는 가수 김범수의 목 상태",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2755375",
-      "category": "연예",
-      "views": 2062,
-      "likes": 0,
-      "comments": 16,
-      "score": 77.46,
-      "change": "NEW",
-      "current_rank": 8,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 74.53,
-      "rising_rank": 6,
-      "window_minutes": 454
-    },
-    {
-      "source": "클리앙",
-      "title": "홍콩처럼 민주주의에서 공산주의로 바뀌어도",
-      "url": "https://www.clien.net/service/board/park/19297059?od=T31&po=0&category=0&groupCd=",
-      "category": "이슈",
-      "views": 1051,
-      "likes": 0,
-      "comments": 33,
-      "score": 76.02,
-      "change": "NEW",
-      "current_rank": 9,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 73.93,
+      "rising_score": 81.94,
       "rising_rank": 7,
-      "window_minutes": 454
+      "window_minutes": 28
     },
     {
       "source": "더쿠",
       "title": "오늘 케톡 온에어 달리면서 난리났던 런닝맨 명품지갑 사연.jpg",
       "url": "https://theqoo.net/hot/4415001623",
       "category": "이슈",
-      "views": 61992,
+      "views": 65028,
       "likes": 0,
-      "comments": 826,
-      "score": 74.89,
-      "change": "NEW",
-      "current_rank": 10,
-      "new_entry": true,
-      "delta_views": 0,
+      "comments": 844,
+      "score": 78.05,
+      "change": 4,
+      "current_rank": 6,
+      "new_entry": false,
+      "delta_views": 3036,
       "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 73.45,
+      "delta_comments": 18,
+      "rank_gain": 4,
+      "rising_score": 81.44,
       "rising_rank": 8,
-      "window_minutes": 454
+      "window_minutes": 28
     },
     {
-      "source": "인벤",
-      "title": "진짜 늙크크특징알려줌",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2755373",
-      "category": "유머",
-      "views": 1836,
-      "likes": 0,
-      "comments": 13,
-      "score": 74.65,
+      "source": "루리웹",
+      "title": "최근 두통과 컨디션 악화가 자주 있어서 ...",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77485566?m=humor",
+      "category": "이슈",
+      "views": 17917,
+      "likes": 186,
+      "comments": 76,
+      "score": 93.42,
       "change": "NEW",
-      "current_rank": 12,
+      "current_rank": 3,
       "new_entry": true,
       "delta_views": 0,
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 73.35,
+      "rising_score": 81.24,
       "rising_rank": 9,
-      "window_minutes": 454
+      "window_minutes": 28
     },
     {
-      "source": "디시인사이드",
-      "title": "싱글벙글 유명 헐리우드 영화 평가 요약",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480967&_dcbest=1&page=1",
-      "category": "연예",
-      "views": 13581,
-      "likes": 41,
-      "comments": 183,
-      "score": 73.59,
-      "change": "NEW",
-      "current_rank": 13,
-      "new_entry": true,
-      "delta_views": 0,
+      "source": "클리앙",
+      "title": "뻑가를 싫어하지만 이부분은 진짜 반박할만한게 필요하다생각하는데",
+      "url": "https://www.clien.net/service/board/park/19297061?od=T31&po=0&category=0&groupCd=",
+      "category": "이슈",
+      "views": 2001,
+      "likes": 2,
+      "comments": 33,
+      "score": 71.48,
+      "change": 0,
+      "current_rank": 15,
+      "new_entry": false,
+      "delta_views": 384,
       "delta_likes": 0,
-      "delta_comments": 0,
+      "delta_comments": 4,
       "rank_gain": 0,
-      "rising_score": 72.91,
+      "rising_score": 80.77,
       "rising_rank": 10,
-      "window_minutes": 454
+      "window_minutes": 28
     }
   ],
   "issues": [
+    {
+      "id": "ic6b73da7",
+      "title": "‘있어서’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "있어서"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 111.89,
+      "peak_score": 102.42,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 3,
+          "title": "최근 두통과 컨디션 악화가 자주 있어서 ...",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77485566?m=humor",
+          "score": 93.42
+        },
+        {
+          "source": "더쿠",
+          "rank": 94,
+          "title": "전기장판 사고 싶어서 쿠팡 리뷰좀 참고하려고 했는데 AI로 쓴 3천자 짜리 뚱뚱하고 무의미한 리뷰만 있어서 포기했소이다.",
+          "url": "https://theqoo.net/hot/4414954770",
+          "score": 52.42
+        }
+      ],
+      "first_seen": "2026-11-23T01:52:59.165787+09:00",
+      "last_seen": "2026-11-23T01:52:59.165787+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 1,
+      "change": "NEW"
+    },
     {
       "id": "id2d5aa4e",
       "title": "미국 배포중인 테슬라 FSD v15 근황",
@@ -430,9 +468,9 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 84.01,
-      "peak_score": 74.54,
-      "appearances": 1,
+      "score": 86.12,
+      "peak_score": 74.63,
+      "appearances": 2,
       "sources": [
         "디시인사이드",
         "인벤"
@@ -440,25 +478,105 @@
       "posts": [
         {
           "source": "인벤",
-          "rank": 30,
+          "rank": 26,
           "title": "미국 배포중인 테슬라 FSD v15 근황",
           "url": "https://www.inven.co.kr/board/webzine/2097/2755370",
-          "score": 66.54
+          "score": 66.63
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 93,
+          "title": "테슬라 FSD 버전 15 정리 ㄷㄷ",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480937&_dcbest=1&page=1",
+          "score": 52.64
+        }
+      ],
+      "first_seen": "2026-10-28T10:35:53.153074+09:00",
+      "last_seen": "2026-11-23T01:52:59.165787+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 2,
+      "change": -1
+    },
+    {
+      "id": "icdecc467",
+      "title": "‘v15’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "v15"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 85.1,
+      "peak_score": 75.63,
+      "appearances": 1,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 26,
+          "title": "미국 배포중인 테슬라 FSD v15 근황",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2755370",
+          "score": 66.63
+        },
+        {
+          "source": "클리앙",
+          "rank": 34,
+          "title": "컴퓨터의 세계는 신기합니다. (테슬라 v15)",
+          "url": "https://www.clien.net/service/board/park/19297074?od=T31&po=0&category=0&groupCd=",
+          "score": 63.53
+        }
+      ],
+      "first_seen": "2026-11-23T01:52:59.165787+09:00",
+      "last_seen": "2026-11-23T01:52:59.165787+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 3,
+      "change": "NEW"
+    },
+    {
+      "id": "icf32a6e1",
+      "title": "잔고 25만원\" 도경완이 또..억대 외제차 시승ㅋㅋ",
+      "keywords": [
+        "잔고",
+        "억대",
+        "도경완이",
+        "외제차",
+        "25만원"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 80.4,
+      "peak_score": 70.93,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 40,
+          "title": "잔고 25만원\" 도경완이 또..억대 외제차 시승ㅋㅋ",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10198736",
+          "score": 62.93
         },
         {
           "source": "디시인사이드",
           "rank": 79,
-          "title": "테슬라 FSD 버전 15 정리 ㄷㄷ",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480937&_dcbest=1&page=1",
-          "score": 54.46
+          "title": "잔고 25만원\" 도경완이 또...억대 외제차 시승에 '시끌",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480949&_dcbest=1&page=1",
+          "score": 55.24
         }
       ],
-      "first_seen": "2026-10-28T10:35:53.153074+09:00",
-      "last_seen": "2026-11-23T01:25:27.602370+09:00",
+      "first_seen": "2026-11-23T01:52:59.165787+09:00",
+      "last_seen": "2026-11-23T01:52:59.165787+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 1,
-      "change": 4
+      "rank": 4,
+      "change": "NEW"
     },
     {
       "id": "i5781c296",
@@ -495,8 +613,8 @@
       "last_seen": "2026-11-23T01:25:27.602370+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 2,
-      "change": "NEW"
+      "rank": 5,
+      "change": -3
     },
     {
       "id": "i29f25407",
@@ -533,11 +651,79 @@
       "last_seen": "2026-11-23T01:25:27.602370+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 3,
-      "change": "NEW"
+      "rank": 6,
+      "change": -3
     }
   ],
   "realtime_issues": [
+    {
+      "id": "ic6b73da7",
+      "title": "‘있어서’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "있어서"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 102.42,
+      "peak_score": 102.42,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 3,
+          "title": "최근 두통과 컨디션 악화가 자주 있어서 ...",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77485566?m=humor",
+          "score": 93.42
+        },
+        {
+          "source": "더쿠",
+          "rank": 94,
+          "title": "전기장판 사고 싶어서 쿠팡 리뷰좀 참고하려고 했는데 AI로 쓴 3천자 짜리 뚱뚱하고 무의미한 리뷰만 있어서 포기했소이다.",
+          "url": "https://theqoo.net/hot/4414954770",
+          "score": 52.42
+        }
+      ],
+      "rank": 1,
+      "change": "NEW"
+    },
+    {
+      "id": "icdecc467",
+      "title": "‘v15’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "v15"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 75.63,
+      "peak_score": 75.63,
+      "appearances": 1,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 26,
+          "title": "미국 배포중인 테슬라 FSD v15 근황",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2755370",
+          "score": 66.63
+        },
+        {
+          "source": "클리앙",
+          "rank": 34,
+          "title": "컴퓨터의 세계는 신기합니다. (테슬라 v15)",
+          "url": "https://www.clien.net/service/board/park/19297074?od=T31&po=0&category=0&groupCd=",
+          "score": 63.53
+        }
+      ],
+      "rank": 2,
+      "change": "NEW"
+    },
     {
       "id": "id2d5aa4e",
       "title": "미국 배포중인 테슬라 FSD v15 근황",
@@ -547,8 +733,8 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 74.54,
-      "peak_score": 74.54,
+      "score": 74.63,
+      "peak_score": 74.63,
       "appearances": 1,
       "sources": [
         "디시인사이드",
@@ -557,143 +743,114 @@
       "posts": [
         {
           "source": "인벤",
-          "rank": 30,
+          "rank": 26,
           "title": "미국 배포중인 테슬라 FSD v15 근황",
           "url": "https://www.inven.co.kr/board/webzine/2097/2755370",
-          "score": 66.54
+          "score": 66.63
         },
         {
           "source": "디시인사이드",
-          "rank": 79,
+          "rank": 93,
           "title": "테슬라 FSD 버전 15 정리 ㄷㄷ",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480937&_dcbest=1&page=1",
-          "score": 54.46
+          "score": 52.64
         }
       ],
-      "rank": 1,
-      "change": "NEW"
+      "rank": 3,
+      "change": -2
     },
     {
-      "id": "i5781c296",
-      "title": "‘네이버’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "icf32a6e1",
+      "title": "잔고 25만원\" 도경완이 또..억대 외제차 시승ㅋㅋ",
       "keywords": [
-        "네이버"
+        "잔고",
+        "억대",
+        "도경완이",
+        "외제차",
+        "25만원"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 64.99,
-      "peak_score": 64.99,
+      "score": 70.93,
+      "peak_score": 70.93,
       "appearances": 1,
       "sources": [
-        "더쿠",
+        "디시인사이드",
         "뽐뿌"
       ],
       "posts": [
         {
           "source": "뽐뿌",
-          "rank": 71,
-          "title": "[네이버] 레이먼킴 도가니탕 정석 500g x 4팩 (9,900원/무료)",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=750867",
-          "score": 55.99
+          "rank": 40,
+          "title": "잔고 25만원\" 도경완이 또..억대 외제차 시승ㅋㅋ",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10198736",
+          "score": 62.93
         },
         {
-          "source": "더쿠",
-          "rank": 78,
-          "title": "일본은 네이버 라인 도둑질 성공하더니 한국이 개ㅈ밥으로 보였나봄",
-          "url": "https://theqoo.net/hot/4414981917",
-          "score": 54.74
+          "source": "디시인사이드",
+          "rank": 79,
+          "title": "잔고 25만원\" 도경완이 또...억대 외제차 시승에 '시끌",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480949&_dcbest=1&page=1",
+          "score": 55.24
         }
       ],
-      "rank": 2,
-      "change": "NEW"
-    },
-    {
-      "id": "i29f25407",
-      "title": "‘월요일’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "월요일"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 64.98,
-      "peak_score": 64.98,
-      "appearances": 1,
-      "sources": [
-        "뽐뿌",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 72,
-          "title": "월요일 대박 대책 나왔네요",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=458762",
-          "score": 55.98
-        },
-        {
-          "source": "인벤",
-          "rank": 83,
-          "title": "검은 월요일' 우려에 정부 긴급 대응‥증시안정펀드 가동 준비",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2755368",
-          "score": 53.63
-        }
-      ],
-      "rank": 3,
+      "rank": 4,
       "change": "NEW"
     }
   ],
   "keywords": [
     {
       "keyword": "테슬라",
-      "score": 125.36,
-      "post_count": 3,
-      "source_count": 3,
-      "best_rank": 7,
+      "score": 143.38,
+      "post_count": 4,
+      "source_count": 4,
+      "best_rank": 26,
       "sources": [
         "디시인사이드",
         "뽐뿌",
-        "인벤"
+        "인벤",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 1,
-      "change": "NEW"
+      "change": 0
     },
     {
-      "keyword": "일본",
-      "score": 112.32,
-      "post_count": 3,
+      "keyword": "중국",
+      "score": 98.73,
+      "post_count": 2,
       "source_count": 2,
-      "best_rank": 1,
+      "best_rank": 10,
       "sources": [
-        "더쿠",
-        "루리웹"
+        "뽐뿌",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 2,
-      "change": -1
+      "change": "NEW"
     },
     {
-      "keyword": "무배",
-      "score": 101.48,
+      "keyword": "있어서",
+      "score": 96.97,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 11,
+      "best_rank": 3,
       "sources": [
-        "루리웹",
-        "뽐뿌"
+        "더쿠",
+        "루리웹"
       ],
       "aliases": [],
       "rank": 3,
       "change": "NEW"
     },
     {
-      "keyword": "한국",
-      "score": 96.34,
-      "post_count": 3,
+      "keyword": "v15",
+      "score": 93.26,
+      "post_count": 2,
       "source_count": 2,
-      "best_rank": 21,
+      "best_rank": 26,
       "sources": [
-        "더쿠",
+        "인벤",
         "클리앙"
       ],
       "aliases": [],
@@ -702,40 +859,40 @@
     },
     {
       "keyword": "극우화",
-      "score": 92.85,
+      "score": 92.97,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 25,
+      "best_rank": 7,
       "sources": [
         "디시인사이드",
         "클리앙"
       ],
       "aliases": [],
       "rank": 5,
-      "change": "NEW"
+      "change": 0
     },
     {
       "keyword": "미국",
-      "score": 92.35,
+      "score": 92.59,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 30,
+      "best_rank": 26,
       "sources": [
         "디시인사이드",
         "인벤"
       ],
       "aliases": [],
       "rank": 6,
-      "change": -4
+      "change": 0
     },
     {
-      "keyword": "쿠팡",
-      "score": 90.56,
-      "post_count": 2,
+      "keyword": "ai",
+      "score": 92.44,
+      "post_count": 3,
       "source_count": 2,
-      "best_rank": 11,
+      "best_rank": 17,
       "sources": [
-        "더쿠",
+        "디시인사이드",
         "루리웹"
       ],
       "aliases": [],
@@ -744,7 +901,7 @@
     },
     {
       "keyword": "커닝",
-      "score": 89.15,
+      "score": 88.53,
       "post_count": 2,
       "source_count": 2,
       "best_rank": 17,
@@ -754,84 +911,91 @@
       ],
       "aliases": [],
       "rank": 8,
-      "change": "NEW"
+      "change": 0
+    },
+    {
+      "keyword": "한국",
+      "score": 86.55,
+      "post_count": 3,
+      "source_count": 2,
+      "best_rank": 65,
+      "sources": [
+        "더쿠",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 9,
+      "change": -5
     },
     {
       "keyword": "fsd",
-      "score": 86.1,
+      "score": 84.66,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 30,
+      "best_rank": 26,
       "sources": [
         "디시인사이드",
         "인벤"
       ],
       "aliases": [],
-      "rank": 9,
-      "change": "NEW"
-    },
-    {
-      "keyword": "아이브",
-      "score": 84.91,
-      "post_count": 5,
-      "source_count": 1,
-      "best_rank": 31,
-      "sources": [
-        "인벤"
-      ],
-      "aliases": [],
       "rank": 10,
-      "change": "NEW"
-    },
-    {
-      "keyword": "주식",
-      "score": 84.31,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 32,
-      "sources": [
-        "루리웹",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 11,
       "change": -1
     },
     {
-      "keyword": "mama",
-      "score": 81.02,
-      "post_count": 4,
+      "keyword": "25만원",
+      "score": 84.5,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 40,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌"
+      ],
+      "aliases": [
+        "도경완",
+        "시승",
+        "억대",
+        "외제차",
+        "잔고"
+      ],
+      "rank": 11,
+      "change": "NEW"
+    },
+    {
+      "keyword": "일본",
+      "score": 84.25,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 44,
+      "sources": [
+        "더쿠",
+        "루리웹"
+      ],
+      "aliases": [],
+      "rank": 12,
+      "change": -10
+    },
+    {
+      "keyword": "아이브",
+      "score": 83.8,
+      "post_count": 5,
       "source_count": 1,
-      "best_rank": 31,
+      "best_rank": 36,
       "sources": [
         "인벤"
       ],
       "aliases": [],
-      "rank": 12,
-      "change": "NEW"
-    },
-    {
-      "keyword": "리뷰",
-      "score": 80.1,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 54,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "aliases": [],
       "rank": 13,
-      "change": "NEW"
+      "change": -3
     },
     {
-      "keyword": "네이버",
-      "score": 79.86,
+      "keyword": "리트냥",
+      "score": 80.16,
       "post_count": 2,
       "source_count": 2,
       "best_rank": 71,
       "sources": [
-        "더쿠",
+        "루리웹",
         "뽐뿌"
       ],
       "aliases": [],
@@ -839,68 +1003,67 @@
       "change": "NEW"
     },
     {
-      "keyword": "월요일",
-      "score": 78.99,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 72,
+      "keyword": "mama",
+      "score": 79.81,
+      "post_count": 4,
+      "source_count": 1,
+      "best_rank": 36,
       "sources": [
-        "뽐뿌",
         "인벤"
       ],
       "aliases": [],
       "rank": 15,
-      "change": "NEW"
+      "change": -3
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "진주만 폭격 당시 일본의 전략",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77480387?m=humor",
+      "title": "70만 유튜버 이태원 참사 조롱 논란",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77485718?m=humor",
       "score": 97.71,
-      "views": 17631,
-      "comments": 69
-    },
-    {
-      "source": "뽐뿌",
-      "title": "서울대 커뮤니티 리트냥 이진우 애도물결",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10198468",
-      "score": 83.44,
-      "views": 24543,
-      "comments": 109
-    },
-    {
-      "source": "클리앙",
-      "title": "뻑가를 싫어하지만 이부분은 진짜 반박할만한게 필요하다생각하는데",
-      "url": "https://www.clien.net/service/board/park/19297061?od=T31&po=0&category=0&groupCd=",
-      "score": 82.79,
-      "views": 1617,
-      "comments": 29
+      "views": 28283,
+      "comments": 66
     },
     {
       "source": "디시인사이드",
       "title": "싱글벙글 요즘 헬창들의 올림피아 보디빌더 인식ㄷㄷ",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480981&_dcbest=1&page=1",
-      "score": 81.63,
-      "views": 13717,
-      "comments": 109
+      "score": 81.31,
+      "views": 15645,
+      "comments": 146
     },
     {
       "source": "인벤",
       "title": "음악을 '잠깐' 전공했다는 사람이 생각하는 가수 김범수의 목 상태",
       "url": "https://www.inven.co.kr/board/webzine/2097/2755375",
-      "score": 77.46,
-      "views": 2062,
-      "comments": 16
+      "score": 78.3,
+      "views": 2440,
+      "comments": 17
     },
     {
       "source": "더쿠",
       "title": "오늘 케톡 온에어 달리면서 난리났던 런닝맨 명품지갑 사연.jpg",
       "url": "https://theqoo.net/hot/4415001623",
-      "score": 74.89,
-      "views": 61992,
-      "comments": 826
+      "score": 78.05,
+      "views": 65028,
+      "comments": 844
+    },
+    {
+      "source": "뽐뿌",
+      "title": "중국 동물원의 유명한 표범",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10198686",
+      "score": 74.05,
+      "views": 2800,
+      "comments": 12
+    },
+    {
+      "source": "클리앙",
+      "title": "뻑가를 싫어하지만 이부분은 진짜 반박할만한게 필요하다생각하는데",
+      "url": "https://www.clien.net/service/board/park/19297061?od=T31&po=0&category=0&groupCd=",
+      "score": 71.48,
+      "views": 2001,
+      "comments": 33
     }
   ]
 }
