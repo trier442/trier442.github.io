@@ -3,7 +3,7 @@
   "period": "daily",
   "key": "2026-11-23",
   "label": "2026년 11월 23일",
-  "collected_at": "2026-11-23T01:52:59.165787+09:00",
+  "collected_at": "2026-11-23T06:58:39.702323+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -42,7 +42,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 1,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "id2d5aa4e",
@@ -81,7 +81,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 2,
-      "change": -1
+      "change": 0
     },
     {
       "id": "icdecc467",
@@ -119,6 +119,45 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 3,
+      "change": 0
+    },
+    {
+      "id": "ic9416f26",
+      "title": "봉지에 몇겹이나 묶인채 발견된 새끼 냥이들 ㄷㄷ",
+      "keywords": [
+        "발견된",
+        "묶인채"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 85.05,
+      "peak_score": 75.58,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 30,
+          "title": "봉지에 몇겹이나 묶인채 발견된 새끼 냥이들 ㄷㄷ",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77488043?m=humor_only&t=now",
+          "score": 67.58
+        },
+        {
+          "source": "더쿠",
+          "rank": 81,
+          "title": "제주 동문시장, 검은봉투 여러겹에 묶인채 발견된 새끼고양이들",
+          "url": "https://theqoo.net/hot/4415010047",
+          "score": 53.89
+        }
+      ],
+      "first_seen": "2026-11-23T06:58:39.702323+09:00",
+      "last_seen": "2026-11-23T06:58:39.702323+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 4,
       "change": "NEW"
     },
     {
@@ -160,8 +199,8 @@
       "last_seen": "2026-11-23T01:52:59.165787+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 4,
-      "change": "NEW"
+      "rank": 5,
+      "change": -1
     },
     {
       "id": "i5781c296",
@@ -198,8 +237,8 @@
       "last_seen": "2026-11-23T01:25:27.602370+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
-      "change": -3
+      "rank": 6,
+      "change": -1
     },
     {
       "id": "i29f25407",
@@ -236,8 +275,8 @@
       "last_seen": "2026-11-23T01:25:27.602370+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
-      "change": -3
+      "rank": 7,
+      "change": -1
     }
   ]
 }
