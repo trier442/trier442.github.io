@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-11-23T20:11:48.711025+09:00",
+  "collected_at": "2026-11-23T21:04:32.955662+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -11,15 +11,15 @@
   "rankings": {
     "realtime": [
       {
-        "id": "i6fb7ee77",
-        "title": "‘마운자로’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i528421f2",
+        "title": "‘비키니’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "마운자로"
+          "비키니"
         ],
         "source_count": 2,
-        "post_count": 3,
-        "score": 103.42,
-        "peak_score": 103.42,
+        "post_count": 4,
+        "score": 78.23,
+        "peak_score": 78.23,
         "appearances": 1,
         "sources": [
           "루리웹",
@@ -27,55 +27,21 @@
         ],
         "posts": [
           {
-            "source": "루리웹",
-            "rank": 3,
-            "title": "중국으로 마운자로 사러갔다가 갇힌 디시인.jpg",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77494082?m=humor",
-            "score": 93.42
+            "source": "인벤",
+            "rank": 19,
+            "title": "약후) 골반 쩌는 호피 비키니",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2755708",
+            "score": 67.23
           },
           {
-            "source": "인벤",
-            "rank": 14,
-            "title": "대마도 마운자로 부산 배편 근황.",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2755691",
-            "score": 68.7
+            "source": "루리웹",
+            "rank": 24,
+            "title": "젖소 비키니 입은 유치원 선생님",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77495507?m=humor_only&t=now",
+            "score": 66.0
           }
         ],
         "rank": 1,
-        "change": "NEW"
-      },
-      {
-        "id": "i90b1e93c",
-        "title": "‘6개월’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "6개월"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 84.86,
-        "peak_score": 84.86,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "루리웹"
-        ],
-        "posts": [
-          {
-            "source": "루리웹",
-            "rank": 6,
-            "title": "[애플TV] 구독 55% 할인 프로모션 월 2,900원 6개월 할인 구독 가능",
-            "url": "https://bbs.ruliweb.com/market/board/1020/read/109290",
-            "score": 75.86
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 85,
-            "title": "140차례 방치하고 6개월 아기 굶겨 죽인 20대 부부 무기징역 구형",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481119&_dcbest=1&page=1",
-            "score": 55.2
-          }
-        ],
-        "rank": 2,
         "change": "NEW"
       },
       {
@@ -85,9 +51,9 @@
           "교육부"
         ],
         "source_count": 2,
-        "post_count": 2,
-        "score": 78.01,
-        "peak_score": 78.01,
+        "post_count": 3,
+        "score": 65.03,
+        "peak_score": 65.03,
         "appearances": 1,
         "sources": [
           "디시인사이드",
@@ -95,96 +61,161 @@
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 12,
-            "title": "교육부 장관 고민정?",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2755694",
-            "score": 69.01
+            "source": "디시인사이드",
+            "rank": 76,
+            "title": "교육부 \"수능서 스마트기기 부정행위 적발된 5명, 전원 고발\"",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481133&_dcbest=1&page=1",
+            "score": 55.03
           },
           {
-            "source": "디시인사이드",
-            "rank": 50,
-            "title": "교육부 \"작년 수능 부정행위 전수조사 안한다\"",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481106&_dcbest=1&page=1",
-            "score": 60.82
+            "source": "인벤",
+            "rank": 95,
+            "title": "교육부 장관 고민정?",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2755694",
+            "score": 51.93
+          }
+        ],
+        "rank": 2,
+        "change": 1
+      },
+      {
+        "id": "i633a9166",
+        "title": "‘ktx’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "ktx"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 105.88,
+        "peak_score": 105.88,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "루리웹"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 1,
+            "title": "방금 전까지 난리였다는 KTX",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77492826?m=humor",
+            "score": 96.88
+          },
+          {
+            "source": "더쿠",
+            "rank": 13,
+            "title": "오늘 x에서 핫했던 ktx 민폐승객",
+            "url": "https://theqoo.net/hot/4415797824",
+            "score": 69.53
           }
         ],
         "rank": 3,
         "change": "NEW"
       },
       {
-        "id": "i5c3b062a",
-        "title": "국정원장에 강금실... 외교 임웅순, 통일 홍익표, 행안 한준호, 문체 강유정",
+        "id": "ic864b91c",
+        "title": "친명 박선원 “신천지 당원 4만3000명 추산”…친청 최민희, 최고위 박차고 나가",
         "keywords": [
-          "국정원장에",
-          "통일",
-          "홍익표",
-          "행안",
-          "강금실",
-          "한준호",
-          "강유정",
-          "임웅순"
+          "당원",
+          "4만3000명",
+          "추산",
+          "신천지",
+          "박선원"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 76.74,
-        "peak_score": 76.74,
+        "score": 77.75,
+        "peak_score": 77.75,
         "appearances": 1,
         "sources": [
-          "인벤",
+          "디시인사이드",
           "클리앙"
         ],
         "posts": [
           {
             "source": "클리앙",
-            "rank": 13,
-            "title": "국정원장에 강금실... 외교 임웅순, 통일 홍익표, 행안 한준호, 문체 강유정",
-            "url": "https://www.clien.net/service/board/park/19297481?od=T31&po=0&category=0&groupCd=",
-            "score": 68.74
+            "rank": 12,
+            "title": "친명 박선원 “신천지 당원 4만3000명 추산”…친청 최민희, 최고위 박차고 나가",
+            "url": "https://www.clien.net/service/board/park/19297507?od=T31&po=0&category=0&groupCd=",
+            "score": 69.75
           },
           {
-            "source": "인벤",
-            "rank": 94,
-            "title": "국정원장에 강금실... 외교 임웅순, 통일 홍익표, 행안 한준호, 문체 강유정",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2755693",
-            "score": 53.21
+            "source": "디시인사이드",
+            "rank": 89,
+            "title": "與박선원 “당내 신천지 당원 1만4388명 일치…4만3000명 추산”",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481131&_dcbest=1&page=1",
+            "score": 53.24
           }
         ],
         "rank": 4,
         "change": "NEW"
       },
       {
-        "id": "i80bcfbe1",
-        "title": "‘못하는’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "iafac55c0",
+        "title": "‘시민들’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "못하는"
+          "시민들"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 74.06,
-        "peak_score": 74.06,
+        "score": 69.78,
+        "peak_score": 69.78,
         "appearances": 1,
         "sources": [
           "디시인사이드",
+          "루리웹"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 49,
+            "title": "싱글벙글 도심 마라톤에 화가난 시민들",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481127&_dcbest=1&page=1",
+            "score": 60.78
+          },
+          {
+            "source": "루리웹",
+            "rank": 88,
+            "title": "GTA6에서 마주치는 시민들 보면 느껴지는 거",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77495510?m=humor_only&t=now",
+            "score": 53.3
+          }
+        ],
+        "rank": 5,
+        "change": "NEW"
+      },
+      {
+        "id": "i82277a93",
+        "title": "‘수영장’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "수영장"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 69.03,
+        "peak_score": 69.03,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
           "인벤"
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 29,
-            "title": "마라톤 때문에 출근을 못하는 의사",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2755703",
-            "score": 65.06
+            "source": "뽐뿌",
+            "rank": 56,
+            "title": "안전한 수영장 수질검사.mp4",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=humor&no=794630",
+            "score": 60.03
           },
           {
-            "source": "디시인사이드",
-            "rank": 91,
-            "title": "공부 못하는 사람의 심정을 지금 천재들이 느끼고 있음",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481077&_dcbest=1&page=1",
-            "score": 54.53
+            "source": "인벤",
+            "rank": 72,
+            "title": "약후) 수영장 비키니",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2755707",
+            "score": 56.52
           }
         ],
-        "rank": 5,
+        "rank": 6,
         "change": "NEW"
       }
     ],
@@ -228,6 +259,44 @@
         "change": 0
       },
       {
+        "id": "i633a9166",
+        "title": "‘ktx’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "ktx"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 115.35,
+        "peak_score": 105.88,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "루리웹"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 1,
+            "title": "방금 전까지 난리였다는 KTX",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77492826?m=humor",
+            "score": 96.88
+          },
+          {
+            "source": "더쿠",
+            "rank": 13,
+            "title": "오늘 x에서 핫했던 ktx 민폐승객",
+            "url": "https://theqoo.net/hot/4415797824",
+            "score": 69.53
+          }
+        ],
+        "first_seen": "2026-11-23T21:04:32.955662+09:00",
+        "last_seen": "2026-11-23T21:04:32.955662+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 2,
+        "change": "NEW"
+      },
+      {
         "id": "i6fb7ee77",
         "title": "‘마운자로’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -262,8 +331,8 @@
         "last_seen": "2026-11-23T20:11:48.711025+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 2,
-        "change": "NEW"
+        "rank": 3,
+        "change": -1
       },
       {
         "id": "ic6b73da7",
@@ -300,7 +369,7 @@
         "last_seen": "2026-11-23T01:52:59.165787+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 3,
+        "rank": 4,
         "change": -1
       },
       {
@@ -340,7 +409,7 @@
         "last_seen": "2026-11-23T11:57:15.870334+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 4,
+        "rank": 5,
         "change": -1
       },
       {
@@ -378,7 +447,7 @@
         "last_seen": "2026-11-23T11:57:15.870334+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 5,
+        "rank": 6,
         "change": -1
       },
       {
@@ -433,7 +502,7 @@
         "last_seen": "2026-11-23T11:57:15.870334+09:00",
         "latest_source_count": 3,
         "latest_post_count": 4,
-        "rank": 6,
+        "rank": 7,
         "change": -1
       },
       {
@@ -471,8 +540,8 @@
         "last_seen": "2026-11-23T20:11:48.711025+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 7,
-        "change": "NEW"
+        "rank": 8,
+        "change": -1
       },
       {
         "id": "id99cf9ee",
@@ -481,35 +550,115 @@
           "교육부"
         ],
         "source_count": 2,
-        "post_count": 2,
-        "score": 87.48,
+        "post_count": 3,
+        "score": 90.5,
         "peak_score": 78.01,
-        "appearances": 1,
+        "appearances": 2,
         "sources": [
           "디시인사이드",
           "인벤"
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 12,
-            "title": "교육부 장관 고민정?",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2755694",
-            "score": 69.01
+            "source": "디시인사이드",
+            "rank": 76,
+            "title": "교육부 \"수능서 스마트기기 부정행위 적발된 5명, 전원 고발\"",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481133&_dcbest=1&page=1",
+            "score": 55.03
           },
           {
-            "source": "디시인사이드",
-            "rank": 50,
-            "title": "교육부 \"작년 수능 부정행위 전수조사 안한다\"",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481106&_dcbest=1&page=1",
-            "score": 60.82
+            "source": "인벤",
+            "rank": 95,
+            "title": "교육부 장관 고민정?",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2755694",
+            "score": 51.93
           }
         ],
         "first_seen": "2026-10-21T18:37:21.676761+09:00",
-        "last_seen": "2026-11-23T20:11:48.711025+09:00",
+        "last_seen": "2026-11-23T21:04:32.955662+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 3,
+        "rank": 9,
+        "change": -1
+      },
+      {
+        "id": "i528421f2",
+        "title": "‘비키니’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "비키니"
+        ],
+        "source_count": 2,
+        "post_count": 4,
+        "score": 89.7,
+        "peak_score": 78.23,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 19,
+            "title": "약후) 골반 쩌는 호피 비키니",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2755708",
+            "score": 67.23
+          },
+          {
+            "source": "루리웹",
+            "rank": 24,
+            "title": "젖소 비키니 입은 유치원 선생님",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77495507?m=humor_only&t=now",
+            "score": 66.0
+          }
+        ],
+        "first_seen": "2026-11-23T21:04:32.955662+09:00",
+        "last_seen": "2026-11-23T21:04:32.955662+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 4,
+        "rank": 10,
+        "change": "NEW"
+      },
+      {
+        "id": "ic864b91c",
+        "title": "친명 박선원 “신천지 당원 4만3000명 추산”…친청 최민희, 최고위 박차고 나가",
+        "keywords": [
+          "당원",
+          "4만3000명",
+          "추산",
+          "신천지",
+          "박선원"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 87.22,
+        "peak_score": 77.75,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 12,
+            "title": "친명 박선원 “신천지 당원 4만3000명 추산”…친청 최민희, 최고위 박차고 나가",
+            "url": "https://www.clien.net/service/board/park/19297507?od=T31&po=0&category=0&groupCd=",
+            "score": 69.75
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 89,
+            "title": "與박선원 “당내 신천지 당원 1만4388명 일치…4만3000명 추산”",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481131&_dcbest=1&page=1",
+            "score": 53.24
+          }
+        ],
+        "first_seen": "2026-11-23T21:04:32.955662+09:00",
+        "last_seen": "2026-11-23T21:04:32.955662+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 8,
+        "rank": 11,
         "change": "NEW"
       },
       {
@@ -554,8 +703,8 @@
         "last_seen": "2026-11-23T20:11:48.711025+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 9,
-        "change": "NEW"
+        "rank": 12,
+        "change": -3
       },
       {
         "id": "id2d5aa4e",
@@ -593,8 +742,8 @@
         "last_seen": "2026-11-23T01:52:59.165787+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 10,
-        "change": -4
+        "rank": 13,
+        "change": -3
       },
       {
         "id": "icdecc467",
@@ -631,8 +780,8 @@
         "last_seen": "2026-11-23T01:52:59.165787+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
-        "change": -4
+        "rank": 14,
+        "change": -3
       },
       {
         "id": "ic9416f26",
@@ -670,8 +819,8 @@
         "last_seen": "2026-11-23T06:58:39.702323+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 12,
-        "change": -4
+        "rank": 15,
+        "change": -3
       },
       {
         "id": "i19b65cc7",
@@ -708,8 +857,8 @@
         "last_seen": "2026-11-23T11:57:15.870334+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 13,
-        "change": -4
+        "rank": 16,
+        "change": -3
       },
       {
         "id": "i80bcfbe1",
@@ -746,8 +895,8 @@
         "last_seen": "2026-11-23T20:11:48.711025+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 14,
-        "change": "NEW"
+        "rank": 17,
+        "change": -3
       },
       {
         "id": "ib02598ad",
@@ -787,8 +936,8 @@
         "last_seen": "2026-11-23T11:57:15.870334+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 15,
-        "change": -5
+        "rank": 18,
+        "change": -3
       },
       {
         "id": "icf32a6e1",
@@ -829,20 +978,20 @@
         "last_seen": "2026-11-23T01:52:59.165787+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 16,
-        "change": -5
+        "rank": 19,
+        "change": -3
       },
       {
-        "id": "i91f13db9",
-        "title": "‘gta6’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "iafac55c0",
+        "title": "‘시민들’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "gta6"
+          "시민들"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 78.73,
-        "peak_score": 67.24,
-        "appearances": 2,
+        "score": 79.25,
+        "peak_score": 69.78,
+        "appearances": 1,
         "sources": [
           "디시인사이드",
           "루리웹"
@@ -850,101 +999,25 @@
         "posts": [
           {
             "source": "디시인사이드",
-            "rank": 76,
-            "title": "GTA6 사용자 데이터 유출 논란 뭐노ㅋㅋㅋㅋ",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480993&_dcbest=1&page=1",
-            "score": 57.13
+            "rank": 49,
+            "title": "싱글벙글 도심 마라톤에 화가난 시민들",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481127&_dcbest=1&page=1",
+            "score": 60.78
           },
           {
             "source": "루리웹",
-            "rank": 81,
-            "title": "GTA6 다양성 여캐들 확실하네",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77490115?m=humor_only&t=now",
-            "score": 56.51
+            "rank": 88,
+            "title": "GTA6에서 마주치는 시민들 보면 느껴지는 거",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77495510?m=humor_only&t=now",
+            "score": 53.3
           }
         ],
-        "first_seen": "2026-10-17T19:34:33.819752+09:00",
-        "last_seen": "2026-11-23T11:57:15.870334+09:00",
+        "first_seen": "2026-11-23T21:04:32.955662+09:00",
+        "last_seen": "2026-11-23T21:04:32.955662+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 17,
-        "change": -5
-      },
-      {
-        "id": "i5781c296",
-        "title": "‘네이버’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "네이버"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 74.46,
-        "peak_score": 64.99,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "뽐뿌"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 71,
-            "title": "[네이버] 레이먼킴 도가니탕 정석 500g x 4팩 (9,900원/무료)",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=750867",
-            "score": 55.99
-          },
-          {
-            "source": "더쿠",
-            "rank": 78,
-            "title": "일본은 네이버 라인 도둑질 성공하더니 한국이 개ㅈ밥으로 보였나봄",
-            "url": "https://theqoo.net/hot/4414981917",
-            "score": 54.74
-          }
-        ],
-        "first_seen": "2026-09-27T20:23:34.525151+09:00",
-        "last_seen": "2026-11-23T01:25:27.602370+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 18,
-        "change": -5
-      },
-      {
-        "id": "i29f25407",
-        "title": "‘월요일’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "월요일"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 74.45,
-        "peak_score": 64.98,
-        "appearances": 1,
-        "sources": [
-          "뽐뿌",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 72,
-            "title": "월요일 대박 대책 나왔네요",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=458762",
-            "score": 55.98
-          },
-          {
-            "source": "인벤",
-            "rank": 83,
-            "title": "검은 월요일' 우려에 정부 긴급 대응‥증시안정펀드 가동 준비",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2755368",
-            "score": 53.63
-          }
-        ],
-        "first_seen": "2026-11-23T01:25:27.602370+09:00",
-        "last_seen": "2026-11-23T01:25:27.602370+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 19,
-        "change": -5
+        "rank": 20,
+        "change": "NEW"
       }
     ],
     "weekly": [
@@ -987,6 +1060,44 @@
         "change": 0
       },
       {
+        "id": "i633a9166",
+        "title": "‘ktx’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "ktx"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 115.35,
+        "peak_score": 105.88,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "루리웹"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 1,
+            "title": "방금 전까지 난리였다는 KTX",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77492826?m=humor",
+            "score": 96.88
+          },
+          {
+            "source": "더쿠",
+            "rank": 13,
+            "title": "오늘 x에서 핫했던 ktx 민폐승객",
+            "url": "https://theqoo.net/hot/4415797824",
+            "score": 69.53
+          }
+        ],
+        "first_seen": "2026-11-23T21:04:32.955662+09:00",
+        "last_seen": "2026-11-23T21:04:32.955662+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 2,
+        "change": "NEW"
+      },
+      {
         "id": "i6fb7ee77",
         "title": "‘마운자로’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -1021,8 +1132,8 @@
         "last_seen": "2026-11-23T20:11:48.711025+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 2,
-        "change": "NEW"
+        "rank": 3,
+        "change": -1
       },
       {
         "id": "ic6b73da7",
@@ -1059,7 +1170,7 @@
         "last_seen": "2026-11-23T01:52:59.165787+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 3,
+        "rank": 4,
         "change": -1
       },
       {
@@ -1099,7 +1210,7 @@
         "last_seen": "2026-11-23T11:57:15.870334+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 4,
+        "rank": 5,
         "change": -1
       },
       {
@@ -1137,7 +1248,7 @@
         "last_seen": "2026-11-23T11:57:15.870334+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 5,
+        "rank": 6,
         "change": -1
       },
       {
@@ -1192,7 +1303,7 @@
         "last_seen": "2026-11-23T11:57:15.870334+09:00",
         "latest_source_count": 3,
         "latest_post_count": 4,
-        "rank": 6,
+        "rank": 7,
         "change": -1
       },
       {
@@ -1230,8 +1341,8 @@
         "last_seen": "2026-11-23T20:11:48.711025+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 7,
-        "change": "NEW"
+        "rank": 8,
+        "change": -1
       },
       {
         "id": "id99cf9ee",
@@ -1240,35 +1351,115 @@
           "교육부"
         ],
         "source_count": 2,
-        "post_count": 2,
-        "score": 87.48,
+        "post_count": 3,
+        "score": 90.5,
         "peak_score": 78.01,
-        "appearances": 1,
+        "appearances": 2,
         "sources": [
           "디시인사이드",
           "인벤"
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 12,
-            "title": "교육부 장관 고민정?",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2755694",
-            "score": 69.01
+            "source": "디시인사이드",
+            "rank": 76,
+            "title": "교육부 \"수능서 스마트기기 부정행위 적발된 5명, 전원 고발\"",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481133&_dcbest=1&page=1",
+            "score": 55.03
           },
           {
-            "source": "디시인사이드",
-            "rank": 50,
-            "title": "교육부 \"작년 수능 부정행위 전수조사 안한다\"",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481106&_dcbest=1&page=1",
-            "score": 60.82
+            "source": "인벤",
+            "rank": 95,
+            "title": "교육부 장관 고민정?",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2755694",
+            "score": 51.93
           }
         ],
         "first_seen": "2026-10-21T18:37:21.676761+09:00",
-        "last_seen": "2026-11-23T20:11:48.711025+09:00",
+        "last_seen": "2026-11-23T21:04:32.955662+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 3,
+        "rank": 9,
+        "change": -1
+      },
+      {
+        "id": "i528421f2",
+        "title": "‘비키니’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "비키니"
+        ],
+        "source_count": 2,
+        "post_count": 4,
+        "score": 89.7,
+        "peak_score": 78.23,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 19,
+            "title": "약후) 골반 쩌는 호피 비키니",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2755708",
+            "score": 67.23
+          },
+          {
+            "source": "루리웹",
+            "rank": 24,
+            "title": "젖소 비키니 입은 유치원 선생님",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77495507?m=humor_only&t=now",
+            "score": 66.0
+          }
+        ],
+        "first_seen": "2026-11-23T21:04:32.955662+09:00",
+        "last_seen": "2026-11-23T21:04:32.955662+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 4,
+        "rank": 10,
+        "change": "NEW"
+      },
+      {
+        "id": "ic864b91c",
+        "title": "친명 박선원 “신천지 당원 4만3000명 추산”…친청 최민희, 최고위 박차고 나가",
+        "keywords": [
+          "당원",
+          "4만3000명",
+          "추산",
+          "신천지",
+          "박선원"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 87.22,
+        "peak_score": 77.75,
+        "appearances": 1,
+        "sources": [
+          "디시인사이드",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 12,
+            "title": "친명 박선원 “신천지 당원 4만3000명 추산”…친청 최민희, 최고위 박차고 나가",
+            "url": "https://www.clien.net/service/board/park/19297507?od=T31&po=0&category=0&groupCd=",
+            "score": 69.75
+          },
+          {
+            "source": "디시인사이드",
+            "rank": 89,
+            "title": "與박선원 “당내 신천지 당원 1만4388명 일치…4만3000명 추산”",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481131&_dcbest=1&page=1",
+            "score": 53.24
+          }
+        ],
+        "first_seen": "2026-11-23T21:04:32.955662+09:00",
+        "last_seen": "2026-11-23T21:04:32.955662+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 8,
+        "rank": 11,
         "change": "NEW"
       },
       {
@@ -1313,8 +1504,8 @@
         "last_seen": "2026-11-23T20:11:48.711025+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 9,
-        "change": "NEW"
+        "rank": 12,
+        "change": -3
       },
       {
         "id": "id2d5aa4e",
@@ -1352,8 +1543,8 @@
         "last_seen": "2026-11-23T01:52:59.165787+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 10,
-        "change": -4
+        "rank": 13,
+        "change": -3
       },
       {
         "id": "icdecc467",
@@ -1390,8 +1581,8 @@
         "last_seen": "2026-11-23T01:52:59.165787+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
-        "change": -4
+        "rank": 14,
+        "change": -3
       },
       {
         "id": "ic9416f26",
@@ -1429,8 +1620,8 @@
         "last_seen": "2026-11-23T06:58:39.702323+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 12,
-        "change": -4
+        "rank": 15,
+        "change": -3
       },
       {
         "id": "i19b65cc7",
@@ -1467,8 +1658,8 @@
         "last_seen": "2026-11-23T11:57:15.870334+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 13,
-        "change": -4
+        "rank": 16,
+        "change": -3
       },
       {
         "id": "i80bcfbe1",
@@ -1505,8 +1696,8 @@
         "last_seen": "2026-11-23T20:11:48.711025+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 14,
-        "change": "NEW"
+        "rank": 17,
+        "change": -3
       },
       {
         "id": "ib02598ad",
@@ -1546,8 +1737,8 @@
         "last_seen": "2026-11-23T11:57:15.870334+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 15,
-        "change": -5
+        "rank": 18,
+        "change": -3
       },
       {
         "id": "icf32a6e1",
@@ -1588,20 +1779,20 @@
         "last_seen": "2026-11-23T01:52:59.165787+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 16,
-        "change": -5
+        "rank": 19,
+        "change": -3
       },
       {
-        "id": "i91f13db9",
-        "title": "‘gta6’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "iafac55c0",
+        "title": "‘시민들’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "gta6"
+          "시민들"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 78.73,
-        "peak_score": 67.24,
-        "appearances": 2,
+        "score": 79.25,
+        "peak_score": 69.78,
+        "appearances": 1,
         "sources": [
           "디시인사이드",
           "루리웹"
@@ -1609,101 +1800,25 @@
         "posts": [
           {
             "source": "디시인사이드",
-            "rank": 76,
-            "title": "GTA6 사용자 데이터 유출 논란 뭐노ㅋㅋㅋㅋ",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480993&_dcbest=1&page=1",
-            "score": 57.13
+            "rank": 49,
+            "title": "싱글벙글 도심 마라톤에 화가난 시민들",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481127&_dcbest=1&page=1",
+            "score": 60.78
           },
           {
             "source": "루리웹",
-            "rank": 81,
-            "title": "GTA6 다양성 여캐들 확실하네",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77490115?m=humor_only&t=now",
-            "score": 56.51
+            "rank": 88,
+            "title": "GTA6에서 마주치는 시민들 보면 느껴지는 거",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77495510?m=humor_only&t=now",
+            "score": 53.3
           }
         ],
-        "first_seen": "2026-10-17T19:34:33.819752+09:00",
-        "last_seen": "2026-11-23T11:57:15.870334+09:00",
+        "first_seen": "2026-11-23T21:04:32.955662+09:00",
+        "last_seen": "2026-11-23T21:04:32.955662+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 17,
-        "change": -5
-      },
-      {
-        "id": "i5781c296",
-        "title": "‘네이버’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "네이버"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 74.46,
-        "peak_score": 64.99,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "뽐뿌"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 71,
-            "title": "[네이버] 레이먼킴 도가니탕 정석 500g x 4팩 (9,900원/무료)",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=750867",
-            "score": 55.99
-          },
-          {
-            "source": "더쿠",
-            "rank": 78,
-            "title": "일본은 네이버 라인 도둑질 성공하더니 한국이 개ㅈ밥으로 보였나봄",
-            "url": "https://theqoo.net/hot/4414981917",
-            "score": 54.74
-          }
-        ],
-        "first_seen": "2026-09-27T20:23:34.525151+09:00",
-        "last_seen": "2026-11-23T01:25:27.602370+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 18,
-        "change": -5
-      },
-      {
-        "id": "i29f25407",
-        "title": "‘월요일’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "월요일"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 74.45,
-        "peak_score": 64.98,
-        "appearances": 1,
-        "sources": [
-          "뽐뿌",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 72,
-            "title": "월요일 대박 대책 나왔네요",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=458762",
-            "score": 55.98
-          },
-          {
-            "source": "인벤",
-            "rank": 83,
-            "title": "검은 월요일' 우려에 정부 긴급 대응‥증시안정펀드 가동 준비",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2755368",
-            "score": 53.63
-          }
-        ],
-        "first_seen": "2026-11-23T01:25:27.602370+09:00",
-        "last_seen": "2026-11-23T01:25:27.602370+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 19,
-        "change": -5
+        "rank": 20,
+        "change": "NEW"
       }
     ],
     "monthly": [
@@ -2381,7 +2496,7 @@
         "latest_source_count": 2,
         "latest_post_count": 3,
         "rank": 16,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "i0cdcc665",
@@ -2422,7 +2537,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 17,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i2e26d9ac",
@@ -2462,7 +2577,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 18,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i5d031567",
@@ -2509,7 +2624,7 @@
         "latest_source_count": 3,
         "latest_post_count": 6,
         "rank": 19,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i44a99ede",
@@ -2555,7 +2670,7 @@
         "latest_source_count": 3,
         "latest_post_count": 3,
         "rank": 20,
-        "change": -1
+        "change": 0
       }
     ]
   }
