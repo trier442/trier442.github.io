@@ -2,26 +2,26 @@
   "version": 1,
   "date": "2026-11-23",
   "label": "2026년 11월 23일",
-  "collected_at": "2026-11-23T06:58:39.702323+09:00",
+  "collected_at": "2026-11-23T11:33:34.071432+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘‘있어서’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #일본. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #존나. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
-    "ok_sources": 6,
-    "cached_sources": 0,
+    "ok_sources": 5,
+    "cached_sources": 1,
     "realtime_posts": 100,
     "daily_posts": 100,
-    "daily_issues": 7,
-    "keywords": 7,
-    "top100_views": 1080730,
-    "top100_comments": 8123
+    "daily_issues": 10,
+    "keywords": 10,
+    "top100_views": 942152,
+    "top100_comments": 8699
   },
   "highlights": [
     {
       "type": "issue",
-      "title": "‘있어서’ 관련 글이 여러 커뮤니티에서 화제",
-      "text": "2개 커뮤니티에서 2개 관련 인기글이 포착됐습니다.",
-      "issue_id": "ic6b73da7"
+      "title": "‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제",
+      "text": "2개 커뮤니티에서 5개 관련 인기글이 포착됐습니다.",
+      "issue_id": "i5d6688ff"
     },
     {
       "type": "post",
@@ -31,9 +31,9 @@
     },
     {
       "type": "keyword",
-      "title": "#일본",
-      "text": "2개 커뮤니티 · 2개 인기글에서 함께 등장했습니다.",
-      "keyword": "일본"
+      "title": "#존나",
+      "text": "3개 커뮤니티 · 3개 인기글에서 함께 등장했습니다.",
+      "keyword": "존나"
     }
   ],
   "top_posts": [
@@ -49,7 +49,7 @@
       "max_likes": 102,
       "max_comments": 69,
       "appearances": 3,
-      "score": 108.02,
+      "score": 107.64,
       "views": 17631,
       "likes": 102,
       "comments": 69,
@@ -61,17 +61,35 @@
       "category": "이슈",
       "url": "https://bbs.ruliweb.com/best/board/300143/read/77487955?m=humor",
       "first_seen": "2026-11-23T06:58:39.702323+09:00",
-      "last_seen": "2026-11-23T06:58:39.702323+09:00",
+      "last_seen": "2026-11-23T11:33:34.071432+09:00",
       "peak_score": 97.29,
       "max_views": 11415,
       "max_likes": 77,
       "max_comments": 53,
-      "appearances": 1,
-      "score": 106.68,
+      "appearances": 2,
+      "score": 107.49,
       "views": 11415,
       "likes": 77,
       "comments": 53,
-      "change": "NEW"
+      "change": 0
+    },
+    {
+      "title": "요즘 스피어 걸 콜하는 비용",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77487821?m=humor",
+      "first_seen": "2026-11-23T06:58:39.702323+09:00",
+      "last_seen": "2026-11-23T11:33:34.071432+09:00",
+      "peak_score": 96.19,
+      "max_views": 17072,
+      "max_likes": 88,
+      "max_comments": 37,
+      "appearances": 2,
+      "score": 106.39,
+      "views": 17072,
+      "likes": 88,
+      "comments": 37,
+      "change": 3
     },
     {
       "title": "70만 유튜버 이태원 참사 조롱 논란",
@@ -85,7 +103,7 @@
       "max_likes": 188,
       "max_comments": 66,
       "appearances": 1,
-      "score": 106.67,
+      "score": 106.29,
       "views": 28283,
       "likes": 188,
       "comments": 66,
@@ -103,7 +121,7 @@
       "max_likes": 203,
       "max_comments": 80,
       "appearances": 1,
-      "score": 106.4,
+      "score": 106.02,
       "views": 37910,
       "likes": 203,
       "comments": 80,
@@ -121,29 +139,11 @@
       "max_likes": 159,
       "max_comments": 62,
       "appearances": 3,
-      "score": 106.08,
+      "score": 105.7,
       "views": 21859,
       "likes": 159,
       "comments": 62,
       "change": -1
-    },
-    {
-      "title": "요즘 스피어 걸 콜하는 비용",
-      "source": "루리웹",
-      "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77487821?m=humor",
-      "first_seen": "2026-11-23T06:58:39.702323+09:00",
-      "last_seen": "2026-11-23T06:58:39.702323+09:00",
-      "peak_score": 96.19,
-      "max_views": 17072,
-      "max_likes": 88,
-      "max_comments": 37,
-      "appearances": 1,
-      "score": 105.58,
-      "views": 17072,
-      "likes": 88,
-      "comments": 37,
-      "change": "NEW"
     },
     {
       "title": "일본 중식당의 장점.jpg",
@@ -157,11 +157,11 @@
       "max_likes": 95,
       "max_comments": 68,
       "appearances": 3,
-      "score": 104.15,
+      "score": 103.77,
       "views": 23908,
       "likes": 95,
       "comments": 68,
-      "change": -2
+      "change": 0
     },
     {
       "title": "일본 시골 경찰이 한국 여행객 잡은",
@@ -169,17 +169,17 @@
       "category": "스포츠",
       "url": "https://bbs.ruliweb.com/best/board/300143/read/77487854?m=humor",
       "first_seen": "2026-11-23T06:58:39.702323+09:00",
-      "last_seen": "2026-11-23T06:58:39.702323+09:00",
+      "last_seen": "2026-11-23T11:33:34.071432+09:00",
       "peak_score": 93.21,
       "max_views": 16164,
       "max_likes": 53,
       "max_comments": 44,
-      "appearances": 1,
-      "score": 102.6,
+      "appearances": 2,
+      "score": 103.41,
       "views": 16164,
       "likes": 53,
       "comments": 44,
-      "change": "NEW"
+      "change": 0
     },
     {
       "title": "최근 두통과 컨디션 악화가 자주 있어서 ...",
@@ -193,11 +193,11 @@
       "max_likes": 186,
       "max_comments": 76,
       "appearances": 1,
-      "score": 102.38,
+      "score": 102.0,
       "views": 17917,
       "likes": 186,
       "comments": 76,
-      "change": -3
+      "change": 0
     },
     {
       "title": "[네이버페이] 일일적립, 클릭 179원, 라이브예고 17원",
@@ -205,222 +205,260 @@
       "category": "이슈",
       "url": "https://bbs.ruliweb.com/market/board/1020/read/109282",
       "first_seen": "2026-11-23T06:58:39.702323+09:00",
-      "last_seen": "2026-11-23T06:58:39.702323+09:00",
+      "last_seen": "2026-11-23T11:33:34.071432+09:00",
       "peak_score": 91.28,
       "max_views": 15269,
       "max_likes": 123,
       "max_comments": 21,
-      "appearances": 1,
-      "score": 100.67,
+      "appearances": 2,
+      "score": 101.48,
       "views": 15269,
       "likes": 123,
       "comments": 21,
-      "change": "NEW"
+      "change": 0
     }
   ],
   "rising": [
     {
-      "source": "클리앙",
-      "title": "시중에 딱 맞는 가벼운 에디터가 없어서 그냥 혼자 만들어 쓰고 있습니다",
-      "url": "https://www.clien.net/service/board/park/19297075?od=T31&po=0&category=0&groupCd=",
+      "source": "더쿠",
+      "title": "돈까스 중독자의 이혼 선언",
+      "url": "https://theqoo.net/hot/4415129181",
       "category": "이슈",
-      "views": 1683,
+      "views": 84622,
       "likes": 0,
-      "comments": 14,
-      "score": 49.67,
+      "comments": 377,
+      "score": 61.26,
       "change": 0,
-      "current_rank": 99,
+      "current_rank": 59,
       "new_entry": false,
-      "delta_views": 1556,
+      "delta_views": 57708,
       "delta_likes": 0,
-      "delta_comments": 13,
+      "delta_comments": 250,
       "rank_gain": 0,
       "rising_score": 100.0,
       "rising_rank": 1,
-      "window_minutes": 306
+      "window_minutes": 275
     },
     {
       "source": "디시인사이드",
-      "title": "조건만남으로 생계유지하는 여자",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480985&_dcbest=1&page=1",
+      "title": "미주갤 글 불펌해서 돈벌던 유튜브 마술사 렉카 비상 ㄷㄷㄷㄷ",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481047&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 18985,
-      "likes": 59,
-      "comments": 233,
-      "score": 83.38,
-      "change": 43,
-      "current_rank": 6,
-      "new_entry": false,
-      "delta_views": 17904,
-      "delta_likes": 52,
-      "delta_comments": 212,
-      "rank_gain": 43,
-      "rising_score": 93.34,
-      "rising_rank": 2,
-      "window_minutes": 306
-    },
-    {
-      "source": "디시인사이드",
-      "title": "[클리앙] 4050 극우화가 진짜 문제에요",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480977&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 13310,
-      "likes": 91,
-      "comments": 710,
-      "score": 81.37,
-      "change": 0,
-      "current_rank": 8,
-      "new_entry": false,
-      "delta_views": 8997,
-      "delta_likes": 48,
-      "delta_comments": 330,
-      "rank_gain": 0,
-      "rising_score": 90.8,
-      "rising_rank": 3,
-      "window_minutes": 306
-    },
-    {
-      "source": "디시인사이드",
-      "title": "싱글벙글 요즘 헬창들의 올림피아 보디빌더 인식ㄷㄷ",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480981&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 23270,
-      "likes": 178,
-      "comments": 244,
-      "score": 86.32,
-      "change": 0,
+      "views": 15561,
+      "likes": 439,
+      "comments": 226,
+      "score": 87.36,
+      "change": "NEW",
       "current_rank": 5,
-      "new_entry": false,
-      "delta_views": 7625,
-      "delta_likes": 77,
-      "delta_comments": 98,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 90.13,
-      "rising_rank": 4,
-      "window_minutes": 306
+      "rising_score": 78.69,
+      "rising_rank": 2,
+      "window_minutes": 275
+    },
+    {
+      "source": "뽐뿌",
+      "title": "성년 된 이부진 사장 아들, 어머니 따라 '이(李)씨'로 바꿨다",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=news_economy&no=489785",
+      "category": "이슈",
+      "views": 10226,
+      "likes": 0,
+      "comments": 23,
+      "score": 83.64,
+      "change": "NEW",
+      "current_rank": 6,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 77.13,
+      "rising_rank": 3,
+      "window_minutes": 275
     },
     {
       "source": "더쿠",
-      "title": "오늘 케톡 온에어 달리면서 난리났던 런닝맨 명품지갑 사연.jpg",
-      "url": "https://theqoo.net/hot/4415001623",
+      "title": "\"지 애미가 더럽게 키워 구질구질\"…박지윤 카톡 본 최동석, 파경 도화선",
+      "url": "https://theqoo.net/hot/4415298790",
       "category": "이슈",
-      "views": 80269,
+      "views": 17050,
       "likes": 0,
-      "comments": 901,
-      "score": 73.74,
-      "change": 0,
-      "current_rank": 14,
-      "new_entry": false,
-      "delta_views": 15241,
+      "comments": 360,
+      "score": 83.0,
+      "change": "NEW",
+      "current_rank": 7,
+      "new_entry": true,
+      "delta_views": 0,
       "delta_likes": 0,
-      "delta_comments": 57,
+      "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 89.16,
+      "rising_score": 76.86,
+      "rising_rank": 4,
+      "window_minutes": 275
+    },
+    {
+      "source": "뽐뿌",
+      "title": "회사에서 짤렸는데 서울집팔고 지방내려갈까요?",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=problem&no=238480",
+      "category": "생활",
+      "views": 18251,
+      "likes": 13,
+      "comments": 113,
+      "score": 82.88,
+      "change": "NEW",
+      "current_rank": 8,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 76.81,
       "rising_rank": 5,
-      "window_minutes": 306
+      "window_minutes": 275
     },
     {
-      "source": "인벤",
-      "title": "음악을 '잠깐' 전공했다는 사람이 생각하는 가수 김범수의 목 상태",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2755375",
-      "category": "연예",
-      "views": 5031,
-      "likes": 0,
-      "comments": 23,
-      "score": 55.68,
-      "change": 0,
-      "current_rank": 72,
-      "new_entry": false,
-      "delta_views": 2591,
+      "source": "디시인사이드",
+      "title": "보유세 더내라",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481043&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 12501,
+      "likes": 219,
+      "comments": 364,
+      "score": 82.13,
+      "change": "NEW",
+      "current_rank": 9,
+      "new_entry": true,
+      "delta_views": 0,
       "delta_likes": 0,
-      "delta_comments": 6,
+      "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 87.5,
+      "rising_score": 76.49,
       "rising_rank": 6,
-      "window_minutes": 306
+      "window_minutes": 275
     },
     {
-      "source": "루리웹",
-      "title": "나를 도울 수 있는 '권리'는 여성들만이 갖는다",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77487955?m=humor",
+      "source": "더쿠",
+      "title": "난 이때가 왜 패션암흑기 취급 받는지 이해가 안됐었음",
+      "url": "https://theqoo.net/hot/4415249548",
       "category": "이슈",
-      "views": 11415,
-      "likes": 77,
-      "comments": 53,
-      "score": 97.29,
+      "views": 34131,
+      "likes": 0,
+      "comments": 409,
+      "score": 81.53,
       "change": "NEW",
-      "current_rank": 1,
+      "current_rank": 10,
       "new_entry": true,
       "delta_views": 0,
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.86,
+      "rising_score": 76.24,
       "rising_rank": 7,
-      "window_minutes": 306
+      "window_minutes": 275
     },
     {
-      "source": "루리웹",
-      "title": "요즘 스피어 걸 콜하는 비용",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77487821?m=humor",
+      "source": "클리앙",
+      "title": "트럼프 “이란은...”…새해 공격 경고",
+      "url": "https://www.clien.net/service/board/park/19297220?od=T31&po=0&category=0&groupCd=",
       "category": "이슈",
-      "views": 17072,
-      "likes": 88,
-      "comments": 37,
-      "score": 96.19,
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "score": 80.0,
       "change": "NEW",
-      "current_rank": 2,
+      "current_rank": 11,
       "new_entry": true,
       "delta_views": 0,
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.4,
+      "rising_score": 75.6,
       "rising_rank": 8,
-      "window_minutes": 306
+      "window_minutes": 275
     },
     {
-      "source": "루리웹",
-      "title": "일본 시골 경찰이 한국 여행객 잡은",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77487854?m=humor",
-      "category": "스포츠",
-      "views": 16164,
-      "likes": 53,
-      "comments": 44,
-      "score": 93.21,
-      "change": "NEW",
-      "current_rank": 3,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 81.15,
-      "rising_rank": 9,
-      "window_minutes": 306
-    },
-    {
-      "source": "루리웹",
-      "title": "[네이버페이] 일일적립, 클릭 179원, 라이브예고 17원",
-      "url": "https://bbs.ruliweb.com/market/board/1020/read/109282",
+      "source": "뽐뿌",
+      "title": "대만 존나 부럽네",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=459199",
       "category": "이슈",
-      "views": 15269,
-      "likes": 123,
-      "comments": 21,
-      "score": 91.28,
+      "views": 9379,
+      "likes": 55,
+      "comments": 24,
+      "score": 78.89,
       "change": "NEW",
-      "current_rank": 4,
+      "current_rank": 12,
       "new_entry": true,
       "delta_views": 0,
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 80.34,
+      "rising_score": 75.13,
+      "rising_rank": 9,
+      "window_minutes": 275
+    },
+    {
+      "source": "디시인사이드",
+      "title": "\"미래의 딸\" ← ㅋㅋㅋㅋㅋㅋㅋㅋ",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481045&_dcbest=1&page=1",
+      "category": "유머",
+      "views": 10418,
+      "likes": 201,
+      "comments": 172,
+      "score": 77.94,
+      "change": "NEW",
+      "current_rank": 13,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 74.73,
       "rising_rank": 10,
-      "window_minutes": 306
+      "window_minutes": 275
     }
   ],
   "issues": [
+    {
+      "id": "i5d6688ff",
+      "title": "‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "네이버페이"
+      ],
+      "source_count": 2,
+      "post_count": 5,
+      "score": 115.75,
+      "peak_score": 103.28,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 4,
+          "title": "[네이버페이] 일일적립, 클릭 179원, 라이브예고 17원",
+          "url": "https://bbs.ruliweb.com/market/board/1020/read/109282",
+          "score": 91.28
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 21,
+          "title": "[네이버페이] 벨킨 15원 받으세요",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=121057",
+          "score": 71.26
+        }
+      ],
+      "first_seen": "2026-09-28T07:08:45.324597+09:00",
+      "last_seen": "2026-11-23T11:33:34.071432+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 5,
+      "rank": 1,
+      "change": "NEW"
+    },
     {
       "id": "ic6b73da7",
       "title": "‘있어서’ 관련 글이 여러 커뮤니티에서 화제",
@@ -456,8 +494,47 @@
       "last_seen": "2026-11-23T01:52:59.165787+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 1,
-      "change": 0
+      "rank": 2,
+      "change": -1
+    },
+    {
+      "id": "iede65e87",
+      "title": "‘이부진’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "이부진",
+        "바꿨다"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 102.11,
+      "peak_score": 92.64,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 6,
+          "title": "성년 된 이부진 사장 아들, 어머니 따라 '이(李)씨'로 바꿨다",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=news_economy&no=489785",
+          "score": 83.64
+        },
+        {
+          "source": "더쿠",
+          "rank": 18,
+          "title": "이부진 아들, 엄마 성으로 바꿨다…임씨에서 이씨로",
+          "url": "https://theqoo.net/hot/4415234395",
+          "score": 75.37
+        }
+      ],
+      "first_seen": "2026-11-23T11:33:34.071432+09:00",
+      "last_seen": "2026-11-23T11:33:34.071432+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 3,
+      "change": "NEW"
     },
     {
       "id": "id2d5aa4e",
@@ -495,8 +572,8 @@
       "last_seen": "2026-11-23T01:52:59.165787+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 2,
-      "change": 0
+      "rank": 4,
+      "change": -2
     },
     {
       "id": "icdecc467",
@@ -533,8 +610,8 @@
       "last_seen": "2026-11-23T01:52:59.165787+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 3,
-      "change": 0
+      "rank": 5,
+      "change": -2
     },
     {
       "id": "ic9416f26",
@@ -572,8 +649,8 @@
       "last_seen": "2026-11-23T06:58:39.702323+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 4,
-      "change": "NEW"
+      "rank": 6,
+      "change": -2
     },
     {
       "id": "icf32a6e1",
@@ -614,8 +691,46 @@
       "last_seen": "2026-11-23T01:52:59.165787+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
-      "change": -1
+      "rank": 7,
+      "change": -2
+    },
+    {
+      "id": "i91f13db9",
+      "title": "‘gta6’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "gta6"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 76.71,
+      "peak_score": 67.24,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 73,
+          "title": "GTA6 조종은 맥주병이 한다고함",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77488060?m=humor_only&t=now",
+          "score": 58.24
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 75,
+          "title": "GTA6 사용자 데이터 유출 논란 뭐노ㅋㅋㅋㅋ",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480993&_dcbest=1&page=1",
+          "score": 57.93
+        }
+      ],
+      "first_seen": "2026-10-17T19:34:33.819752+09:00",
+      "last_seen": "2026-11-23T11:33:34.071432+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 8,
+      "change": "NEW"
     },
     {
       "id": "i5781c296",
@@ -652,8 +767,8 @@
       "last_seen": "2026-11-23T01:25:27.602370+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
-      "change": -1
+      "rank": 9,
+      "change": -3
     },
     {
       "id": "i29f25407",
@@ -690,149 +805,260 @@
       "last_seen": "2026-11-23T01:25:27.602370+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": -1
+      "rank": 10,
+      "change": -3
     }
   ],
   "realtime_issues": [
     {
-      "id": "ic9416f26",
-      "title": "봉지에 몇겹이나 묶인채 발견된 새끼 냥이들 ㄷㄷ",
+      "id": "i5d6688ff",
+      "title": "‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "발견된",
-        "묶인채"
+        "네이버페이"
+      ],
+      "source_count": 2,
+      "post_count": 5,
+      "score": 103.28,
+      "peak_score": 103.28,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 4,
+          "title": "[네이버페이] 일일적립, 클릭 179원, 라이브예고 17원",
+          "url": "https://bbs.ruliweb.com/market/board/1020/read/109282",
+          "score": 91.28
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 21,
+          "title": "[네이버페이] 벨킨 15원 받으세요",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=121057",
+          "score": 71.26
+        }
+      ],
+      "rank": 1,
+      "change": "NEW"
+    },
+    {
+      "id": "iede65e87",
+      "title": "‘이부진’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "이부진",
+        "바꿨다"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 75.58,
-      "peak_score": 75.58,
+      "score": 92.64,
+      "peak_score": 92.64,
       "appearances": 1,
       "sources": [
         "더쿠",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 6,
+          "title": "성년 된 이부진 사장 아들, 어머니 따라 '이(李)씨'로 바꿨다",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=news_economy&no=489785",
+          "score": 83.64
+        },
+        {
+          "source": "더쿠",
+          "rank": 18,
+          "title": "이부진 아들, 엄마 성으로 바꿨다…임씨에서 이씨로",
+          "url": "https://theqoo.net/hot/4415234395",
+          "score": 75.37
+        }
+      ],
+      "rank": 2,
+      "change": "NEW"
+    },
+    {
+      "id": "i91f13db9",
+      "title": "‘gta6’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "gta6"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 67.24,
+      "peak_score": 67.24,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
         "루리웹"
       ],
       "posts": [
         {
           "source": "루리웹",
-          "rank": 30,
-          "title": "봉지에 몇겹이나 묶인채 발견된 새끼 냥이들 ㄷㄷ",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77488043?m=humor_only&t=now",
-          "score": 67.58
+          "rank": 73,
+          "title": "GTA6 조종은 맥주병이 한다고함",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77488060?m=humor_only&t=now",
+          "score": 58.24
         },
         {
-          "source": "더쿠",
-          "rank": 81,
-          "title": "제주 동문시장, 검은봉투 여러겹에 묶인채 발견된 새끼고양이들",
-          "url": "https://theqoo.net/hot/4415010047",
-          "score": 53.89
+          "source": "디시인사이드",
+          "rank": 75,
+          "title": "GTA6 사용자 데이터 유출 논란 뭐노ㅋㅋㅋㅋ",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480993&_dcbest=1&page=1",
+          "score": 57.93
         }
       ],
-      "rank": 1,
+      "rank": 3,
       "change": "NEW"
     }
   ],
   "keywords": [
     {
-      "keyword": "일본",
-      "score": 97.68,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 3,
-      "sources": [
-        "더쿠",
-        "루리웹"
-      ],
-      "aliases": [
-        "한국"
-      ],
-      "rank": 1,
-      "change": 11
-    },
-    {
-      "keyword": "후기",
-      "score": 94.53,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 20,
+      "keyword": "존나",
+      "score": 122.77,
+      "post_count": 3,
+      "source_count": 3,
+      "best_rank": 12,
       "sources": [
         "디시인사이드",
-        "인벤"
+        "루리웹",
+        "뽐뿌"
+      ],
+      "aliases": [],
+      "rank": 1,
+      "change": "NEW"
+    },
+    {
+      "keyword": "네이버페",
+      "score": 117.39,
+      "post_count": 5,
+      "source_count": 2,
+      "best_rank": 4,
+      "sources": [
+        "루리웹",
+        "뽐뿌"
       ],
       "aliases": [],
       "rank": 2,
       "change": "NEW"
     },
     {
-      "keyword": "ai",
-      "score": 90.74,
+      "keyword": "이부진",
+      "score": 106.52,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 19,
-      "sources": [
-        "디시인사이드",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 3,
-      "change": 4
-    },
-    {
-      "keyword": "커닝",
-      "score": 86.99,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 19,
+      "best_rank": 6,
       "sources": [
         "더쿠",
-        "디시인사이드"
+        "뽐뿌"
+      ],
+      "aliases": [
+        "바꿨다",
+        "아들"
+      ],
+      "rank": 3,
+      "change": "NEW"
+    },
+    {
+      "keyword": "일본",
+      "score": 105.08,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 3,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
       ],
       "aliases": [],
       "rank": 4,
-      "change": 4
+      "change": -3
     },
     {
-      "keyword": "묶인채",
-      "score": 85.93,
-      "post_count": 2,
+      "keyword": "결혼",
+      "score": 97.92,
+      "post_count": 3,
       "source_count": 2,
-      "best_rank": 30,
+      "best_rank": 17,
       "sources": [
         "더쿠",
-        "루리웹"
+        "인벤"
       ],
-      "aliases": [
-        "발견된"
-      ],
+      "aliases": [],
       "rank": 5,
       "change": "NEW"
     },
     {
-      "keyword": "리뷰",
-      "score": 81.16,
+      "keyword": "의미",
+      "score": 95.2,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 45,
+      "best_rank": 17,
       "sources": [
         "더쿠",
-        "디시인사이드"
+        "클리앙"
       ],
       "aliases": [],
       "rank": 6,
-      "change": 10
+      "change": "NEW"
     },
     {
-      "keyword": "부정행위",
-      "score": 76.47,
+      "keyword": "ai",
+      "score": 93.32,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 19,
+      "sources": [
+        "더쿠",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 7,
+      "change": -4
+    },
+    {
+      "keyword": "하락",
+      "score": 83.71,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 37,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 8,
+      "change": "NEW"
+    },
+    {
+      "keyword": "gta6",
+      "score": 80.74,
       "post_count": 2,
       "source_count": 2,
       "best_rank": 73,
       "sources": [
-        "더쿠",
-        "디시인사이드"
+        "디시인사이드",
+        "루리웹"
       ],
       "aliases": [],
-      "rank": 7,
-      "change": 10
+      "rank": 9,
+      "change": "NEW"
+    },
+    {
+      "keyword": "받으세요",
+      "score": 78.77,
+      "post_count": 4,
+      "source_count": 1,
+      "best_rank": 21,
+      "sources": [
+        "뽐뿌"
+      ],
+      "aliases": [
+        "15원"
+      ],
+      "rank": 10,
+      "change": "NEW"
     }
   ],
   "community_leaders": [
@@ -846,43 +1072,43 @@
     },
     {
       "source": "디시인사이드",
-      "title": "싱글벙글 요즘 헬창들의 올림피아 보디빌더 인식ㄷㄷ",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480981&_dcbest=1&page=1",
-      "score": 86.32,
-      "views": 23270,
-      "comments": 244
-    },
-    {
-      "source": "클리앙",
-      "title": "수십년전 호떡값을 치르고 있습니다",
-      "url": "https://www.clien.net/service/board/park/19297091?od=T31&po=0&category=0&groupCd=",
-      "score": 82.48,
-      "views": 2516,
-      "comments": 9
+      "title": "미주갤 글 불펌해서 돈벌던 유튜브 마술사 렉카 비상 ㄷㄷㄷㄷ",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481047&_dcbest=1&page=1",
+      "score": 87.36,
+      "views": 15561,
+      "comments": 226
     },
     {
       "source": "뽐뿌",
-      "title": "코스피 9천갈땐 이재명덕이라고 바이럴 해대더만",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10198757",
-      "score": 77.38,
-      "views": 3358,
-      "comments": 26
-    },
-    {
-      "source": "인벤",
-      "title": "하시모토 칸나 닮았다는 대학생",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2755403",
-      "score": 76.52,
-      "views": 3183,
-      "comments": 5
+      "title": "성년 된 이부진 사장 아들, 어머니 따라 '이(李)씨'로 바꿨다",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=news_economy&no=489785",
+      "score": 83.64,
+      "views": 10226,
+      "comments": 23
     },
     {
       "source": "더쿠",
-      "title": "오늘 케톡 온에어 달리면서 난리났던 런닝맨 명품지갑 사연.jpg",
-      "url": "https://theqoo.net/hot/4415001623",
-      "score": 73.74,
-      "views": 80269,
-      "comments": 901
+      "title": "\"지 애미가 더럽게 키워 구질구질\"…박지윤 카톡 본 최동석, 파경 도화선",
+      "url": "https://theqoo.net/hot/4415298790",
+      "score": 83.0,
+      "views": 17050,
+      "comments": 360
+    },
+    {
+      "source": "클리앙",
+      "title": "트럼프 “이란은...”…새해 공격 경고",
+      "url": "https://www.clien.net/service/board/park/19297220?od=T31&po=0&category=0&groupCd=",
+      "score": 80.0,
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "source": "인벤",
+      "title": "다들 각자의 사정이 있다",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2755457",
+      "score": 76.64,
+      "views": 1828,
+      "comments": 22
     }
   ]
 }

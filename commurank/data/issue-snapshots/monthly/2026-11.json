@@ -3,7 +3,7 @@
   "period": "monthly",
   "key": "2026-11",
   "label": "2026년 11월",
-  "collected_at": "2026-11-23T06:58:39.702323+09:00",
+  "collected_at": "2026-11-23T11:33:34.071432+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -525,6 +525,44 @@
       "change": 0
     },
     {
+      "id": "i5d6688ff",
+      "title": "‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "네이버페이"
+      ],
+      "source_count": 2,
+      "post_count": 5,
+      "score": 124.7,
+      "peak_score": 103.28,
+      "appearances": 11,
+      "sources": [
+        "루리웹",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 4,
+          "title": "[네이버페이] 일일적립, 클릭 179원, 라이브예고 17원",
+          "url": "https://bbs.ruliweb.com/market/board/1020/read/109282",
+          "score": 91.28
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 21,
+          "title": "[네이버페이] 벨킨 15원 받으세요",
+          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=121057",
+          "score": 71.26
+        }
+      ],
+      "first_seen": "2026-09-28T07:08:45.324597+09:00",
+      "last_seen": "2026-11-23T11:33:34.071432+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 5,
+      "rank": 13,
+      "change": 7
+    },
+    {
       "id": "ife021da2",
       "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -561,8 +599,8 @@
       "last_seen": "2026-11-22T10:35:09.859316+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 13,
-      "change": 0
+      "rank": 14,
+      "change": -1
     },
     {
       "id": "i7b918478",
@@ -601,8 +639,8 @@
       "last_seen": "2026-11-18T17:22:34.132008+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 14,
-      "change": 0
+      "rank": 15,
+      "change": -1
     },
     {
       "id": "i0cdcc665",
@@ -642,8 +680,8 @@
       "last_seen": "2026-11-16T05:19:20.784776+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 15,
-      "change": 0
+      "rank": 16,
+      "change": -1
     },
     {
       "id": "i2e26d9ac",
@@ -682,8 +720,8 @@
       "last_seen": "2026-11-08T03:15:20.371030+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 16,
-      "change": 0
+      "rank": 17,
+      "change": -1
     },
     {
       "id": "i5d031567",
@@ -729,8 +767,8 @@
       "last_seen": "2026-11-19T13:31:34.140481+09:00",
       "latest_source_count": 3,
       "latest_post_count": 6,
-      "rank": 17,
-      "change": 0
+      "rank": 18,
+      "change": -1
     },
     {
       "id": "i44a99ede",
@@ -775,8 +813,8 @@
       "last_seen": "2026-11-19T13:31:34.140481+09:00",
       "latest_source_count": 3,
       "latest_post_count": 3,
-      "rank": 18,
-      "change": 0
+      "rank": 19,
+      "change": -1
     },
     {
       "id": "i27245075",
@@ -815,46 +853,8 @@
       "last_seen": "2026-11-21T09:20:46.462008+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 19,
-      "change": 0
-    },
-    {
-      "id": "i5d6688ff",
-      "title": "‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "네이버페이"
-      ],
-      "source_count": 2,
-      "post_count": 4,
-      "score": 119.23,
-      "peak_score": 99.24,
-      "appearances": 10,
-      "sources": [
-        "루리웹",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 16,
-          "title": "[네이버페이] 라방 랜덤 5원",
-          "url": "https://bbs.ruliweb.com/market/board/1020/read/109124",
-          "score": 69.19
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 71,
-          "title": "[네이버페이] 선플을 응원해 20원 받으세요",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=120883",
-          "score": 56.78
-        }
-      ],
-      "first_seen": "2026-09-28T07:08:45.324597+09:00",
-      "last_seen": "2026-11-18T09:57:18.829124+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 20,
-      "change": 0
+      "change": -1
     }
   ]
 }
