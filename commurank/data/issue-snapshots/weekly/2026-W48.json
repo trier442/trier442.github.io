@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W48",
   "label": "2026.11.23 ~ 11.29",
-  "collected_at": "2026-11-23T11:57:15.870334+09:00",
+  "collected_at": "2026-11-23T20:11:48.711025+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -45,6 +45,44 @@
       "change": 0
     },
     {
+      "id": "i6fb7ee77",
+      "title": "‘마운자로’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "마운자로"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 113.89,
+      "peak_score": 103.42,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 3,
+          "title": "중국으로 마운자로 사러갔다가 갇힌 디시인.jpg",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77494082?m=humor",
+          "score": 93.42
+        },
+        {
+          "source": "인벤",
+          "rank": 14,
+          "title": "대마도 마운자로 부산 배편 근황.",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2755691",
+          "score": 68.7
+        }
+      ],
+      "first_seen": "2026-10-03T11:22:51.315192+09:00",
+      "last_seen": "2026-11-23T20:11:48.711025+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 3,
+      "rank": 2,
+      "change": "NEW"
+    },
+    {
       "id": "ic6b73da7",
       "title": "‘있어서’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -79,8 +117,8 @@
       "last_seen": "2026-11-23T01:52:59.165787+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 2,
-      "change": 0
+      "rank": 3,
+      "change": -1
     },
     {
       "id": "i2a188a14",
@@ -119,8 +157,8 @@
       "last_seen": "2026-11-23T11:57:15.870334+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 3,
-      "change": "NEW"
+      "rank": 4,
+      "change": -1
     },
     {
       "id": "iede65e87",
@@ -157,7 +195,7 @@
       "last_seen": "2026-11-23T11:57:15.870334+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 4,
+      "rank": 5,
       "change": -1
     },
     {
@@ -212,7 +250,128 @@
       "last_seen": "2026-11-23T11:57:15.870334+09:00",
       "latest_source_count": 3,
       "latest_post_count": 4,
-      "rank": 5,
+      "rank": 6,
+      "change": -1
+    },
+    {
+      "id": "i90b1e93c",
+      "title": "‘6개월’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "6개월"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 94.33,
+      "peak_score": 84.86,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 6,
+          "title": "[애플TV] 구독 55% 할인 프로모션 월 2,900원 6개월 할인 구독 가능",
+          "url": "https://bbs.ruliweb.com/market/board/1020/read/109290",
+          "score": 75.86
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 85,
+          "title": "140차례 방치하고 6개월 아기 굶겨 죽인 20대 부부 무기징역 구형",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481119&_dcbest=1&page=1",
+          "score": 55.2
+        }
+      ],
+      "first_seen": "2026-11-23T20:11:48.711025+09:00",
+      "last_seen": "2026-11-23T20:11:48.711025+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 7,
+      "change": "NEW"
+    },
+    {
+      "id": "id99cf9ee",
+      "title": "‘교육부’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "교육부"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 87.48,
+      "peak_score": 78.01,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 12,
+          "title": "교육부 장관 고민정?",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2755694",
+          "score": 69.01
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 50,
+          "title": "교육부 \"작년 수능 부정행위 전수조사 안한다\"",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481106&_dcbest=1&page=1",
+          "score": 60.82
+        }
+      ],
+      "first_seen": "2026-10-21T18:37:21.676761+09:00",
+      "last_seen": "2026-11-23T20:11:48.711025+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 8,
+      "change": "NEW"
+    },
+    {
+      "id": "i5c3b062a",
+      "title": "국정원장에 강금실... 외교 임웅순, 통일 홍익표, 행안 한준호, 문체 강유정",
+      "keywords": [
+        "국정원장에",
+        "통일",
+        "홍익표",
+        "행안",
+        "강금실",
+        "한준호",
+        "강유정",
+        "임웅순"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 86.21,
+      "peak_score": 76.74,
+      "appearances": 1,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 13,
+          "title": "국정원장에 강금실... 외교 임웅순, 통일 홍익표, 행안 한준호, 문체 강유정",
+          "url": "https://www.clien.net/service/board/park/19297481?od=T31&po=0&category=0&groupCd=",
+          "score": 68.74
+        },
+        {
+          "source": "인벤",
+          "rank": 94,
+          "title": "국정원장에 강금실... 외교 임웅순, 통일 홍익표, 행안 한준호, 문체 강유정",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2755693",
+          "score": 53.21
+        }
+      ],
+      "first_seen": "2026-11-23T20:11:48.711025+09:00",
+      "last_seen": "2026-11-23T20:11:48.711025+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 9,
       "change": "NEW"
     },
     {
@@ -251,8 +410,8 @@
       "last_seen": "2026-11-23T01:52:59.165787+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
-      "change": -2
+      "rank": 10,
+      "change": -4
     },
     {
       "id": "icdecc467",
@@ -289,8 +448,8 @@
       "last_seen": "2026-11-23T01:52:59.165787+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": -2
+      "rank": 11,
+      "change": -4
     },
     {
       "id": "ic9416f26",
@@ -328,8 +487,8 @@
       "last_seen": "2026-11-23T06:58:39.702323+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 8,
-      "change": -2
+      "rank": 12,
+      "change": -4
     },
     {
       "id": "i19b65cc7",
@@ -366,7 +525,45 @@
       "last_seen": "2026-11-23T11:57:15.870334+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 9,
+      "rank": 13,
+      "change": -4
+    },
+    {
+      "id": "i80bcfbe1",
+      "title": "‘못하는’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "못하는"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 83.53,
+      "peak_score": 74.06,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 29,
+          "title": "마라톤 때문에 출근을 못하는 의사",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2755703",
+          "score": 65.06
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 91,
+          "title": "공부 못하는 사람의 심정을 지금 천재들이 느끼고 있음",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481077&_dcbest=1&page=1",
+          "score": 54.53
+        }
+      ],
+      "first_seen": "2026-11-08T10:04:21.143578+09:00",
+      "last_seen": "2026-11-23T20:11:48.711025+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 14,
       "change": "NEW"
     },
     {
@@ -407,8 +604,8 @@
       "last_seen": "2026-11-23T11:57:15.870334+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 10,
-      "change": "NEW"
+      "rank": 15,
+      "change": -5
     },
     {
       "id": "icf32a6e1",
@@ -449,8 +646,8 @@
       "last_seen": "2026-11-23T01:52:59.165787+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 11,
-      "change": -4
+      "rank": 16,
+      "change": -5
     },
     {
       "id": "i91f13db9",
@@ -487,8 +684,8 @@
       "last_seen": "2026-11-23T11:57:15.870334+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 12,
-      "change": -4
+      "rank": 17,
+      "change": -5
     },
     {
       "id": "i5781c296",
@@ -525,8 +722,8 @@
       "last_seen": "2026-11-23T01:25:27.602370+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 13,
-      "change": -4
+      "rank": 18,
+      "change": -5
     },
     {
       "id": "i29f25407",
@@ -563,8 +760,8 @@
       "last_seen": "2026-11-23T01:25:27.602370+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 14,
-      "change": -4
+      "rank": 19,
+      "change": -5
     }
   ]
 }

@@ -2,19 +2,19 @@
   "version": 1,
   "date": "2026-11-23",
   "label": "2026년 11월 23일",
-  "collected_at": "2026-11-23T11:57:15.870334+09:00",
+  "collected_at": "2026-11-23T20:11:48.711025+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #아들. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘‘네이버페이’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #한준호. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
     "ok_sources": 6,
     "cached_sources": 0,
     "realtime_posts": 100,
     "daily_posts": 100,
-    "daily_issues": 14,
-    "keywords": 14,
-    "top100_views": 1037012,
-    "top100_comments": 9550
+    "daily_issues": 19,
+    "keywords": 15,
+    "top100_views": 955942,
+    "top100_comments": 12158
   },
   "highlights": [
     {
@@ -25,18 +25,36 @@
     },
     {
       "type": "post",
-      "title": "진주만 폭격 당시 일본의 전략",
+      "title": "닭공장에서 일하는 사람입니다",
       "text": "루리웹에서 현재 상위권에 오른 인기글입니다.",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77480387?m=humor"
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77491717?m=humor"
     },
     {
       "type": "keyword",
-      "title": "#아들",
+      "title": "#한준호",
       "text": "3개 커뮤니티 · 5개 인기글에서 함께 등장했습니다.",
-      "keyword": "아들"
+      "keyword": "한준호"
     }
   ],
   "top_posts": [
+    {
+      "title": "닭공장에서 일하는 사람입니다",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77491717?m=humor",
+      "first_seen": "2026-11-23T20:11:48.711025+09:00",
+      "last_seen": "2026-11-23T20:11:48.711025+09:00",
+      "peak_score": 99.38,
+      "max_views": 34873,
+      "max_likes": 242,
+      "max_comments": 94,
+      "appearances": 1,
+      "score": 108.77,
+      "views": 34873,
+      "likes": 242,
+      "comments": 94,
+      "change": "NEW"
+    },
     {
       "title": "진주만 폭격 당시 일본의 전략",
       "source": "루리웹",
@@ -49,11 +67,11 @@
       "max_likes": 102,
       "max_comments": 69,
       "appearances": 3,
-      "score": 107.61,
+      "score": 106.92,
       "views": 17631,
       "likes": 102,
       "comments": 69,
-      "change": 0
+      "change": -1
     },
     {
       "title": "나를 도울 수 있는 '권리'는 여성들만이 갖는다",
@@ -67,11 +85,11 @@
       "max_likes": 77,
       "max_comments": 53,
       "appearances": 2,
-      "score": 107.45,
+      "score": 106.77,
       "views": 11415,
       "likes": 77,
       "comments": 53,
-      "change": 0
+      "change": -1
     },
     {
       "title": "학폭 기록 때문에 수시 전부 떨어진 아들",
@@ -85,11 +103,11 @@
       "max_likes": 117,
       "max_comments": 88,
       "appearances": 1,
-      "score": 106.89,
+      "score": 106.2,
       "views": 14792,
       "likes": 117,
       "comments": 88,
-      "change": "NEW"
+      "change": -1
     },
     {
       "title": "요즘 스피어 걸 콜하는 비용",
@@ -103,7 +121,7 @@
       "max_likes": 88,
       "max_comments": 37,
       "appearances": 2,
-      "score": 106.35,
+      "score": 105.67,
       "views": 17072,
       "likes": 88,
       "comments": 37,
@@ -121,7 +139,7 @@
       "max_likes": 188,
       "max_comments": 66,
       "appearances": 1,
-      "score": 106.26,
+      "score": 105.57,
       "views": 28283,
       "likes": 188,
       "comments": 66,
@@ -139,11 +157,11 @@
       "max_likes": 197,
       "max_comments": 88,
       "appearances": 1,
-      "score": 106.2,
+      "score": 105.51,
       "views": 17897,
       "likes": 197,
       "comments": 88,
-      "change": "NEW"
+      "change": -1
     },
     {
       "title": "한전 유출됐다길래 뭐 얼마나 털렸겠어 했더니....",
@@ -157,11 +175,11 @@
       "max_likes": 203,
       "max_comments": 80,
       "appearances": 1,
-      "score": 105.99,
+      "score": 105.3,
       "views": 37910,
       "likes": 203,
       "comments": 80,
-      "change": -2
+      "change": -1
     },
     {
       "title": "재택근무의 장단점이 뭐야?",
@@ -175,159 +193,41 @@
       "max_likes": 159,
       "max_comments": 62,
       "appearances": 3,
-      "score": 105.67,
+      "score": 104.98,
       "views": 21859,
       "likes": 159,
       "comments": 62,
-      "change": -2
+      "change": -1
     },
     {
-      "title": "일본 중식당의 장점.jpg",
+      "title": "재단 유해정보대응팀에서 삭제 요청이 들어왔습니다.",
       "source": "루리웹",
       "category": "이슈",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77480465?m=humor",
-      "first_seen": "2026-11-22T17:10:05.582781+09:00",
-      "last_seen": "2026-11-23T01:25:27.602370+09:00",
-      "peak_score": 93.84,
-      "max_views": 23908,
-      "max_likes": 95,
-      "max_comments": 68,
-      "appearances": 3,
-      "score": 103.74,
-      "views": 23908,
-      "likes": 95,
-      "comments": 68,
-      "change": -2
-    },
-    {
-      "title": "일본 시골 경찰이 한국 여행객 잡은",
-      "source": "루리웹",
-      "category": "스포츠",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77487854?m=humor",
-      "first_seen": "2026-11-23T06:58:39.702323+09:00",
-      "last_seen": "2026-11-23T11:33:34.071432+09:00",
-      "peak_score": 93.21,
-      "max_views": 16164,
-      "max_likes": 53,
-      "max_comments": 44,
-      "appearances": 2,
-      "score": 103.37,
-      "views": 16164,
-      "likes": 53,
-      "comments": 44,
-      "change": -2
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77493671?m=humor",
+      "first_seen": "2026-11-23T20:11:48.711025+09:00",
+      "last_seen": "2026-11-23T20:11:48.711025+09:00",
+      "peak_score": 95.36,
+      "max_views": 13384,
+      "max_likes": 210,
+      "max_comments": 79,
+      "appearances": 1,
+      "score": 104.75,
+      "views": 13384,
+      "likes": 210,
+      "comments": 79,
+      "change": "NEW"
     }
   ],
   "rising": [
     {
-      "source": "클리앙",
-      "title": "코스닥 3000 ?",
-      "url": "https://www.clien.net/service/board/park/19297218?od=T31&po=0&category=0&groupCd=",
-      "category": "이슈",
-      "views": 1346,
-      "likes": 3,
-      "comments": 8,
-      "score": 52.32,
-      "change": 0,
-      "current_rank": 96,
-      "new_entry": false,
-      "delta_views": 1279,
-      "delta_likes": 3,
-      "delta_comments": 7,
-      "rank_gain": 0,
-      "rising_score": 100.0,
-      "rising_rank": 1,
-      "window_minutes": 24
-    },
-    {
-      "source": "디시인사이드",
-      "title": "방금 차였음.. ㅜㅜ",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481058&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 9887,
-      "likes": 92,
-      "comments": 82,
-      "score": 74.83,
-      "change": 21,
-      "current_rank": 13,
-      "new_entry": false,
-      "delta_views": 3560,
-      "delta_likes": 46,
-      "delta_comments": 57,
-      "rank_gain": 21,
-      "rising_score": 94.01,
-      "rising_rank": 2,
-      "window_minutes": 24
-    },
-    {
-      "source": "디시인사이드",
-      "title": "와 이거 진짜 존나 찐따같다 ㅇㅅㅇ",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481056&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 5960,
-      "likes": 85,
-      "comments": 244,
-      "score": 78.21,
-      "change": 18,
-      "current_rank": 9,
-      "new_entry": false,
-      "delta_views": 3792,
-      "delta_likes": 22,
-      "delta_comments": 169,
-      "rank_gain": 18,
-      "rising_score": 91.4,
-      "rising_rank": 3,
-      "window_minutes": 24
-    },
-    {
-      "source": "인벤",
-      "title": "ㅇㅎ) 여배우 때문에 망했다는 고전 공포 영화",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2755456",
-      "category": "연예",
-      "views": 4338,
-      "likes": 1,
-      "comments": 26,
-      "score": 56.7,
-      "change": 0,
-      "current_rank": 79,
-      "new_entry": false,
-      "delta_views": 1285,
-      "delta_likes": 0,
-      "delta_comments": 5,
-      "rank_gain": 0,
-      "rising_score": 90.24,
-      "rising_rank": 4,
-      "window_minutes": 24
-    },
-    {
-      "source": "더쿠",
-      "title": "\"지 애미가 더럽게 키워 구질구질\"…박지윤 카톡 본 최동석, 파경 도화선",
-      "url": "https://theqoo.net/hot/4415298790",
-      "category": "이슈",
-      "views": 28640,
-      "likes": 0,
-      "comments": 499,
-      "score": 86.84,
-      "change": 2,
-      "current_rank": 5,
-      "new_entry": false,
-      "delta_views": 11590,
-      "delta_likes": 0,
-      "delta_comments": 139,
-      "rank_gain": 2,
-      "rising_score": 85.0,
-      "rising_rank": 5,
-      "window_minutes": 24
-    },
-    {
       "source": "루리웹",
-      "title": "학폭 기록 때문에 수시 전부 떨어진 아들",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77489477?m=humor",
+      "title": "닭공장에서 일하는 사람입니다",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77491717?m=humor",
       "category": "이슈",
-      "views": 14792,
-      "likes": 117,
-      "comments": 88,
-      "score": 97.5,
+      "views": 34873,
+      "likes": 242,
+      "comments": 94,
+      "score": 99.38,
       "change": "NEW",
       "current_rank": 1,
       "new_entry": true,
@@ -335,19 +235,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.95,
-      "rising_rank": 6,
-      "window_minutes": 24
+      "rising_score": 83.74,
+      "rising_rank": 1,
+      "window_minutes": 495
     },
     {
       "source": "루리웹",
-      "title": "지스타 끝나니 어김없이 나오네",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77489425?m=humor",
+      "title": "재단 유해정보대응팀에서 삭제 요청이 들어왔습니다.",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77493671?m=humor",
       "category": "이슈",
-      "views": 17897,
-      "likes": 197,
-      "comments": 88,
-      "score": 96.81,
+      "views": 13384,
+      "likes": 210,
+      "comments": 79,
+      "score": 95.36,
       "change": "NEW",
       "current_rank": 2,
       "new_entry": true,
@@ -355,59 +255,19 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 82.66,
-      "rising_rank": 7,
-      "window_minutes": 24
-    },
-    {
-      "source": "디시인사이드",
-      "title": "싱글벙글 마라톤 때문에 특히 더 피해 보는 어르신들",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481052&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 13756,
-      "likes": 107,
-      "comments": 214,
-      "score": 81.83,
-      "change": 7,
-      "current_rank": 7,
-      "new_entry": false,
-      "delta_views": 2174,
-      "delta_likes": 28,
-      "delta_comments": 63,
-      "rank_gain": 7,
-      "rising_score": 82.48,
-      "rising_rank": 8,
-      "window_minutes": 24
-    },
-    {
-      "source": "디시인사이드",
-      "title": "결국 약속을 지켰다는.. 리센느 원이 ..jpg",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481051&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 6253,
-      "likes": 53,
-      "comments": 145,
-      "score": 67.38,
-      "change": 14,
-      "current_rank": 32,
-      "new_entry": false,
-      "delta_views": 2594,
-      "delta_likes": 16,
-      "delta_comments": 46,
-      "rank_gain": 14,
-      "rising_score": 82.25,
-      "rising_rank": 9,
-      "window_minutes": 24
+      "rising_score": 82.05,
+      "rising_rank": 2,
+      "window_minutes": 495
     },
     {
       "source": "루리웹",
-      "title": "엑셀방송으로 유명한 커맨드지코 근황.jpg",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77489260?m=humor",
-      "category": "연예",
-      "views": 19186,
-      "likes": 122,
-      "comments": 68,
-      "score": 93.84,
+      "title": "중국으로 마운자로 사러갔다가 갇힌 디시인.jpg",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77494082?m=humor",
+      "category": "이슈",
+      "views": 13817,
+      "likes": 115,
+      "comments": 80,
+      "score": 93.42,
       "change": "NEW",
       "current_rank": 3,
       "new_entry": true,
@@ -415,9 +275,149 @@
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 81.41,
+      "rising_score": 81.24,
+      "rising_rank": 3,
+      "window_minutes": 495
+    },
+    {
+      "source": "뽐뿌",
+      "title": "능력이고뭐고 나랑 친한애들 무한돌려막기",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10199427",
+      "category": "이슈",
+      "views": 5755,
+      "likes": 42,
+      "comments": 21,
+      "score": 79.58,
+      "change": "NEW",
+      "current_rank": 4,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 75.42,
+      "rising_rank": 4,
+      "window_minutes": 495
+    },
+    {
+      "source": "뽐뿌",
+      "title": "청담 르엘 배달 거부사태.jpg",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10199444",
+      "category": "이슈",
+      "views": 23437,
+      "likes": 4,
+      "comments": 114,
+      "score": 79.44,
+      "change": "NEW",
+      "current_rank": 5,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 75.36,
+      "rising_rank": 5,
+      "window_minutes": 495
+    },
+    {
+      "source": "루리웹",
+      "title": "[애플TV] 구독 55% 할인 프로모션 월 2,900원 6개월 할인 구독 가능",
+      "url": "https://bbs.ruliweb.com/market/board/1020/read/109290",
+      "category": "이슈",
+      "views": 7823,
+      "likes": 8,
+      "comments": 20,
+      "score": 75.86,
+      "change": "NEW",
+      "current_rank": 6,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 73.86,
+      "rising_rank": 6,
+      "window_minutes": 495
+    },
+    {
+      "source": "인벤",
+      "title": "절친과 3P했다는 처자",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2755689",
+      "category": "이슈",
+      "views": 3910,
+      "likes": 0,
+      "comments": 15,
+      "score": 75.72,
+      "change": "NEW",
+      "current_rank": 7,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 73.8,
+      "rising_rank": 7,
+      "window_minutes": 495
+    },
+    {
+      "source": "더쿠",
+      "title": "40대 이상 금지 목록",
+      "url": "https://theqoo.net/hot/4415711732",
+      "category": "이슈",
+      "views": 43985,
+      "likes": 0,
+      "comments": 631,
+      "score": 74.37,
+      "change": "NEW",
+      "current_rank": 8,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 73.24,
+      "rising_rank": 8,
+      "window_minutes": 495
+    },
+    {
+      "source": "인벤",
+      "title": "학폭 기록 때문에 수시 전부 떨어진 아들",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2755690",
+      "category": "이슈",
+      "views": 1687,
+      "likes": 3,
+      "comments": 26,
+      "score": 74.11,
+      "change": "NEW",
+      "current_rank": 9,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 73.13,
+      "rising_rank": 9,
+      "window_minutes": 495
+    },
+    {
+      "source": "디시인사이드",
+      "title": "오늘 자 이강인, 쇠를로트 조합...gif",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481125&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 8275,
+      "likes": 236,
+      "comments": 79,
+      "score": 71.46,
+      "change": "NEW",
+      "current_rank": 10,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 72.01,
       "rising_rank": 10,
-      "window_minutes": 24
+      "window_minutes": 495
     }
   ],
   "issues": [
@@ -460,6 +460,44 @@
       "change": 0
     },
     {
+      "id": "i6fb7ee77",
+      "title": "‘마운자로’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "마운자로"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 113.89,
+      "peak_score": 103.42,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 3,
+          "title": "중국으로 마운자로 사러갔다가 갇힌 디시인.jpg",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77494082?m=humor",
+          "score": 93.42
+        },
+        {
+          "source": "인벤",
+          "rank": 14,
+          "title": "대마도 마운자로 부산 배편 근황.",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2755691",
+          "score": 68.7
+        }
+      ],
+      "first_seen": "2026-10-03T11:22:51.315192+09:00",
+      "last_seen": "2026-11-23T20:11:48.711025+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 3,
+      "rank": 2,
+      "change": "NEW"
+    },
+    {
       "id": "ic6b73da7",
       "title": "‘있어서’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -494,8 +532,8 @@
       "last_seen": "2026-11-23T01:52:59.165787+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 2,
-      "change": 0
+      "rank": 3,
+      "change": -1
     },
     {
       "id": "i2a188a14",
@@ -534,8 +572,8 @@
       "last_seen": "2026-11-23T11:57:15.870334+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 3,
-      "change": "NEW"
+      "rank": 4,
+      "change": -1
     },
     {
       "id": "iede65e87",
@@ -572,7 +610,7 @@
       "last_seen": "2026-11-23T11:57:15.870334+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 4,
+      "rank": 5,
       "change": -1
     },
     {
@@ -627,7 +665,128 @@
       "last_seen": "2026-11-23T11:57:15.870334+09:00",
       "latest_source_count": 3,
       "latest_post_count": 4,
-      "rank": 5,
+      "rank": 6,
+      "change": -1
+    },
+    {
+      "id": "i90b1e93c",
+      "title": "‘6개월’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "6개월"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 94.33,
+      "peak_score": 84.86,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "루리웹"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 6,
+          "title": "[애플TV] 구독 55% 할인 프로모션 월 2,900원 6개월 할인 구독 가능",
+          "url": "https://bbs.ruliweb.com/market/board/1020/read/109290",
+          "score": 75.86
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 85,
+          "title": "140차례 방치하고 6개월 아기 굶겨 죽인 20대 부부 무기징역 구형",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481119&_dcbest=1&page=1",
+          "score": 55.2
+        }
+      ],
+      "first_seen": "2026-11-23T20:11:48.711025+09:00",
+      "last_seen": "2026-11-23T20:11:48.711025+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 7,
+      "change": "NEW"
+    },
+    {
+      "id": "id99cf9ee",
+      "title": "‘교육부’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "교육부"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 87.48,
+      "peak_score": 78.01,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 12,
+          "title": "교육부 장관 고민정?",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2755694",
+          "score": 69.01
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 50,
+          "title": "교육부 \"작년 수능 부정행위 전수조사 안한다\"",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481106&_dcbest=1&page=1",
+          "score": 60.82
+        }
+      ],
+      "first_seen": "2026-10-21T18:37:21.676761+09:00",
+      "last_seen": "2026-11-23T20:11:48.711025+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 8,
+      "change": "NEW"
+    },
+    {
+      "id": "i5c3b062a",
+      "title": "국정원장에 강금실... 외교 임웅순, 통일 홍익표, 행안 한준호, 문체 강유정",
+      "keywords": [
+        "국정원장에",
+        "통일",
+        "홍익표",
+        "행안",
+        "강금실",
+        "한준호",
+        "강유정",
+        "임웅순"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 86.21,
+      "peak_score": 76.74,
+      "appearances": 1,
+      "sources": [
+        "인벤",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 13,
+          "title": "국정원장에 강금실... 외교 임웅순, 통일 홍익표, 행안 한준호, 문체 강유정",
+          "url": "https://www.clien.net/service/board/park/19297481?od=T31&po=0&category=0&groupCd=",
+          "score": 68.74
+        },
+        {
+          "source": "인벤",
+          "rank": 94,
+          "title": "국정원장에 강금실... 외교 임웅순, 통일 홍익표, 행안 한준호, 문체 강유정",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2755693",
+          "score": 53.21
+        }
+      ],
+      "first_seen": "2026-11-23T20:11:48.711025+09:00",
+      "last_seen": "2026-11-23T20:11:48.711025+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 9,
       "change": "NEW"
     },
     {
@@ -666,335 +825,130 @@
       "last_seen": "2026-11-23T01:52:59.165787+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
-      "change": -2
-    },
-    {
-      "id": "icdecc467",
-      "title": "‘v15’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "v15"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 85.1,
-      "peak_score": 75.63,
-      "appearances": 1,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 26,
-          "title": "미국 배포중인 테슬라 FSD v15 근황",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2755370",
-          "score": 66.63
-        },
-        {
-          "source": "클리앙",
-          "rank": 34,
-          "title": "컴퓨터의 세계는 신기합니다. (테슬라 v15)",
-          "url": "https://www.clien.net/service/board/park/19297074?od=T31&po=0&category=0&groupCd=",
-          "score": 63.53
-        }
-      ],
-      "first_seen": "2026-11-23T01:52:59.165787+09:00",
-      "last_seen": "2026-11-23T01:52:59.165787+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 7,
-      "change": -2
-    },
-    {
-      "id": "ic9416f26",
-      "title": "봉지에 몇겹이나 묶인채 발견된 새끼 냥이들 ㄷㄷ",
-      "keywords": [
-        "발견된",
-        "묶인채"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 85.05,
-      "peak_score": 75.58,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "루리웹"
-      ],
-      "posts": [
-        {
-          "source": "루리웹",
-          "rank": 30,
-          "title": "봉지에 몇겹이나 묶인채 발견된 새끼 냥이들 ㄷㄷ",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77488043?m=humor_only&t=now",
-          "score": 67.58
-        },
-        {
-          "source": "더쿠",
-          "rank": 81,
-          "title": "제주 동문시장, 검은봉투 여러겹에 묶인채 발견된 새끼고양이들",
-          "url": "https://theqoo.net/hot/4415010047",
-          "score": 53.89
-        }
-      ],
-      "first_seen": "2026-11-23T06:58:39.702323+09:00",
-      "last_seen": "2026-11-23T06:58:39.702323+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 8,
-      "change": -2
-    },
-    {
-      "id": "i19b65cc7",
-      "title": "‘수험생’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "수험생"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 84.96,
-      "peak_score": 75.49,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 34,
-          "title": "발열조끼 입은 수험생 퇴실조치 당했다",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10198605",
-          "score": 66.49
-        },
-        {
-          "source": "더쿠",
-          "rank": 45,
-          "title": "아빠가 입혀준 발열 조끼 탓 퇴실당한 수험생…\"감독 선생님들도 울먹\"",
-          "url": "https://theqoo.net/hot/4415294708",
-          "score": 63.68
-        }
-      ],
-      "first_seen": "2026-11-23T11:57:15.870334+09:00",
-      "last_seen": "2026-11-23T11:57:15.870334+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 9,
-      "change": "NEW"
-    },
-    {
-      "id": "ib02598ad",
-      "title": "속보) 코스피 급락에 2거래일 연속 매도 사이드카 발동",
-      "keywords": [
-        "발동",
-        "코스피",
-        "사이드카",
-        "매도"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 82.24,
-      "peak_score": 72.77,
-      "appearances": 1,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "클리앙",
-          "rank": 40,
-          "title": "속보) 코스피 급락에 2거래일 연속 매도 사이드카 발동",
-          "url": "https://www.clien.net/service/board/park/19297223?od=T31&po=0&category=0&groupCd=",
-          "score": 64.77
-        },
-        {
-          "source": "인벤",
-          "rank": 50,
-          "title": "[속보] 코스피, 美한파에 5%대 급락…매도 사이드카 발동",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2755482",
-          "score": 63.26
-        }
-      ],
-      "first_seen": "2026-11-23T11:57:15.870334+09:00",
-      "last_seen": "2026-11-23T11:57:15.870334+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 10,
-      "change": "NEW"
+      "change": -4
     }
   ],
   "realtime_issues": [
     {
-      "id": "ia55fd960",
-      "title": "이부진 아들, 엄마 성으로 바꿨다…임씨에서 이씨로",
+      "id": "i6fb7ee77",
+      "title": "‘마운자로’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "아들",
-        "이부진",
-        "사장"
+        "마운자로"
       ],
-      "source_count": 3,
-      "post_count": 4,
-      "score": 82.21,
-      "peak_score": 82.21,
+      "source_count": 2,
+      "post_count": 3,
+      "score": 103.42,
+      "peak_score": 103.42,
       "appearances": 1,
       "sources": [
-        "더쿠",
         "루리웹",
-        "뽐뿌"
+        "인벤"
       ],
       "posts": [
         {
-          "source": "더쿠",
-          "rank": 15,
-          "title": "이부진 아들, 엄마 성으로 바꿨다…임씨에서 이씨로",
-          "url": "https://theqoo.net/hot/4415234395",
-          "score": 74.21
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 83,
-          "title": "이부진 아들 성 바꿨다고 하네요",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10198892",
-          "score": 56.25
-        },
-        {
-          "source": "뽐뿌",
-          "rank": 49,
-          "title": "성년 된 이부진 사장 아들, 어머니 따라 '이(李)씨'로 바꿨다",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=news_economy&no=489785",
-          "score": 63.38
-        },
-        {
           "source": "루리웹",
-          "rank": 85,
-          "title": "성인되자 성전환한 이부진 사장 아들",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77490092?m=humor_only&t=now",
-          "score": 56.18
+          "rank": 3,
+          "title": "중국으로 마운자로 사러갔다가 갇힌 디시인.jpg",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77494082?m=humor",
+          "score": 93.42
+        },
+        {
+          "source": "인벤",
+          "rank": 14,
+          "title": "대마도 마운자로 부산 배편 근황.",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2755691",
+          "score": 68.7
         }
       ],
       "rank": 1,
       "change": "NEW"
     },
     {
-      "id": "i2a188a14",
-      "title": "\"지 애미가 더럽게 키워 구질구질\"…박지윤 카톡 본 최동석, 파경 도화선",
+      "id": "i90b1e93c",
+      "title": "‘6개월’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "박지윤",
-        "카톡",
-        "최동석"
+        "6개월"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 94.84,
-      "peak_score": 94.84,
+      "score": 84.86,
+      "peak_score": 84.86,
       "appearances": 1,
       "sources": [
-        "더쿠",
-        "뽐뿌"
+        "디시인사이드",
+        "루리웹"
       ],
       "posts": [
         {
-          "source": "더쿠",
-          "rank": 5,
-          "title": "\"지 애미가 더럽게 키워 구질구질\"…박지윤 카톡 본 최동석, 파경 도화선",
-          "url": "https://theqoo.net/hot/4415298790",
-          "score": 86.84
+          "source": "루리웹",
+          "rank": 6,
+          "title": "[애플TV] 구독 55% 할인 프로모션 월 2,900원 6개월 할인 구독 가능",
+          "url": "https://bbs.ruliweb.com/market/board/1020/read/109290",
+          "score": 75.86
         },
         {
-          "source": "뽐뿌",
-          "rank": 18,
-          "title": "최동석 박지윤 파경의 도화선이 된 박지윤 카톡 ㄷ.jpg",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10198995",
-          "score": 70.87
+          "source": "디시인사이드",
+          "rank": 85,
+          "title": "140차례 방치하고 6개월 아기 굶겨 죽인 20대 부부 무기징역 구형",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481119&_dcbest=1&page=1",
+          "score": 55.2
         }
       ],
       "rank": 2,
       "change": "NEW"
     },
     {
-      "id": "iede65e87",
-      "title": "‘바꿨다’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "id99cf9ee",
+      "title": "‘교육부’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
-        "바꿨다"
+        "교육부"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 83.21,
-      "peak_score": 83.21,
+      "score": 78.01,
+      "peak_score": 78.01,
       "appearances": 1,
       "sources": [
-        "더쿠",
-        "뽐뿌"
+        "디시인사이드",
+        "인벤"
       ],
       "posts": [
         {
-          "source": "더쿠",
-          "rank": 15,
-          "title": "이부진 아들, 엄마 성으로 바꿨다…임씨에서 이씨로",
-          "url": "https://theqoo.net/hot/4415234395",
-          "score": 74.21
+          "source": "인벤",
+          "rank": 12,
+          "title": "교육부 장관 고민정?",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2755694",
+          "score": 69.01
         },
         {
-          "source": "뽐뿌",
-          "rank": 49,
-          "title": "성년 된 이부진 사장 아들, 어머니 따라 '이(李)씨'로 바꿨다",
-          "url": "https://www.ppomppu.co.kr/zboard/view.php?id=news_economy&no=489785",
-          "score": 63.38
+          "source": "디시인사이드",
+          "rank": 50,
+          "title": "교육부 \"작년 수능 부정행위 전수조사 안한다\"",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481106&_dcbest=1&page=1",
+          "score": 60.82
         }
       ],
       "rank": 3,
-      "change": -1
-    },
-    {
-      "id": "i19b65cc7",
-      "title": "‘수험생’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "수험생"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 75.49,
-      "peak_score": 75.49,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "뽐뿌"
-      ],
-      "posts": [
-        {
-          "source": "뽐뿌",
-          "rank": 34,
-          "title": "발열조끼 입은 수험생 퇴실조치 당했다",
-          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10198605",
-          "score": 66.49
-        },
-        {
-          "source": "더쿠",
-          "rank": 45,
-          "title": "아빠가 입혀준 발열 조끼 탓 퇴실당한 수험생…\"감독 선생님들도 울먹\"",
-          "url": "https://theqoo.net/hot/4415294708",
-          "score": 63.68
-        }
-      ],
-      "rank": 4,
       "change": "NEW"
     },
     {
-      "id": "ib02598ad",
-      "title": "속보) 코스피 급락에 2거래일 연속 매도 사이드카 발동",
+      "id": "i5c3b062a",
+      "title": "국정원장에 강금실... 외교 임웅순, 통일 홍익표, 행안 한준호, 문체 강유정",
       "keywords": [
-        "발동",
-        "코스피",
-        "사이드카",
-        "매도"
+        "국정원장에",
+        "통일",
+        "홍익표",
+        "행안",
+        "강금실",
+        "한준호",
+        "강유정",
+        "임웅순"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 72.77,
-      "peak_score": 72.77,
+      "score": 76.74,
+      "peak_score": 76.74,
       "appearances": 1,
       "sources": [
         "인벤",
@@ -1003,316 +957,325 @@
       "posts": [
         {
           "source": "클리앙",
-          "rank": 40,
-          "title": "속보) 코스피 급락에 2거래일 연속 매도 사이드카 발동",
-          "url": "https://www.clien.net/service/board/park/19297223?od=T31&po=0&category=0&groupCd=",
-          "score": 64.77
+          "rank": 13,
+          "title": "국정원장에 강금실... 외교 임웅순, 통일 홍익표, 행안 한준호, 문체 강유정",
+          "url": "https://www.clien.net/service/board/park/19297481?od=T31&po=0&category=0&groupCd=",
+          "score": 68.74
         },
         {
           "source": "인벤",
-          "rank": 50,
-          "title": "[속보] 코스피, 美한파에 5%대 급락…매도 사이드카 발동",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2755482",
-          "score": 63.26
+          "rank": 94,
+          "title": "국정원장에 강금실... 외교 임웅순, 통일 홍익표, 행안 한준호, 문체 강유정",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2755693",
+          "score": 53.21
+        }
+      ],
+      "rank": 4,
+      "change": "NEW"
+    },
+    {
+      "id": "i80bcfbe1",
+      "title": "‘못하는’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "못하는"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 74.06,
+      "peak_score": 74.06,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 29,
+          "title": "마라톤 때문에 출근을 못하는 의사",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2755703",
+          "score": 65.06
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 91,
+          "title": "공부 못하는 사람의 심정을 지금 천재들이 느끼고 있음",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481077&_dcbest=1&page=1",
+          "score": 54.53
         }
       ],
       "rank": 5,
       "change": "NEW"
-    },
-    {
-      "id": "i91f13db9",
-      "title": "‘gta6’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "gta6"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 66.13,
-      "peak_score": 66.13,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "루리웹"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 76,
-          "title": "GTA6 사용자 데이터 유출 논란 뭐노ㅋㅋㅋㅋ",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480993&_dcbest=1&page=1",
-          "score": 57.13
-        },
-        {
-          "source": "루리웹",
-          "rank": 81,
-          "title": "GTA6 다양성 여캐들 확실하네",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77490115?m=humor_only&t=now",
-          "score": 56.51
-        }
-      ],
-      "rank": 6,
-      "change": -3
     }
   ],
   "keywords": [
     {
-      "keyword": "아들",
-      "score": 140.17,
+      "keyword": "한준호",
+      "score": 131.05,
       "post_count": 5,
       "source_count": 3,
-      "best_rank": 1,
+      "best_rank": 13,
       "sources": [
-        "더쿠",
-        "루리웹",
-        "뽐뿌"
+        "뽐뿌",
+        "인벤",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 1,
       "change": "NEW"
     },
     {
-      "keyword": "ai",
-      "score": 129.74,
-      "post_count": 4,
-      "source_count": 3,
-      "best_rank": 11,
+      "keyword": "마운자로",
+      "score": 108.75,
+      "post_count": 3,
+      "source_count": 2,
+      "best_rank": 3,
       "sources": [
-        "더쿠",
-        "뽐뿌",
+        "루리웹",
         "인벤"
       ],
       "aliases": [],
       "rank": 2,
-      "change": 5
+      "change": "NEW"
     },
     {
-      "keyword": "이부진",
-      "score": 123.57,
-      "post_count": 4,
-      "source_count": 3,
-      "best_rank": 15,
-      "sources": [
-        "더쿠",
-        "루리웹",
-        "뽐뿌"
-      ],
-      "aliases": [],
-      "rank": 3,
-      "change": 0
-    },
-    {
-      "keyword": "박지윤",
-      "score": 109.9,
-      "post_count": 3,
+      "keyword": "중국",
+      "score": 102.87,
+      "post_count": 2,
       "source_count": 2,
-      "best_rank": 5,
+      "best_rank": 3,
       "sources": [
-        "더쿠",
-        "뽐뿌"
+        "디시인사이드",
+        "루리웹"
       ],
       "aliases": [
-        "최동석"
+        "갇힌"
       ],
+      "rank": 3,
+      "change": "NEW"
+    },
+    {
+      "keyword": "마라톤",
+      "score": 100.83,
+      "post_count": 3,
+      "source_count": 2,
+      "best_rank": 21,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "aliases": [],
       "rank": 4,
       "change": "NEW"
     },
     {
-      "keyword": "도화선",
-      "score": 106.81,
+      "keyword": "장관",
+      "score": 99.9,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 5,
+      "best_rank": 12,
       "sources": [
-        "더쿠",
-        "뽐뿌"
+        "인벤",
+        "클리앙"
       ],
-      "aliases": [
-        "카톡",
-        "파경"
-      ],
+      "aliases": [],
       "rank": 5,
       "change": "NEW"
     },
     {
-      "keyword": "바꿨다",
-      "score": 95.57,
+      "keyword": "교육부",
+      "score": 95.78,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 15,
+      "best_rank": 12,
       "sources": [
-        "더쿠",
-        "뽐뿌"
+        "디시인사이드",
+        "인벤"
       ],
       "aliases": [],
       "rank": 6,
       "change": "NEW"
     },
     {
-      "keyword": "존나",
-      "score": 93.75,
+      "keyword": "6개월",
+      "score": 94.57,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 9,
+      "best_rank": 6,
       "sources": [
         "디시인사이드",
-        "뽐뿌"
+        "루리웹"
       ],
       "aliases": [],
       "rank": 7,
-      "change": -6
+      "change": "NEW"
     },
     {
-      "keyword": "수험생",
-      "score": 90.98,
+      "keyword": "경찰",
+      "score": 93.18,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 34,
+      "best_rank": 21,
       "sources": [
-        "더쿠",
-        "뽐뿌"
+        "뽐뿌",
+        "인벤"
       ],
       "aliases": [],
       "rank": 8,
       "change": "NEW"
     },
     {
-      "keyword": "사이드카",
-      "score": 89.36,
+      "keyword": "ai",
+      "score": 89.44,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 40,
+      "best_rank": 32,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 9,
+      "change": -7
+    },
+    {
+      "keyword": "현장",
+      "score": 88.96,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 39,
+      "sources": [
+        "루리웹",
+        "뽐뿌"
+      ],
+      "aliases": [],
+      "rank": 10,
+      "change": "NEW"
+    },
+    {
+      "keyword": "국정원장",
+      "score": 88.92,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 13,
       "sources": [
         "인벤",
         "클리앙"
       ],
       "aliases": [
-        "급락",
-        "매도",
-        "발동",
-        "코스피"
+        "강금실",
+        "강유정",
+        "문체",
+        "외교",
+        "임웅순"
       ],
-      "rank": 9,
-      "change": "NEW"
-    },
-    {
-      "keyword": "하락",
-      "score": 87.32,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 48,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "aliases": [],
-      "rank": 10,
-      "change": -2
-    },
-    {
-      "keyword": "부모",
-      "score": 86.05,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 43,
-      "sources": [
-        "더쿠",
-        "인벤"
-      ],
-      "aliases": [],
       "rank": 11,
       "change": "NEW"
     },
     {
-      "keyword": "사장",
-      "score": 82.9,
+      "keyword": "못하",
+      "score": 84.58,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 49,
+      "best_rank": 29,
       "sources": [
-        "루리웹",
-        "뽐뿌"
+        "디시인사이드",
+        "인벤"
       ],
       "aliases": [],
       "rank": 12,
       "change": "NEW"
     },
     {
-      "keyword": "작가",
-      "score": 80.34,
+      "keyword": "해외",
+      "score": 78.87,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 55,
+      "best_rank": 59,
       "sources": [
-        "더쿠",
-        "루리웹"
+        "뽐뿌",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 13,
       "change": "NEW"
     },
     {
-      "keyword": "gta6",
-      "score": 79.31,
+      "keyword": "알리",
+      "score": 77.74,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 76,
+      "best_rank": 68,
       "sources": [
-        "디시인사이드",
-        "루리웹"
+        "루리웹",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 14,
-      "change": -5
+      "change": "NEW"
+    },
+    {
+      "keyword": "일본",
+      "score": 69.8,
+      "post_count": 3,
+      "source_count": 1,
+      "best_rank": 30,
+      "sources": [
+        "디시인사이드"
+      ],
+      "aliases": [],
+      "rank": 15,
+      "change": "NEW"
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "학폭 기록 때문에 수시 전부 떨어진 아들",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77489477?m=humor",
-      "score": 97.5,
-      "views": 14792,
-      "comments": 88
-    },
-    {
-      "source": "디시인사이드",
-      "title": "미주갤 글 불펌해서 돈벌던 유튜브 마술사 렉카 비상 ㄷㄷㄷㄷ",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481047&_dcbest=1&page=1",
-      "score": 87.36,
-      "views": 17199,
-      "comments": 256
-    },
-    {
-      "source": "더쿠",
-      "title": "\"지 애미가 더럽게 키워 구질구질\"…박지윤 카톡 본 최동석, 파경 도화선",
-      "url": "https://theqoo.net/hot/4415298790",
-      "score": 86.84,
-      "views": 28640,
-      "comments": 499
-    },
-    {
-      "source": "클리앙",
-      "title": "친한 선배 딸아이 부고를 들었습니다",
-      "url": "https://www.clien.net/service/board/park/19297237?od=T31&po=0&category=0&groupCd=",
-      "score": 74.9,
-      "views": 493,
-      "comments": 3
+      "title": "닭공장에서 일하는 사람입니다",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77491717?m=humor",
+      "score": 99.38,
+      "views": 34873,
+      "comments": 94
     },
     {
       "source": "뽐뿌",
-      "title": "AI 부정시험 확실한듯 한 \"변리사 시험\" 근황",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=humor&no=794611",
-      "score": 74.11,
-      "views": 6954,
-      "comments": 15
+      "title": "능력이고뭐고 나랑 친한애들 무한돌려막기",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10199427",
+      "score": 79.58,
+      "views": 5755,
+      "comments": 21
     },
     {
       "source": "인벤",
-      "title": "ㅇㅎㅓㅜㅑ",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2755472",
-      "score": 68.65,
-      "views": 1345,
-      "comments": 6
+      "title": "절친과 3P했다는 처자",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2755689",
+      "score": 75.72,
+      "views": 3910,
+      "comments": 15
+    },
+    {
+      "source": "더쿠",
+      "title": "40대 이상 금지 목록",
+      "url": "https://theqoo.net/hot/4415711732",
+      "score": 74.37,
+      "views": 43985,
+      "comments": 631
+    },
+    {
+      "source": "디시인사이드",
+      "title": "오늘 자 이강인, 쇠를로트 조합...gif",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481125&_dcbest=1&page=1",
+      "score": 71.46,
+      "views": 8275,
+      "comments": 79
+    },
+    {
+      "source": "클리앙",
+      "title": "쇼츠) 이분 우는건 처음보네요. 아프리카TV의 수전으로 불러던 그분이 맞나여",
+      "url": "https://www.clien.net/service/board/park/19297483?od=T31&po=0&category=0&groupCd=",
+      "score": 70.2,
+      "views": 1217,
+      "comments": 10
     }
   ]
 }
