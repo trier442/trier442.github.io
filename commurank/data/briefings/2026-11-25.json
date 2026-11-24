@@ -1,0 +1,655 @@
+{
+  "version": 1,
+  "date": "2026-11-25",
+  "label": "2026년 11월 25일",
+  "collected_at": "2026-11-25T03:13:33.816866+09:00",
+  "timezone": "Asia/Seoul",
+  "overview": "오늘 가장 두드러진 이슈는 ‘‘어벤져스’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #내가. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "stats": {
+    "sources": 6,
+    "ok_sources": 6,
+    "cached_sources": 0,
+    "realtime_posts": 100,
+    "daily_posts": 100,
+    "daily_issues": 1,
+    "keywords": 7,
+    "top100_views": 1005890,
+    "top100_comments": 7982
+  },
+  "highlights": [
+    {
+      "type": "issue",
+      "title": "‘어벤져스’ 관련 글이 여러 커뮤니티에서 화제",
+      "text": "2개 커뮤니티에서 2개 관련 인기글이 포착됐습니다.",
+      "issue_id": "ia7821ac6"
+    },
+    {
+      "type": "post",
+      "title": "논란이 되고 있는 국어 문제.jpg",
+      "text": "루리웹에서 현재 상위권에 오른 인기글입니다.",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77506913?m=humor"
+    },
+    {
+      "type": "keyword",
+      "title": "#내가",
+      "text": "3개 커뮤니티 · 3개 인기글에서 함께 등장했습니다.",
+      "keyword": "내가"
+    }
+  ],
+  "top_posts": [
+    {
+      "title": "논란이 되고 있는 국어 문제.jpg",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77506913?m=humor",
+      "first_seen": "2026-11-25T03:13:33.816866+09:00",
+      "last_seen": "2026-11-25T03:13:33.816866+09:00",
+      "peak_score": 98.1,
+      "max_views": 20395,
+      "max_likes": 50,
+      "max_comments": 100,
+      "appearances": 1,
+      "score": 107.49,
+      "views": 20395,
+      "likes": 50,
+      "comments": 100,
+      "change": "NEW"
+    },
+    {
+      "title": "테슬라 FSD 켜도 전방주의는 의무 아니야?",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77506289?m=humor",
+      "first_seen": "2026-11-25T03:13:33.816866+09:00",
+      "last_seen": "2026-11-25T03:13:33.816866+09:00",
+      "peak_score": 96.12,
+      "max_views": 19048,
+      "max_likes": 102,
+      "max_comments": 82,
+      "appearances": 1,
+      "score": 105.51,
+      "views": 19048,
+      "likes": 102,
+      "comments": 82,
+      "change": "NEW"
+    },
+    {
+      "title": "조선시대 사람들이 믿었던 유교 내용 수준ㅋㅋㅋㅋ",
+      "source": "루리웹",
+      "category": "유머",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77506217?m=humor",
+      "first_seen": "2026-11-25T03:13:33.816866+09:00",
+      "last_seen": "2026-11-25T03:13:33.816866+09:00",
+      "peak_score": 92.48,
+      "max_views": 13304,
+      "max_likes": 79,
+      "max_comments": 56,
+      "appearances": 1,
+      "score": 101.87,
+      "views": 13304,
+      "likes": 79,
+      "comments": 56,
+      "change": "NEW"
+    },
+    {
+      "title": "[네이버페이] 15원",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/market/board/1020/read/109342",
+      "first_seen": "2026-11-25T03:13:33.816866+09:00",
+      "last_seen": "2026-11-25T03:13:33.816866+09:00",
+      "peak_score": 83.75,
+      "max_views": 18005,
+      "max_likes": 140,
+      "max_comments": 9,
+      "appearances": 1,
+      "score": 93.14,
+      "views": 18005,
+      "likes": 140,
+      "comments": 9,
+      "change": "NEW"
+    },
+    {
+      "title": "일본여자와 한국여자들이 임신출산을 대하는 마인드 차이",
+      "source": "디시인사이드",
+      "category": "이슈",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481444&_dcbest=1&page=1",
+      "first_seen": "2026-11-25T03:13:33.816866+09:00",
+      "last_seen": "2026-11-25T03:13:33.816866+09:00",
+      "peak_score": 80.34,
+      "max_views": 9176,
+      "max_likes": 179,
+      "max_comments": 256,
+      "appearances": 1,
+      "score": 89.73,
+      "views": 9176,
+      "likes": 179,
+      "comments": 256,
+      "change": "NEW"
+    },
+    {
+      "title": "이대로 가면 이 대통령 탄핵 - 구속 나올지도 모릅니다.",
+      "source": "클리앙",
+      "category": "이슈",
+      "url": "https://www.clien.net/service/board/park/19298102?od=T31&po=0&category=0&groupCd=",
+      "first_seen": "2026-11-25T03:13:33.816866+09:00",
+      "last_seen": "2026-11-25T03:13:33.816866+09:00",
+      "peak_score": 77.69,
+      "max_views": 3279,
+      "max_likes": 9,
+      "max_comments": 50,
+      "appearances": 1,
+      "score": 87.08,
+      "views": 3279,
+      "likes": 9,
+      "comments": 50,
+      "change": "NEW"
+    },
+    {
+      "title": "싱글벙글 어느 유명 여배우 스토리.jpg",
+      "source": "디시인사이드",
+      "category": "연예",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481448&_dcbest=1&page=1",
+      "first_seen": "2026-11-25T03:13:33.816866+09:00",
+      "last_seen": "2026-11-25T03:13:33.816866+09:00",
+      "peak_score": 76.58,
+      "max_views": 20033,
+      "max_likes": 81,
+      "max_comments": 80,
+      "appearances": 1,
+      "score": 85.97,
+      "views": 20033,
+      "likes": 81,
+      "comments": 80,
+      "change": "NEW"
+    },
+    {
+      "title": "친오빠랑 연락 한적 단 한번도 없다는 하츠투하츠 지우",
+      "source": "더쿠",
+      "category": "유머",
+      "url": "https://theqoo.net/hot/4416996623",
+      "first_seen": "2026-11-25T03:13:33.816866+09:00",
+      "last_seen": "2026-11-25T03:13:33.816866+09:00",
+      "peak_score": 75.37,
+      "max_views": 51677,
+      "max_likes": 0,
+      "max_comments": 532,
+      "appearances": 1,
+      "score": 84.76,
+      "views": 51677,
+      "likes": 0,
+      "comments": 532,
+      "change": "NEW"
+    },
+    {
+      "title": "수시탈락 이야기가 좀 웃기는게",
+      "source": "인벤",
+      "category": "유머",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2756185",
+      "first_seen": "2026-11-25T03:13:33.816866+09:00",
+      "last_seen": "2026-11-25T03:13:33.816866+09:00",
+      "peak_score": 74.86,
+      "max_views": 1166,
+      "max_likes": 2,
+      "max_comments": 9,
+      "appearances": 1,
+      "score": 84.25,
+      "views": 1166,
+      "likes": 2,
+      "comments": 9,
+      "change": "NEW"
+    },
+    {
+      "title": "감동감동 스코틀랜드 흙수저녀의 신데렐라 스토리",
+      "source": "디시인사이드",
+      "category": "이슈",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481435&_dcbest=1&page=1",
+      "first_seen": "2026-11-25T03:13:33.816866+09:00",
+      "last_seen": "2026-11-25T03:13:33.816866+09:00",
+      "peak_score": 73.98,
+      "max_views": 17276,
+      "max_likes": 172,
+      "max_comments": 119,
+      "appearances": 1,
+      "score": 83.37,
+      "views": 17276,
+      "likes": 172,
+      "comments": 119,
+      "change": "NEW"
+    }
+  ],
+  "rising": [
+    {
+      "source": "루리웹",
+      "title": "논란이 되고 있는 국어 문제.jpg",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77506913?m=humor",
+      "category": "이슈",
+      "views": 20395,
+      "likes": 50,
+      "comments": 100,
+      "score": 98.1,
+      "change": "NEW",
+      "current_rank": 1,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 83.2,
+      "rising_rank": 1,
+      "window_minutes": 591
+    },
+    {
+      "source": "루리웹",
+      "title": "테슬라 FSD 켜도 전방주의는 의무 아니야?",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77506289?m=humor",
+      "category": "이슈",
+      "views": 19048,
+      "likes": 102,
+      "comments": 82,
+      "score": 96.12,
+      "change": "NEW",
+      "current_rank": 2,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 82.37,
+      "rising_rank": 2,
+      "window_minutes": 591
+    },
+    {
+      "source": "루리웹",
+      "title": "조선시대 사람들이 믿었던 유교 내용 수준ㅋㅋㅋㅋ",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77506217?m=humor",
+      "category": "유머",
+      "views": 13304,
+      "likes": 79,
+      "comments": 56,
+      "score": 92.48,
+      "change": "NEW",
+      "current_rank": 3,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 80.84,
+      "rising_rank": 3,
+      "window_minutes": 591
+    },
+    {
+      "source": "루리웹",
+      "title": "[네이버페이] 15원",
+      "url": "https://bbs.ruliweb.com/market/board/1020/read/109342",
+      "category": "이슈",
+      "views": 18005,
+      "likes": 140,
+      "comments": 9,
+      "score": 83.75,
+      "change": "NEW",
+      "current_rank": 4,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 77.17,
+      "rising_rank": 4,
+      "window_minutes": 591
+    },
+    {
+      "source": "디시인사이드",
+      "title": "일본여자와 한국여자들이 임신출산을 대하는 마인드 차이",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481444&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 9176,
+      "likes": 179,
+      "comments": 256,
+      "score": 80.34,
+      "change": "NEW",
+      "current_rank": 5,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 75.74,
+      "rising_rank": 5,
+      "window_minutes": 591
+    },
+    {
+      "source": "클리앙",
+      "title": "이대로 가면 이 대통령 탄핵 - 구속 나올지도 모릅니다.",
+      "url": "https://www.clien.net/service/board/park/19298102?od=T31&po=0&category=0&groupCd=",
+      "category": "이슈",
+      "views": 3279,
+      "likes": 9,
+      "comments": 50,
+      "score": 77.69,
+      "change": "NEW",
+      "current_rank": 6,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 74.63,
+      "rising_rank": 6,
+      "window_minutes": 591
+    },
+    {
+      "source": "디시인사이드",
+      "title": "싱글벙글 어느 유명 여배우 스토리.jpg",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481448&_dcbest=1&page=1",
+      "category": "연예",
+      "views": 20033,
+      "likes": 81,
+      "comments": 80,
+      "score": 76.58,
+      "change": "NEW",
+      "current_rank": 7,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 74.16,
+      "rising_rank": 7,
+      "window_minutes": 591
+    },
+    {
+      "source": "더쿠",
+      "title": "친오빠랑 연락 한적 단 한번도 없다는 하츠투하츠 지우",
+      "url": "https://theqoo.net/hot/4416996623",
+      "category": "유머",
+      "views": 51677,
+      "likes": 0,
+      "comments": 532,
+      "score": 75.37,
+      "change": "NEW",
+      "current_rank": 8,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 73.66,
+      "rising_rank": 8,
+      "window_minutes": 591
+    },
+    {
+      "source": "인벤",
+      "title": "수시탈락 이야기가 좀 웃기는게",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2756185",
+      "category": "유머",
+      "views": 1166,
+      "likes": 2,
+      "comments": 9,
+      "score": 74.86,
+      "change": "NEW",
+      "current_rank": 9,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 73.44,
+      "rising_rank": 9,
+      "window_minutes": 591
+    },
+    {
+      "source": "디시인사이드",
+      "title": "감동감동 스코틀랜드 흙수저녀의 신데렐라 스토리",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481435&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 17276,
+      "likes": 172,
+      "comments": 119,
+      "score": 73.98,
+      "change": "NEW",
+      "current_rank": 10,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 73.07,
+      "rising_rank": 10,
+      "window_minutes": 591
+    }
+  ],
+  "issues": [
+    {
+      "id": "ia7821ac6",
+      "title": "‘어벤져스’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "어벤져스",
+        "둠스데이"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 79.63,
+      "peak_score": 70.16,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 50,
+          "title": "역대급으로 미쳤다는 어벤져스: 둠스데이 라인업",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481433&_dcbest=1&page=1",
+          "score": 61.16
+        },
+        {
+          "source": "인벤",
+          "rank": 61,
+          "title": "사실로 밝혀진 5개월 전 '어벤져스: 둠스데이' 유출 영상",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2756160",
+          "score": 59.23
+        }
+      ],
+      "first_seen": "2026-11-24T07:44:38.865648+09:00",
+      "last_seen": "2026-11-25T03:13:33.816866+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 1,
+      "change": 12
+    }
+  ],
+  "realtime_issues": [
+    {
+      "id": "ia7821ac6",
+      "title": "‘어벤져스’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "어벤져스",
+        "둠스데이"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 70.16,
+      "peak_score": 70.16,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 50,
+          "title": "역대급으로 미쳤다는 어벤져스: 둠스데이 라인업",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481433&_dcbest=1&page=1",
+          "score": 61.16
+        },
+        {
+          "source": "인벤",
+          "rank": 61,
+          "title": "사실로 밝혀진 5개월 전 '어벤져스: 둠스데이' 유출 영상",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2756160",
+          "score": 59.23
+        }
+      ],
+      "rank": 1,
+      "change": "NEW"
+    }
+  ],
+  "keywords": [
+    {
+      "keyword": "내가",
+      "score": 120.33,
+      "post_count": 3,
+      "source_count": 3,
+      "best_rank": 12,
+      "sources": [
+        "더쿠",
+        "디시인사이드",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 1,
+      "change": "NEW"
+    },
+    {
+      "keyword": "일본",
+      "score": 113.15,
+      "post_count": 3,
+      "source_count": 3,
+      "best_rank": 27,
+      "sources": [
+        "디시인사이드",
+        "루리웹",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 2,
+      "change": "NEW"
+    },
+    {
+      "keyword": "일정",
+      "score": 98.16,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 14,
+      "sources": [
+        "뽐뿌",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 3,
+      "change": "NEW"
+    },
+    {
+      "keyword": "구속",
+      "score": 92.46,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 6,
+      "sources": [
+        "디시인사이드",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 4,
+      "change": "NEW"
+    },
+    {
+      "keyword": "순위",
+      "score": 90.98,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 20,
+      "sources": [
+        "뽐뿌",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 5,
+      "change": "NEW"
+    },
+    {
+      "keyword": "풍경",
+      "score": 87.51,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 19,
+      "sources": [
+        "더쿠",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 6,
+      "change": "NEW"
+    },
+    {
+      "keyword": "어벤져스",
+      "score": 85.77,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 50,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "aliases": [
+        "둠스데"
+      ],
+      "rank": 7,
+      "change": "NEW"
+    }
+  ],
+  "community_leaders": [
+    {
+      "source": "루리웹",
+      "title": "논란이 되고 있는 국어 문제.jpg",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77506913?m=humor",
+      "score": 98.1,
+      "views": 20395,
+      "comments": 100
+    },
+    {
+      "source": "디시인사이드",
+      "title": "일본여자와 한국여자들이 임신출산을 대하는 마인드 차이",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481444&_dcbest=1&page=1",
+      "score": 80.34,
+      "views": 9176,
+      "comments": 256
+    },
+    {
+      "source": "클리앙",
+      "title": "이대로 가면 이 대통령 탄핵 - 구속 나올지도 모릅니다.",
+      "url": "https://www.clien.net/service/board/park/19298102?od=T31&po=0&category=0&groupCd=",
+      "score": 77.69,
+      "views": 3279,
+      "comments": 50
+    },
+    {
+      "source": "더쿠",
+      "title": "친오빠랑 연락 한적 단 한번도 없다는 하츠투하츠 지우",
+      "url": "https://theqoo.net/hot/4416996623",
+      "score": 75.37,
+      "views": 51677,
+      "comments": 532
+    },
+    {
+      "source": "인벤",
+      "title": "수시탈락 이야기가 좀 웃기는게",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2756185",
+      "score": 74.86,
+      "views": 1166,
+      "comments": 9
+    },
+    {
+      "source": "뽐뿌",
+      "title": "옆자리 직원분 부친상 부의금",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10200805",
+      "score": 69.39,
+      "views": 4336,
+      "comments": 38
+    }
+  ]
+}
