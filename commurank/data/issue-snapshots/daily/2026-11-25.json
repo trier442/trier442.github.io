@@ -3,9 +3,47 @@
   "period": "daily",
   "key": "2026-11-25",
   "label": "2026년 11월 25일",
-  "collected_at": "2026-11-25T20:41:36.471272+09:00",
+  "collected_at": "2026-11-25T21:55:50.416898+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
+    {
+      "id": "ie5a2c1ba",
+      "title": "‘아파트’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "아파트"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 113.97,
+      "peak_score": 104.5,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 2,
+          "title": "천룡인 아파트 거부하는 배달라이더들",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77514542?m=humor",
+          "score": 95.5
+        },
+        {
+          "source": "클리앙",
+          "rank": 12,
+          "title": "아파트 입구에서 물건 받아 오더라도 배달 오토바이 막았으면 좋겠습니다.",
+          "url": "https://www.clien.net/service/board/park/19298576?od=T31&po=0&category=0&groupCd=",
+          "score": 73.55
+        }
+      ],
+      "first_seen": "2026-10-06T17:53:04.817970+09:00",
+      "last_seen": "2026-11-25T21:55:50.416898+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 1,
+      "change": "NEW"
+    },
     {
       "id": "i9f81d2b8",
       "title": "‘대마도’ 관련 글이 여러 커뮤니티에서 화제",
@@ -41,8 +79,8 @@
       "last_seen": "2026-11-25T11:36:04.941684+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 1,
-      "change": 0
+      "rank": 2,
+      "change": -1
     },
     {
       "id": "i7d29af77",
@@ -79,8 +117,8 @@
       "last_seen": "2026-11-25T12:10:13.932366+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 2,
-      "change": 0
+      "rank": 3,
+      "change": -1
     },
     {
       "id": "i91f13db9",
@@ -118,8 +156,8 @@
       "last_seen": "2026-11-25T12:10:13.932366+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 3,
-      "change": 0
+      "rank": 4,
+      "change": -1
     },
     {
       "id": "i10990536",
@@ -156,8 +194,8 @@
       "last_seen": "2026-11-25T20:41:36.471272+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 4,
-      "change": "NEW"
+      "rank": 5,
+      "change": -1
     },
     {
       "id": "if38c0dcb",
@@ -194,7 +232,7 @@
       "last_seen": "2026-11-25T12:10:13.932366+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
+      "rank": 6,
       "change": -1
     },
     {
@@ -232,8 +270,84 @@
       "last_seen": "2026-11-25T12:10:13.932366+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
+      "rank": 7,
       "change": -1
+    },
+    {
+      "id": "i1d176686",
+      "title": "‘삼전닉스’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "삼전닉스"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 88.94,
+      "peak_score": 79.47,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 16,
+          "title": "지금 난리난 넥장 삼전닉스 ㄷ.jpg",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10201577",
+          "score": 70.47
+        },
+        {
+          "source": "더쿠",
+          "rank": 46,
+          "title": "실시간 삼전닉스",
+          "url": "https://theqoo.net/hot/4417977155",
+          "score": 60.37
+        }
+      ],
+      "first_seen": "2026-11-25T21:55:50.416898+09:00",
+      "last_seen": "2026-11-25T21:55:50.416898+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 8,
+      "change": "NEW"
+    },
+    {
+      "id": "i9785fc48",
+      "title": "‘드디어’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "드디어"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 88.74,
+      "peak_score": 79.27,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "클리앙",
+          "rank": 17,
+          "title": "드디어 용산에 임대주택 쫙 깔리는건가요?",
+          "url": "https://www.clien.net/service/board/park/19298567?od=T31&po=0&category=0&groupCd=",
+          "score": 70.27
+        },
+        {
+          "source": "더쿠",
+          "rank": 33,
+          "title": "40번째 1위도전만에 드디어 1위한 가수 + 앵콜",
+          "url": "https://theqoo.net/hot/4418004056",
+          "score": 63.84
+        }
+      ],
+      "first_seen": "2026-10-04T11:44:43.352420+09:00",
+      "last_seen": "2026-11-25T21:55:50.416898+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 9,
+      "change": "NEW"
     },
     {
       "id": "i19b638ee",
@@ -270,8 +384,8 @@
       "last_seen": "2026-11-25T12:10:13.932366+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": -1
+      "rank": 10,
+      "change": -3
     },
     {
       "id": "i5a1ee9c8",
@@ -308,8 +422,8 @@
       "last_seen": "2026-11-25T12:10:13.932366+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 8,
-      "change": -1
+      "rank": 11,
+      "change": -3
     },
     {
       "id": "if125474e",
@@ -348,8 +462,8 @@
       "last_seen": "2026-11-25T11:36:04.941684+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 9,
-      "change": -1
+      "rank": 12,
+      "change": -3
     },
     {
       "id": "id25fa144",
@@ -386,8 +500,8 @@
       "last_seen": "2026-11-25T12:10:13.932366+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 10,
-      "change": -1
+      "rank": 13,
+      "change": -3
     },
     {
       "id": "ia7821ac6",
@@ -425,8 +539,48 @@
       "last_seen": "2026-11-25T04:37:54.458077+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 11,
-      "change": -1
+      "rank": 14,
+      "change": -3
+    },
+    {
+      "id": "ib6df2872",
+      "title": "가불기에 걸린 프랑스",
+      "keywords": [
+        "가불기에",
+        "걸린",
+        "프랑스"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 81.39,
+      "peak_score": 71.92,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 32,
+          "title": "가불기에 걸린 프랑스",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2756458",
+          "score": 63.92
+        },
+        {
+          "source": "루리웹",
+          "rank": 76,
+          "title": "가불기에 걸린 프랑스",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77518712?m=humor_only&t=now",
+          "score": 54.9
+        }
+      ],
+      "first_seen": "2026-11-25T21:55:50.416898+09:00",
+      "last_seen": "2026-11-25T21:55:50.416898+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 15,
+      "change": "NEW"
     },
     {
       "id": "id5705e63",
@@ -463,8 +617,8 @@
       "last_seen": "2026-11-25T20:41:36.471272+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 12,
-      "change": "NEW"
+      "rank": 16,
+      "change": -4
     },
     {
       "id": "i6fb7ee77",
@@ -501,8 +655,8 @@
       "last_seen": "2026-11-25T11:36:04.941684+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 13,
-      "change": -2
+      "rank": 17,
+      "change": -4
     },
     {
       "id": "i8456c7b5",
@@ -543,8 +697,8 @@
       "last_seen": "2026-11-25T11:36:04.941684+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 14,
-      "change": -2
+      "rank": 18,
+      "change": -4
     },
     {
       "id": "i039fd79c",
@@ -581,8 +735,8 @@
       "last_seen": "2026-11-25T20:41:36.471272+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 15,
-      "change": "NEW"
+      "rank": 19,
+      "change": -4
     }
   ]
 }

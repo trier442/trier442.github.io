@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W48",
   "label": "2026.11.23 ~ 11.29",
-  "collected_at": "2026-11-25T20:41:36.471272+09:00",
+  "collected_at": "2026-11-25T21:55:50.416898+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -203,6 +203,44 @@
       "change": 0
     },
     {
+      "id": "ie5a2c1ba",
+      "title": "‘아파트’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "아파트"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 113.97,
+      "peak_score": 104.5,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 2,
+          "title": "천룡인 아파트 거부하는 배달라이더들",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77514542?m=humor",
+          "score": 95.5
+        },
+        {
+          "source": "클리앙",
+          "rank": 12,
+          "title": "아파트 입구에서 물건 받아 오더라도 배달 오토바이 막았으면 좋겠습니다.",
+          "url": "https://www.clien.net/service/board/park/19298576?od=T31&po=0&category=0&groupCd=",
+          "score": 73.55
+        }
+      ],
+      "first_seen": "2026-10-06T17:53:04.817970+09:00",
+      "last_seen": "2026-11-25T21:55:50.416898+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 6,
+      "change": "NEW"
+    },
+    {
       "id": "ic6b73da7",
       "title": "‘있어서’ 관련 글이 여러 커뮤니티에서 화제",
       "keywords": [
@@ -237,8 +275,8 @@
       "last_seen": "2026-11-23T01:52:59.165787+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
-      "change": 0
+      "rank": 7,
+      "change": -1
     },
     {
       "id": "i4dea1b92",
@@ -286,8 +324,8 @@
       "last_seen": "2026-11-24T08:52:32.673010+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 7,
-      "change": 0
+      "rank": 8,
+      "change": -1
     },
     {
       "id": "i2a188a14",
@@ -326,8 +364,8 @@
       "last_seen": "2026-11-23T11:57:15.870334+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 8,
-      "change": 0
+      "rank": 9,
+      "change": -1
     },
     {
       "id": "iede65e87",
@@ -364,8 +402,8 @@
       "last_seen": "2026-11-23T11:57:15.870334+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 9,
-      "change": 0
+      "rank": 10,
+      "change": -1
     },
     {
       "id": "i9f81d2b8",
@@ -402,8 +440,8 @@
       "last_seen": "2026-11-25T11:36:04.941684+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 10,
-      "change": 0
+      "rank": 11,
+      "change": -1
     },
     {
       "id": "iab21e976",
@@ -440,8 +478,8 @@
       "last_seen": "2026-11-24T17:22:39.289228+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 11,
-      "change": 0
+      "rank": 12,
+      "change": -1
     },
     {
       "id": "i91f13db9",
@@ -480,8 +518,8 @@
       "last_seen": "2026-11-25T12:10:13.932366+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 12,
-      "change": 0
+      "rank": 13,
+      "change": -1
     },
     {
       "id": "ia55fd960",
@@ -535,8 +573,8 @@
       "last_seen": "2026-11-23T11:57:15.870334+09:00",
       "latest_source_count": 3,
       "latest_post_count": 4,
-      "rank": 13,
-      "change": 0
+      "rank": 14,
+      "change": -1
     },
     {
       "id": "i7d29af77",
@@ -573,8 +611,8 @@
       "last_seen": "2026-11-25T12:10:13.932366+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 14,
-      "change": 0
+      "rank": 15,
+      "change": -1
     },
     {
       "id": "i90b1e93c",
@@ -611,8 +649,8 @@
       "last_seen": "2026-11-23T20:11:48.711025+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 15,
-      "change": 0
+      "rank": 16,
+      "change": -1
     },
     {
       "id": "i10990536",
@@ -649,8 +687,8 @@
       "last_seen": "2026-11-25T20:41:36.471272+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 16,
-      "change": "NEW"
+      "rank": 17,
+      "change": -1
     },
     {
       "id": "if38c0dcb",
@@ -687,7 +725,7 @@
       "last_seen": "2026-11-25T12:10:13.932366+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 17,
+      "rank": 18,
       "change": -1
     },
     {
@@ -725,7 +763,7 @@
       "last_seen": "2026-11-25T12:10:13.932366+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 18,
+      "rank": 19,
       "change": -1
     },
     {
@@ -763,44 +801,6 @@
       "last_seen": "2026-11-23T21:04:32.955662+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 19,
-      "change": -1
-    },
-    {
-      "id": "i528421f2",
-      "title": "‘비키니’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "비키니"
-      ],
-      "source_count": 2,
-      "post_count": 4,
-      "score": 89.7,
-      "peak_score": 78.23,
-      "appearances": 1,
-      "sources": [
-        "루리웹",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 19,
-          "title": "약후) 골반 쩌는 호피 비키니",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2755708",
-          "score": 67.23
-        },
-        {
-          "source": "루리웹",
-          "rank": 24,
-          "title": "젖소 비키니 입은 유치원 선생님",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77495507?m=humor_only&t=now",
-          "score": 66.0
-        }
-      ],
-      "first_seen": "2026-11-23T21:04:32.955662+09:00",
-      "last_seen": "2026-11-23T21:04:32.955662+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 4,
       "rank": 20,
       "change": -1
     }
