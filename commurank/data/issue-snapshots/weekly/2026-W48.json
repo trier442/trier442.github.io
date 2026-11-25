@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W48",
   "label": "2026.11.23 ~ 11.29",
-  "collected_at": "2026-11-25T12:10:13.932366+09:00",
+  "collected_at": "2026-11-25T20:41:36.471272+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -481,7 +481,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 12,
-      "change": 1
+      "change": 0
     },
     {
       "id": "ia55fd960",
@@ -536,7 +536,7 @@
       "latest_source_count": 3,
       "latest_post_count": 4,
       "rank": 13,
-      "change": -1
+      "change": 0
     },
     {
       "id": "i7d29af77",
@@ -574,7 +574,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 14,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "i90b1e93c",
@@ -612,7 +612,45 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 15,
-      "change": -1
+      "change": 0
+    },
+    {
+      "id": "i10990536",
+      "title": "‘삼성전자’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "삼성전자"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 93.68,
+      "peak_score": 84.21,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "posts": [
+        {
+          "source": "더쿠",
+          "rank": 13,
+          "title": "실시간 16만원대 진입한 삼성전자 주가.jpg",
+          "url": "https://theqoo.net/hot/4417667802",
+          "score": 75.21
+        },
+        {
+          "source": "디시인사이드",
+          "rank": 61,
+          "title": "싱글벙글 삼성전자 애널플러그 입갤 ㄷㄷㄷㄷㄷ",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481588&_dcbest=1&page=1",
+          "score": 58.97
+        }
+      ],
+      "first_seen": "2026-10-08T19:25:19.235438+09:00",
+      "last_seen": "2026-11-25T20:41:36.471272+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 16,
+      "change": "NEW"
     },
     {
       "id": "if38c0dcb",
@@ -649,8 +687,8 @@
       "last_seen": "2026-11-25T12:10:13.932366+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 16,
-      "change": "NEW"
+      "rank": 17,
+      "change": -1
     },
     {
       "id": "i72f23de5",
@@ -687,8 +725,8 @@
       "last_seen": "2026-11-25T12:10:13.932366+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 17,
-      "change": "NEW"
+      "rank": 18,
+      "change": -1
     },
     {
       "id": "id99cf9ee",
@@ -725,8 +763,8 @@
       "last_seen": "2026-11-23T21:04:32.955662+09:00",
       "latest_source_count": 2,
       "latest_post_count": 3,
-      "rank": 18,
-      "change": -3
+      "rank": 19,
+      "change": -1
     },
     {
       "id": "i528421f2",
@@ -763,46 +801,8 @@
       "last_seen": "2026-11-23T21:04:32.955662+09:00",
       "latest_source_count": 2,
       "latest_post_count": 4,
-      "rank": 19,
-      "change": -3
-    },
-    {
-      "id": "i2ac13537",
-      "title": "‘알아보자’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "알아보자"
-      ],
-      "source_count": 2,
-      "post_count": 3,
-      "score": 88.81,
-      "peak_score": 78.34,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "posts": [
-        {
-          "source": "더쿠",
-          "rank": 20,
-          "title": "지금 AI가 풀어서 난리라는 \"리만 가설\"이 무엇인지 알아보자...jpg",
-          "url": "https://theqoo.net/hot/4416108766",
-          "score": 68.34
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 83,
-          "title": "싱글벙글 요즘 대학가기 쉬워졌다는 이유를 알아보자",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481172&_dcbest=1&page=1",
-          "score": 55.78
-        }
-      ],
-      "first_seen": "2026-10-06T11:19:29.813850+09:00",
-      "last_seen": "2026-11-24T07:44:38.865648+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 3,
       "rank": 20,
-      "change": -3
+      "change": -1
     }
   ]
 }
