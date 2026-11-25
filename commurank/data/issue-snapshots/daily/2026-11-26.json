@@ -3,21 +3,21 @@
   "period": "daily",
   "key": "2026-11-26",
   "label": "2026년 11월 26일",
-  "collected_at": "2026-11-26T05:42:22.591400+09:00",
+  "collected_at": "2026-11-26T07:10:58.795868+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
       "id": "i8b74914e",
       "title": "살빠진 문근영 ㄷㄷ..jpg",
       "keywords": [
-        "문근영",
-        "살빠진"
+        "살빠진",
+        "문근영"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 108.97,
+      "score": 110.99,
       "peak_score": 99.5,
-      "appearances": 1,
+      "appearances": 2,
       "sources": [
         "뽐뿌",
         "인벤"
@@ -25,24 +25,62 @@
       "posts": [
         {
           "source": "뽐뿌",
-          "rank": 4,
+          "rank": 19,
           "title": "살빠진 문근영 ㄷㄷ..jpg",
           "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10201915",
-          "score": 91.5
+          "score": 73.2
         },
         {
           "source": "인벤",
-          "rank": 6,
+          "rank": 20,
           "title": "살빠진 문근영",
           "url": "https://www.inven.co.kr/board/webzine/2097/2756515",
-          "score": 82.59
+          "score": 73.14
         }
       ],
       "first_seen": "2026-11-26T05:42:22.591400+09:00",
-      "last_seen": "2026-11-26T05:42:22.591400+09:00",
+      "last_seen": "2026-11-26T07:10:58.795868+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 1,
+      "change": 0
+    },
+    {
+      "id": "i91f13db9",
+      "title": "‘gta6’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "gta6"
+      ],
+      "source_count": 2,
+      "post_count": 3,
+      "score": 92.86,
+      "peak_score": 82.39,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 21,
+          "title": "GTA6 해변가 수엑수씬",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2756522",
+          "score": 72.39
+        },
+        {
+          "source": "루리웹",
+          "rank": 58,
+          "title": "GTA6)레전드 티비 항문털 갱신",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77521016?m=humor_only&t=now",
+          "score": 61.16
+        }
+      ],
+      "first_seen": "2026-10-17T19:34:33.819752+09:00",
+      "last_seen": "2026-11-26T07:10:58.795868+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 3,
+      "rank": 2,
       "change": "NEW"
     },
     {
@@ -80,8 +118,8 @@
       "last_seen": "2026-11-26T05:42:22.591400+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 2,
-      "change": "NEW"
+      "rank": 3,
+      "change": -1
     },
     {
       "id": "i94656ec6",
@@ -118,8 +156,8 @@
       "last_seen": "2026-11-26T05:42:22.591400+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 3,
-      "change": "NEW"
+      "rank": 4,
+      "change": -1
     }
   ]
 }
