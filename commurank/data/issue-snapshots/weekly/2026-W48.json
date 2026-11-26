@@ -3,7 +3,7 @@
   "period": "weekly",
   "key": "2026-W48",
   "label": "2026.11.23 ~ 11.29",
-  "collected_at": "2026-11-27T06:59:49.673285+09:00",
+  "collected_at": "2026-11-27T07:47:39.401004+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
     {
@@ -559,7 +559,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 14,
-      "change": 1
+      "change": 0
     },
     {
       "id": "i9f81d2b8",
@@ -597,7 +597,45 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 15,
-      "change": -1
+      "change": 0
+    },
+    {
+      "id": "ifa1162d8",
+      "title": "‘교도소’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "교도소"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 102.13,
+      "peak_score": 90.64,
+      "appearances": 2,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 9,
+          "title": "와들와들 조주빈과 최원종이 갇혀있는 교도소.JPG",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481887&_dcbest=1&page=1",
+          "score": 78.79
+        },
+        {
+          "source": "더쿠",
+          "rank": 95,
+          "title": "교도소 과밀화 해결이 시급한 이유.jpg",
+          "url": "https://theqoo.net/hot/4419179072",
+          "score": 51.26
+        }
+      ],
+      "first_seen": "2026-11-27T06:59:49.673285+09:00",
+      "last_seen": "2026-11-27T07:47:39.401004+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 16,
+      "change": 3
     },
     {
       "id": "i3431c727",
@@ -636,8 +674,8 @@
       "last_seen": "2026-11-26T21:51:45.138557+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 16,
-      "change": 0
+      "rank": 17,
+      "change": -1
     },
     {
       "id": "i77bec7b9",
@@ -677,8 +715,8 @@
       "last_seen": "2026-11-26T13:10:09.724308+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 17,
-      "change": 0
+      "rank": 18,
+      "change": -1
     },
     {
       "id": "i92615f69",
@@ -715,46 +753,8 @@
       "last_seen": "2026-11-27T06:59:49.673285+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 18,
-      "change": "NEW"
-    },
-    {
-      "id": "ifa1162d8",
-      "title": "‘교도소’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "교도소"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 100.11,
-      "peak_score": 90.64,
-      "appearances": 1,
-      "sources": [
-        "더쿠",
-        "디시인사이드"
-      ],
-      "posts": [
-        {
-          "source": "디시인사이드",
-          "rank": 7,
-          "title": "와들와들 조주빈과 최원종이 갇혀있는 교도소.JPG",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481887&_dcbest=1&page=1",
-          "score": 81.64
-        },
-        {
-          "source": "더쿠",
-          "rank": 98,
-          "title": "교도소 과밀화 해결이 시급한 이유.jpg",
-          "url": "https://theqoo.net/hot/4419179072",
-          "score": 50.26
-        }
-      ],
-      "first_seen": "2026-11-27T06:59:49.673285+09:00",
-      "last_seen": "2026-11-27T06:59:49.673285+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
       "rank": 19,
-      "change": "NEW"
+      "change": -1
     },
     {
       "id": "iab21e976",
@@ -792,7 +792,7 @@
       "latest_source_count": 2,
       "latest_post_count": 3,
       "rank": 20,
-      "change": -2
+      "change": 0
     }
   ]
 }
