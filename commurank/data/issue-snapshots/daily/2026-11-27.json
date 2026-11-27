@@ -3,9 +3,47 @@
   "period": "daily",
   "key": "2026-11-27",
   "label": "2026년 11월 27일",
-  "collected_at": "2026-11-27T07:47:39.401004+09:00",
+  "collected_at": "2026-11-27T13:08:01.014815+09:00",
   "timezone": "Asia/Seoul",
   "issues": [
+    {
+      "id": "i27245075",
+      "title": "‘있다는’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "있다는"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 112.48,
+      "peak_score": 103.01,
+      "appearances": 1,
+      "sources": [
+        "루리웹",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "루리웹",
+          "rank": 2,
+          "title": "피해자가 속출하고 있다는 다이소 스노우볼",
+          "url": "https://bbs.ruliweb.com/best/board/300143/read/77532039?m=humor",
+          "score": 94.01
+        },
+        {
+          "source": "인벤",
+          "rank": 80,
+          "title": "여자도 성욕이 있다는 증거",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2757023",
+          "score": 54.86
+        }
+      ],
+      "first_seen": "2026-10-21T18:37:21.676761+09:00",
+      "last_seen": "2026-11-27T13:08:01.014815+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 1,
+      "change": "NEW"
+    },
     {
       "id": "ifa1162d8",
       "title": "‘교도소’ 관련 글이 여러 커뮤니티에서 화제",
@@ -41,8 +79,8 @@
       "last_seen": "2026-11-27T07:47:39.401004+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 1,
-      "change": 1
+      "rank": 2,
+      "change": -1
     },
     {
       "id": "i92615f69",
@@ -79,8 +117,46 @@
       "last_seen": "2026-11-27T06:59:49.673285+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 2,
+      "rank": 3,
       "change": -1
+    },
+    {
+      "id": "iae6b0123",
+      "title": "‘실시간’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "실시간"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 95.87,
+      "peak_score": 86.4,
+      "appearances": 1,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 12,
+          "title": "실시간 재평가 시급하신분",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481982&_dcbest=1&page=1",
+          "score": 77.4
+        },
+        {
+          "source": "인벤",
+          "rank": 18,
+          "title": "부산 실시간 덥다 ㅋㅋㅋ",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2757049",
+          "score": 73.67
+        }
+      ],
+      "first_seen": "2026-10-06T11:19:29.813850+09:00",
+      "last_seen": "2026-11-27T13:08:01.014815+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 4,
+      "change": "NEW"
     },
     {
       "id": "i039fd79c",
@@ -117,8 +193,8 @@
       "last_seen": "2026-11-27T07:47:39.401004+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 3,
-      "change": "NEW"
+      "rank": 5,
+      "change": -2
     },
     {
       "id": "i7ea603ba",
@@ -156,8 +232,8 @@
       "last_seen": "2026-11-27T06:59:49.673285+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 4,
-      "change": -1
+      "rank": 6,
+      "change": -2
     },
     {
       "id": "icfd7b52b",
@@ -196,8 +272,8 @@
       "last_seen": "2026-11-27T06:59:49.673285+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
-      "change": -1
+      "rank": 7,
+      "change": -2
     },
     {
       "id": "i042dbfc2",
@@ -236,8 +312,8 @@
       "last_seen": "2026-11-27T07:47:39.401004+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
-      "change": "NEW"
+      "rank": 8,
+      "change": -2
     },
     {
       "id": "i91f13db9",
@@ -274,7 +350,7 @@
       "last_seen": "2026-11-27T06:59:49.673285+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
+      "rank": 9,
       "change": -2
     }
   ]
