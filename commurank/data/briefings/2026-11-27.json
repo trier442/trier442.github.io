@@ -2,19 +2,19 @@
   "version": 1,
   "date": "2026-11-27",
   "label": "2026년 11월 27일",
-  "collected_at": "2026-11-27T13:08:01.014815+09:00",
+  "collected_at": "2026-11-27T13:46:21.707350+09:00",
   "timezone": "Asia/Seoul",
-  "overview": "오늘 가장 두드러진 이슈는 ‘‘있다는’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #실시간. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
+  "overview": "오늘 가장 두드러진 이슈는 ‘‘있다는’ 관련 글이 여러 커뮤니티에서 화제’입니다. 실시간 키워드 상위: #ai. 직전 수집 대비 급상승 글 5개를 별도로 추적 중입니다.",
   "stats": {
     "sources": 6,
-    "ok_sources": 5,
-    "cached_sources": 1,
+    "ok_sources": 6,
+    "cached_sources": 0,
     "realtime_posts": 100,
     "daily_posts": 100,
-    "daily_issues": 9,
-    "keywords": 6,
-    "top100_views": 1031347,
-    "top100_comments": 10415
+    "daily_issues": 11,
+    "keywords": 12,
+    "top100_views": 1101217,
+    "top100_comments": 11194
   },
   "highlights": [
     {
@@ -31,9 +31,9 @@
     },
     {
       "type": "keyword",
-      "title": "#실시간",
-      "text": "2개 커뮤니티 · 2개 인기글에서 함께 등장했습니다.",
-      "keyword": "실시간"
+      "title": "#ai",
+      "text": "4개 커뮤니티 · 4개 인기글에서 함께 등장했습니다.",
+      "keyword": "ai"
     }
   ],
   "top_posts": [
@@ -49,11 +49,47 @@
       "max_likes": 176,
       "max_comments": 50,
       "appearances": 3,
-      "score": 109.73,
+      "score": 109.68,
       "views": 29297,
       "likes": 176,
       "comments": 50,
       "change": 0
+    },
+    {
+      "title": "나 학생땐 분명 미성년자는 커피 못 먹게하는 그런 사회적 분위기가 있었거든..",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77533688?m=humor",
+      "first_seen": "2026-11-27T13:46:21.707350+09:00",
+      "last_seen": "2026-11-27T13:46:21.707350+09:00",
+      "peak_score": 96.19,
+      "max_views": 17894,
+      "max_likes": 131,
+      "max_comments": 100,
+      "appearances": 1,
+      "score": 105.58,
+      "views": 17894,
+      "likes": 131,
+      "comments": 100,
+      "change": "NEW"
+    },
+    {
+      "title": "전국시대인 일본 교통카드.jpg",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77535187?m=humor",
+      "first_seen": "2026-11-27T13:46:21.707350+09:00",
+      "last_seen": "2026-11-27T13:46:21.707350+09:00",
+      "peak_score": 95.62,
+      "max_views": 11884,
+      "max_likes": 97,
+      "max_comments": 87,
+      "appearances": 1,
+      "score": 105.01,
+      "views": 11884,
+      "likes": 97,
+      "comments": 87,
+      "change": "NEW"
     },
     {
       "title": "피해자가 속출하고 있다는 다이소 스노우볼",
@@ -67,11 +103,29 @@
       "max_likes": 91,
       "max_comments": 44,
       "appearances": 2,
-      "score": 104.21,
+      "score": 104.15,
       "views": 32632,
       "likes": 91,
       "comments": 44,
-      "change": 1
+      "change": -2
+    },
+    {
+      "title": "GTA 6 불법복제 PC이식 근황",
+      "source": "루리웹",
+      "category": "이슈",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77532902?m=humor",
+      "first_seen": "2026-11-27T13:46:21.707350+09:00",
+      "last_seen": "2026-11-27T13:46:21.707350+09:00",
+      "peak_score": 93.84,
+      "max_views": 44083,
+      "max_likes": 123,
+      "max_comments": 93,
+      "appearances": 1,
+      "score": 103.23,
+      "views": 44083,
+      "likes": 123,
+      "comments": 93,
+      "change": "NEW"
     },
     {
       "title": "44% 증가했다는 2030 암환자들",
@@ -85,11 +139,11 @@
       "max_likes": 64,
       "max_comments": 37,
       "appearances": 1,
-      "score": 102.98,
+      "score": 102.93,
       "views": 18441,
       "likes": 64,
       "comments": 37,
-      "change": -1
+      "change": -3
     },
     {
       "title": "옥주현의 오토튠 사용 가수랑은 겸상 싫다는 발언",
@@ -103,11 +157,11 @@
       "max_likes": 58,
       "max_comments": 53,
       "appearances": 1,
-      "score": 101.87,
+      "score": 101.82,
       "views": 19286,
       "likes": 58,
       "comments": 53,
-      "change": 0
+      "change": -3
     },
     {
       "title": "나 술마셨어",
@@ -121,11 +175,11 @@
       "max_likes": 38,
       "max_comments": 34,
       "appearances": 2,
-      "score": 101.6,
+      "score": 101.54,
       "views": 13699,
       "likes": 38,
       "comments": 34,
-      "change": 0
+      "change": -3
     },
     {
       "title": "\" 내가 롤판은 잔인하다 느낀계기가 \"",
@@ -133,17 +187,17 @@
       "category": "이슈",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481984&_dcbest=1&page=1",
       "first_seen": "2026-11-27T13:08:01.014815+09:00",
-      "last_seen": "2026-11-27T13:08:01.014815+09:00",
+      "last_seen": "2026-11-27T13:46:21.707350+09:00",
       "peak_score": 88.44,
-      "max_views": 16696,
-      "max_likes": 382,
-      "max_comments": 520,
-      "appearances": 1,
-      "score": 97.83,
-      "views": 16696,
-      "likes": 382,
-      "comments": 520,
-      "change": "NEW"
+      "max_views": 20612,
+      "max_likes": 406,
+      "max_comments": 587,
+      "appearances": 2,
+      "score": 98.64,
+      "views": 20612,
+      "likes": 406,
+      "comments": 587,
+      "change": -3
     },
     {
       "title": "캬 삼성이 일론머스크에게 갑질 ㅋㅋㅋㅋㅋ",
@@ -151,273 +205,219 @@
       "category": "유머",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481980&_dcbest=1&page=1",
       "first_seen": "2026-11-27T13:08:01.014815+09:00",
-      "last_seen": "2026-11-27T13:08:01.014815+09:00",
+      "last_seen": "2026-11-27T13:46:21.707350+09:00",
       "peak_score": 88.39,
-      "max_views": 27630,
-      "max_likes": 352,
-      "max_comments": 398,
-      "appearances": 1,
-      "score": 97.78,
-      "views": 27630,
-      "likes": 352,
-      "comments": 398,
-      "change": "NEW"
-    },
-    {
-      "title": "최근 밝혀진 음식 리뷰 유튜버 흑백리뷰의 진실...jpg",
-      "source": "디시인사이드",
-      "category": "생활",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481900&_dcbest=1&page=1",
-      "first_seen": "2026-11-27T06:59:49.673285+09:00",
-      "last_seen": "2026-11-27T13:08:01.014815+09:00",
-      "peak_score": 84.08,
-      "max_views": 40139,
-      "max_likes": 106,
-      "max_comments": 463,
-      "appearances": 3,
-      "score": 94.85,
-      "views": 40139,
-      "likes": 106,
-      "comments": 463,
-      "change": -1
-    },
-    {
-      "title": "[에픽게임즈] Bread and Fred, 파이어스톤 온라인 아이템팩 (무료)",
-      "source": "루리웹",
-      "category": "게임",
-      "url": "https://bbs.ruliweb.com/market/board/1020/read/109415",
-      "first_seen": "2026-11-27T07:47:39.401004+09:00",
-      "last_seen": "2026-11-27T13:08:01.014815+09:00",
-      "peak_score": 84.19,
-      "max_views": 11708,
-      "max_likes": 54,
-      "max_comments": 0,
+      "max_views": 30911,
+      "max_likes": 378,
+      "max_comments": 436,
       "appearances": 2,
-      "score": 94.39,
-      "views": 11708,
-      "likes": 54,
-      "comments": 0,
-      "change": 0
-    },
-    {
-      "title": "현대차.라이트 월 구독제로 민심 더 악화.",
-      "source": "인벤",
-      "category": "이슈",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2756881",
-      "first_seen": "2026-11-26T21:51:45.138557+09:00",
-      "last_seen": "2026-11-27T06:59:49.673285+09:00",
-      "peak_score": 84.01,
-      "max_views": 8703,
-      "max_likes": 4,
-      "max_comments": 33,
-      "appearances": 3,
-      "score": 94.27,
-      "views": 8703,
-      "likes": 4,
-      "comments": 33,
-      "change": -4
+      "score": 98.59,
+      "views": 30911,
+      "likes": 378,
+      "comments": 436,
+      "change": -3
     }
   ],
   "rising": [
-    {
-      "source": "디시인사이드",
-      "title": "\" 내가 롤판은 잔인하다 느낀계기가 \"",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481984&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 16696,
-      "likes": 382,
-      "comments": 520,
-      "score": 88.44,
-      "change": "NEW",
-      "current_rank": 4,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 79.14,
-      "rising_rank": 1,
-      "window_minutes": 320
-    },
-    {
-      "source": "디시인사이드",
-      "title": "캬 삼성이 일론머스크에게 갑질 ㅋㅋㅋㅋㅋ",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481980&_dcbest=1&page=1",
-      "category": "유머",
-      "views": 27630,
-      "likes": 352,
-      "comments": 398,
-      "score": 88.39,
-      "change": "NEW",
-      "current_rank": 5,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 79.12,
-      "rising_rank": 2,
-      "window_minutes": 320
-    },
-    {
-      "source": "더쿠",
-      "title": "핫게 뮤지컬 배우 사과문",
-      "url": "https://theqoo.net/hot/4419500488",
-      "category": "연예",
-      "views": 45330,
-      "likes": 0,
-      "comments": 330,
-      "score": 80.68,
-      "change": "NEW",
-      "current_rank": 7,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 75.89,
-      "rising_rank": 3,
-      "window_minutes": 320
-    },
-    {
-      "source": "디시인사이드",
-      "title": "낭만낭만 백화점 근무복에 민원 넣은 고객님...jpg",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481974&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 23407,
-      "likes": 131,
-      "comments": 217,
-      "score": 79.91,
-      "change": "NEW",
-      "current_rank": 8,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 75.56,
-      "rising_rank": 4,
-      "window_minutes": 320
-    },
-    {
-      "source": "더쿠",
-      "title": "전부터 궁금했는데 큐알을 나한테주면 어떻게 그걸 찍으라는거야?",
-      "url": "https://theqoo.net/hot/4419470392",
-      "category": "이슈",
-      "views": 43604,
-      "likes": 0,
-      "comments": 625,
-      "score": 79.37,
-      "change": "NEW",
-      "current_rank": 9,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 75.34,
-      "rising_rank": 5,
-      "window_minutes": 320
-    },
-    {
-      "source": "디시인사이드",
-      "title": "지금 30대 남자들이 미치기 일보직전인 이유",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481968&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 19291,
-      "likes": 120,
-      "comments": 634,
-      "score": 79.31,
-      "change": "NEW",
-      "current_rank": 10,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 75.31,
-      "rising_rank": 6,
-      "window_minutes": 320
-    },
-    {
-      "source": "뽐뿌",
-      "title": "문형배 헌재소장의 명언",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10203196",
-      "category": "이슈",
-      "views": 5243,
-      "likes": 51,
-      "comments": 6,
-      "score": 77.47,
-      "change": "NEW",
-      "current_rank": 11,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 74.54,
-      "rising_rank": 7,
-      "window_minutes": 320
-    },
-    {
-      "source": "디시인사이드",
-      "title": "실시간 재평가 시급하신분",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481982&_dcbest=1&page=1",
-      "category": "이슈",
-      "views": 11343,
-      "likes": 188,
-      "comments": 138,
-      "score": 77.4,
-      "change": "NEW",
-      "current_rank": 12,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
-      "rank_gain": 0,
-      "rising_score": 74.51,
-      "rising_rank": 8,
-      "window_minutes": 320
-    },
     {
       "source": "뽐뿌",
       "title": "그냥 문재인이 특출난 사람이였다는 것밖에 설명이 안돼요.",
       "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10203211",
       "category": "이슈",
-      "views": 4226,
-      "likes": 36,
-      "comments": 63,
-      "score": 77.25,
-      "change": "NEW",
-      "current_rank": 13,
-      "new_entry": true,
-      "delta_views": 0,
-      "delta_likes": 0,
-      "delta_comments": 0,
+      "views": 10519,
+      "likes": 75,
+      "comments": 143,
+      "score": 68.49,
+      "change": 0,
+      "current_rank": 29,
+      "new_entry": false,
+      "delta_views": 6293,
+      "delta_likes": 39,
+      "delta_comments": 80,
       "rank_gain": 0,
-      "rising_score": 74.44,
-      "rising_rank": 9,
-      "window_minutes": 320
+      "rising_score": 100.0,
+      "rising_rank": 1,
+      "window_minutes": 38
+    },
+    {
+      "source": "디시인사이드",
+      "title": "9급시험 5개월컷 해버린 미친 합격자 ㄷㄷㄷ",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481988&_dcbest=1&page=1",
+      "category": "이슈",
+      "views": 13633,
+      "likes": 74,
+      "comments": 356,
+      "score": 79.35,
+      "change": 15,
+      "current_rank": 10,
+      "new_entry": false,
+      "delta_views": 7709,
+      "delta_likes": 28,
+      "delta_comments": 188,
+      "rank_gain": 15,
+      "rising_score": 91.67,
+      "rising_rank": 2,
+      "window_minutes": 38
+    },
+    {
+      "source": "더쿠",
+      "title": "손연재 부부, 연세의료원에 30억원 기부…연재태아협진센터 설립",
+      "url": "https://theqoo.net/hot/4419519684",
+      "category": "이슈",
+      "views": 31107,
+      "likes": 0,
+      "comments": 364,
+      "score": 58.89,
+      "change": 0,
+      "current_rank": 62,
+      "new_entry": false,
+      "delta_views": 11415,
+      "delta_likes": 0,
+      "delta_comments": 93,
+      "rank_gain": 0,
+      "rising_score": 91.67,
+      "rising_rank": 3,
+      "window_minutes": 38
+    },
+    {
+      "source": "클리앙",
+      "title": "지방의회는 없애는 것이 답일 듯 하네요",
+      "url": "https://www.clien.net/service/board/park/19299224?od=T31&po=0&category=0&groupCd=",
+      "category": "이슈",
+      "views": 1430,
+      "likes": 6,
+      "comments": 16,
+      "score": 64.91,
+      "change": 8,
+      "current_rank": 38,
+      "new_entry": false,
+      "delta_views": 1245,
+      "delta_likes": 6,
+      "delta_comments": 14,
+      "rank_gain": 8,
+      "rising_score": 89.33,
+      "rising_rank": 4,
+      "window_minutes": 38
     },
     {
       "source": "디시인사이드",
       "title": "오싹오싹 은퇴한 MMA 파이터 살인사건 ㄷㄷ",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481991&_dcbest=1&page=1",
       "category": "이슈",
-      "views": 10084,
-      "likes": 57,
-      "comments": 134,
-      "score": 76.46,
+      "views": 16286,
+      "likes": 93,
+      "comments": 369,
+      "score": 84.17,
+      "change": 8,
+      "current_rank": 6,
+      "new_entry": false,
+      "delta_views": 6202,
+      "delta_likes": 36,
+      "delta_comments": 235,
+      "rank_gain": 8,
+      "rising_score": 89.17,
+      "rising_rank": 5,
+      "window_minutes": 38
+    },
+    {
+      "source": "디시인사이드",
+      "title": "지금 논란인 뮤지컬배우 충격적인점.jpg",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481990&_dcbest=1&page=1",
+      "category": "연예",
+      "views": 16479,
+      "likes": 106,
+      "comments": 238,
+      "score": 83.32,
+      "change": 8,
+      "current_rank": 7,
+      "new_entry": false,
+      "delta_views": 5991,
+      "delta_likes": 44,
+      "delta_comments": 106,
+      "rank_gain": 8,
+      "rising_score": 86.67,
+      "rising_rank": 6,
+      "window_minutes": 38
+    },
+    {
+      "source": "인벤",
+      "title": "ㅇㅎ) 또 하드 정리",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2757054",
+      "category": "유머",
+      "views": 2089,
+      "likes": 3,
+      "comments": 16,
+      "score": 77.91,
+      "change": 16,
+      "current_rank": 12,
+      "new_entry": false,
+      "delta_views": 1603,
+      "delta_likes": 2,
+      "delta_comments": 11,
+      "rank_gain": 16,
+      "rising_score": 84.17,
+      "rising_rank": 7,
+      "window_minutes": 38
+    },
+    {
+      "source": "루리웹",
+      "title": "나 학생땐 분명 미성년자는 커피 못 먹게하는 그런 사회적 분위기가 있었거든..",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77533688?m=humor",
+      "category": "이슈",
+      "views": 17894,
+      "likes": 131,
+      "comments": 100,
+      "score": 96.19,
       "change": "NEW",
-      "current_rank": 14,
+      "current_rank": 1,
       "new_entry": true,
       "delta_views": 0,
       "delta_likes": 0,
       "delta_comments": 0,
       "rank_gain": 0,
-      "rising_score": 74.11,
+      "rising_score": 82.4,
+      "rising_rank": 8,
+      "window_minutes": 38
+    },
+    {
+      "source": "루리웹",
+      "title": "전국시대인 일본 교통카드.jpg",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77535187?m=humor",
+      "category": "이슈",
+      "views": 11884,
+      "likes": 97,
+      "comments": 87,
+      "score": 95.62,
+      "change": "NEW",
+      "current_rank": 2,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 82.16,
+      "rising_rank": 9,
+      "window_minutes": 38
+    },
+    {
+      "source": "루리웹",
+      "title": "GTA 6 불법복제 PC이식 근황",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77532902?m=humor",
+      "category": "이슈",
+      "views": 44083,
+      "likes": 123,
+      "comments": 93,
+      "score": 93.84,
+      "change": "NEW",
+      "current_rank": 3,
+      "new_entry": true,
+      "delta_views": 0,
+      "delta_likes": 0,
+      "delta_comments": 0,
+      "rank_gain": 0,
+      "rising_score": 81.41,
       "rising_rank": 10,
-      "window_minutes": 320
+      "window_minutes": 38
     }
   ],
   "issues": [
@@ -457,7 +457,7 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 1,
-      "change": "NEW"
+      "change": 0
     },
     {
       "id": "ifa1162d8",
@@ -495,7 +495,48 @@
       "latest_source_count": 2,
       "latest_post_count": 2,
       "rank": 2,
-      "change": -1
+      "change": 0
+    },
+    {
+      "id": "i91f13db9",
+      "title": "AI 포팅으로 난리난 GTA6",
+      "keywords": [
+        "ai",
+        "gta6",
+        "난리난"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 100.6,
+      "peak_score": 89.11,
+      "appearances": 2,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌",
+        "인벤"
+      ],
+      "posts": [
+        {
+          "source": "인벤",
+          "rank": 9,
+          "title": "AI 포팅으로 난리난 GTA6",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2757064",
+          "score": 81.11
+        },
+        {
+          "source": "뽐뿌",
+          "rank": 23,
+          "title": "AI 로 난리난 GTA6 근황 ㄷ..jpg",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10203249",
+          "score": 70.95
+        }
+      ],
+      "first_seen": "2026-10-17T19:34:33.819752+09:00",
+      "last_seen": "2026-11-27T13:46:21.707350+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 3,
+      "change": 6
     },
     {
       "id": "i92615f69",
@@ -532,7 +573,7 @@
       "last_seen": "2026-11-27T06:59:49.673285+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 3,
+      "rank": 4,
       "change": -1
     },
     {
@@ -543,9 +584,9 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 95.87,
+      "score": 97.89,
       "peak_score": 86.4,
-      "appearances": 1,
+      "appearances": 2,
       "sources": [
         "디시인사이드",
         "인벤"
@@ -553,25 +594,25 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 12,
+          "rank": 16,
           "title": "실시간 재평가 시급하신분",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481982&_dcbest=1&page=1",
-          "score": 77.4
+          "score": 75.44
         },
         {
           "source": "인벤",
-          "rank": 18,
+          "rank": 27,
           "title": "부산 실시간 덥다 ㅋㅋㅋ",
           "url": "https://www.inven.co.kr/board/webzine/2097/2757049",
-          "score": 73.67
+          "score": 69.59
         }
       ],
       "first_seen": "2026-10-06T11:19:29.813850+09:00",
-      "last_seen": "2026-11-27T13:08:01.014815+09:00",
+      "last_seen": "2026-11-27T13:46:21.707350+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 4,
-      "change": "NEW"
+      "rank": 5,
+      "change": -1
     },
     {
       "id": "i039fd79c",
@@ -608,8 +649,85 @@
       "last_seen": "2026-11-27T07:47:39.401004+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 5,
-      "change": -2
+      "rank": 6,
+      "change": -1
+    },
+    {
+      "id": "i791e980a",
+      "title": "현재 난리난 뮤지컬 배우 사과문 발표",
+      "keywords": [
+        "사과문",
+        "뮤지컬"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 87.47,
+      "peak_score": 78.0,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 26,
+          "title": "현재 난리난 뮤지컬 배우 사과문 발표",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10203274",
+          "score": 70.0
+        },
+        {
+          "source": "더쿠",
+          "rank": 41,
+          "title": "핫게 뮤지컬 배우 사과문",
+          "url": "https://theqoo.net/hot/4419500488",
+          "score": 64.58
+        }
+      ],
+      "first_seen": "2026-11-27T13:46:21.707350+09:00",
+      "last_seen": "2026-11-27T13:46:21.707350+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 7,
+      "change": "NEW"
+    },
+    {
+      "id": "ice48a6c4",
+      "title": "‘티켓팅’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "티켓팅"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 85.51,
+      "peak_score": 76.04,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 31,
+          "title": "니들이 티켓팅 성공한 이유",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481972&_dcbest=1&page=1",
+          "score": 67.04
+        },
+        {
+          "source": "더쿠",
+          "rank": 43,
+          "title": "나 도서관에서 어떤 아저씨 기사 시험장 티켓팅 대신 해드렸는데 8만원이랑 빵 바리바리 주셨어...",
+          "url": "https://theqoo.net/hot/4419572922",
+          "score": 63.68
+        }
+      ],
+      "first_seen": "2026-11-27T13:46:21.707350+09:00",
+      "last_seen": "2026-11-27T13:46:21.707350+09:00",
+      "latest_source_count": 2,
+      "latest_post_count": 2,
+      "rank": 8,
+      "change": "NEW"
     },
     {
       "id": "i7ea603ba",
@@ -647,8 +765,8 @@
       "last_seen": "2026-11-27T06:59:49.673285+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 6,
-      "change": -2
+      "rank": 9,
+      "change": -3
     },
     {
       "id": "icfd7b52b",
@@ -687,118 +805,42 @@
       "last_seen": "2026-11-27T06:59:49.673285+09:00",
       "latest_source_count": 2,
       "latest_post_count": 2,
-      "rank": 7,
-      "change": -2
-    },
-    {
-      "id": "i042dbfc2",
-      "title": "눈물의 주식 브리핑",
-      "keywords": [
-        "눈물의",
-        "주식",
-        "브리핑"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 80.19,
-      "peak_score": 70.72,
-      "appearances": 1,
-      "sources": [
-        "인벤",
-        "클리앙"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 38,
-          "title": "눈물의 주식 브리핑",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2756942",
-          "score": 62.72
-        },
-        {
-          "source": "클리앙",
-          "rank": 48,
-          "title": "눈물의 주식 브리핑",
-          "url": "https://www.clien.net/service/board/park/19299079?od=T31&po=0&category=0&groupCd=",
-          "score": 60.69
-        }
-      ],
-      "first_seen": "2026-11-27T07:47:39.401004+09:00",
-      "last_seen": "2026-11-27T07:47:39.401004+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 8,
-      "change": -2
-    },
-    {
-      "id": "i91f13db9",
-      "title": "‘gta6’ 관련 글이 여러 커뮤니티에서 화제",
-      "keywords": [
-        "gta6"
-      ],
-      "source_count": 2,
-      "post_count": 2,
-      "score": 79.32,
-      "peak_score": 69.85,
-      "appearances": 1,
-      "sources": [
-        "디시인사이드",
-        "인벤"
-      ],
-      "posts": [
-        {
-          "source": "인벤",
-          "rank": 51,
-          "title": "Group boyoo가 gta6 비공개 pc 이식판 관련 테스트",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2756927",
-          "score": 60.85
-        },
-        {
-          "source": "디시인사이드",
-          "rank": 80,
-          "title": "게임 개발진들이 바라본 GTA6 평가",
-          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481860&_dcbest=1&page=1",
-          "score": 54.4
-        }
-      ],
-      "first_seen": "2026-10-17T19:34:33.819752+09:00",
-      "last_seen": "2026-11-27T06:59:49.673285+09:00",
-      "latest_source_count": 2,
-      "latest_post_count": 2,
-      "rank": 9,
-      "change": -2
+      "rank": 10,
+      "change": -3
     }
   ],
   "realtime_issues": [
     {
-      "id": "i27245075",
-      "title": "‘있다는’ 관련 글이 여러 커뮤니티에서 화제",
+      "id": "i91f13db9",
+      "title": "AI 포팅으로 난리난 GTA6",
       "keywords": [
-        "있다는"
+        "ai",
+        "gta6",
+        "난리난"
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 103.01,
-      "peak_score": 103.01,
+      "score": 89.11,
+      "peak_score": 89.11,
       "appearances": 1,
       "sources": [
-        "루리웹",
+        "뽐뿌",
         "인벤"
       ],
       "posts": [
         {
-          "source": "루리웹",
-          "rank": 2,
-          "title": "피해자가 속출하고 있다는 다이소 스노우볼",
-          "url": "https://bbs.ruliweb.com/best/board/300143/read/77532039?m=humor",
-          "score": 94.01
+          "source": "인벤",
+          "rank": 9,
+          "title": "AI 포팅으로 난리난 GTA6",
+          "url": "https://www.inven.co.kr/board/webzine/2097/2757064",
+          "score": 81.11
         },
         {
-          "source": "인벤",
-          "rank": 80,
-          "title": "여자도 성욕이 있다는 증거",
-          "url": "https://www.inven.co.kr/board/webzine/2097/2757023",
-          "score": 54.86
+          "source": "뽐뿌",
+          "rank": 23,
+          "title": "AI 로 난리난 GTA6 근황 ㄷ..jpg",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10203249",
+          "score": 70.95
         }
       ],
       "rank": 1,
@@ -812,8 +854,8 @@
       ],
       "source_count": 2,
       "post_count": 2,
-      "score": 86.4,
-      "peak_score": 86.4,
+      "score": 84.44,
+      "peak_score": 84.44,
       "appearances": 1,
       "sources": [
         "디시인사이드",
@@ -822,42 +864,128 @@
       "posts": [
         {
           "source": "디시인사이드",
-          "rank": 12,
+          "rank": 16,
           "title": "실시간 재평가 시급하신분",
           "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481982&_dcbest=1&page=1",
-          "score": 77.4
+          "score": 75.44
         },
         {
           "source": "인벤",
-          "rank": 18,
+          "rank": 27,
           "title": "부산 실시간 덥다 ㅋㅋㅋ",
           "url": "https://www.inven.co.kr/board/webzine/2097/2757049",
-          "score": 73.67
+          "score": 69.59
         }
       ],
       "rank": 2,
+      "change": 0
+    },
+    {
+      "id": "i791e980a",
+      "title": "현재 난리난 뮤지컬 배우 사과문 발표",
+      "keywords": [
+        "사과문",
+        "뮤지컬"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 78.0,
+      "peak_score": 78.0,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "뽐뿌"
+      ],
+      "posts": [
+        {
+          "source": "뽐뿌",
+          "rank": 26,
+          "title": "현재 난리난 뮤지컬 배우 사과문 발표",
+          "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10203274",
+          "score": 70.0
+        },
+        {
+          "source": "더쿠",
+          "rank": 41,
+          "title": "핫게 뮤지컬 배우 사과문",
+          "url": "https://theqoo.net/hot/4419500488",
+          "score": 64.58
+        }
+      ],
+      "rank": 3,
+      "change": "NEW"
+    },
+    {
+      "id": "ice48a6c4",
+      "title": "‘티켓팅’ 관련 글이 여러 커뮤니티에서 화제",
+      "keywords": [
+        "티켓팅"
+      ],
+      "source_count": 2,
+      "post_count": 2,
+      "score": 76.04,
+      "peak_score": 76.04,
+      "appearances": 1,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "posts": [
+        {
+          "source": "디시인사이드",
+          "rank": 31,
+          "title": "니들이 티켓팅 성공한 이유",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481972&_dcbest=1&page=1",
+          "score": 67.04
+        },
+        {
+          "source": "더쿠",
+          "rank": 43,
+          "title": "나 도서관에서 어떤 아저씨 기사 시험장 티켓팅 대신 해드렸는데 8만원이랑 빵 바리바리 주셨어...",
+          "url": "https://theqoo.net/hot/4419572922",
+          "score": 63.68
+        }
+      ],
+      "rank": 4,
       "change": "NEW"
     }
   ],
   "keywords": [
     {
-      "keyword": "실시간",
-      "score": 102.59,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 12,
+      "keyword": "ai",
+      "score": 155.0,
+      "post_count": 4,
+      "source_count": 4,
+      "best_rank": 9,
       "sources": [
         "디시인사이드",
-        "인벤"
+        "뽐뿌",
+        "인벤",
+        "클리앙"
       ],
       "aliases": [],
       "rank": 1,
       "change": "NEW"
     },
     {
-      "keyword": "있다",
-      "score": 99.54,
-      "post_count": 2,
+      "keyword": "난리난",
+      "score": 133.95,
+      "post_count": 4,
+      "source_count": 3,
+      "best_rank": 9,
+      "sources": [
+        "디시인사이드",
+        "뽐뿌",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 2,
+      "change": "NEW"
+    },
+    {
+      "keyword": "일본",
+      "score": 110.46,
+      "post_count": 3,
       "source_count": 2,
       "best_rank": 2,
       "sources": [
@@ -865,113 +993,185 @@
         "인벤"
       ],
       "aliases": [],
-      "rank": 2,
-      "change": "NEW"
-    },
-    {
-      "keyword": "무료",
-      "score": 99.49,
-      "post_count": 2,
-      "source_count": 2,
-      "best_rank": 6,
-      "sources": [
-        "루리웹",
-        "뽐뿌"
-      ],
-      "aliases": [],
       "rank": 3,
       "change": "NEW"
     },
     {
-      "keyword": "단독",
-      "score": 88.08,
+      "keyword": "gta6",
+      "score": 103.54,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 32,
+      "best_rank": 9,
       "sources": [
-        "더쿠",
-        "클리앙"
+        "뽐뿌",
+        "인벤"
       ],
       "aliases": [],
       "rank": 4,
       "change": "NEW"
     },
     {
-      "keyword": "미국",
-      "score": 80.65,
+      "keyword": "실시간",
+      "score": 98.78,
       "post_count": 2,
       "source_count": 2,
-      "best_rank": 55,
+      "best_rank": 16,
       "sources": [
         "디시인사이드",
         "인벤"
       ],
       "aliases": [],
       "rank": 5,
+      "change": -4
+    },
+    {
+      "keyword": "뮤지컬",
+      "score": 93.04,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 26,
+      "sources": [
+        "더쿠",
+        "뽐뿌"
+      ],
+      "aliases": [
+        "사과문"
+      ],
+      "rank": 6,
       "change": "NEW"
     },
     {
-      "keyword": "한국갤럽",
-      "score": 59.93,
+      "keyword": "티켓팅",
+      "score": 91.66,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 31,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "aliases": [],
+      "rank": 7,
+      "change": "NEW"
+    },
+    {
+      "keyword": "vs",
+      "score": 88.7,
+      "post_count": 3,
+      "source_count": 2,
+      "best_rank": 44,
+      "sources": [
+        "더쿠",
+        "루리웹"
+      ],
+      "aliases": [],
+      "rank": 8,
+      "change": "NEW"
+    },
+    {
+      "keyword": "되는",
+      "score": 87.17,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 51,
+      "sources": [
+        "더쿠",
+        "디시인사이드"
+      ],
+      "aliases": [],
+      "rank": 9,
+      "change": "NEW"
+    },
+    {
+      "keyword": "하드",
+      "score": 84.75,
       "post_count": 3,
       "source_count": 1,
-      "best_rank": 88,
+      "best_rank": 12,
       "sources": [
         "인벤"
       ],
       "aliases": [],
-      "rank": 6,
+      "rank": 10,
+      "change": "NEW"
+    },
+    {
+      "keyword": "미국",
+      "score": 82.11,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 39,
+      "sources": [
+        "디시인사이드",
+        "인벤"
+      ],
+      "aliases": [],
+      "rank": 11,
+      "change": -6
+    },
+    {
+      "keyword": "기분",
+      "score": 81.59,
+      "post_count": 2,
+      "source_count": 2,
+      "best_rank": 59,
+      "sources": [
+        "루리웹",
+        "클리앙"
+      ],
+      "aliases": [],
+      "rank": 12,
       "change": "NEW"
     }
   ],
   "community_leaders": [
     {
       "source": "루리웹",
-      "title": "여중생들의 피시방 테러",
-      "url": "https://bbs.ruliweb.com/best/board/300143/read/77532063?m=humor",
-      "score": 96.59,
-      "views": 29297,
-      "comments": 50
+      "title": "나 학생땐 분명 미성년자는 커피 못 먹게하는 그런 사회적 분위기가 있었거든..",
+      "url": "https://bbs.ruliweb.com/best/board/300143/read/77533688?m=humor",
+      "score": 96.19,
+      "views": 17894,
+      "comments": 100
     },
     {
       "source": "디시인사이드",
       "title": "\" 내가 롤판은 잔인하다 느낀계기가 \"",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481984&_dcbest=1&page=1",
-      "score": 88.44,
-      "views": 16696,
-      "comments": 520
+      "score": 87.85,
+      "views": 20612,
+      "comments": 587
+    },
+    {
+      "source": "인벤",
+      "title": "AI 포팅으로 난리난 GTA6",
+      "url": "https://www.inven.co.kr/board/webzine/2097/2757064",
+      "score": 81.11,
+      "views": 1454,
+      "comments": 14
+    },
+    {
+      "source": "뽐뿌",
+      "title": "뮤지컬판에서 대참사 난 사건.jpg",
+      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10203132",
+      "score": 74.21,
+      "views": 28700,
+      "comments": 91
+    },
+    {
+      "source": "클리앙",
+      "title": "아파트 매매가 상승세 정점 찍은 거에 너무 큰 의미 부여하는 분들이 많네요",
+      "url": "https://www.clien.net/service/board/park/19299242?od=T31&po=0&category=0&groupCd=",
+      "score": 66.04,
+      "views": 186,
+      "comments": 2
     },
     {
       "source": "더쿠",
       "title": "핫게 뮤지컬 배우 사과문",
       "url": "https://theqoo.net/hot/4419500488",
-      "score": 80.68,
-      "views": 45330,
-      "comments": 330
-    },
-    {
-      "source": "뽐뿌",
-      "title": "문형배 헌재소장의 명언",
-      "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10203196",
-      "score": 77.47,
-      "views": 5243,
-      "comments": 6
-    },
-    {
-      "source": "클리앙",
-      "title": "수도권 아파트는 2026년이 히스토리컬 피크일 듯 합니다",
-      "url": "https://www.clien.net/service/board/park/19299206?od=T31&po=0&category=0&groupCd=",
-      "score": 75.67,
-      "views": 1902,
-      "comments": 33
-    },
-    {
-      "source": "인벤",
-      "title": "부산 실시간 덥다 ㅋㅋㅋ",
-      "url": "https://www.inven.co.kr/board/webzine/2097/2757049",
-      "score": 73.67,
-      "views": 1072,
-      "comments": 7
+      "score": 64.58,
+      "views": 56590,
+      "comments": 375
     }
   ]
 }
