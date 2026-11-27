@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-11-28T07:38:16.409114+09:00",
+  "collected_at": "2026-11-28T07:58:22.828464+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -11,53 +11,19 @@
   "rankings": {
     "realtime": [
       {
-        "id": "i9785fc48",
-        "title": "‘드디어’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "드디어"
-        ],
-        "source_count": 2,
-        "post_count": 3,
-        "score": 68.74,
-        "peak_score": 68.74,
-        "appearances": 1,
-        "sources": [
-          "뽐뿌",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 60,
-            "title": "강백호가 30엔에 강탈한.. 그 신발을 드디어 구했네요 ㄷㄷㄷ",
-            "url": "https://www.clien.net/service/board/park/19299518?od=T31&po=0&category=0&groupCd=",
-            "score": 58.74
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 64,
-            "title": "드디어! 결전의 오늘이 왔습니다!! Dday-0",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10204061",
-            "score": 57.86
-          }
-        ],
-        "rank": 1,
-        "change": "NEW"
-      },
-      {
         "id": "ia11a6822",
         "title": "판다 못 보내준다…교훈 얻길' 돌연 입장 바꾼 중국",
         "keywords": [
-          "보내준다",
-          "교훈",
           "돌연",
           "얻길",
-          "바꾼"
+          "입장",
+          "판다",
+          "보내준다"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 92.7,
-        "peak_score": 92.7,
+        "score": 89.77,
+        "peak_score": 89.77,
         "appearances": 1,
         "sources": [
           "인벤",
@@ -66,55 +32,21 @@
         "posts": [
           {
             "source": "클리앙",
-            "rank": 7,
+            "rank": 6,
             "title": "판다 못 보내준다…교훈 얻길' 돌연 입장 바꾼 중국",
             "url": "https://www.clien.net/service/board/park/19299528?od=T31&po=0&category=0&groupCd=",
-            "score": 84.7
+            "score": 81.77
           },
           {
             "source": "인벤",
-            "rank": 26,
+            "rank": 38,
             "title": "판다 못 보내준다…교훈 얻길\" 돌연 입장 바꾼 중국",
             "url": "https://www.inven.co.kr/board/webzine/2097/2757286",
-            "score": 68.37
+            "score": 64.35
           }
         ],
-        "rank": 2,
-        "change": "NEW"
-      },
-      {
-        "id": "i53e1b794",
-        "title": "‘성매매’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "성매매"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 88.49,
-        "peak_score": 88.49,
-        "appearances": 1,
-        "sources": [
-          "뽐뿌",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 9,
-            "title": "이번 일본 AV배우 성매매 기사를 보니 한명은 거의 확정 분위기네요.",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2757290",
-            "score": 79.49
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 36,
-            "title": "일본 av 배우 한국에서 성매매 검거",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10204043",
-            "score": 64.18
-          }
-        ],
-        "rank": 3,
-        "change": "NEW"
+        "rank": 1,
+        "change": 1
       },
       {
         "id": "i1a0292b7",
@@ -124,8 +56,8 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 82.38,
-        "peak_score": 82.38,
+        "score": 81.52,
+        "peak_score": 81.52,
         "appearances": 1,
         "sources": [
           "디시인사이드",
@@ -134,55 +66,55 @@
         "posts": [
           {
             "source": "디시인사이드",
-            "rank": 14,
+            "rank": 15,
             "title": "혼자 다니는 사람을 무시하면 안되는 이유",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=482102&_dcbest=1&page=1",
-            "score": 73.38
+            "score": 72.52
           },
           {
             "source": "루리웹",
-            "rank": 50,
+            "rank": 34,
             "title": "20년 넘게 운전하면서 가장 이해가 안되는 것.jpg",
             "url": "https://bbs.ruliweb.com/best/board/300143/read/77543056?m=humor_only&t=now",
-            "score": 62.2
+            "score": 64.9
           }
         ],
-        "rank": 4,
-        "change": "NEW"
+        "rank": 2,
+        "change": 2
       },
       {
-        "id": "i039fd79c",
-        "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i53e1b794",
+        "title": "‘성매매’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "이재명"
+          "성매매"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 79.0,
-        "peak_score": 79.0,
+        "score": 77.29,
+        "peak_score": 77.29,
         "appearances": 1,
         "sources": [
-          "인벤",
-          "클리앙"
+          "뽐뿌",
+          "인벤"
         ],
         "posts": [
           {
             "source": "인벤",
-            "rank": 22,
-            "title": "이재명 sns",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2757294",
-            "score": 70.0
+            "rank": 27,
+            "title": "이번 일본 AV배우 성매매 기사를 보니 한명은 거의 확정 분위기네요.",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2757290",
+            "score": 68.29
           },
           {
-            "source": "클리앙",
-            "rank": 61,
-            "title": "이재명 정부 지지율은 45% 내외가 맞긴하군요",
-            "url": "https://www.clien.net/service/board/park/19299505?od=T31&po=0&category=0&groupCd=",
-            "score": 58.54
+            "source": "뽐뿌",
+            "rank": 42,
+            "title": "일본 av 배우 한국에서 성매매 검거",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10204043",
+            "score": 63.32
           }
         ],
-        "rank": 5,
-        "change": "NEW"
+        "rank": 3,
+        "change": 0
       },
       {
         "id": "icb33dad5",
@@ -192,8 +124,8 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 79.0,
-        "peak_score": 79.0,
+        "score": 76.28,
+        "peak_score": 76.28,
         "appearances": 1,
         "sources": [
           "인벤",
@@ -202,55 +134,163 @@
         "posts": [
           {
             "source": "인벤",
-            "rank": 22,
+            "rank": 30,
             "title": "이재명 sns",
             "url": "https://www.inven.co.kr/board/webzine/2097/2757294",
-            "score": 70.0
+            "score": 67.28
           },
           {
             "source": "클리앙",
-            "rank": 68,
+            "rank": 91,
             "title": "특검, 'SNS 내란 선동' 혐의 황교안에 징역 10년 구형",
             "url": "https://www.clien.net/service/board/park/19299520?od=T31&po=0&category=0&groupCd=",
-            "score": 57.63
+            "score": 53.07
           }
         ],
-        "rank": 6,
-        "change": "NEW"
+        "rank": 4,
+        "change": 2
       },
       {
-        "id": "ib3876eed",
-        "title": "‘남자가’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i039fd79c",
+        "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "남자가"
+          "이재명"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 75.16,
-        "peak_score": 75.16,
+        "score": 76.28,
+        "peak_score": 76.28,
         "appearances": 1,
         "sources": [
-          "디시인사이드",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 30,
+            "title": "이재명 sns",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2757294",
+            "score": 67.28
+          },
+          {
+            "source": "클리앙",
+            "rank": 84,
+            "title": "이재명 정부 지지율은 45% 내외가 맞긴하군요",
+            "url": "https://www.clien.net/service/board/park/19299505?od=T31&po=0&category=0&groupCd=",
+            "score": 54.15
+          }
+        ],
+        "rank": 5,
+        "change": 0
+      },
+      {
+        "id": "ib3876eed",
+        "title": "‘사람들이’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "사람들이"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 71.19,
+        "peak_score": 71.19,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
           "인벤"
         ],
         "posts": [
           {
-            "source": "디시인사이드",
-            "rank": 30,
-            "title": "결혼 하려면 남자가 집을 해가야 한다는 두 나라 여자들을 비교해보자",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=482088&_dcbest=1&page=1",
-            "score": 66.16
+            "source": "인벤",
+            "rank": 48,
+            "title": "펌/사람들이 간과하는 제주도 크기jpg",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2757283",
+            "score": 62.19
+          },
+          {
+            "source": "루리웹",
+            "rank": 86,
+            "title": "순간적으로 모든 사람들이 착각하는 구도.jpg",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77543132?m=humor_only&t=now",
+            "score": 53.3
+          }
+        ],
+        "rank": 6,
+        "change": 1
+      },
+      {
+        "id": "i6f2d3b08",
+        "title": "6만 vs 27만…원정구매 부르는 약값, 해법 없나",
+        "keywords": [
+          "6만",
+          "vs",
+          "부르는",
+          "약값",
+          "없나",
+          "원정구매",
+          "27만"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 70.0,
+        "peak_score": 70.0,
+        "appearances": 1,
+        "sources": [
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 50,
+            "title": "6만 vs 27만…원정구매 부르는 약값, 해법 없나",
+            "url": "https://www.clien.net/service/board/park/19299537?od=T31&po=0&category=0&groupCd=",
+            "score": 62.0
           },
           {
             "source": "인벤",
-            "rank": 83,
-            "title": "남자가 흥분하는 대사 TOP 3",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2757274",
-            "score": 53.35
+            "rank": 62,
+            "title": "6만 vs 27만…원정구매 부르는 약값, 해법 없나",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2757301",
+            "score": 59.93
           }
         ],
         "rank": 7,
         "change": "NEW"
+      },
+      {
+        "id": "i9785fc48",
+        "title": "‘드디어’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "드디어"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 63.61,
+        "peak_score": 63.61,
+        "appearances": 1,
+        "sources": [
+          "뽐뿌",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 79,
+            "title": "드디어! 결전의 오늘이 왔습니다!! Dday-0",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10204061",
+            "score": 54.61
+          },
+          {
+            "source": "클리앙",
+            "rank": 81,
+            "title": "강백호가 30엔에 강탈한.. 그 신발을 드디어 구했네요 ㄷㄷㄷ",
+            "url": "https://www.clien.net/service/board/park/19299518?od=T31&po=0&category=0&groupCd=",
+            "score": 54.52
+          }
+        ],
+        "rank": 8,
+        "change": -7
       }
     ],
     "daily": [
@@ -258,17 +298,17 @@
         "id": "ia11a6822",
         "title": "판다 못 보내준다…교훈 얻길' 돌연 입장 바꾼 중국",
         "keywords": [
-          "보내준다",
-          "교훈",
           "돌연",
           "얻길",
-          "바꾼"
+          "입장",
+          "판다",
+          "보내준다"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 102.17,
+        "score": 104.19,
         "peak_score": 92.7,
-        "appearances": 1,
+        "appearances": 2,
         "sources": [
           "인벤",
           "클리앙"
@@ -276,25 +316,25 @@
         "posts": [
           {
             "source": "클리앙",
-            "rank": 7,
+            "rank": 6,
             "title": "판다 못 보내준다…교훈 얻길' 돌연 입장 바꾼 중국",
             "url": "https://www.clien.net/service/board/park/19299528?od=T31&po=0&category=0&groupCd=",
-            "score": 84.7
+            "score": 81.77
           },
           {
             "source": "인벤",
-            "rank": 26,
+            "rank": 38,
             "title": "판다 못 보내준다…교훈 얻길\" 돌연 입장 바꾼 중국",
             "url": "https://www.inven.co.kr/board/webzine/2097/2757286",
-            "score": 68.37
+            "score": 64.35
           }
         ],
         "first_seen": "2026-11-28T07:38:16.409114+09:00",
-        "last_seen": "2026-11-28T07:38:16.409114+09:00",
+        "last_seen": "2026-11-28T07:58:22.828464+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 1,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "i53e1b794",
@@ -304,9 +344,9 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 97.96,
+        "score": 99.98,
         "peak_score": 88.49,
-        "appearances": 1,
+        "appearances": 2,
         "sources": [
           "뽐뿌",
           "인벤"
@@ -314,25 +354,25 @@
         "posts": [
           {
             "source": "인벤",
-            "rank": 9,
+            "rank": 27,
             "title": "이번 일본 AV배우 성매매 기사를 보니 한명은 거의 확정 분위기네요.",
             "url": "https://www.inven.co.kr/board/webzine/2097/2757290",
-            "score": 79.49
+            "score": 68.29
           },
           {
             "source": "뽐뿌",
-            "rank": 36,
+            "rank": 42,
             "title": "일본 av 배우 한국에서 성매매 검거",
             "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10204043",
-            "score": 64.18
+            "score": 63.32
           }
         ],
         "first_seen": "2026-11-28T07:38:16.409114+09:00",
-        "last_seen": "2026-11-28T07:38:16.409114+09:00",
+        "last_seen": "2026-11-28T07:58:22.828464+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 2,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "i1a0292b7",
@@ -342,9 +382,9 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 91.85,
+        "score": 93.87,
         "peak_score": 82.38,
-        "appearances": 1,
+        "appearances": 2,
         "sources": [
           "디시인사이드",
           "루리웹"
@@ -352,25 +392,25 @@
         "posts": [
           {
             "source": "디시인사이드",
-            "rank": 14,
+            "rank": 15,
             "title": "혼자 다니는 사람을 무시하면 안되는 이유",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=482102&_dcbest=1&page=1",
-            "score": 73.38
+            "score": 72.52
           },
           {
             "source": "루리웹",
-            "rank": 50,
+            "rank": 34,
             "title": "20년 넘게 운전하면서 가장 이해가 안되는 것.jpg",
             "url": "https://bbs.ruliweb.com/best/board/300143/read/77543056?m=humor_only&t=now",
-            "score": 62.2
+            "score": 64.9
           }
         ],
         "first_seen": "2026-09-30T05:15:44.512747+09:00",
-        "last_seen": "2026-11-28T07:38:16.409114+09:00",
+        "last_seen": "2026-11-28T07:58:22.828464+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 3,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "i039fd79c",
@@ -380,9 +420,9 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 88.47,
+        "score": 90.49,
         "peak_score": 79.0,
-        "appearances": 1,
+        "appearances": 2,
         "sources": [
           "인벤",
           "클리앙"
@@ -390,25 +430,25 @@
         "posts": [
           {
             "source": "인벤",
-            "rank": 22,
+            "rank": 30,
             "title": "이재명 sns",
             "url": "https://www.inven.co.kr/board/webzine/2097/2757294",
-            "score": 70.0
+            "score": 67.28
           },
           {
             "source": "클리앙",
-            "rank": 61,
+            "rank": 84,
             "title": "이재명 정부 지지율은 45% 내외가 맞긴하군요",
             "url": "https://www.clien.net/service/board/park/19299505?od=T31&po=0&category=0&groupCd=",
-            "score": 58.54
+            "score": 54.15
           }
         ],
         "first_seen": "2026-09-27T13:38:37.715424+09:00",
-        "last_seen": "2026-11-28T07:38:16.409114+09:00",
+        "last_seen": "2026-11-28T07:58:22.828464+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 4,
-        "change": 5
+        "change": 0
       },
       {
         "id": "icb33dad5",
@@ -418,9 +458,9 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 88.47,
+        "score": 90.49,
         "peak_score": 79.0,
-        "appearances": 1,
+        "appearances": 2,
         "sources": [
           "인벤",
           "클리앙"
@@ -428,25 +468,25 @@
         "posts": [
           {
             "source": "인벤",
-            "rank": 22,
+            "rank": 30,
             "title": "이재명 sns",
             "url": "https://www.inven.co.kr/board/webzine/2097/2757294",
-            "score": 70.0
+            "score": 67.28
           },
           {
             "source": "클리앙",
-            "rank": 68,
+            "rank": 91,
             "title": "특검, 'SNS 내란 선동' 혐의 황교안에 징역 10년 구형",
             "url": "https://www.clien.net/service/board/park/19299520?od=T31&po=0&category=0&groupCd=",
-            "score": 57.63
+            "score": 53.07
           }
         ],
         "first_seen": "2026-09-29T18:03:51.886668+09:00",
-        "last_seen": "2026-11-28T07:38:16.409114+09:00",
+        "last_seen": "2026-11-28T07:58:22.828464+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 5,
-        "change": "NEW"
+        "change": 0
       },
       {
         "id": "i9785fc48",
@@ -456,34 +496,78 @@
         ],
         "source_count": 2,
         "post_count": 3,
-        "score": 79.21,
+        "score": 81.23,
         "peak_score": 68.74,
-        "appearances": 1,
+        "appearances": 2,
         "sources": [
           "뽐뿌",
           "클리앙"
         ],
         "posts": [
           {
-            "source": "클리앙",
-            "rank": 60,
-            "title": "강백호가 30엔에 강탈한.. 그 신발을 드디어 구했네요 ㄷㄷㄷ",
-            "url": "https://www.clien.net/service/board/park/19299518?od=T31&po=0&category=0&groupCd=",
-            "score": 58.74
-          },
-          {
             "source": "뽐뿌",
-            "rank": 64,
+            "rank": 79,
             "title": "드디어! 결전의 오늘이 왔습니다!! Dday-0",
             "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10204061",
-            "score": 57.86
+            "score": 54.61
+          },
+          {
+            "source": "클리앙",
+            "rank": 81,
+            "title": "강백호가 30엔에 강탈한.. 그 신발을 드디어 구했네요 ㄷㄷㄷ",
+            "url": "https://www.clien.net/service/board/park/19299518?od=T31&po=0&category=0&groupCd=",
+            "score": 54.52
           }
         ],
         "first_seen": "2026-10-04T11:44:43.352420+09:00",
-        "last_seen": "2026-11-28T07:38:16.409114+09:00",
+        "last_seen": "2026-11-28T07:58:22.828464+09:00",
         "latest_source_count": 2,
-        "latest_post_count": 3,
+        "latest_post_count": 2,
         "rank": 6,
+        "change": 0
+      },
+      {
+        "id": "i6f2d3b08",
+        "title": "6만 vs 27만…원정구매 부르는 약값, 해법 없나",
+        "keywords": [
+          "6만",
+          "vs",
+          "부르는",
+          "약값",
+          "없나",
+          "원정구매",
+          "27만"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 79.47,
+        "peak_score": 70.0,
+        "appearances": 1,
+        "sources": [
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 50,
+            "title": "6만 vs 27만…원정구매 부르는 약값, 해법 없나",
+            "url": "https://www.clien.net/service/board/park/19299537?od=T31&po=0&category=0&groupCd=",
+            "score": 62.0
+          },
+          {
+            "source": "인벤",
+            "rank": 62,
+            "title": "6만 vs 27만…원정구매 부르는 약값, 해법 없나",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2757301",
+            "score": 59.93
+          }
+        ],
+        "first_seen": "2026-11-28T07:58:22.828464+09:00",
+        "last_seen": "2026-11-28T07:58:22.828464+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 7,
         "change": "NEW"
       }
     ],
@@ -1087,6 +1171,48 @@
         "change": 0
       },
       {
+        "id": "ia11a6822",
+        "title": "판다 못 보내준다…교훈 얻길' 돌연 입장 바꾼 중국",
+        "keywords": [
+          "돌연",
+          "얻길",
+          "입장",
+          "판다",
+          "보내준다"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 104.19,
+        "peak_score": 92.7,
+        "appearances": 2,
+        "sources": [
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 6,
+            "title": "판다 못 보내준다…교훈 얻길' 돌연 입장 바꾼 중국",
+            "url": "https://www.clien.net/service/board/park/19299528?od=T31&po=0&category=0&groupCd=",
+            "score": 81.77
+          },
+          {
+            "source": "인벤",
+            "rank": 38,
+            "title": "판다 못 보내준다…교훈 얻길\" 돌연 입장 바꾼 중국",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2757286",
+            "score": 64.35
+          }
+        ],
+        "first_seen": "2026-11-28T07:38:16.409114+09:00",
+        "last_seen": "2026-11-28T07:58:22.828464+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 16,
+        "change": 2
+      },
+      {
         "id": "iede65e87",
         "title": "‘바꿨다’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -1121,8 +1247,8 @@
         "last_seen": "2026-11-23T11:57:15.870334+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 16,
-        "change": 0
+        "rank": 17,
+        "change": -1
       },
       {
         "id": "i9f81d2b8",
@@ -1159,50 +1285,8 @@
         "last_seen": "2026-11-25T11:36:04.941684+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 17,
-        "change": 0
-      },
-      {
-        "id": "ia11a6822",
-        "title": "판다 못 보내준다…교훈 얻길' 돌연 입장 바꾼 중국",
-        "keywords": [
-          "보내준다",
-          "교훈",
-          "돌연",
-          "얻길",
-          "바꾼"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 102.17,
-        "peak_score": 92.7,
-        "appearances": 1,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 7,
-            "title": "판다 못 보내준다…교훈 얻길' 돌연 입장 바꾼 중국",
-            "url": "https://www.clien.net/service/board/park/19299528?od=T31&po=0&category=0&groupCd=",
-            "score": 84.7
-          },
-          {
-            "source": "인벤",
-            "rank": 26,
-            "title": "판다 못 보내준다…교훈 얻길\" 돌연 입장 바꾼 중국",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2757286",
-            "score": 68.37
-          }
-        ],
-        "first_seen": "2026-11-28T07:38:16.409114+09:00",
-        "last_seen": "2026-11-28T07:38:16.409114+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 18,
-        "change": "NEW"
+        "change": -1
       },
       {
         "id": "ifa1162d8",
@@ -1240,7 +1324,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 19,
-        "change": -1
+        "change": 0
       },
       {
         "id": "i3431c727",
@@ -1280,7 +1364,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 20,
-        "change": -1
+        "change": 0
       }
     ],
     "monthly": [
@@ -1723,7 +1807,7 @@
         "latest_source_count": 3,
         "latest_post_count": 3,
         "rank": 10,
-        "change": 1
+        "change": 0
       },
       {
         "id": "ib31b3615",
@@ -1763,7 +1847,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 11,
-        "change": 1
+        "change": 0
       },
       {
         "id": "i5d449f3d",
@@ -1809,7 +1893,7 @@
         "latest_source_count": 3,
         "latest_post_count": 3,
         "rank": 12,
-        "change": 1
+        "change": 0
       },
       {
         "id": "i6fb7ee77",
@@ -1850,7 +1934,7 @@
         "latest_source_count": 2,
         "latest_post_count": 3,
         "rank": 13,
-        "change": 1
+        "change": 0
       },
       {
         "id": "i5d6688ff",
@@ -1888,7 +1972,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 14,
-        "change": 1
+        "change": 0
       },
       {
         "id": "ife021da2",
@@ -1928,7 +2012,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 15,
-        "change": 1
+        "change": 0
       },
       {
         "id": "i7b918478",
@@ -1968,7 +2052,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 16,
-        "change": 1
+        "change": 0
       },
       {
         "id": "i27245075",
@@ -2010,7 +2094,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 17,
-        "change": 1
+        "change": 0
       },
       {
         "id": "i0cdcc665",
@@ -2051,7 +2135,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 18,
-        "change": 1
+        "change": 0
       },
       {
         "id": "i2e26d9ac",
@@ -2091,7 +2175,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 19,
-        "change": 1
+        "change": 0
       },
       {
         "id": "i5d031567",
@@ -2138,7 +2222,7 @@
         "latest_source_count": 3,
         "latest_post_count": 6,
         "rank": 20,
-        "change": "NEW"
+        "change": 0
       }
     ]
   }
