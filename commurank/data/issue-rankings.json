@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-11-28T07:58:22.828464+09:00",
+  "collected_at": "2026-11-28T13:19:13.509768+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -11,251 +11,53 @@
   "rankings": {
     "realtime": [
       {
-        "id": "ia11a6822",
-        "title": "판다 못 보내준다…교훈 얻길' 돌연 입장 바꾼 중국",
+        "id": "i36ddd5fd",
+        "title": "‘민주당’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "돌연",
-          "얻길",
-          "입장",
-          "판다",
-          "보내준다"
+          "민주당"
         ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 89.77,
-        "peak_score": 89.77,
-        "appearances": 1,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 6,
-            "title": "판다 못 보내준다…교훈 얻길' 돌연 입장 바꾼 중국",
-            "url": "https://www.clien.net/service/board/park/19299528?od=T31&po=0&category=0&groupCd=",
-            "score": 81.77
-          },
-          {
-            "source": "인벤",
-            "rank": 38,
-            "title": "판다 못 보내준다…교훈 얻길\" 돌연 입장 바꾼 중국",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2757286",
-            "score": 64.35
-          }
-        ],
-        "rank": 1,
-        "change": 1
-      },
-      {
-        "id": "i1a0292b7",
-        "title": "‘안되는’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "안되는"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 81.52,
-        "peak_score": 81.52,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "루리웹"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 15,
-            "title": "혼자 다니는 사람을 무시하면 안되는 이유",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=482102&_dcbest=1&page=1",
-            "score": 72.52
-          },
-          {
-            "source": "루리웹",
-            "rank": 34,
-            "title": "20년 넘게 운전하면서 가장 이해가 안되는 것.jpg",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77543056?m=humor_only&t=now",
-            "score": 64.9
-          }
-        ],
-        "rank": 2,
-        "change": 2
-      },
-      {
-        "id": "i53e1b794",
-        "title": "‘성매매’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "성매매"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 77.29,
-        "peak_score": 77.29,
-        "appearances": 1,
-        "sources": [
-          "뽐뿌",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 27,
-            "title": "이번 일본 AV배우 성매매 기사를 보니 한명은 거의 확정 분위기네요.",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2757290",
-            "score": 68.29
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 42,
-            "title": "일본 av 배우 한국에서 성매매 검거",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10204043",
-            "score": 63.32
-          }
-        ],
-        "rank": 3,
-        "change": 0
-      },
-      {
-        "id": "icb33dad5",
-        "title": "‘sns’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "sns"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 76.28,
-        "peak_score": 76.28,
-        "appearances": 1,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 30,
-            "title": "이재명 sns",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2757294",
-            "score": 67.28
-          },
-          {
-            "source": "클리앙",
-            "rank": 91,
-            "title": "특검, 'SNS 내란 선동' 혐의 황교안에 징역 10년 구형",
-            "url": "https://www.clien.net/service/board/park/19299520?od=T31&po=0&category=0&groupCd=",
-            "score": 53.07
-          }
-        ],
-        "rank": 4,
-        "change": 2
-      },
-      {
-        "id": "i039fd79c",
-        "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "이재명"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 76.28,
-        "peak_score": 76.28,
-        "appearances": 1,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 30,
-            "title": "이재명 sns",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2757294",
-            "score": 67.28
-          },
-          {
-            "source": "클리앙",
-            "rank": 84,
-            "title": "이재명 정부 지지율은 45% 내외가 맞긴하군요",
-            "url": "https://www.clien.net/service/board/park/19299505?od=T31&po=0&category=0&groupCd=",
-            "score": 54.15
-          }
-        ],
-        "rank": 5,
-        "change": 0
-      },
-      {
-        "id": "ib3876eed",
-        "title": "‘사람들이’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "사람들이"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 71.19,
-        "peak_score": 71.19,
+        "source_count": 4,
+        "post_count": 4,
+        "score": 86.61,
+        "peak_score": 86.61,
         "appearances": 1,
         "sources": [
           "루리웹",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 48,
-            "title": "펌/사람들이 간과하는 제주도 크기jpg",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2757283",
-            "score": 62.19
-          },
-          {
-            "source": "루리웹",
-            "rank": 86,
-            "title": "순간적으로 모든 사람들이 착각하는 구도.jpg",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77543132?m=humor_only&t=now",
-            "score": 53.3
-          }
-        ],
-        "rank": 6,
-        "change": 1
-      },
-      {
-        "id": "i6f2d3b08",
-        "title": "6만 vs 27만…원정구매 부르는 약값, 해법 없나",
-        "keywords": [
-          "6만",
-          "vs",
-          "부르는",
-          "약값",
-          "없나",
-          "원정구매",
-          "27만"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 70.0,
-        "peak_score": 70.0,
-        "appearances": 1,
-        "sources": [
+          "뽐뿌",
           "인벤",
           "클리앙"
         ],
         "posts": [
           {
-            "source": "클리앙",
-            "rank": 50,
-            "title": "6만 vs 27만…원정구매 부르는 약값, 해법 없나",
-            "url": "https://www.clien.net/service/board/park/19299537?od=T31&po=0&category=0&groupCd=",
-            "score": 62.0
+            "source": "인벤",
+            "rank": 54,
+            "title": "전두환 내란죄 재심청구 추진\"…민주당 \"조희대 사법부가 빌미 줬다",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2757364",
+            "score": 61.61
           },
           {
-            "source": "인벤",
-            "rank": 62,
-            "title": "6만 vs 27만…원정구매 부르는 약값, 해법 없나",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2757301",
-            "score": 59.93
+            "source": "클리앙",
+            "rank": 55,
+            "title": "지금 민주당 망했다 이런 저런 소리 나오지만",
+            "url": "https://www.clien.net/service/board/park/19299591?od=T31&po=0&category=0&groupCd=",
+            "score": 61.55
+          },
+          {
+            "source": "루리웹",
+            "rank": 78,
+            "title": "드디어 도람푸 다루는 법을 깨달은 미국 민주당.jpg",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77545302?m=humor_only&t=now",
+            "score": 56.38
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 92,
+            "title": "이재명) 대통냥이의 민주당 탈당을 요구합니다",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10204104",
+            "score": 52.01
           }
         ],
-        "rank": 7,
+        "rank": 1,
         "change": "NEW"
       },
       {
@@ -264,36 +66,362 @@
         "keywords": [
           "드디어"
         ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 63.61,
-        "peak_score": 63.61,
+        "source_count": 3,
+        "post_count": 3,
+        "score": 94.86,
+        "peak_score": 94.86,
         "appearances": 1,
         "sources": [
+          "디시인사이드",
+          "루리웹",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 11,
+            "title": "(스뽀) 씨발 드디어 엔딩봤다 캬 씨발 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=482191&_dcbest=1&page=1",
+            "score": 77.86
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 22,
+            "title": "드디어! 결전의 오늘이 왔습니다!! 5시간전..ㅇ.ㅇ",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10204312",
+            "score": 72.12
+          },
+          {
+            "source": "루리웹",
+            "rank": 78,
+            "title": "드디어 도람푸 다루는 법을 깨달은 미국 민주당.jpg",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77545302?m=humor_only&t=now",
+            "score": 56.38
+          }
+        ],
+        "rank": 2,
+        "change": 6
+      },
+      {
+        "id": "i039fd79c",
+        "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "이재명"
+        ],
+        "source_count": 3,
+        "post_count": 3,
+        "score": 79.21,
+        "peak_score": 79.21,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
           "뽐뿌",
           "클리앙"
         ],
         "posts": [
           {
-            "source": "뽐뿌",
-            "rank": 79,
-            "title": "드디어! 결전의 오늘이 왔습니다!! Dday-0",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10204061",
-            "score": 54.61
+            "source": "더쿠",
+            "rank": 49,
+            "title": "시장에서 호떡 먹는 이재명 대통령",
+            "url": "https://theqoo.net/hot/4420253536",
+            "score": 62.21
           },
           {
             "source": "클리앙",
-            "rank": 81,
-            "title": "강백호가 30엔에 강탈한.. 그 신발을 드디어 구했네요 ㄷㄷㄷ",
-            "url": "https://www.clien.net/service/board/park/19299518?od=T31&po=0&category=0&groupCd=",
-            "score": 54.52
+            "rank": 52,
+            "title": "이재명 대통령도 작심 비판.. 성형외과 가짜 후기 파문",
+            "url": "https://www.clien.net/service/board/park/19299597?od=T31&po=0&category=0&groupCd=",
+            "score": 61.67
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 92,
+            "title": "이재명) 대통냥이의 민주당 탈당을 요구합니다",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10204104",
+            "score": 52.01
+          }
+        ],
+        "rank": 3,
+        "change": 2
+      },
+      {
+        "id": "i35612e8e",
+        "title": "서빙로봇에 부딪힌 아이, 갈비탕에 화상…\"고소 진행 중\"",
+        "keywords": [
+          "고소",
+          "부딪힌",
+          "진행",
+          "아이",
+          "갈비탕에",
+          "서빙로봇에"
+        ],
+        "source_count": 2,
+        "post_count": 3,
+        "score": 88.15,
+        "peak_score": 88.15,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 10,
+            "title": "서빙로봇에 부딪힌 아이, 갈비탕에 화상…\"고소 진행 중\"",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2757368",
+            "score": 79.15
+          },
+          {
+            "source": "더쿠",
+            "rank": 41,
+            "title": "핫게 서빙로봇에 부딪힌 아이, 갈비탕에 화상…\"고소 진행 중\" [영상] 의 다른 영상",
+            "url": "https://theqoo.net/hot/4420221502",
+            "score": 65.42
+          }
+        ],
+        "rank": 4,
+        "change": "NEW"
+      },
+      {
+        "id": "i18d29d98",
+        "title": "‘놀이터에서’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "놀이터에서"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 76.74,
+        "peak_score": 76.74,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 34,
+            "title": "(ㅎㅂ) 놀이터에서 빤쮸 보여주는 눈나",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2757354",
+            "score": 67.74
+          },
+          {
+            "source": "루리웹",
+            "rank": 62,
+            "title": "독일 대학원생, 놀이터에서 울다가 벌금형",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77545308?m=humor_only&t=now",
+            "score": 60.01
+          }
+        ],
+        "rank": 5,
+        "change": "NEW"
+      },
+      {
+        "id": "i499c9863",
+        "title": "‘av배우’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "av배우"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 75.24,
+        "peak_score": 75.24,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 38,
+            "title": "일본 av배우 한국에서 성매매 적발",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77545377?m=humor_only&t=now",
+            "score": 66.24
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 45,
+            "title": "AV배우 20명, 한국 성X매 시간당 \"1,000만원\"",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10203860",
+            "score": 64.55
+          }
+        ],
+        "rank": 6,
+        "change": "NEW"
+      },
+      {
+        "id": "i4e02d9ce",
+        "title": "‘합니다’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "합니다"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 75.13,
+        "peak_score": 75.13,
+        "appearances": 1,
+        "sources": [
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 39,
+            "title": "종부세는 정당한 세금입니다. 더 올려야 합니다.",
+            "url": "https://www.clien.net/service/board/park/19299594?od=T31&po=0&category=0&groupCd=",
+            "score": 66.13
+          },
+          {
+            "source": "인벤",
+            "rank": 58,
+            "title": "ㅇㅎ) 문화재를 소개해볼까 합니다",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2757350",
+            "score": 61.1
+          }
+        ],
+        "rank": 7,
+        "change": "NEW"
+      },
+      {
+        "id": "if553a5cf",
+        "title": "‘트럼프’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "트럼프"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 75.02,
+        "peak_score": 75.02,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 40,
+            "title": "호남 반도체에 태클거는 트럼프 정부",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2757362",
+            "score": 66.02
+          },
+          {
+            "source": "루리웹",
+            "rank": 67,
+            "title": "민주당이 승리할때 다가올 디스토피아를 경고했던 트럼프",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77545370?m=humor_only&t=now",
+            "score": 58.89
           }
         ],
         "rank": 8,
-        "change": -7
+        "change": "NEW"
       }
     ],
     "daily": [
+      {
+        "id": "i9785fc48",
+        "title": "‘드디어’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "드디어"
+        ],
+        "source_count": 3,
+        "post_count": 3,
+        "score": 112.79,
+        "peak_score": 94.86,
+        "appearances": 3,
+        "sources": [
+          "디시인사이드",
+          "루리웹",
+          "뽐뿌",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 11,
+            "title": "(스뽀) 씨발 드디어 엔딩봤다 캬 씨발 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=482191&_dcbest=1&page=1",
+            "score": 77.86
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 22,
+            "title": "드디어! 결전의 오늘이 왔습니다!! 5시간전..ㅇ.ㅇ",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10204312",
+            "score": 72.12
+          },
+          {
+            "source": "루리웹",
+            "rank": 78,
+            "title": "드디어 도람푸 다루는 법을 깨달은 미국 민주당.jpg",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77545302?m=humor_only&t=now",
+            "score": 56.38
+          }
+        ],
+        "first_seen": "2026-10-04T11:44:43.352420+09:00",
+        "last_seen": "2026-11-28T13:19:13.509768+09:00",
+        "latest_source_count": 3,
+        "latest_post_count": 3,
+        "rank": 1,
+        "change": 5
+      },
+      {
+        "id": "i36ddd5fd",
+        "title": "‘민주당’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "민주당"
+        ],
+        "source_count": 4,
+        "post_count": 4,
+        "score": 106.08,
+        "peak_score": 86.61,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "뽐뿌",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 54,
+            "title": "전두환 내란죄 재심청구 추진\"…민주당 \"조희대 사법부가 빌미 줬다",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2757364",
+            "score": 61.61
+          },
+          {
+            "source": "클리앙",
+            "rank": 55,
+            "title": "지금 민주당 망했다 이런 저런 소리 나오지만",
+            "url": "https://www.clien.net/service/board/park/19299591?od=T31&po=0&category=0&groupCd=",
+            "score": 61.55
+          },
+          {
+            "source": "루리웹",
+            "rank": 78,
+            "title": "드디어 도람푸 다루는 법을 깨달은 미국 민주당.jpg",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77545302?m=humor_only&t=now",
+            "score": 56.38
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 92,
+            "title": "이재명) 대통냥이의 민주당 탈당을 요구합니다",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10204104",
+            "score": 52.01
+          }
+        ],
+        "first_seen": "2026-09-30T08:46:44.153676+09:00",
+        "last_seen": "2026-11-28T13:19:13.509768+09:00",
+        "latest_source_count": 4,
+        "latest_post_count": 4,
+        "rank": 2,
+        "change": "NEW"
+      },
       {
         "id": "ia11a6822",
         "title": "판다 못 보내준다…교훈 얻길' 돌연 입장 바꾼 중국",
@@ -333,8 +461,8 @@
         "last_seen": "2026-11-28T07:58:22.828464+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 1,
-        "change": 0
+        "rank": 3,
+        "change": -2
       },
       {
         "id": "i53e1b794",
@@ -371,8 +499,98 @@
         "last_seen": "2026-11-28T07:58:22.828464+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 2,
-        "change": 0
+        "rank": 4,
+        "change": -2
+      },
+      {
+        "id": "i35612e8e",
+        "title": "서빙로봇에 부딪힌 아이, 갈비탕에 화상…\"고소 진행 중\"",
+        "keywords": [
+          "고소",
+          "부딪힌",
+          "진행",
+          "아이",
+          "갈비탕에",
+          "서빙로봇에"
+        ],
+        "source_count": 2,
+        "post_count": 3,
+        "score": 98.62,
+        "peak_score": 88.15,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 10,
+            "title": "서빙로봇에 부딪힌 아이, 갈비탕에 화상…\"고소 진행 중\"",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2757368",
+            "score": 79.15
+          },
+          {
+            "source": "더쿠",
+            "rank": 41,
+            "title": "핫게 서빙로봇에 부딪힌 아이, 갈비탕에 화상…\"고소 진행 중\" [영상] 의 다른 영상",
+            "url": "https://theqoo.net/hot/4420221502",
+            "score": 65.42
+          }
+        ],
+        "first_seen": "2026-11-28T13:19:13.509768+09:00",
+        "last_seen": "2026-11-28T13:19:13.509768+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 3,
+        "rank": 5,
+        "change": "NEW"
+      },
+      {
+        "id": "i039fd79c",
+        "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "이재명"
+        ],
+        "source_count": 3,
+        "post_count": 3,
+        "score": 97.14,
+        "peak_score": 79.21,
+        "appearances": 3,
+        "sources": [
+          "더쿠",
+          "뽐뿌",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "더쿠",
+            "rank": 49,
+            "title": "시장에서 호떡 먹는 이재명 대통령",
+            "url": "https://theqoo.net/hot/4420253536",
+            "score": 62.21
+          },
+          {
+            "source": "클리앙",
+            "rank": 52,
+            "title": "이재명 대통령도 작심 비판.. 성형외과 가짜 후기 파문",
+            "url": "https://www.clien.net/service/board/park/19299597?od=T31&po=0&category=0&groupCd=",
+            "score": 61.67
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 92,
+            "title": "이재명) 대통냥이의 민주당 탈당을 요구합니다",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10204104",
+            "score": 52.01
+          }
+        ],
+        "first_seen": "2026-09-27T13:38:37.715424+09:00",
+        "last_seen": "2026-11-28T13:19:13.509768+09:00",
+        "latest_source_count": 3,
+        "latest_post_count": 3,
+        "rank": 6,
+        "change": -2
       },
       {
         "id": "i1a0292b7",
@@ -409,46 +627,8 @@
         "last_seen": "2026-11-28T07:58:22.828464+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 3,
-        "change": 0
-      },
-      {
-        "id": "i039fd79c",
-        "title": "‘이재명’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "이재명"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 90.49,
-        "peak_score": 79.0,
-        "appearances": 2,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "인벤",
-            "rank": 30,
-            "title": "이재명 sns",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2757294",
-            "score": 67.28
-          },
-          {
-            "source": "클리앙",
-            "rank": 84,
-            "title": "이재명 정부 지지율은 45% 내외가 맞긴하군요",
-            "url": "https://www.clien.net/service/board/park/19299505?od=T31&po=0&category=0&groupCd=",
-            "score": 54.15
-          }
-        ],
-        "first_seen": "2026-09-27T13:38:37.715424+09:00",
-        "last_seen": "2026-11-28T07:58:22.828464+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 4,
-        "change": 0
+        "rank": 7,
+        "change": -4
       },
       {
         "id": "icb33dad5",
@@ -485,46 +665,160 @@
         "last_seen": "2026-11-28T07:58:22.828464+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 5,
-        "change": 0
+        "rank": 8,
+        "change": -3
       },
       {
-        "id": "i9785fc48",
-        "title": "‘드디어’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i18d29d98",
+        "title": "‘놀이터에서’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "드디어"
+          "놀이터에서"
         ],
         "source_count": 2,
-        "post_count": 3,
-        "score": 81.23,
-        "peak_score": 68.74,
-        "appearances": 2,
+        "post_count": 2,
+        "score": 86.21,
+        "peak_score": 76.74,
+        "appearances": 1,
         "sources": [
-          "뽐뿌",
+          "루리웹",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 34,
+            "title": "(ㅎㅂ) 놀이터에서 빤쮸 보여주는 눈나",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2757354",
+            "score": 67.74
+          },
+          {
+            "source": "루리웹",
+            "rank": 62,
+            "title": "독일 대학원생, 놀이터에서 울다가 벌금형",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77545308?m=humor_only&t=now",
+            "score": 60.01
+          }
+        ],
+        "first_seen": "2026-11-28T13:19:13.509768+09:00",
+        "last_seen": "2026-11-28T13:19:13.509768+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 9,
+        "change": "NEW"
+      },
+      {
+        "id": "i499c9863",
+        "title": "‘av배우’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "av배우"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 84.71,
+        "peak_score": 75.24,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 38,
+            "title": "일본 av배우 한국에서 성매매 적발",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77545377?m=humor_only&t=now",
+            "score": 66.24
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 45,
+            "title": "AV배우 20명, 한국 성X매 시간당 \"1,000만원\"",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10203860",
+            "score": 64.55
+          }
+        ],
+        "first_seen": "2026-11-28T13:19:13.509768+09:00",
+        "last_seen": "2026-11-28T13:19:13.509768+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 10,
+        "change": "NEW"
+      },
+      {
+        "id": "i4e02d9ce",
+        "title": "‘합니다’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "합니다"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 84.6,
+        "peak_score": 75.13,
+        "appearances": 1,
+        "sources": [
+          "인벤",
           "클리앙"
         ],
         "posts": [
           {
-            "source": "뽐뿌",
-            "rank": 79,
-            "title": "드디어! 결전의 오늘이 왔습니다!! Dday-0",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10204061",
-            "score": 54.61
+            "source": "클리앙",
+            "rank": 39,
+            "title": "종부세는 정당한 세금입니다. 더 올려야 합니다.",
+            "url": "https://www.clien.net/service/board/park/19299594?od=T31&po=0&category=0&groupCd=",
+            "score": 66.13
           },
           {
-            "source": "클리앙",
-            "rank": 81,
-            "title": "강백호가 30엔에 강탈한.. 그 신발을 드디어 구했네요 ㄷㄷㄷ",
-            "url": "https://www.clien.net/service/board/park/19299518?od=T31&po=0&category=0&groupCd=",
-            "score": 54.52
+            "source": "인벤",
+            "rank": 58,
+            "title": "ㅇㅎ) 문화재를 소개해볼까 합니다",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2757350",
+            "score": 61.1
           }
         ],
-        "first_seen": "2026-10-04T11:44:43.352420+09:00",
-        "last_seen": "2026-11-28T07:58:22.828464+09:00",
+        "first_seen": "2026-11-28T13:19:13.509768+09:00",
+        "last_seen": "2026-11-28T13:19:13.509768+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 6,
-        "change": 0
+        "rank": 11,
+        "change": "NEW"
+      },
+      {
+        "id": "if553a5cf",
+        "title": "‘트럼프’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "트럼프"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 84.49,
+        "peak_score": 75.02,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "인벤"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 40,
+            "title": "호남 반도체에 태클거는 트럼프 정부",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2757362",
+            "score": 66.02
+          },
+          {
+            "source": "루리웹",
+            "rank": 67,
+            "title": "민주당이 승리할때 다가올 디스토피아를 경고했던 트럼프",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77545370?m=humor_only&t=now",
+            "score": 58.89
+          }
+        ],
+        "first_seen": "2026-10-02T11:10:36.587418+09:00",
+        "last_seen": "2026-11-28T13:19:13.509768+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 12,
+        "change": "NEW"
       },
       {
         "id": "i6f2d3b08",
@@ -567,8 +861,8 @@
         "last_seen": "2026-11-28T07:58:22.828464+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 7,
-        "change": "NEW"
+        "rank": 13,
+        "change": -6
       }
     ],
     "weekly": [
@@ -886,6 +1180,54 @@
         "change": 0
       },
       {
+        "id": "i9785fc48",
+        "title": "‘드디어’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "드디어"
+        ],
+        "source_count": 3,
+        "post_count": 3,
+        "score": 113.91,
+        "peak_score": 94.86,
+        "appearances": 4,
+        "sources": [
+          "더쿠",
+          "디시인사이드",
+          "루리웹",
+          "뽐뿌",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 11,
+            "title": "(스뽀) 씨발 드디어 엔딩봤다 캬 씨발 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=482191&_dcbest=1&page=1",
+            "score": 77.86
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 22,
+            "title": "드디어! 결전의 오늘이 왔습니다!! 5시간전..ㅇ.ㅇ",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10204312",
+            "score": 72.12
+          },
+          {
+            "source": "루리웹",
+            "rank": 78,
+            "title": "드디어 도람푸 다루는 법을 깨달은 미국 민주당.jpg",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77545302?m=humor_only&t=now",
+            "score": 56.38
+          }
+        ],
+        "first_seen": "2026-10-04T11:44:43.352420+09:00",
+        "last_seen": "2026-11-28T13:19:13.509768+09:00",
+        "latest_source_count": 3,
+        "latest_post_count": 3,
+        "rank": 9,
+        "change": "NEW"
+      },
+      {
         "id": "ida1c1518",
         "title": "‘피해자’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
@@ -920,8 +1262,8 @@
         "last_seen": "2026-11-27T22:59:22.133213+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 9,
-        "change": 0
+        "rank": 10,
+        "change": -1
       },
       {
         "id": "ieef124d4",
@@ -958,8 +1300,8 @@
         "last_seen": "2026-11-26T21:51:45.138557+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 10,
-        "change": 0
+        "rank": 11,
+        "change": -1
       },
       {
         "id": "ic6b73da7",
@@ -996,8 +1338,8 @@
         "last_seen": "2026-11-23T01:52:59.165787+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
-        "change": 0
+        "rank": 12,
+        "change": -1
       },
       {
         "id": "i8b74914e",
@@ -1035,8 +1377,8 @@
         "last_seen": "2026-11-26T07:10:58.795868+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 12,
-        "change": 0
+        "rank": 13,
+        "change": -1
       },
       {
         "id": "i91f13db9",
@@ -1078,8 +1420,8 @@
         "last_seen": "2026-11-27T13:46:21.707350+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 13,
-        "change": 0
+        "rank": 14,
+        "change": -1
       },
       {
         "id": "i4dea1b92",
@@ -1127,8 +1469,62 @@
         "last_seen": "2026-11-24T08:52:32.673010+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 14,
-        "change": 0
+        "rank": 15,
+        "change": -1
+      },
+      {
+        "id": "i36ddd5fd",
+        "title": "‘민주당’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "민주당"
+        ],
+        "source_count": 4,
+        "post_count": 4,
+        "score": 106.08,
+        "peak_score": 86.61,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "뽐뿌",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "인벤",
+            "rank": 54,
+            "title": "전두환 내란죄 재심청구 추진\"…민주당 \"조희대 사법부가 빌미 줬다",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2757364",
+            "score": 61.61
+          },
+          {
+            "source": "클리앙",
+            "rank": 55,
+            "title": "지금 민주당 망했다 이런 저런 소리 나오지만",
+            "url": "https://www.clien.net/service/board/park/19299591?od=T31&po=0&category=0&groupCd=",
+            "score": 61.55
+          },
+          {
+            "source": "루리웹",
+            "rank": 78,
+            "title": "드디어 도람푸 다루는 법을 깨달은 미국 민주당.jpg",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77545302?m=humor_only&t=now",
+            "score": 56.38
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 92,
+            "title": "이재명) 대통냥이의 민주당 탈당을 요구합니다",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10204104",
+            "score": 52.01
+          }
+        ],
+        "first_seen": "2026-09-30T08:46:44.153676+09:00",
+        "last_seen": "2026-11-28T13:19:13.509768+09:00",
+        "latest_source_count": 4,
+        "latest_post_count": 4,
+        "rank": 16,
+        "change": "NEW"
       },
       {
         "id": "i2a188a14",
@@ -1167,8 +1563,8 @@
         "last_seen": "2026-11-23T11:57:15.870334+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 15,
-        "change": 0
+        "rank": 17,
+        "change": -2
       },
       {
         "id": "ia11a6822",
@@ -1209,8 +1605,8 @@
         "last_seen": "2026-11-28T07:58:22.828464+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 16,
-        "change": 2
+        "rank": 18,
+        "change": -2
       },
       {
         "id": "iede65e87",
@@ -1247,8 +1643,8 @@
         "last_seen": "2026-11-23T11:57:15.870334+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 17,
-        "change": -1
+        "rank": 19,
+        "change": -2
       },
       {
         "id": "i9f81d2b8",
@@ -1285,86 +1681,8 @@
         "last_seen": "2026-11-25T11:36:04.941684+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 18,
-        "change": -1
-      },
-      {
-        "id": "ifa1162d8",
-        "title": "‘교도소’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "교도소"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 102.13,
-        "peak_score": 90.64,
-        "appearances": 2,
-        "sources": [
-          "더쿠",
-          "디시인사이드"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 9,
-            "title": "와들와들 조주빈과 최원종이 갇혀있는 교도소.JPG",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481887&_dcbest=1&page=1",
-            "score": 78.79
-          },
-          {
-            "source": "더쿠",
-            "rank": 95,
-            "title": "교도소 과밀화 해결이 시급한 이유.jpg",
-            "url": "https://theqoo.net/hot/4419179072",
-            "score": 51.26
-          }
-        ],
-        "first_seen": "2026-11-27T06:59:49.673285+09:00",
-        "last_seen": "2026-11-27T07:47:39.401004+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 19,
-        "change": 0
-      },
-      {
-        "id": "i3431c727",
-        "title": "중국 길거리의 공중 라이터 수준",
-        "keywords": [
-          "공중",
-          "라이터",
-          "중국"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 101.39,
-        "peak_score": 91.92,
-        "appearances": 1,
-        "sources": [
-          "뽐뿌",
-          "인벤"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 6,
-            "title": "중국 길거리의 공중 라이터 수준",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10202296",
-            "score": 83.92
-          },
-          {
-            "source": "인벤",
-            "rank": 45,
-            "title": "중국 길거리 공중 라이터 시설",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2756862",
-            "score": 61.99
-          }
-        ],
-        "first_seen": "2026-11-26T21:51:45.138557+09:00",
-        "last_seen": "2026-11-26T21:51:45.138557+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 20,
-        "change": 0
+        "change": -2
       }
     ],
     "monthly": [
