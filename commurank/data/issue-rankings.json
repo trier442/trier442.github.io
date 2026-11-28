@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-11-28T22:17:17.669436+09:00",
+  "collected_at": "2026-11-28T22:38:40.905075+09:00",
   "timezone": "Asia/Seoul",
   "period_basis": {
     "realtime": "현재 여러 커뮤니티에서 동시에 포착된 이슈",
@@ -12,59 +12,16 @@
     "realtime": [
       {
         "id": "i01009091",
-        "title": "김민석 사퇴 집회. 박수를 보내 드립니다!",
+        "title": "남대문 스카프 아저씨 vs 김민석 사퇴 집회",
         "keywords": [
           "김민석",
-          "사퇴",
-          "집회"
-        ],
-        "source_count": 3,
-        "post_count": 4,
-        "score": 85.32,
-        "peak_score": 85.32,
-        "appearances": 1,
-        "sources": [
-          "뽐뿌",
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 21,
-            "title": "김민석 사퇴 집회. 박수를 보내 드립니다!",
-            "url": "https://www.clien.net/service/board/park/19299769?od=T31&po=0&category=0&groupCd=",
-            "score": 69.32
-          },
-          {
-            "source": "인벤",
-            "rank": 24,
-            "title": "남대문 스카프 아저씨 vs 김민석 사퇴 집회",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2757463",
-            "score": 68.87
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 91,
-            "title": "mbc의 김민석 사퇴 집회 영상 잘 잡음",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10204728",
-            "score": 52.15
-          }
-        ],
-        "rank": 1,
-        "change": "NEW"
-      },
-      {
-        "id": "ie76ac61e",
-        "title": "김민석 사퇴집회 MBC보도. 많은인원",
-        "keywords": [
-          "김민석",
-          "사퇴집회"
+          "집회",
+          "사퇴"
         ],
         "source_count": 2,
         "post_count": 3,
-        "score": 75.75,
-        "peak_score": 75.75,
+        "score": 78.27,
+        "peak_score": 78.27,
         "appearances": 1,
         "sources": [
           "인벤",
@@ -73,88 +30,61 @@
         "posts": [
           {
             "source": "클리앙",
-            "rank": 28,
+            "rank": 27,
             "title": "김민석 사퇴집회 MBC보도. 많은인원",
             "url": "https://www.clien.net/service/board/park/19299780?od=T31&po=0&category=0&groupCd=",
-            "score": 66.75
+            "score": 66.27
           },
           {
             "source": "인벤",
-            "rank": 89,
-            "title": "김민석 사퇴집회",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2757468",
-            "score": 52.29
+            "rank": 29,
+            "title": "남대문 스카프 아저씨 vs 김민석 사퇴 집회",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2757463",
+            "score": 65.69
+          },
+          {
+            "source": "클리앙",
+            "rank": 50,
+            "title": "김민석 사퇴 집회. 박수를 보내 드립니다!",
+            "url": "https://www.clien.net/service/board/park/19299769?od=T31&po=0&category=0&groupCd=",
+            "score": 61.36
+          }
+        ],
+        "rank": 1,
+        "change": 0
+      },
+      {
+        "id": "i14d31b7b",
+        "title": "‘900원’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "900원"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 82.18,
+        "peak_score": 82.18,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 12,
+            "title": "[네이버] 더빅토리아 탄산수 500ml x 40개 (13,900원/무료)",
+            "url": "https://bbs.ruliweb.com/market/board/1020/read/109445",
+            "score": 73.18
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 85,
+            "title": "[쿠팡] 우리에코 이염방지 세탁시트 100매 (4,900원/무료)",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=752550",
+            "score": 54.87
           }
         ],
         "rank": 2,
-        "change": "NEW"
-      },
-      {
-        "id": "ife021da2",
-        "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "난리난"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 92.25,
-        "peak_score": 92.25,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "뽐뿌"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 5,
-            "title": "[단독] 현재 난리난 대기업 그룹 회장 ㄷㄷ..jpg",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10204572",
-            "score": 83.25
-          },
-          {
-            "source": "더쿠",
-            "rank": 85,
-            "title": "대만에서 표현의 자유 침해라며 난리난 이슈",
-            "url": "https://theqoo.net/hot/4420451920",
-            "score": 52.95
-          }
-        ],
-        "rank": 3,
-        "change": "NEW"
-      },
-      {
-        "id": "iae209e51",
-        "title": "‘충격적인’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "충격적인"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 83.69,
-        "peak_score": 83.69,
-        "appearances": 1,
-        "sources": [
-          "디시인사이드",
-          "뽐뿌"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 9,
-            "title": "충격적인) 일본 소방관 가혹행위",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10204172",
-            "score": 74.69
-          },
-          {
-            "source": "디시인사이드",
-            "rank": 14,
-            "title": "오늘자 충격적인 대강인 현지 민심 ㄷㄷ...jpg",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=482260&_dcbest=1&page=1",
-            "score": 71.85
-          }
-        ],
-        "rank": 4,
         "change": "NEW"
       },
       {
@@ -165,8 +95,8 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 80.85,
-        "peak_score": 80.85,
+        "score": 80.96,
+        "peak_score": 80.96,
         "appearances": 1,
         "sources": [
           "더쿠",
@@ -178,29 +108,65 @@
             "rank": 14,
             "title": "오늘자 충격적인 대강인 현지 민심 ㄷㄷ...jpg",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=482260&_dcbest=1&page=1",
-            "score": 71.85
+            "score": 71.96
           },
           {
             "source": "더쿠",
-            "rank": 93,
+            "rank": 96,
             "title": "오늘자 명품 매장에서 코파는 모습 목격된 남돌",
             "url": "https://theqoo.net/hot/4420429630",
             "score": 51.63
           }
         ],
-        "rank": 5,
-        "change": "NEW"
+        "rank": 3,
+        "change": 2
       },
       {
-        "id": "ibb35f05f",
-        "title": "‘어떻게’ 관련 글이 여러 커뮤니티에서 화제",
+        "id": "i36ddd5fd",
+        "title": "‘민주당’ 관련 글이 여러 커뮤니티에서 화제",
         "keywords": [
-          "어떻게"
+          "민주당"
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 78.68,
-        "peak_score": 78.68,
+        "score": 72.93,
+        "peak_score": 72.93,
+        "appearances": 1,
+        "sources": [
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 36,
+            "title": "지금 민주당 상황은 워렌 버핏도 말한 적 있죠.",
+            "url": "https://www.clien.net/service/board/park/19299787?od=T31&po=0&category=0&groupCd=",
+            "score": 63.93
+          },
+          {
+            "source": "인벤",
+            "rank": 72,
+            "title": "이번 집회로 확실히 알게된 민주당 및 민주진영 지지층 분포도",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2757467",
+            "score": 56.99
+          }
+        ],
+        "rank": 4,
+        "change": "NEW"
+      },
+      {
+        "id": "idf3c2728",
+        "title": "친구가 내 자취방 진짜 홀애비같대",
+        "keywords": [
+          "홀애비같대",
+          "자취방",
+          "친구가"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 71.53,
+        "peak_score": 71.53,
         "appearances": 1,
         "sources": [
           "더쿠",
@@ -209,20 +175,20 @@
         "posts": [
           {
             "source": "더쿠",
-            "rank": 20,
-            "title": "MBTI 16유형 중 유일하게 잇팁만 안서운하시답니다 어떻게 안서운하지.....",
-            "url": "https://theqoo.net/hot/4420685439",
-            "score": 69.68
+            "rank": 37,
+            "title": "친구가 내 자취방 진짜 홀애비같대",
+            "url": "https://theqoo.net/hot/4420657154",
+            "score": 63.53
           },
           {
             "source": "루리웹",
-            "rank": 74,
-            "title": "MCU) JJJ 편집장!? 당신이 여긴 어떻게???.mp4",
-            "url": "https://bbs.ruliweb.com/best/board/300143/read/77545554?m=humor_only&t=now",
-            "score": 55.85
+            "rank": 78,
+            "title": "친구가 내 자취방 진짜 홀애비같대.jpg",
+            "url": "https://bbs.ruliweb.com/best/board/300143/read/77550657?m=humor_only&t=now",
+            "score": 55.61
           }
         ],
-        "rank": 6,
+        "rank": 5,
         "change": "NEW"
       },
       {
@@ -234,8 +200,8 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 72.85,
-        "peak_score": 72.85,
+        "score": 70.89,
+        "peak_score": 70.89,
         "appearances": 1,
         "sources": [
           "디시인사이드",
@@ -244,21 +210,55 @@
         "posts": [
           {
             "source": "인벤",
-            "rank": 43,
+            "rank": 45,
             "title": "원정성매매 일본 AV배우들 구속..성매수 남성들은 처벌제외?",
             "url": "https://www.inven.co.kr/board/webzine/2097/2757461",
-            "score": 63.85
+            "score": 61.89
           },
           {
             "source": "디시인사이드",
-            "rank": 53,
+            "rank": 51,
             "title": "1회당 150만원~1000만원 원정성매매 일본 av배우들 검거JPG",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=482258&_dcbest=1&page=1",
-            "score": 61.07
+            "score": 60.91
+          }
+        ],
+        "rank": 6,
+        "change": 1
+      },
+      {
+        "id": "ife021da2",
+        "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "난리난"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 62.04,
+        "peak_score": 62.04,
+        "appearances": 1,
+        "sources": [
+          "더쿠",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 89,
+            "title": "[단독] 현재 난리난 대기업 그룹 회장 ㄷㄷ..jpg",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10204572",
+            "score": 53.04
+          },
+          {
+            "source": "더쿠",
+            "rank": 95,
+            "title": "대만에서 표현의 자유 침해라며 난리난 이슈",
+            "url": "https://theqoo.net/hot/4420451920",
+            "score": 51.95
           }
         ],
         "rank": 7,
-        "change": "NEW"
+        "change": -4
       }
     ],
     "daily": [
@@ -310,9 +310,9 @@
         ],
         "source_count": 4,
         "post_count": 4,
-        "score": 108.1,
+        "score": 109.54,
         "peak_score": 86.61,
-        "appearances": 2,
+        "appearances": 3,
         "sources": [
           "루리웹",
           "뽐뿌",
@@ -321,22 +321,22 @@
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 56,
-            "title": "전두환 내란죄 재심청구 추진\"…민주당 \"조희대 사법부가 빌미 줬다",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2757364",
-            "score": 60.93
+            "source": "클리앙",
+            "rank": 36,
+            "title": "지금 민주당 상황은 워렌 버핏도 말한 적 있죠.",
+            "url": "https://www.clien.net/service/board/park/19299787?od=T31&po=0&category=0&groupCd=",
+            "score": 63.93
           },
           {
-            "source": "클리앙",
-            "rank": 70,
-            "title": "지금 민주당 망했다 이런 저런 소리 나오지만",
-            "url": "https://www.clien.net/service/board/park/19299591?od=T31&po=0&category=0&groupCd=",
-            "score": 57.55
+            "source": "인벤",
+            "rank": 72,
+            "title": "이번 집회로 확실히 알게된 민주당 및 민주진영 지지층 분포도",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2757467",
+            "score": 56.99
           }
         ],
         "first_seen": "2026-09-30T08:46:44.153676+09:00",
-        "last_seen": "2026-11-28T13:39:52.943062+09:00",
+        "last_seen": "2026-11-28T22:38:40.905075+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 2,
@@ -385,6 +385,92 @@
         "change": 0
       },
       {
+        "id": "ife021da2",
+        "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "난리난"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 103.74,
+        "peak_score": 92.25,
+        "appearances": 2,
+        "sources": [
+          "더쿠",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 89,
+            "title": "[단독] 현재 난리난 대기업 그룹 회장 ㄷㄷ..jpg",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10204572",
+            "score": 53.04
+          },
+          {
+            "source": "더쿠",
+            "rank": 95,
+            "title": "대만에서 표현의 자유 침해라며 난리난 이슈",
+            "url": "https://theqoo.net/hot/4420451920",
+            "score": 51.95
+          }
+        ],
+        "first_seen": "2026-09-29T11:40:38.000414+09:00",
+        "last_seen": "2026-11-28T22:38:40.905075+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 4,
+        "change": 1
+      },
+      {
+        "id": "i01009091",
+        "title": "남대문 스카프 아저씨 vs 김민석 사퇴 집회",
+        "keywords": [
+          "김민석",
+          "집회",
+          "사퇴"
+        ],
+        "source_count": 3,
+        "post_count": 4,
+        "score": 102.81,
+        "peak_score": 85.32,
+        "appearances": 2,
+        "sources": [
+          "뽐뿌",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 27,
+            "title": "김민석 사퇴집회 MBC보도. 많은인원",
+            "url": "https://www.clien.net/service/board/park/19299780?od=T31&po=0&category=0&groupCd=",
+            "score": 66.27
+          },
+          {
+            "source": "인벤",
+            "rank": 29,
+            "title": "남대문 스카프 아저씨 vs 김민석 사퇴 집회",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2757463",
+            "score": 65.69
+          },
+          {
+            "source": "클리앙",
+            "rank": 50,
+            "title": "김민석 사퇴 집회. 박수를 보내 드립니다!",
+            "url": "https://www.clien.net/service/board/park/19299769?od=T31&po=0&category=0&groupCd=",
+            "score": 61.36
+          }
+        ],
+        "first_seen": "2026-10-07T09:11:43.132658+09:00",
+        "last_seen": "2026-11-28T22:38:40.905075+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 3,
+        "rank": 5,
+        "change": 1
+      },
+      {
         "id": "i35612e8e",
         "title": "서빙로봇에 부딪힌 아이, 갈비탕에 화상…\"고소 진행 중\"",
         "keywords": [
@@ -424,94 +510,8 @@
         "last_seen": "2026-11-28T13:39:52.943062+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 4,
-        "change": 0
-      },
-      {
-        "id": "ife021da2",
-        "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "난리난"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 101.72,
-        "peak_score": 92.25,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "뽐뿌"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 5,
-            "title": "[단독] 현재 난리난 대기업 그룹 회장 ㄷㄷ..jpg",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10204572",
-            "score": 83.25
-          },
-          {
-            "source": "더쿠",
-            "rank": 85,
-            "title": "대만에서 표현의 자유 침해라며 난리난 이슈",
-            "url": "https://theqoo.net/hot/4420451920",
-            "score": 52.95
-          }
-        ],
-        "first_seen": "2026-09-29T11:40:38.000414+09:00",
-        "last_seen": "2026-11-28T22:17:17.669436+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 5,
-        "change": "NEW"
-      },
-      {
-        "id": "i01009091",
-        "title": "김민석 사퇴 집회. 박수를 보내 드립니다!",
-        "keywords": [
-          "김민석",
-          "사퇴",
-          "집회"
-        ],
-        "source_count": 3,
-        "post_count": 4,
-        "score": 100.79,
-        "peak_score": 85.32,
-        "appearances": 1,
-        "sources": [
-          "뽐뿌",
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 21,
-            "title": "김민석 사퇴 집회. 박수를 보내 드립니다!",
-            "url": "https://www.clien.net/service/board/park/19299769?od=T31&po=0&category=0&groupCd=",
-            "score": 69.32
-          },
-          {
-            "source": "인벤",
-            "rank": 24,
-            "title": "남대문 스카프 아저씨 vs 김민석 사퇴 집회",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2757463",
-            "score": 68.87
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 91,
-            "title": "mbc의 김민석 사퇴 집회 영상 잘 잡음",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10204728",
-            "score": 52.15
-          }
-        ],
-        "first_seen": "2026-10-07T09:11:43.132658+09:00",
-        "last_seen": "2026-11-28T22:17:17.669436+09:00",
-        "latest_source_count": 3,
-        "latest_post_count": 4,
         "rank": 6,
-        "change": "NEW"
+        "change": -2
       },
       {
         "id": "i53e1b794",
@@ -549,7 +549,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 7,
-        "change": -2
+        "change": 0
       },
       {
         "id": "i039fd79c",
@@ -589,7 +589,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 8,
-        "change": -2
+        "change": 0
       },
       {
         "id": "i1a0292b7",
@@ -627,7 +627,7 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 9,
-        "change": -2
+        "change": 0
       },
       {
         "id": "iae209e51",
@@ -665,6 +665,82 @@
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 10,
+        "change": 0
+      },
+      {
+        "id": "iead2b930",
+        "title": "‘오늘자’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "오늘자"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 92.45,
+        "peak_score": 80.96,
+        "appearances": 2,
+        "sources": [
+          "더쿠",
+          "디시인사이드"
+        ],
+        "posts": [
+          {
+            "source": "디시인사이드",
+            "rank": 14,
+            "title": "오늘자 충격적인 대강인 현지 민심 ㄷㄷ...jpg",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=482260&_dcbest=1&page=1",
+            "score": 71.96
+          },
+          {
+            "source": "더쿠",
+            "rank": 96,
+            "title": "오늘자 명품 매장에서 코파는 모습 목격된 남돌",
+            "url": "https://theqoo.net/hot/4420429630",
+            "score": 51.63
+          }
+        ],
+        "first_seen": "2026-09-28T19:49:36.308484+09:00",
+        "last_seen": "2026-11-28T22:38:40.905075+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 11,
+        "change": 1
+      },
+      {
+        "id": "i14d31b7b",
+        "title": "‘900원’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "900원"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 91.65,
+        "peak_score": 82.18,
+        "appearances": 1,
+        "sources": [
+          "루리웹",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "루리웹",
+            "rank": 12,
+            "title": "[네이버] 더빅토리아 탄산수 500ml x 40개 (13,900원/무료)",
+            "url": "https://bbs.ruliweb.com/market/board/1020/read/109445",
+            "score": 73.18
+          },
+          {
+            "source": "뽐뿌",
+            "rank": 85,
+            "title": "[쿠팡] 우리에코 이염방지 세탁시트 100매 (4,900원/무료)",
+            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=752550",
+            "score": 54.87
+          }
+        ],
+        "first_seen": "2026-10-01T00:51:55.502360+09:00",
+        "last_seen": "2026-11-28T22:38:40.905075+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 12,
         "change": "NEW"
       },
       {
@@ -702,46 +778,8 @@
         "last_seen": "2026-11-28T07:58:22.828464+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 11,
-        "change": -3
-      },
-      {
-        "id": "iead2b930",
-        "title": "‘오늘자’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "오늘자"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 90.32,
-        "peak_score": 80.85,
-        "appearances": 1,
-        "sources": [
-          "더쿠",
-          "디시인사이드"
-        ],
-        "posts": [
-          {
-            "source": "디시인사이드",
-            "rank": 14,
-            "title": "오늘자 충격적인 대강인 현지 민심 ㄷㄷ...jpg",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=482260&_dcbest=1&page=1",
-            "score": 71.85
-          },
-          {
-            "source": "더쿠",
-            "rank": 93,
-            "title": "오늘자 명품 매장에서 코파는 모습 목격된 남돌",
-            "url": "https://theqoo.net/hot/4420429630",
-            "score": 51.63
-          }
-        ],
-        "first_seen": "2026-09-28T19:49:36.308484+09:00",
-        "last_seen": "2026-11-28T22:17:17.669436+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 12,
-        "change": "NEW"
+        "rank": 13,
+        "change": -2
       },
       {
         "id": "ibb35f05f",
@@ -778,8 +816,8 @@
         "last_seen": "2026-11-28T22:17:17.669436+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 13,
-        "change": "NEW"
+        "rank": 14,
+        "change": -1
       },
       {
         "id": "i4e02d9ce",
@@ -816,8 +854,8 @@
         "last_seen": "2026-11-28T13:39:52.943062+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 14,
-        "change": -5
+        "rank": 15,
+        "change": -1
       },
       {
         "id": "ie76ac61e",
@@ -855,8 +893,8 @@
         "last_seen": "2026-11-28T22:17:17.669436+09:00",
         "latest_source_count": 2,
         "latest_post_count": 3,
-        "rank": 15,
-        "change": "NEW"
+        "rank": 16,
+        "change": -1
       },
       {
         "id": "i18d29d98",
@@ -893,8 +931,8 @@
         "last_seen": "2026-11-28T13:19:13.509768+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 16,
-        "change": -6
+        "rank": 17,
+        "change": -1
       },
       {
         "id": "i499c9863",
@@ -931,8 +969,8 @@
         "last_seen": "2026-11-28T13:19:13.509768+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 17,
-        "change": -6
+        "rank": 18,
+        "change": -1
       },
       {
         "id": "if553a5cf",
@@ -969,8 +1007,8 @@
         "last_seen": "2026-11-28T13:19:13.509768+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 18,
-        "change": -6
+        "rank": 19,
+        "change": -1
       },
       {
         "id": "ic0d4342f",
@@ -981,9 +1019,9 @@
         ],
         "source_count": 2,
         "post_count": 2,
-        "score": 82.32,
+        "score": 84.34,
         "peak_score": 72.85,
-        "appearances": 1,
+        "appearances": 2,
         "sources": [
           "디시인사이드",
           "인벤"
@@ -991,69 +1029,25 @@
         "posts": [
           {
             "source": "인벤",
-            "rank": 43,
+            "rank": 45,
             "title": "원정성매매 일본 AV배우들 구속..성매수 남성들은 처벌제외?",
             "url": "https://www.inven.co.kr/board/webzine/2097/2757461",
-            "score": 63.85
+            "score": 61.89
           },
           {
             "source": "디시인사이드",
-            "rank": 53,
+            "rank": 51,
             "title": "1회당 150만원~1000만원 원정성매매 일본 av배우들 검거JPG",
             "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=482258&_dcbest=1&page=1",
-            "score": 61.07
+            "score": 60.91
           }
         ],
         "first_seen": "2026-11-28T22:17:17.669436+09:00",
-        "last_seen": "2026-11-28T22:17:17.669436+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 19,
-        "change": "NEW"
-      },
-      {
-        "id": "i6f2d3b08",
-        "title": "6만 vs 27만…원정구매 부르는 약값, 해법 없나",
-        "keywords": [
-          "6만",
-          "vs",
-          "부르는",
-          "약값",
-          "없나",
-          "원정구매",
-          "27만"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 79.47,
-        "peak_score": 70.0,
-        "appearances": 1,
-        "sources": [
-          "인벤",
-          "클리앙"
-        ],
-        "posts": [
-          {
-            "source": "클리앙",
-            "rank": 50,
-            "title": "6만 vs 27만…원정구매 부르는 약값, 해법 없나",
-            "url": "https://www.clien.net/service/board/park/19299537?od=T31&po=0&category=0&groupCd=",
-            "score": 62.0
-          },
-          {
-            "source": "인벤",
-            "rank": 62,
-            "title": "6만 vs 27만…원정구매 부르는 약값, 해법 없나",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2757301",
-            "score": 59.93
-          }
-        ],
-        "first_seen": "2026-11-28T07:58:22.828464+09:00",
-        "last_seen": "2026-11-28T07:58:22.828464+09:00",
+        "last_seen": "2026-11-28T22:38:40.905075+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 20,
-        "change": -7
+        "change": -1
       }
     ],
     "weekly": [
@@ -1615,9 +1609,9 @@
         ],
         "source_count": 4,
         "post_count": 4,
-        "score": 108.1,
+        "score": 109.54,
         "peak_score": 86.61,
-        "appearances": 2,
+        "appearances": 3,
         "sources": [
           "루리웹",
           "뽐뿌",
@@ -1626,22 +1620,22 @@
         ],
         "posts": [
           {
-            "source": "인벤",
-            "rank": 56,
-            "title": "전두환 내란죄 재심청구 추진\"…민주당 \"조희대 사법부가 빌미 줬다",
-            "url": "https://www.inven.co.kr/board/webzine/2097/2757364",
-            "score": 60.93
+            "source": "클리앙",
+            "rank": 36,
+            "title": "지금 민주당 상황은 워렌 버핏도 말한 적 있죠.",
+            "url": "https://www.clien.net/service/board/park/19299787?od=T31&po=0&category=0&groupCd=",
+            "score": 63.93
           },
           {
-            "source": "클리앙",
-            "rank": 70,
-            "title": "지금 민주당 망했다 이런 저런 소리 나오지만",
-            "url": "https://www.clien.net/service/board/park/19299591?od=T31&po=0&category=0&groupCd=",
-            "score": 57.55
+            "source": "인벤",
+            "rank": 72,
+            "title": "이번 집회로 확실히 알게된 민주당 및 민주진영 지지층 분포도",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2757467",
+            "score": 56.99
           }
         ],
         "first_seen": "2026-09-30T08:46:44.153676+09:00",
-        "last_seen": "2026-11-28T13:39:52.943062+09:00",
+        "last_seen": "2026-11-28T22:38:40.905075+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 15,
@@ -1697,6 +1691,45 @@
         "change": 0
       },
       {
+        "id": "ife021da2",
+        "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
+        "keywords": [
+          "난리난"
+        ],
+        "source_count": 2,
+        "post_count": 2,
+        "score": 105.18,
+        "peak_score": 92.25,
+        "appearances": 3,
+        "sources": [
+          "더쿠",
+          "디시인사이드",
+          "뽐뿌"
+        ],
+        "posts": [
+          {
+            "source": "뽐뿌",
+            "rank": 89,
+            "title": "[단독] 현재 난리난 대기업 그룹 회장 ㄷㄷ..jpg",
+            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10204572",
+            "score": 53.04
+          },
+          {
+            "source": "더쿠",
+            "rank": 95,
+            "title": "대만에서 표현의 자유 침해라며 난리난 이슈",
+            "url": "https://theqoo.net/hot/4420451920",
+            "score": 51.95
+          }
+        ],
+        "first_seen": "2026-09-29T11:40:38.000414+09:00",
+        "last_seen": "2026-11-28T22:38:40.905075+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 2,
+        "rank": 17,
+        "change": 3
+      },
+      {
         "id": "i2a188a14",
         "title": "\"지 애미가 더럽게 키워 구질구질\"…박지윤 카톡 본 최동석, 파경 도화선",
         "keywords": [
@@ -1733,8 +1766,56 @@
         "last_seen": "2026-11-23T11:57:15.870334+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 17,
-        "change": 0
+        "rank": 18,
+        "change": -1
+      },
+      {
+        "id": "i01009091",
+        "title": "남대문 스카프 아저씨 vs 김민석 사퇴 집회",
+        "keywords": [
+          "김민석",
+          "집회",
+          "사퇴"
+        ],
+        "source_count": 3,
+        "post_count": 4,
+        "score": 104.25,
+        "peak_score": 85.32,
+        "appearances": 3,
+        "sources": [
+          "뽐뿌",
+          "인벤",
+          "클리앙"
+        ],
+        "posts": [
+          {
+            "source": "클리앙",
+            "rank": 27,
+            "title": "김민석 사퇴집회 MBC보도. 많은인원",
+            "url": "https://www.clien.net/service/board/park/19299780?od=T31&po=0&category=0&groupCd=",
+            "score": 66.27
+          },
+          {
+            "source": "인벤",
+            "rank": 29,
+            "title": "남대문 스카프 아저씨 vs 김민석 사퇴 집회",
+            "url": "https://www.inven.co.kr/board/webzine/2097/2757463",
+            "score": 65.69
+          },
+          {
+            "source": "클리앙",
+            "rank": 50,
+            "title": "김민석 사퇴 집회. 박수를 보내 드립니다!",
+            "url": "https://www.clien.net/service/board/park/19299769?od=T31&po=0&category=0&groupCd=",
+            "score": 61.36
+          }
+        ],
+        "first_seen": "2026-10-07T09:11:43.132658+09:00",
+        "last_seen": "2026-11-28T22:38:40.905075+09:00",
+        "latest_source_count": 2,
+        "latest_post_count": 3,
+        "rank": 19,
+        "change": "NEW"
       },
       {
         "id": "ia11a6822",
@@ -1775,85 +1856,8 @@
         "last_seen": "2026-11-28T07:58:22.828464+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
-        "rank": 18,
-        "change": 0
-      },
-      {
-        "id": "iede65e87",
-        "title": "‘바꿨다’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "바꿨다"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 104.13,
-        "peak_score": 92.64,
-        "appearances": 2,
-        "sources": [
-          "더쿠",
-          "뽐뿌"
-        ],
-        "posts": [
-          {
-            "source": "더쿠",
-            "rank": 15,
-            "title": "이부진 아들, 엄마 성으로 바꿨다…임씨에서 이씨로",
-            "url": "https://theqoo.net/hot/4415234395",
-            "score": 74.21
-          },
-          {
-            "source": "뽐뿌",
-            "rank": 49,
-            "title": "성년 된 이부진 사장 아들, 어머니 따라 '이(李)씨'로 바꿨다",
-            "url": "https://www.ppomppu.co.kr/zboard/view.php?id=news_economy&no=489785",
-            "score": 63.38
-          }
-        ],
-        "first_seen": "2026-11-23T11:33:34.071432+09:00",
-        "last_seen": "2026-11-23T11:57:15.870334+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
-        "rank": 19,
-        "change": 0
-      },
-      {
-        "id": "ife021da2",
-        "title": "‘난리난’ 관련 글이 여러 커뮤니티에서 화제",
-        "keywords": [
-          "난리난"
-        ],
-        "source_count": 2,
-        "post_count": 2,
-        "score": 103.74,
-        "peak_score": 92.25,
-        "appearances": 2,
-        "sources": [
-          "더쿠",
-          "디시인사이드",
-          "뽐뿌"
-        ],
-        "posts": [
-          {
-            "source": "뽐뿌",
-            "rank": 5,
-            "title": "[단독] 현재 난리난 대기업 그룹 회장 ㄷㄷ..jpg",
-            "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10204572",
-            "score": 83.25
-          },
-          {
-            "source": "더쿠",
-            "rank": 85,
-            "title": "대만에서 표현의 자유 침해라며 난리난 이슈",
-            "url": "https://theqoo.net/hot/4420451920",
-            "score": 52.95
-          }
-        ],
-        "first_seen": "2026-09-29T11:40:38.000414+09:00",
-        "last_seen": "2026-11-28T22:17:17.669436+09:00",
-        "latest_source_count": 2,
-        "latest_post_count": 2,
         "rank": 20,
-        "change": "NEW"
+        "change": -2
       }
     ],
     "monthly": [
@@ -2471,9 +2475,9 @@
         ],
         "source_count": 2,
         "post_count": 3,
-        "score": 124.32,
+        "score": 124.7,
         "peak_score": 104.5,
-        "appearances": 12,
+        "appearances": 13,
         "sources": [
           "더쿠",
           "디시인사이드",
@@ -2483,21 +2487,21 @@
         "posts": [
           {
             "source": "뽐뿌",
-            "rank": 5,
+            "rank": 89,
             "title": "[단독] 현재 난리난 대기업 그룹 회장 ㄷㄷ..jpg",
             "url": "https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&no=10204572",
-            "score": 83.25
+            "score": 53.04
           },
           {
             "source": "더쿠",
-            "rank": 85,
+            "rank": 95,
             "title": "대만에서 표현의 자유 침해라며 난리난 이슈",
             "url": "https://theqoo.net/hot/4420451920",
-            "score": 52.95
+            "score": 51.95
           }
         ],
         "first_seen": "2026-09-29T11:40:38.000414+09:00",
-        "last_seen": "2026-11-28T22:17:17.669436+09:00",
+        "last_seen": "2026-11-28T22:38:40.905075+09:00",
         "latest_source_count": 2,
         "latest_post_count": 2,
         "rank": 15,
